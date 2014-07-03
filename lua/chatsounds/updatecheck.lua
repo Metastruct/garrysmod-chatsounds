@@ -42,7 +42,7 @@ local done_live = false
 -- Check for new Revisions
 
 function chatsounds.CheckLiveRevision()
-	http.Fetch("http://code.google.com/feeds/p/chatsoundsforgmod/svnchanges/basic", function(content)
+	http.Fetch("http://code.google.com/feeds/p/garrysmod-chatsounds/svnchanges/basic", function(content)
 		local rev_str = string.match(content, "<title>Revision (%d*).*</title>")
 		local auth_str = string.match(content, "<name>(.-)</name>")
 		chatsounds.live_rev = tonumber(rev_str) or 0
