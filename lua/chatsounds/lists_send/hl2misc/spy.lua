@@ -1,0 +1,1548 @@
+c.StartList("spy")
+	L["here s what i have that you don a functioning liver depth perception and a pulse"] = {
+		{
+			path = "vo/spy_dominationdemoman07.wav",
+			length = 5.4346712018141,
+		},
+	}
+
+	L["may i borrow your earpiece this is scout rainbows make me cry over"] = {
+		{
+			path = "vo/spy_dominationscout06.wav",
+			length = 5.5260317460317,
+		},
+	}
+
+	L["don feel bad you did a fine job tossing your little balls around"] = {
+		{
+			path = "vo/spy_dominationdemoman04.wav",
+			length = 4.2506802721088,
+		},
+	}
+
+	L["oh soldier who will they ever find to replace you anyone laughs"] = {
+		{
+			path = "vo/spy_dominationsoldier04.wav",
+			length = 5.8826757369615,
+		},
+	}
+
+	L["so your deadly skill is jogging mine is murdering people"] = {
+		{
+			path = "vo/spy_dominationscout08.wav",
+			length = 4.9066666666667,
+		},
+	}
+
+	L["promise not to bleed on my suit and ill kill you quickly"] = {
+		{
+			path = "vo/taunts/spy_taunts01.wav",
+			length = 2.7863945578231,
+		},
+	}
+
+	L["they can bury you in the tomb of the unskilled soldier"] = {
+		{
+			path = "vo/spy_dominationsoldier05.wav",
+			length = 3.5893424036281,
+		},
+	}
+
+	L["perhaps they can bury you in the van you called home"] = {
+		{
+			path = "vo/spy_dominationsniper06.wav",
+			length = 3.8720181405896,
+		},
+	}
+
+	L["im looking at your x ray and i am afraid you suck"] = {
+		{
+			path = "vo/spy_dominationmedic04.wav",
+			length = 3.8133333333333,
+		},
+	}
+
+	L["oo you were quick as a little bunny weren t you"] = {
+		{
+			path = "vo/spy_dominationscout03.wav",
+			length = 3.7066666666667,
+		},
+	}
+
+	L["maybe your colleagues will send a man next time"] = {
+		{
+			path = "vo/spy_dominationsoldier01.wav",
+			length = 3.4080045351474,
+		},
+	}
+
+	L["what s the matter fat got your tongue laughter"] = {
+		{
+			path = "vo/spy_dominationheavy08.wav",
+			length = 4.2933333333333,
+		},
+	}
+
+	L["your precious sandwich wont save you now fatty"] = {
+		{
+			path = "vo/spy_dominationheavy06.wav",
+			length = 3.3653514739229,
+		},
+	}
+
+	L["does it hurt when i do that it does doesnt it"] = {
+		{
+			path = "vo/spy_dominationmedic06.wav",
+			length = 3.7760090702948,
+		},
+	}
+
+	L["did i throw a wrench into your plans laughter"] = {
+		{
+			path = "vo/spy_dominationengineer04.wav",
+			length = 3.36,
+		},
+	}
+
+	L["here lies scout he ran fast and died a virgin"] = {
+		{
+			path = "vo/spy_dominationscout04.wav",
+			length = 4.2666666666667,
+		},
+	}
+
+	L["ohhh you almost healed me to death that time"] = {
+		{
+			path = "vo/spy_dominationmedic03.wav",
+			length = 4.0106802721088,
+		},
+	}
+
+	L["you are an embarrassment to spies everywhere"] = {
+		{
+			path = "vo/spy_dominationspy05.wav",
+			length = 2.7813378684807,
+		},
+	}
+
+	L["at least you died for honor and my amusement"] = {
+		{
+			path = "vo/spy_dominationsoldier03.wav",
+			length = 3.8506802721088,
+		},
+	}
+
+	L["ohhh too bad this wasnt a pie eating contest"] = {
+		{
+			path = "vo/spy_dominationheavy07.wav",
+			length = 3.6373469387755,
+		},
+	}
+
+	L["go to hell and take your cheap suit with you"] = {
+		{
+			path = "vo/spy_dominationspy01.wav",
+			length = 3.0453514739229,
+		},
+	}
+
+	L["the world will thank me for this you monster"] = {
+		{
+			path = "vo/spy_dominationpyro03.wav",
+			length = 3.4293424036281,
+		},
+	}
+
+	L["im going to gut you like a cornish game hen"] = {
+		{
+			path = "vo/taunts/spy_taunts02.wav",
+			length = 3.1056689342404,
+		},
+	}
+
+	L["ive merely finished what your liver started"] = {
+		{
+			path = "vo/spy_dominationdemoman06.wav",
+			length = 2.4880045351474,
+		},
+	}
+
+	L["nothing personal i just had to shut you up"] = {
+		{
+			path = "vo/spy_dominationscout07.wav",
+			length = 3.1040136054422,
+		},
+	}
+
+	L["weren t you supposed to be good at dodging"] = {
+		{
+			path = "vo/spy_dominationscout05.wav",
+			length = 2.5546712018141,
+		},
+	}
+
+	L["would someone care to help me capture this"] = {
+		{
+			path = "vo/spy_helpmecapture03.wav",
+			length = 2.1710657596372,
+		},
+	}
+
+	L["oh fat man please this is getting awkward"] = {
+		{
+			path = "vo/spy_dominationheavy01.wav",
+			length = 3.5520181405896,
+		},
+	}
+
+	L["youre all of you quite out of your depth"] = {
+		{
+			path = "vo/taunts/spy_taunts12.wav",
+			length = 2.3278004535147,
+		},
+	}
+
+	L["not much of a quick draw are you pardner"] = {
+		{
+			path = "vo/spy_dominationengineer05.wav",
+			length = 2.6266666666667,
+		},
+	}
+
+	L["just lay your weapons down and walk away"] = {
+		{
+			path = "vo/taunts/spy_taunts09.wav",
+			length = 2.6238548752834,
+		},
+	}
+
+	L["lauging barely you are such a bad doctor"] = {
+		{
+			path = "vo/spy_dominationmedic05.wav",
+			length = 4.1333333333333,
+		},
+	}
+
+	L["yippie kie yay my dead illiterate friend"] = {
+		{
+			path = "vo/spy_dominationengineer01.wav",
+			length = 3.4506802721088,
+		},
+	}
+
+	L["dominated you fatuous fatheaded fat man"] = {
+		{
+			path = "vo/spy_dominationheavy04.wav",
+			length = 3.5146712018141,
+		},
+	}
+
+	L["well the moment has passed back to work"] = {
+		{
+			path = "vo/taunts/spy_highfive_success05.wav",
+			length = 2.2138321995465,
+		},
+	}
+
+	L["the black scottish cyclops now extinct"] = {
+		{
+			path = "vo/spy_dominationdemoman05.wav",
+			length = 3.6,
+		},
+	}
+
+	L["thank you for being such a dear friend"] = {
+		{
+			path = "vo/spy_specialcompleted08.wav",
+			length = 2.5019501133787,
+		},
+	}
+
+	L["ill see you in hell you handsome rogue"] = {
+		{
+			path = "vo/spy_dominationspy04.wav",
+			length = 4.1333333333333,
+		},
+	}
+
+	L["this will be the last time you see me"] = {
+		{
+			path = "vo/taunts/spy_taunts16.wav",
+			length = 2.4439002267574,
+		},
+	}
+
+	L["burn in hell you mumbling abomination"] = {
+		{
+			path = "vo/spy_dominationpyro04.wav",
+			length = 3.3973469387755,
+		},
+	}
+
+	L["i dominate you you sluggish simpleton"] = {
+		{
+			path = "vo/spy_dominationsoldier02.wav",
+			length = 2.9706802721088,
+		},
+	}
+
+	L["the outcome was never really in doubt"] = {
+		{
+			path = "vo/spy_cheers07.wav",
+			length = 1.9330612244898,
+		},
+	}
+
+	L["laughter really is the best medicine"] = {
+		{
+			path = "vo/spy_dominationmedic01.wav",
+			length = 4.2880045351474,
+		},
+	}
+
+	L["come stand on the point you imbecile"] = {
+		{
+			path = "vo/spy_standonthepoint04.wav",
+			length = 2.0897959183673,
+		},
+	}
+
+	L["you died as you lived morbidly obese"] = {
+		{
+			path = "vo/spy_dominationheavy05.wav",
+			length = 3.6160090702948,
+		},
+	}
+
+	L["you died as you lived running away"] = {
+		{
+			path = "vo/spy_dominationscout02.wav",
+			length = 3.1520181405896,
+		},
+	}
+
+	L["i appear to have burst into flames"] = {
+		{
+			path = "vo/spy_autoonfire01.wav",
+			length = 1.8401814058957,
+		},
+	}
+
+	L["come stand on the point you idiot"] = {
+		{
+			path = "vo/spy_standonthepoint02.wav",
+			length = 1.8285714285714,
+		},
+	}
+
+	L["i have been shown who is the boss"] = {
+		{
+			path = "vo/spy_jaratehit04.wav",
+			length = 3.2533333333333,
+		},
+	}
+
+	L["i could use a hand defending here"] = {
+		{
+			path = "vo/spy_helpmedefend03.wav",
+			length = 1.7705215419501,
+		},
+	}
+
+	L["everyone back to the base pardner"] = {
+		{
+			path = "vo/taunts/spy_taunts08.wav",
+			length = 2.2813605442177,
+		},
+	}
+
+	L["dominated you mush mouthed freak"] = {
+		{
+			path = "vo/spy_dominationpyro01.wav",
+			length = 2.9653514739229,
+		},
+	}
+
+	L["kaboom indeed you drunken wretch"] = {
+		{
+			path = "vo/spy_dominationdemoman01.wav",
+			length = 2.9973469387755,
+		},
+	}
+
+	L["why dont we just give up pardner"] = {
+		{
+			path = "vo/taunts/spy_taunts07.wav",
+			length = 1.8924263038549,
+		},
+	}
+
+	L["good lord you fight like a woman"] = {
+		{
+			path = "vo/spy_dominationpyro02.wav",
+			length = 2.4240136054422,
+		},
+	}
+
+	L["laughing you live a van laughing"] = {
+		{
+			path = "vo/spy_dominationsniper04.wav",
+			length = 3.6,
+		},
+	}
+
+	L["i never really was on your side"] = {
+		{
+			path = "vo/spy_specialcompleted07.wav",
+			length = 1.9446712018141,
+		},
+	}
+
+	L["hows that bottle of scrumpy now"] = {
+		{
+			path = "vo/spy_dominationdemoman02.wav",
+			length = 1.9413378684807,
+		},
+	}
+
+	L["lets settle this like gentlemen"] = {
+		{
+			path = "vo/spy_meleedare01.wav",
+			length = 1.8560090702948,
+		},
+	}
+
+	L["they should call you whiners dr"] = {
+		{
+			path = "vo/taunts/spy_taunts14.wav",
+			length = 3.9590022675737,
+		},
+	}
+
+	L["you look like death warmed over"] = {
+		{
+			path = "vo/spy_dominationpyro05.wav",
+			length = 3.9786848072562,
+		},
+	}
+
+	L["you are all incompetent cowards"] = {
+		{
+			path = "vo/taunts/spy_taunts03.wav",
+			length = 2.0607709750567,
+		},
+	}
+
+	L["it seems i am not the only spy"] = {
+		{
+			path = "vo/spy_cloakedspy01.wav",
+			length = 2.2581405895692,
+		},
+	}
+
+	L["im back you subnormal half wit"] = {
+		{
+			path = "vo/spy_revenge02.wav",
+			length = 2.8373469387755,
+		},
+	}
+
+	L["well this was a disappointment"] = {
+		{
+			path = "vo/spy_jeers02.wav",
+			length = 1.5789569160998,
+		},
+	}
+
+	L["you know hiding wont save you"] = {
+		{
+			path = "vo/taunts/spy_taunts13.wav",
+			length = 2.252335600907,
+		},
+	}
+
+	L["you are an amateur and a fool"] = {
+		{
+			path = "vo/spy_dominationspy03.wav",
+			length = 2.2480045351474,
+		},
+	}
+
+	L["well off to visit your mother"] = {
+		{
+			path = "vo/spy_dominationscout01.wav",
+			length = 2.2106802721088,
+		},
+	}
+
+	L["oh dear ive made quite a mess"] = {
+		{
+			path = "vo/spy_specialcompleted03.wav",
+			length = 2.118820861678,
+		},
+	}
+
+	L["idiot come stand on the point"] = {
+		{
+			path = "vo/spy_standonthepoint03.wav",
+			length = 2.1594557823129,
+		},
+	}
+
+	L["you digust me filthy jar man"] = {
+		{
+			path = "vo/spy_dominationsniper02.wav",
+			length = 3.0186848072562,
+		},
+	}
+
+	L["clearly they were outclassed"] = {
+		{
+			path = "vo/spy_cheers08.wav",
+			length = 1.5615419501134,
+		},
+	}
+
+	L["i murdered your toys as well"] = {
+		{
+			path = "vo/spy_specialcompleted05.wav",
+			length = 1.8459863945578,
+		},
+	}
+
+	L["good day to you mate laughs"] = {
+		{
+			path = "vo/spy_dominationsniper07.wav",
+			length = 3.1840136054422,
+		},
+	}
+
+	L["may i make a suggestion run"] = {
+		{
+			path = "vo/taunts/spy_taunts11.wav",
+			length = 2.3742403628118,
+		},
+	}
+
+	L["that is a diet i call death"] = {
+		{
+			path = "vo/spy_dominationheavy03.wav",
+			length = 2.5920181405896,
+		},
+	}
+
+	L["sorry to pop in unannounced"] = {
+		{
+			path = "vo/spy_specialcompleted04.wav",
+			length = 1.985306122449,
+		},
+	}
+
+	L["we all knew you were a spy"] = {
+		{
+			path = "vo/spy_dominationspy02.wav",
+			length = 2.0773469387755,
+		},
+	}
+
+	L["activate the charge doctor"] = {
+		{
+			path = "vo/spy_activatecharge01.wav",
+			length = 1.3148299319728,
+		},
+	}
+
+	L["more defense required here"] = {
+		{
+			path = "vo/spy_helpmedefend02.wav",
+			length = 1.6950566893424,
+		},
+	}
+
+	L["boo you repulsive bushman"] = {
+		{
+			path = "vo/spy_dominationsniper01.wav",
+			length = 2.5720181405896,
+		},
+	}
+
+	L["that spy is not one of us"] = {
+		{
+			path = "vo/spy_cloakedspyidentify07.wav",
+			length = 1.323537414966,
+		},
+	}
+
+	L["help me capture the point"] = {
+		{
+			path = "vo/spy_helpmecapture02.wav",
+			length = 1.3990022675737,
+		},
+	}
+
+	L["come help me capture this"] = {
+		{
+			path = "vo/spy_helpmecapture01.wav",
+			length = 1.5092970521542,
+		},
+	}
+
+	L["oh please just stay down"] = {
+		{
+			path = "vo/spy_dominationsniper05.wav",
+			length = 2.4266666666667,
+		},
+	}
+
+	L["was there ever any doubt"] = {
+		{
+			path = "vo/spy_autocappedintelligence01.wav",
+			length = 1.3148299319728,
+		},
+	}
+
+	L["you got blood on my suit"] = {
+		{
+			path = "vo/spy_specialcompleted11.wav",
+			length = 1.4918820861678,
+		},
+	}
+
+	L["place a teleporter here"] = {
+		{
+			path = "vo/spy_needteleporter01.wav",
+			length = 1.3525623582766,
+		},
+	}
+
+	L["i do believe im on fire"] = {
+		{
+			path = "vo/spy_autoonfire03.wav",
+			length = 1.3612698412698,
+		},
+	}
+
+	L["come stand on the point"] = {
+		{
+			path = "vo/spy_standonthepoint01.wav",
+			length = 1.2770975056689,
+		},
+	}
+
+	L["did you forget about me"] = {
+		{
+			path = "vo/spy_revenge03.wav",
+			length = 1.7173469387755,
+		},
+	}
+
+	L["at your pleasure doctor"] = {
+		{
+			path = "vo/spy_activatecharge02.wav",
+			length = 1.1058503401361,
+		},
+	}
+
+	L["much appreciated doctor"] = {
+		{
+			path = "vo/spy_thanksfortheheal03.wav",
+			length = 1.544126984127,
+		},
+	}
+
+	L["you disgust me fat man"] = {
+		{
+			path = "vo/spy_dominationheavy02.wav",
+			length = 2.5040136054422,
+		},
+	}
+
+	L["i appreciate your help"] = {
+		{
+			path = "vo/spy_specialcompleted-assistedkill01.wav",
+			length = 1.3815873015873,
+		},
+	}
+
+	L["move these machines up"] = {
+		{
+			path = "vo/spy_moveup02.wav",
+			length = 1.3003174603175,
+		},
+	}
+
+	L["place a dispenser here"] = {
+		{
+			path = "vo/spy_needdispenser01.wav",
+			length = 1.2625850340136,
+		},
+	}
+
+	L["some assistance please"] = {
+		{
+			path = "vo/spy_helpme02.wav",
+			length = 1.2770975056689,
+		},
+	}
+
+	L["my appreciation amigo"] = {
+		{
+			path = "vo/spy_specialcompleted-assistedkill02.wav",
+			length = 1.590566893424,
+		},
+	}
+
+	L["not our finest moment"] = {
+		{
+			path = "vo/spy_jeers05.wav",
+			length = 1.590566893424,
+		},
+	}
+
+	L["the engineer is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify09.wav",
+			length = 1.4048072562358,
+		},
+	}
+
+	L["medeeec medeec medeec"] = {
+		{
+			path = "vo/spy_dominationmedic02.wav",
+			length = 3.8106802721088,
+		},
+	}
+
+	L["happy trails laborer"] = {
+		{
+			path = "vo/spy_dominationengineer03.wav",
+			length = 2.2133333333333,
+		},
+	}
+
+	L["move these things up"] = {
+		{
+			path = "vo/spy_moveup01.wav",
+			length = 1.012970521542,
+		},
+	}
+
+	L["that spy is an enemy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify06.wav",
+			length = 1.2219501133787,
+		},
+	}
+
+	L["i require assistance"] = {
+		{
+			path = "vo/spy_helpme03.wav",
+			length = 1.5673469387755,
+		},
+	}
+
+	L["doctor if you please"] = {
+		{
+			path = "vo/spy_activatecharge03.wav",
+			length = 1.190022675737,
+		},
+	}
+
+	L["the demoman is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify05.wav",
+			length = 1.4454421768707,
+		},
+	}
+
+	L["the soldier is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify02.wav",
+			length = 1.2074376417234,
+		},
+	}
+
+	L["ha ha ha ha ha ha ha"] = {
+		{
+			path = "vo/spy_laughevil01.wav",
+			length = 2.0027210884354,
+		},
+	}
+
+	L["hello again dumbbell"] = {
+		{
+			path = "vo/spy_revenge01.wav",
+			length = 1.8293424036281,
+		},
+	}
+
+	L["what did they expect"] = {
+		{
+			path = "vo/spy_cheers04.wav",
+			length = 1.3061224489796,
+		},
+	}
+
+	L["that was unfortunate"] = {
+		{
+			path = "vo/spy_autodejectedtie01.wav",
+			length = 1.5731519274376,
+		},
+	}
+
+	L["thank you my friend"] = {
+		{
+			path = "vo/spy_thanksfortheteleporter02.wav",
+			length = 1.015873015873,
+		},
+	}
+
+	L["the sniper is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify10.wav",
+			length = 1.3873922902494,
+		},
+	}
+
+	L["giddyup now to hell"] = {
+		{
+			path = "vo/spy_dominationengineer06.wav",
+			length = 2.1386848072562,
+		},
+	}
+
+	L["place a sentry here"] = {
+		{
+			path = "vo/spy_needsentry01.wav",
+			length = 1.0565079365079,
+		},
+	}
+
+	L["our influence grows"] = {
+		{
+			path = "vo/spy_autocappedcontrolpoint02.wav",
+			length = 1.4280272108844,
+		},
+	}
+
+	L["i must be dreaming"] = {
+		{
+			path = "vo/spy_autodejectedtie02.wav",
+			length = 1.6137868480726,
+		},
+	}
+
+	L["all in a days work"] = {
+		{
+			path = "vo/spy_cheers01.wav",
+			length = 1.2887074829932,
+		},
+	}
+
+	L["the scout is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify01.wav",
+			length = 1.2480725623583,
+		},
+	}
+
+	L["the medic is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify08.wav",
+			length = 1.3380498866213,
+		},
+	}
+
+	L["you have done well"] = {
+		{
+			path = "vo/spy_goodjob03.wav",
+			length = 0.89977324263039,
+		},
+	}
+
+	L["the heavy is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify03.wav",
+			length = 1.1377777777778,
+		},
+	}
+
+	L["im coming for you"] = {
+		{
+			path = "vo/taunts/spy_taunts10.wav",
+			length = 1.8750113378685,
+		},
+	}
+
+	L["kaboom to you sir"] = {
+		{
+			path = "vo/spy_dominationdemoman03.wav",
+			length = 1.6533333333333,
+		},
+	}
+
+	L["thank you laborer"] = {
+		{
+			path = "vo/spy_thanksfortheteleporter01.wav",
+			length = 0.96943310657596,
+		},
+	}
+
+	L["pain death scream"] = {
+		{
+			path = "vo/spy_paincrticialdeath02.wav",
+			length = 1.9040362811791,
+		},
+	}
+
+	L["sentry just ahead"] = {
+		{
+			path = "vo/spy_sentryahead01.wav",
+			length = 1.0419954648526,
+		},
+	}
+
+	L["the pyro is a spy"] = {
+		{
+			path = "vo/spy_cloakedspyidentify04.wav",
+			length = 1.3728798185941,
+		},
+	}
+
+	L["ill be seeing you"] = {
+		{
+			path = "vo/taunts/spy_taunts04.wav",
+			length = 2.2755555555556,
+		},
+	}
+
+	L["i did all i could"] = {
+		{
+			path = "vo/spy_jeers03.wav",
+			length = 1.0361904761905,
+		},
+	}
+
+	L["with my apologies"] = {
+		{
+			path = "vo/spy_specialcompleted02.wav",
+			length = 1.4280272108844,
+		},
+	}
+
+	L["follow me doctor"] = {
+		{
+			path = "vo/spy_medicfollow02.wav",
+			length = 1.0160090702948,
+		},
+	}
+
+	L["thank you doctor"] = {
+		{
+			path = "vo/spy_thanksfortheheal02.wav",
+			length = 0.77786848072562,
+		},
+	}
+
+	L["coward disgusted"] = {
+		{
+			path = "vo/spy_specialcompleted09.wav",
+			length = 0.59501133786848,
+		},
+	}
+
+	L["cheers engineers"] = {
+		{
+			path = "vo/spy_thanksfortheteleporter03.wav",
+			length = 1.149387755102,
+		},
+	}
+
+	L["is this mon dieu"] = {
+		{
+			path = "vo/spy_jaratehit01.wav",
+			length = 2.8613378684807,
+		},
+	}
+
+	L["spy in our midst"] = {
+		{
+			path = "vo/spy_cloakedspy02.wav",
+			length = 1.0332879818594,
+		},
+	}
+
+	L["what a disaster"] = {
+		{
+			path = "vo/spy_jeers04.wav",
+			length = 1.4686621315193,
+		},
+	}
+
+	L["throat clearing"] = {
+		{
+			path = "vo/spy_battlecry04.wav",
+			length = 0.78657596371882,
+		},
+	}
+
+	L["this way doctor"] = {
+		{
+			path = "vo/spy_medicfollow01.wav",
+			length = 0.96267573696145,
+		},
+	}
+
+	L["jarate noooooo"] = {
+		{
+			path = "vo/spy_jaratehit02.wav",
+			length = 3.0666666666667,
+		},
+	}
+
+	L["help me defend"] = {
+		{
+			path = "vo/spy_helpmedefend01.wav",
+			length = 1.1580952380952,
+		},
+	}
+
+	L["admirable shot"] = {
+		{
+			path = "vo/spy_niceshot02.wav",
+			length = 1.0942403628118,
+		},
+	}
+
+	L["fire fire fire"] = {
+		{
+			path = "vo/spy_autoonfire02.wav",
+			length = 1.3554648526077,
+		},
+	}
+
+	L["you disgust me"] = {
+		{
+			path = "vo/spy_specialcompleted10.wav",
+			length = 1.2016326530612,
+		},
+	}
+
+	L["superior shot"] = {
+		{
+			path = "vo/spy_niceshot03.wav",
+			length = 1.3061224489796,
+		},
+	}
+
+	L["spy gentlemen"] = {
+		{
+			path = "vo/spy_cloakedspy03.wav",
+			length = 1.0042630385488,
+		},
+	}
+
+	L["cheers doctor"] = {
+		{
+			path = "vo/spy_thanksfortheheal01.wav",
+			length = 0.99845804988662,
+		},
+	}
+
+	L["im afraid not"] = {
+		{
+			path = "vo/spy_no03.wav",
+			length = 0.93750566893424,
+		},
+	}
+
+	L["but of course"] = {
+		{
+			path = "vo/spy_cheers03.wav",
+			length = 1.1319727891156,
+		},
+	}
+
+	L["howdy pardner"] = {
+		{
+			path = "vo/spy_dominationengineer02.wav",
+			length = 1.2133333333333,
+		},
+	}
+
+	L["spy among us"] = {
+		{
+			path = "vo/spy_cloakedspy04.wav",
+			length = 1.3583673469388,
+		},
+	}
+
+	L["slap my hand"] = {
+		{
+			path = "vo/taunts/spy_highfive01.wav",
+			length = 0.95809523809524,
+		},
+	}
+
+	L["heartwarming"] = {
+		{
+			path = "vo/spy_cheers02.wav",
+			length = 0.98684807256236,
+		},
+	}
+
+	L["well done us"] = {
+		{
+			path = "vo/spy_autocappedcontrolpoint01.wav",
+			length = 1.0448979591837,
+		},
+	}
+
+	L["preposterous"] = {
+		{
+			path = "vo/spy_negativevocalization03.wav",
+			length = 0.98975056689342,
+		},
+	}
+
+	L["queens rules"] = {
+		{
+			path = "vo/spy_meleedare02.wav",
+			length = 1.1586848072562,
+		},
+	}
+
+	L["sentry ahead"] = {
+		{
+			path = "vo/spy_sentryahead02.wav",
+			length = 0.87074829931973,
+		},
+	}
+
+	L["to the right"] = {
+		{
+			path = "vo/spy_headright02.wav",
+			length = 0.75174603174603,
+		},
+	}
+
+	L["let us move"] = {
+		{
+			path = "vo/spy_go02.wav",
+			length = 0.92879818594104,
+		},
+	}
+
+	L["short laugh"] = {
+		{
+			path = "vo/spy_laughshort06.wav",
+			length = 0.63854875283447,
+		},
+	}
+
+	L["happy laugh"] = {
+		{
+			path = "vo/spy_laughhappy03.wav",
+			length = 1.6660317460317,
+		},
+	}
+
+	L["i think not"] = {
+		{
+			path = "vo/spy_no01.wav",
+			length = 0.85333333333333,
+		},
+	}
+
+	L["well played"] = {
+		{
+			path = "vo/spy_goodjob01.wav",
+			length = 1.1580952380952,
+		},
+	}
+
+	L["many thanks"] = {
+		{
+			path = "vo/spy_thanks02.wav",
+			length = 0.76916099773243,
+		},
+	}
+
+	L["my pleasure"] = {
+		{
+			path = "vo/spy_autocappedintelligence02.wav",
+			length = 1.0507029478458,
+		},
+	}
+
+	L["to the left"] = {
+		{
+			path = "vo/spy_headleft02.wav",
+			length = 0.72562358276644,
+		},
+	}
+
+	L["severe pain"] = {
+		{
+			path = "vo/spy_painsevere01.wav",
+			length = 0.91863945578231,
+		},
+	}
+
+	L["magnificent"] = {
+		{
+			path = "vo/spy_positivevocalization03.wav",
+			length = 1.0042630385488,
+		},
+	}
+
+	L["nyahhhhhhh"] = {
+		{
+			path = "vo/spy_negativevocalization08.wav",
+			length = 0.87365079365079,
+		},
+	}
+
+	L["i hate you"] = {
+		{
+			path = "vo/spy_jaratehit03.wav",
+			length = 2.2240136054422,
+		},
+	}
+
+	L["first rate"] = {
+		{
+			path = "vo/spy_positivevocalization04.wav",
+			length = 0.82430839002268,
+		},
+	}
+
+	L["peek a boo"] = {
+		{
+			path = "vo/taunts/spy_taunts06.wav",
+			length = 0.6269387755102,
+		},
+	}
+
+	L["thank you"] = {
+		{
+			path = "vo/spy_thanks03.wav",
+			length = 0.58920634920635,
+		},
+	}
+
+	L["top shelf"] = {
+		{
+			path = "vo/spy_positivevocalization05.wav",
+			length = 0.91138321995465,
+		},
+	}
+
+	L["excellent"] = {
+		{
+			path = "vo/spy_positivevocalization01.wav",
+			length = 0.91428571428571,
+		},
+	}
+
+	L["of course"] = {
+		{
+			path = "vo/spy_yes03.wav",
+			length = 0.71691609977324,
+		},
+	}
+
+	L["nice shot"] = {
+		{
+			path = "vo/spy_niceshot01.wav",
+			length = 0.86204081632653,
+		},
+	}
+
+	L["oh please"] = {
+		{
+			path = "vo/spy_negativevocalization05.wav",
+			length = 1.012970521542,
+		},
+	}
+
+	L["apologies"] = {
+		{
+			path = "vo/spy_specialcompleted01.wav",
+			length = 1.012970521542,
+		},
+	}
+
+	L["gentlemen"] = {
+		{
+			path = "vo/spy_battlecry01.wav",
+			length = 0.72852607709751,
+		},
+	}
+
+	L["pardon me"] = {
+		{
+			path = "vo/spy_specialcompleted06.wav",
+			length = 0.55437641723356,
+		},
+	}
+
+	L["after you"] = {
+		{
+			path = "vo/spy_battlecry03.wav",
+			length = 0.61968253968254,
+		},
+	}
+
+	L["naturally"] = {
+		{
+			path = "vo/spy_cheers05.wav",
+			length = 0.76625850340136,
+		},
+	}
+
+	L["splendid"] = {
+		{
+			path = "vo/spy_positivevocalization02.wav",
+			length = 0.74303854875283,
+		},
+	}
+
+	L["surprise"] = {
+		{
+			path = "vo/spy_specialcompleted12.wav",
+			length = 0.98975056689342,
+		},
+	}
+
+	L["textless"] = {
+		{
+			path = "vo/spy_painsharp01.wav",
+			length = 0.48834467120181,
+		},
+	}
+
+	L["oh merde"] = {
+		{
+			path = "vo/spy_jeers06.wav",
+			length = 1.6253968253968,
+		},
+	}
+
+	L["you suck"] = {
+		{
+			path = "vo/taunts/spy_taunts15.wav",
+			length = 1.1203628117914,
+		},
+	}
+
+	L["shall we"] = {
+		{
+			path = "vo/spy_battlecry02.wav",
+			length = 0.63854875283447,
+		},
+	}
+
+	L["fine job"] = {
+		{
+			path = "vo/spy_goodjob02.wav",
+			length = 1.0565079365079,
+		},
+	}
+
+	L["awwwhhhh"] = {
+		{
+			path = "vo/spy_negativevocalization09.wav",
+			length = 0.72562358276644,
+		},
+	}
+
+	L["go right"] = {
+		{
+			path = "vo/spy_headright03.wav",
+			length = 0.77206349206349,
+		},
+	}
+
+	L["incoming"] = {
+		{
+			path = "vo/spy_incoming01.wav",
+			length = 0.81124716553288,
+		},
+	}
+
+	L["go left"] = {
+		{
+			path = "vo/spy_headleft03.wav",
+			length = 0.69369614512472,
+		},
+	}
+
+	L["whistle"] = {
+		{
+			path = "vo/taunts/spy_taunts05.wav",
+			length = 1.7298866213152,
+		},
+	}
+
+	L["proceed"] = {
+		{
+			path = "vo/spy_go03.wav",
+			length = 0.63274376417234,
+		},
+	}
+
+	L["agghhh"] = {
+		{
+			path = "vo/spy_jaratehit06.wav",
+			length = 1.5466666666667,
+		},
+	}
+
+	L["doctor"] = {
+		{
+			path = "vo/spy_medic01.wav",
+			length = 0.77206349206349,
+		},
+	}
+
+	L["cheers"] = {
+		{
+			path = "vo/spy_autocappedintelligence03.wav",
+			length = 0.77206349206349,
+		},
+	}
+
+	L["severe"] = {
+		{
+			path = "vo/spy_painsevere03.wav",
+			length = 0.77206349206349,
+		},
+	}
+
+	L["jarate"] = {
+		{
+			path = "vo/spy_jaratehit05.wav",
+			length = 2.2066666666667,
+		},
+	}
+
+	L["ahhhhh"] = {
+		{
+			path = "vo/spy_negativevocalization02.wav",
+			length = 0.72562358276644,
+		},
+	}
+
+	L["happy"] = {
+		{
+			path = "vo/spy_laughhappy02.wav",
+			length = 1.1290702947846,
+		},
+	}
+
+	L["hisss"] = {
+		{
+			path = "vo/spy_jeers01.wav",
+			length = 0.89687074829932,
+		},
+	}
+
+	L["right"] = {
+		{
+			path = "vo/spy_headright01.wav",
+			length = 0.49342403628118,
+		},
+	}
+
+	L["groan"] = {
+		{
+			path = "vo/spy_autodejectedtie03.wav",
+			length = 1.1842176870748,
+		},
+	}
+
+	L["ahhhh"] = {
+		{
+			path = "vo/spy_negativevocalization07.wav",
+			length = 0.45859410430839,
+		},
+	}
+
+	L["medic"] = {
+		{
+			path = "vo/spy_medic03.wav",
+			length = 0.54566893424036,
+		},
+	}
+
+	L["oh no"] = {
+		{
+			path = "vo/spy_negativevocalization06.wav",
+			length = 1.1058503401361,
+		},
+	}
+
+	L["short"] = {
+		{
+			path = "vo/spy_laughshort05.wav",
+			length = 0.77786848072562,
+		},
+	}
+
+	L["ohaea"] = {
+		{
+			path = "vo/spy_paincrticialdeath01.wav",
+			length = 2.2581405895692,
+		},
+	}
+
+	L["move"] = {
+		{
+			path = "vo/spy_go01.wav",
+			length = 0.57759637188209,
+		},
+	}
+
+	L["left"] = {
+		{
+			path = "vo/spy_headleft01.wav",
+			length = 0.55437641723356,
+		},
+	}
+
+	L["long"] = {
+		{
+			path = "vo/spy_laughlong01.wav",
+			length = 6.4667573696145,
+		},
+	}
+
+	L["help"] = {
+		{
+			path = "vo/spy_helpme01.wav",
+			length = 0.4324716553288,
+		},
+	}
+
+	L["evil"] = {
+		{
+			path = "vo/spy_laughevil02.wav",
+			length = 1.4686621315193,
+		},
+	}
+
+	L["yes"] = {
+		{
+			path = "vo/taunts/spy_highfive_success02.wav",
+			length = 1.0989115646259,
+		},
+	}
+
+	L["no"] = {
+		{
+			path = "vo/spy_no02.wav",
+			length = 0.4237641723356,
+		},
+	}
+c.EndList()

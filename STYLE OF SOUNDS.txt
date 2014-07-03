@@ -1,0 +1,21 @@
+Chatsounds has a certain type of humor that I try to enforce. The best way to explain this is just to listen to the examples in "chatsounds/style/*"
+
+If you don't agree you probably shouldn't add any sounds.
+
+rule of thumb:
+
+	BAD:
+		sounds that are designed to be funny
+		memes
+		MLP
+		high pitched anime
+		voices from lets players on youtube
+
+	GOOD:
+		bad voice acting
+		voice sounds from games
+		sounds that try to be funny but are so unfunny that they become funny
+		sounds that aren't funny at all but has the potential to become funny when used together with other chatsounds
+		
+
+Sounds from games are especially good because they were made for a specific context. When taken out of its context the sound doesn't make sense and thus becomes a tool to assemble your own context by using it in combination with other sounds.
