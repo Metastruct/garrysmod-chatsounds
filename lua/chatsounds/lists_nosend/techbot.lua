@@ -47,6 +47,7 @@ L["oh"]={{path="chatsounds/autoadd/techbot/oh.ogg",length=0.45859410430839004},}
 L["omg"]={{path="chatsounds/autoadd/techbot/omg.ogg",length=2.9184580498866213},}
 L["opqrstusb"]={{path="chatsounds/autoadd/techbot/opqrstusb.ogg",length=2.0041723356009071},}
 L["roman"]={{path="chatsounds/autoadd/techbot/roman.ogg",length=3.0926077097505669},}
+L["sad violin"]={{path="chatsounds/autoadd/techbot/sad violin.ogg",length=22.608027210884355},}
 L["scared"]={{path="chatsounds/autoadd/techbot/scared.ogg",length=2.3147392290249433},}
 L["seriously do it"]={{path="chatsounds/autoadd/techbot/seriously do it.ogg",length=2.0302947845804988},}
 L["skrillfeld"]={{path="chatsounds/autoadd/techbot/skrillfeld.ogg",length=2.4569614512471656},}
