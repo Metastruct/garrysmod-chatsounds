@@ -29,6 +29,7 @@ L["damn son whered you find this"]={{path="chatsounds/autoadd/verbalsilence/damn
 L["dats sexy"]={{path="chatsounds/autoadd/verbalsilence/dats sexy.ogg",length=1.3155102040816327},}
 L["der right der wtf is this watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/der right der wtf is this watch your profanity.ogg",length=6.2432653061224492},}
 L["ding dong bannu"]={{path="chatsounds/autoadd/verbalsilence/ding dong bannu.ogg",length=0.92897959183673473},}
+L["do i look like i know what a jpeg is i just want a picture of a god dang hot dog"]={{path="chatsounds/autoadd/verbalsilence/do i look like i know what a jpeg is i just want a picture of a god dang hot dog.ogg",length=6.0081632653061225},}
 L["do you believe in a flying spaghetti monster too bubblehead"]={{path="chatsounds/autoadd/verbalsilence/do you believe in a flying spaghetti monster too bubblehead.ogg",length=3.1112698412698414},}
 L["do you know who i am"]={{path="chatsounds/autoadd/verbalsilence/do you know who i am.ogg",length=1.9214512471655329},}
 L["dont drop that durka durk"]={{path="chatsounds/autoadd/verbalsilence/dont drop that durka durk.ogg",length=4.5857823129251702},}
