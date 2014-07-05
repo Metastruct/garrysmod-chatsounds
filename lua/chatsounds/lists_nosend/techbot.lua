@@ -19,7 +19,9 @@ L["duh oh oh"]={{path="chatsounds/autoadd/techbot/duh oh oh.ogg",length=1.352562
 L["dysd"]={{path="chatsounds/autoadd/techbot/dysd.ogg",length=1.3322448979591837},}
 L["erotic"]={{path="chatsounds/autoadd/techbot/erotic.ogg",length=1.0481405895691609},}
 L["fack"]={{path="chatsounds/autoadd/techbot/fack.ogg",length=0.31637188208616779},}
+L["faens jarvla helvetes kukhore rarvhol fitte drittballe"]={{path="chatsounds/autoadd/techbot/faens jarvla helvetes kukhore rarvhol fitte drittballe.ogg",length=5.571496598639456},}
 L["fuck"]={{path="chatsounds/autoadd/techbot/fuck.ogg",length=0.79818594104308394},}
+L["fucking damn hell cockwhore asshole cunt shitballs"]={{path="chatsounds/autoadd/techbot/fucking damn hell cockwhore asshole cunt shitballs.ogg",length=3.2522448979591836},}
 L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",length=2.8923356009070296},}
 L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.3975510204081634},}
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.7501133786848073},}
