@@ -94,7 +94,7 @@ L["i have a strange urge to penetrate these females"]={{path="chatsounds/autoadd
 L["i have special eyes"]={{path="chatsounds/autoadd/verbalsilence/i have special eyes.ogg",length=1.8124489795918368},}
 L["i have to go"]={{path="chatsounds/autoadd/verbalsilence/i have to go.ogg",length=0.58573696145124721},}
 L["i like your ass"]={{path="chatsounds/autoadd/verbalsilence/i like your ass.ogg",length=0.87333333333333329},}
-L["i love little girls"]={{path="chatsounds/autoadd/verbalsilence/i love little girls.ogg",length=77.766530612244892},}
+L["i love little girls"]={{path="chatsounds/autoadd/verbalsilence/i love little girls.ogg",length=19.467959183673468},}
 L["i need mouth to ass resuscitation"]={{path="chatsounds/autoadd/verbalsilence/i need mouth to ass resuscitation.ogg",length=2.6238321995464853},}
 L["i should go"]={{path="chatsounds/autoadd/verbalsilence/i should go.ogg",length=0.63684807256235831},}
 L["i should let you go"]={{path="chatsounds/autoadd/verbalsilence/i should let you go.ogg",length=0.78619047619047622},}
@@ -146,7 +146,7 @@ L["oh you better believe thats a bannu"]={{path="chatsounds/autoadd/verbalsilenc
 L["oh you wonderful bitch"]={{path="chatsounds/autoadd/verbalsilence/oh you wonderful bitch.ogg",length=1.6151927437641724},}
 L["omg she is so annoying"]={{path="chatsounds/autoadd/verbalsilence/omg she is so annoying.ogg",length=2.0466439909297054},}
 L["omg who the hell cares"]={{path="chatsounds/autoadd/verbalsilence/omg who the hell cares.ogg",length=3.7093877551020409},}
-L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=77.766530612244892},}
+L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=19.467959183673468},}
 L["pink panther 1"]={{path="chatsounds/autoadd/verbalsilence/pink panther 1.ogg",length=101.74151927437642},}
 L["pink panther 2"]={{path="chatsounds/autoadd/verbalsilence/pink panther 2.ogg",length=45.672607709750565},}
 L["pizza do a pizza"]={{path="chatsounds/autoadd/verbalsilence/pizza do a pizza.ogg",length=3.2918140589569163},}
