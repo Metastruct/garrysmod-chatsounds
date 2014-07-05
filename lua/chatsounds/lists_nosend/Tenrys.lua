@@ -5,7 +5,6 @@ L["gonorrhea"]={{path="chatsounds/autoadd/Tenrys/GONORRHEA.ogg",length=1.5557369
 L["wilhelmscream"]={{path="chatsounds/autoadd/Tenrys/WilhelmScream.ogg",length=1.0636734693877552},}
 L["aawh"]={{path="chatsounds/autoadd/Tenrys/aawh.ogg",length=0.48662131519274376},}
 L["aku aku"]={{path="chatsounds/autoadd/Tenrys/aku aku.ogg",length=1.2827437641723356},}
-L["america fuck yeah"]={{path="chatsounds/autoadd/Tenrys/america fuck yeah.ogg",length=5.5},}
 L["atatata"]={{path="chatsounds/autoadd/Tenrys/atatata.ogg",length=5.4616780045351474},}
 L["big sister scream"]={{path="chatsounds/autoadd/Tenrys/big sister scream/bs2bigsis01.ogg",length=2.7220861678004535},{path="chatsounds/autoadd/Tenrys/big sister scream/bs2bigsis02.ogg",length=2.3876643990929707},{path="chatsounds/autoadd/Tenrys/big sister scream/bs2bigsis03.ogg",length=1.8124943310657597},}
 L["cough hard"]={{path="chatsounds/autoadd/Tenrys/cough hard.ogg",length=4.9301360544217685},}
