@@ -163,7 +163,7 @@ L["shut up baby i know it"]={{path="chatsounds/autoadd/verbalsilence/shut up bab
 L["sit yo five dolla ass down before i make change"]={{path="chatsounds/autoadd/verbalsilence/sit yo five dolla ass down before i make change.ogg",length=3.0631292517006803},}
 L["sky rockets in flight boom afternoon delight woop"]={{path="chatsounds/autoadd/verbalsilence/sky rockets in flight boom afternoon delight woop.ogg",length=6.8660544217687072},}
 L["smells like bigfoots dick"]={{path="chatsounds/autoadd/verbalsilence/smells like bigfoots dick.ogg",length=2.4277551020408161},}
-L["snake eater"]={{path="chatsounds/autoadd/verbalsilence/snake eater.ogg",length=178.10285714285715},}
+L["snake eater theme"]={{path="chatsounds/autoadd/verbalsilence/snake eater theme.ogg",length=178.10285714285715},}
 L["stay away from the light"]={{path="chatsounds/autoadd/verbalsilence/stay away from the light.ogg",length=2.2523356009070294},}
 L["stfu2"]={{path="chatsounds/autoadd/verbalsilence/stfu2.ogg",length=1.2829251700680273},}
 L["stfu3"]={{path="chatsounds/autoadd/verbalsilence/stfu3.ogg",length=1.9559183673469387},}
