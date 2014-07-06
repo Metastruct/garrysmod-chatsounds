@@ -25,6 +25,19 @@ http://mostafazh.me/2009/03/02/how-to-use-svn-with-google-code/
 
 You can use Audacity, foobar2000 or Adobe Audition to convert to ogg.
 
+HOW TO CONVERT STEREO TRACKS TO MONO IN AUDACITY:
+
+1.	Select the track by clicking in its Track Control Panel
+2.	Click Tracks > Stereo Track to Mono
+
+HOW TO CHANGE OGG QUALITY IN AUDACITY:
+
+1.	Click on "File" > "Export"
+2.	Select "Ogg Vorbis Files" in the "Save as type" drop-down menu.
+3.	Click on "Options..."
+4.	Adjust the slider and set it to 3 (https://dl.dropboxusercontent.com/u/166987820/ShareX/2014/07/2014-07-07_00-29-21.png)
+5.	Press OK 
+
 HOW TO CONVERT WITH FOOBAR2000:
 
 1.	Right click on desired track, then Convert -> Quick Convert

@@ -105,6 +105,7 @@ L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i 
 L["idk wth youre feeding him but he is too damn big"]={{path="chatsounds/autoadd/verbalsilence/idk wth youre feeding him but he is too damn big.ogg",length=3.2221541950113379},}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735283446712018},}
 L["in the event of an emergency my ass can be used as a floatation device"]={{path="chatsounds/autoadd/verbalsilence/in the event of an emergency my ass can be used as a floatation device.ogg",length=3.7717460317460318},}
+L["inception time"]={{path="chatsounds/autoadd/verbalsilence/inception time.ogg",length=275.74857142857144},}
 L["intervention"]={{path="chatsounds/autoadd/verbalsilence/intervention.ogg",length=1.2499773242630385},}
 L["it looks something like this"]={{path="chatsounds/autoadd/verbalsilence/it looks something like this.ogg",length=3.1291156462585032},}
 L["its all there black and white clear as crystal"]={{path="chatsounds/autoadd/verbalsilence/its all there black and white clear as crystal.ogg",length=3.4391609977324262},}
@@ -202,6 +203,7 @@ L["when god gives you lemons you find a new god"]={{path="chatsounds/autoadd/ver
 L["why cool guy whyyyyyy"]={{path="chatsounds/autoadd/verbalsilence/why cool guy whyyyyyy.ogg",length=6.024943310657596},}
 L["why is everyone so fucking stupid"]={{path="chatsounds/autoadd/verbalsilence/why is everyone so fucking stupid.ogg",length=2.3206575963718823},}
 L["wolf whistle"]={{path="chatsounds/autoadd/verbalsilence/wolf whistle.ogg",length=1.2444671201814059},}
+L["would you like to play again"]={{path="chatsounds/autoadd/verbalsilence/would you like to play again.ogg",length=2.003265306122449},}
 L["wow wow wee wa"]={{path="chatsounds/autoadd/verbalsilence/wow wow wee wa.ogg",length=1.2266439909297051},}
 L["wrong sir wrong"]={{path="chatsounds/autoadd/verbalsilence/wrong sir wrong.ogg",length=2.3951473922902493},}
 L["xbox achievement"]={{path="chatsounds/autoadd/verbalsilence/xbox achievement.ogg",length=0.27394557823129251},}
@@ -214,6 +216,7 @@ L["you can walk home bitches"]={{path="chatsounds/autoadd/verbalsilence/you can 
 L["you cant sit with us"]={{path="chatsounds/autoadd/verbalsilence/you cant sit with us.ogg",length=1.2402494331065759},}
 L["you complain about glorious developer ding dong bannu"]={{path="chatsounds/autoadd/verbalsilence/you complain about glorious developer ding dong bannu.ogg",length=2.6541950113378685},}
 L["you get nothing"]={{path="chatsounds/autoadd/verbalsilence/you get nothing.ogg",length=1.9959410430839002},}
+L["you have selected no"]={{path="chatsounds/autoadd/verbalsilence/you have selected no.ogg",length=1.9135827664399092},}
 L["you insignificunt"]={{path="chatsounds/autoadd/verbalsilence/you insignificunt.ogg",length=2.0892970521541949},}
 L["you know desire smells like that to some people"]={{path="chatsounds/autoadd/verbalsilence/you know desire smells like that to some people.ogg",length=2.4277551020408161},}
 L["you lose"]={{path="chatsounds/autoadd/verbalsilence/you lose.ogg",length=1.5660544217687076},}
