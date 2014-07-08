@@ -16,7 +16,7 @@ L["mnn"]={{path="chatsounds/autoadd/Taggy/Mnn.ogg",length=1.1390022675736962},}
 L["mno"]={{path="chatsounds/autoadd/Taggy/Mno.ogg",length=0.85099773242630383},}
 L["music"]={{path="chatsounds/autoadd/Taggy/Music.ogg",length=3.852018140589569},}
 L["my cabbages"]={{path="chatsounds/autoadd/Taggy/My cabbages.ogg",length=2.4520861678004535},}
-L["my plump juicy breast are none of your goddamn business"]={{path="chatsounds/autoadd/Taggy/My plump juicy breast are none of your goddamn business.ogg",length=7.0060317460317458},}
+L["my plump juicy breasts are none of your goddamn business and youre one to talk you chubby little queer"]={{path="chatsounds/autoadd/Taggy/My plump juicy breasts are none of your goddamn business and youre one to talk you chubby little queer.ogg",length=7.0060317460317458},}
 L["nigga youre crazy i cant afford an xbox"]={{path="chatsounds/autoadd/Taggy/Nigga youre crazy I cant afford an Xbox.ogg",length=2.6733560090702948},}
 L["no wait come back"]={{path="chatsounds/autoadd/Taggy/No wait come back.ogg",length=1.6718367346938776},}
 L["off with their heads one for each head of cabbage"]={{path="chatsounds/autoadd/Taggy/Off with their heads one for each head of cabbage.ogg",length=3.05875283446712},}
