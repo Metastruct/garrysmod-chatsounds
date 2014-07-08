@@ -6,30 +6,30 @@ L["ah hey hey miss pauling before you go uh"]={{path="chatsounds/autoadd/tf2 exp
 L["and nobody saw you"]={{path="chatsounds/autoadd/tf2 expiration date/and nobody saw you.ogg",length=1.8258049886621315},}
 L["and this and this here spy look at all of this heh no i am great with girls"]={{path="chatsounds/autoadd/tf2 expiration date/and this and this here spy look at all of this heh no i am great with girls.ogg",length=5.2555555555555555},}
 L["and we are out of time congratulations youre a failure"]={{path="chatsounds/autoadd/tf2 expiration date/and we are out of time congratulations youre a failure.ogg",length=4.7521995464852607},}
-L["anyway i ah wait wait wait wait wait come on spy im wedging my head through a door here to tell you im sorry"]={{path="chatsounds/autoadd/tf2 expiration date/anyway i ah wait wait wait wait wait come on spy im wedging my head through a door here to tell you im sorry.ogg",length=9.5854195011337868},}
+L["anyway i ah wait come on spy im wedging my head through a door here to tell you im sorry"]={{path="chatsounds/autoadd/tf2 expiration date/anyway i ah wait come on spy im wedging my head through a door here to tell you im sorry.ogg",length=9.5854195011337868},}
 L["asking out that dial tone again i see"]={{path="chatsounds/autoadd/tf2 expiration date/asking out that dial tone again i see.ogg",length=2.2545351473922901},}
 L["both of us relaxing post coitus"]={{path="chatsounds/autoadd/tf2 expiration date/both of us relaxing post coitus.ogg",length=3.2505895691609976},}
-L["but then there was a monster and we shot it and i built a bomb and i think my legs broken can we do this again"]={{path="chatsounds/autoadd/tf2 expiration date/but then there was a monster and we shot it and i built a bomb and i think my legs broken can we do this again.ogg",length=3.2505895691609976},}
 L["but you spy you are amazing with ladies"]={{path="chatsounds/autoadd/tf2 expiration date/but you spy you are amazing with ladies.ogg",length=4.7692517006802717},}
 L["bye bye ok then"]={{path="chatsounds/autoadd/tf2 expiration date/bye bye ok then.ogg",length=1.5868934240362811},}
-L["can the cook be trusted if not i gotta kill him dispose of the body replace him with my own guy no later than 4 30"]={{path="chatsounds/autoadd/tf2 expiration date/can the cook be trusted if not i gotta kill him dispose of the body replace him with my own guy no later than 4 30.ogg",length=5.7248072562358274},}
+L["can the cook be trusted if not i gotta kill him dispose of the body replace him with my own guy"]={{path="chatsounds/autoadd/tf2 expiration date/can the cook be trusted if not i gotta kill him dispose of the body replace him with my own guy.ogg",length=5.7248072562358274},}
 L["classic scout"]={{path="chatsounds/autoadd/tf2 expiration date/classic scout.ogg",length=1.1859183673469387},}
 L["come on spy i dont know"]={{path="chatsounds/autoadd/tf2 expiration date/come on spy i dont know.ogg",length=1.3010884353741496},}
 L["dear god theres more no"]={{path="chatsounds/autoadd/tf2 expiration date/dear god theres more no.ogg",length=3.7283673469387755},}
+L["did anyone besides scout put a card into the bucket"]={{path="chatsounds/autoadd/tf2 expiration date/did anyone besides scout put a card into the bucket.ogg",length=3.2569387755102039},}
 L["did i scout where is this going where its going is i dont need you ill put this date on myself"]={{path="chatsounds/autoadd/tf2 expiration date/did i scout where is this going where its going is i dont need you ill put this date on myself.ogg",length=4.8801587301587306},}
 L["dont worry we can fix this well get it back and the administrator never has to know"]={{path="chatsounds/autoadd/tf2 expiration date/dont worry we can fix this well get it back and the administrator never has to know.ogg",length=5.6394784580498865},}
 L["drunk round soft no round blurry ravishing uh huh you too hm"]={{path="chatsounds/autoadd/tf2 expiration date/drunk round soft no round blurry ravishing uh huh you too hm.ogg",length=5.4944671201814055},}
 L["eh ok"]={{path="chatsounds/autoadd/tf2 expiration date/eh ok.ogg",length=0.66875283446712019},}
 L["ehhhhye basically nobody scout im here right now"]={{path="chatsounds/autoadd/tf2 expiration date/ehhhhye basically nobody scout im here right now.ogg",length=3.4553514739229025},}
 L["excellent"]={{path="chatsounds/autoadd/tf2 expiration date/excellent.ogg",length=0.59294784580498872},}
-L["fantastic this was a huge waste of my time you did not read mine"]={{path="chatsounds/autoadd/tf2 expiration date/fantastic this was a huge waste of my time you did not read mine.ogg",length=4.8033786848072566},}
+L["fantastic this was a huge waste of my time you did not read mine"]={{path="chatsounds/autoadd/tf2 expiration date/fantastic this was a huge waste of my time you did not read mine.ogg",length=4.2854875283446709},}
 L["final question you have a dinner date for seven what time do you arrive"]={{path="chatsounds/autoadd/tf2 expiration date/final question you have a dinner date for seven what time do you arrive.ogg",length=5.9295691609977323},}
 L["for most men no time at all"]={{path="chatsounds/autoadd/tf2 expiration date/for most men no time at all.ogg",length=2.4230158730158728},}
 L["funny you should mention that"]={{path="chatsounds/autoadd/tf2 expiration date/funny you should mention that.ogg",length=1.2712244897959184},}
 L["gentlemen synchronize your death watches"]={{path="chatsounds/autoadd/tf2 expiration date/gentlemen synchronize your death watches.ogg",length=2.8581405895691612},}
 L["go away"]={{path="chatsounds/autoadd/tf2 expiration date/go away.ogg",length=0.69108843537414966},}
 L["go to hell spy"]={{path="chatsounds/autoadd/tf2 expiration date/go to hell spy.ogg",length=0.85317460317460314},}
-L["god scout what for pressing the one button youre never supposed to press do you have any idea whats in a briefcase"]={{path="chatsounds/autoadd/tf2 expiration date/god scout what for pressing the one button youre never supposed to press do you have any idea whats in a briefcase.ogg",length=5.8698639455782313},}
+L["god scout what for pressing the one button youre never supposed to press do you have any idea"]={{path="chatsounds/autoadd/tf2 expiration date/god scout what for pressing the one button youre never supposed to press do you have any idea.ogg",length=5.8698639455782313},}
 L["goodbye miss pauling"]={{path="chatsounds/autoadd/tf2 expiration date/goodbye miss pauling.ogg",length=1.4589342403628118},}
 L["guys hey fellas listen its just bread that gets tumors not even tumors"]={{path="chatsounds/autoadd/tf2 expiration date/guys hey fellas listen its just bread that gets tumors not even tumors.ogg",length=5.4006122448979594},}
 L["hahahaha i teleported bread"]={{path="chatsounds/autoadd/tf2 expiration date/hahahaha i teleported bread.ogg",length=3.625986394557823},}
@@ -42,7 +42,7 @@ L["hey miss pauling oh i am so sorry"]={{path="chatsounds/autoadd/tf2 expiration
 L["hey there good looking i got a bucket of chicken"]={{path="chatsounds/autoadd/tf2 expiration date/hey there good looking i got a bucket of chicken.ogg",length=4.0781859410430839},}
 L["hey uh you got a second"]={{path="chatsounds/autoadd/tf2 expiration date/hey uh you got a second.ogg",length=2.7429478458049887},}
 L["hm and why is that do you think"]={{path="chatsounds/autoadd/tf2 expiration date/hm and why is that do you think.ogg",length=2.7600226757369613},}
-L["hold on thats the briefcase right there scout you are you having a prom yeah nah yeah uh well uh the thing is"]={{path="chatsounds/autoadd/tf2 expiration date/hold on thats the briefcase right there scout you are you having a prom yeah nah yeah uh well uh the thing is.ogg",length=9.8029931972789122},}
+L["hold on thats the briefcase right there scout you are you having a prom well uh the thing is"]={{path="chatsounds/autoadd/tf2 expiration date/hold on thats the briefcase right there scout you are you having a prom well uh the thing is.ogg",length=9.8029931972789122},}
 L["how long before these tumors kill us"]={{path="chatsounds/autoadd/tf2 expiration date/how long before these tumors kill us.ogg",length=3.1524943310657596},}
 L["how much"]={{path="chatsounds/autoadd/tf2 expiration date/how much.ogg",length=2.1243990929705214},}
 L["hwhat"]={{path="chatsounds/autoadd/tf2 expiration date/hwhat.ogg",length=0.52897959183673471},}
@@ -54,10 +54,10 @@ L["i have something radiating off of me yeah those are stink lines"]={{path="cha
 L["i think its going pretty well"]={{path="chatsounds/autoadd/tf2 expiration date/i think its going pretty well.ogg",length=1.2456235827664399},}
 L["if theres something any of yall wanted to do before you well died now would be a good time"]={{path="chatsounds/autoadd/tf2 expiration date/if theres something any of yall wanted to do before you well died now would be a good time.ogg",length=8.1179591836734701},}
 L["ill do it on one condition say that again"]={{path="chatsounds/autoadd/tf2 expiration date/ill do it on one condition say that again.ogg",length=14.393061224489795},}
-L["im crying and the eiffel tower has stink lines coming off of it did anyone besides scout put a card into the bucket"]={{path="chatsounds/autoadd/tf2 expiration date/im crying and the eiffel tower has stink lines coming off of it did anyone besides scout put a card into the bucket.ogg",length=7.0088435374149656},}
+L["im crying and the eiffel tower has stink lines coming off of it"]={{path="chatsounds/autoadd/tf2 expiration date/im crying and the eiffel tower has stink lines coming off of it.ogg",length=3.7519047619047621},}
 L["im not one of your fried chicken tramps im a woman i like my men dangerous mysterious"]={{path="chatsounds/autoadd/tf2 expiration date/im not one of your fried chicken tramps im a woman i like my men dangerous mysterious.ogg",length=7.3501133786848074},}
 L["it contains the dying wish of every man here"]={{path="chatsounds/autoadd/tf2 expiration date/it contains the dying wish of every man here.ogg",length=3.1482312925170066},}
-L["its some form of self aware beauty mark that only metastasizes in an environment of pure wheat here watch this"]={{path="chatsounds/autoadd/tf2 expiration date/its some form of self aware beauty mark that only metastasizes in an environment of pure wheat here watch this.ogg",length=8.4336281179138322},}
+L["its some form of self aware beauty mark that only metastasizes in an environment of pure wheat"]={{path="chatsounds/autoadd/tf2 expiration date/its some form of self aware beauty mark that only metastasizes in an environment of pure wheat.ogg",length=8.4336281179138322},}
 L["look just keep the briefcase safe ok"]={{path="chatsounds/autoadd/tf2 expiration date/look just keep the briefcase safe ok.ogg",length=2.0476190476190474},}
 L["lotta people busy with busy ness"]={{path="chatsounds/autoadd/tf2 expiration date/lotta people busy with busy ness.ogg",length=3.3508390022675738},}
 L["make it quick"]={{path="chatsounds/autoadd/tf2 expiration date/make it quick.ogg",length=1.8258049886621315},}
@@ -98,6 +98,8 @@ L["that goes for all of you"]={{path="chatsounds/autoadd/tf2 expiration date/tha
 L["thats why the car hit him because he smells yes i see"]={{path="chatsounds/autoadd/tf2 expiration date/thats why the car hit him because he smells yes i see.ogg",length=2.7045804988662132},}
 L["the clock is ticking gentlemen lets begin"]={{path="chatsounds/autoadd/tf2 expiration date/the clock is ticking gentlemen lets begin.ogg",length=3.8904761904761904},}
 L["the eiffel tower having sexual congress with me"]={{path="chatsounds/autoadd/tf2 expiration date/the eiffel tower having sexual congress with me.ogg",length=2.4059410430839003},}
+L["the kind that smell good and can read and always have their glasses on just kind of crooked"]={{path="chatsounds/autoadd/tf2 expiration date/the kind that smell good and can read and always have their glasses on just kind of crooked.ogg",length=6.253265306122449},}
+L["there was a monster and we shot it i built a bomb i think my legs broken can we do this again"]={{path="chatsounds/autoadd/tf2 expiration date/there was a monster and we shot it i built a bomb i think my legs broken can we do this again.ogg",length=3.2505895691609976},}
 L["this is a bucket"]={{path="chatsounds/autoadd/tf2 expiration date/this is a bucket.ogg",length=2.3377097505668933},}
 L["three days yes we all have three days to live"]={{path="chatsounds/autoadd/tf2 expiration date/three days yes we all have three days to live.ogg",length=6.7443537414965986},}
 L["tommorrow im belt sanding the fingerprints off a pile of corpses"]={{path="chatsounds/autoadd/tf2 expiration date/tommorrow im belt sanding the fingerprints off a pile of corpses.ogg",length=4.9057596371882086},}
@@ -115,7 +117,7 @@ L["we have 70 hours to live"]={{path="chatsounds/autoadd/tf2 expiration date/we 
 L["we killed everybody and took a briefcase"]={{path="chatsounds/autoadd/tf2 expiration date/we killed everybody and took a briefcase.ogg",length=2.3547845804988663},}
 L["well a mystery we will take to our graves then goodbye"]={{path="chatsounds/autoadd/tf2 expiration date/well a mystery we will take to our graves then goodbye.ogg",length=3.2761904761904761},}
 L["well friday ive got to kill someone who pressed a briefcase alarm button and oh uh"]={{path="chatsounds/autoadd/tf2 expiration date/well friday ive got to kill someone who pressed a briefcase alarm button and oh uh.ogg",length=4.9825396825396826},}
-L["well lets see we all use the teleporter lets say six times a day times four years minus were not bread hm"]={{path="chatsounds/autoadd/tf2 expiration date/well lets see we all use the teleporter lets say six times a day times four years minus were not bread hm.ogg",length=7.7340362811791383},}
+L["well lets see we all use the teleporter lets say six times a day times four years minus were not bread"]={{path="chatsounds/autoadd/tf2 expiration date/well lets see we all use the teleporter lets say six times a day times four years minus were not bread.ogg",length=7.7340362811791383},}
 L["what no no no spy look at this"]={{path="chatsounds/autoadd/tf2 expiration date/what no no no spy look at this.ogg",length=3.532154195011338},}
 L["what no"]={{path="chatsounds/autoadd/tf2 expiration date/what no.ogg",length=1.3394784580498866},}
 L["what sp spy i aint gonna"]={{path="chatsounds/autoadd/tf2 expiration date/what sp spy i aint gonna.ogg",length=1.5058503401360543},}
@@ -133,14 +135,14 @@ L["yeah listen weve been running some experiments on the teleporter"]={{path="ch
 L["yeah sure oh wait nah we cant im gonna be dead"]={{path="chatsounds/autoadd/tf2 expiration date/yeah sure oh wait nah we cant im gonna be dead.ogg",length=3.779546485260771},}
 L["you all know what this means right"]={{path="chatsounds/autoadd/tf2 expiration date/you all know what this means right.ogg",length=1.9708390022675737},}
 L["you are better than me alright i need your help"]={{path="chatsounds/autoadd/tf2 expiration date/you are better than me alright i need your help.ogg",length=4.5559637188208617},}
-L["you know classy ones the kind that smell good and can read and always have their glasses on just kind of crooked"]={{path="chatsounds/autoadd/tf2 expiration date/you know classy ones the kind that smell good and can read and always have their glasses on just kind of crooked.ogg",length=7.6231292517006803},}
+L["you know classy ones"]={{path="chatsounds/autoadd/tf2 expiration date/you know classy ones.ogg",length=1.3217913832199546},}
 L["you left seven witnesses guys six"]={{path="chatsounds/autoadd/tf2 expiration date/you left seven witnesses guys six.ogg",length=3.2505895691609976},}
 L["you look you look uhh"]={{path="chatsounds/autoadd/tf2 expiration date/you look you look uhh.ogg",length=4.9996145124716556},}
 L["you teleport as much bread as you like"]={{path="chatsounds/autoadd/tf2 expiration date/you teleport as much bread as you like.ogg",length=2.8410657596371882},}
 L["you want to be my lover earn it seduce me"]={{path="chatsounds/autoadd/tf2 expiration date/you want to be my lover earn it seduce me.ogg",length=3.5790702947845805},}
 L["you youre terrible with girls"]={{path="chatsounds/autoadd/tf2 expiration date/you youre terrible with girls.ogg",length=2.2907709750566894},}
 L["youre already going to be at that one"]={{path="chatsounds/autoadd/tf2 expiration date/youre already going to be at that one.ogg",length=1.5613151927437641},}
-L["youre not mad i was furious oh my god you set off the briefcase alarm and you were having a prom for some reason"]={{path="chatsounds/autoadd/tf2 expiration date/youre not mad i was furious oh my god you set off the briefcase alarm and you were having a prom for some reason.ogg",length=5.2555555555555555},}
+L["youre not mad i was furious oh my god you set off the briefcase alarm and you were having a prom"]={{path="chatsounds/autoadd/tf2 expiration date/youre not mad i was furious oh my god you set off the briefcase alarm and you were having a prom.ogg",length=5.2555555555555555},}
 L["youre ready really no everything you just said was insane"]={{path="chatsounds/autoadd/tf2 expiration date/youre ready really no everything you just said was insane.ogg",length=4.4876870748299318},}
 L["yourself thats right fancy pants myself"]={{path="chatsounds/autoadd/tf2 expiration date/yourself thats right fancy pants myself.ogg",length=3.2250113378684806},}
 c.EndList()
