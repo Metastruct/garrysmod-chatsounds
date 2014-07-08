@@ -84,10 +84,7 @@ L["right right ok ok"]={{path="chatsounds/autoadd/tf2 expiration date/right righ
 L["scout i get one day off a year and you just wasted it on this goodbye"]={{path="chatsounds/autoadd/tf2 expiration date/scout i get one day off a year and you just wasted it on this goodbye.ogg",length=8.7194557823129255},}
 L["scout its pauling"]={{path="chatsounds/autoadd/tf2 expiration date/scout its pauling.ogg",length=1.057936507936508},}
 L["scout you did collect everyones dying wish"]={{path="chatsounds/autoadd/tf2 expiration date/scout you did collect everyones dying wish.ogg",length=3.1482086167800452},}
-L["seduce me 2"]={{path="chatsounds/autoadd/tf2 expiration date/seduce me 2.ogg",length=1.2456235827664399},}
-L["seduce me 3"]={{path="chatsounds/autoadd/tf2 expiration date/seduce me 3.ogg",length=1.2456462585034014},}
-L["seduce me 4"]={{path="chatsounds/autoadd/tf2 expiration date/seduce me 4.ogg",length=1.0238095238095237},}
-L["seduce me"]={{path="chatsounds/autoadd/tf2 expiration date/seduce me.ogg",length=0.87451247165532875},}
+L["seduce me"]={{path="chatsounds/autoadd/tf2 expiration date/seduce me/seduce me 2.ogg",length=1.2456235827664399},{path="chatsounds/autoadd/tf2 expiration date/seduce me/seduce me 3.ogg",length=1.2456462585034014},{path="chatsounds/autoadd/tf2 expiration date/seduce me/seduce me 4.ogg",length=1.0238095238095237},{path="chatsounds/autoadd/tf2 expiration date/seduce me/seduce me.ogg",length=0.87451247165532875},}
 L["see you all in hell"]={{path="chatsounds/autoadd/tf2 expiration date/see you all in hell.ogg",length=1.6850113378684808},}
 L["seven am case the restaurant run background checks on the staff"]={{path="chatsounds/autoadd/tf2 expiration date/seven am case the restaurant run background checks on the staff.ogg",length=4.4706349206349207},}
 L["sigh does it say you want the bucket yes"]={{path="chatsounds/autoadd/tf2 expiration date/sigh does it say you want the bucket yes.ogg",length=2.3760997732426303},}
