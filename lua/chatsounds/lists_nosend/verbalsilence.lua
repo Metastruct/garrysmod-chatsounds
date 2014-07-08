@@ -105,7 +105,6 @@ L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i 
 L["idk wth youre feeding him but he is too damn big"]={{path="chatsounds/autoadd/verbalsilence/idk wth youre feeding him but he is too damn big.ogg",length=3.2221541950113379},}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735283446712018},}
 L["in the event of an emergency my ass can be used as a floatation device"]={{path="chatsounds/autoadd/verbalsilence/in the event of an emergency my ass can be used as a floatation device.ogg",length=3.7717460317460318},}
-L["inception time"]={{path="chatsounds/autoadd/verbalsilence/inception time.ogg",length=275.74857142857144},}
 L["intervention"]={{path="chatsounds/autoadd/verbalsilence/intervention.ogg",length=1.2499773242630385},}
 L["it looks something like this"]={{path="chatsounds/autoadd/verbalsilence/it looks something like this.ogg",length=3.1291156462585032},}
 L["its all there black and white clear as crystal"]={{path="chatsounds/autoadd/verbalsilence/its all there black and white clear as crystal.ogg",length=3.4391609977324262},}
