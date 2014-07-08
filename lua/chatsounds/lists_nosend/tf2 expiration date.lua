@@ -58,6 +58,7 @@ L["im crying and the eiffel tower has stink lines coming off of it"]={{path="cha
 L["im not one of your fried chicken tramps im a woman i like my men dangerous mysterious"]={{path="chatsounds/autoadd/tf2 expiration date/im not one of your fried chicken tramps im a woman i like my men dangerous mysterious.ogg",length=7.3501133786848074},}
 L["it contains the dying wish of every man here"]={{path="chatsounds/autoadd/tf2 expiration date/it contains the dying wish of every man here.ogg",length=3.1482312925170066},}
 L["its some form of self aware beauty mark that only metastasizes in an environment of pure wheat"]={{path="chatsounds/autoadd/tf2 expiration date/its some form of self aware beauty mark that only metastasizes in an environment of pure wheat.ogg",length=8.4336281179138322},}
+L["lets see we all use the teleporter lets say six times a day times four years minus were not bread"]={{path="chatsounds/autoadd/tf2 expiration date/lets see we all use the teleporter lets say six times a day times four years minus were not bread.ogg",length=7.7340362811791383},}
 L["look just keep the briefcase safe ok"]={{path="chatsounds/autoadd/tf2 expiration date/look just keep the briefcase safe ok.ogg",length=2.0476190476190474},}
 L["lotta people busy with busy ness"]={{path="chatsounds/autoadd/tf2 expiration date/lotta people busy with busy ness.ogg",length=3.3508390022675738},}
 L["make it quick"]={{path="chatsounds/autoadd/tf2 expiration date/make it quick.ogg",length=1.8258049886621315},}
@@ -117,7 +118,6 @@ L["we have 70 hours to live"]={{path="chatsounds/autoadd/tf2 expiration date/we 
 L["we killed everybody and took a briefcase"]={{path="chatsounds/autoadd/tf2 expiration date/we killed everybody and took a briefcase.ogg",length=2.3547845804988663},}
 L["well a mystery we will take to our graves then goodbye"]={{path="chatsounds/autoadd/tf2 expiration date/well a mystery we will take to our graves then goodbye.ogg",length=3.2761904761904761},}
 L["well friday ive got to kill someone who pressed a briefcase alarm button and oh uh"]={{path="chatsounds/autoadd/tf2 expiration date/well friday ive got to kill someone who pressed a briefcase alarm button and oh uh.ogg",length=4.9825396825396826},}
-L["well lets see we all use the teleporter lets say six times a day times four years minus were not bread"]={{path="chatsounds/autoadd/tf2 expiration date/well lets see we all use the teleporter lets say six times a day times four years minus were not bread.ogg",length=7.7340362811791383},}
 L["what no no no spy look at this"]={{path="chatsounds/autoadd/tf2 expiration date/what no no no spy look at this.ogg",length=3.532154195011338},}
 L["what no"]={{path="chatsounds/autoadd/tf2 expiration date/what no.ogg",length=1.3394784580498866},}
 L["what sp spy i aint gonna"]={{path="chatsounds/autoadd/tf2 expiration date/what sp spy i aint gonna.ogg",length=1.5058503401360543},}
