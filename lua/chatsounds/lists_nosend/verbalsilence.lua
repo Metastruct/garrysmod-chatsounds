@@ -150,6 +150,8 @@ L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",l
 L["pink panther 1"]={{path="chatsounds/autoadd/verbalsilence/pink panther 1.ogg",length=101.74151927437642},}
 L["pink panther 2"]={{path="chatsounds/autoadd/verbalsilence/pink panther 2.ogg",length=45.672607709750565},}
 L["pizza do a pizza"]={{path="chatsounds/autoadd/verbalsilence/pizza do a pizza.ogg",length=3.2918140589569163},}
+L["pokemon"]={{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 1.ogg",length=1.0414058956916099},{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 2.ogg",length=1.1772335600907029},}
+L["pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa"]={{path="chatsounds/autoadd/verbalsilence/pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa.ogg",length=9.3574149659863952},}
 L["pshew"]={{path="chatsounds/autoadd/verbalsilence/pshew.ogg",length=0.36795918367346941},}
 L["retard alert"]={{path="chatsounds/autoadd/verbalsilence/retard alert.ogg",length=4.3167120181405894},}
 L["rocky theme"]={{path="chatsounds/autoadd/verbalsilence/rocky theme.ogg",length=168.72489795918366},}
@@ -193,6 +195,7 @@ L["welaaaax"]={{path="chatsounds/autoadd/verbalsilence/welaaaax.ogg",length=1.86
 L["welaax"]={{path="chatsounds/autoadd/verbalsilence/welaax.ogg",length=1.3658503401360544},}
 L["welax"]={{path="chatsounds/autoadd/verbalsilence/welax.ogg",length=0.70988662131519276},}
 L["what did you call me"]={{path="chatsounds/autoadd/verbalsilence/what did you call me.ogg",length=1.5342630385487528},}
+L["what do you like to play"]={{path="chatsounds/autoadd/verbalsilence/what do you like to play.ogg",length=1.6752834467120181},}
 L["what rules"]={{path="chatsounds/autoadd/verbalsilence/what rules.ogg",length=0.92120181405895696},}
 L["what the fuck is this"]={{path="chatsounds/autoadd/verbalsilence/what the fuck is this.ogg",length=1.5748072562358277},}
 L["what the shitt"]={{path="chatsounds/autoadd/verbalsilence/what the shitt.ogg",length=0.90848072562358273},}
