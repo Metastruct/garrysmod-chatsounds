@@ -15,9 +15,11 @@ L["aw dont cry"]={{path="chatsounds/autoadd/verbalsilence/aw dont cry.ogg",lengt
 L["bacon pancakes"]={{path="chatsounds/autoadd/verbalsilence/bacon pancakes.ogg",length=10.373378684807257},}
 L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612471655328799},}
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952},}
+L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292517006804},}
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428},}
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962},}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708},}
+L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022},}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042},}
 L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.ogg",length=1.9720861678004535},}
 L["come on you youre going to have to sit in the dunce chair"]={{path="chatsounds/autoadd/verbalsilence/come on you youre going to have to sit in the dunce chair.ogg",length=3.0021995464852607},}
