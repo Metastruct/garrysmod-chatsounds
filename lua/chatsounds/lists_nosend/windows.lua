@@ -37,4 +37,5 @@ L["winnt5 shutdown"]={{path="chatsounds/autoadd/windows/winnt5 shutdown.ogg",len
 L["winnt5 startup"]={{path="chatsounds/autoadd/windows/winnt5 startup.ogg",length=13.301315192743765},}
 L["winxp shutdown"]={{path="chatsounds/autoadd/windows/winxp shutdown.ogg",length=3.2036734693877551},}
 L["winxp startup"]={{path="chatsounds/autoadd/windows/winxp startup.ogg",length=4.8140589569160994},}
+L["you have selected microsoft sam as the computers default voice"]={{path="chatsounds/autoadd/windows/you have selected microsoft sam as the computers default voice.ogg",length=4.3512018140589568},}
 c.EndList()

@@ -10,5 +10,4 @@ L["ten seconds to transmission"]={{path="chatsounds/autoadd/potcfdk/ten seconds 
 L["the hook died"]={{path="chatsounds/autoadd/potcfdk/the hook died.ogg",length=0.94222222222222218},}
 L["these things they take time"]={{path="chatsounds/autoadd/potcfdk/these things they take time.ogg",length=1.6961451247165533},}
 L["transmission"]={{path="chatsounds/autoadd/potcfdk/transmission.ogg",length=0.77183673469387759},}
-L["you have selected microsoft sam as the computers default voice"]={{path="chatsounds/autoadd/potcfdk/you have selected microsoft sam as the computers default voice.ogg",length=4.3512018140589568},}
 c.EndList()
