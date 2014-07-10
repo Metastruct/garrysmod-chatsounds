@@ -15,6 +15,7 @@ L["huh"]={{path="chatsounds/autoadd/daftlad/huh.ogg",length=0.34233560090702947}
 L["i am real super sand"]={{path="chatsounds/autoadd/daftlad/i am real super sand.ogg",length=1.6540816326530612},}
 L["if youre calling me a son of a bitch you wouldnt be the first"]={{path="chatsounds/autoadd/daftlad/if youre calling me a son of a bitch you wouldnt be the first.ogg",length=3.217845804988662},}
 L["im dead"]={{path="chatsounds/autoadd/daftlad/im dead.ogg",length=1.4715873015873016},}
+L["lolik bitch"]={{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 1.ogg",length=1.3236281179138323},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 2.ogg",length=1.1003854875283448},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 3.ogg",length=1.157936507936508},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 4.ogg",length=1.2345351473922903},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 5.ogg",length=1.2165079365079365},}
 L["oooh nooo"]={{path="chatsounds/autoadd/daftlad/oooh nooo.ogg",length=2.7341950113378686},}
 L["pirate"]={{path="chatsounds/autoadd/daftlad/pirate.ogg",length=0.89997732426303856},}
 L["piratesong"]={{path="chatsounds/autoadd/daftlad/piratesong.ogg",length=10.085668934240363},}
