@@ -1,4 +1,5 @@
 c.StartList("futurama")
+L["bender laugh"]={{path="chatsounds/autoadd/futurama/bender laugh/bender laugh 1.ogg",length=2.5066666666666668},{path="chatsounds/autoadd/futurama/bender laugh/bender laugh 2.ogg",length=2.7885941043083902},}
 L["bite my shiny metal ass"]={{path="chatsounds/autoadd/futurama/bite my shiny metal ass.ogg",length=2.5218820861678006},}
 L["elf"]={{path="chatsounds/autoadd/futurama/elf.ogg",length=0.18587301587301588},}
 L["fry got his head stuck"]={{path="chatsounds/autoadd/futurama/fry got his head stuck.ogg",length=3.1444897959183673},}
@@ -10,6 +11,7 @@ L["mice"]={{path="chatsounds/autoadd/futurama/mice.ogg",length=0.316031746031746
 L["mymanwich"]={{path="chatsounds/autoadd/futurama/mymanwich.ogg",length=1.7647392290249433},}
 L["oh bother"]={{path="chatsounds/autoadd/futurama/oh bother.ogg",length=1.4502494331065761},}
 L["oh right"]={{path="chatsounds/autoadd/futurama/oh right.ogg",length=1.3032199546485261},}
+L["oh wait youre serious let me laugh even harder"]={{path="chatsounds/autoadd/futurama/oh wait youre serious let me laugh even harder.ogg",length=2.9680045351473923},}
 L["the elves are back"]={{path="chatsounds/autoadd/futurama/the elves are back.ogg",length=0.99605442176870751},}
 L["themepark"]={{path="chatsounds/autoadd/futurama/themepark.ogg",length=8.6747845804988657},}
 L["very well let this abomination unto the lord begin"]={{path="chatsounds/autoadd/futurama/very well let this abomination unto the lord begin.ogg",length=4.6634467120181409},}
