@@ -385,7 +385,7 @@ c.StartList("table: 0x38ab7e08")
 		},
 	}
 
-	L["piano"] = {
+	L["pianosmash"] = {
 		{
 			path = "plats/piano.wav",
 			length = 3.9892517006803,

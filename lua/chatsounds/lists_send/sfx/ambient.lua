@@ -10374,11 +10374,14 @@ c.StartList("table: 0x646f1d38")
 		},
 	}
 
-	L["piano"] = {
+	L["piano1"] = {
 		{
 			path = "ambient/music/piano1.wav",
 			length = 9.3582766439909,
 		},
+	}
+	
+	L["piano2"] = {
 		{
 			path = "ambient/music/piano2.wav",
 			length = 10.70566893424,

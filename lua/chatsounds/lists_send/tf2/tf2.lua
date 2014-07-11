@@ -5111,7 +5111,7 @@ c.StartList("tf2")
 
 	L["the spy is a double agent"] = {
 		{
-			path = "vo/medic_cloakedspyidentify09.wav",
+			path = "vo/medic_cloakedspyidentify06.wav",
 			length = 1.8285714387894,
 		},
 	}
@@ -7199,6 +7199,10 @@ c.StartList("tf2")
 		{
 			path = "vo/spy_cloakedspyidentify10.wav",
 			length = 1.387392282486,
+		},
+		{
+			path = "vo/medic_cloakedspyidentify09.wav",
+			length = 1.8285714285714,
 		},
 	}
 
@@ -12414,6 +12418,13 @@ c.StartList("tf2")
 		{
 			path = "/npc/combine_gunship/gunship_moan.wav",
 			length = 4.11,
+		},
+	}
+	
+	L["doubledonk"] = {
+		{
+			path = "player/doubledonk.wav",
+			length = 3.0002040816327,
 		},
 	}
 	
