@@ -15,6 +15,7 @@ L["can the cook be trusted if not i gotta kill him dispose of the body replace h
 L["classic scout"]={{path="chatsounds/autoadd/tf2 expiration date/classic scout.ogg",length=1.1859183673469387},}
 L["come on spy i dont know"]={{path="chatsounds/autoadd/tf2 expiration date/come on spy i dont know.ogg",length=1.3010884353741496},}
 L["dear god theres more no"]={{path="chatsounds/autoadd/tf2 expiration date/dear god theres more no.ogg",length=3.7283673469387755},}
+L["dear god"]={{path="chatsounds/autoadd/tf2 expiration date/dear god.ogg",length=1.4602721088435373},}
 L["did anyone besides scout put a card into the bucket"]={{path="chatsounds/autoadd/tf2 expiration date/did anyone besides scout put a card into the bucket.ogg",length=3.2569387755102039},}
 L["did i scout where is this going where its going is i dont need you ill put this date on myself"]={{path="chatsounds/autoadd/tf2 expiration date/did i scout where is this going where its going is i dont need you ill put this date on myself.ogg",length=4.8801587301587306},}
 L["dont worry we can fix this well get it back and the administrator never has to know"]={{path="chatsounds/autoadd/tf2 expiration date/dont worry we can fix this well get it back and the administrator never has to know.ogg",length=5.6394784580498865},}
@@ -94,6 +95,7 @@ L["so that you dont go to jail"]={{path="chatsounds/autoadd/tf2 expiration date/
 L["so were fine as long as nobody teleports any bread"]={{path="chatsounds/autoadd/tf2 expiration date/so were fine as long as nobody teleports any bread.ogg",length=4.4919727891156462},}
 L["so why dont you take your little failure roll it up sideways and ok crap i gotta go screw you though"]={{path="chatsounds/autoadd/tf2 expiration date/so why dont you take your little failure roll it up sideways and ok crap i gotta go screw you though.ogg",length=7.081360544217687},}
 L["so yeah miss pauling i guess its a date"]={{path="chatsounds/autoadd/tf2 expiration date/so yeah miss pauling i guess its a date.ogg",length=3.9246031746031744},}
+L["soldierno"]={{path="chatsounds/autoadd/tf2 expiration date/soldierno.ogg",length=1.5472789115646259},}
 L["tell me you got the briefcase"]={{path="chatsounds/autoadd/tf2 expiration date/tell me you got the briefcase.ogg",length=1.1261904761904762},}
 L["that goes for all of you"]={{path="chatsounds/autoadd/tf2 expiration date/that goes for all of you.ogg",length=1.3010884353741496},}
 L["thats why the car hit him because he smells yes i see"]={{path="chatsounds/autoadd/tf2 expiration date/thats why the car hit him because he smells yes i see.ogg",length=2.7045804988662132},}
@@ -101,6 +103,7 @@ L["the clock is ticking gentlemen lets begin"]={{path="chatsounds/autoadd/tf2 ex
 L["the eiffel tower having sexual congress with me"]={{path="chatsounds/autoadd/tf2 expiration date/the eiffel tower having sexual congress with me.ogg",length=2.4059410430839003},}
 L["the kind that smell good and can read and always have their glasses on just kind of crooked"]={{path="chatsounds/autoadd/tf2 expiration date/the kind that smell good and can read and always have their glasses on just kind of crooked.ogg",length=6.253265306122449},}
 L["there was a monster and we shot it i built a bomb i think my legs broken can we do this again"]={{path="chatsounds/autoadd/tf2 expiration date/there was a monster and we shot it i built a bomb i think my legs broken can we do this again.ogg",length=3.2505895691609976},}
+L["theres more"]={{path="chatsounds/autoadd/tf2 expiration date/theres more.ogg",length=0.72081632653061223},}
 L["this is a bucket"]={{path="chatsounds/autoadd/tf2 expiration date/this is a bucket.ogg",length=2.3377097505668933},}
 L["three days yes we all have three days to live"]={{path="chatsounds/autoadd/tf2 expiration date/three days yes we all have three days to live.ogg",length=6.7443537414965986},}
 L["tommorrow im belt sanding the fingerprints off a pile of corpses"]={{path="chatsounds/autoadd/tf2 expiration date/tommorrow im belt sanding the fingerprints off a pile of corpses.ogg",length=4.9057596371882086},}
