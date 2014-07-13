@@ -12,7 +12,6 @@ L["crazy loop"]={{path="chatsounds/autoadd/kilroy/Crazy Loop.ogg",length=43.4243
 L["cymbal"]={{path="chatsounds/autoadd/kilroy/Cymbal.ogg",length=1.4512471655328798},}
 L["developersdevelopersdevelopersdevelopers"]={{path="chatsounds/autoadd/kilroy/DevelopersDevelopersDevelopersDevelopers.ogg",length=33.936326530612241},}
 L["disco groove"]={{path="chatsounds/autoadd/kilroy/Disco Groove.ogg",length=31.149750566893424},}
-L["ea games"]={{path="chatsounds/autoadd/kilroy/EA Games.ogg",length=2.7357823129251702},}
 L["fifa"]={{path="chatsounds/autoadd/kilroy/FIFA.ogg",length=16.196099773242629},}
 L["fuckingwindows98"]={{path="chatsounds/autoadd/kilroy/FUCKINGWINDOWS98.ogg",length=2.0897959183673471},}
 L["farisfun"]={{path="chatsounds/autoadd/kilroy/Farisfun.ogg",length=3.374965986394558},}
