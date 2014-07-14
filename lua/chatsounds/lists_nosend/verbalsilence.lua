@@ -114,6 +114,7 @@ L["its all there black and white clear as crystal"]={{path="chatsounds/autoadd/v
 L["its cool guy"]={{path="chatsounds/autoadd/verbalsilence/its cool guy.ogg",length=2.0437414965986394},}
 L["its mr funk"]={{path="chatsounds/autoadd/verbalsilence/its mr funk.ogg",length=1.8074829931972789},}
 L["its only game why you heff to be med"]={{path="chatsounds/autoadd/verbalsilence/its only game why you heff to be med.ogg",length=3.2372108843537415},}
+L["ive got it"]={{path="chatsounds/autoadd/verbalsilence/ive got it.ogg",length=1.2979365079365079},}
 L["jason"]={{path="chatsounds/autoadd/verbalsilence/jason/jason1.ogg",length=0.7632199546485261},{path="chatsounds/autoadd/verbalsilence/jason/jason2.ogg",length=0.71299319727891153},{path="chatsounds/autoadd/verbalsilence/jason/jason3.ogg",length=1.0243083900226757},}
 L["jehuty in 1080p"]={{path="chatsounds/autoadd/verbalsilence/jehuty in 1080p.ogg",length=2.2899773242630386},}
 L["joh rastafari"]={{path="chatsounds/autoadd/verbalsilence/joh rastafari.ogg",length=4.165328798185941},}
