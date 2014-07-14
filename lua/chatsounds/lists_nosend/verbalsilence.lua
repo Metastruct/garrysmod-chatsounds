@@ -27,6 +27,7 @@ L["congratulations bitch"]={{path="chatsounds/autoadd/verbalsilence/congratulati
 L["cool guuy"]={{path="chatsounds/autoadd/verbalsilence/cool guuy.ogg",length=2.505238095238095},}
 L["cool guy theme 2"]={{path="chatsounds/autoadd/verbalsilence/cool guy theme 2.ogg",length=51.858049886621316},}
 L["cool guy theme"]={{path="chatsounds/autoadd/verbalsilence/cool guy theme.ogg",length=84.386984126984132},}
+L["daddy would you like some sausage"]={{path="chatsounds/autoadd/verbalsilence/daddy would you like some sausage.ogg",length=8.5559183673469388},}
 L["damn son whered you find this"]={{path="chatsounds/autoadd/verbalsilence/damn son whered you find this.ogg",length=2.5338775510204083},}
 L["dats sexy"]={{path="chatsounds/autoadd/verbalsilence/dats sexy.ogg",length=1.3155102040816327},}
 L["der right der wtf is this watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/der right der wtf is this watch your profanity.ogg",length=6.2432653061224492},}

@@ -12,6 +12,7 @@ L["i aint havin that shit"]={{path="chatsounds/autoadd/jontron/i aint havin that
 L["i appreciate it"]={{path="chatsounds/autoadd/jontron/i appreciate it.ogg",length=1.2760317460317461},}
 L["i cant do it jon"]={{path="chatsounds/autoadd/jontron/i cant do it jon.ogg",length=1.2325396825396826},}
 L["i cant fucking do it"]={{path="chatsounds/autoadd/jontron/i cant fucking do it.ogg",length=1.4065306122448979},}
+L["i dont like where this is going"]={{path="chatsounds/autoadd/jontron/i dont like where this is going.ogg",length=1.506734693877551},}
 L["i love you no im fucking done im fucking done this is bullshit"]={{path="chatsounds/autoadd/jontron/i love you no im fucking done im fucking done this is bullshit.ogg",length=9.0869160997732425},}
 L["im superman i believe i can fly"]={{path="chatsounds/autoadd/jontron/im superman i believe i can fly.ogg",length=8.0235600907029472},}
 L["is that a fn poop rat"]={{path="chatsounds/autoadd/jontron/is that a fn poop rat.ogg",length=1.0778458049886621},}
@@ -22,6 +23,7 @@ L["not fucking this"]={{path="chatsounds/autoadd/jontron/not fucking this.ogg",l
 L["oh noooo"]={{path="chatsounds/autoadd/jontron/oh noooo.ogg",length=8.9802040816326532},}
 L["oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey"]={{path="chatsounds/autoadd/jontron/oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey.ogg",length=8.0429024943310665},}
 L["oohh ooooh"]={{path="chatsounds/autoadd/jontron/oohh ooooh.ogg",length=10.247800453514738},}
+L["stahp"]={{path="chatsounds/autoadd/jontron/stahp/stahp1.ogg",length=0.76886621315192749},{path="chatsounds/autoadd/jontron/stahp/stahp2.ogg",length=0.62625850340136058},{path="chatsounds/autoadd/jontron/stahp/stahp3.ogg",length=0.87428571428571433},}
 L["stranger danger"]={{path="chatsounds/autoadd/jontron/stranger danger.ogg",length=1.056281179138322},}
 L["wh why what is it"]={{path="chatsounds/autoadd/jontron/wh why what is it.ogg",length=1.8754195011337869},}
 L["what is my life"]={{path="chatsounds/autoadd/jontron/what is my life.ogg",length=1.6433786848072562},}
