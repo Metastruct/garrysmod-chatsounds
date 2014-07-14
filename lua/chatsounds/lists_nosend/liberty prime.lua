@@ -29,7 +29,8 @@ L["i die so that democracy may live"]={{path="chatsounds/autoadd/liberty prime/i
 L["immediate self destruct better dead than red"]={{path="chatsounds/autoadd/liberty prime/immediate self destruct better dead than red.ogg",length=6.8153514739229024},}
 L["initiating core shutdown as per emergency initiative 2682209"]={{path="chatsounds/autoadd/liberty prime/initiating core shutdown as per emergency initiative 2682209.ogg",length=13.874920634920635},}
 L["initiating directive 7395 destroy all communists"]={{path="chatsounds/autoadd/liberty prime/initiating directive 7395 destroy all communists.ogg",length=7.870770975056689},}
-L["liberty prime is online all systems nominal weapons hot mission the destruction of any and all chinese communists"]={{path="chatsounds/autoadd/liberty prime/liberty prime is online all systems nominal weapons hot mission the destruction of any and all chinese communists.ogg",length=13.874897959183674},}
+L["liberty prime is online all systems nominal weapons hot"]={{path="chatsounds/autoadd/liberty prime/liberty prime is online all systems nominal weapons hot.ogg",length=6.5548979591836734},}
+L["mission the destruction of any and all chinese communists"]={{path="chatsounds/autoadd/liberty prime/mission the destruction of any and all chinese communists.ogg",length=7.3200000000000003},}
 L["obstruction detected"]={{path="chatsounds/autoadd/liberty prime/obstruction detected.ogg",length=2.0535600907029479},}
 L["primary targets any and all red chinese invaders"]={{path="chatsounds/autoadd/liberty prime/primary targets any and all red chinese invaders.ogg",length=5.3344444444444443},}
 L["probability of mission hindrance zero percent"]={{path="chatsounds/autoadd/liberty prime/probability of mission hindrance zero percent.ogg",length=6.1606122448979592},}
