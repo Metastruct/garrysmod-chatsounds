@@ -23,10 +23,10 @@ L["fart"]={{path="chatsounds/autoadd/Tenrys/fart.ogg",length=0.20160997732426303
 L["gotta go fast"]={{path="chatsounds/autoadd/Tenrys/gotta go fast.ogg",length=6.4845578231292516},}
 L["guile"]={{path="chatsounds/autoadd/Tenrys/guile.ogg",length=246.02399092970521},}
 L["heyooo"]={{path="chatsounds/autoadd/Tenrys/heyooo.ogg",length=0.86052154195011343},}
-L["hue"]={{path="chatsounds/autoadd/Tenrys/hue.ogg",length=18.061496598639454},}
 L["i dont want that"]={{path="chatsounds/autoadd/Tenrys/i dont want that.ogg",length=0.92179138321995469},}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/Tenrys/im that nigga ayy.ogg",length=2.0174149659863945},}
 L["in the ainis"]={{path="chatsounds/autoadd/Tenrys/in the ainis.ogg",length=0.77714285714285714},}
+L["kebab"]={{path="chatsounds/autoadd/Tenrys/kebab.ogg",length=18.061496598639454},}
 L["killbill"]={{path="chatsounds/autoadd/Tenrys/killbill.ogg",length=14.811428571428571},}
 L["kirby invincibility"]={{path="chatsounds/autoadd/Tenrys/kirby invincibility.ogg",length=5.4549659863945577},}
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/Tenrys/nice legs daisy dukes makes a man go.ogg",length=2.6178231292517005},}
