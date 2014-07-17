@@ -185,8 +185,6 @@ L["they cant have my brand"]={{path="chatsounds/autoadd/verbalsilence/they cant 
 L["thinking of yous working up my appetite looking foward to a little afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/thinking of yous working up my appetite looking foward to a little afternoon delight.ogg",length=6.068253968253968},}
 L["this castle is in unacceptable condition"]={{path="chatsounds/autoadd/verbalsilence/this castle is in unacceptable condition.ogg",length=6.9860997732426302},}
 L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/this is giving me a dragonboner.ogg",length=1.7013605442176871},}
-L["tidus and yuna laugh"]={{path="chatsounds/autoadd/verbalsilence/tidus and yuna laugh.ogg",length=3.3439909297052153},}
-L["tidus laugh"]={{path="chatsounds/autoadd/verbalsilence/tidus laugh/tidus laugh 2.ogg",length=3.4725850340136053},{path="chatsounds/autoadd/verbalsilence/tidus laugh/tidus laugh 3.ogg",length=2.7437868480725625},{path="chatsounds/autoadd/verbalsilence/tidus laugh/tidus laugh 4.ogg",length=2.7009070294784578},{path="chatsounds/autoadd/verbalsilence/tidus laugh/tidus laugh 5.ogg",length=3.6440816326530614},{path="chatsounds/autoadd/verbalsilence/tidus laugh/tidus laugh.ogg",length=3.1724943310657596},}
 L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.11965986394557823},}
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907},}
 L["two steps from hell intro"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell intro.ogg",length=28.64628117913832},}
