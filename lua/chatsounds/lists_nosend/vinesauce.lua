@@ -106,7 +106,7 @@ L["my lizard is inside"]={{path="chatsounds/autoadd/vinesauce/my lizard is insid
 L["my lizard is so wet"]={{path="chatsounds/autoadd/vinesauce/my lizard is so wet.ogg",length=1.9599319727891156},}
 L["my naked thighs are soft against your beard"]={{path="chatsounds/autoadd/vinesauce/my naked thighs are soft against your beard.ogg",length=4.5165759637188208},}
 L["no come with me i make it sexy for you"]={{path="chatsounds/autoadd/vinesauce/no come with me i make it sexy for you.ogg",length=2.1533106575963719},}
-L["now where you going"]={{path="chatsounds/autoadd/vinesauce/now where you going.ogg",length=1.1357823129251701},}
+L["no where you going"]={{path="chatsounds/autoadd/vinesauce/no where you going.ogg",length=1.1357823129251701},}
 L["o k"]={{path="chatsounds/autoadd/vinesauce/o k/o k.ogg",length=0.65829931972789113},{path="chatsounds/autoadd/vinesauce/o k/o k2.ogg",length=0.72764172335600907},{path="chatsounds/autoadd/vinesauce/o k/o k3.ogg",length=1.0471655328798186},{path="chatsounds/autoadd/vinesauce/o k/o k4.ogg",length=0.70587301587301587},{path="chatsounds/autoadd/vinesauce/o k/o k5.ogg",length=0.57882086167800451},{path="chatsounds/autoadd/vinesauce/o k/o k6.ogg",length=0.98820861678004535},{path="chatsounds/autoadd/vinesauce/o k/o k7.ogg",length=0.80569160997732425},}
 L["oh hello what is your name little man"]={{path="chatsounds/autoadd/vinesauce/oh hello what is your name little man.ogg",length=2.0906122448979594},}
 L["oh i know that song thats from acdc acdc thats big in my country"]={{path="chatsounds/autoadd/vinesauce/oh i know that song thats from acdc acdc thats big in my country.ogg",length=4.7143083900226754},}
