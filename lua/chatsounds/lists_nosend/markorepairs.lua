@@ -5,7 +5,7 @@ L["and milk"]={{path="chatsounds/autoadd/markorepairs/and milk.ogg",length=1.387
 L["and what is that haheheh"]={{path="chatsounds/autoadd/markorepairs/and what is that haheheh.ogg",length=3.2317006802721089},}
 L["and"]={{path="chatsounds/autoadd/markorepairs/and.ogg",length=0.78129251700680269},}
 L["antitobacco"]={{path="chatsounds/autoadd/markorepairs/antitobacco.ogg",length=96.211337868480726},}
-L["argh open open that is very difficult"]={{path="chatsounds/autoadd/markorepairs/argh open open that is very difficult.ogg",length=7.1103174603174599},}
+L["argh open open that is very difficult"]={{path="chatsounds/autoadd/markorepairs/argh open open that is very difficult.ogg",length=7.2023582766439906},}
 L["awful"]={{path="chatsounds/autoadd/markorepairs/awful.ogg",length=5.1934240362811792},}
 L["bad name"]={{path="chatsounds/autoadd/markorepairs/bad name.ogg",length=0.6440136054421769},}
 L["boiling my"]={{path="chatsounds/autoadd/markorepairs/boiling my.ogg",length=1.8971882086167799},}
