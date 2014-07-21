@@ -242,6 +242,7 @@ L["death awaits you all"]={{path="chatsounds/autoadd/instagib/death awaits you a
 L["dein kopf is ab du wicht"]={{path="chatsounds/autoadd/instagib/dein kopf is ab du wicht.ogg",length=1.8999999999999999},}
 L["denken"]={{path="chatsounds/autoadd/instagib/denken.ogg",length=2.7502494331065761},}
 L["deo"]={{path="chatsounds/autoadd/instagib/deo.ogg",length=3.144671201814059},}
+L["der naechste bitte"]={{path="chatsounds/autoadd/instagib/der naechste bitte.ogg",length=1.3999999999999999},}
 L["der"]={{path="chatsounds/autoadd/instagib/der.ogg",length=0.87768707482993202},}
 L["dickhole"]={{path="chatsounds/autoadd/instagib/dickhole.ogg",length=1.9564625850340136},}
 L["didr"]={{path="chatsounds/autoadd/instagib/didr.ogg",length=28.935600907029478},}
@@ -624,7 +625,6 @@ L["irre"]={{path="chatsounds/autoadd/instagib/irre.ogg",length=3.898684807256235
 L["irrsinn"]={{path="chatsounds/autoadd/instagib/irrsinn.ogg",length=3.4962358276643992},}
 L["ishendr"]={{path="chatsounds/autoadd/instagib/ishendr.ogg",length=19.360181405895691},}
 L["istot"]={{path="chatsounds/autoadd/instagib/istot.ogg",length=6.7000000000000002},}
-L["it needs to be done"]={{path="chatsounds/autoadd/instagib/it needs to be done.ogg",length=1.3999999999999999},}
 L["itchy"]={{path="chatsounds/autoadd/instagib/itchy.ogg",length=9.1261678004535156},}
 L["its a frined of mine"]={{path="chatsounds/autoadd/instagib/its a frined of mine.ogg",length=9.0679365079365084},}
 L["ja hallo erstmal"]={{path="chatsounds/autoadd/instagib/ja hallo erstmal.ogg",length=1.6742857142857144},}
