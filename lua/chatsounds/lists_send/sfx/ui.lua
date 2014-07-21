@@ -919,34 +919,6 @@ c.StartList("table: 0x45503cc8")
 			length = 28.685400009155,
 		},
 		{
-			path = "ui/gamestartup10.mp3",
-			length = 85.359474182129,
-		},
-		{
-			path = "ui/gamestartup11.mp3",
-			length = 42.170722961426,
-		},
-		{
-			path = "ui/gamestartup12.mp3",
-			length = 55.931182861328,
-		},
-		{
-			path = "ui/gamestartup13.mp3",
-			length = 980.12249755859,
-		},
-		{
-			path = "ui/gamestartup14.mp3",
-			length = 35.985202789307,
-		},
-		{
-			path = "ui/gamestartup15.mp3",
-			length = 51.411293029785,
-		},
-		{
-			path = "ui/gamestartup16.mp3",
-			length = 71.499336242676,
-		},
-		{
 			path = "ui/gamestartup2.mp3",
 			length = 107.45372009277,
 		},
@@ -977,6 +949,46 @@ c.StartList("table: 0x45503cc8")
 		{
 			path = "ui/gamestartup9.mp3",
 			length = 27.708057403564,
+		},
+		{
+			path = "ui/gamestartup10.mp3",
+			length = 85.359474182129,
+		},
+		{
+			path = "ui/gamestartup11.mp3",
+			length = 42.170722961426,
+		},
+		{
+			path = "ui/gamestartup12.mp3",
+			length = 55.931182861328,
+		},
+		{
+			path = "ui/gamestartup13.mp3",
+			length = 980.12249755859,
+		},
+		{
+			path = "ui/gamestartup14.mp3",
+			length = 35.985202789307,
+		},
+		{
+			path = "ui/gamestartup15.mp3",
+			length = 51.411293029785,
+		},
+		{
+			path = "ui/gamestartup16.mp3",
+			length = 71.499336242676,
+		},
+		{
+			path = "ui/gamestartup17.mp3",
+			length = 39.35143661499,
+		},
+		{
+			path = "ui/gamestartup18.mp3",
+			length = 69.523445129395,
+		},
+		{
+			path = "ui/gamestartup19.mp3",
+			length = 58.250221252441,
 		},
 	}
 
@@ -1124,6 +1136,13 @@ c.StartList("table: 0x45503cc8")
 		{
 			path = "ui/hint.wav",
 			length = 0.25251700680272,
+		},
+	}
+	
+	L["chemsetaddelement"] = {
+		{
+			path = "ui/chem_set_add_element.wav",
+			length = 1.2642403628118,
 		},
 	}
 c.EndList()
