@@ -1,11 +1,11 @@
-
+	
+===============================================
 Default Chatsound Volume: 	(75)
 Volume range:			(0 - 100)
 
 Default Chatsound Pitch range: 	(95 - 105)
 Pitch range:			(0 - 255)
-
-Here is a list of the modifiers and their effects:
+===============================================
 
 ! 		(Louder volume)
 !! 		(Even Louder volume)

@@ -73,7 +73,7 @@ L["instructions"]={{path="chatsounds/autoadd/cdihm_mario/instructions.ogg",lengt
 L["invite"]={{path="chatsounds/autoadd/cdihm_mario/invite.ogg",length=0.36566893424036279},}
 L["is"]={{path="chatsounds/autoadd/cdihm_mario/is.ogg",length=0.26000000000000001},}
 L["it"]={{path="chatsounds/autoadd/cdihm_mario/it.ogg",length=0.21839002267573696},}
-L["its"]={{path="chatsounds/autoadd/cdihm_mario/its/1.ogg",length=0.27700680272108841},{path="chatsounds/autoadd/cdihm_mario/its/2.ogg",length=0.15927437641723355},{path="chatsounds/autoadd/cdihm_mario/its/its.ogg",length=0.26000000000000001},}
+L["its"]={{path="chatsounds/autoadd/cdihm_mario/its/1.ogg",length=0.27700680272108846},{path="chatsounds/autoadd/cdihm_mario/its/2.ogg",length=0.15927437641723355},{path="chatsounds/autoadd/cdihm_mario/its/its.ogg",length=0.26000000000000001},}
 L["its from bowser"]={{path="chatsounds/autoadd/cdihm_mario/its from bowser.ogg",length=1.9665986394557824},}
 L["its kinda"]={{path="chatsounds/autoadd/cdihm_mario/its kinda.ogg",length=0.59335600907029473},}
 L["kanskje"]={{path="chatsounds/autoadd/cdihm_mario/kanskje.ogg",length=0.39147392290249433},}

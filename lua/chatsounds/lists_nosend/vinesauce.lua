@@ -17,7 +17,7 @@ L["come to me if you want to rp"]={{path="chatsounds/autoadd/vinesauce/come to m
 L["come to my house pls"]={{path="chatsounds/autoadd/vinesauce/come to my house pls.ogg",length=1.3877777777777778},}
 L["come to the town square"]={{path="chatsounds/autoadd/vinesauce/come to the town square.ogg",length=1.9442403628117915},}
 L["concrete"]={{path="chatsounds/autoadd/vinesauce/concrete.ogg",length=1.1498185941043084},}
-L["dada dada duts"]={{path="chatsounds/autoadd/vinesauce/dada dada duts.ogg",length=1.1080272108843536},}
+L["dada dada duts"]={{path="chatsounds/autoadd/vinesauce/dada dada duts.ogg",length=1.1080272108843539},}
 L["did anyone here order a pizza"]={{path="chatsounds/autoadd/vinesauce/did anyone here order a pizza.ogg",length=4.122063492063492},}
 L["do do you want a stove"]={{path="chatsounds/autoadd/vinesauce/do do you want a stove.ogg",length=1.5173469387755103},}
 L["do not do this"]={{path="chatsounds/autoadd/vinesauce/do not do this.ogg",length=1.4322675736961452},}

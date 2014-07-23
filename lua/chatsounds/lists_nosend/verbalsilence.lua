@@ -17,6 +17,7 @@ L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952},}
 L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292517006804},}
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428},}
+L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",length=1.295124716553288},}
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962},}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708},}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022},}
