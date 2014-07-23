@@ -97,7 +97,6 @@ L["iphone"]={{path="chatsounds/autoadd/kilroy/iphone.ogg",length=3.4135147392290
 L["its true i do have a problem"]={{path="chatsounds/autoadd/kilroy/its true i do have a problem.ogg",length=3.9609750566893425},}
 L["kabukishout"]={{path="chatsounds/autoadd/kilroy/kabukishout.ogg",length=3.1085714285714285},}
 L["kilroy"]={{path="chatsounds/autoadd/kilroy/kilroy.ogg",length=1.5181859410430838},}
-L["leeroooooy"]={{path="chatsounds/autoadd/kilroy/leeroooooy.ogg",length=1.8984126984126983},}
 L["like a boss"]={{path="chatsounds/autoadd/kilroy/like a boss.ogg",length=1.3449206349206348},}
 L["madness"]={{path="chatsounds/autoadd/kilroy/madness.ogg",length=1.1031292517006803},}
 L["manchester united"]={{path="chatsounds/autoadd/kilroy/manchester united.ogg",length=18.680634920634919},}

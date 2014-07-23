@@ -44,6 +44,7 @@ L["intriguing but highly disturbing"]={{path="chatsounds/autoadd/Gamer Poop Skyr
 L["is that new batch of crack ready for sale yet"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/is that new batch of crack ready for sale yet.ogg",length=2.1279818594104309},}
 L["jarl ballin"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/jarl ballin.ogg",length=32.295260770975055},}
 L["let us taste that sexy voice"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/let us taste that sexy voice.ogg",length=2.1572108843537414},}
+L["listen well slut"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/listen well slut.ogg",length=1.8331292517006803},}
 L["make sure to pull your back all the way back to get the most power out of your shit"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/make sure to pull your back all the way back to get the most power out of your shit.ogg",length=7.6888208616780043},}
 L["maybe we could invite some women"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/maybe we could invite some women.ogg",length=7.3541950113378682},}
 L["most of the townsfolk think its the work of the gods"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/most of the townsfolk think its the work of the gods.ogg",length=3.7177324263038547},}
