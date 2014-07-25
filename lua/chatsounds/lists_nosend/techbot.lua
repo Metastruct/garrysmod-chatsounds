@@ -61,7 +61,7 @@ L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.4150566893424036
 L["ukgamer"]={{path="chatsounds/autoadd/techbot/ukgamer/ukgamer.ogg",length=1.320045351473923},{path="chatsounds/autoadd/techbot/ukgamer/ukgamer2.ogg",length=1.3800453514739228},}
 L["warlock"]={{path="chatsounds/autoadd/techbot/warlock.ogg",length=0.99845804988662135},}
 L["warpzone"]={{path="chatsounds/autoadd/techbot/warpzone.ogg",length=2.0070748299319727},}
-L["why you heff to be mad"]={{path="chatsounds/autoadd/techbot/why you heff to be mad.ogg",length=3.4481632653061225},}
+L["why you heff to be med"]={{path="chatsounds/autoadd/techbot/why you heff to be med.ogg",length=3.4481632653061225},}
 L["wrong"]={{path="chatsounds/autoadd/techbot/wrong.ogg",length=0.86349206349206353},}
 L["yo momma"]={{path="chatsounds/autoadd/techbot/yo momma.ogg",length=0.74158730158730157},}
 L["you get noon"]={{path="chatsounds/autoadd/techbot/you get noon.ogg",length=1.619591836734694},}
