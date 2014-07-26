@@ -12,6 +12,7 @@ L["bigshake"]={{path="chatsounds/autoadd/techbot/bigshake/1.ogg",length=2.799999
 L["but"]={{path="chatsounds/autoadd/techbot/but.ogg",length=0.36827664399092969},}
 L["click"]={{path="chatsounds/autoadd/techbot/click.ogg",length=0.63709750566893419},}
 L["countdown"]={{path="chatsounds/autoadd/techbot/countdown.ogg",length=4.0228571428571431},}
+L["dick"]={{path="chatsounds/autoadd/techbot/dick.ogg",length=0.71990929705215423},}
 L["dicks"]={{path="chatsounds/autoadd/techbot/dicks.ogg",length=0.57136054421768712},}
 L["dotdotdot"]={{path="chatsounds/autoadd/techbot/dotdotdot.ogg",length=1.8996825396825396},}
 L["duh oh oh chi chicka chicka"]={{path="chatsounds/autoadd/techbot/duh oh oh chi chicka chicka.ogg",length=3.6223129251700681},}
