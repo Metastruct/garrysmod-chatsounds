@@ -19,6 +19,7 @@ L["dear god"]={{path="chatsounds/autoadd/tf2 expiration date/dear god.ogg",lengt
 L["did anyone besides scout put a card into the bucket"]={{path="chatsounds/autoadd/tf2 expiration date/did anyone besides scout put a card into the bucket.ogg",length=3.2569387755102039},}
 L["did i scout where is this going where its going is i dont need you ill put this date on myself"]={{path="chatsounds/autoadd/tf2 expiration date/did i scout where is this going where its going is i dont need you ill put this date on myself.ogg",length=4.8801587301587306},}
 L["dont worry we can fix this well get it back and the administrator never has to know"]={{path="chatsounds/autoadd/tf2 expiration date/dont worry we can fix this well get it back and the administrator never has to know.ogg",length=5.6394784580498865},}
+L["dramatic bread cue"]={{path="chatsounds/autoadd/tf2 expiration date/dramatic bread cue/1.ogg",length=5.0324036281179136},{path="chatsounds/autoadd/tf2 expiration date/dramatic bread cue/2.ogg",length=7.1435374149659863},}
 L["drunk round soft no round blurry ravishing uh huh you too hm"]={{path="chatsounds/autoadd/tf2 expiration date/drunk round soft no round blurry ravishing uh huh you too hm.ogg",length=5.4944671201814055},}
 L["eh ok"]={{path="chatsounds/autoadd/tf2 expiration date/eh ok.ogg",length=0.66875283446712019},}
 L["ehhhhye basically nobody scout im here right now"]={{path="chatsounds/autoadd/tf2 expiration date/ehhhhye basically nobody scout im here right now.ogg",length=3.4553514739229025},}
