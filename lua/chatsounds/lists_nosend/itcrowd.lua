@@ -1,5 +1,8 @@
 c.StartList("itcrowd")
 L["01189998819991197253"]={{path="chatsounds/autoadd/itcrowd/01189998819991197253/01189998819991197253-1.ogg",length=11.913106575963718},{path="chatsounds/autoadd/itcrowd/01189998819991197253/01189998819991197253-2.ogg",length=9.5838775510204073},}
+L["01189998819991197253-2"]={{path="chatsounds/autoadd/itcrowd/01189998819991197253-2.ogg",length=9.5838775510204073},}
+L["01189998819991197253"]={{path="chatsounds/autoadd/itcrowd/01189998819991197253.ogg",length=11.913106575963718},}
+L["3"]={{path="chatsounds/autoadd/itcrowd/3/3-1.ogg",length=0.50952380952380949},{path="chatsounds/autoadd/itcrowd/3/3-2.ogg",length=0.65587301587301583},{path="chatsounds/autoadd/itcrowd/3/3-3.ogg",length=0.56412698412698414},}
 L["electricsexpants"]={{path="chatsounds/autoadd/itcrowd/ElectricSexPants.ogg",length=3.3316780045351475},}
 L["and better looking drivers"]={{path="chatsounds/autoadd/itcrowd/and better looking drivers.ogg",length=1.6119501133786849},}
 L["and thats not the only thing thats changing"]={{path="chatsounds/autoadd/itcrowd/and thats not the only thing thats changing.ogg",length=2.1593877551020406},}
