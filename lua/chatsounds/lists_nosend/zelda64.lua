@@ -16,12 +16,20 @@ L["mask get"]={{path="chatsounds/autoadd/zelda64/mask get.ogg",length=4.89492063
 L["mask off"]={{path="chatsounds/autoadd/zelda64/mask off.ogg",length=3.4549206349206347},}
 L["mask on"]={{path="chatsounds/autoadd/zelda64/mask on.ogg",length=4.7029024943310658},}
 L["mm notebook"]={{path="chatsounds/autoadd/zelda64/mm notebook.ogg",length=1.4068934240362811},}
+L["mmgoronlullaby"]={{path="chatsounds/autoadd/zelda64/mmgoronlullaby.ogg",length=7.9673469387755098},}
+L["mmsongofhealing"]={{path="chatsounds/autoadd/zelda64/mmsongofhealing.ogg",length=8.2546938775510199},}
 L["nanana"]={{path="chatsounds/autoadd/zelda64/nanana.ogg",length=1.6949206349206349},}
 L["old lady"]={{path="chatsounds/autoadd/zelda64/old lady.ogg",length=1.0868934240362811},}
 L["oot item big"]={{path="chatsounds/autoadd/zelda64/oot item big.ogg",length=2.6549206349206349},}
 L["oot item small"]={{path="chatsounds/autoadd/zelda64/oot item small.ogg",length=2.7189115646258504},}
 L["oot rupee"]={{path="chatsounds/autoadd/zelda64/oot rupee.ogg",length=0.44689342403628118},}
 L["oot secret"]={{path="chatsounds/autoadd/zelda64/oot secret.ogg",length=1.3749206349206349},}
+L["ooteponassong"]={{path="chatsounds/autoadd/zelda64/ooteponassong.ogg",length=7.9673469387755098},}
+L["ootsariassong"]={{path="chatsounds/autoadd/zelda64/ootsariassong.ogg",length=8.2546938775510199},}
+L["ootsongofstorms"]={{path="chatsounds/autoadd/zelda64/ootsongofstorms.ogg",length=5.9559183673469391},}
+L["ootsongoftime"]={{path="chatsounds/autoadd/zelda64/ootsongoftime.ogg",length=10.971428571428572},}
+L["ootsunssong"]={{path="chatsounds/autoadd/zelda64/ootsunssong.ogg",length=5.9559183673469391},}
+L["ootzeldaslullaby"]={{path="chatsounds/autoadd/zelda64/ootzeldaslullaby.ogg",length=9.9526530612244901},}
 L["pause close"]={{path="chatsounds/autoadd/zelda64/pause close.ogg",length=0.67088435374149658},}
 L["pause open"]={{path="chatsounds/autoadd/zelda64/pause open.ogg",length=1.1508843537414966},}
 L["poe appear"]={{path="chatsounds/autoadd/zelda64/poe appear.ogg",length=1.6663492063492062},}
