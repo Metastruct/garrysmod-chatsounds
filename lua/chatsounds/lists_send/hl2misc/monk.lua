@@ -495,4 +495,10 @@ c.StartList("monk")
 			length = 0.6221768707483,
 		},
 	}
+	L["lookout"] = {
+		{
+			path = "vo/ravenholm/monk_danger01.wav",
+			length = 0.63036281179138,
+		},
+	}
 c.EndList()
