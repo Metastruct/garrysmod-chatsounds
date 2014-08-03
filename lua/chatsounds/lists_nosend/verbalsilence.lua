@@ -151,6 +151,7 @@ L["oh you better believe thats a bannu"]={{path="chatsounds/autoadd/verbalsilenc
 L["oh you wonderful bitch"]={{path="chatsounds/autoadd/verbalsilence/oh you wonderful bitch.ogg",length=1.6151927437641724},}
 L["omg she is so annoying"]={{path="chatsounds/autoadd/verbalsilence/omg she is so annoying.ogg",length=2.0466439909297054},}
 L["omg who the hell cares"]={{path="chatsounds/autoadd/verbalsilence/omg who the hell cares.ogg",length=3.7093877551020409},}
+L["papali papali suka"]={{path="chatsounds/autoadd/verbalsilence/papali papali suka.ogg",length=2.2204081632653061},}
 L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=19.467959183673468},}
 L["pink panther 1"]={{path="chatsounds/autoadd/verbalsilence/pink panther 1.ogg",length=101.74151927437642},}
 L["pink panther 2"]={{path="chatsounds/autoadd/verbalsilence/pink panther 2.ogg",length=45.672607709750565},}
