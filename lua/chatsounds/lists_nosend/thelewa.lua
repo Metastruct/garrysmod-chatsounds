@@ -142,5 +142,5 @@ L["wow"]={{path="chatsounds/autoadd/thelewa/wow.ogg",length=0.30621315192743764}
 L["wuah"]={{path="chatsounds/autoadd/thelewa/wuah.ogg",length=0.37587301587301586},}
 L["yawn"]={{path="chatsounds/autoadd/thelewa/yawn.ogg",length=0.77931972789115644},}
 L["yeah lets try inbachi"]={{path="chatsounds/autoadd/thelewa/yeah lets try inbachi.ogg",length=1.5731519274376418},}
-L["yeh"]={{path="chatsounds/autoadd/thelewa/yeh/yeh.ogg",length=0.44698412698412698},{path="chatsounds/autoadd/thelewa/yeh/yeh2.ogg",length=0.49777777777777776},}
+L["yeh"]={{path="chatsounds/autoadd/thelewa/yeh/yeh Copy.ogg",length=0.49777777777777776},{path="chatsounds/autoadd/thelewa/yeh/yeh.ogg",length=0.44698412698412698},}
 c.EndList()
