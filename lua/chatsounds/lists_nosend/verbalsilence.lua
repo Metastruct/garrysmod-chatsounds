@@ -21,6 +21,8 @@ L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",len
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962},}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708},}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022},}
+L["clubbed to death 1"]={{path="chatsounds/autoadd/verbalsilence/clubbed to death 1.ogg",length=175.21369614512471},}
+L["clubbed to death 2"]={{path="chatsounds/autoadd/verbalsilence/clubbed to death 2.ogg",length=270.85324263038547},}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042},}
 L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.ogg",length=1.9720861678004535},}
 L["come on you youre going to have to sit in the dunce chair"]={{path="chatsounds/autoadd/verbalsilence/come on you youre going to have to sit in the dunce chair.ogg",length=3.0021995464852607},}
@@ -88,6 +90,7 @@ L["hi baby get down here"]={{path="chatsounds/autoadd/verbalsilence/hi baby get 
 L["holla holla get dolla"]={{path="chatsounds/autoadd/verbalsilence/holla holla get dolla.ogg",length=1.4971428571428571},}
 L["holy shit man you gotta get on that"]={{path="chatsounds/autoadd/verbalsilence/holy shit man you gotta get on that.ogg",length=2.7945351473922901},}
 L["howie scream"]={{path="chatsounds/autoadd/verbalsilence/howie scream.ogg",length=2.8987074829931974},}
+L["hungarian dance no 5"]={{path="chatsounds/autoadd/verbalsilence/hungarian dance no 5.ogg",length=192.25975056689342},}
 L["i am extraordinarily busy sir"]={{path="chatsounds/autoadd/verbalsilence/i am extraordinarily busy sir.ogg",length=2.3106802721088435},}
 L["i cant help it if i have a heavy flow and a wide set vagina"]={{path="chatsounds/autoadd/verbalsilence/i cant help it if i have a heavy flow and a wide set vagina.ogg",length=3.4469841269841268},}
 L["i dont know how to put this but im kind of a big deal"]={{path="chatsounds/autoadd/verbalsilence/i dont know how to put this but im kind of a big deal.ogg",length=6.5733560090702952},}
