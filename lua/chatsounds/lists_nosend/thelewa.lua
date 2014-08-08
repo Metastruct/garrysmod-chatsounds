@@ -110,7 +110,7 @@ L["that went really well actually"]={{path="chatsounds/autoadd/thelewa/that went
 L["thats gay"]={{path="chatsounds/autoadd/thelewa/thats gay.ogg",length=0.57904761904761903},}
 L["thats it thats as far i can get"]={{path="chatsounds/autoadd/thelewa/thats it thats as far i can get.ogg",length=2.0839909297052155},}
 L["thats it"]={{path="chatsounds/autoadd/thelewa/thats it.ogg",length=0.44408163265306122},}
-L["thats not a suprise"]={{path="chatsounds/autoadd/thelewa/thats not a suprise.ogg",length=1.062312925170068},}
+L["thats not a surprise"]={{path="chatsounds/autoadd/thelewa/thats not a surprise.ogg",length=1.062312925170068},}
 L["the pen weights like 100kg"]={{path="chatsounds/autoadd/thelewa/the pen weights like 100kg.ogg",length=2.6093424036281179},}
 L["the streams are real"]={{path="chatsounds/autoadd/thelewa/the streams are real.ogg",length=1.3467573696145125},}
 L["the tears check out the tears"]={{path="chatsounds/autoadd/thelewa/the tears check out the tears.ogg",length=2.2712018140589567},}
