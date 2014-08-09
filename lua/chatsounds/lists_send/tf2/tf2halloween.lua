@@ -2554,19 +2554,25 @@ c.StartList("tf2halloween")
 		},
 	}
 	
+	L["hoot"] = {
+		{
+			path = "vo/sniper_item_birdhead_round_start06.wav",
+			length = 0.59639455782313,
+		},
+	}
+	
 	L["hoot hoot"] = {
 		{
 			path = "vo/sniper_item_birdhead_round_start02.wav",
 			length = 1.6333106575964,
 		},
 		{
-			path = "vo/sniper_item_birdhead_round_start06.wav",
-			length = 0.59639455782313,
-		},
-		{
 			path = "vo/sniper_item_birdhead_uber01.wav",
 			length = 2.2807936507937,
 		},
+	}
+	
+	L["hoot am i the only bloody owl"] = {
 		{
 			path = "vo/sniper_item_birdhead_round_start07.wav",
 			length = 2.9793650793651,
