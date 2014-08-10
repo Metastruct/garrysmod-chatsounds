@@ -91,7 +91,7 @@ L["highway to the dangerzone"]={{path="chatsounds/autoadd/verbalsilence/highway 
 L["holla holla get dolla"]={{path="chatsounds/autoadd/verbalsilence/holla holla get dolla.ogg",length=1.4971428571428571},}
 L["holy shit man you gotta get on that"]={{path="chatsounds/autoadd/verbalsilence/holy shit man you gotta get on that.ogg",length=2.7945351473922901},}
 L["howie scream"]={{path="chatsounds/autoadd/verbalsilence/howie scream.ogg",length=2.8987074829931974},}
-L["hungarian dance no 5"]={{path="chatsounds/autoadd/verbalsilence/hungarian dance no 5.ogg",length=192.25975056689342},}
+L["hungarian dance no 5"]={{path="chatsounds/autoadd/verbalsilence/hungarian dance no 5.ogg",length=155.66367346938776},}
 L["i am extraordinarily busy sir"]={{path="chatsounds/autoadd/verbalsilence/i am extraordinarily busy sir.ogg",length=2.3106802721088435},}
 L["i cant help it if i have a heavy flow and a wide set vagina"]={{path="chatsounds/autoadd/verbalsilence/i cant help it if i have a heavy flow and a wide set vagina.ogg",length=3.4469841269841268},}
 L["i dont know how to put this but im kind of a big deal"]={{path="chatsounds/autoadd/verbalsilence/i dont know how to put this but im kind of a big deal.ogg",length=6.5733560090702952},}
