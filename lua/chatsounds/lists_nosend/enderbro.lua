@@ -22,6 +22,6 @@ L["what is happening"]={{path="chatsounds/autoadd/enderbro/what is happening.ogg
 L["wtff"]={{path="chatsounds/autoadd/enderbro/wtff.ogg",length=1.9646258503401361},}
 L["you got a problem with that nyugga"]={{path="chatsounds/autoadd/enderbro/you got a problem with that nyugga.ogg",length=2.5212698412698411},}
 L["you type wwwcom"]={{path="chatsounds/autoadd/enderbro/you type wwwcom.ogg",length=2.5152380952380953},}
-L["you're going surfing on the jelonet"]={{path="chatsounds/autoadd/enderbro/you're going surfing on the jelonet.ogg",length=2.7383673469387757},}
 L["your killing me"]={{path="chatsounds/autoadd/enderbro/your killing me.ogg",length=0.85571428571428576},}
+L["youre going surfing on the jelonet"]={{path="chatsounds/autoadd/enderbro/youre going surfing on the jelonet.ogg",length=2.7383673469387757},}
 c.EndList()

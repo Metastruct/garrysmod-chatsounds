@@ -17,6 +17,7 @@ L["i love you no im fucking done im fucking done this is bullshit"]={{path="chat
 L["im superman i believe i can fly"]={{path="chatsounds/autoadd/jontron/im superman i believe i can fly.ogg",length=8.0235600907029472},}
 L["is that a fn poop rat"]={{path="chatsounds/autoadd/jontron/is that a fn poop rat.ogg",length=1.0778458049886621},}
 L["is that a poop rat"]={{path="chatsounds/autoadd/jontron/is that a poop rat.ogg",length=0.81916099773242634},}
+L["jon madden"]={{path="chatsounds/autoadd/jontron/jon madden.ogg",length=18.912653061224489},}
 L["jonlaughconker"]={{path="chatsounds/autoadd/jontron/jonlaughconker.ogg",length=13.418231292517007},}
 L["jontronmariocitysimulatorrage"]={{path="chatsounds/autoadd/jontron/jontronmariocitysimulatorrage.ogg",length=15.882448979591837},}
 L["not fucking this"]={{path="chatsounds/autoadd/jontron/not fucking this.ogg",length=1.6820408163265306},}
