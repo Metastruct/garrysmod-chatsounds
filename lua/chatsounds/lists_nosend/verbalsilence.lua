@@ -21,8 +21,6 @@ L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",len
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962},}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708},}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022},}
-L["clubbed to death 1"]={{path="chatsounds/autoadd/verbalsilence/clubbed to death 1.ogg",length=175.21369614512471},}
-L["clubbed to death 2"]={{path="chatsounds/autoadd/verbalsilence/clubbed to death 2.ogg",length=270.85324263038547},}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042},}
 L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.ogg",length=1.9720861678004535},}
 L["come on you youre going to have to sit in the dunce chair"]={{path="chatsounds/autoadd/verbalsilence/come on you youre going to have to sit in the dunce chair.ogg",length=3.0021995464852607},}
@@ -87,11 +85,9 @@ L["headcrab apply directly to the forehead"]={{path="chatsounds/autoadd/verbalsi
 L["heh yeah boi"]={{path="chatsounds/autoadd/verbalsilence/heh yeah boi.ogg",length=1.3926303854875284},}
 L["hhhhhhhh"]={{path="chatsounds/autoadd/verbalsilence/hhhhhhhh.ogg",length=3.0109750566893423},}
 L["hi baby get down here"]={{path="chatsounds/autoadd/verbalsilence/hi baby get down here.ogg",length=3.8775056689342402},}
-L["highway to the dangerzone"]={{path="chatsounds/autoadd/verbalsilence/highway to the dangerzone.ogg",length=212.1933560090703},}
 L["holla holla get dolla"]={{path="chatsounds/autoadd/verbalsilence/holla holla get dolla.ogg",length=1.4971428571428571},}
 L["holy shit man you gotta get on that"]={{path="chatsounds/autoadd/verbalsilence/holy shit man you gotta get on that.ogg",length=2.7945351473922901},}
 L["howie scream"]={{path="chatsounds/autoadd/verbalsilence/howie scream.ogg",length=2.8987074829931974},}
-L["hungarian dance no 5"]={{path="chatsounds/autoadd/verbalsilence/hungarian dance no 5.ogg",length=155.66367346938776},}
 L["i am extraordinarily busy sir"]={{path="chatsounds/autoadd/verbalsilence/i am extraordinarily busy sir.ogg",length=2.3106802721088435},}
 L["i cant help it if i have a heavy flow and a wide set vagina"]={{path="chatsounds/autoadd/verbalsilence/i cant help it if i have a heavy flow and a wide set vagina.ogg",length=3.4469841269841268},}
 L["i dont know how to put this but im kind of a big deal"]={{path="chatsounds/autoadd/verbalsilence/i dont know how to put this but im kind of a big deal.ogg",length=6.5733560090702952},}
@@ -175,14 +171,12 @@ L["shut up baby i know it"]={{path="chatsounds/autoadd/verbalsilence/shut up bab
 L["sit yo five dolla ass down before i make change"]={{path="chatsounds/autoadd/verbalsilence/sit yo five dolla ass down before i make change.ogg",length=3.0631292517006803},}
 L["sky rockets in flight boom afternoon delight woop"]={{path="chatsounds/autoadd/verbalsilence/sky rockets in flight boom afternoon delight woop.ogg",length=6.8660544217687072},}
 L["smells like bigfoots dick"]={{path="chatsounds/autoadd/verbalsilence/smells like bigfoots dick.ogg",length=2.4277551020408161},}
-L["snake eater theme"]={{path="chatsounds/autoadd/verbalsilence/snake eater theme.ogg",length=178.10285714285715},}
 L["stay away from the light"]={{path="chatsounds/autoadd/verbalsilence/stay away from the light.ogg",length=2.2523356009070294},}
 L["stfu2"]={{path="chatsounds/autoadd/verbalsilence/stfu2.ogg",length=1.2829251700680273},}
 L["stfu3"]={{path="chatsounds/autoadd/verbalsilence/stfu3.ogg",length=1.9559183673469387},}
 L["stfu4"]={{path="chatsounds/autoadd/verbalsilence/stfu4.ogg",length=2.2028798185941043},}
 L["stfu5"]={{path="chatsounds/autoadd/verbalsilence/stfu5.ogg",length=1.4661224489795919},}
 L["suprise cockfags"]={{path="chatsounds/autoadd/verbalsilence/suprise cockfags.ogg",length=1.2824036281179139},}
-L["take five"]={{path="chatsounds/autoadd/verbalsilence/take five.ogg",length=329.58693877551019},}
 L["thaats it"]={{path="chatsounds/autoadd/verbalsilence/thaats it.ogg",length=0.96013605442176875},}
 L["thats a huge bitch"]={{path="chatsounds/autoadd/verbalsilence/thats a huge bitch.ogg",length=1.1865079365079365},}
 L["thats all for now"]={{path="chatsounds/autoadd/verbalsilence/thats all for now.ogg",length=0.74294784580498863},}
@@ -194,7 +188,6 @@ L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/th
 L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.11965986394557823},}
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907},}
 L["two steps from hell intro"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell intro.ogg",length=28.64628117913832},}
-L["two steps from hell loop"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell loop.ogg",length=74.93244897959184},}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911},}
 L["vat did you cool me"]={{path="chatsounds/autoadd/verbalsilence/vat did you cool me.ogg",length=1.5342630385487528},}
 L["verbal"]={{path="chatsounds/autoadd/verbalsilence/verbal.ogg",length=0.80759637188208622},}

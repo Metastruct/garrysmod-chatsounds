@@ -21,7 +21,6 @@ L["dun dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun dun.ogg",length=2.403
 L["dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun.ogg",length=2.1681632653061222},}
 L["fart"]={{path="chatsounds/autoadd/Tenrys/fart.ogg",length=0.20160997732426303},}
 L["gotta go fast"]={{path="chatsounds/autoadd/Tenrys/gotta go fast.ogg",length=6.4845578231292516},}
-L["guile"]={{path="chatsounds/autoadd/Tenrys/guile.ogg",length=246.02399092970521},}
 L["heyooo"]={{path="chatsounds/autoadd/Tenrys/heyooo.ogg",length=0.86052154195011343},}
 L["i dont want that"]={{path="chatsounds/autoadd/Tenrys/i dont want that.ogg",length=0.92179138321995469},}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/Tenrys/im that nigga ayy.ogg",length=2.0174149659863945},}
@@ -37,7 +36,6 @@ L["ogh"]={{path="chatsounds/autoadd/Tenrys/ogh.ogg",length=0.47943310657596372},
 L["the big laugh"]={{path="chatsounds/autoadd/Tenrys/the big laugh.ogg",length=58.51199546485261},}
 L["thwomp"]={{path="chatsounds/autoadd/Tenrys/thwomp.ogg",length=0.76256235827664398},}
 L["toasty"]={{path="chatsounds/autoadd/Tenrys/toasty.ogg",length=0.8463492063492063},}
-L["tomfoolery"]={{path="chatsounds/autoadd/Tenrys/tomfoolery.ogg",length=126.33600907029478},}
 L["too easy"]={{path="chatsounds/autoadd/Tenrys/too easy.ogg",length=0.86358276643990928},}
 L["what you say nigga"]={{path="chatsounds/autoadd/Tenrys/what you say nigga.ogg",length=5.5379591836734692},}
 c.EndList()

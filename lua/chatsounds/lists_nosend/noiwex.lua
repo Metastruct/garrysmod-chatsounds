@@ -121,7 +121,6 @@ L["vagineer pain"]={{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_pain
 L["volyny k boju"]={{path="chatsounds/autoadd/noiwex/volyny k boju.mp3",length=1.5552834467120182},}
 L["wall"]={{path="chatsounds/autoadd/noiwex/wall.ogg",length=0.3341043083900227},}
 L["warp"]={{path="chatsounds/autoadd/noiwex/warp.ogg",length=1.6469387755102041},}
-L["we bandit now"]={{path="chatsounds/autoadd/noiwex/we bandit now.ogg",length=113.64678004535148},}
 L["what year is this"]={{path="chatsounds/autoadd/noiwex/what year is this.ogg",length=1.050702947845805},}
 L["when you hit a wall you get this nice boom you hit it in your leap and you go"]={{path="chatsounds/autoadd/noiwex/when you hit a wall you get this nice boom you hit it in your leap and you go.ogg",length=3.769705215419501},}
 L["when you hit a wall"]={{path="chatsounds/autoadd/noiwex/when you hit a wall.ogg",length=0.92541950113378679},}

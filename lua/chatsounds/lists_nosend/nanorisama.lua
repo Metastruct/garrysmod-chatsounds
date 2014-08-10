@@ -17,7 +17,6 @@ L["now it is time for father son bonding"]={{path="chatsounds/autoadd/nanorisama
 L["oh shitt"]={{path="chatsounds/autoadd/nanorisama/oh shitt.ogg",length=0.53405895691609973},}
 L["ohnoknuckle"]={{path="chatsounds/autoadd/nanorisama/ohnoknuckle.ogg",length=0.60371882086167805},}
 L["okay daddy"]={{path="chatsounds/autoadd/nanorisama/okay daddy.ogg",length=1.050702947845805},}
-L["spookyscarydaftpunk"]={{path="chatsounds/autoadd/nanorisama/spookyscarydaftpunk.ogg",length=171.46775510204083},}
 L["the pizza is aggressive"]={{path="chatsounds/autoadd/nanorisama/the pizza is aggressive.ogg",length=1.4193197278911565},}
 L["totaka song"]={{path="chatsounds/autoadd/nanorisama/totaka song/totaka song1.ogg",length=14.837551020408164},{path="chatsounds/autoadd/nanorisama/totaka song/totaka song2.ogg",length=9.000634920634921},}
 L["what do you want derrick"]={{path="chatsounds/autoadd/nanorisama/what do you want derrick.ogg",length=1.3812471655328797},}

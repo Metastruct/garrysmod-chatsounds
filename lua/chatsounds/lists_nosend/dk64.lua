@@ -1,7 +1,6 @@
 c.StartList("dk64")
 L["aah"]={{path="chatsounds/autoadd/dk64/aah.ogg",length=0.78845804988662127},}
 L["and"]={{path="chatsounds/autoadd/dk64/and.ogg",length=0.98517006802721085},}
-L["dkrap"]={{path="chatsounds/autoadd/dk64/dkrap.ogg",length=203.31102040816327},}
 L["eight"]={{path="chatsounds/autoadd/dk64/eight.ogg",length=0.90718820861678007},}
 L["eleven"]={{path="chatsounds/autoadd/dk64/eleven.ogg",length=1.6409297052154195},}
 L["fakekingkrool laugh"]={{path="chatsounds/autoadd/dk64/fakekingkrool laugh.ogg",length=1.8843083900226758},}
