@@ -59,6 +59,7 @@ L["spaceship"]={{path="chatsounds/autoadd/techbot/spaceship.ogg",length=2.179773
 L["subaluwa"]={{path="chatsounds/autoadd/techbot/subaluwa.ogg",length=0.98539682539682538},}
 L["surprise motherfucker"]={{path="chatsounds/autoadd/techbot/surprise motherfucker.ogg",length=1.8227664399092971},}
 L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.41505668934240364},}
+L["ughghghghghgh"]={{path="chatsounds/autoadd/techbot/ughghghghghgh.ogg",length=8.8961451247165542},}
 L["ukgamer"]={{path="chatsounds/autoadd/techbot/ukgamer/ukgamer.ogg",length=1.320045351473923},{path="chatsounds/autoadd/techbot/ukgamer/ukgamer2.ogg",length=1.3800453514739228},}
 L["warlock"]={{path="chatsounds/autoadd/techbot/warlock.ogg",length=0.99845804988662135},}
 L["warpzone"]={{path="chatsounds/autoadd/techbot/warpzone.ogg",length=2.0070748299319727},}
