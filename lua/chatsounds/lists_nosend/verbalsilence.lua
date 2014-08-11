@@ -77,6 +77,7 @@ L["glen coco"]={{path="chatsounds/autoadd/verbalsilence/glen coco.ogg",length=1.
 L["gonna find my baby gonna hold her tight gonna find some afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/gonna find my baby gonna hold her tight gonna find some afternoon delight.ogg",length=6.4308843537414964},}
 L["good day sir"]={{path="chatsounds/autoadd/verbalsilence/good day sir.ogg",length=1.7656462585034014},}
 L["goofy scream"]={{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream 2.ogg",length=1.7786848072562358},{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream 3.ogg",length=2.1186394557823127},{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream 4.ogg",length=2.1975510204081634},{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream.ogg",length=4.1887074829931974},}
+L["gta wasted"]={{path="chatsounds/autoadd/verbalsilence/gta wasted.ogg",length=7.5296825396825398},}
 L["gun"]={{path="chatsounds/autoadd/verbalsilence/gun.ogg",length=0.86004535147392291},}
 L["hah hah"]={{path="chatsounds/autoadd/verbalsilence/hah hah.ogg",length=3.8056009070294783},}
 L["hai baby"]={{path="chatsounds/autoadd/verbalsilence/hai baby.ogg",length=1.3526077097505669},}
@@ -88,6 +89,7 @@ L["hi baby get down here"]={{path="chatsounds/autoadd/verbalsilence/hi baby get 
 L["holla holla get dolla"]={{path="chatsounds/autoadd/verbalsilence/holla holla get dolla.ogg",length=1.4971428571428571},}
 L["holy shit man you gotta get on that"]={{path="chatsounds/autoadd/verbalsilence/holy shit man you gotta get on that.ogg",length=2.7945351473922901},}
 L["howie scream"]={{path="chatsounds/autoadd/verbalsilence/howie scream.ogg",length=2.8987074829931974},}
+L["i am assuming direct control"]={{path="chatsounds/autoadd/verbalsilence/i am assuming direct control.ogg",length=2.7996598639455783},}
 L["i am extraordinarily busy sir"]={{path="chatsounds/autoadd/verbalsilence/i am extraordinarily busy sir.ogg",length=2.3106802721088435},}
 L["i cant help it if i have a heavy flow and a wide set vagina"]={{path="chatsounds/autoadd/verbalsilence/i cant help it if i have a heavy flow and a wide set vagina.ogg",length=3.4469841269841268},}
 L["i dont know how to put this but im kind of a big deal"]={{path="chatsounds/autoadd/verbalsilence/i dont know how to put this but im kind of a big deal.ogg",length=6.5733560090702952},}
@@ -107,6 +109,7 @@ L["i wanna be friends with it"]={{path="chatsounds/autoadd/verbalsilence/i wanna
 L["i wanna be on you"]={{path="chatsounds/autoadd/verbalsilence/i wanna be on you.ogg",length=1.6180498866213151},}
 L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i wasnt talking about spaghetti.ogg",length=1.2800907029478459},}
 L["idk wth youre feeding him but he is too damn big"]={{path="chatsounds/autoadd/verbalsilence/idk wth youre feeding him but he is too damn big.ogg",length=3.2221541950113379},}
+L["if you can dodge a wrench you can dodge a ball"]={{path="chatsounds/autoadd/verbalsilence/if you can dodge a wrench you can dodge a ball.ogg",length=2.7797052154195012},}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735283446712018},}
 L["in the event of an emergency my ass can be used as a floatation device"]={{path="chatsounds/autoadd/verbalsilence/in the event of an emergency my ass can be used as a floatation device.ogg",length=3.7717460317460318},}
 L["intervention"]={{path="chatsounds/autoadd/verbalsilence/intervention.ogg",length=1.2499773242630385},}
