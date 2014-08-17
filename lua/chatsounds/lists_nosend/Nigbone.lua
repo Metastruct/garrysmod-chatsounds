@@ -2,6 +2,7 @@ c.StartList("Nigbone")
 L["9 11 was an inside job man"]={{path="chatsounds/autoadd/Nigbone/9 11 was an inside job man.ogg",length=2.925215419501134},}
 L["acting like they was some fucked up jesus"]={{path="chatsounds/autoadd/Nigbone/acting like they was some fucked up jesus.ogg",length=2.5309523809523808},}
 L["aint my business"]={{path="chatsounds/autoadd/Nigbone/aint my business.ogg",length=1.0543083900226757},}
+L["aint you listening"]={{path="chatsounds/autoadd/Nigbone/aint you listening.ogg",length=1.0533333333333332},}
 L["always tell them pills here pills here"]={{path="chatsounds/autoadd/Nigbone/always tell them pills here pills here.ogg",length=3.6767800453514741},}
 L["am i detecting some sass"]={{path="chatsounds/autoadd/Nigbone/am i detecting some sass.ogg",length=2.0423582766439909},}
 L["and fuck both chu"]={{path="chatsounds/autoadd/Nigbone/and fuck both chu.ogg",length=1.133514739229025},}
@@ -235,6 +236,7 @@ L["that sounds gross as a motherfucker"]={{path="chatsounds/autoadd/Nigbone/that
 L["thats bull shit"]={{path="chatsounds/autoadd/Nigbone/thats bull shit.ogg",length=0.98464852607709752},}
 L["thats stupid stfu"]={{path="chatsounds/autoadd/Nigbone/thats stupid stfu.ogg",length=2.532154195011338},}
 L["thats what i said marfucker abrasions aint you listening"]={{path="chatsounds/autoadd/Nigbone/thats what i said marfucker abrasions aint you listening.ogg",length=3.8226530612244898},}
+L["thats what i said mfer"]={{path="chatsounds/autoadd/Nigbone/thats what i said mfer.ogg",length=1.8433333333333333},}
 L["there is something going on with this asshole"]={{path="chatsounds/autoadd/Nigbone/there is something going on with this asshole.ogg",length=2.7730612244897959},}
 L["theres the danger 1"]={{path="chatsounds/autoadd/Nigbone/theres the danger 1.ogg",length=34.050090702947848},}
 L["theres the danger 2"]={{path="chatsounds/autoadd/Nigbone/theres the danger 2.ogg",length=42.934240362811792},}
