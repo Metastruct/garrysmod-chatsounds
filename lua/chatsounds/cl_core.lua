@@ -1184,6 +1184,42 @@ function chatsounds.PlaySound(chtsnd, id)
 	hook.Call("PostChatSound", GAMEMODE, chtsnd)
 end
 
+file.CreateDir("chatsounds")
+
+function chatsounds.GenListCached(name,time,cb)
+	local path = "chatsounds/"..name..'.txt'
+	
+	local t = file.Time(path,'DATA')
+	if t and t>time then
+		local t = util.JSONToTable(file.Read(path,'DATA'))
+		if t then 
+			return t
+		end
+	end
+	
+	local t = cb()
+	
+	if not t then return end
+	
+	file.Write(path,util.TableToJSON(t))
+	
+	return t
+end
+
+function chatsounds.LoadCachedList(dirname,name,time,cb)
+	
+	local t = chatsounds.GenListCached(dirname,time,cb)
+	
+	c.StartList(name)
+	for k,v in next,t do
+		L[k] = { v }
+	end
+	c.EndList()
+
+end
+
+
+
 function chatsounds.ReceiveUsermessage(data)
 	local ply = data:ReadEntity()
 	if not IsValid(ply) or ply:GetPos():Distance(LocalPlayer():GetPos()) > 5000 then return end -- maybe an is audible function?
