@@ -19,6 +19,7 @@ L["dun"]={{path="chatsounds/autoadd/Tenrys/dun/dun01.ogg",length=1.1724489795918
 L["dun dun dun vroom"]={{path="chatsounds/autoadd/Tenrys/dun dun dun vroom.ogg",length=1.0873242630385487},}
 L["dun dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun dun.ogg",length=2.4032653061224489},}
 L["dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun.ogg",length=2.1681632653061222},}
+L["expand dong"]={{path="chatsounds/autoadd/Tenrys/expand dong/1.ogg",length=1.0245804988662131},{path="chatsounds/autoadd/Tenrys/expand dong/2.ogg",length=1.1884126984126984},}
 L["fart"]={{path="chatsounds/autoadd/Tenrys/fart.ogg",length=0.20160997732426303},}
 L["gotta go fast"]={{path="chatsounds/autoadd/Tenrys/gotta go fast.ogg",length=6.4845578231292516},}
 L["heyooo"]={{path="chatsounds/autoadd/Tenrys/heyooo.ogg",length=0.86052154195011343},}
