@@ -1,5 +1,4 @@
 c.StartList("hl2jks")
-L["!"]={{path="chatsounds/autoadd/hl2jks/!.ogg",length=1.9384126984126984},}
 L["44 caliber ammunition"]={{path="chatsounds/autoadd/hl2jks/44 caliber ammunition.ogg",length=2.2407029478458051},}
 L["44 caliber handgun"]={{path="chatsounds/autoadd/hl2jks/44 caliber handgun.ogg",length=1.8691836734693879},}
 L["9mm ammunition"]={{path="chatsounds/autoadd/hl2jks/9mm ammunition.ogg",length=1.5847392290249434},}

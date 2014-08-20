@@ -108,7 +108,7 @@ L["whats wrong with your eyes"]={{path="chatsounds/autoadd/arnold/whats wrong wi
 L["where are we"]={{path="chatsounds/autoadd/arnold/where are we.ogg",length=2.8388208616780046},}
 L["will not kill anyone"]={{path="chatsounds/autoadd/arnold/will not kill anyone.ogg",length=2.1763718820861677},}
 L["writhing in pain"]={{path="chatsounds/autoadd/arnold/writhing in pain.ogg",length=5.5625850340136056},}
-L["wrong"]={{path="chatsounds/autoadd/arnold/wrong.ogg",length=2.2913378684807255},}
+L["wrong boom"]={{path="chatsounds/autoadd/arnold/wrong boom.ogg",length=2.2913378684807255},}
 L["yes01"]={{path="chatsounds/autoadd/arnold/yes01.ogg",length=0.4239909297052154},}
 L["you hear the crunch"]={{path="chatsounds/autoadd/arnold/you hear the crunch.ogg",length=1.6899319727891156},}
 L["you s o b"]={{path="chatsounds/autoadd/arnold/you s o b.ogg",length=2.1294331065759637},}

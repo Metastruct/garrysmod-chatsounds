@@ -627,6 +627,7 @@ L["ishendr"]={{path="chatsounds/autoadd/instagib/ishendr.ogg",length=19.36018140
 L["istot"]={{path="chatsounds/autoadd/instagib/istot.ogg",length=6.7000000000000002},}
 L["itchy"]={{path="chatsounds/autoadd/instagib/itchy.ogg",length=9.1261678004535156},}
 L["its a frined of mine"]={{path="chatsounds/autoadd/instagib/its a frined of mine.ogg",length=9.0679365079365084},}
+L["ive got the power"]={{path="chatsounds/autoadd/instagib/ive got the power.ogg",length=3.9444897959183671},}
 L["ja hallo erstmal"]={{path="chatsounds/autoadd/instagib/ja hallo erstmal.ogg",length=1.6742857142857144},}
 L["ja1"]={{path="chatsounds/autoadd/instagib/ja1.ogg",length=0.83111111111111113},}
 L["ja2"]={{path="chatsounds/autoadd/instagib/ja2.ogg",length=0.83111111111111113},}
@@ -963,7 +964,6 @@ L["polzei2"]={{path="chatsounds/autoadd/instagib/polzei2.ogg",length=6.741541950
 L["popo"]={{path="chatsounds/autoadd/instagib/popo.ogg",length=2.5077551020408162},}
 L["poppen"]={{path="chatsounds/autoadd/instagib/poppen.ogg",length=4.2999999999999998},}
 L["porki"]={{path="chatsounds/autoadd/instagib/porki.ogg",length=5.8117913832199548},}
-L["power"]={{path="chatsounds/autoadd/instagib/power.ogg",length=3.9444897959183671},}
 L["preis"]={{path="chatsounds/autoadd/instagib/preis.ogg",length=5.5730612244897957},}
 L["prepare to fight"]={{path="chatsounds/autoadd/instagib/prepare to fight.ogg",length=1.2016326530612245},}
 L["prgel"]={{path="chatsounds/autoadd/instagib/prgel.ogg",length=4.3053514739229026},}

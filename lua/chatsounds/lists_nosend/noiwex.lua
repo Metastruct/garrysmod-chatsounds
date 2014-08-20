@@ -20,12 +20,11 @@ L["aui"]={{path="chatsounds/autoadd/noiwex/aui.mp3",length=0.57523809523809522},
 L["battlefield"]={{path="chatsounds/autoadd/noiwex/battlefield.ogg",length=0.63272108843537411},}
 L["bf3intro bash"]={{path="chatsounds/autoadd/noiwex/bf3intro bash.ogg",length=4.6596598639455786},}
 L["bf3intro"]={{path="chatsounds/autoadd/noiwex/bf3intro.ogg",length=26.668775510204082},}
+L["biggasp"]={{path="chatsounds/autoadd/noiwex/biggasp.ogg",length=1.4048072562358276},}
 L["bo"]={{path="chatsounds/autoadd/noiwex/bo.ogg",length=0.20417233560090703},}
 L["boom"]={{path="chatsounds/autoadd/noiwex/boom.ogg",length=0.42575963718820864},}
 L["bye bye"]={{path="chatsounds/autoadd/noiwex/bye bye.ogg",length=0.84147392290249434},}
-L["c"]={{path="chatsounds/autoadd/noiwex/c.ogg",length=0.65333333333333332},}
 L["call of duty"]={{path="chatsounds/autoadd/noiwex/call of duty/call of duty 2.ogg",length=0.61793650793650789},{path="chatsounds/autoadd/noiwex/call of duty/call of duty.ogg",length=0.58539682539682536},}
-L["collecting bbonnee"]={{path="chatsounds/autoadd/noiwex/collecting bbonnee.ogg",length=1.0753061224489795},}
 L["come on"]={{path="chatsounds/autoadd/noiwex/come on.ogg",length=0.9570068027210884},}
 L["cyka"]={{path="chatsounds/autoadd/noiwex/cyka.ogg",length=0.4783219954648526},}
 L["delete this"]={{path="chatsounds/autoadd/noiwex/delete this/2.ogg",length=2.1461904761904762},{path="chatsounds/autoadd/noiwex/delete this/3.ogg",length=2.3885034013605444},{path="chatsounds/autoadd/noiwex/delete this/4.ogg",length=2.2049433106575962},{path="chatsounds/autoadd/noiwex/delete this/delete this.ogg",length=2.3136507936507935},}
@@ -38,7 +37,6 @@ L["fuck you"]={{path="chatsounds/autoadd/noiwex/fuck you.ogg",length=1.640566893
 L["garry"]={{path="chatsounds/autoadd/noiwex/garry/garry-2.ogg",length=0.79954648526077099},{path="chatsounds/autoadd/noiwex/garry/garry-3.ogg",length=0.88841269841269843},{path="chatsounds/autoadd/noiwex/garry/garry.ogg",length=0.84396825396825392},}
 L["garry help me"]={{path="chatsounds/autoadd/noiwex/garry help me.ogg",length=1.1327210884353742},}
 L["garry please be my waifu"]={{path="chatsounds/autoadd/noiwex/garry please be my waifu.ogg",length=1.6213151927437641},}
-L["gasp"]={{path="chatsounds/autoadd/noiwex/gasp.ogg",length=1.4048072562358276},}
 L["god with us"]={{path="chatsounds/autoadd/noiwex/god with us.ogg",length=0.90557823129251702},}
 L["great scott"]={{path="chatsounds/autoadd/noiwex/great scott.ogg",length=1.1493877551020408},}
 L["haah"]={{path="chatsounds/autoadd/noiwex/haah.ogg",length=0.93891156462585035},}
@@ -54,17 +52,15 @@ L["i must break you"]={{path="chatsounds/autoadd/noiwex/i must break you.ogg",le
 L["ill show you whos the boss of this gym"]={{path="chatsounds/autoadd/noiwex/ill show you whos the boss of this gym.ogg",length=2.0165532879818593},}
 L["jaja"]={{path="chatsounds/autoadd/noiwex/jaja.ogg",length=0.72632653061224495},}
 L["jeeg"]={{path="chatsounds/autoadd/noiwex/jeeg.ogg",length=1.3883446712018142},}
-L["khkkk aaaaa no more"]={{path="chatsounds/autoadd/noiwex/kHKKK AAAAA NO MORE.ogg",length=3.5116780045351472},}
 L["kaaaio"]={{path="chatsounds/autoadd/noiwex/kaaaio.ogg",length=0.69975056689342408},}
 L["killbot"]={{path="chatsounds/autoadd/noiwex/killbot.ogg",length=8.9050340136054427},}
 L["kuk"]={{path="chatsounds/autoadd/noiwex/kuk.ogg",length=0.3675736961451247},}
 L["la roux"]={{path="chatsounds/autoadd/noiwex/la roux.ogg",length=45.095238095238095},}
 L["lets go"]={{path="chatsounds/autoadd/noiwex/lets go.ogg",length=0.85446712018140591},}
 L["machu punta yey"]={{path="chatsounds/autoadd/noiwex/machu punta yey.ogg",length=1.3906349206349207},}
-L["meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeem"]={{path="chatsounds/autoadd/noiwex/meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeem.ogg",length=3.9336281179138322},}
 L["meem robotic"]={{path="chatsounds/autoadd/noiwex/meem robotic.ogg",length=1.497233560090703},}
 L["mmeglitch"]={{path="chatsounds/autoadd/noiwex/mmeglitch.ogg",length=7.3142857142857141},}
-L["mmm"]={{path="chatsounds/autoadd/noiwex/mmm.ogg",length=1.517392290249433},}
+L["mmmmm"]={{path="chatsounds/autoadd/noiwex/mmmmm.ogg",length=1.517392290249433},}
 L["na havai suka"]={{path="chatsounds/autoadd/noiwex/na havai suka.mp3",length=1.7709523809523811},}
 L["ne nu ya ne ponyal"]={{path="chatsounds/autoadd/noiwex/ne nu ya ne ponyal.mp3",length=1.4015873015873015},}
 L["neashigna haarra neeshigna"]={{path="chatsounds/autoadd/noiwex/neashigna haarra neeshigna.ogg",length=3.3483673469387756},}
@@ -85,7 +81,6 @@ L["pweehahaha"]={{path="chatsounds/autoadd/noiwex/pweehahaha.ogg",length=1.22235
 L["radio mayak"]={{path="chatsounds/autoadd/noiwex/radio mayak.ogg",length=8.0114739229024945},}
 L["rar sos"]={{path="chatsounds/autoadd/noiwex/rar sos.ogg",length=0.86362811791383221},}
 L["rar"]={{path="chatsounds/autoadd/noiwex/rar.ogg",length=0.50931972789115643},}
-L["rararara"]={{path="chatsounds/autoadd/noiwex/rararara.ogg",length=1.2114058956916101},}
 L["rarr"]={{path="chatsounds/autoadd/noiwex/rarr.ogg",length=0.50931972789115643},}
 L["rawr"]={{path="chatsounds/autoadd/noiwex/rawr.ogg",length=0.50931972789115643},}
 L["real power"]={{path="chatsounds/autoadd/noiwex/real power.ogg",length=23.130136054421769},}
@@ -94,7 +89,6 @@ L["saas"]={{path="chatsounds/autoadd/noiwex/saas.ogg",length=0.35430839002267572
 L["sas"]={{path="chatsounds/autoadd/noiwex/sas.ogg",length=0.35430839002267572},}
 L["scoutnuke"]={{path="chatsounds/autoadd/noiwex/scoutnuke.ogg",length=2.6405668934240363},}
 L["see"]={{path="chatsounds/autoadd/noiwex/see.ogg",length=0.65333333333333332},}
-L["sentrysex"]={{path="chatsounds/autoadd/noiwex/sentrysex.ogg",length=1.8511337868480726},}
 L["sho kipish poshel"]={{path="chatsounds/autoadd/noiwex/sho kipish poshel.mp3",length=2.0963492063492062},}
 L["shukher"]={{path="chatsounds/autoadd/noiwex/shukher.mp3",length=0.90086167800453509},}
 L["shzuz shzaaz"]={{path="chatsounds/autoadd/noiwex/shzuz shzaaz.ogg",length=1.510204081632653},}
