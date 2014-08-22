@@ -39,6 +39,7 @@ chatsounds.ScriptCache = {}
 
 chatsounds.Enabled = CreateClientConVar("cl_chatsounds_enable", 1, true, true)
 chatsounds.Initialized = false
+chatsounds.AutoPrecacheAll = CreateClientConVar("cl_chatsounds_autoprecache_all", 0, true, true)
 
 chatsounds.CSoundPatches = {}
 chatsounds.Timers = {}
@@ -200,7 +201,7 @@ function chatsounds.InitializeLists(force)
 						if c.IsMP3(file_name1) or c.IsWAV(file_name1) or c.IsOGG(file_name1) then
 							local key = file_name1:match("([^%.]+)%."):lower()
 							L[key] = L[key] or {{path = c.AutoAddPath .. list .. file_name1}}
-							--util.PrecacheSound(c.AutoAddPath .. list .. file_name1)
+							if chatsounds.AutoPrecacheAll:GetBool() then util.PrecacheSound(c.AutoAddPath .. list .. file_name1) end
 						end
 					end
 					for _,file_name1 in pairs(dirs) do
@@ -210,7 +211,7 @@ function chatsounds.InitializeLists(force)
 						for _, file_name2 in pairs(files) do
 							if c.IsWAV(file_name2) or c.IsMP3(file_name2) or c.IsOGG(file_name2) then
 								table.insert(L[file_name1], {path = c.AutoAddPath .. list .. file_name1 .. "/" .. file_name2})
-								--util.PrecacheSound(c.AutoAddPath .. list .. file_name1 .. "/" .. file_name2)
+								if chatsounds.AutoPrecacheAll:GetBool() then util.PrecacheSound(c.AutoAddPath .. list .. file_name1 .. "/" .. file_name2) end
 							end
 						end
 						if #L[file_name1] == 0 then L[file_name1] = nil end
