@@ -37,6 +37,7 @@ L["isnt"]={{path="chatsounds/autoadd/misc/isnt.ogg",length=0.28585034013605443},
 L["it begins"]={{path="chatsounds/autoadd/misc/it begins.ogg",length=1.4740136054421769},}
 L["it is a mystery"]={{path="chatsounds/autoadd/misc/it is a mystery.ogg",length=53.838367346938774},}
 L["it is crazy its so hot in here"]={{path="chatsounds/autoadd/misc/it is crazy its so hot in here.ogg",length=3.1177324263038551},}
+L["it really whips the llamas ass"]={{path="chatsounds/autoadd/misc/it really whips the llamas ass.ogg",length=2.4351927437641723},}
 L["jeers1"]={{path="chatsounds/autoadd/misc/jeers1.ogg",length=8.9929478458049878},}
 L["jeers2"]={{path="chatsounds/autoadd/misc/jeers2.ogg",length=7.4960544217687071},}
 L["klopfolo"]={{path="chatsounds/autoadd/misc/klopfolo.ogg",length=0.31346938775510202},}
@@ -90,6 +91,7 @@ L["whyyyyyyyyyyyyy"]={{path="chatsounds/autoadd/misc/whyyyyyyyyyyyyy.ogg",length
 L["wie reis nur mit weizen"]={{path="chatsounds/autoadd/misc/wie reis nur mit weizen.ogg",length=3.1114739229024941},}
 L["will it blend"]={{path="chatsounds/autoadd/misc/will it blend.ogg",length=1.0789115646258503},}
 L["will"]={{path="chatsounds/autoadd/misc/will.ogg",length=0.28875283446712019},}
+L["winamp winamp"]={{path="chatsounds/autoadd/misc/winamp winamp.ogg",length=1.8198639455782313},}
 L["wlm"]={{path="chatsounds/autoadd/misc/wlm.ogg",length=0.64557823129251701},}
 L["wtf"]={{path="chatsounds/autoadd/misc/wtf/wtf 2.ogg",length=1.1052154195011339},{path="chatsounds/autoadd/misc/wtf/wtf 3.ogg",length=0.99011337868480731},{path="chatsounds/autoadd/misc/wtf/wtf.ogg",length=0.92882086167800448},}
 L["yes yes"]={{path="chatsounds/autoadd/misc/yes yes.ogg",length=4.7855102040816329},}
