@@ -1329,7 +1329,6 @@ L["woohoo"]={{path="chatsounds/autoadd/instagib/woohoo.ogg",length=3.69496598639
 L["wooow"]={{path="chatsounds/autoadd/instagib/wooow.ogg",length=3.8462585034013603},}
 L["wow"]={{path="chatsounds/autoadd/instagib/wow.ogg",length=1.6130612244897959},}
 L["wowcool"]={{path="chatsounds/autoadd/instagib/wowcool.ogg",length=1.833469387755102},}
-L["wowwow"]={{path="chatsounds/autoadd/instagib/wowwow.ogg",length=1.7240816326530612},}
 L["wth was that"]={{path="chatsounds/autoadd/instagib/wth was that.ogg",length=1.2414512471655328},}
 L["wth"]={{path="chatsounds/autoadd/instagib/wth.ogg",length=1.5800000000000001},}
 L["wth2"]={{path="chatsounds/autoadd/instagib/wth2.ogg",length=1.9197732426303855},}

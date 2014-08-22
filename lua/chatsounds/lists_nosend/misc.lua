@@ -66,6 +66,7 @@ L["potcfdk"]={{path="chatsounds/autoadd/misc/potcfdk.ogg",length=1.5388662131519
 L["ppiinnggaass"]={{path="chatsounds/autoadd/misc/ppiinnggaass.ogg",length=5.0155328798185943},}
 L["ps1startup"]={{path="chatsounds/autoadd/misc/ps1startup.ogg",length=14.233242630385487},}
 L["pythong"]={{path="chatsounds/autoadd/misc/pythong.ogg",length=0.61367346938775513},}
+L["q-dance"]={{path="chatsounds/autoadd/misc/q-dance.ogg",length=2.0099773242630388},}
 L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.54403628117913827},}
 L["red"]={{path="chatsounds/autoadd/misc/red.ogg",length=0.21832199546485262},}
 L["rocket launcher"]={{path="chatsounds/autoadd/misc/rocket launcher.ogg",length=1.933061224489796},}
@@ -93,6 +94,7 @@ L["will it blend"]={{path="chatsounds/autoadd/misc/will it blend.ogg",length=1.0
 L["will"]={{path="chatsounds/autoadd/misc/will.ogg",length=0.28875283446712019},}
 L["winamp winamp"]={{path="chatsounds/autoadd/misc/winamp winamp.ogg",length=1.8198639455782313},}
 L["wlm"]={{path="chatsounds/autoadd/misc/wlm.ogg",length=0.64557823129251701},}
+L["wowwow"]={{path="chatsounds/autoadd/misc/wowwow.ogg",length=1.7647165532879818},}
 L["wtf"]={{path="chatsounds/autoadd/misc/wtf/wtf 2.ogg",length=1.1052154195011339},{path="chatsounds/autoadd/misc/wtf/wtf 3.ogg",length=0.99011337868480731},{path="chatsounds/autoadd/misc/wtf/wtf.ogg",length=0.92882086167800448},}
 L["yes yes"]={{path="chatsounds/autoadd/misc/yes yes.ogg",length=4.7855102040816329},}
 L["you havent seen the last of"]={{path="chatsounds/autoadd/misc/you havent seen the last of.ogg",length=1.5292290249433107},}
