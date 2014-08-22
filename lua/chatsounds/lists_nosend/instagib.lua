@@ -799,6 +799,7 @@ L["maya"]={{path="chatsounds/autoadd/instagib/maya.ogg",length=3.885668934240362
 L["meckern"]={{path="chatsounds/autoadd/instagib/meckern.ogg",length=3.0214058956916099},}
 L["medic"]={{path="chatsounds/autoadd/instagib/medic.ogg",length=1.0197732426303854},}
 L["meep meep"]={{path="chatsounds/autoadd/instagib/meep meep.ogg",length=2.9312471655328798},}
+L["megakill"]={{path="chatsounds/autoadd/instagib/megakill.ogg",length=1.7734240362811791},}
 L["meiner"]={{path="chatsounds/autoadd/instagib/meiner.ogg",length=0.69768707482993197},}
 L["meins"]={{path="chatsounds/autoadd/instagib/meins.ogg",length=3.1224489795918369},}
 L["meins1"]={{path="chatsounds/autoadd/instagib/meins1.ogg",length=3.1608163265306124},}
@@ -1208,6 +1209,7 @@ L["trans"]={{path="chatsounds/autoadd/instagib/trans.ogg",length=14.266122448979
 L["trinken"]={{path="chatsounds/autoadd/instagib/trinken.ogg",length=6.0005442176870751},}
 L["trinkenwenig"]={{path="chatsounds/autoadd/instagib/trinkenwenig.ogg",length=3.250294784580499},}
 L["trip1"]={{path="chatsounds/autoadd/instagib/trip1.ogg",length=5.5412244897959182},}
+L["triplekill"]={{path="chatsounds/autoadd/instagib/triplekill.ogg",length=1.6454421768707483},}
 L["tritt"]={{path="chatsounds/autoadd/instagib/tritt.ogg",length=6},}
 L["trottel"]={{path="chatsounds/autoadd/instagib/trottel.ogg",length=2.3673469387755102},}
 L["tschuss"]={{path="chatsounds/autoadd/instagib/tschuss.ogg",length=1.8999999999999999},}
@@ -1225,11 +1227,13 @@ L["ty2"]={{path="chatsounds/autoadd/instagib/ty2.ogg",length=0.6361904761904762}
 L["typ"]={{path="chatsounds/autoadd/instagib/typ.ogg",length=15.638276643990929},}
 L["uaaaa"]={{path="chatsounds/autoadd/instagib/uaaaa.ogg",length=2.4859863945578233},}
 L["uhsong"]={{path="chatsounds/autoadd/instagib/uhsong.ogg",length=2.4387301587301589},}
+L["ultrakill"]={{path="chatsounds/autoadd/instagib/ultrakill.ogg",length=1.9911111111111111},}
 L["um8"]={{path="chatsounds/autoadd/instagib/um8.ogg",length=6.5005895691609981},}
 L["umbringen"]={{path="chatsounds/autoadd/instagib/umbringen.ogg",length=2.5338775510204083},}
 L["unfairrage"]={{path="chatsounds/autoadd/instagib/unfairrage.ogg",length=3.7999999999999998},}
 L["unfassbar"]={{path="chatsounds/autoadd/instagib/unfassbar.ogg",length=3.5101133786848071},}
 L["unreal"]={{path="chatsounds/autoadd/instagib/unreal.ogg",length=2.5470294784580498},}
+L["unstoppable"]={{path="chatsounds/autoadd/instagib/unstoppable.ogg",length=1.9618594104308391},}
 L["unternehmen"]={{path="chatsounds/autoadd/instagib/unternehmen.ogg",length=1.410249433106576},}
 L["unterricht"]={{path="chatsounds/autoadd/instagib/unterricht.ogg",length=3.3239002267573694},}
 L["unzufrieden"]={{path="chatsounds/autoadd/instagib/unzufrieden.ogg",length=2.0869841269841269},}

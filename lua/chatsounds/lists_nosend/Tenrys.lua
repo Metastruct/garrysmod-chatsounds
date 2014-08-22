@@ -29,6 +29,7 @@ L["in the ainis"]={{path="chatsounds/autoadd/Tenrys/in the ainis.ogg",length=0.7
 L["kebab"]={{path="chatsounds/autoadd/Tenrys/kebab.ogg",length=18.061496598639454},}
 L["killbill"]={{path="chatsounds/autoadd/Tenrys/killbill.ogg",length=14.811428571428571},}
 L["kirby invincibility"]={{path="chatsounds/autoadd/Tenrys/kirby invincibility.ogg",length=5.4549659863945577},}
+L["kup teraz"]={{path="chatsounds/autoadd/Tenrys/kup teraz/1.ogg",length=1.1256689342403627},{path="chatsounds/autoadd/Tenrys/kup teraz/2.ogg",length=0.97736961451247162},}
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/Tenrys/nice legs daisy dukes makes a man go.ogg",length=2.6178231292517005},}
 L["ninja combo"]={{path="chatsounds/autoadd/Tenrys/ninja combo/swoosh 1.ogg",length=1.0710204081632653},{path="chatsounds/autoadd/Tenrys/ninja combo/swoosh 2.ogg",length=0.70530612244897961},}
 L["no i dont want that"]={{path="chatsounds/autoadd/Tenrys/no i dont want that.ogg",length=3.0345578231292518},}
