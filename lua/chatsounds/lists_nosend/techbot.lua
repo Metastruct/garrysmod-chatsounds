@@ -21,6 +21,7 @@ L["dysd"]={{path="chatsounds/autoadd/techbot/dysd.ogg",length=1.3322448979591837
 L["erotic"]={{path="chatsounds/autoadd/techbot/erotic.ogg",length=1.0481405895691609},}
 L["fack"]={{path="chatsounds/autoadd/techbot/fack.ogg",length=0.31637188208616779},}
 L["faens jarvla helvetes kukhore rarvhol fitte drittballe"]={{path="chatsounds/autoadd/techbot/faens jarvla helvetes kukhore rarvhol fitte drittballe.ogg",length=5.571496598639456},}
+L["ffffuffff"]={{path="chatsounds/autoadd/techbot/ffffuffff.ogg",length=2.4801814058956917},}
 L["fuck"]={{path="chatsounds/autoadd/techbot/fuck.ogg",length=0.79818594104308394},}
 L["fucking damn hell cockwhore asshole cunt shitballs"]={{path="chatsounds/autoadd/techbot/fucking damn hell cockwhore asshole cunt shitballs.ogg",length=3.2522448979591836},}
 L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",length=2.8923356009070296},}
@@ -61,6 +62,7 @@ L["surprise motherfucker"]={{path="chatsounds/autoadd/techbot/surprise motherfuc
 L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.41505668934240364},}
 L["ughghghghghgh"]={{path="chatsounds/autoadd/techbot/ughghghghghgh.ogg",length=8.8961451247165542},}
 L["ukgamer"]={{path="chatsounds/autoadd/techbot/ukgamer/ukgamer.ogg",length=1.320045351473923},{path="chatsounds/autoadd/techbot/ukgamer/ukgamer2.ogg",length=1.3800453514739228},}
+L["vittu"]={{path="chatsounds/autoadd/techbot/vittu.ogg",length=1.6718367346938776},}
 L["warlock"]={{path="chatsounds/autoadd/techbot/warlock.ogg",length=0.99845804988662135},}
 L["warpzone"]={{path="chatsounds/autoadd/techbot/warpzone.ogg",length=2.0070748299319727},}
 L["why you heff to be med"]={{path="chatsounds/autoadd/techbot/why you heff to be med.ogg",length=3.4481632653061225},}

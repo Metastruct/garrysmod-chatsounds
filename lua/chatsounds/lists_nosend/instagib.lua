@@ -594,7 +594,6 @@ L["i see dead people"]={{path="chatsounds/autoadd/instagib/i see dead people.ogg
 L["i show you magic"]={{path="chatsounds/autoadd/instagib/i show you magic.ogg",length=18.736145124716554},}
 L["i think i did it again"]={{path="chatsounds/autoadd/instagib/i think i did it again.ogg",length=9.7497505668934235},}
 L["iceicebaby"]={{path="chatsounds/autoadd/instagib/iceicebaby.ogg",length=10.510657596371882},}
-L["ich"]={{path="chatsounds/autoadd/instagib/ich.ogg",length=0.99990929705215414},}
 L["ichbins"]={{path="chatsounds/autoadd/instagib/ichbins.ogg",length=1.2051700680272108},}
 L["ichstreike"]={{path="chatsounds/autoadd/instagib/ichstreike.ogg",length=6.6071655328798187},}
 L["ichwach"]={{path="chatsounds/autoadd/instagib/ichwach.ogg",length=2.0001814058956917},}
@@ -1004,6 +1003,7 @@ L["rausgehen"]={{path="chatsounds/autoadd/instagib/rausgehen.ogg",length=7.99746
 L["ready for action"]={{path="chatsounds/autoadd/instagib/ready for action.ogg",length=1.5867573696145125},}
 L["reden"]={{path="chatsounds/autoadd/instagib/reden.ogg",length=3.1066666666666665},}
 L["redengelernt"]={{path="chatsounds/autoadd/instagib/redengelernt.ogg",length=7.0029931972789115},}
+L["redest du mit mir"]={{path="chatsounds/autoadd/instagib/redest du mit mir.ogg",length=0.99990929705215414},}
 L["rein"]={{path="chatsounds/autoadd/instagib/rein.ogg",length=4.1269841269841274},}
 L["reizmichnicht"]={{path="chatsounds/autoadd/instagib/reizmichnicht.ogg",length=4},}
 L["relax"]={{path="chatsounds/autoadd/instagib/relax.ogg",length=1.2429024943310658},}
