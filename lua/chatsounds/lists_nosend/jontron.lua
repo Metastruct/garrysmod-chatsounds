@@ -1,9 +1,11 @@
 c.StartList("jontron")
 L["aaarin"]={{path="chatsounds/autoadd/jontron/aaarin.ogg",length=2.2427210884353741},}
+L["ah fuckin who likes the old mario games amirite"]={{path="chatsounds/autoadd/jontron/ah fuckin who likes the old mario games amirite.ogg",length=2.4572562358276646},}
 L["am i threatening you are you threatening me whose the threat here"]={{path="chatsounds/autoadd/jontron/am i threatening you are you threatening me whose the threat here.ogg",length=3.793968253968254},}
 L["arin dont leave arin dont"]={{path="chatsounds/autoadd/jontron/arin dont leave arin dont.ogg",length=5.1041496598639453},}
 L["arin that was a beautiful little moment we just had"]={{path="chatsounds/autoadd/jontron/arin that was a beautiful little moment we just had.ogg",length=2.3539002267573697},}
 L["bad touch bad touch"]={{path="chatsounds/autoadd/jontron/bad touch bad touch.ogg",length=1.5089569160997733},}
+L["brb"]={{path="chatsounds/autoadd/jontron/brb.ogg",length=0.6636507936507936},}
 L["but look what were dealing with man"]={{path="chatsounds/autoadd/jontron/but look what were dealing with man.ogg",length=2.3394104308390022},}
 L["caaaaaaaaaaaaaaaars"]={{path="chatsounds/autoadd/jontron/caaaaaaaaaaaaaaaars.ogg",length=1.9069387755102041},}
 L["cmere banny"]={{path="chatsounds/autoadd/jontron/cmere banny.ogg",length=1.130408163265306},}
@@ -20,6 +22,7 @@ L["is that a poop rat"]={{path="chatsounds/autoadd/jontron/is that a poop rat.og
 L["jon madden"]={{path="chatsounds/autoadd/jontron/jon madden.ogg",length=18.912653061224489},}
 L["jonlaughconker"]={{path="chatsounds/autoadd/jontron/jonlaughconker.ogg",length=13.418231292517007},}
 L["jontronmariocitysimulatorrage"]={{path="chatsounds/autoadd/jontron/jontronmariocitysimulatorrage.ogg",length=15.882448979591837},}
+L["making legend of zelda modern warfare"]={{path="chatsounds/autoadd/jontron/making legend of zelda modern warfare.ogg",length=1.6680498866213151},}
 L["not fucking this"]={{path="chatsounds/autoadd/jontron/not fucking this.ogg",length=1.6820408163265306},}
 L["oh noooo"]={{path="chatsounds/autoadd/jontron/oh noooo.ogg",length=8.9802040816326532},}
 L["oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey"]={{path="chatsounds/autoadd/jontron/oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey.ogg",length=8.0429024943310665},}
