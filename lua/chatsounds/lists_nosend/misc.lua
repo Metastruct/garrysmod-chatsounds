@@ -80,6 +80,7 @@ L["that"]={{path="chatsounds/autoadd/misc/that.ogg",length=0.15655328798185941},
 L["the"]={{path="chatsounds/autoadd/misc/the/1.ogg",length=0.091201814058956915},{path="chatsounds/autoadd/misc/the/2.ogg",length=0.1408843537414966},}
 L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091201814058956915},}
 L["the2"]={{path="chatsounds/autoadd/misc/the2.ogg",length=0.16600907029478459},}
+L["this was a qdance event"]={{path="chatsounds/autoadd/misc/this was a qdance event.ogg",length=3.0258503401360546},}
 L["thud"]={{path="chatsounds/autoadd/misc/thud.ogg",length=12.774716553287982},}
 L["unroll"]={{path="chatsounds/autoadd/misc/unroll.ogg",length=0.67263038548752829},}
 L["victory"]={{path="chatsounds/autoadd/misc/victory.ogg",length=15.911065759637188},}
