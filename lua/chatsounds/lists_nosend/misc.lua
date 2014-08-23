@@ -66,7 +66,7 @@ L["potcfdk"]={{path="chatsounds/autoadd/misc/potcfdk.ogg",length=1.5388662131519
 L["ppiinnggaass"]={{path="chatsounds/autoadd/misc/ppiinnggaass.ogg",length=5.0155328798185943},}
 L["ps1startup"]={{path="chatsounds/autoadd/misc/ps1startup.ogg",length=14.233242630385487},}
 L["pythong"]={{path="chatsounds/autoadd/misc/pythong.ogg",length=0.61367346938775513},}
-L["q dance"]={{path="chatsounds/autoadd/misc/q dance.ogg",length=2.0099773242630388},}
+L["qdance"]={{path="chatsounds/autoadd/misc/qdance.ogg",length=2.0099773242630388},}
 L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.54403628117913827},}
 L["red"]={{path="chatsounds/autoadd/misc/red.ogg",length=0.21832199546485262},}
 L["rocket launcher"]={{path="chatsounds/autoadd/misc/rocket launcher.ogg",length=1.933061224489796},}
