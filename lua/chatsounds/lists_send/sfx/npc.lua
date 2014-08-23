@@ -5844,13 +5844,6 @@ c.StartList("table: 0x3e9eb020")
 		},
 	}
 
-	L["goalerta"] = {
-		{
-			path = "npc/stalker/go_alert2a.wav",
-			length = 2.1220861678005,
-		},
-	}
-
 	L["clawmiss"] = {
 		{
 			path = "npc/fast_zombie/claw_miss1.wav",
