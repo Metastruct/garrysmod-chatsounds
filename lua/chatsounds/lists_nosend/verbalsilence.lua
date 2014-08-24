@@ -50,7 +50,6 @@ L["f u"]={{path="chatsounds/autoadd/verbalsilence/f u/f u 2.ogg",length=1.627414
 L["facking booshit"]={{path="chatsounds/autoadd/verbalsilence/facking booshit.ogg",length=2.068548752834467},}
 L["fax mentis incendium gloria culpum et cetera et cetera"]={{path="chatsounds/autoadd/verbalsilence/fax mentis incendium gloria culpum et cetera et cetera.ogg",length=3.9151247165532879},}
 L["ff 1 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 1 fanfare.ogg",length=19.690408163265307},}
-L["ff 10 2 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 10 2 fanfare.ogg",length=81.143560090702948},}
 L["ff 10 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 10 fanfare.ogg",length=38.809183673469384},}
 L["ff 12 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 12 fanfare.ogg",length=21.3418820861678},}
 L["ff 13 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 13 fanfare.ogg",length=6.0341496598639459},}
@@ -86,6 +85,8 @@ L["headcrab apply directly to the forehead"]={{path="chatsounds/autoadd/verbalsi
 L["heh yeah boi"]={{path="chatsounds/autoadd/verbalsilence/heh yeah boi.ogg",length=1.3926303854875284},}
 L["hhhhhhhh"]={{path="chatsounds/autoadd/verbalsilence/hhhhhhhh.ogg",length=3.0109750566893423},}
 L["hi baby get down here"]={{path="chatsounds/autoadd/verbalsilence/hi baby get down here.ogg",length=3.8775056689342402},}
+L["highway to the dangerzone 1"]={{path="chatsounds/autoadd/verbalsilence/highway to the dangerzone 1.ogg",length=111.17387755102041},}
+L["highway to the dangerzone 2"]={{path="chatsounds/autoadd/verbalsilence/highway to the dangerzone 2.ogg",length=101.01950113378685},}
 L["holla holla get dolla"]={{path="chatsounds/autoadd/verbalsilence/holla holla get dolla.ogg",length=1.4971428571428571},}
 L["holy shit man you gotta get on that"]={{path="chatsounds/autoadd/verbalsilence/holy shit man you gotta get on that.ogg",length=2.7945351473922901},}
 L["howie scream"]={{path="chatsounds/autoadd/verbalsilence/howie scream.ogg",length=2.8987074829931974},}
@@ -130,9 +131,6 @@ L["manana"]={{path="chatsounds/autoadd/verbalsilence/manana.ogg",length=0.978662
 L["memo bis punitor delicatum"]={{path="chatsounds/autoadd/verbalsilence/memo bis punitor delicatum.ogg",length=2.6714965986394557},}
 L["mlady"]={{path="chatsounds/autoadd/verbalsilence/mlady.ogg",length=0.89335600907029478},}
 L["mnnnnnnnnnnnn"]={{path="chatsounds/autoadd/verbalsilence/mnnnnnnnnnnnn.ogg",length=5.2517006802721085},}
-L["morning mood 1"]={{path="chatsounds/autoadd/verbalsilence/morning mood 1.ogg",length=76.367823129251704},}
-L["morning mood 2"]={{path="chatsounds/autoadd/verbalsilence/morning mood 2.ogg",length=79.862018140589569},}
-L["morning mood 3"]={{path="chatsounds/autoadd/verbalsilence/morning mood 3.ogg",length=83.572335600907024},}
 L["motherfucking bootleg firework shit"]={{path="chatsounds/autoadd/verbalsilence/motherfucking bootleg firework shit.ogg",length=2.7767573696145122},}
 L["mr funk theme"]={{path="chatsounds/autoadd/verbalsilence/mr funk theme.ogg",length=100.81251700680272},}
 L["my brand"]={{path="chatsounds/autoadd/verbalsilence/my brand.ogg",length=1.637641723356009},}
@@ -156,14 +154,11 @@ L["omg she is so annoying"]={{path="chatsounds/autoadd/verbalsilence/omg she is 
 L["omg who the hell cares"]={{path="chatsounds/autoadd/verbalsilence/omg who the hell cares.ogg",length=3.7093877551020409},}
 L["papali papali suka"]={{path="chatsounds/autoadd/verbalsilence/papali papali suka.ogg",length=2.2204081632653061},}
 L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=19.467959183673468},}
-L["pink panther 1"]={{path="chatsounds/autoadd/verbalsilence/pink panther 1.ogg",length=101.74151927437642},}
-L["pink panther 2"]={{path="chatsounds/autoadd/verbalsilence/pink panther 2.ogg",length=45.672607709750565},}
 L["pizza do a pizza"]={{path="chatsounds/autoadd/verbalsilence/pizza do a pizza.ogg",length=3.2918140589569163},}
 L["pokemon"]={{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 1.ogg",length=1.0414058956916099},{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 2.ogg",length=1.1772335600907029},}
 L["pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa"]={{path="chatsounds/autoadd/verbalsilence/pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa.ogg",length=9.3574149659863952},}
 L["pshew"]={{path="chatsounds/autoadd/verbalsilence/pshew.ogg",length=0.36795918367346941},}
 L["retard alert"]={{path="chatsounds/autoadd/verbalsilence/retard alert.ogg",length=4.3167120181405894},}
-L["rocky theme"]={{path="chatsounds/autoadd/verbalsilence/rocky theme.ogg",length=168.72489795918366},}
 L["rogen laugh"]={{path="chatsounds/autoadd/verbalsilence/rogen laugh.ogg",length=4.0590022675736961},}
 L["rubbing sticks and stones together making sparks ignite and the thought of loving you is getting so exciting"]={{path="chatsounds/autoadd/verbalsilence/rubbing sticks and stones together making sparks ignite and the thought of loving you is getting so exciting.ogg",length=6.1165759637188213},}
 L["russian"]={{path="chatsounds/autoadd/verbalsilence/russian.ogg",length=0.70798185941043079},}
@@ -191,6 +186,7 @@ L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/th
 L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.11965986394557823},}
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907},}
 L["two steps from hell intro"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell intro.ogg",length=28.64628117913832},}
+L["two steps from hell loop"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell loop.ogg",length=74.93244897959184},}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911},}
 L["vat did you cool me"]={{path="chatsounds/autoadd/verbalsilence/vat did you cool me.ogg",length=1.5342630385487528},}
 L["verbal"]={{path="chatsounds/autoadd/verbalsilence/verbal.ogg",length=0.80759637188208622},}

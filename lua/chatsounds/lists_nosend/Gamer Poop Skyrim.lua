@@ -54,6 +54,7 @@ L["oh hellooo"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/oh hellooo.ogg",len
 L["oh what am i saying of course you dont"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/oh what am i saying of course you dont.ogg",length=2.1663945578231294},}
 L["orly"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/orly.ogg",length=0.68065759637188206},}
 L["orlyyyy"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/orlyyyy.ogg",length=2.5208163265306123},}
+L["please more i beg you"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/please more i beg you.ogg",length=2.2153968253968253},}
 L["ripe ass and fresh pussie for sale"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/ripe ass and fresh pussie for sale.ogg",length=1.9497732426303855},}
 L["shout at us"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/shout at us.ogg",length=1.1933560090702948},}
 L["show us dragonborn"]={{path="chatsounds/autoadd/Gamer Poop Skyrim/show us dragonborn.ogg",length=2.998684807256236},}
