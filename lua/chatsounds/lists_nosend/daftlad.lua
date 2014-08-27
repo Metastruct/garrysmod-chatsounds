@@ -1,4 +1,5 @@
 c.StartList("daftlad")
+L["aaahhh"]={{path="chatsounds/autoadd/daftlad/aaahhh.ogg",length=1.9294331065759638},}
 L["ahaha shut up"]={{path="chatsounds/autoadd/daftlad/ahaha shut up.ogg",length=2.8638548752834465},}
 L["answer me"]={{path="chatsounds/autoadd/daftlad/answer me.ogg",length=0.72907029478458052},}
 L["are you threatening me dick"]={{path="chatsounds/autoadd/daftlad/are you threatening me dick.ogg",length=1.4815646258503401},}
@@ -7,6 +8,7 @@ L["but hey lets go out and spend two million dollars on a room full of"]={{path=
 L["cleanup"]={{path="chatsounds/autoadd/daftlad/cleanup.ogg",length=0.8718140589569161},}
 L["cocks"]={{path="chatsounds/autoadd/daftlad/cocks.ogg",length=0.67757369614512475},}
 L["do what you want cause a pirate is free"]={{path="chatsounds/autoadd/daftlad/do what you want cause a pirate is free.ogg",length=2.0160997732426305},}
+L["dont talk"]={{path="chatsounds/autoadd/daftlad/dont talk.ogg",length=1.2065532879818595},}
 L["eugh im dead"]={{path="chatsounds/autoadd/daftlad/eugh im dead.ogg",length=2.6763265306122448},}
 L["eugh shit"]={{path="chatsounds/autoadd/daftlad/eugh shit.ogg",length=1.3265532879818593},}
 L["fakku disu"]={{path="chatsounds/autoadd/daftlad/fakku disu.ogg",length=1.4440362811791383},}
@@ -19,10 +21,12 @@ L["huh"]={{path="chatsounds/autoadd/daftlad/huh.ogg",length=0.34233560090702947}
 L["i am real super sand"]={{path="chatsounds/autoadd/daftlad/i am real super sand.ogg",length=1.6540816326530612},}
 L["if youre calling me a son of a bitch you wouldnt be the first"]={{path="chatsounds/autoadd/daftlad/if youre calling me a son of a bitch you wouldnt be the first.ogg",length=3.217845804988662},}
 L["im dead"]={{path="chatsounds/autoadd/daftlad/im dead.ogg",length=1.4715873015873016},}
+L["its not funny"]={{path="chatsounds/autoadd/daftlad/its not funny.ogg",length=1.133061224489796},}
 L["ive got your name ive got your ass"]={{path="chatsounds/autoadd/daftlad/ive got your name ive got your ass.ogg",length=2.6087528344671203},}
 L["let me see your warface"]={{path="chatsounds/autoadd/daftlad/let me see your warface.ogg",length=1.5071201814058957},}
 L["listen to me"]={{path="chatsounds/autoadd/daftlad/listen to me.ogg",length=0.52938775510204084},}
 L["lolik bitch"]={{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 2.ogg",length=1.1003854875283448},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 3.ogg",length=1.157936507936508},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 4.ogg",length=1.2345351473922903},{path="chatsounds/autoadd/daftlad/lolik bitch/lolik bitch 5.ogg",length=1.2165079365079365},}
+L["oh my god oh god you shot me aaahhh"]={{path="chatsounds/autoadd/daftlad/oh my god oh god you shot me aaahhh.ogg",length=4.5324036281179136},}
 L["oooh nooo"]={{path="chatsounds/autoadd/daftlad/oooh nooo.ogg",length=2.7341950113378686},}
 L["pirate"]={{path="chatsounds/autoadd/daftlad/pirate.ogg",length=0.89997732426303856},}
 L["piratesong"]={{path="chatsounds/autoadd/daftlad/piratesong.ogg",length=10.085668934240363},}
@@ -51,5 +55,6 @@ L["you little scumbag"]={{path="chatsounds/autoadd/daftlad/you little scumbag.og
 L["you monster frisbee"]={{path="chatsounds/autoadd/daftlad/you monster frisbee.ogg",length=1.7504081632653061},}
 L["you suck my cock"]={{path="chatsounds/autoadd/daftlad/you suck my cock.ogg",length=1.1818367346938776},}
 L["you will not laugh you will not cry"]={{path="chatsounds/autoadd/daftlad/you will not laugh you will not cry.ogg",length=2.0635827664399091},}
+L["youre killing me"]={{path="chatsounds/autoadd/daftlad/youre killing me.ogg",length=0.84376417233560086},}
 L["yyyup"]={{path="chatsounds/autoadd/daftlad/yyyup.ogg",length=1.3902267573696145},}
 c.EndList()
