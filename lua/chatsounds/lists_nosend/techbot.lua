@@ -37,6 +37,7 @@ L["is"]={{path="chatsounds/autoadd/techbot/is.ogg",length=0.29315192743764173},}
 L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=3.4409070294784581},}
 L["magic"]={{path="chatsounds/autoadd/techbot/magic.ogg",length=0.70240362811791379},}
 L["melon"]={{path="chatsounds/autoadd/techbot/melon.ogg",length=0.37750566893424037},}
+L["microsoos"]={{path="chatsounds/autoadd/techbot/microsoos.ogg",length=0.69907029478458049},}
 L["moon theme"]={{path="chatsounds/autoadd/techbot/moon theme.ogg",length=4.5569160997732423},}
 L["my eyes"]={{path="chatsounds/autoadd/techbot/my eyes.ogg",length=1.3946485260770976},}
 L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begins to shoosh.ogg",length=1.6602267573696146},}
@@ -59,6 +60,7 @@ L["snort"]={{path="chatsounds/autoadd/techbot/snort/snort.ogg",length=0.19827664
 L["spaceship"]={{path="chatsounds/autoadd/techbot/spaceship.ogg",length=2.1797732426303855},}
 L["subaluwa"]={{path="chatsounds/autoadd/techbot/subaluwa.ogg",length=0.98539682539682538},}
 L["surprise motherfucker"]={{path="chatsounds/autoadd/techbot/surprise motherfucker.ogg",length=1.8227664399092971},}
+L["thats what i get for working at microsoos"]={{path="chatsounds/autoadd/techbot/thats what i get for working at microsoos.ogg",length=1.8351020408163266},}
 L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.41505668934240364},}
 L["ughghghghghgh"]={{path="chatsounds/autoadd/techbot/ughghghghghgh.ogg",length=8.8961451247165542},}
 L["ukgamer"]={{path="chatsounds/autoadd/techbot/ukgamer/ukgamer.ogg",length=1.320045351473923},{path="chatsounds/autoadd/techbot/ukgamer/ukgamer2.ogg",length=1.3800453514739228},}
