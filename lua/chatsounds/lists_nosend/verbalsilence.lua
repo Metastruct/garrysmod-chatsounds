@@ -32,6 +32,7 @@ L["daddy would you like some sausage"]={{path="chatsounds/autoadd/verbalsilence/
 L["damn son whered you find this"]={{path="chatsounds/autoadd/verbalsilence/damn son whered you find this.ogg",length=2.5338775510204083},}
 L["dats sexy"]={{path="chatsounds/autoadd/verbalsilence/dats sexy.ogg",length=1.3155102040816327},}
 L["der right der wtf is this watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/der right der wtf is this watch your profanity.ogg",length=6.2432653061224492},}
+L["dickgina"]={{path="chatsounds/autoadd/verbalsilence/dickgina.ogg",length=1.7994784580498866},}
 L["ding dong bannu"]={{path="chatsounds/autoadd/verbalsilence/ding dong bannu.ogg",length=0.92897959183673473},}
 L["do i look like i know what a jpeg is i just want a picture of a god dang hot dog"]={{path="chatsounds/autoadd/verbalsilence/do i look like i know what a jpeg is i just want a picture of a god dang hot dog.ogg",length=6.0081632653061225},}
 L["do you believe in a flying spaghetti monster too bubblehead"]={{path="chatsounds/autoadd/verbalsilence/do you believe in a flying spaghetti monster too bubblehead.ogg",length=3.1112698412698414},}
@@ -103,6 +104,7 @@ L["i have to go"]={{path="chatsounds/autoadd/verbalsilence/i have to go.ogg",len
 L["i like your ass"]={{path="chatsounds/autoadd/verbalsilence/i like your ass.ogg",length=0.87333333333333329},}
 L["i love little girls"]={{path="chatsounds/autoadd/verbalsilence/i love little girls.ogg",length=19.467959183673468},}
 L["i need mouth to ass resuscitation"]={{path="chatsounds/autoadd/verbalsilence/i need mouth to ass resuscitation.ogg",length=2.6238321995464853},}
+L["i said dickgina"]={{path="chatsounds/autoadd/verbalsilence/i said dickgina.ogg",length=3.9865532879818595},}
 L["i should go"]={{path="chatsounds/autoadd/verbalsilence/i should go.ogg",length=0.63684807256235831},}
 L["i should let you go"]={{path="chatsounds/autoadd/verbalsilence/i should let you go.ogg",length=0.78619047619047622},}
 L["i sure can i was sitting on my front porch grabbed a beer and"]={{path="chatsounds/autoadd/verbalsilence/i sure can i was sitting on my front porch grabbed a beer and.ogg",length=3.9572108843537417},}

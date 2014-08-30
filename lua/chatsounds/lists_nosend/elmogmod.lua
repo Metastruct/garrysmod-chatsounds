@@ -16,8 +16,10 @@ L["elmo swallows"]={{path="chatsounds/autoadd/elmogmod/elmo swallows.ogg",length
 L["elmo wants it in the butt"]={{path="chatsounds/autoadd/elmogmod/elmo wants it in the butt.ogg",length=2.9853741496598638},}
 L["elmo wants to be a porn star"]={{path="chatsounds/autoadd/elmogmod/elmo wants to be a porn star.ogg",length=2.5855328798185941},}
 L["h its a trap"]={{path="chatsounds/autoadd/elmogmod/h its a trap.ogg",length=1.775124716553288},}
+L["happy birthday to the ground"]={{path="chatsounds/autoadd/elmogmod/happy birthday to the ground.ogg",length=8.8345351473922911},}
 L["hm penis"]={{path="chatsounds/autoadd/elmogmod/hm penis.ogg",length=2.5938548752834465},}
 L["i think someone is recording us"]={{path="chatsounds/autoadd/elmogmod/i think someone is recording us.ogg",length=3.9361904761904762},}
+L["im an adult"]={{path="chatsounds/autoadd/elmogmod/im an adult.ogg",length=3.4236734693877553},}
 L["mhm true story"]={{path="chatsounds/autoadd/elmogmod/mhm true story.ogg",length=2.8170748299319728},}
 L["oh a penis"]={{path="chatsounds/autoadd/elmogmod/oh a penis.ogg",length=2.546938775510204},}
 L["om nom nom on the penis"]={{path="chatsounds/autoadd/elmogmod/om nom nom on the penis.ogg",length=3.6660544217687074},}
