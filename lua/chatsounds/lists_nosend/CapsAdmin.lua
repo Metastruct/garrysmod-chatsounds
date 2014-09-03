@@ -35,7 +35,7 @@ L["dadhurt"]={{path="chatsounds/autoadd/CapsAdmin/dadhurt.ogg",length=10.3269841
 L["ddrraammaattiicc"]={{path="chatsounds/autoadd/CapsAdmin/ddrraammaattiicc.ogg",length=34.590657596371884},}
 L["detotated wam"]={{path="chatsounds/autoadd/CapsAdmin/detotated wam.ogg",length=1.5649886621315192},}
 L["disco"]={{path="chatsounds/autoadd/CapsAdmin/disco.ogg",length=1.0650113378684807},}
-L["dogbite"]={{path="chatsounds/autoadd/CapsAdmin/dogbite.wav",length=3.5788662131519273},}
+L["dogbite"]={{path="chatsounds/autoadd/CapsAdmin/dogbite.ogg",length=3.5802267573696147},}
 L["dont forget uh when youre trying out our haunted house uh dont dont lose your head cya muahahahh"]={{path="chatsounds/autoadd/CapsAdmin/dont forget uh when youre trying out our haunted house uh dont dont lose your head cya muahahahh.ogg",length=13.969047619047618},}
 L["dont interupt me"]={{path="chatsounds/autoadd/CapsAdmin/dont interupt me.ogg",length=5.4618820861678001},}
 L["dramatic2"]={{path="chatsounds/autoadd/CapsAdmin/dramatic2.ogg",length=37.522403628117914},}
