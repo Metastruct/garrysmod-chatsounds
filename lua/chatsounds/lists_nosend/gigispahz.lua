@@ -10,6 +10,7 @@ L["i wasnt even talking but you need to shut up because im im not even talking b
 L["im a man dog i dont even see any colors"]={{path="chatsounds/autoadd/gigispahz/im a man dog i dont even see any colors.ogg",length=2.2479591836734696},}
 L["its no use"]={{path="chatsounds/autoadd/gigispahz/its no use.ogg",length=1.2386621315192743},}
 L["looks like team rocket blasting off again"]={{path="chatsounds/autoadd/gigispahz/looks like team rocket blasting off again.ogg",length=5.0429024943310656},}
+L["my body is ready"]={{path="chatsounds/autoadd/gigispahz/my body is ready.ogg",length=1.4543990929705215},}
 L["no"]={{path="chatsounds/autoadd/gigispahz/no.ogg",length=0.56761904761904758},}
 L["now the punishement for stealing the beans is death"]={{path="chatsounds/autoadd/gigispahz/now the punishement for stealing the beans is death.ogg",length=3.6490022675736959},}
 L["shut up goofy ya dumb bastard"]={{path="chatsounds/autoadd/gigispahz/shut up goofy ya dumb bastard.ogg",length=1.919092970521542},}
