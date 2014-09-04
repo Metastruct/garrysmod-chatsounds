@@ -35,6 +35,7 @@ L["holy fuck is this wrong but holy hell is it erotic"]={{path="chatsounds/autoa
 L["is it"]={{path="chatsounds/autoadd/techbot/is it.ogg",length=0.54532879818594104},}
 L["is"]={{path="chatsounds/autoadd/techbot/is.ogg",length=0.29315192743764173},}
 L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=3.4409070294784581},}
+L["kek"]={{path="chatsounds/autoadd/techbot/kek.ogg",length=0.3831292517006803},}
 L["magic"]={{path="chatsounds/autoadd/techbot/magic.ogg",length=0.70240362811791379},}
 L["melon"]={{path="chatsounds/autoadd/techbot/melon.ogg",length=0.37750566893424037},}
 L["microsoos"]={{path="chatsounds/autoadd/techbot/microsoos.ogg",length=0.69907029478458049},}
@@ -62,6 +63,8 @@ L["subaluwa"]={{path="chatsounds/autoadd/techbot/subaluwa.ogg",length=0.98539682
 L["surprise motherfucker"]={{path="chatsounds/autoadd/techbot/surprise motherfucker.ogg",length=1.8227664399092971},}
 L["thats what i get for working at microsoos"]={{path="chatsounds/autoadd/techbot/thats what i get for working at microsoos.ogg",length=1.8351020408163266},}
 L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.41505668934240364},}
+L["top kek"]={{path="chatsounds/autoadd/techbot/top kek.ogg",length=0.70530612244897961},}
+L["top"]={{path="chatsounds/autoadd/techbot/top.ogg",length=0.2365532879818594},}
 L["ughghghghghgh"]={{path="chatsounds/autoadd/techbot/ughghghghghgh.ogg",length=8.8961451247165542},}
 L["ukgamer"]={{path="chatsounds/autoadd/techbot/ukgamer/ukgamer.ogg",length=1.320045351473923},{path="chatsounds/autoadd/techbot/ukgamer/ukgamer2.ogg",length=1.3800453514739228},}
 L["vittu"]={{path="chatsounds/autoadd/techbot/vittu.ogg",length=1.6718367346938776},}
