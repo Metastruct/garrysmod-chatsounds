@@ -18,6 +18,7 @@ L["dotdotdot"]={{path="chatsounds/autoadd/techbot/dotdotdot.ogg",length=1.899682
 L["duh oh oh chi chicka chicka"]={{path="chatsounds/autoadd/techbot/duh oh oh chi chicka chicka.ogg",length=3.6223129251700681},}
 L["duh oh oh"]={{path="chatsounds/autoadd/techbot/duh oh oh.ogg",length=1.352562358276644},}
 L["dysd"]={{path="chatsounds/autoadd/techbot/dysd.ogg",length=1.3322448979591837},}
+L["eeeeeeeeeeeeee"]={{path="chatsounds/autoadd/techbot/eeeeeeeeeeeeee.ogg",length=1.5165532879818595},}
 L["erotic"]={{path="chatsounds/autoadd/techbot/erotic.ogg",length=1.0481405895691609},}
 L["fack"]={{path="chatsounds/autoadd/techbot/fack.ogg",length=0.31637188208616779},}
 L["faens jarvla helvetes kukhore rarvhol fitte drittballe"]={{path="chatsounds/autoadd/techbot/faens jarvla helvetes kukhore rarvhol fitte drittballe.ogg",length=5.571496598639456},}
