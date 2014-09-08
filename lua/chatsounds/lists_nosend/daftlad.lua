@@ -4,10 +4,7 @@ L["ahaha shut up"]={{path="chatsounds/autoadd/daftlad/ahaha shut up.ogg",length=
 L["alex wah hey"]={{path="chatsounds/autoadd/daftlad/alex wah hey.ogg",length=1.5915873015873017},}
 L["answer me"]={{path="chatsounds/autoadd/daftlad/answer me.ogg",length=0.72907029478458052},}
 L["are you threatening me dick"]={{path="chatsounds/autoadd/daftlad/are you threatening me dick.ogg",length=1.4815646258503401},}
-L["begowch 1"]={{path="chatsounds/autoadd/daftlad/begowch 1.ogg",length=0.63077097505668933},}
-L["begowch 2"]={{path="chatsounds/autoadd/daftlad/begowch 2.ogg",length=0.81421768707482989},}
-L["begowch 3"]={{path="chatsounds/autoadd/daftlad/begowch 3.ogg",length=0.62176870748299318},}
-L["begowch 4"]={{path="chatsounds/autoadd/daftlad/begowch 4.ogg",length=0.80224489795918363},}
+L["begowch"]={{path="chatsounds/autoadd/daftlad/begowch/begowch 1.ogg",length=0.63077097505668933},{path="chatsounds/autoadd/daftlad/begowch/begowch 2.ogg",length=0.81421768707482989},{path="chatsounds/autoadd/daftlad/begowch/begowch 3.ogg",length=0.62176870748299318},{path="chatsounds/autoadd/daftlad/begowch/begowch 4.ogg",length=0.80224489795918363},}
 L["bullshit you didnt convince me let me see your real warface"]={{path="chatsounds/autoadd/daftlad/bullshit you didnt convince me let me see your real warface.ogg",length=3.4729931972789116},}
 L["but hey lets go out and spend two million dollars on a room full of"]={{path="chatsounds/autoadd/daftlad/but hey lets go out and spend two million dollars on a room full of.ogg",length=3.1541950113378685},}
 L["can you share"]={{path="chatsounds/autoadd/daftlad/can you share.ogg",length=0.86170068027210889},}
