@@ -1,5 +1,6 @@
 c.StartList("verbalsilence")
 L["1800 contacts"]={{path="chatsounds/autoadd/verbalsilence/1800 contacts.ogg",length=1.3409297052154194},}
+L["3gi pokemon loop"]={{path="chatsounds/autoadd/verbalsilence/3gi pokemon loop.ogg",length=10.969206349206349},}
 L["60 percent of the time it works everytime"]={{path="chatsounds/autoadd/verbalsilence/60 percent of the time it works everytime.ogg",length=5.9345124716553288},}
 L["adweedture time 2"]={{path="chatsounds/autoadd/verbalsilence/adweedture time 2.ogg",length=12.321655328798187},}
 L["adweedture time"]={{path="chatsounds/autoadd/verbalsilence/adweedture time.ogg",length=11.841609977324262},}
