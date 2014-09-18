@@ -69,7 +69,7 @@ L["pythong"]={{path="chatsounds/autoadd/misc/pythong.ogg",length=0.6136734693877
 L["qdance"]={{path="chatsounds/autoadd/misc/qdance.ogg",length=2.0099773242630388},}
 L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.54403628117913827},}
 L["red"]={{path="chatsounds/autoadd/misc/red.ogg",length=0.21832199546485262},}
-L["rocket launcher"]={{path="chatsounds/autoadd/misc/rocket launcher.ogg",length=1.933061224489796},}
+L["rocketlawnchair"]={{path="chatsounds/autoadd/misc/rocketlawnchair.ogg",length=1.933061224489796},}
 L["san andreas"]={{path="chatsounds/autoadd/misc/san andreas.ogg",length=77.18426303854875},}
 L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.7719274376417233},}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.1434920634920633},}
