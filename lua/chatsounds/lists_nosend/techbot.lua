@@ -44,9 +44,9 @@ L["moon theme"]={{path="chatsounds/autoadd/techbot/moon theme.ogg",length=4.5569
 L["my eyes"]={{path="chatsounds/autoadd/techbot/my eyes.ogg",length=1.3946485260770976},}
 L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begins to shoosh.ogg",length=1.6602267573696146},}
 L["my"]={{path="chatsounds/autoadd/techbot/my.ogg",length=0.88526077097505673},}
+L["nnoice"]={{path="chatsounds/autoadd/techbot/nnoice.ogg",length=0.67482993197278907},}
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.89832199546485259},}
 L["nobodycares"]={{path="chatsounds/autoadd/techbot/nobodycares.ogg",length=2.1347845804988661},}
-L["noice"]={{path="chatsounds/autoadd/techbot/noice.ogg",length=0.67482993197278907},}
 L["not the bees aaaaa"]={{path="chatsounds/autoadd/techbot/not the bees aaaaa.ogg",length=3.287074829931973},}
 L["oh my"]={{path="chatsounds/autoadd/techbot/oh my.ogg",length=1.3931972789115645},}
 L["oh yeah"]={{path="chatsounds/autoadd/techbot/oh yeah/1.ogg",length=3.0182312925170067},{path="chatsounds/autoadd/techbot/oh yeah/2.ogg",length=2.0384580498866214},}
