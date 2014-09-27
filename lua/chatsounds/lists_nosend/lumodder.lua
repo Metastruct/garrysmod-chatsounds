@@ -16,6 +16,6 @@ L["soap"]={{path="chatsounds/autoadd/lumodder/scoutsamazingadv/soap/3.ogg",lengt
 
 --glitch cricket
 L["there he goes the willy wonga"]={{path="chatsounds/autoadd/lumodder/glitchcricket/there he goes the willy wonga.ogg",length=3.088820},}
-L["there you fn go you cunt bastard"]={{path="chatsounds/autoadd/lumodder/glitchcricket/.ogg",length=5.861920},}
+L["there you fn go you cunt bastard"]={{path="chatsounds/autoadd/lumodder/glitchcricket/there you fn go you cunt bastard.ogg",length=5.861920},}
 
 c.EndList()
