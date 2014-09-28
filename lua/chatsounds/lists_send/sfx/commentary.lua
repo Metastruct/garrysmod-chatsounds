@@ -1,1209 +1,1209 @@
 c.StartList("table: 0x36dd87c0")
-	L["comtraditionalcrescendo"] = {
+	L["commentarycomtraditionalcrescendo"] = {
 		{
 			path = "commentary/com-traditionalcrescendo.wav",
 			length = 18.59768707483,
 		},
 	}
 
-	L["comproceduralvscripted"] = {
+	L["commentarycomproceduralvscripted"] = {
 		{
 			path = "commentary/com-proceduralvscripted.wav",
 			length = 85.040907029478,
 		},
 	}
 
-	L["comengineoptimizations"] = {
+	L["commentarycomengineoptimizations"] = {
 		{
 			path = "commentary/com-engineoptimizations.wav",
 			length = 62.157823129252,
 		},
 	}
 
-	L["complaytestobservation"] = {
+	L["commentarycomplaytestobservation"] = {
 		{
 			path = "commentary/com-playtestobservation.wav",
 			length = 31.450975056689,
 		},
 	}
 
-	L["finalcontrolroompuzzle"] = {
+	L["commentaryfinalcontrolroompuzzle"] = {
 		{
 			path = "commentary/finalcontrolroompuzzle.wav",
 			length = 18.697959183673,
 		},
 	}
 
-	L["comnewspecialinfected"] = {
+	L["commentarycomnewspecialinfected"] = {
 		{
 			path = "commentary/com-newspecialinfected.wav",
 			length = 109.13365079365,
 		},
 	}
 
-	L["cominfectedvariation"] = {
+	L["commentarycominfectedvariation"] = {
 		{
 			path = "commentary/com-infectedvariation.wav",
 			length = 53.074512471655,
 		},
 	}
 
-	L["plausiblerepopulation"] = {
+	L["commentaryplausiblerepopulation"] = {
 		{
 			path = "commentary/plausiblerepopulation.wav",
 			length = 28.300861678005,
 		},
 	}
 
-	L["comsecretingredients"] = {
+	L["commentarycomsecretingredients"] = {
 		{
 			path = "commentary/com-secretingredients.wav",
 			length = 22.270158730159,
 		},
 	}
 
-	L["comseparationanxiety"] = {
+	L["commentarycomseparationanxiety"] = {
 		{
 			path = "commentary/com-separationanxiety.wav",
 			length = 33.384489795918,
 		},
 	}
 
-	L["comconstructionlevel"] = {
+	L["commentarycomconstructionlevel"] = {
 		{
 			path = "commentary/com-constructionlevel.wav",
 			length = 35.063764172336,
 		},
 	}
 
-	L["comriverboatgambler"] = {
+	L["commentarycomriverboatgambler"] = {
 		{
 			path = "commentary/com-riverboatgambler.wav",
 			length = 24.436462585034,
 		},
 	}
 
-	L["artgameplaystandards"] = {
+	L["commentaryartgameplaystandards"] = {
 		{
 			path = "commentary/artgameplaystandards.wav",
 			length = 28.624036281179,
 		},
 	}
 
-	L["comimprovexplosives"] = {
+	L["commentarycomimprovexplosives"] = {
 		{
 			path = "commentary/com-improvexplosives.wav",
 			length = 89.092471655329,
 		},
 	}
 
-	L["comsonicsilhouettes"] = {
+	L["commentarycomsonicsilhouettes"] = {
 		{
 			path = "commentary/com-sonicsilhouettes.wav",
 			length = 113.17405895692,
 		},
 	}
 
-	L["comindividdecisions"] = {
+	L["commentarycomindividdecisions"] = {
 		{
 			path = "commentary/com-individdecisions.wav",
 			length = 47.984716553288,
 		},
 	}
 
-	L["comvarietyinfected"] = {
+	L["commentarycomvarietyinfected"] = {
 		{
 			path = "commentary/com-varietyinfected.wav",
 			length = 77.073741496599,
 		},
 	}
 
-	L["comstraightforward"] = {
+	L["commentarycomstraightforward"] = {
 		{
 			path = "commentary/com-straightforward.wav",
 			length = 39.383945578231,
 		},
 	}
 
-	L["comlinearvopencity"] = {
+	L["commentarycomlinearvopencity"] = {
 		{
 			path = "commentary/com-linearvopencity.wav",
 			length = 34.886734693878,
 		},
 	}
 
-	L["comaudiosilhouette"] = {
+	L["commentarycomaudiosilhouette"] = {
 		{
 			path = "commentary/com-audiosilhouette.wav",
 			length = 20.500068027211,
 		},
 	}
 
-	L["comcrescendoevents"] = {
+	L["commentarycomcrescendoevents"] = {
 		{
 			path = "commentary/com-crescendoevents.wav",
 			length = 31.861383219955,
 		},
 	}
 
-	L["comthirdpartyaddon"] = {
+	L["commentarycomthirdpartyaddon"] = {
 		{
 			path = "commentary/com-thirdpartyaddon.wav",
 			length = 49.603628117914,
 		},
 	}
 
-	L["comuniquecampaigns"] = {
+	L["commentarycomuniquecampaigns"] = {
 		{
 			path = "commentary/com-uniquecampaigns.wav",
 			length = 51.326303854875,
 		},
 	}
 
-	L["comgrenadelauncher"] = {
+	L["commentarycomgrenadelauncher"] = {
 		{
 			path = "commentary/com-grenadelauncher.wav",
 			length = 24.318911564626,
 		},
 	}
 
-	L["comdeadlyhallways"] = {
+	L["commentarycomdeadlyhallways"] = {
 		{
 			path = "commentary/com-deadlyhallways.wav",
 			length = 17.006167800454,
 		},
 	}
 
-	L["stalkertrainmodels"] = {
+	L["commentarystalkertrainmodels"] = {
 		{
 			path = "commentary/stalkertrainmodels.wav",
 			length = 27.008163265306,
 		},
 	}
 
-	L["comspittereffects"] = {
+	L["commentarycomspittereffects"] = {
 		{
 			path = "commentary/com-spittereffects.wav",
 			length = 36.602040816327,
 		},
 	}
 
-	L["comdramaticpacing"] = {
+	L["commentarycomdramaticpacing"] = {
 		{
 			path = "commentary/com-dramaticpacing.wav",
 			length = 105.91405895692,
 		},
 	}
 
-	L["comelevatorclimax"] = {
+	L["commentarycomelevatorclimax"] = {
 		{
 			path = "commentary/com-elevatorclimax.wav",
 			length = 17.66253968254,
 		},
 	}
 
-	L["comwhythirdstrike"] = {
+	L["commentarycomwhythirdstrike"] = {
 		{
 			path = "commentary/com-whythirdstrike.wav",
 			length = 39.6020861678,
 		},
 	}
 
-	L["benefitsofdarkness"] = {
+	L["commentarybenefitsofdarkness"] = {
 		{
 			path = "commentary/benefitsofdarkness.wav",
 			length = 19.944489795918,
 		},
 	}
 
-	L["flashlightgameplay"] = {
+	L["commentaryflashlightgameplay"] = {
 		{
 			path = "commentary/flashlightgameplay.wav",
 			length = 23.961088435374,
 		},
 	}
 
-	L["comserverbrowsing"] = {
+	L["commentarycomserverbrowsing"] = {
 		{
 			path = "commentary/com-serverbrowsing.wav",
 			length = 70.791655328798,
 		},
 	}
 
-	L["collapsingelevator"] = {
+	L["commentarycollapsingelevator"] = {
 		{
 			path = "commentary/collapsingelevator.wav",
 			length = 23.868752834467,
 		},
 	}
 
-	L["comrescueclosets"] = {
+	L["commentarycomrescueclosets"] = {
 		{
 			path = "commentary/com-rescueclosets.wav",
 			length = 48.691609977324,
 		},
 	}
 
-	L["comaidirectorpop"] = {
+	L["commentarycomaidirectorpop"] = {
 		{
 			path = "commentary/com-aidirectorpop.wav",
 			length = 88.581995464853,
 		},
 	}
 
-	L["comscenevariants"] = {
+	L["commentarycomscenevariants"] = {
 		{
 			path = "commentary/com-scenevariants.wav",
 			length = 31.272630385488,
 		},
 	}
 
-	L["comrooftopfinale"] = {
+	L["commentarycomrooftopfinale"] = {
 		{
 			path = "commentary/com-rooftopfinale.wav",
 			length = 66.275306122449,
 		},
 	}
 
-	L["comdynamicalarms"] = {
+	L["commentarycomdynamicalarms"] = {
 		{
 			path = "commentary/com-dynamicalarms.wav",
 			length = 34.563718820862,
 		},
 	}
 
-	L["comcontextdialog"] = {
+	L["commentarycomcontextdialog"] = {
 		{
 			path = "commentary/com-contextdialog.wav",
 			length = 26.284943310658,
 		},
 	}
 
-	L["comdefibrillator"] = {
+	L["commentarycomdefibrillator"] = {
 		{
 			path = "commentary/com-defibrillator.wav",
 			length = 42.33052154195,
 		},
 	}
 
-	L["comlocalcontrast"] = {
+	L["commentarycomlocalcontrast"] = {
 		{
 			path = "commentary/com-localcontrast.wav",
 			length = 25.133922902494,
 		},
 	}
 
-	L["comitemplacement"] = {
+	L["commentarycomitemplacement"] = {
 		{
 			path = "commentary/com-itemplacement.wav",
 			length = 31.816961451247,
 		},
 	}
 
-	L["comsmokereffects"] = {
+	L["commentarycomsmokereffects"] = {
 		{
 			path = "commentary/com-smokereffects.wav",
 			length = 90.845850340136,
 		},
 	}
 
-	L["barneysbigcrowbar"] = {
+	L["commentarybarneysbigcrowbar"] = {
 		{
 			path = "commentary/barneysbigcrowbar.wav",
 			length = 28.208526077098,
 		},
 	}
 
-	L["comencouragecoop"] = {
+	L["commentarycomencouragecoop"] = {
 		{
 			path = "commentary/com-encouragecoop.wav",
 			length = 27.497891156463,
 		},
 	}
 
-	L["crashedstalkercar"] = {
+	L["commentarycrashedstalkercar"] = {
 		{
 			path = "commentary/crashedstalkercar.wav",
 			length = 17.820770975057,
 		},
 	}
 
-	L["commusicinterest"] = {
+	L["commentarycommusicinterest"] = {
 		{
 			path = "commentary/com-musicinterest.wav",
 			length = 40.847823129252,
 		},
 	}
 
-	L["comhybridenviron"] = {
+	L["commentarycomhybridenviron"] = {
 		{
 			path = "commentary/com-hybridenviron.wav",
 			length = 49.615600907029,
 		},
 	}
 
-	L["foreshadowgunship"] = {
+	L["commentaryforeshadowgunship"] = {
 		{
 			path = "commentary/foreshadowgunship.wav",
 			length = 9.6952380952381,
 		},
 	}
 
-	L["stalkeriteration"] = {
+	L["commentarystalkeriteration"] = {
 		{
 			path = "commentary/stalkeriteration.wav",
 			length = 29.916734693878,
 		},
 	}
 
-	L["puzzlerefinement"] = {
+	L["commentarypuzzlerefinement"] = {
 		{
 			path = "commentary/puzzlerefinement.wav",
 			length = 47.137324263039,
 		},
 	}
 
-	L["comnetbandwidth"] = {
+	L["commentarycomnetbandwidth"] = {
 		{
 			path = "commentary/com-netbandwidth.wav",
 			length = 33.559682539683,
 		},
 	}
 
-	L["skilllevelchange"] = {
+	L["commentaryskilllevelchange"] = {
 		{
 			path = "commentary/skilllevelchange.wav",
 			length = 12.142131519274,
 		},
 	}
 
-	L["garrisonapproach"] = {
+	L["commentarygarrisonapproach"] = {
 		{
 			path = "commentary/garrisonapproach.wav",
 			length = 28.716371882086,
 		},
 	}
 
-	L["comexplicitcoop"] = {
+	L["commentarycomexplicitcoop"] = {
 		{
 			path = "commentary/com-explicitcoop.wav",
 			length = 37.830657596372,
 		},
 	}
 
-	L["comkeeptankchar"] = {
+	L["commentarycomkeeptankchar"] = {
 		{
 			path = "commentary/com-keeptankchar.wav",
 			length = 70.883492063492,
 		},
 	}
 
-	L["comsneakorfight"] = {
+	L["commentarycomsneakorfight"] = {
 		{
 			path = "commentary/com-sneakorfight.wav",
 			length = 17.628299319728,
 		},
 	}
 
-	L["commodreference"] = {
+	L["commentarycommodreference"] = {
 		{
 			path = "commentary/com-modreference.wav",
 			length = 54.408548752834,
 		},
 	}
 
-	L["comnewsurvivors"] = {
+	L["commentarycomnewsurvivors"] = {
 		{
 			path = "commentary/com-newsurvivors.wav",
 			length = 37.126077097506,
 		},
 	}
 
-	L["comlightingapoc"] = {
+	L["commentarycomlightingapoc"] = {
 		{
 			path = "commentary/com-lightingapoc.wav",
 			length = 55.907505668934,
 		},
 	}
 
-	L["comrandomweapon"] = {
+	L["commentarycomrandomweapon"] = {
 		{
 			path = "commentary/com-randomweapon.wav",
 			length = 27.773922902494,
 		},
 	}
 
-	L["drawingattention"] = {
+	L["commentarydrawingattention"] = {
 		{
 			path = "commentary/drawingattention.wav",
 			length = 20.406167800454,
 		},
 	}
 
-	L["comspecialmoves"] = {
+	L["commentarycomspecialmoves"] = {
 		{
 			path = "commentary/com-specialmoves.wav",
 			length = 67.108571428571,
 		},
 	}
 
-	L["comlobbybrowser"] = {
+	L["commentarycomlobbybrowser"] = {
 		{
 			path = "commentary/com-lobbybrowser.wav",
 			length = 50.23768707483,
 		},
 	}
 
-	L["comupgradepacks"] = {
+	L["commentarycomupgradepacks"] = {
 		{
 			path = "commentary/com-upgradepacks.wav",
 			length = 48.680725623583,
 		},
 	}
 
-	L["comgameinstruct"] = {
+	L["commentarycomgameinstruct"] = {
 		{
 			path = "commentary/com-gameinstruct.wav",
 			length = 41.587074829932,
 		},
 	}
 
-	L["comroundrestart"] = {
+	L["commentarycomroundrestart"] = {
 		{
 			path = "commentary/com-roundrestart.wav",
 			length = 34.962675736961,
 		},
 	}
 
-	L["comteamfeedback"] = {
+	L["commentarycomteamfeedback"] = {
 		{
 			path = "commentary/com-teamfeedback.wav",
 			length = 53.066530612245,
 		},
 	}
 
-	L["comflowingwater"] = {
+	L["commentarycomflowingwater"] = {
 		{
 			path = "commentary/com-flowingwater.wav",
 			length = 36.150385487528,
 		},
 	}
 
-	L["skybridgezombies"] = {
+	L["commentaryskybridgezombies"] = {
 		{
 			path = "commentary/skybridgezombies.wav",
 			length = 19.852154195011,
 		},
 	}
 
-	L["comcolorcorrect"] = {
+	L["commentarycomcolorcorrect"] = {
 		{
 			path = "commentary/com-colorcorrect.wav",
 			length = 28.009954648526,
 		},
 	}
 
-	L["comvisualdesign"] = {
+	L["commentarycomvisualdesign"] = {
 		{
 			path = "commentary/com-visualdesign.wav",
 			length = 53.456258503401,
 		},
 	}
 
-	L["comfrancisbiker"] = {
+	L["commentarycomfrancisbiker"] = {
 		{
 			path = "commentary/com-francisbiker.wav",
 			length = 76.06462585034,
 		},
 	}
 
-	L["strollwithbarney"] = {
+	L["commentarystrollwithbarney"] = {
 		{
 			path = "commentary/strollwithbarney.wav",
 			length = 21.237188208617,
 		},
 	}
 
-	L["comdynamicpaths"] = {
+	L["commentarycomdynamicpaths"] = {
 		{
 			path = "commentary/com-dynamicpaths.wav",
 			length = 32.132063492063,
 		},
 	}
 
-	L["separatefromalyx"] = {
+	L["commentaryseparatefromalyx"] = {
 		{
 			path = "commentary/separatefromalyx.wav",
 			length = 25.299954648526,
 		},
 	}
 
-	L["battleofreflexes"] = {
+	L["commentarybattleofreflexes"] = {
 		{
 			path = "commentary/battleofreflexes.wav",
 			length = 23.77641723356,
 		},
 	}
 
-	L["whatwasthatthing"] = {
+	L["commentarywhatwasthatthing"] = {
 		{
 			path = "commentary/whatwasthatthing.wav",
 			length = 12.60380952381,
 		},
 	}
 
-	L["comdaytimecues"] = {
+	L["commentarycomdaytimecues"] = {
 		{
 			path = "commentary/com-daytimecues.wav",
 			length = 21.113786848073,
 		},
 	}
 
-	L["comldictionary"] = {
+	L["commentarycomldictionary"] = {
 		{
 			path = "commentary/com-l4dictionary.wav",
 			length = 55.61052154195,
 		},
 	}
 
-	L["commocapbasics"] = {
+	L["commentarycommocapbasics"] = {
 		{
 			path = "commentary/com-mocapbasics.wav",
 			length = 146.51795918367,
 		},
 	}
 
-	L["comzombieanims"] = {
+	L["commentarycomzombieanims"] = {
 		{
 			path = "commentary/com-zombieanims.wav",
 			length = 61.702222222222,
 		},
 	}
 
-	L["hospitalrespite"] = {
+	L["commentaryhospitalrespite"] = {
 		{
 			path = "commentary/hospitalrespite.wav",
 			length = 21.837369614512,
 		},
 	}
 
-	L["airventcollapse"] = {
+	L["commentaryairventcollapse"] = {
 		{
 			path = "commentary/airventcollapse.wav",
 			length = 26.454149659864,
 		},
 	}
 
-	L["spacerefinement"] = {
+	L["commentaryspacerefinement"] = {
 		{
 			path = "commentary/spacerefinement.wav",
 			length = 24.69977324263,
 		},
 	}
 
-	L["combinecorelook"] = {
+	L["commentarycombinecorelook"] = {
 		{
 			path = "commentary/combinecorelook.wav",
 			length = 24.607437641723,
 		},
 	}
 
-	L["corecolorscheme"] = {
+	L["commentarycorecolorscheme"] = {
 		{
 			path = "commentary/corecolorscheme.wav",
 			length = 12.696145124717,
 		},
 	}
 
-	L["comworldmodels"] = {
+	L["commentarycomworldmodels"] = {
 		{
 			path = "commentary/com-worldmodels.wav",
 			length = 51.301904761905,
 		},
 	}
 
-	L["comthescreamer"] = {
+	L["commentarycomthescreamer"] = {
 		{
 			path = "commentary/com-thescreamer.wav",
 			length = 41.102789115646,
 		},
 	}
 
-	L["alyxcitadeltone"] = {
+	L["commentaryalyxcitadeltone"] = {
 		{
 			path = "commentary/alyxcitadeltone.wav",
 			length = 39.888979591837,
 		},
 	}
 
-	L["comsignalradio"] = {
+	L["commentarycomsignalradio"] = {
 		{
 			path = "commentary/com-signalradio.wav",
 			length = 19.45768707483,
 		},
 	}
 
-	L["zombinegrenades"] = {
+	L["commentaryzombinegrenades"] = {
 		{
 			path = "commentary/zombinegrenades.wav",
 			length = 35.964716553288,
 		},
 	}
 
-	L["rolleradventure"] = {
+	L["commentaryrolleradventure"] = {
 		{
 			path = "commentary/rolleradventure.wav",
 			length = 22.022040816327,
 		},
 	}
 
-	L["comsounddesign"] = {
+	L["commentarycomsounddesign"] = {
 		{
 			path = "commentary/com-sounddesign.wav",
 			length = 48.703854875283,
 		},
 	}
 
-	L["complayerstart"] = {
+	L["commentarycomplayerstart"] = {
 		{
 			path = "commentary/com-playerstart.wav",
 			length = 25.56335600907,
 		},
 	}
 
-	L["comintromovies"] = {
+	L["commentarycomintromovies"] = {
 		{
 			path = "commentary/com-intromovies.wav",
 			length = 22.929047619048,
 		},
 	}
 
-	L["comparadefloat"] = {
+	L["commentarycomparadefloat"] = {
 		{
 			path = "commentary/com-paradefloat.wav",
 			length = 26.054784580499,
 		},
 	}
 
-	L["comglowingeyes"] = {
+	L["commentarycomglowingeyes"] = {
 		{
 			path = "commentary/com-glowingeyes.wav",
 			length = 41.516961451247,
 		},
 	}
 
-	L["comadvzombieai"] = {
+	L["commentarycomadvzombieai"] = {
 		{
 			path = "commentary/com-advzombieai.wav",
 			length = 41.247891156463,
 		},
 	}
 
-	L["padlockmistakes"] = {
+	L["commentarypadlockmistakes"] = {
 		{
 			path = "commentary/padlockmistakes.wav",
 			length = 19.205804988662,
 		},
 	}
 
-	L["comscissorlift"] = {
+	L["commentarycomscissorlift"] = {
 		{
 			path = "commentary/com-scissorlift.wav",
 			length = 10.956802721088,
 		},
 	}
 
-	L["newtrainstation"] = {
+	L["commentarynewtrainstation"] = {
 		{
 			path = "commentary/newtrainstation.wav",
 			length = 19.021133786848,
 		},
 	}
 
-	L["comdynaconvers"] = {
+	L["commentarycomdynaconvers"] = {
 		{
 			path = "commentary/com-dynaconvers.wav",
 			length = 26.386802721088,
 		},
 	}
 
-	L["comlasersights"] = {
+	L["commentarycomlasersights"] = {
 		{
 			path = "commentary/com-lasersights.wav",
 			length = 32.536235827664,
 		},
 	}
 
-	L["advisorsighting"] = {
+	L["commentaryadvisorsighting"] = {
 		{
 			path = "commentary/advisorsighting.wav",
 			length = 53.416145124717,
 		},
 	}
 
-	L["complayerglows"] = {
+	L["commentarycomplayerglows"] = {
 		{
 			path = "commentary/com-playerglows.wav",
 			length = 29.917596371882,
 		},
 	}
 
-	L["comcoveredbody"] = {
+	L["commentarycomcoveredbody"] = {
 		{
 			path = "commentary/com-coveredbody.wav",
 			length = 56.807709750567,
 		},
 	}
 
-	L["comflashlight"] = {
+	L["commentarycomflashlight"] = {
 		{
 			path = "commentary/com-flashlight.wav",
 			length = 37.028979591837,
 		},
 	}
 
-	L["combillnamvet"] = {
+	L["commentarycombillnamvet"] = {
 		{
 			path = "commentary/com-billnamvet.wav",
 			length = 39.756462585034,
 		},
 	}
 
-	L["burrowblocking"] = {
+	L["commentaryburrowblocking"] = {
 		{
 			path = "commentary/burrowblocking.wav",
 			length = 34.67201814059,
 		},
 	}
 
-	L["comautocrouch"] = {
+	L["commentarycomautocrouch"] = {
 		{
 			path = "commentary/com-autocrouch.wav",
 			length = 33.6479138322,
 		},
 	}
 
-	L["combusstation"] = {
+	L["commentarycombusstation"] = {
 		{
 			path = "commentary/com-busstation.wav",
 			length = 17.899501133787,
 		},
 	}
 
-	L["comoverpasses"] = {
+	L["commentarycomoverpasses"] = {
 		{
 			path = "commentary/com-overpasses.wav",
 			length = 13.499818594104,
 		},
 	}
 
-	L["secondballtube"] = {
+	L["commentarysecondballtube"] = {
 		{
 			path = "commentary/secondballtube.wav",
 			length = 12.326802721088,
 		},
 	}
 
-	L["comdramamusic"] = {
+	L["commentarycomdramamusic"] = {
 		{
 			path = "commentary/com-dramamusic.wav",
 			length = 46.405056689342,
 		},
 	}
 
-	L["rollertraining"] = {
+	L["commentaryrollertraining"] = {
 		{
 			path = "commentary/rollertraining.wav",
 			length = 44.782766439909,
 		},
 	}
 
-	L["bangingzombies"] = {
+	L["commentarybangingzombies"] = {
 		{
 			path = "commentary/bangingzombies.wav",
 			length = 25.34612244898,
 		},
 	}
 
-	L["comlocalmusic"] = {
+	L["commentarycomlocalmusic"] = {
 		{
 			path = "commentary/com-localmusic.wav",
 			length = 58.037414965986,
 		},
 	}
 
-	L["comdeathanims"] = {
+	L["commentarycomdeathanims"] = {
 		{
 			path = "commentary/com-deathanims.wav",
 			length = 31.412290249433,
 		},
 	}
 
-	L["citdestruction"] = {
+	L["commentarycitdestruction"] = {
 		{
 			path = "commentary/citdestruction.wav",
 			length = 32.1789569161,
 		},
 	}
 
-	L["comlightpaint"] = {
+	L["commentarycomlightpaint"] = {
 		{
 			path = "commentary/com-lightpaint.wav",
 			length = 40.094671201814,
 		},
 	}
 
-	L["youremynewhero"] = {
+	L["commentaryyouremynewhero"] = {
 		{
 			path = "commentary/youremynewhero.wav",
 			length = 16.066394557823,
 		},
 	}
 
-	L["comlandingpad"] = {
+	L["commentarycomlandingpad"] = {
 		{
 			path = "commentary/com-landingpad.wav",
 			length = 27.066349206349,
 		},
 	}
 
-	L["comkeepsimple"] = {
+	L["commentarycomkeepsimple"] = {
 		{
 			path = "commentary/com-keepsimple.wav",
 			length = 47.418707482993,
 		},
 	}
 
-	L["comadrenaline"] = {
+	L["commentarycomadrenaline"] = {
 		{
 			path = "commentary/com-adrenaline.wav",
 			length = 38.272925170068,
 		},
 	}
 
-	L["comrandomitem"] = {
+	L["commentarycomrandomitem"] = {
 		{
 			path = "commentary/com-randomitem.wav",
 			length = 18.816031746032,
 		},
 	}
 
-	L["justhavetodoit"] = {
+	L["commentaryjusthavetodoit"] = {
 		{
 			path = "commentary/justhavetodoit.wav",
 			length = 29.039546485261,
 		},
 	}
 
-	L["comtempsounds"] = {
+	L["commentarycomtempsounds"] = {
 		{
 			path = "commentary/com-tempsounds.wav",
 			length = 35.513560090703,
 		},
 	}
 
-	L["hackingrollers"] = {
+	L["commentaryhackingrollers"] = {
 		{
 			path = "commentary/hackingrollers.wav",
 			length = 28.716371882086,
 		},
 	}
 
-	L["comtankraffle"] = {
+	L["commentarycomtankraffle"] = {
 		{
 			path = "commentary/com-tankraffle.wav",
 			length = 53.754058956916,
 		},
 	}
 
-	L["gunshipcloseup"] = {
+	L["commentarygunshipcloseup"] = {
 		{
 			path = "commentary/gunshipcloseup.wav",
 			length = 12.511473922902,
 		},
 	}
 
-	L["sealingoffcafe"] = {
+	L["commentarysealingoffcafe"] = {
 		{
 			path = "commentary/sealingoffcafe.wav",
 			length = 20.775510204082,
 		},
 	}
 
-	L["combodypiles"] = {
+	L["commentarycombodypiles"] = {
 		{
 			path = "commentary/com-bodypiles.wav",
 			length = 17.862993197279,
 		},
 	}
 
-	L["comweatherfx"] = {
+	L["commentarycomweatherfx"] = {
 		{
 			path = "commentary/com-weatherfx.wav",
 			length = 46.480544217687,
 		},
 	}
 
-	L["tripminetraps"] = {
+	L["commentarytripminetraps"] = {
 		{
 			path = "commentary/tripminetraps.wav",
 			length = 9.8799092970522,
 		},
 	}
 
-	L["fallingdebris"] = {
+	L["commentaryfallingdebris"] = {
 		{
 			path = "commentary/falling_debris.wav",
 			length = 33.286984126984,
 		},
 	}
 
-	L["comfurniture"] = {
+	L["commentarycomfurniture"] = {
 		{
 			path = "commentary/com-furniture.wav",
 			length = 25.561814058957,
 		},
 	}
 
-	L["comtheboomer"] = {
+	L["commentarycomtheboomer"] = {
 		{
 			path = "commentary/com-theboomer.wav",
 			length = 107.17142857143,
 		},
 	}
 
-	L["traincarmodel"] = {
+	L["commentarytraincarmodel"] = {
 		{
 			path = "commentary/traincarmodel.wav",
 			length = 37.165079365079,
 		},
 	}
 
-	L["comelevation"] = {
+	L["commentarycomelevation"] = {
 		{
 			path = "commentary/com-elevation.wav",
 			length = 19.385034013605,
 		},
 	}
 
-	L["comammopiles"] = {
+	L["commentarycomammopiles"] = {
 		{
 			path = "commentary/com-ammopiles.wav",
 			length = 54.281904761905,
 		},
 	}
 
-	L["comthesmoker"] = {
+	L["commentarycomthesmoker"] = {
 		{
 			path = "commentary/com-thesmoker.wav",
 			length = 21.419569160998,
 		},
 	}
 
-	L["youdidthemath"] = {
+	L["commentaryyoudidthemath"] = {
 		{
 			path = "commentary/youdidthemath.wav",
 			length = 31.117097505669,
 		},
 	}
 
-	L["comcrescendo"] = {
+	L["commentarycomcrescendo"] = {
 		{
 			path = "commentary/com-crescendo.wav",
 			length = 56.744761904762,
 		},
 	}
 
-	L["compipebombs"] = {
+	L["commentarycompipebombs"] = {
 		{
 			path = "commentary/com-pipebombs.wav",
 			length = 23.6379138322,
 		},
 	}
 
-	L["comvsbalance"] = {
+	L["commentarycomvsbalance"] = {
 		{
 			path = "commentary/com-vsbalance.wav",
 			length = 47.479795918367,
 		},
 	}
 
-	L["comledgehang"] = {
+	L["commentarycomledgehang"] = {
 		{
 			path = "commentary/com-ledgehang.wav",
 			length = 46.057120181406,
 		},
 	}
 
-	L["comparkpaths"] = {
+	L["commentarycomparkpaths"] = {
 		{
 			path = "commentary/com-parkpaths.wav",
 			length = 22.043401360544,
 		},
 	}
 
-	L["gunshipdesign"] = {
+	L["commentarygunshipdesign"] = {
 		{
 			path = "commentary/gunshipdesign.wav",
 			length = 35.503038548753,
 		},
 	}
 
-	L["comldwriting"] = {
+	L["commentarycomldwriting"] = {
 		{
 			path = "commentary/com-l4dwriting.wav",
 			length = 63.767664399093,
 		},
 	}
 
-	L["comfilmgrain"] = {
+	L["commentarycomfilmgrain"] = {
 		{
 			path = "commentary/com-filmgrain.wav",
 			length = 28.886349206349,
 		},
 	}
 
-	L["followthewire"] = {
+	L["commentaryfollowthewire"] = {
 		{
 			path = "commentary/followthewire.wav",
 			length = 48.614693877551,
 		},
 	}
 
-	L["artpassgarage"] = {
+	L["commentaryartpassgarage"] = {
 		{
 			path = "commentary/artpassgarage.wav",
 			length = 64.173242630385,
 		},
 	}
 
-	L["citadelskybox"] = {
+	L["commentarycitadelskybox"] = {
 		{
 			path = "commentary/citadel_skybox.wav",
 			length = 23.037732426304,
 		},
 	}
 
-	L["crouchingalyx"] = {
+	L["commentarycrouchingalyx"] = {
 		{
 			path = "commentary/crouchingalyx.wav",
 			length = 31.855782312925,
 		},
 	}
 
-	L["comcaralarms"] = {
+	L["commentarycomcaralarms"] = {
 		{
 			path = "commentary/com-caralarms.wav",
 			length = 33.037664399093,
 		},
 	}
 
-	L["combusreturn"] = {
+	L["commentarycombusreturn"] = {
 		{
 			path = "commentary/com-busreturn.wav",
 			length = 16.516054421769,
 		},
 	}
 
-	L["hospitalprops"] = {
+	L["commentaryhospitalprops"] = {
 		{
 			path = "commentary/hospitalprops.wav",
 			length = 16.574240362812,
 		},
 	}
 
-	L["responserules"] = {
+	L["commentaryresponserules"] = {
 		{
 			path = "commentary/responserules.wav",
 			length = 45.567619047619,
 		},
 	}
 
-	L["comuncommons"] = {
+	L["commentarycomuncommons"] = {
 		{
 			path = "commentary/com-uncommons.wav",
 			length = 39.729433106576,
 		},
 	}
 
-	L["alyxspecular"] = {
+	L["commentaryalyxspecular"] = {
 		{
 			path = "commentary/alyx_specular.wav",
 			length = 65.650612244898,
 		},
 	}
 
-	L["charactersys"] = {
+	L["commentarycharactersys"] = {
 		{
 			path = "commentary/charactersys.wav",
 			length = 48.753197278912,
 		},
 	}
 
-	L["holetraining"] = {
+	L["commentaryholetraining"] = {
 		{
 			path = "commentary/holetraining.wav",
 			length = 12.465306122449,
 		},
 	}
 
-	L["comvignette"] = {
+	L["commentarycomvignette"] = {
 		{
 			path = "commentary/com-vignette.wav",
 			length = 22.491247165533,
 		},
 	}
 
-	L["al gstrategy"] = {
+	L["commentaryal gstrategy"] = {
 		{
 			path = "commentary/alg_strategy.wav",
 			length = 30.793922902494,
 		},
 	}
 
-	L["comthewitch"] = {
+	L["commentarycomthewitch"] = {
 		{
 			path = "commentary/com-thewitch.wav",
 			length = 57.833129251701,
 		},
 	}
 
-	L["zombinemusic"] = {
+	L["commentaryzombinemusic"] = {
 		{
 			path = "commentary/zombinemusic.wav",
 			length = 13.342494331066,
 		},
 	}
 
-	L["comjazzclub"] = {
+	L["commentarycomjazzclub"] = {
 		{
 			path = "commentary/com-jazzclub.wav",
 			length = 11.448344671202,
 		},
 	}
 
-	L["poisonambush"] = {
+	L["commentarypoisonambush"] = {
 		{
 			path = "commentary/poisonambush.wav",
 			length = 19.805986394558,
 		},
 	}
 
-	L["alyxrunspeed"] = {
+	L["commentaryalyxrunspeed"] = {
 		{
 			path = "commentary/alyxrunspeed.wav",
 			length = 17.72843537415,
 		},
 	}
 
-	L["weaponpickup"] = {
+	L["commentaryweaponpickup"] = {
 		{
 			path = "commentary/weaponpickup.wav",
 			length = 38.734784580499,
 		},
 	}
 
-	L["prtlcomment"] = {
+	L["commentaryprtlcomment"] = {
 		{
 			path = "commentary/prtl-comment000.wav",
 			length = 58.545419501134,
@@ -1482,70 +1482,70 @@ c.StartList("table: 0x36dd87c0")
 		},
 	}
 
-	L["monsterintro"] = {
+	L["commentarymonsterintro"] = {
 		{
 			path = "commentary/monsterintro.wav",
 			length = 12.511473922902,
 		},
 	}
 
-	L["likeablealyx"] = {
+	L["commentarylikeablealyx"] = {
 		{
 			path = "commentary/likeablealyx.wav",
 			length = 34.487346938776,
 		},
 	}
 
-	L["vortexoflove"] = {
+	L["commentaryvortexoflove"] = {
 		{
 			path = "commentary/vortexoflove.wav",
 			length = 29.362721088435,
 		},
 	}
 
-	L["stepapproach"] = {
+	L["commentarystepapproach"] = {
 		{
 			path = "commentary/3stepapproach.wav",
 			length = 21.329523809524,
 		},
 	}
 
-	L["complaytest"] = {
+	L["commentarycomplaytest"] = {
 		{
 			path = "commentary/com-playtest.wav",
 			length = 70.721882086168,
 		},
 	}
 
-	L["compipebomb"] = {
+	L["commentarycompipebomb"] = {
 		{
 			path = "commentary/com-pipebomb.wav",
 			length = 50.3820861678,
 		},
 	}
 
-	L["comtrackexp"] = {
+	L["commentarycomtrackexp"] = {
 		{
 			path = "commentary/com-trackexp.wav",
 			length = 37.176916099773,
 		},
 	}
 
-	L["comgaspumps"] = {
+	L["commentarycomgaspumps"] = {
 		{
 			path = "commentary/com-gaspumps.wav",
 			length = 22.27843537415,
 		},
 	}
 
-	L["comsmokeset"] = {
+	L["commentarycomsmokeset"] = {
 		{
 			path = "commentary/com-smokeset.wav",
 			length = 42.633310657596,
 		},
 	}
 
-	L["monitorscene"] = {
+	L["commentarymonitorscene"] = {
 		{
 			path = "commentary/monitor_scene.wav",
 			length = 32.640634920635,
@@ -1556,210 +1556,210 @@ c.StartList("table: 0x36dd87c0")
 		},
 	}
 
-	L["introeffects"] = {
+	L["commentaryintroeffects"] = {
 		{
 			path = "commentary/intro_effects.wav",
 			length = 16.02022675737,
 		},
 	}
 
-	L["introdesign"] = {
+	L["commentaryintrodesign"] = {
 		{
 			path = "commentary/intro_design.wav",
 			length = 35.780045351474,
 		},
 	}
 
-	L["comgunplay"] = {
+	L["commentarycomgunplay"] = {
 		{
 			path = "commentary/com-gunplay.wav",
 			length = 70.678639455782,
 		},
 	}
 
-	L["comwelcome"] = {
+	L["commentarycomwelcome"] = {
 		{
 			path = "commentary/com-welcome.wav",
 			length = 61.788299319728,
 		},
 	}
 
-	L["dogdropship"] = {
+	L["commentarydogdropship"] = {
 		{
 			path = "commentary/dog_dropship.wav",
 			length = 31.948117913832,
 		},
 	}
 
-	L["stalkerball"] = {
+	L["commentarystalkerball"] = {
 		{
 			path = "commentary/stalkerball.wav",
 			length = 8.1255328798186,
 		},
 	}
 
-	L["citadellook"] = {
+	L["commentarycitadellook"] = {
 		{
 			path = "commentary/citadellook.wav",
 			length = 21.975873015873,
 		},
 	}
 
-	L["shotgunalyx"] = {
+	L["commentaryshotgunalyx"] = {
 		{
 			path = "commentary/shotgunalyx.wav",
 			length = 25.34612244898,
 		},
 	}
 
-	L["kleinercast"] = {
+	L["commentarykleinercast"] = {
 		{
 			path = "commentary/kleinercast.wav",
 			length = 46.029297052154,
 		},
 	}
 
-	L["comskyline"] = {
+	L["commentarycomskyline"] = {
 		{
 			path = "commentary/com-skyline.wav",
 			length = 38.068820861678,
 		},
 	}
 
-	L["combalcony"] = {
+	L["commentarycombalcony"] = {
 		{
 			path = "commentary/com-balcony.wav",
 			length = 16.857414965986,
 		},
 	}
 
-	L["podroomlook"] = {
+	L["commentarypodroomlook"] = {
 		{
 			path = "commentary/podroomlook.wav",
 			length = 30.193741496599,
 		},
 	}
 
-	L["alyxconsole"] = {
+	L["commentaryalyxconsole"] = {
 		{
 			path = "commentary/alyxconsole.wav",
 			length = 23.130068027211,
 		},
 	}
 
-	L["comgiddyup"] = {
+	L["commentarycomgiddyup"] = {
 		{
 			path = "commentary/com-giddyup.wav",
 			length = 114.06380952381,
 		},
 	}
 
-	L["metalplates"] = {
+	L["commentarymetalplates"] = {
 		{
 			path = "commentary/metalplates.wav",
 			length = 11.634285714286,
 		},
 	}
 
-	L["hospitalart"] = {
+	L["commentaryhospitalart"] = {
 		{
 			path = "commentary/hospitalart.wav",
 			length = 32.363628117914,
 		},
 	}
 
-	L["comthetank"] = {
+	L["commentarycomthetank"] = {
 		{
 			path = "commentary/com-thetank.wav",
 			length = 51.232471655329,
 		},
 	}
 
-	L["comorigins"] = {
+	L["commentarycomorigins"] = {
 		{
 			path = "commentary/com-origins.wav",
 			length = 44.360589569161,
 		},
 	}
 
-	L["commusicon"] = {
+	L["commentarycommusicon"] = {
 		{
 			path = "commentary/com-musicon.wav",
 			length = 28.964535147392,
 		},
 	}
 
-	L["zombietrap"] = {
+	L["commentaryzombietrap"] = {
 		{
 			path = "commentary/zombietrap.wav",
 			length = 13.942675736961,
 		},
 	}
 
-	L["comassets"] = {
+	L["commentarycomassets"] = {
 		{
 			path = "commentary/com-assets.wav",
 			length = 23.642222222222,
 		},
 	}
 
-	L["powerboxes"] = {
+	L["commentarypowerboxes"] = {
 		{
 			path = "commentary/powerboxes.wav",
 			length = 38.457777777778,
 		},
 	}
 
-	L["comwounds"] = {
+	L["commentarycomwounds"] = {
 		{
 			path = "commentary/com-wounds.wav",
 			length = 62.335102040816,
 		},
 	}
 
-	L["doorblasts"] = {
+	L["commentarydoorblasts"] = {
 		{
 			path = "commentary/doorblasts.wav",
 			length = 25.48462585034,
 		},
 	}
 
-	L["alyxsniper"] = {
+	L["commentaryalyxsniper"] = {
 		{
 			path = "commentary/alyxsniper.wav",
 			length = 14.635192743764,
 		},
 	}
 
-	L["crumbtrail"] = {
+	L["commentarycrumbtrail"] = {
 		{
 			path = "commentary/crumbtrail.wav",
 			length = 13.896507936508,
 		},
 	}
 
-	L["comladder"] = {
+	L["commentarycomladder"] = {
 		{
 			path = "commentary/com-ladder.wav",
 			length = 26.170680272109,
 		},
 	}
 
-	L["silhouette"] = {
+	L["commentarysilhouette"] = {
 		{
 			path = "commentary/silhouette.wav",
 			length = 26.361814058957,
 		},
 	}
 
-	L["coresphere"] = {
+	L["commentarycoresphere"] = {
 		{
 			path = "commentary/coresphere.wav",
 			length = 14.681360544218,
 		},
 	}
 
-	L["tfcomment"] = {
+	L["commentarytfcomment"] = {
 		{
 			path = "commentary/tf2-comment000.wav",
 			length = 51.640498866213,
@@ -1958,35 +1958,35 @@ c.StartList("table: 0x36dd87c0")
 		},
 	}
 
-	L["alyxthekey"] = {
+	L["commentaryalyxthekey"] = {
 		{
 			path = "commentary/alyxthekey.wav",
 			length = 43.9979138322,
 		},
 	}
 
-	L["whereisshe"] = {
+	L["commentarywhereisshe"] = {
 		{
 			path = "commentary/whereisshe.wav",
 			length = 21.560362811791,
 		},
 	}
 
-	L["finalereqs"] = {
+	L["commentaryfinalereqs"] = {
 		{
 			path = "commentary/finalereqs.wav",
 			length = 26.177142857143,
 		},
 	}
 
-	L["firstvista"] = {
+	L["commentaryfirstvista"] = {
 		{
 			path = "commentary/firstvista.wav",
 			length = 22.114376417234,
 		},
 	}
 
-	L["epcomment"] = {
+	L["commentaryepcomment"] = {
 		{
 			path = "commentary/ep2-comment001.wav",
 			length = 53.578412698413,
@@ -2613,245 +2613,245 @@ c.StartList("table: 0x36dd87c0")
 		},
 	}
 
-	L["holdupasec"] = {
+	L["commentaryholdupasec"] = {
 		{
 			path = "commentary/holdupasec.wav",
 			length = 11.357278911565,
 		},
 	}
 
-	L["comactors"] = {
+	L["commentarycomactors"] = {
 		{
 			path = "commentary/com-actors.wav",
 			length = 35.967369614512,
 		},
 	}
 
-	L["hdrcomment"] = {
+	L["commentaryhdrcomment"] = {
 		{
 			path = "commentary/hdrcomment.wav",
 			length = 35.826213151927,
 		},
 	}
 
-	L["comboxart"] = {
+	L["commentarycomboxart"] = {
 		{
 			path = "commentary/com-boxart.wav",
 			length = 78.747210884354,
 		},
 	}
 
-	L["newstrider"] = {
+	L["commentarynewstrider"] = {
 		{
 			path = "commentary/newstrider.wav",
 			length = 15.974058956916,
 		},
 	}
 
-	L["comstory"] = {
+	L["commentarycomstory"] = {
 		{
 			path = "commentary/com-story.wav",
 			length = 54.274195011338,
 		},
 	}
 
-	L["coredoors"] = {
+	L["commentarycoredoors"] = {
 		{
 			path = "commentary/coredoors.wav",
 			length = 12.465306122449,
 		},
 	}
 
-	L["balltubes"] = {
+	L["commentaryballtubes"] = {
 		{
 			path = "commentary/balltubes.wav",
 			length = 28.208526077098,
 		},
 	}
 
-	L["tempcover"] = {
+	L["commentarytempcover"] = {
 		{
 			path = "commentary/tempcover.wav",
 			length = 19.898321995465,
 		},
 	}
 
-	L["nodegraph"] = {
+	L["commentarynodegraph"] = {
 		{
 			path = "commentary/nodegraph.wav",
 			length = 24.515102040816,
 		},
 	}
 
-	L["podrising"] = {
+	L["commentarypodrising"] = {
 		{
 			path = "commentary/podrising.wav",
 			length = 34.487346938776,
 		},
 	}
 
-	L["hurryback"] = {
+	L["commentaryhurryback"] = {
 		{
 			path = "commentary/hurryback.wav",
 			length = 13.711836734694,
 		},
 	}
 
-	L["dogmyhero"] = {
+	L["commentarydogmyhero"] = {
 		{
 			path = "commentary/dogmyhero.wav",
 			length = 18.143945578231,
 		},
 	}
 
-	L["alyxledge"] = {
+	L["commentaryalyxledge"] = {
 		{
 			path = "commentary/alyx_ledge.wav",
 			length = 27.19283446712,
 		},
 	}
 
-	L["oldschool"] = {
+	L["commentaryoldschool"] = {
 		{
 			path = "commentary/oldschool.wav",
 			length = 27.608344671202,
 		},
 	}
 
-	L["escortmap"] = {
+	L["commentaryescortmap"] = {
 		{
 			path = "commentary/escortmap.wav",
 			length = 62.972879818594,
 		},
 	}
 
-	L["comstats"] = {
+	L["commentarycomstats"] = {
 		{
 			path = "commentary/com-stats.wav",
 			length = 45.205215419501,
 		},
 	}
 
-	L["comintro"] = {
+	L["commentarycomintro"] = {
 		{
 			path = "commentary/com-intro.wav",
 			length = 65.680929705215,
 		},
 	}
 
-	L["dynamicss"] = {
+	L["commentarydynamicss"] = {
 		{
 			path = "commentary/dynamicss.wav",
 			length = 41.551020408163,
 		},
 	}
 
-	L["puzzlearc"] = {
+	L["commentarypuzzlearc"] = {
 		{
 			path = "commentary/puzzlearc.wav",
 			length = 20.544671201814,
 		},
 	}
 
-	L["corepaths"] = {
+	L["commentarycorepaths"] = {
 		{
 			path = "commentary/corepaths.wav",
 			length = 23.961088435374,
 		},
 	}
 
-	L["comlouis"] = {
+	L["commentarycomlouis"] = {
 		{
 			path = "commentary/com-louis.wav",
 			length = 29.54664399093,
 		},
 	}
 
-	L["citylook"] = {
+	L["commentarycitylook"] = {
 		{
 			path = "commentary/citylook.wav",
 			length = 54.708843537415,
 		},
 	}
 
-	L["comzoey"] = {
+	L["commentarycomzoey"] = {
 		{
 			path = "commentary/com-zoey.wav",
 			length = 48.122131519274,
 		},
 	}
 
-	L["algvsapc"] = {
+	L["commentaryalgvsapc"] = {
 		{
 			path = "commentary/alg_vs_apc.wav",
 			length = 32.225124716553,
 		},
 	}
 
-	L["dogthrow"] = {
+	L["commentarydogthrow"] = {
 		{
 			path = "commentary/dog_throw.wav",
 			length = 64.819591836735,
 		},
 	}
 
-	L["alyxnag"] = {
+	L["commentaryalyxnag"] = {
 		{
 			path = "commentary/alyxnag.wav",
 			length = 31.024761904762,
 		},
 	}
 
-	L["turrets"] = {
+	L["commentaryturrets"] = {
 		{
 			path = "commentary/turrets.wav",
 			length = 40.766167800454,
 		},
 	}
 
-	L["thecore"] = {
+	L["commentarythecore"] = {
 		{
 			path = "commentary/thecore.wav",
 			length = 67.220317460317,
 		},
 	}
 
-	L["ohmygod"] = {
+	L["commentaryohmygod"] = {
 		{
 			path = "commentary/ohmygod.wav",
 			length = 11.588117913832,
 		},
 	}
 
-	L["flares"] = {
+	L["commentaryflares"] = {
 		{
 			path = "commentary/flares.wav",
 			length = 17.959274376417,
 		},
 	}
 
-	L["noammo"] = {
+	L["commentarynoammo"] = {
 		{
 			path = "commentary/noammo.wav",
 			length = 14.542857142857,
 		},
 	}
 
-	L["comax"] = {
+	L["commentarycomax"] = {
 		{
 			path = "commentary/com-ax.wav",
 			length = 21.959365079365,
 		},
 	}
 
-	L["cvista"] = {
+	L["commentarycvista"] = {
 		{
 			path = "commentary/c17vista.wav",
 			length = 30.055238095238,
 		},
 	}
 
-	L["intro"] = {
+	L["commentaryintro"] = {
 		{
 			path = "commentary/intro.wav",
 			length = 63.249886621315,
