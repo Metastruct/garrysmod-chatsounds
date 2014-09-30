@@ -1,3 +1,4 @@
+local chatsounds = chatsounds
 chatsounds.ac = {}
 local ac = chatsounds.ac
 
