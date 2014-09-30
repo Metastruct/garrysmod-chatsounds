@@ -2141,7 +2141,7 @@ c.StartList("engineer")
 		},
 	}
 
-	L["long"] = {
+	L["laughlong"] = {
 		{
 			path = "vo/engineer_laughlong01.wav",
 			length = 4.6207709750567,
