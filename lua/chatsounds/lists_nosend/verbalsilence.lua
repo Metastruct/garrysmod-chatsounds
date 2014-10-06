@@ -1,5 +1,6 @@
 c.StartList("verbalsilence")
 L["1800 contacts"]={{path="chatsounds/autoadd/verbalsilence/1800 contacts.ogg",length=1.3409297052154194},}
+L["20thcenturyfoxflute"]={{path="chatsounds/autoadd/verbalsilence/20thcenturyfoxflute.ogg",length=21.106938775510205},}
 L["3gi pokemon loop"]={{path="chatsounds/autoadd/verbalsilence/3gi pokemon loop.ogg",length=10.969206349206349},}
 L["60 percent of the time it works everytime"]={{path="chatsounds/autoadd/verbalsilence/60 percent of the time it works everytime.ogg",length=5.9345124716553288},}
 L["adweedture time 2"]={{path="chatsounds/autoadd/verbalsilence/adweedture time 2.ogg",length=12.321655328798187},}
@@ -13,6 +14,7 @@ L["and none for gretchen weiners bye"]={{path="chatsounds/autoadd/verbalsilence/
 L["and we know the night is always gonna be there anyway"]={{path="chatsounds/autoadd/verbalsilence/and we know the night is always gonna be there anyway.ogg",length=6.0924036281179141},}
 L["aussiedramatic"]={{path="chatsounds/autoadd/verbalsilence/aussiedramatic.ogg",length=19.877687074829932},}
 L["aw dont cry"]={{path="chatsounds/autoadd/verbalsilence/aw dont cry.ogg",length=2.8741950113378687},}
+L["aw"]={{path="chatsounds/autoadd/verbalsilence/aw.ogg",length=0.61172335600907024},}
 L["bacon pancakes"]={{path="chatsounds/autoadd/verbalsilence/bacon pancakes.ogg",length=10.373378684807257},}
 L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612471655328799},}
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952},}
@@ -20,6 +22,7 @@ L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428},}
 L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",length=1.295124716553288},}
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962},}
+L["broom broom"]={{path="chatsounds/autoadd/verbalsilence/broom broom.ogg",length=1.3374829931972789},}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708},}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022},}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042},}
@@ -71,6 +74,7 @@ L["fuck this"]={{path="chatsounds/autoadd/verbalsilence/fuck this.ogg",length=1.
 L["fucking bullshit"]={{path="chatsounds/autoadd/verbalsilence/fucking bullshit.ogg",length=2.068548752834467},}
 L["geddan song"]={{path="chatsounds/autoadd/verbalsilence/geddan song.ogg",length=38.664036281179136},}
 L["get lucky"]={{path="chatsounds/autoadd/verbalsilence/get lucky.ogg",length=41.544807256235828},}
+L["get out me car"]={{path="chatsounds/autoadd/verbalsilence/get out me car.ogg",length=1.2537414965986395},}
 L["gigigiggle"]={{path="chatsounds/autoadd/verbalsilence/gigigiggle/gigigiggle 2.ogg",length=0.5329251700680272},{path="chatsounds/autoadd/verbalsilence/gigigiggle/gigigiggle.ogg",length=0.39970521541950116},}
 L["give your meat a good ol rub"]={{path="chatsounds/autoadd/verbalsilence/give your meat a good ol rub.ogg",length=1.6088662131519273},}
 L["glen coco four for you glen coco you go glen coco"]={{path="chatsounds/autoadd/verbalsilence/glen coco four for you glen coco you go glen coco.ogg",length=4.8293424036281181},}
@@ -114,6 +118,7 @@ L["i wanna be on you"]={{path="chatsounds/autoadd/verbalsilence/i wanna be on yo
 L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i wasnt talking about spaghetti.ogg",length=1.2800907029478459},}
 L["idk wth youre feeding him but he is too damn big"]={{path="chatsounds/autoadd/verbalsilence/idk wth youre feeding him but he is too damn big.ogg",length=3.2221541950113379},}
 L["if you can dodge a wrench you can dodge a ball"]={{path="chatsounds/autoadd/verbalsilence/if you can dodge a wrench you can dodge a ball.ogg",length=2.7797052154195012},}
+L["im in me mums car"]={{path="chatsounds/autoadd/verbalsilence/im in me mums car.ogg",length=1.9936734693877551},}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735283446712018},}
 L["in the event of an emergency my ass can be used as a floatation device"]={{path="chatsounds/autoadd/verbalsilence/in the event of an emergency my ass can be used as a floatation device.ogg",length=3.7717460317460318},}
 L["intervention"]={{path="chatsounds/autoadd/verbalsilence/intervention.ogg",length=1.2499773242630385},}
