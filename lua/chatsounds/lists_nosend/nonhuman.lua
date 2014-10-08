@@ -5,6 +5,7 @@ L["dive into a pool of"]={{path="chatsounds/autoadd/nonhuman/dive into a pool of
 L["drink barrys red cola"]={{path="chatsounds/autoadd/nonhuman/drink barrys red cola/drink barrys red cola 2.OGG",length=2},{path="chatsounds/autoadd/nonhuman/drink barrys red cola/drink barrys red cola.OGG",length=2},}
 L["dsr50"]={{path="chatsounds/autoadd/nonhuman/dsr50.OGG",length=2.4222222222222221},}
 L["hitmarker"]={{path="chatsounds/autoadd/nonhuman/hitmarker.OGG",length=0.10038548752834467},}
+L["illuminati"]={{path="chatsounds/autoadd/nonhuman/illuminati.ogg",length=8.0403628117913826},}
 L["leave me alooooone"]={{path="chatsounds/autoadd/nonhuman/leave me alooooone.OGG",length=1.5012244897959184},}
 L["mlgbass"]={{path="chatsounds/autoadd/nonhuman/mlgbass/bass1.OGG",length=1.6851020408163266},{path="chatsounds/autoadd/nonhuman/mlgbass/bass2.OGG",length=1.6851020408163266},{path="chatsounds/autoadd/nonhuman/mlgbass/bass3.OGG",length=1.6438548752834468},{path="chatsounds/autoadd/nonhuman/mlgbass/bass4.OGG",length=1.6438548752834468},{path="chatsounds/autoadd/nonhuman/mlgbass/bass6.OGG",length=1.6438548752834468},{path="chatsounds/autoadd/nonhuman/mlgbass/bass7.OGG",length=1.6438548752834468},{path="chatsounds/autoadd/nonhuman/mlgbass/bass8.OGG",length=1.6438548752834468},{path="chatsounds/autoadd/nonhuman/mlgbass/bass9.OGG",length=1.6438548752834468},}
 L["mom get the camera mommy mommy mommy oh my god"]={{path="chatsounds/autoadd/nonhuman/mom get the camera mommy mommy mommy oh my god.OGG",length=6.0123129251700682},}
