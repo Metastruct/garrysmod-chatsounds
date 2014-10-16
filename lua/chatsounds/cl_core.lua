@@ -170,8 +170,8 @@ end)
 
 function chatsounds.InitializeLists(force)
 
-	c.List = {}
 	if GetConVarNumber("cl_chatsounds_enable") == 0 then
+		c.List = {}
 		return
 	end
 
@@ -185,6 +185,7 @@ function chatsounds.InitializeLists(force)
 
 	local start = SysTime()
 
+	c.List = {}
 		local files,dir = file.Find("sound/" .. c.AutoAddPath .. "/*", "GAME")
 		if not files then
 			print("Chatsounds sounds not found")
