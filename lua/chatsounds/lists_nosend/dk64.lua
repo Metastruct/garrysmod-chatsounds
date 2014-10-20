@@ -38,7 +38,7 @@ L["six"]={{path="chatsounds/autoadd/dk64/six.ogg",length=1.0641950113378684},}
 L["steal that hole of golden bananas he treasure so much and take care of his pathetic friends"]={{path="chatsounds/autoadd/dk64/steal that hole of golden bananas he treasure so much and take care of his pathetic friends.ogg",length=7.5592517006802717},}
 L["ten"]={{path="chatsounds/autoadd/dk64/ten.ogg",length=0.8692063492063492},}
 L["thank you"]={{path="chatsounds/autoadd/dk64/thank you.ogg",length=1.2256916099773243},}
-L["this time their can be no mistake"]={{path="chatsounds/autoadd/dk64/this time their can be no mistake.ogg",length=3.6740362811791383},}
+L["this time there can be no mistake"]={{path="chatsounds/autoadd/dk64/this time there can be no mistake.ogg",length=3.6740362811791383},}
 L["three"]={{path="chatsounds/autoadd/dk64/three.ogg",length=0.84149659863945581},}
 L["twelve"]={{path="chatsounds/autoadd/dk64/twelve.ogg",length=1.6163038548752835},}
 L["two"]={{path="chatsounds/autoadd/dk64/two.ogg",length=0.99907029478458054},}
