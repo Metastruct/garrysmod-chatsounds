@@ -1,9 +1,15 @@
 c.StartList("techbot")
+L["1"]={{path="chatsounds/autoadd/techbot/1.ogg",length=0.66455782312925171},}
+L["3"]={{path="chatsounds/autoadd/techbot/3.ogg",length=0.87342403628117915},}
+L["4"]={{path="chatsounds/autoadd/techbot/4.ogg",length=0.87340136054421769},}
+L["5 4 3 1 offblast"]={{path="chatsounds/autoadd/techbot/5 4 3 1 offblast.ogg",length=4.8607256235827663},}
+L["5"]={{path="chatsounds/autoadd/techbot/5.ogg",length=0.87340136054421769},}
 L["aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/aaa aaaahhh.ogg",length=2.8662131519274379},}
 L["abcdefjii"]={{path="chatsounds/autoadd/techbot/abcdefjii.ogg",length=2.01578231292517},}
 L["ahgarbulagabah my eyes my eyes aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah my eyes my eyes aaa aaaahhh.ogg",length=3.4060770975056691},}
 L["ahgarbulagabah my eyes"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah my eyes.ogg",length=1.4222222222222223},}
 L["ahgarbulagabah"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah.ogg",length=0.5485714285714286},}
+L["all systems gone prepare for downcount"]={{path="chatsounds/autoadd/techbot/all systems gone prepare for downcount.ogg",length=3.1091383219954647},}
 L["apocalypse now"]={{path="chatsounds/autoadd/techbot/apocalypse now.ogg",length=2.5701587301587301},}
 L["apocalypse"]={{path="chatsounds/autoadd/techbot/apocalypse.ogg",length=2.5701587301587301},}
 L["batuta din moldova"]={{path="chatsounds/autoadd/techbot/batuta din moldova.ogg",length=3.5076643990929703},}
@@ -30,9 +36,12 @@ L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.3975510204081634},
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.7501133786848073},}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.80253968253968255},}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.77902494331065764},}
+L["hey baby wake up from your asleep"]={{path="chatsounds/autoadd/techbot/hey baby wake up from your asleep.ogg",length=2.6392063492063493},}
 L["hey shutup"]={{path="chatsounds/autoadd/techbot/hey shutup.ogg",length=2.3176417233560089},}
 L["holy"]={{path="chatsounds/autoadd/techbot/holy/holy-2.ogg",length=0.76487528344671207},{path="chatsounds/autoadd/techbot/holy/holy.ogg",length=1.4773696145124717},}
 L["holy fuck is this wrong but holy hell is it erotic"]={{path="chatsounds/autoadd/techbot/holy fuck is this wrong but holy hell is it erotic.ogg",length=8.4985034013605443},}
+L["i is more stronger than darth vapor"]={{path="chatsounds/autoadd/techbot/i is more stronger than darth vapor.ogg",length=2.7721315192743763},}
+L["i want to be your space invader"]={{path="chatsounds/autoadd/techbot/i want to be your space invader.ogg",length=2.3354195011337868},}
 L["is it"]={{path="chatsounds/autoadd/techbot/is it.ogg",length=0.54532879818594104},}
 L["is"]={{path="chatsounds/autoadd/techbot/is.ogg",length=0.29315192743764173},}
 L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=3.4409070294784581},}
@@ -48,6 +57,7 @@ L["nnoice"]={{path="chatsounds/autoadd/techbot/nnoice.ogg",length=0.674829931972
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.89832199546485259},}
 L["nobodycares"]={{path="chatsounds/autoadd/techbot/nobodycares.ogg",length=2.1347845804988661},}
 L["not the bees aaaaa"]={{path="chatsounds/autoadd/techbot/not the bees aaaaa.ogg",length=3.287074829931973},}
+L["offblast"]={{path="chatsounds/autoadd/techbot/offblast.ogg",length=0.89238095238095239},}
 L["oh my"]={{path="chatsounds/autoadd/techbot/oh my.ogg",length=1.3931972789115645},}
 L["oh yeah"]={{path="chatsounds/autoadd/techbot/oh yeah/1.ogg",length=3.0182312925170067},{path="chatsounds/autoadd/techbot/oh yeah/2.ogg",length=2.0384580498866214},}
 L["oh"]={{path="chatsounds/autoadd/techbot/oh.ogg",length=0.45859410430839004},}
@@ -64,6 +74,7 @@ L["spaceship"]={{path="chatsounds/autoadd/techbot/spaceship.ogg",length=2.179773
 L["subaluwa"]={{path="chatsounds/autoadd/techbot/subaluwa.ogg",length=0.98539682539682538},}
 L["surprise motherfucker"]={{path="chatsounds/autoadd/techbot/surprise motherfucker.ogg",length=1.8227664399092971},}
 L["thats what i get for working at microsoos"]={{path="chatsounds/autoadd/techbot/thats what i get for working at microsoos.ogg",length=1.8351020408163266},}
+L["then for you i will play on my cosmic guitarrrz"]={{path="chatsounds/autoadd/techbot/then for you i will play on my cosmic guitarrrz.ogg",length=3.9113605442176871},}
 L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.41505668934240364},}
 L["top kek"]={{path="chatsounds/autoadd/techbot/top kek.ogg",length=0.70530612244897961},}
 L["top"]={{path="chatsounds/autoadd/techbot/top.ogg",length=0.2365532879818594},}
