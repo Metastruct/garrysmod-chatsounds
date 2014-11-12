@@ -84,6 +84,7 @@ L["vittu"]={{path="chatsounds/autoadd/techbot/vittu.ogg",length=1.67183673469387
 L["warlock"]={{path="chatsounds/autoadd/techbot/warlock.ogg",length=0.99845804988662135},}
 L["warpzone"]={{path="chatsounds/autoadd/techbot/warpzone.ogg",length=2.0070748299319727},}
 L["why you heff to be med"]={{path="chatsounds/autoadd/techbot/why you heff to be med.ogg",length=3.4481632653061225},}
+L["wow"]={{path="chatsounds/autoadd/techbot/wow.ogg",length=0.91879818594104312},}
 L["wrong"]={{path="chatsounds/autoadd/techbot/wrong.ogg",length=0.86349206349206353},}
 L["yo momma"]={{path="chatsounds/autoadd/techbot/yo momma.ogg",length=0.74158730158730157},}
 L["you get noon"]={{path="chatsounds/autoadd/techbot/you get noon.ogg",length=1.619591836734694},}
