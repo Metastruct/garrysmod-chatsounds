@@ -16,7 +16,7 @@ L["no luigi this fn game sucks"]={{path="chatsounds/autoadd/vinesauce mario/no l
 L["oh you fn bitch"]={{path="chatsounds/autoadd/vinesauce mario/oh you fn bitch.ogg",length=2.3799999999999999},}
 L["terminal 7"]={{path="chatsounds/autoadd/vinesauce mario/terminal 7.ogg",length=5.758548752834467},}
 L["there he is"]={{path="chatsounds/autoadd/vinesauce mario/there he is.ogg",length=1.2887074829931973},}
-L["this is better then brooklyn"]={{path="chatsounds/autoadd/vinesauce mario/this is better then brooklyn.ogg",length=2.3078684807256238},}
+L["this is better then brooklyn"]={{path="chatsounds/autoadd/vinesauce mario/this is better then brooklyn.ogg",length=1.5506122448979591},}
 L["this is my moment of glory"]={{path="chatsounds/autoadd/vinesauce mario/this is my moment of glory.ogg",length=1.9112244897959183},}
 L["you can stop on a dime mario"]={{path="chatsounds/autoadd/vinesauce mario/you can stop on a dime mario.ogg",length=2.3078684807256238},}
 c.EndList()
