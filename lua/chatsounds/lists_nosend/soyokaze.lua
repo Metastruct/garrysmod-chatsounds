@@ -24,7 +24,7 @@ L["dakara"]={{path="chatsounds/autoadd/soyokaze/dakara.ogg",length=0.58882086167
 L["damedame"]={{path="chatsounds/autoadd/soyokaze/damedame.ogg",length=1.7120861678004535},}
 L["dekiruyo"]={{path="chatsounds/autoadd/soyokaze/dekiruyo.ogg",length=0.87616780045351472},}
 L["donnaie"]={{path="chatsounds/autoadd/soyokaze/donnaie.ogg",length=1.0067800453514739},}
-L["dont"]={{path="chatsounds/autoadd/soyokaze/dont.ogg",length=0.71943310657596371},}
+L["dont worry"]={{path="chatsounds/autoadd/soyokaze/dont worry.ogg",length=0.71943310657596371},}
 L["dounika"]={{path="chatsounds/autoadd/soyokaze/dounika.ogg",length=1.1896371882086167},}
 L["dousite"]={{path="chatsounds/autoadd/soyokaze/dousite.ogg",length=1.7904535147392291},}
 L["douzo"]={{path="chatsounds/autoadd/soyokaze/douzo.ogg",length=0.37984126984126987},}

@@ -12,8 +12,8 @@ L["it sucks"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/it sucks.ogg",length
 L["its called a pint of disgusting"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its called a pint of disgusting.ogg",length=2.330702947845805},}
 L["its called"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its called.ogg",length=1.2350113378684808},}
 L["its like nectar"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its like nectar.ogg",length=1.0811791383219955},}
-L["its literially called bitter"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its literially called bitter.ogg",length=2.7312471655328796},}
-L["its literially called"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its literially called.ogg",length=1.8198639455782313},}
+L["its literally called bitter"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its literally called bitter.ogg",length=2.7312471655328796},}
+L["its literally called"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/its literally called.ogg",length=1.8198639455782313},}
 L["mixed with piss"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/mixed with piss.ogg",length=1.5049433106575965},}
 L["oh hello there would you like a drink of this"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/oh hello there would you like a drink of this.ogg",length=3.1622675736961452},}
 L["oh hello there"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/oh hello there.ogg",length=1.3119274376417234},}
@@ -22,7 +22,7 @@ L["only gays would consider drinking something like this"]={{path="chatsounds/au
 L["piss"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/piss.ogg",length=0.81124716553287979},}
 L["put my tounge in there mmmm and slurp it up"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/put my tounge in there mmmm and slurp it up.ogg",length=2.8546031746031746},}
 L["shits gay"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/shits gay.ogg",length=1.195827664399093},}
-L["the fuck"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/the fuck.ogg",length=1.2350113378684808},}
+L["the fuckk"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/the fuckk.ogg",length=1.2350113378684808},}
 L["well that sounds delicous"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/well that sounds delicous.ogg",length=2.0012698412698411},}
 L["what a shit name"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/what a shit name.ogg",length=1.3119274376417234},}
 L["what tha fuck"]={{path="chatsounds/autoadd/girlyvsmanlydrinks/what tha fuck.ogg",length=1.6645804988662132},}
