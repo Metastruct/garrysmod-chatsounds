@@ -120,6 +120,7 @@ L["propane propane"]={{path="chatsounds/autoadd/vinesauce/propane propane.ogg",l
 L["put them on to your genitalia"]={{path="chatsounds/autoadd/vinesauce/put them on to your genitalia.ogg",length=2.3780498866213153},}
 L["put your headphones or your speakers on the loudest volume possible"]={{path="chatsounds/autoadd/vinesauce/put your headphones or your speakers on the loudest volume possible.ogg",length=4.6986167800453513},}
 L["r pizza delivery"]={{path="chatsounds/autoadd/vinesauce/r pizza delivery.ogg",length=1.2553514739229026},}
+L["right em in the wrong hole"]={{path="chatsounds/autoadd/vinesauce/right em in the wrong hole.ogg",length=38.138775510204084},}
 L["rp"]={{path="chatsounds/autoadd/vinesauce/rp/rp.ogg",length=0.60492063492063497},{path="chatsounds/autoadd/vinesauce/rp/rp2.ogg",length=0.71875283446712013},{path="chatsounds/autoadd/vinesauce/rp/rp3.ogg",length=1.1358049886621315},}
 L["shoot him in the face pls"]={{path="chatsounds/autoadd/vinesauce/shoot him in the face pls.ogg",length=1.4233560090702948},}
 L["snoop doggie dog in the house"]={{path="chatsounds/autoadd/vinesauce/snoop doggie dog in the house.ogg",length=11.897777777777778},}
