@@ -4,6 +4,7 @@ L["a terrifying yet accurate comparison"]={{path="chatsounds/autoadd/archer/a te
 L["and the erection is really not appropriate"]={{path="chatsounds/autoadd/archer/and the erection is really not appropriate.ogg",length=1.9418594104308391},}
 L["archer coffee"]={{path="chatsounds/autoadd/archer/archer coffee.ogg",length=4.3826984126984128},}
 L["archer phrasing"]={{path="chatsounds/autoadd/archer/archer phrasing.ogg",length=9.6014965986394554},}
+L["bap bap bap bap bap bap bap bap stop"]={{path="chatsounds/autoadd/archer/bap bap bap bap bap bap bap bap stop.ogg",length=2.7050566893424035},}
 L["but you cannot say a word"]={{path="chatsounds/autoadd/archer/but you cannot say a word.ogg",length=2.5018594104308391},}
 L["cause in about three drinks youre gonna get all boo hooey and ask me to pump a baby in you"]={{path="chatsounds/autoadd/archer/cause in about three drinks youre gonna get all boo hooey and ask me to pump a baby in you.ogg",length=4.635192743764172},}
 L["cause youre in the dangerzone from topgun"]={{path="chatsounds/autoadd/archer/cause youre in the dangerzone from topgun.ogg",length=2.9138095238095238},}
@@ -19,6 +20,7 @@ L["karate the dane cook of martial arts"]={{path="chatsounds/autoadd/archer/kara
 L["lana lana lana dangerzone"]={{path="chatsounds/autoadd/archer/lana lana lana dangerzone.ogg",length=10.397097505668935},}
 L["lets share the milk of human kindness"]={{path="chatsounds/autoadd/archer/lets share the milk of human kindness.ogg",length=2.3955782312925171},}
 L["me too"]={{path="chatsounds/autoadd/archer/me too.ogg",length=0.80911564625850341},}
+L["my penis can only get so erect"]={{path="chatsounds/autoadd/archer/my penis can only get so erect.ogg",length=2.4490702947845806},}
 L["nobodys that gay"]={{path="chatsounds/autoadd/archer/nobodys that gay.ogg",length=1.2945804988662131},}
 L["really hoping thats not relevant"]={{path="chatsounds/autoadd/archer/really hoping thats not relevant.ogg",length=1.6017687074829932},}
 L["seriously lana call kenny loggins"]={{path="chatsounds/autoadd/archer/seriously lana call kenny loggins.ogg",length=1.7377551020408164},}
