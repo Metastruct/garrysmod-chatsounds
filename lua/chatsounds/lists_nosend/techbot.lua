@@ -49,6 +49,7 @@ L["kek"]={{path="chatsounds/autoadd/techbot/kek.ogg",length=0.3831292517006803},
 L["magic"]={{path="chatsounds/autoadd/techbot/magic.ogg",length=0.70240362811791379},}
 L["melon"]={{path="chatsounds/autoadd/techbot/melon.ogg",length=0.37750566893424037},}
 L["microsoos"]={{path="chatsounds/autoadd/techbot/microsoos.ogg",length=0.69907029478458049},}
+L["mlg odyssey"]={{path="chatsounds/autoadd/techbot/mlg odyssey.ogg",length=66.063673469387751},}
 L["moon theme"]={{path="chatsounds/autoadd/techbot/moon theme.ogg",length=4.5569160997732423},}
 L["my eyes"]={{path="chatsounds/autoadd/techbot/my eyes.ogg",length=1.3946485260770976},}
 L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begins to shoosh.ogg",length=1.6602267573696146},}
