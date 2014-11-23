@@ -41,6 +41,7 @@ chatsounds.ScriptCache = {}
 chatsounds.Enabled = CreateClientConVar("cl_chatsounds_enable", 1, true, true)
 chatsounds.Initialized = false
 chatsounds.AutoPrecacheAll = CreateClientConVar("cl_chatsounds_autoprecache_all", 0, true, true)
+chatsounds.AllowDSP = CreateClientConVar("cl_chatsounds_enable_dsp", 1, true, true)
 
 chatsounds.CSoundPatches = {}
 chatsounds.Timers = {}
@@ -475,7 +476,7 @@ chatsounds.Modifiers = {
 		type = "number",
 
 		post = function(chtsnd)
-			if chtsnd:GetPlayer():GetPos():Distance(LocalPlayer():GetPos()) < 1500 then
+			if chtsnd:GetPlayer():GetPos():Distance(LocalPlayer():GetPos()) < 1500 and chatsounds.AllowDSP then
 				LocalPlayer():SetDSP(chtsnd:GetVar())
 				timer.Create("Chatsounds DSP Mod", chtsnd:GetDuration(), 1, function()
 					LocalPlayer():SetDSP(0)
