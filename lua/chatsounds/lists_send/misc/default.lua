@@ -3842,17 +3842,6 @@ c.StartList("default")
 		},
 	}
 
-	L["sex"] = {
-		{
-			path = "vo/episode_1/npc/female01/cit_remarks08.wav",
-			length = 4.0841045379639,
-		},
-		{
-			path = "vo/episode_1/npc/male01/cit_remarks08.wav",
-			length = 3.7851927280426,
-		},
-	}
-
 	L["ssh"] = {
 		{
 			path = "vo/outland_06a/radio/al_rad_sh.wav",
