@@ -8,6 +8,10 @@ L["easytodraw"]={{path="chatsounds/autoadd/wingblast/easytodraw.ogg",length=2.93
 L["endofschool"]={{path="chatsounds/autoadd/wingblast/endofschool.ogg",length=2.1072108843537416}}
 L["flatsurfacedarea"]={{path="chatsounds/autoadd/wingblast/flatsurfacedarea.ogg",length=4.1215419501133788}}
 L["for gods sake"]={{path="chatsounds/autoadd/wingblast/for gods sake.ogg",length=1.5005895691609978}}
+L["frerf"]={{path="chatsounds/autoadd/wingblast/frerf.ogg",length=0.66176870748299321}}
+L["fresherf"]={{path="chatsounds/autoadd/wingblast/fresherf.ogg",length=1.0100680272108844}}
+L["freshesherf"]={{path="chatsounds/autoadd/wingblast/freshesherf.ogg",length=1.2770975056689342}}
+L["fresheshesherf"]={{path="chatsounds/autoadd/wingblast/fresheshesherf.ogg",length=1.6253968253968254}}
 L["goodargument"]={{path="chatsounds/autoadd/wingblast/goodargument.ogg",length=2.3161904761904761}}
 L["haha and might i add hah"]={{path="chatsounds/autoadd/wingblast/haha and might i add hah.ogg",length=3.2856235827664397}}
 L["hahuhahu"]={{path="chatsounds/autoadd/wingblast/hahuhahu.ogg",length=2.0201360544217688}}
@@ -33,6 +37,7 @@ L["thatexplains1"]={{path="chatsounds/autoadd/wingblast/thatexplains1.ogg",lengt
 L["thatexplains2"]={{path="chatsounds/autoadd/wingblast/thatexplains2.ogg",length=2.2523356009070294}}
 L["thatistrue"]={{path="chatsounds/autoadd/wingblast/thatistrue.ogg",length=1.230657596371882}}
 L["the biggest ass"]={{path="chatsounds/autoadd/wingblast/the biggest ass.ogg",length=1.3467573696145125}}
+L["the new frerf scents from old spice"]={{path="chatsounds/autoadd/wingblast/the new frerf scents from old spice.ogg",length=4.1795918367346943}}
 L["there goes philip banks the biggest ass that ever lived what a douche"]={{path="chatsounds/autoadd/wingblast/there goes philip banks the biggest ass that ever lived what a douche.ogg",length=6.1648979591836737}}
 L["there goes philip banks"]={{path="chatsounds/autoadd/wingblast/there goes philip banks.ogg",length=2.2871655328798184}}
 L["well tough shit i dont care"]={{path="chatsounds/autoadd/wingblast/well tough shit i dont care.ogg",length=1.6718367346938776}}
@@ -40,6 +45,7 @@ L["what a douche"]={{path="chatsounds/autoadd/wingblast/what a douche.ogg",lengt
 L["whatisthisplace"]={{path="chatsounds/autoadd/wingblast/whatisthisplace.ogg",length=2.7167346938775512}}
 L["whatisthisplace2"]={{path="chatsounds/autoadd/wingblast/whatisthisplace2.ogg",length=2.4497052154195011}}
 L["whats your ppppoint"]={{path="chatsounds/autoadd/wingblast/whats your ppppoint.ogg",length=2.2987755102040817}}
+L["would you make me a sandwich"]={{path="chatsounds/autoadd/wingblast/would you make me a sandwich.ogg",length=0.9462131519274376}}
 L["wwwwwwwwwwwwwwwwwwww"]={{path="chatsounds/autoadd/wingblast/wwwwwwwwwwwwwwwwwwww.ogg",length=4.4698412698412699}}
 L["youarewrong"]={{path="chatsounds/autoadd/wingblast/youarewrong.ogg",length=1.0797278911564625}}
 L["youpunks"]={{path="chatsounds/autoadd/wingblast/youpunks.ogg",length=3.2043537414965986}}

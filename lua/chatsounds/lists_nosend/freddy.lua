@@ -20,7 +20,6 @@ L["id have sex with basketball players"]={{path="chatsounds/autoadd/freddy/id ha
 L["id have sex with greeks"]={{path="chatsounds/autoadd/freddy/id have sex with greeks.ogg",length=1.6188662131519274}}
 L["id satisfy my sexual desires"]={{path="chatsounds/autoadd/freddy/id satisfy my sexual desires.ogg",length=2.6615192743764173}}
 L["if i were you i wouldnt stand for it"]={{path="chatsounds/autoadd/freddy/if i were you i wouldnt stand for it.ogg",length=1.5456916099773244}}
-L["if i were you id go out id have sex with strange men id have sex with basketball players with greek men men from greece and satisfy my urges"]={{path="chatsounds/autoadd/freddy/if i were you id go out id have sex with strange men id have sex with basketball players with greek men men from greece and satisfy my urges.ogg",length=12.191791383219954}}
 L["if i were you id go out id have sex with strange men"]={{path="chatsounds/autoadd/freddy/if i were you id go out id have sex with strange men.ogg",length=3.0273696145124718}}
 L["if this were pakistan you wouldve been sowing soccer balls when you were 4 years old"]={{path="chatsounds/autoadd/freddy/if this were pakistan you wouldve been sowing soccer balls when you were 4 years old.ogg",length=5.3047392290249435}}
 L["im bieng creative now if youl excuse me i still have some work to do"]={{path="chatsounds/autoadd/freddy/im bieng creative now if youl excuse me i still have some work to do.ogg",length=4.7559863945578229}}
