@@ -20,6 +20,7 @@ L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.1512925
 L["gasp"]={{path="chatsounds/autoadd/tf2extra/gasp.ogg",length=1.0855328798185941},}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.91448979591836732},}
 L["gottam"]={{path="chatsounds/autoadd/tf2extra/gottam.ogg",length=0.22666666666666666},}
+L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.1173015873015873},}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2extra/hhoooott.ogg",length=1.7173696145124717},}
 L["how embarassing"]={{path="chatsounds/autoadd/tf2extra/how embarassing.ogg",length=1.0323582766439909},}
 L["i dare you"]={{path="chatsounds/autoadd/tf2extra/i dare you.ogg",length=0.99412698412698408},}
