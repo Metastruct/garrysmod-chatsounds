@@ -5,14 +5,11 @@ L["betty told me this is what i need to do to become an artist"]={{path="chatsou
 L["daddy would you like some sausage daddy would you like some sausages"]={{path="chatsounds/autoadd/freddy/daddy would you like some sausage daddy would you like some sausages.ogg",length=4.1248979591836736}}
 L["dead beat punk"]={{path="chatsounds/autoadd/freddy/dead beat punk.ogg",length=1.7743537414965986}}
 L["did you get a job"]={{path="chatsounds/autoadd/freddy/did you get a job.ogg",length=1.3213151927437641}}
-L["for your information this is me bieng creative"]={{path="chatsounds/autoadd/freddy/for your information this is me bieng creative.ogg",length=2.2133786848072563}}
-L["golly"]={{path="chatsounds/autoadd/freddy/golly.ogg",length=0.73219954648526075}}
-L["golly2"]={{path="chatsounds/autoadd/freddy/golly2.ogg",length=0.52424036281179143}}
-L["h"]={{path="chatsounds/autoadd/freddy/h.ogg",length=0.2743764172335601}}
+L["for your information this is me being creative"]={{path="chatsounds/autoadd/freddy/for your information this is me being creative.ogg",length=2.2133786848072563}}
+L["golly"]={{path="chatsounds/autoadd/freddy/golly/golly.ogg",length=0.73219954648526075},{path="chatsounds/autoadd/freddy/golly/golly2.ogg",length=0.52424036281179143}}
+L["hc"]={{path="chatsounds/autoadd/freddy/hc.ogg",length=0.2743764172335601}}
 L["hes not stupid"]={{path="chatsounds/autoadd/freddy/hes not stupid.ogg",length=1.7194784580498865}}
 L["hes such a stupid loser"]={{path="chatsounds/autoadd/freddy/hes such a stupid loser.ogg",length=1.7469160997732427}}
-L["hh"]={{path="chatsounds/autoadd/freddy/hh.ogg",length=0.2743764172335601}}
-L["i don't know"]={{path="chatsounds/autoadd/freddy/i don't know.ogg",length=0.9146258503401361}}
 L["i dont know"]={{path="chatsounds/autoadd/freddy/i dont know.ogg",length=0.9146258503401361}}
 L["i knew if i kept yelling at you pounding you over the head with it youd come around"]={{path="chatsounds/autoadd/freddy/i knew if i kept yelling at you pounding you over the head with it youd come around.ogg",length=5.1085260770975056}}
 L["i still have some work to do"]={{path="chatsounds/autoadd/freddy/i still have some work to do.ogg",length=1.5548299319727892}}
@@ -22,13 +19,13 @@ L["id satisfy my sexual desires"]={{path="chatsounds/autoadd/freddy/id satisfy m
 L["if i were you i wouldnt stand for it"]={{path="chatsounds/autoadd/freddy/if i were you i wouldnt stand for it.ogg",length=1.5456916099773244}}
 L["if i were you id go out id have sex with strange men"]={{path="chatsounds/autoadd/freddy/if i were you id go out id have sex with strange men.ogg",length=3.0273696145124718}}
 L["if this were pakistan you wouldve been sowing soccer balls when you were 4 years old"]={{path="chatsounds/autoadd/freddy/if this were pakistan you wouldve been sowing soccer balls when you were 4 years old.ogg",length=5.3047392290249435}}
-L["im bieng creative now if youl excuse me i still have some work to do"]={{path="chatsounds/autoadd/freddy/im bieng creative now if youl excuse me i still have some work to do.ogg",length=4.7559863945578229}}
-L["im bieng creative"]={{path="chatsounds/autoadd/freddy/im bieng creative.ogg",length=0.90548752834467117}}
+L["im being creative now if youll excuse me i still have some work to do"]={{path="chatsounds/autoadd/freddy/im being creative now if youll excuse me i still have some work to do.ogg",length=4.7559863945578229}}
+L["im being creative"]={{path="chatsounds/autoadd/freddy/im being creative.ogg",length=0.90548752834467117}}
 L["im the backwards man the backwards man the backwards man the back wards man i can walk  back as fast as you can"]={{path="chatsounds/autoadd/freddy/im the backwards man the backwards man the backwards man the back wards man i can walk  back as fast as you can.ogg",length=7.0358049886621314}}
 L["im the backwards man the backwards man"]={{path="chatsounds/autoadd/freddy/im the backwards man the backwards man.ogg",length=3.6946258503401359}}
 L["just keep dancing celebrate hell gkjhgj a great day oh"]={{path="chatsounds/autoadd/freddy/just keep dancing celebrate hell gkjhgj a great day oh.ogg",length=4.3258276643990934}}
 L["men from greece"]={{path="chatsounds/autoadd/freddy/men from greece.ogg",length=1.3627891156462586}}
-L["now if youl excuse me"]={{path="chatsounds/autoadd/freddy/now if youl excuse me.ogg",length=1.2804535147392291}}
+L["now if youll excuse me"]={{path="chatsounds/autoadd/freddy/now if youll excuse me.ogg",length=1.2804535147392291}}
 L["now you just get outside and just cool off"]={{path="chatsounds/autoadd/freddy/now you just get outside and just cool off.ogg",length=2.8627437641723357}}
 L["oh look"]={{path="chatsounds/autoadd/freddy/oh look.ogg",length=1.0152154195011338}}
 L["oh yeah is it working"]={{path="chatsounds/autoadd/freddy/oh yeah is it working.ogg",length=1.4816780045351474}}
@@ -44,5 +41,5 @@ L["yeah"]={{path="chatsounds/autoadd/freddy/yeah.ogg",length=0.6227891156462585}
 L["you bullshittin me boy"]={{path="chatsounds/autoadd/freddy/you bullshittin me boy.ogg",length=1.1782539682539683}}
 L["you shouldnt put up with the way he treats us"]={{path="chatsounds/autoadd/freddy/you shouldnt put up with the way he treats us.ogg",length=1.7011791383219954}}
 L["your dad"]={{path="chatsounds/autoadd/freddy/your dad.ogg",length=0.65852607709750566}}
-L["your just a late bloomer thats all"]={{path="chatsounds/autoadd/freddy/your just a late bloomer thats all.ogg",length=1.9104308390022675}}
+L["youre just a late bloomer thats all"]={{path="chatsounds/autoadd/freddy/youre just a late bloomer thats all.ogg",length=1.9104308390022675}}
 c.EndList()

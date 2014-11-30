@@ -118,7 +118,7 @@ L["sidearm modula"]={{path="chatsounds/autoadd/descent2/sidearm modula.ogg",leng
 L["sidearm"]={{path="chatsounds/autoadd/descent2/sidearm.ogg",length=0.8882539682539683}}
 L["siren"]={{path="chatsounds/autoadd/descent2/siren.ogg",length=0.64734693877551019}}
 L["smelter"]={{path="chatsounds/autoadd/descent2/smelter.ogg",length=0.99555555555555553}}
-L["spawn"]={{path="chatsounds/autoadd/descent2/spawn.ogg",length=1.8393650793650793}}
+L["spawneffect"]={{path="chatsounds/autoadd/descent2/spawneffect.ogg",length=1.8393650793650793}}
 L["spider"]={{path="chatsounds/autoadd/descent2/spider/green_1.ogg",length=1.1059410430839003},{path="chatsounds/autoadd/descent2/spider/green_2.ogg",length=1.1124716553287981}}
 L["spreadfire"]={{path="chatsounds/autoadd/descent2/spreadfire.ogg",length=0.61541950113378685}}
 L["steal"]={{path="chatsounds/autoadd/descent2/steal.ogg",length=0.37587301587301586}}
