@@ -11053,19 +11053,13 @@ c.StartList("table: 0x646f1d38")
 		},
 	}
 
-	L["leak"] = {
+	L["waterleak"] = {
 		{
 			path = "ambient/water/leak_1.wav",
 			length = 3.5830839002268,
 		},
 	}
 
-	L["flag"] = {
-		{
-			path = "ambient/flag.wav",
-			length = 5.8783673469388,
-		},
-	}
 
 	L["crow"] = {
 		{
@@ -11098,14 +11092,14 @@ c.StartList("table: 0x646f1d38")
 		},
 	}
 
-	L["wind"] = {
+	L["windambient"] = {
 		{
 			path = "ambient/wind/wind1.wav",
 			length = 13.305124716553,
 		},
 	}
 
-	L["elev"] = {
+	L["elevtone"] = {
 		{
 			path = "ambient/tones/elev1.wav",
 			length = 0.69160997732426,
@@ -11159,28 +11153,9 @@ c.StartList("table: 0x646f1d38")
 		},
 	}
 
-	L["tank"] = {
-		{
-			path = "ambient/tank.wav",
-			length = 2.032335600907,
-		},
-	}
 
-	L["guit"] = {
-		{
-			path = "ambient/guit1.wav",
-			length = 45.831836734694,
-		},
-	}
 
-	L["fire"] = {
-		{
-			path = "ambient/fire.wav",
-			length = 4.5462585034014,
-		},
-	}
-
-	L["wolf"] = {
+	L["wolfhowl"] = {
 		{
 			path = "ambient/wolf01.wav",
 			length = 5.0717233560091,
@@ -11195,7 +11170,7 @@ c.StartList("table: 0x646f1d38")
 		},
 	}
 
-	L["bell"] = {
+	L["bellsound"] = {
 		{
 			path = "ambient/bell.wav",
 			length = 6.015873015873,
@@ -11246,14 +11221,7 @@ c.StartList("table: 0x646f1d38")
 			length = 0.68185941043084,
 		},
 	}
-
-	L["city"] = {
-		{
-			path = "ambient/city.wav",
-			length = 5.2859863945578,
-		},
-	}
-
+	
 	L["flit"] = {
 		{
 			path = "ambient/levels/forest/flit1.wav",
@@ -11283,14 +11251,14 @@ c.StartList("table: 0x646f1d38")
 		},
 	}
 
-	L["rain"] = {
+	L["rainambient"] = {
 		{
 			path = "ambient/rain.wav",
 			length = 9.5898412698413,
 		},
 	}
 
-	L["drip"] = {
+	L["waterdrip"] = {
 		{
 			path = "ambient/levels/canals/drip1.wav",
 			length = 0.14913832199546,
