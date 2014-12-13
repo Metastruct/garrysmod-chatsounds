@@ -79,10 +79,10 @@ L["tutututu"]={{path="chatsounds/autoadd/feshpince/tutututu.ogg",length=0.879455
 L["uncle phil we give you your jooj back"]={{path="chatsounds/autoadd/feshpince/uncle phil we give you your jooj back.ogg",length=1.8532426303854874}}
 L["uuuuuu"]={{path="chatsounds/autoadd/feshpince/uuuuuu.ogg",length=1.2393650793650794}}
 L["wat de fack"]={{path="chatsounds/autoadd/feshpince/wat de fack.ogg",length=0.73578231292517005}}
+L["what is that its a gun"]={{path="chatsounds/autoadd/feshpince/what is that its a gun.ogg",length=1.9635374149659863}}
 L["what the heck can you say about philip banks"]={{path="chatsounds/autoadd/feshpince/what the heck can you say about philip banks.ogg",length=2.1841269841269839}}
 L["what what what what"]={{path="chatsounds/autoadd/feshpince/what what what what.ogg",length=2.1434920634920633}}
 L["whats a woman"]={{path="chatsounds/autoadd/feshpince/whats a woman.ogg",length=1.0095238095238095}}
-L["who is that its a gun"]={{path="chatsounds/autoadd/feshpince/who is that its a gun.ogg",length=1.9635374149659863}}
 L["who is the question"]={{path="chatsounds/autoadd/feshpince/who is the question.ogg",length=1.0303854875283447}}
 L["wiuiw"]={{path="chatsounds/autoadd/feshpince/wiuiw.ogg",length=0.56888888888888889}}
 L["wood"]={{path="chatsounds/autoadd/feshpince/wood.ogg",length=0.65160997732426307}}
