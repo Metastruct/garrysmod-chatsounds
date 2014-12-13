@@ -81,6 +81,7 @@ L["uuuuuu"]={{path="chatsounds/autoadd/feshpince/uuuuuu.ogg",length=1.2393650793
 L["wat de fack"]={{path="chatsounds/autoadd/feshpince/wat de fack.ogg",length=0.73578231292517005}}
 L["what is that its a gun"]={{path="chatsounds/autoadd/feshpince/what is that its a gun.ogg",length=1.9635374149659863}}
 L["what the heck can you say about philip banks"]={{path="chatsounds/autoadd/feshpince/what the heck can you say about philip banks.ogg",length=2.1841269841269839}}
+L["what the heck is this"]={{path="chatsounds/autoadd/feshpince/what the heck is this.ogg",length=1.182766439909297}}
 L["what what what what"]={{path="chatsounds/autoadd/feshpince/what what what what.ogg",length=2.1434920634920633}}
 L["whats a woman"]={{path="chatsounds/autoadd/feshpince/whats a woman.ogg",length=1.0095238095238095}}
 L["who is the question"]={{path="chatsounds/autoadd/feshpince/who is the question.ogg",length=1.0303854875283447}}
