@@ -4,7 +4,7 @@ L["ah ty bb"]={{path="chatsounds/autoadd/feshpince/ah ty bb.ogg",length=0.867845
 L["and run a bankmaking operation out of his banks"]={{path="chatsounds/autoadd/feshpince/and run a bankmaking operation out of his banks.ogg",length=2.7007709750566895}}
 L["and the question is who is the question"]={{path="chatsounds/autoadd/feshpince/and the question is who is the question.ogg",length=2.3945578231292517}}
 L["and the question is"]={{path="chatsounds/autoadd/feshpince/and the question is.ogg",length=1.1450340136054422}}
-L["banks wants to empty the banks fil all our streets with banks"]={{path="chatsounds/autoadd/feshpince/banks wants to empty the banks fil all our streets with banks.ogg",length=3.0998639455782313}}
+L["banks wants to empty the banks fill all our streets with banks"]={{path="chatsounds/autoadd/feshpince/banks wants to empty the banks fill all our streets with banks.ogg",length=3.0998639455782313}}
 L["bbbbbbbb"]={{path="chatsounds/autoadd/feshpince/bbbbbbbb.ogg",length=0.43537414965986393}}
 L["because the nasty dude had a twoheaded coc"]={{path="chatsounds/autoadd/feshpince/because the nasty dude had a twoheaded coc.ogg",length=2.2334693877551022}}
 L["breub"]={{path="chatsounds/autoadd/feshpince/breub.ogg",length=0.3076643990929705}}
