@@ -38,7 +38,7 @@ chatsounds.Seed = os.time()
   
   
   function lshift(a,disp)
-    if disp < 0 then return rshift(a,-disp) end 
+    if disp < 0 then return rshift(a,-disp) end
     return (a * 2^disp) % 2^32
   end
 
