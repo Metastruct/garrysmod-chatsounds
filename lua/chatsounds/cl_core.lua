@@ -401,7 +401,7 @@ chatsounds.Modifiers = {
 			return {min = min, max = max}
 		end,
 
-		pre = function(chtsnd)			
+		pre = function(chtsnd)
 			local var = chtsnd:GetVar()
 			if not var or not var.min or not var.max then return end
 			chtsnd:SetPitch(math.random(var.min, var.max))
@@ -593,7 +593,7 @@ chatsounds.Modifiers = {
 				chtsnd:RemoveCSoundPatch()
 			end)
 		end,
-	},	
+	},
 	{
 		modifier = "++",
 		type = "number",
@@ -1195,7 +1195,7 @@ function chatsounds.GenListCached(name,time,cb)
 	local t = file.Time(path,'DATA')
 	if t and t>time then
 		local t = util.JSONToTable(file.Read(path,'DATA'))
-		if t then 
+		if t then
 			return t
 		end
 	end
