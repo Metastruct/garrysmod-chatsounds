@@ -16,6 +16,7 @@ L["ravebreak"]={{path="chatsounds/autoadd/suchipi/ravebreak.ogg",length=27.79428
 L["suchipi"]={{path="chatsounds/autoadd/suchipi/suchipi.ogg",length=0.73723356009070296}}
 L["swooce1"]={{path="chatsounds/autoadd/suchipi/swooce1.ogg",length=0.66229024943310655}}
 L["swooce2"]={{path="chatsounds/autoadd/suchipi/swooce2.ogg",length=0.67478458049886625}}
+L["this is a game not a commercial"]={{path="chatsounds/autoadd/suchipi/this is a game not a commercial.ogg",length=2.1063492063492064}}
 L["watch me swooce right in"]={{path="chatsounds/autoadd/suchipi/watch me swooce right in.ogg",length=1.8993877551020408}}
 L["you have a collect call from"]={{path="chatsounds/autoadd/suchipi/you have a collect call from.ogg",length=1.817936507936508}}
 c.EndList()
