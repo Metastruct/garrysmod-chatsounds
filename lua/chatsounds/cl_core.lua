@@ -52,6 +52,8 @@ chatsounds.default_lists = {
 	"default",
 }
 
+local chatsounds_dbgnull = CreateClientConVar("chatsounds_dbgnull", 0, false,false)
+
 function chatsounds.ListToString(set, exists, duration, _trans, comp)
 
 	local tbl = type(set) == "table" and set or table.Copy(c.List[set])
@@ -401,7 +403,7 @@ chatsounds.Modifiers = {
 			return {min = min, max = max}
 		end,
 
-		pre = function(chtsnd)
+		pre = function(chtsnd)			
 			local var = chtsnd:GetVar()
 			if not var or not var.min or not var.max then return end
 			chtsnd:SetPitch(math.random(var.min, var.max))
@@ -593,7 +595,7 @@ chatsounds.Modifiers = {
 				chtsnd:RemoveCSoundPatch()
 			end)
 		end,
-	},
+	},	
 	{
 		modifier = "++",
 		type = "number",
@@ -857,6 +859,11 @@ function chatsounds.IsOGG(path)
 end
 
 function chatsounds.GetSoundDuration(path)
+	
+	if chatsounds_dbgnull:GetBool() then
+		return SoundDuration("misc/null.wav")
+	end
+	
 	if GetSoundDuration and c.IsMP3(path) then
 		return (GetSoundDuration("sound/"..path) or 1) - c.SubMP3Duration
 	elseif BASS and c.IsOGG(path) then
@@ -1137,7 +1144,11 @@ function chatsounds.PlaySound(chtsnd, id)
 
 	if chtsnd:GetMode() == CHTSND_MODE_WORLDSOUND then
 		for i = 1, distortion do
-			WorldSound(c.GetSoundPrefix()..chtsnd:GetSoundPath(), chtsnd:GetOrigin() or ply:GetShootPos(), sound_level, pitch)
+			local path = c.GetSoundPrefix()..chtsnd:GetSoundPath()
+			if chatsounds_dbgnull:GetBool() then
+				path = "misc/null.wav"
+			end
+			sound.Play(path, chtsnd:GetOrigin() or ply:GetShootPos(), sound_level, pitch)
 		end
 	elseif chtsnd:GetMode() == CHTSND_MODE_CSOUNDPATCH then
 
@@ -1148,8 +1159,11 @@ function chatsounds.PlaySound(chtsnd, id)
 			c.CSoundPatches[ply:UniqueID() .. chtsnd:GetSoundPath()] = nil
 		end
 
-
-		csp = CreateSound(ply, c.GetSoundPrefix()..chtsnd:GetSoundPath())
+		local path = c.GetSoundPrefix()..chtsnd:GetSoundPath()
+		if chatsounds_dbgnull:GetBool() then
+			path = "misc/null.wav"
+		end
+		csp = CreateSound(ply, path)
 		csp:SetSoundLevel(sound_level)
 		csp:PlayEx(1, pitch)
 		csp:ChangeVolume(chtsnd:GetVolume(), 0)
@@ -1173,8 +1187,17 @@ function chatsounds.PlaySound(chtsnd, id)
 		end
 
 	elseif chtsnd:GetMode() == CHTSND_MODE_EMITSOUND then
+		
+		local chatsounds_dbgnull = chatsounds_dbgnull:GetBool()
+		
 		for i = 1, distortion do
-			ply:EmitSound(c.GetSoundPrefix()..chtsnd:GetSoundPath(), sound_level, pitch)
+			
+			local path = c.GetSoundPrefix()..chtsnd:GetSoundPath()
+			if chatsounds_dbgnull then
+				path = "misc/null.wav"
+			end
+			
+			ply:EmitSound(path, sound_level, pitch)
 		end
 	end
 
@@ -1195,7 +1218,7 @@ function chatsounds.GenListCached(name,time,cb)
 	local t = file.Time(path,'DATA')
 	if t and t>time then
 		local t = util.JSONToTable(file.Read(path,'DATA'))
-		if t then
+		if t then 
 			return t
 		end
 	end
