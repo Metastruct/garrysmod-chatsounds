@@ -26,7 +26,12 @@ c.StartList("random")
 
 
 			local sound = c.GetRandomSoundFromLists(chtsnd:GetSeed())
-
+			
+			if not sound then
+				chtsnd:SetSoundPath("misc/null.wav")
+				return 
+			end
+			
 			chtsnd:SetSoundPath(sound.path)
 			chtsnd:SetPitch(c.GeneratePitch(sound, chtsnd:GetSeed()))
 			chtsnd:SetDuration(c.GetSoundDuration(sound.path))
