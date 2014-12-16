@@ -23,7 +23,7 @@ end
 
 chatsounds = {} local c = chatsounds
 local chatsounds = chatsounds
-local co = chatsounds_co
+
 
 chatsounds.AutoAddPath = "chatsounds/autoadd/"
 chatsounds.PitchRange = 5
@@ -54,6 +54,41 @@ chatsounds.default_lists = {
 	"default",
 }
 
+
+-- coroutines
+local co = chatsounds_co
+
+local qq=0
+local function yield(force,inco)
+	if inco == false then return end
+	
+	qq=qq+1
+	if qq>5000 or force then -- MAGIC CONSTANT!!!
+		if inco==true or coroutine.running() then co.waittick() end
+		qq=1
+	end
+end
+
+local qq=0
+local lastn
+local function yieldx(inco,max,name)
+	if inco == false then return end
+	if lastn~=name then
+		lastn=name
+		for i=0,20 do
+			co.waittick()
+		end
+		--Msg"\n"
+		
+	end
+	--Msg(name)
+	
+	qq=qq+1
+	if qq>max or force then
+		if inco==true or coroutine.running() then co.waittick() end
+		qq=1
+	end
+end
 
 -- Debugging / Profiling
 local chatsounds_dbgnull = CreateClientConVar("chatsounds_dbgnull", 0, false,false)
@@ -206,15 +241,30 @@ concommand.Add("chatsounds_list_to_txt", function(_,_,args)
 end)
 
 function chatsounds.InitializeLists(force)
-
-	if GetConVarNumber("cl_chatsounds_enable") == 0 then
-		c.List = {}
-		return
+	if not chatsounds.Enabled:GetBool() then
+		
+		-- do we want to drop caches here?
+		--c.ExistsCache = {}
+		--c.KeyCache = {}
+		--c.ScriptCache = {}
+		--c.List = {}
+		
+		return false
 	end
 
 	if c.Initialized and not force then
 		return
 	end
+	
+	if c.initializing then return false end
+	
+	
+	
+	if co.make(force) then return false end
+	
+	c.initializing = true
+	
+	--print"Starting list initialization..."
 
 	c.ExistsCache = {}
 	c.KeyCache = {}
@@ -226,6 +276,7 @@ function chatsounds.InitializeLists(force)
 		local files,dir = file.Find("sound/" .. c.AutoAddPath .. "/*", "GAME")
 		if not files then
 			print("Chatsounds sounds not found")
+			c.initializing = false
 			return
 		end
 		
@@ -263,13 +314,16 @@ function chatsounds.InitializeLists(force)
 		local files, folders = file.Find("chatsounds/lists_send/*", "LUA")
 		for _, game in pairs(folders) do
 			if not game:find("%.") then
+					
 				for _, set in pairs(file.Find("chatsounds/lists_send/" .. game .. "/*.lua", "LUA")) do
 					IncludeClientFile("chatsounds/lists_send/" .. game .. "/" .. set)
+					yieldx(inco,5,"a")
 				end
 			end
 		end
 		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LCL")) do
 			include("chatsounds/lists_nosend/" .. set)
+			yieldx(inco,10,"b")
 		end
 
 	_G.c = nil
@@ -292,11 +346,9 @@ function chatsounds.InitializeLists(force)
 	local blah = "InitializeLists took " .. math.Round(SysTime() - start, 3) .. " seconds"
 	print(blah)
 	if easylua and easylua.PrintOnServer then easylua.PrintOnServer(blah) end
+	c.initializing = false
 end
 
-concommand.Add("chatsounds_init_lists", function()
-	chatsounds.InitializeLists(true)
-end)
 
 function chatsounds.StartList(name, override)
 	c.List[name] = not override and c.List[name] or {}
@@ -308,6 +360,7 @@ function chatsounds.EndList(name)
 end
 
 function chatsounds.PrepareList()
+	local inco=coroutine.running()
 	for set in pairs(c.List) do
 		c.List[set] = table.LowerKeyNames(c.List[set])
 	end
@@ -320,6 +373,7 @@ function chatsounds.PrepareList()
 	for set_name, set in pairs(c.List) do
 		table.insert(c.SetNames, set_name)
 		c.SortedList2[set_name] = c.SortedList2[set_name] or {}
+		yieldx(inco,10,"c")
 		for trigger, data in pairs(table.Copy(set)) do
 
 			trigger = trigger:gsub("?", "")
@@ -335,11 +389,17 @@ function chatsounds.PrepareList()
 
 	for set in pairs(c.SortedList2) do
 		c.SortedList2[set] = table.ClearKeys(c.SortedList2[set])
+		yieldx(inco,15,"d")
 		table.sort(c.SortedList2[set], function(a, b) return #a.key > #b.key end)
 	end
 
-	c.SortedList = table.ClearKeys(table.Copy(c.SortedListKeys))
+	yieldx(inco,0,"e")
+	local copied = table.Copy(c.SortedListKeys)
+	yieldx(inco,0,"f")
+	c.SortedList = table.ClearKeys(copied)
+	yieldx(inco,0,"g")
 	table.sort(c.SortedList, function(a, b) return #a.key > #b.key end)
+	yieldx(inco,0,"h")
 end
 
 function chatsounds.AddSound(set, key, data)
@@ -964,16 +1024,6 @@ end
 
 
 
-local qq=0
-local function yield(force,inco)
-	if not co or inco==false then return end
-	
-	qq=qq+1
-	if qq>5000 or force then -- MAGIC CONSTANT!!!
-		if inco==true or coroutine.running() then co.waittick() end
-		qq=1
-	end
-end
 function chatsounds.GetScriptFromText(text)
 
 	local inco = coroutine.running()
@@ -1129,11 +1179,13 @@ function chatsounds.GetScriptFromText(text)
 end
 
 function chatsounds.Say(ply, text, seed)
+	
+	if c.InitializeLists()==false then return end
+	
 	if co and co.make  (ply, text, seed) then return end
 	
 	chatsounds.Profile"Say"
 	if not c.Enabled:GetBool() then return end
-	c.InitializeLists()
 
 	text = text:lower()
 	text = text:gsub("[^%w%a%s" .. c.SKIP .. "]", ""):gsub("%s+", " ")
@@ -1423,8 +1475,89 @@ hook.Add("ChatTextChanged", "LazyInitializeLists", function()
 	hook.Remove("ChatTextChanged", "LazyInitializeLists")
 end)
 
-CreateClientConVar("chatsounds_init_lists_on_join", 1, true)
 
-if GetConVarNumber("chatsounds_init_lists_on_join") ~= 0 then
-	chatsounds.InitializeLists()
+local function Initialize(force)
+	
+	chatsounds.InitializeLists(force)
+	Msg"CS "print"Starting InitializeLists"
+	
+	local prev
+	local startsyst
+	local start=0
+	local Tag="chatsounds"
+		
+	local function PostRenderVGUI()
+		cam.Start2D()
+		surface.SetFont"closecaption_normal"
+		surface.SetTextColor(180,255,255,255)
+		
+		--surface.DrawText"hi"
+		local txt="Chatsounds loading..."
+
+		startsyst=startsyst or SysTime()
+
+
+		local w=250
+		local h=55
+		local sw=ScrW()
+		local sh=ScrH()
+		local mat=Matrix()
+		mat:Translate( Vector( sw-w,math.floor(sh*0.3-h*0.5) , 0) )
+		
+		cam.PushModelMatrix(mat)
+		
+		local ft = FrameTime()
+		ft=ft==0 and 1/10 or ft>0.5 and 0.4 or ft
+		start=start+ft
+		local f=start
+		f=f>1 and 1 or f<=0 and 0 or f
+		
+		surface.SetTextColor(180,200,255,f*255)
+		surface.SetDrawColor(20,20,25,f*200)
+		surface.DrawRect(0,0,w,h)
+		surface.SetFont"closecaption_normal"
+		local tw,th=surface.GetTextSize(txt..'     ')
+		local tx,ty=w*0.5-tw*0.5,h*0.5-th
+		surface.SetTextPos(tx,ty)
+		surface.DrawText(txt)
+		surface.DrawText(('.'):rep((start*2)%4))
+		
+		surface.SetTextColor(220,222,220,f*255)
+		
+		
+		local len=SysTime()-startsyst
+		local frac=(len-math.floor(len))*1000
+		len=math.floor(len)
+		local mins=math.floor(len/60)
+		local secs=len%60
+		
+		surface.SetFont"DermaDefault"
+		local txt = string.format("Stage: %s/h Time: %.2d:%.2d.%.3d",lastn,mins,secs,frac)
+		local tw2,th2=surface.GetTextSize(txt)
+		surface.SetTextPos(tx,ty+th)
+		surface.DrawText(txt)
+		
+		cam.PopModelMatrix()
+		cam.End2D()
+		
+		if not c.initializing then hook.Remove("DrawOverlay",Tag) return end
+		
+	end
+
+	hook.Add("DrawOverlay",Tag, PostRenderVGUI)
+		
+	
+end
+
+
+concommand.Add("chatsounds_init_lists", function()
+	--chatsounds.InitializeLists(true)
+	Initialize(true)
+end)
+
+local me = LocalPlayer()
+if me and me:IsValid() then
+	Initialize()
+else
+	hook.Add("Initialize", "chatsounds_init_lists", function() Initialize() end)
 end
