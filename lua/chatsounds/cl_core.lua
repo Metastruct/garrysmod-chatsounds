@@ -1,3 +1,4 @@
+setfenv(1,_G)
 --[[
 	have shortcuts in the list so you can do List["luigi fap"] = "woow2 it's hard aww aww"
 	premade particles or effects of any sort should be possible to add in the List
@@ -22,6 +23,7 @@ end
 
 chatsounds = {} local c = chatsounds
 local chatsounds = chatsounds
+local co = chatsounds_co
 
 chatsounds.AutoAddPath = "chatsounds/autoadd/"
 chatsounds.PitchRange = 5
@@ -52,7 +54,39 @@ chatsounds.default_lists = {
 	"default",
 }
 
+
+-- Debugging / Profiling
 local chatsounds_dbgnull = CreateClientConVar("chatsounds_dbgnull", 0, false,false)
+local chatsounds_debug = CreateClientConVar("chatsounds_debug", 0, false,false)
+
+
+local Now = SysTime
+local profiles = {}
+local profiling= false
+local function null()end
+
+local function Profile(id)
+	--if not chatsounds_debug:GetBool() then return end
+	profiles[id]=Now()
+end
+local function ProfileEnd(id)
+	--if not chatsounds_debug:GetBool() then return end
+	local start = profiles[id] or (now+1)
+	local now = Now()
+	
+	Msg("[CS] "..tostring(id)..' ')print(("took %4.1fms"):format( (now-start)*1000 ))
+end
+chatsounds.Profile    = null
+chatsounds.ProfileEnd = null
+concommand.Add("chatsounds_profile",function()
+	profiling=not profiling
+	chatsounds.Profile    = profiling and Profile or null
+	chatsounds.ProfileEnd = profiling and ProfileEnd or null
+	MsgN(profiling and "Profiling" or "Stopped profiling")
+end)
+
+------------------------------
+
 
 function chatsounds.ListToString(set, exists, duration, _trans, comp)
 
@@ -866,7 +900,7 @@ function chatsounds.GetSoundDuration(path)
 	
 	if GetSoundDuration and c.IsMP3(path) then
 		return (GetSoundDuration("sound/"..path) or 1) - c.SubMP3Duration
-	elseif BASS and c.IsOGG(path) then
+	elseif false and BASS and c.IsOGG(path) then -- todo: MAKE ASYNC and use sound.PlayFile
 		local len
 		local chan, err = BASS.StreamFile("sound/" .. path, true)
 
@@ -927,124 +961,149 @@ end
 
 
 -- most of the pattern matching stuff in this function is made by declan
+do
 
-function chatsounds.GetScriptFromText(text)
+local original_text
+local result
+local fstart, fend, match
+local last_set
+local stop
+local text
+	
+local function FindMod(text)
+	local offset = 0
+	local mod
+
+	local foundMod = true
+	local modend = fend
+	local order = 1
+	repeat
+		foundMod = false
+		for index, data in next, c.Modifiers do
+
+			if not original_text:find(data.modifier, nil, true) then continue end -- this /may/ or /may not/ help with spikes
+			
+			
+			local sub = text:sub(modend + 1, modend + #data.modifier)
+
+			if sub:find(data.modifier, nil, true) then
+				local var
+				if data.type == "number" then
+					local match = text:match("([0-9%.]+)", modend + 1)
+					var = match and tonumber(match) or nil
+					modend = modend + (match and #match or 0) + #data.modifier
+					offset = offset + (match and #match or 0) + #data.modifier
+				elseif data.type == "args" then
+					local match = text:match("([0-9%.0-9%.]+)", modend + 1)
+					var = match and tostring(match) or nil
+					modend = modend + (match and #match or 0) + #data.modifier
+					offset = offset + (match and #match or 0) + #data.modifier
+				elseif data.type == "string" then
+					local match = text:match("[A-Za-z]+", modend + 1)
+					var = match or nil
+					modend = modend + (match and #match or 0) + #data.modifier
+					offset = offset + (match and #match or 0) + #data.modifier
+				end
+
+				if var then
+					mod = mod or {}
+					mod[order] = {
+						fetch_var = data.type and data.fetch and (data.type == "args" and data.fetch(unpack(string.Explode(".", var))) or data.fetch(var)) or var,
+						self = data,
+					}
+					order = order + 1
+					foundMod = true
+				elseif data.type == "none" then
+					offset = offset + #data.modifier
+					mod = mod or {}
+					mod[order] = {
+						fetch_var = "nil",
+						self = data,
+					}
+					order = order + 1
+					foundMod = false
+				end
+			break end
+		end
+	until not foundMod or modend > #text
+
+	if mod then mod = table.ClearKeys(mod) end
+	return mod, offset
+end
+
+local function FindKey(key, set)
+
+	-- no need to search for words if none are left
+	-- could probably be a lot better with a pattern but I suck (capsadmin) at patterns so fuck that
+
+	if #text:gsub("_", ""):gsub(" ", "") == 0 then stop = true return end
+
+	local found = false
+	repeat
+		fstart, fend, match = text:find(c.PuncStart .. key:lower() .. c.PuncEnd)
+		
+					
+		if fstart then
+			local mod, offset = FindMod(text, fend, original_text)
+
+			table.insert(result, {
+				pos = fstart,
+				key = key,
+				mod = mod,
+				--set = set,
+			})
+
+			found = true
+
+			text = text:sub(1, fstart - 1) .. ("_"):rep(key:len() + offset) .. text:sub(fend + offset + 1)
+			--print(key, text, ({text:gsub("_", ""):gsub(" ", "")})[1])
+		end
+	until not fstart
+
+	return found
+end
+
+local qq=0
+local function yield(force)
+	if not co then return end
+	
+	qq=qq+1
+	if qq>5000 or force then -- MAGIC CONSTANT!!!
+		if coroutine.running() then co.waittick() end
+		qq=1
+	end
+end
+function chatsounds.GetScriptFromText(_)
+	text=_
+	
+	chatsounds.Profile"GSFT"
 	c.LastSet = nil
 	if not text or #text == 0 then return end
 
-	local original_text = text
+	original_text = text
 	if c.ScriptCache[original_text] then return c.ScriptCache[original_text] end
 
 	text = text:lower() .. " "
 
-	local result = {}
-	local fstart, fend, match
-	local last_set = c.LastSet
-	local i = 0
-	local stop = false
-
-
-
-	local function FindMod(text)
-		local offset = 0
-		local mod
-
-		local foundMod = true
-		local modend = fend
-		local order = 1
-		repeat
-			foundMod = false
-			for index, data in pairs(c.Modifiers) do
-
-				if not original_text:find(data.modifier, nil, true) then continue end -- this /may/ or /may not/ help with spikes
-
-				local sub = text:sub(modend + 1, modend + #data.modifier)
-
-				if sub:find(data.modifier, nil, true) then
-					local var
-					if data.type == "number" then
-						local match = text:match("([0-9%.]+)", modend + 1)
-						var = match and tonumber(match) or nil
-						modend = modend + (match and #match or 0) + #data.modifier
-						offset = offset + (match and #match or 0) + #data.modifier
-					elseif data.type == "args" then
-						local match = text:match("([0-9%.0-9%.]+)", modend + 1)
-						var = match and tostring(match) or nil
-						modend = modend + (match and #match or 0) + #data.modifier
-						offset = offset + (match and #match or 0) + #data.modifier
-					elseif data.type == "string" then
-						local match = text:match("[A-Za-z]+", modend + 1)
-						var = match or nil
-						modend = modend + (match and #match or 0) + #data.modifier
-						offset = offset + (match and #match or 0) + #data.modifier
-					end
-
-					if var then
-						mod = mod or {}
-						mod[order] = {
-							fetch_var = data.type and data.fetch and (data.type == "args" and data.fetch(unpack(string.Explode(".", var))) or data.fetch(var)) or var,
-							self = data,
-						}
-						order = order + 1
-						foundMod = true
-					elseif data.type == "none" then
-						offset = offset + #data.modifier
-						mod = mod or {}
-						mod[order] = {
-							fetch_var = "nil",
-							self = data,
-						}
-						order = order + 1
-						foundMod = false
-					end
-				break end
-			end
-		until not foundMod or modend > #text
-
-		if mod then mod = table.ClearKeys(mod) end
-		return mod, offset
-	end
-
-	local function FindKey(key, set)
-
-		-- no need to search for words if none are left
-		-- could probably be a lot better with a pattern but I suck (capsadmin) at patterns so fuck that
-
-		if #text:gsub("_", ""):gsub(" ", "") == 0 then stop = true return end
-
-		local found = false
-		repeat
-			fstart, fend, match = text:find(c.PuncStart .. key:lower() .. c.PuncEnd)
-
-			if fstart then
-				local mod, offset = FindMod(text, fend, original_text)
-
-				table.insert(result, {
-					pos = fstart,
-					key = key,
-					mod = mod,
-					--set = set,
-				})
-
-				found = true
-
-				text = text:sub(1, fstart - 1) .. ("_"):rep(key:len() + offset) .. text:sub(fend + offset + 1)
-				--print(key, text, ({text:gsub("_", ""):gsub(" ", "")})[1])
-			end
-		until not fstart
-
-		return found
-	end
+	result = {}
+	fstart, fend, match = nil,nil,nil
+	last_set = c.LastSet
+	stop = false
 
 	repeat
+		if co and coroutine.running() then co.waittick() end
+		
 		if stop then break end
 
+		
 		if last_set then
 			for _, value in pairs(c.SortedList2[last_set]) do
+				yield()
 				FindKey(value.key)
 			end
 		else
 			for _, value in pairs(c.SortedList) do
+				yield()
 				if FindKey(value.key) then
 					last_set = value.set
 				end
@@ -1055,28 +1114,39 @@ function chatsounds.GetScriptFromText(text)
 
 	c.LastSet = last_set
 
+		
+		
 	-- Sort the results table by position of the word.
 	table.sort(result, function(a, b) return a.pos < b.pos end)
-
+	
+	
 	--PrintTable(result)
 	c.ScriptCache[original_text] = result
+	
+	chatsounds.ProfileEnd"GSFT"
+	
 	return c.ScriptCache[original_text]
 end
+end -- do
 
 function chatsounds.Say(ply, text, seed)
+	if co and co.make  (ply, text, seed) then return end
+	
+	chatsounds.Profile"Say"
 	if not c.Enabled:GetBool() then return end
-
 	c.InitializeLists()
 
-	text = text:lower():gsub("[^%w%a%s" .. c.SKIP .. "]", ""):gsub("%s+", " ")
+	text = text:lower()
+	text = text:gsub("[^%w%a%s" .. c.SKIP .. "]", ""):gsub("%s+", " ")
 
 	c.Seed = seed
-	for key, text in pairs(string.Explode(";", text)) do
+
+	for text in text:gmatch("[^;]+") do -- razortrainhorn;eek
 		local script = c.GetScriptFromText(text)
 
 		if script then
 
-			local distortion = ({text:gsub("[!]", "")})[2] -- <- ugh?
+			local _,distortion = text:gsub("%!", "!")
 			distortion = distortion ~= 0 and distortion * c.ExclamationMultiplier or 1
 
 			local time = 0
@@ -1129,6 +1199,8 @@ function chatsounds.Say(ply, text, seed)
 			end
 		end
 	end
+	chatsounds.ProfileEnd"Say"
+	
 end
 
 function chatsounds.PlaySound(chtsnd, id)
@@ -1246,17 +1318,6 @@ end
 
 
 
-function chatsounds.ReceiveUsermessage(data)
-	local ply = data:ReadEntity()
-	if not IsValid(ply) or ply:GetPos():Distance(LocalPlayer():GetPos()) > 5000 then return end -- maybe an is audible function?
-
-	local seed = ply:Nick() .. (data:ReadChar() + 127)
-	local text = data:ReadString()
-
-	c.Say(ply, text, seed)
-end
-usermessage.Hook("chatsounds", chatsounds.ReceiveUsermessage)
-
 function chatsounds.ReceiveNet(len)
 	local ply = net.ReadEntity()
 	if not IsValid(ply) or ply:GetPos():Distance(LocalPlayer():GetPos()) > 5000 then return end
@@ -1267,6 +1328,7 @@ function chatsounds.ReceiveNet(len)
 	c.Say(ply, text, seed)
 end
 net.Receive("chatsounds", chatsounds.ReceiveNet)
+
 function chatsounds.ReceiveRandomUsermessage(data)
 	if not c.Enabled:GetBool() then return end
 
