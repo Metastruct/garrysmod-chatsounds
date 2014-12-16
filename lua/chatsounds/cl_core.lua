@@ -961,149 +961,149 @@ end
 
 
 -- most of the pattern matching stuff in this function is made by declan
-do
 
-local original_text
-local result
-local fstart, fend, match
-local last_set
-local stop
-local text
-	
-local function FindMod(text)
-	local offset = 0
-	local mod
 
-	local foundMod = true
-	local modend = fend
-	local order = 1
-	repeat
-		foundMod = false
-		for index, data in next, c.Modifiers do
-
-			if not original_text:find(data.modifier, nil, true) then continue end -- this /may/ or /may not/ help with spikes
-			
-			
-			local sub = text:sub(modend + 1, modend + #data.modifier)
-
-			if sub:find(data.modifier, nil, true) then
-				local var
-				if data.type == "number" then
-					local match = text:match("([0-9%.]+)", modend + 1)
-					var = match and tonumber(match) or nil
-					modend = modend + (match and #match or 0) + #data.modifier
-					offset = offset + (match and #match or 0) + #data.modifier
-				elseif data.type == "args" then
-					local match = text:match("([0-9%.0-9%.]+)", modend + 1)
-					var = match and tostring(match) or nil
-					modend = modend + (match and #match or 0) + #data.modifier
-					offset = offset + (match and #match or 0) + #data.modifier
-				elseif data.type == "string" then
-					local match = text:match("[A-Za-z]+", modend + 1)
-					var = match or nil
-					modend = modend + (match and #match or 0) + #data.modifier
-					offset = offset + (match and #match or 0) + #data.modifier
-				end
-
-				if var then
-					mod = mod or {}
-					mod[order] = {
-						fetch_var = data.type and data.fetch and (data.type == "args" and data.fetch(unpack(string.Explode(".", var))) or data.fetch(var)) or var,
-						self = data,
-					}
-					order = order + 1
-					foundMod = true
-				elseif data.type == "none" then
-					offset = offset + #data.modifier
-					mod = mod or {}
-					mod[order] = {
-						fetch_var = "nil",
-						self = data,
-					}
-					order = order + 1
-					foundMod = false
-				end
-			break end
-		end
-	until not foundMod or modend > #text
-
-	if mod then mod = table.ClearKeys(mod) end
-	return mod, offset
-end
-
-local function FindKey(key, set)
-
-	-- no need to search for words if none are left
-	-- could probably be a lot better with a pattern but I suck (capsadmin) at patterns so fuck that
-
-	if #text:gsub("_", ""):gsub(" ", "") == 0 then stop = true return end
-
-	local found = false
-	repeat
-		fstart, fend, match = text:find(c.PuncStart .. key:lower() .. c.PuncEnd)
-		
-					
-		if fstart then
-			local mod, offset = FindMod(text, fend, original_text)
-
-			table.insert(result, {
-				pos = fstart,
-				key = key,
-				mod = mod,
-				--set = set,
-			})
-
-			found = true
-
-			text = text:sub(1, fstart - 1) .. ("_"):rep(key:len() + offset) .. text:sub(fend + offset + 1)
-			--print(key, text, ({text:gsub("_", ""):gsub(" ", "")})[1])
-		end
-	until not fstart
-
-	return found
-end
 
 local qq=0
-local function yield(force)
-	if not co then return end
+local function yield(force,inco)
+	if not co or inco==false then return end
 	
 	qq=qq+1
 	if qq>5000 or force then -- MAGIC CONSTANT!!!
-		if coroutine.running() then co.waittick() end
+		if inco==true or coroutine.running() then co.waittick() end
 		qq=1
 	end
 end
-function chatsounds.GetScriptFromText(_)
-	text=_
+function chatsounds.GetScriptFromText(text)
+
+	local inco = coroutine.running()
 	
 	chatsounds.Profile"GSFT"
 	c.LastSet = nil
 	if not text or #text == 0 then return end
 
-	original_text = text
+	local original_text = text
 	if c.ScriptCache[original_text] then return c.ScriptCache[original_text] end
 
 	text = text:lower() .. " "
 
-	result = {}
-	fstart, fend, match = nil,nil,nil
-	last_set = c.LastSet
-	stop = false
+	local result = {}
+	local fstart, fend, match = nil,nil,nil
+	local last_set = c.LastSet
+	local stop = false
+	
+		
+	local function FindMod(text)
+		local offset = 0
+		local mod
 
+		local foundMod = true
+		local modend = fend
+		local order = 1
+		repeat
+			foundMod = false
+			for index, data in next, c.Modifiers do
+
+				if not original_text:find(data.modifier, nil, true) then continue end -- this /may/ or /may not/ help with spikes
+				
+				
+				local sub = text:sub(modend + 1, modend + #data.modifier)
+
+				if sub:find(data.modifier, nil, true) then
+					local var
+					if data.type == "number" then
+						local match = text:match("([0-9%.]+)", modend + 1)
+						var = match and tonumber(match) or nil
+						modend = modend + (match and #match or 0) + #data.modifier
+						offset = offset + (match and #match or 0) + #data.modifier
+					elseif data.type == "args" then
+						local match = text:match("([0-9%.0-9%.]+)", modend + 1)
+						var = match and tostring(match) or nil
+						modend = modend + (match and #match or 0) + #data.modifier
+						offset = offset + (match and #match or 0) + #data.modifier
+					elseif data.type == "string" then
+						local match = text:match("[A-Za-z]+", modend + 1)
+						var = match or nil
+						modend = modend + (match and #match or 0) + #data.modifier
+						offset = offset + (match and #match or 0) + #data.modifier
+					end
+
+					if var then
+						mod = mod or {}
+						mod[order] = {
+							fetch_var = data.type and data.fetch and (data.type == "args" and data.fetch(unpack(string.Explode(".", var))) or data.fetch(var)) or var,
+							self = data,
+						}
+						order = order + 1
+						foundMod = true
+					elseif data.type == "none" then
+						offset = offset + #data.modifier
+						mod = mod or {}
+						mod[order] = {
+							fetch_var = "nil",
+							self = data,
+						}
+						order = order + 1
+						foundMod = false
+					end
+				break end
+			end
+		until not foundMod or modend > #text
+
+		if mod then mod = table.ClearKeys(mod) end
+		return mod, offset
+	end
+
+	local function FindKey(key, set)
+
+		-- no need to search for words if none are left
+		-- could probably be a lot better with a pattern but I suck (capsadmin) at patterns so fuck that
+
+		if #text:gsub("_", ""):gsub(" ", "") == 0 then stop = true return end
+
+		local found = false
+		repeat
+			fstart, fend, match = text:find(c.PuncStart .. key:lower() .. c.PuncEnd)
+			
+						
+			if fstart then
+				local mod, offset = FindMod(text, fend, original_text)
+
+				table.insert(result, {
+					pos = fstart,
+					key = key,
+					mod = mod,
+					--set = set,
+				})
+
+				found = true
+
+				text = text:sub(1, fstart - 1) .. ("_"):rep(key:len() + offset) .. text:sub(fend + offset + 1)
+				--print(key, text, ({text:gsub("_", ""):gsub(" ", "")})[1])
+			end
+		until not fstart
+
+		return found
+	end
+		
+		
+	yield(true,inco)
+	
+	
 	repeat
-		if co and coroutine.running() then co.waittick() end
+		yield(true,inco)
 		
 		if stop then break end
 
 		
 		if last_set then
 			for _, value in pairs(c.SortedList2[last_set]) do
-				yield()
+				yield(false,inco)
 				FindKey(value.key)
 			end
 		else
 			for _, value in pairs(c.SortedList) do
-				yield()
+				yield(false,inco)
 				if FindKey(value.key) then
 					last_set = value.set
 				end
@@ -1127,7 +1127,6 @@ function chatsounds.GetScriptFromText(_)
 	
 	return c.ScriptCache[original_text]
 end
-end -- do
 
 function chatsounds.Say(ply, text, seed)
 	if co and co.make  (ply, text, seed) then return end

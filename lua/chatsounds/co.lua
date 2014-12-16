@@ -1,7 +1,7 @@
 --setfenv(1,_G)
 local meta={}
 local co=setmetatable({},meta)
-_G.chatsounds_co
+_G.chatsounds_co = co
 
 local costack=setmetatable({},{__index={
 	push=function(tbl,val)
