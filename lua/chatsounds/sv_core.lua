@@ -55,13 +55,30 @@ function chatsounds.GenerateNewSeed()
 	-- print(c.Seed)
 end
 
-function chatsounds.GetRecipientFilter()
-	local plys = {}
-	for key, ply in pairs(player.GetAll()) do
-		local enabled = tonumber(ply:GetInfo("cl_chatsounds_enable"))
-		if not enabled or enabled >= 1 then
-			table.insert(plys, ply)
+local plys = {}
+function chatsounds.GetRecipientFilter(pos)
+	local i=1
+	
+	for key, ply in next,player.GetAll() do
+		
+		local enabled = ply:GetInfoNum("cl_chatsounds_enable",0)
+		if enabled and enabled >= 1 then
+		
+			if not pos or (pos and ply:VisibleVec(pos)) then
+				plys[i] = ply
+				i = i + 1
+			end
+			
 		end
+		
+	end
+	
+	while i<257 do
+	
+		if plys[i]==nil then break end
+		plys[i]=nil
+		i=i+1
+		
 	end
 
 	return plys
@@ -89,6 +106,7 @@ function chatsounds.IsLuaCommand(text)
 	return false
 end
 
+local offground=Vector(0,0,16)
 function chatsounds.Say(ply, text)
 	if hook.Call("PreChatSoundsSay", nil, ply, text) == false then return end
 	if not IsValid(ply) then return end
@@ -96,21 +114,24 @@ function chatsounds.Say(ply, text)
 	if chatsounds.IsLuaCommand(text) then return end
 
 	local seed = c.Seed - 127
-	if( #text > 220 ) then
+	--if( #text > 220 ) then
 		net.Start("chatsounds")
 			net.WriteEntity(ply)
-			net.WriteString(text)
+			-- cut to 32KB
+			net.WriteString( text:sub(1,64000-32-32000) )
 			net.WriteInt(seed,32)
-		net.Send(chatsounds.GetRecipientFilter())
-	else
-		umsg.Start("chatsounds", chatsounds.GetRecipientFilter())
-			umsg.Entity(ply)
-			umsg.Char(seed)
-			-- todo: make this clientside, maybe store clientside chat history and match them with CRC?
-			-- I'll leave it at this for now
-			umsg.String(text)
-		umsg.End()
-	end
+		local pos = ply:GetPos()
+			  pos:Add(offground)
+		net.Send(chatsounds.GetRecipientFilter(pos))
+	--else
+	--	umsg.Start("chatsounds", chatsounds.GetRecipientFilter())
+	--		umsg.Entity(ply)
+	--		umsg.Char(seed)
+	--		-- todo: make this clientside, maybe store clientside chat history and match them with CRC?
+	--		-- I'll leave it at this for now
+	--		umsg.String(text)
+	--	umsg.End()
+	--end
 	chatsounds.GenerateNewSeed()
 end
 
