@@ -58,6 +58,8 @@ chatsounds.default_lists = {
 -- coroutines
 local co = chatsounds_co
 
+local chatsounds_threading = CreateClientConVar("chatsounds_threading","1",true,false)
+
 local qq=0
 local function yield(force,inco)
 	if inco == false then return end
@@ -1182,7 +1184,7 @@ function chatsounds.Say(ply, text, seed)
 	
 	if c.InitializeLists()==false then return end
 	
-	if co and co.make  (ply, text, seed) then return end
+	if co and chatsounds_threading:GetBool() and co.make  (ply, text, seed) then return end
 	
 	chatsounds.Profile"Say"
 	if not c.Enabled:GetBool() then return end
@@ -1479,7 +1481,7 @@ end)
 local function Initialize(force)
 	
 	chatsounds.InitializeLists(force)
-	Msg"CS "print"Starting InitializeLists"
+	--Msg"CS "print"Starting InitializeLists"
 	
 	local prev
 	local startsyst
