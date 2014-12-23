@@ -61,7 +61,7 @@ function chatsounds.GetRecipientFilter(pos)
 	
 	for key, ply in next,player.GetAll() do
 		
-		local enabled = ply:GetInfoNum("cl_chatsounds_enable",0)
+		local enabled = ply:GetInfoNum("chatsounds_enabled",0)
 		if enabled and enabled >= 1 then
 		
 			if not pos or (pos and ply:VisibleVec(pos)) then
