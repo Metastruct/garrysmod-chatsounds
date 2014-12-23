@@ -1,4 +1,4 @@
-setfenv(1,_G)
+--setfenv(1,_G)
 --[[
 	have shortcuts in the list so you can do List["luigi fap"] = "woow2 it's hard aww aww"
 	premade particles or effects of any sort should be possible to add in the List
@@ -12,7 +12,7 @@ setfenv(1,_G)
 	fix list sorting problems
 ]]
 
--- INCURRED MY WRATH SON
+
 local IncludeClientFile = IncludeClientFile or function(path)
 	if SERVER then
 		AddCSLuaFile(path)
@@ -40,10 +40,17 @@ chatsounds.ExistsCache = {}
 chatsounds.KeyCache = {}
 chatsounds.ScriptCache = {}
 
-chatsounds.Enabled = CreateClientConVar("cl_chatsounds_enable", 1, true, true)
+chatsounds.Enabled = CreateClientConVar("chatsounds_enabled", "1", true, true)
+local chatsounds_volume = CreateClientConVar("chatsounds_volume", "0.9", true, false)
+local function GetVolume()
+	local f = chatsounds_volume:GetFloat() or 1
+	f=f*100
+	f=f>100 and 100 or f<0 and 0 or f
+	return f
+end
 chatsounds.Initialized = false
-chatsounds.AutoPrecacheAll = CreateClientConVar("cl_chatsounds_autoprecache_all", 0, true, true)
-chatsounds.AllowDSP = CreateClientConVar("cl_chatsounds_enable_dsp", 1, true, true):GetBool()
+chatsounds.AutoPrecacheAll = CreateClientConVar("chatsounds_autoprecache_all", 0, true, true)
+chatsounds.AllowDSP = CreateClientConVar("chatsounds_dsp", 1, true, true):GetBool()
 
 chatsounds.CSoundPatches = {}
 chatsounds.Timers = {}
@@ -1263,9 +1270,10 @@ function chatsounds.PlaySound(chtsnd, id)
 	if chtsnd:GetPitch() <= 0 or not c.SoundExists(chtsnd:GetSoundPath()) or not chtsnd:IsValid() then return end
 
 	local distortion = (chtsnd:GetDistortionLevel() or 1)
-	local sound_level = math.Clamp(math.Clamp(c.BaseVolume + distortion, c.BaseVolume, 160)*chtsnd:GetVolume(), 1, 160)
+	local sound_level = math.Clamp(math.Clamp(GetVolume() + distortion, GetVolume(), 160)*chtsnd:GetVolume(), 1, 160)
 	local pitch = math.Clamp(chtsnd:GetPitch(), 0, 255)
 	local ply = chtsnd:GetPlayer()
+	
 
 	if chtsnd:GetMode() == CHTSND_MODE_WORLDSOUND then
 		for i = 1, distortion do
