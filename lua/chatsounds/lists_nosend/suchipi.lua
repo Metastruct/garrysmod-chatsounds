@@ -18,5 +18,6 @@ L["swooce1"]={{path="chatsounds/autoadd/suchipi/swooce1.ogg",length=0.6622902494
 L["swooce2"]={{path="chatsounds/autoadd/suchipi/swooce2.ogg",length=0.67478458049886625}}
 L["this is a game not a commercial"]={{path="chatsounds/autoadd/suchipi/this is a game not a commercial.ogg",length=2.1063492063492064}}
 L["watch me swooce right in"]={{path="chatsounds/autoadd/suchipi/watch me swooce right in.ogg",length=1.8993877551020408}}
+L["who disturbs my slumber"]={{path="chatsounds/autoadd/suchipi/who disturbs my slumber.ogg",length=3.8326303854875285}}
 L["you have a collect call from"]={{path="chatsounds/autoadd/suchipi/you have a collect call from.ogg",length=1.817936507936508}}
 c.EndList()
