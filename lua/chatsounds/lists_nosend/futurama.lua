@@ -5,6 +5,7 @@ L["elf"]={{path="chatsounds/autoadd/futurama/elf.ogg",length=0.18587301587301588
 L["fry got his head stuck"]={{path="chatsounds/autoadd/futurama/fry got his head stuck.ogg",length=3.1444897959183673}}
 L["good news"]={{path="chatsounds/autoadd/futurama/good news/good news1.ogg",length=2.0433560090702949},{path="chatsounds/autoadd/futurama/good news/good news2.ogg",length=1.6834467120181407},{path="chatsounds/autoadd/futurama/good news/good news3.ogg",length=1.7382086167800455}}
 L["i dont care how educational it is lets do it"]={{path="chatsounds/autoadd/futurama/i dont care how educational it is lets do it.ogg",length=2.6666213151927436}}
+L["i dont want to live on this planet anymore"]={{path="chatsounds/autoadd/futurama/i dont want to live on this planet anymore.ogg",length=2.9817913832199547}}
 L["its funny you live in the universe but you never do these things till someone comes to visit"]={{path="chatsounds/autoadd/futurama/its funny you live in the universe but you never do these things till someone comes to visit.ogg",length=5.5139229024943308}}
 L["look at me im doctor zoidberg homeowner"]={{path="chatsounds/autoadd/futurama/look at me im doctor zoidberg homeowner.ogg",length=5.2034467120181409}}
 L["mice"]={{path="chatsounds/autoadd/futurama/mice.ogg",length=0.31603174603174605}}
