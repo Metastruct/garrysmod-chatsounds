@@ -60,6 +60,7 @@ L["phonedialextreme"]={{path="chatsounds/autoadd/feshpince/phonedialextreme.ogg"
 L["pick up the damn phone no"]={{path="chatsounds/autoadd/feshpince/pick up the damn phone no.ogg",length=2.6949659863945579}}
 L["pick up the damn phone"]={{path="chatsounds/autoadd/feshpince/pick up the damn phone.ogg",length=2.0520634920634921}}
 L["plan bbbbbb"]={{path="chatsounds/autoadd/feshpince/plan bbbbbb.ogg",length=0.86058956916099771}}
+L["pot"]={{path="chatsounds/autoadd/feshpince/pot.ogg",length=0.56691609977324264}}
 L["rubbing my coc"]={{path="chatsounds/autoadd/feshpince/rubbing my coc.ogg",length=0.98684807256235829}}
 L["sees"]={{path="chatsounds/autoadd/feshpince/sees.ogg",length=0.57904761904761903}}
 L["sex"]={{path="chatsounds/autoadd/feshpince/sex/sex Copy.ogg",length=0.52390022675736958},{path="chatsounds/autoadd/feshpince/sex/sex.ogg",length=0.65741496598639459}}

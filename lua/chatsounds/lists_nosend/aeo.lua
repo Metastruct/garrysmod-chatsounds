@@ -5,6 +5,7 @@ L["4tilcock2"]={{path="chatsounds/autoadd/aeo/4tilcock2.ogg",length=0.5667120181
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/aeo/aaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=4.8561224489795922}}
 L["and his dick was right there infront of me so i leaned over and i fudged him"]={{path="chatsounds/autoadd/aeo/and his dick was right there infront of me so i leaned over and i fudged him.ogg",length=2.5300907029478457}}
 L["and i dont kiss like beeehhh i kiss like a beeehhh"]={{path="chatsounds/autoadd/aeo/and i dont kiss like beeehhh i kiss like a beeehhh.ogg",length=3.4586621315192745}}
+L["and now ive got the taste of it in my mouth and i cant stop myself so i go git dat dut gat jah jah hombenghahomehgna"]={{path="chatsounds/autoadd/aeo/and now ive got the taste of it in my mouth and i cant stop myself so i go git dat dut gat jah jah hombenghahomehgna.ogg",length=12.541678004535147}}
 L["bagel"]={{path="chatsounds/autoadd/aeo/bagel.ogg",length=0.66766439909297048}}
 L["but im stupid"]={{path="chatsounds/autoadd/aeo/but im stupid.ogg",length=0.93460317460317466}}
 L["dont pay me i dont care"]={{path="chatsounds/autoadd/aeo/dont pay me i dont care.ogg",length=1.195827664399093}}
