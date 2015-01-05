@@ -218,6 +218,7 @@ L["would you like to play again"]={{path="chatsounds/autoadd/verbalsilence/would
 L["wow wow wee wa"]={{path="chatsounds/autoadd/verbalsilence/wow wow wee wa.ogg",length=1.2266439909297051}}
 L["wrong sir wrong"]={{path="chatsounds/autoadd/verbalsilence/wrong sir wrong.ogg",length=2.3951473922902493}}
 L["xbox achievement"]={{path="chatsounds/autoadd/verbalsilence/xbox achievement.ogg",length=0.27394557823129251}}
+L["yee"]={{path="chatsounds/autoadd/verbalsilence/yee.ogg",length=1.3002721088435374}}
 L["you are a smelly pirate hooker"]={{path="chatsounds/autoadd/verbalsilence/you are a smelly pirate hooker.ogg",length=1.7750113378684806}}
 L["you are technically correct"]={{path="chatsounds/autoadd/verbalsilence/you are technically correct.ogg",length=1.5506575963718821}}
 L["you arent some guys that got off on kinky dominatrix shit"]={{path="chatsounds/autoadd/verbalsilence/you arent some guys that got off on kinky dominatrix shit.ogg",length=2.9719727891156462}}
