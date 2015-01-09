@@ -17,6 +17,7 @@ L["aw dont cry"]={{path="chatsounds/autoadd/verbalsilence/aw dont cry.ogg",lengt
 L["aw"]={{path="chatsounds/autoadd/verbalsilence/aw.ogg",length=0.61172335600907024}}
 L["bacon pancakes"]={{path="chatsounds/autoadd/verbalsilence/bacon pancakes.ogg",length=10.373378684807257}}
 L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612471655328799}}
+L["behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren"]={{path="chatsounds/autoadd/verbalsilence/behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren.ogg",length=12.460408163265306}}
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952}}
 L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292517006804}}
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428}}
@@ -121,6 +122,7 @@ L["if you can dodge a wrench you can dodge a ball"]={{path="chatsounds/autoadd/v
 L["im in me mums car"]={{path="chatsounds/autoadd/verbalsilence/im in me mums car.ogg",length=1.9936734693877551}}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735283446712018}}
 L["in the event of an emergency my ass can be used as a floatation device"]={{path="chatsounds/autoadd/verbalsilence/in the event of an emergency my ass can be used as a floatation device.ogg",length=3.7717460317460318}}
+L["innovating innovating how is fucking our wallets and our nostalgia innovative you stupid mother ffff"]={{path="chatsounds/autoadd/verbalsilence/innovating innovating how is fucking our wallets and our nostalgia innovative you stupid mother ffff.ogg",length=10.136303854875283}}
 L["intervention"]={{path="chatsounds/autoadd/verbalsilence/intervention.ogg",length=1.2499773242630385}}
 L["it looks something like this"]={{path="chatsounds/autoadd/verbalsilence/it looks something like this.ogg",length=3.1291156462585032}}
 L["its all there black and white clear as crystal"]={{path="chatsounds/autoadd/verbalsilence/its all there black and white clear as crystal.ogg",length=3.4391609977324262}}
@@ -152,6 +154,7 @@ L["no dont cry baby elmos here"]={{path="chatsounds/autoadd/verbalsilence/no don
 L["no you need to gtfo"]={{path="chatsounds/autoadd/verbalsilence/no you need to gtfo.ogg",length=2.2927210884353744}}
 L["nom nom nom"]={{path="chatsounds/autoadd/verbalsilence/nom nom nom.ogg",length=1.1950566893424037}}
 L["noope"]={{path="chatsounds/autoadd/verbalsilence/noope.ogg",length=0.65997732426303857}}
+L["not only is this game fffffffffffucking awful but so are its developers apparently"]={{path="chatsounds/autoadd/verbalsilence/not only is this game fffffffffffucking awful but so are its developers apparently.ogg",length=7.7070748299319725}}
 L["nothing1"]={{path="chatsounds/autoadd/verbalsilence/nothing1.ogg",length=0.98260770975056688}}
 L["nup"]={{path="chatsounds/autoadd/verbalsilence/nup.ogg",length=0.54151927437641723}}
 L["oh lord jesus oh jesus"]={{path="chatsounds/autoadd/verbalsilence/oh lord jesus oh jesus.ogg",length=3.5488662131519275}}
@@ -218,6 +221,8 @@ L["would you like to play again"]={{path="chatsounds/autoadd/verbalsilence/would
 L["wow wow wee wa"]={{path="chatsounds/autoadd/verbalsilence/wow wow wee wa.ogg",length=1.2266439909297051}}
 L["wrong sir wrong"]={{path="chatsounds/autoadd/verbalsilence/wrong sir wrong.ogg",length=2.3951473922902493}}
 L["xbox achievement"]={{path="chatsounds/autoadd/verbalsilence/xbox achievement.ogg",length=0.27394557823129251}}
+L["yeah fuck those guys and their shit ass game"]={{path="chatsounds/autoadd/verbalsilence/yeah fuck those guys and their shit ass game.ogg",length=5.4519274376417233}}
+L["yeah shoot them ducks yeah f that duck in the ass yeehaw"]={{path="chatsounds/autoadd/verbalsilence/yeah shoot them ducks yeah f that duck in the ass yeehaw.ogg",length=6.6538548752834465}}
 L["yee"]={{path="chatsounds/autoadd/verbalsilence/yee.ogg",length=1.3002721088435374}}
 L["you are a smelly pirate hooker"]={{path="chatsounds/autoadd/verbalsilence/you are a smelly pirate hooker.ogg",length=1.7750113378684806}}
 L["you are technically correct"]={{path="chatsounds/autoadd/verbalsilence/you are technically correct.ogg",length=1.5506575963718821}}
