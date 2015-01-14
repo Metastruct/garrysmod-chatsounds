@@ -9,6 +9,7 @@ L["dingdingding yooo ding ding ding"]={{path="chatsounds/autoadd/suchipi/dingdin
 L["ea games"]={{path="chatsounds/autoadd/suchipi/ea games.ogg",length=0.96403628117913831}}
 L["gamecubestartup"]={{path="chatsounds/autoadd/suchipi/gamecubestartup/1.ogg",length=4.8181859410430841},{path="chatsounds/autoadd/suchipi/gamecubestartup/2.ogg",length=5.0757369614512475},{path="chatsounds/autoadd/suchipi/gamecubestartup/3.ogg",length=5.5909297052154194}}
 L["hello you have a collect call from"]={{path="chatsounds/autoadd/suchipi/hello you have a collect call from.ogg",length=2.8652154195011339}}
+L["in the event of an emergency my floatation device can be used as an ass"]={{path="chatsounds/autoadd/suchipi/in the event of an emergency my floatation device can be used as an ass.ogg",length=3.718503401360544}}
 L["john cena"]={{path="chatsounds/autoadd/suchipi/john cena.ogg",length=2.3514512471655329}}
 L["llleeetttmmmeeegggeeetttaaalllooooookkkaaatttyyyooouuummmaaannn"]={{path="chatsounds/autoadd/suchipi/llleeetttmmmeeegggeeetttaaalllooooookkkaaatttyyyooouuummmaaannn.ogg",length=4.411428571428571}}
 L["phoneringing"]={{path="chatsounds/autoadd/suchipi/phoneringing.ogg",length=2.3712244897959183}}
