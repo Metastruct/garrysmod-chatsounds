@@ -119,6 +119,7 @@ L["i wanna be on you"]={{path="chatsounds/autoadd/verbalsilence/i wanna be on yo
 L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i wasnt talking about spaghetti.ogg",length=1.2800907029478459}}
 L["idk wth youre feeding him but he is too damn big"]={{path="chatsounds/autoadd/verbalsilence/idk wth youre feeding him but he is too damn big.ogg",length=3.2221541950113379}}
 L["if you can dodge a wrench you can dodge a ball"]={{path="chatsounds/autoadd/verbalsilence/if you can dodge a wrench you can dodge a ball.ogg",length=2.7797052154195012}}
+L["illuminati confirmed"]={{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 1.ogg",length=1.4779365079365079},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 2.ogg",length=1.1495238095238096},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 3.ogg",length=0.96886621315192745},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 4.ogg",length=1.1166666666666667}}
 L["im in me mums car"]={{path="chatsounds/autoadd/verbalsilence/im in me mums car.ogg",length=1.9936734693877551}}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735283446712018}}
 L["in the event of an emergency my ass can be used as a floatation device"]={{path="chatsounds/autoadd/verbalsilence/in the event of an emergency my ass can be used as a floatation device.ogg",length=3.7717460317460318}}
@@ -174,6 +175,7 @@ L["rogen laugh"]={{path="chatsounds/autoadd/verbalsilence/rogen laugh.ogg",lengt
 L["rubbing sticks and stones together making sparks ignite and the thought of loving you is getting so exciting"]={{path="chatsounds/autoadd/verbalsilence/rubbing sticks and stones together making sparks ignite and the thought of loving you is getting so exciting.ogg",length=6.1165759637188213}}
 L["russian"]={{path="chatsounds/autoadd/verbalsilence/russian.ogg",length=0.70798185941043079}}
 L["sad trombone"]={{path="chatsounds/autoadd/verbalsilence/sad trombone.ogg",length=3.3278004535147394}}
+L["saxroll"]={{path="chatsounds/autoadd/verbalsilence/saxroll.ogg",length=7.3949206349206351}}
 L["shadup"]={{path="chatsounds/autoadd/verbalsilence/shadup.ogg",length=0.82390022675736962}}
 L["shadup2"]={{path="chatsounds/autoadd/verbalsilence/shadup2.ogg",length=0.49346938775510202}}
 L["shut up baby i know it"]={{path="chatsounds/autoadd/verbalsilence/shut up baby i know it.ogg",length=1.0996598639455781}}
