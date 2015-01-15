@@ -193,6 +193,7 @@ L["thats a huge bitch"]={{path="chatsounds/autoadd/verbalsilence/thats a huge bi
 L["thats all for now"]={{path="chatsounds/autoadd/verbalsilence/thats all for now.ogg",length=0.74294784580498863}}
 L["the best kind of correct"]={{path="chatsounds/autoadd/verbalsilence/the best kind of correct.ogg",length=1.6212698412698412}}
 L["they cant have my brand"]={{path="chatsounds/autoadd/verbalsilence/they cant have my brand.ogg",length=1.7503628117913832}}
+L["they played us like a damn fiddle"]={{path="chatsounds/autoadd/verbalsilence/they played us like a damn fiddle.ogg",length=2.5128798185941044}}
 L["thinking of yous working up my appetite looking foward to a little afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/thinking of yous working up my appetite looking foward to a little afternoon delight.ogg",length=6.068253968253968}}
 L["this castle is in unacceptable condition"]={{path="chatsounds/autoadd/verbalsilence/this castle is in unacceptable condition.ogg",length=6.9860997732426302}}
 L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/this is giving me a dragonboner.ogg",length=1.7013605442176871}}
