@@ -7,7 +7,7 @@ L["but it too has been modified to fuck"]={{path="chatsounds/autoadd/fuckingmach
 L["can you guess what i have in my hand"]={{path="chatsounds/autoadd/fuckingmachines/can you guess what i have in my hand.ogg",length=2.0204988662131518}}
 L["can you guess what this is"]={{path="chatsounds/autoadd/fuckingmachines/can you guess what this is.ogg",length=1.4816780045351474}}
 L["citizen"]={{path="chatsounds/autoadd/fuckingmachines/citizen.ogg",length=0.74782312925170069}}
-L["correcf"]={{path="chatsounds/autoadd/fuckingmachines/correcf.ogg",length=0.67349206349206348}}
+L["correct"]={{path="chatsounds/autoadd/fuckingmachines/correct.ogg",length=0.67349206349206348}}
 L["do you hear them"]={{path="chatsounds/autoadd/fuckingmachines/do you hear them.ogg",length=0.93070294784580498}}
 L["drillsound"]={{path="chatsounds/autoadd/fuckingmachines/drillsound.ogg",length=0.83054421768707487}}
 L["everything in this room has been modified to fuck"]={{path="chatsounds/autoadd/fuckingmachines/everything in this room has been modified to fuck.ogg",length=2.8111337868480724}}
