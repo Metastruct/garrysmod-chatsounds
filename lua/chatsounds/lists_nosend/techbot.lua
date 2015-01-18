@@ -88,7 +88,7 @@ L["top"]={{path="chatsounds/autoadd/techbot/top.ogg",length=0.2365532879818594}}
 L["turpa"]={{path="chatsounds/autoadd/techbot/turpa.ogg",length=0.5839229024943311}}
 L["ughghghghghgh"]={{path="chatsounds/autoadd/techbot/ughghghghghgh.ogg",length=8.8961451247165542}}
 L["ukgamer"]={{path="chatsounds/autoadd/techbot/ukgamer/ukgamer.ogg",length=1.320045351473923},{path="chatsounds/autoadd/techbot/ukgamer/ukgamer2.ogg",length=1.3800453514739228}}
-L["vittu"]={{path="chatsounds/autoadd/techbot/vittu/vittu 2.ogg",length=1.6718367346938776},{path="chatsounds/autoadd/techbot/vittu/vittu.ogg",length=0.68328798185941042}}
+L["vittu"]={{path="chatsounds/autoadd/techbot/vittu/vittu 2.ogg",length=1.6718367346938776},{path="chatsounds/autoadd/techbot/vittu/vittu.ogg",length=0.54000000000000004}}
 L["vittua"]={{path="chatsounds/autoadd/techbot/vittua.ogg",length=0.52448979591836731}}
 L["voi helvetin perse kaikki menee pain vittua saatana"]={{path="chatsounds/autoadd/techbot/voi helvetin perse kaikki menee pain vittua saatana.ogg",length=4.4814512471655332}}
 L["voi helvetin"]={{path="chatsounds/autoadd/techbot/voi helvetin.ogg",length=0.76351473922902491}}
