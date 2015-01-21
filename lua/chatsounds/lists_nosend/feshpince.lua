@@ -29,6 +29,7 @@ L["eh eh eh eh"]={{path="chatsounds/autoadd/feshpince/eh eh eh eh.ogg",length=0.
 L["eheiaeheia"]={{path="chatsounds/autoadd/feshpince/eheiaeheia.ogg",length=2.3321541950113378}}
 L["fuck you father fuck you nigga your phone"]={{path="chatsounds/autoadd/feshpince/fuck you father fuck you nigga your phone.ogg",length=2.6615873015873017}}
 L["fuck you nigga"]={{path="chatsounds/autoadd/feshpince/fuck you nigga.ogg",length=0.78657596371882088}}
+L["geofferyno"]={{path="chatsounds/autoadd/feshpince/geofferyno.ogg",length=0.71401360544217685}}
 L["get will some cookies"]={{path="chatsounds/autoadd/feshpince/get will some cookies.ogg",length=1.4744671201814059}}
 L["haauh"]={{path="chatsounds/autoadd/feshpince/haauh.ogg",length=0.76770975056689339}}
 L["heheheh"]={{path="chatsounds/autoadd/feshpince/heheheh.ogg",length=0.97959183673469385}}
@@ -46,8 +47,8 @@ L["more after this"]={{path="chatsounds/autoadd/feshpince/more after this.ogg",l
 L["mum"]={{path="chatsounds/autoadd/feshpince/mum.ogg",length=0.54421768707482998}}
 L["my mum my mum"]={{path="chatsounds/autoadd/feshpince/my mum my mum.ogg",length=2.2566893424036283}}
 L["nehefefefnehefef"]={{path="chatsounds/autoadd/feshpince/nehefefefnehefef.ogg",length=3.1042176870748301}}
-L["no"]={{path="chatsounds/autoadd/feshpince/no/no Copy.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/feshpince/no/no.ogg",length=0.71401360544217685}}
 L["no oh oh"]={{path="chatsounds/autoadd/feshpince/no oh oh.ogg",length=1.3757823129251701}}
+L["no"]={{path="chatsounds/autoadd/feshpince/no.ogg",length=0.48036281179138324}}
 L["nope nope nope nononope"]={{path="chatsounds/autoadd/feshpince/nope nope nope nononope.ogg",length=1.7734240362811791}}
 L["not available"]={{path="chatsounds/autoadd/feshpince/not available.ogg",length=1.2263038548752834}}
 L["now if youll exuuuuse me"]={{path="chatsounds/autoadd/feshpince/now if youll exuuuuse me.ogg",length=1.8024489795918368}}
