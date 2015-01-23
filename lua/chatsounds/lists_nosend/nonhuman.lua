@@ -11,6 +11,7 @@ L["mlgbass"]={{path="chatsounds/autoadd/nonhuman/mlgbass/bass1.OGG",length=1.685
 L["mom get the camera mommy mommy mommy oh my god"]={{path="chatsounds/autoadd/nonhuman/mom get the camera mommy mommy mommy oh my god.OGG",length=6.0123129251700682}}
 L["oh baby a triple"]={{path="chatsounds/autoadd/nonhuman/oh baby a triple.OGG",length=2.6122448979591835}}
 L["oh my fucking god"]={{path="chatsounds/autoadd/nonhuman/oh my fucking god.OGG",length=3.312018140589569}}
+L["pass the whiskey"]={{path="chatsounds/autoadd/nonhuman/pass the whiskey/passthewhiskey1.OGG",length=1.4338775510204083},{path="chatsounds/autoadd/nonhuman/pass the whiskey/passthewhiskey2.OGG",length=1.2324036281179138}}
 L["rapbattle"]={{path="chatsounds/autoadd/nonhuman/rapbattle.OGG",length=6.7404988662131515}}
 L["shut uuup"]={{path="chatsounds/autoadd/nonhuman/shut uuup.OGG",length=1.3495238095238096}}
 L["thats right get noscoped get noscoped"]={{path="chatsounds/autoadd/nonhuman/thats right get noscoped get noscoped.OGG",length=4.4962131519274378}}
