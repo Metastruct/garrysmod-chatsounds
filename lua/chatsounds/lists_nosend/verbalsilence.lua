@@ -117,6 +117,7 @@ L["i sure can i was sitting on my front porch grabbed a beer and"]={{path="chats
 L["i wanna be friends with it"]={{path="chatsounds/autoadd/verbalsilence/i wanna be friends with it.ogg",length=2.1236961451247165}}
 L["i wanna be on you"]={{path="chatsounds/autoadd/verbalsilence/i wanna be on you.ogg",length=1.6180498866213151}}
 L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i wasnt talking about spaghetti.ogg",length=1.2800907029478459}}
+L["i would if i could bitch"]={{path="chatsounds/autoadd/verbalsilence/i would if i could bitch.ogg",length=3.03702947845805}}
 L["idk wth youre feeding him but he is too damn big"]={{path="chatsounds/autoadd/verbalsilence/idk wth youre feeding him but he is too damn big.ogg",length=3.2221541950113379}}
 L["if you can dodge a wrench you can dodge a ball"]={{path="chatsounds/autoadd/verbalsilence/if you can dodge a wrench you can dodge a ball.ogg",length=2.7797052154195012}}
 L["illuminati confirmed"]={{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 1.ogg",length=1.4779365079365079},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 2.ogg",length=1.1495238095238096},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 3.ogg",length=0.96886621315192745},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 4.ogg",length=1.1166666666666667}}
