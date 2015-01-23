@@ -40,8 +40,8 @@ L["how about"]={{path="chatsounds/autoadd/daftlad/how about.ogg",length=0.578208
 L["huh"]={{path="chatsounds/autoadd/daftlad/huh.ogg",length=0.34233560090702947}}
 L["i am real super sand"]={{path="chatsounds/autoadd/daftlad/i am real super sand.ogg",length=1.6540816326530612}}
 L["i am so peeved right now"]={{path="chatsounds/autoadd/daftlad/i am so peeved right now.ogg",length=1.5790702947845805}}
-L["if you dont make it out there like a couple of rodgers i say you patch up that gas leak"]={{path="chatsounds/autoadd/daftlad/if you dont make it out there like a couple of rodgers i say you patch up that gas leak.ogg",length=3.7002494331065758}}
 L["if youre calling me a son of a bitch you wouldnt be the first"]={{path="chatsounds/autoadd/daftlad/if youre calling me a son of a bitch you wouldnt be the first.ogg",length=3.217845804988662}}
+L["if youre done making out there like a couple of rodgers i say you patch up that gas leak"]={{path="chatsounds/autoadd/daftlad/if youre done making out there like a couple of rodgers i say you patch up that gas leak.ogg",length=3.7002494331065758}}
 L["ill be gobsmacked this is one fine trolley cart"]={{path="chatsounds/autoadd/daftlad/ill be gobsmacked this is one fine trolley cart.ogg",length=2.653514739229025}}
 L["im dead"]={{path="chatsounds/autoadd/daftlad/im dead.ogg",length=1.4715873015873016}}
 L["im not playing that frickin hurt"]={{path="chatsounds/autoadd/daftlad/im not playing that frickin hurt.ogg",length=1.7002721088435375}}
