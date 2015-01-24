@@ -78,6 +78,7 @@ L["so john freeman almost turned around but heard screaming like gordon so he we
 L["so john freeman shot the officer in the head and drove off thinking my brother is in trouble there"]={{path="chatsounds/autoadd/fulllifeconsequences/so john freeman shot the officer in the head and drove off thinking my brother is in trouble there.ogg",length=5.0378684807256233}}
 L["so john freeman went there to where gordon freeman was fighting"]={{path="chatsounds/autoadd/fulllifeconsequences/so john freeman went there to where gordon freeman was fighting.ogg",length=4.1617233560090705}}
 L["so they were at peace"]={{path="chatsounds/autoadd/fulllifeconsequences/so they were at peace.ogg",length=1.4995691609977324}}
+L["teleportaled"]={{path="chatsounds/autoadd/fulllifeconsequences/teleportaled.ogg",length=0.901655328798186}}
 L["thanks i could help bro"]={{path="chatsounds/autoadd/fulllifeconsequences/thanks i could help bro.ogg",length=1.8618367346938776}}
 L["that aliens and monsters were attacking his place"]={{path="chatsounds/autoadd/fulllifeconsequences/that aliens and monsters were attacking his place.ogg",length=3.5551473922902495}}
 L["the countrysides were nice"]={{path="chatsounds/autoadd/fulllifeconsequences/the countrysides were nice.ogg",length=2.1145578231292519}}
