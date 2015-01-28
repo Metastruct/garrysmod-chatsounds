@@ -11,8 +11,12 @@ L["ich mein versteht mich nicht falsch"]={{path="chatsounds/autoadd/KeyLimePie/i
 L["its a celebration"]={{path="chatsounds/autoadd/KeyLimePie/its a celebration.ogg",length=2.1754195011337867}}
 L["knackich"]={{path="chatsounds/autoadd/KeyLimePie/knackich/knackich1.ogg",length=0.6897278911564626},{path="chatsounds/autoadd/KeyLimePie/knackich/knackich2.ogg",length=0.62249433106575969}}
 L["little babys ice cream"]={{path="chatsounds/autoadd/KeyLimePie/little babys ice cream.ogg",length=1.5615419501133787}}
+L["prism is a dancer"]={{path="chatsounds/autoadd/KeyLimePie/prism is a dancer/prism is a dancer 1.ogg",length=1.6815419501133786},{path="chatsounds/autoadd/KeyLimePie/prism is a dancer/prism is a dancer 2.ogg",length=2.1178458049886619}}
+L["prism"]={{path="chatsounds/autoadd/KeyLimePie/prism.ogg",length=0.75011337868480721}}
 L["so ein scheiss"]={{path="chatsounds/autoadd/KeyLimePie/so ein scheiss.ogg",length=1.4237414965986395}}
 L["southpark"]={{path="chatsounds/autoadd/KeyLimePie/southpark.ogg",length=4.7600907029478456}}
 L["tief im westen"]={{path="chatsounds/autoadd/KeyLimePie/tief im westen/tief im westen 1.ogg",length=1.7066666666666668},{path="chatsounds/autoadd/KeyLimePie/tief im westen/tief im westen 2.ogg",length=3.0650340136054424},{path="chatsounds/autoadd/KeyLimePie/tief im westen/tief im westen 3.ogg",length=2.9605442176870747},{path="chatsounds/autoadd/KeyLimePie/tief im westen/tief im westen 4.ogg",length=1.7879365079365079},{path="chatsounds/autoadd/KeyLimePie/tief im westen/tief im westen 5.ogg",length=3.1114739229024941}}
 L["time to say good bye"]={{path="chatsounds/autoadd/KeyLimePie/time to say good bye.ogg",length=8.8003628117913824}}
+L["you can feel it everywhere"]={{path="chatsounds/autoadd/KeyLimePie/you can feel it everywhere.ogg",length=2.4827210884353743}}
+L["you can hear it you can feel it"]={{path="chatsounds/autoadd/KeyLimePie/you can hear it you can feel it.ogg",length=1.9656689342403628}}
 c.EndList()
