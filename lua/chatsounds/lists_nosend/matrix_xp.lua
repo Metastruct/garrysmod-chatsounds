@@ -26,6 +26,7 @@ L["oh hey cypher whats up"]={{path="chatsounds/autoadd/matrix_xp/oh hey cypher w
 L["ouh hey what are you doing ouh oouuh"]={{path="chatsounds/autoadd/matrix_xp/ouh hey what are you doing ouh oouuh.ogg",length=3.7812698412698413}}
 L["our free trial of kung fu is expired "]={{path="chatsounds/autoadd/matrix_xp/our free trial of kung fu is expired .ogg",length=2.3042176870748299}}
 L["progress bar is moving but the remaining time is going up"]={{path="chatsounds/autoadd/matrix_xp/progress bar is moving but the remaining time is going up.ogg",length=3.1482312925170066}}
+L["rrragh"]={{path="chatsounds/autoadd/matrix_xp/rrragh.ogg",length=1.1126984126984127}}
 L["so you are to trust noone"]={{path="chatsounds/autoadd/matrix_xp/so you are to trust noone.ogg",length=1.9665986394557824}}
 L["sooner or later we all encounter an error neo you will have to make a choice to send an error report"]={{path="chatsounds/autoadd/matrix_xp/sooner or later we all encounter an error neo you will have to make a choice to send an error report.ogg",length=17.792222222222222}}
 L["sooner or later"]={{path="chatsounds/autoadd/matrix_xp/sooner or later.ogg",length=1.5361451247165532}}

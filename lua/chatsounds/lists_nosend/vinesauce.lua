@@ -122,9 +122,13 @@ L["put your headphones or your speakers on the loudest volume possible"]={{path=
 L["r pizza delivery"]={{path="chatsounds/autoadd/vinesauce/r pizza delivery.ogg",length=1.2553514739229026}}
 L["right em in the wrong hole"]={{path="chatsounds/autoadd/vinesauce/right em in the wrong hole.ogg",length=38.138775510204084}}
 L["rp"]={{path="chatsounds/autoadd/vinesauce/rp/rp.ogg",length=0.60492063492063497},{path="chatsounds/autoadd/vinesauce/rp/rp2.ogg",length=0.71875283446712013},{path="chatsounds/autoadd/vinesauce/rp/rp3.ogg",length=1.1358049886621315}}
+L["secret is in the treet"]={{path="chatsounds/autoadd/vinesauce/secret is in the treet.ogg",length=1.3172562358276645}}
 L["shoot him in the face pls"]={{path="chatsounds/autoadd/vinesauce/shoot him in the face pls.ogg",length=1.4233560090702948}}
 L["snoop doggie dog in the house"]={{path="chatsounds/autoadd/vinesauce/snoop doggie dog in the house.ogg",length=11.897777777777778}}
 L["so i had no choice"]={{path="chatsounds/autoadd/vinesauce/so i had no choice.ogg",length=1.1712925170068027}}
+L["spaalonebabuguuscooties"]={{path="chatsounds/autoadd/vinesauce/spaalonebabuguuscooties.ogg",length=1.7189569160997733}}
+L["spay me for the dooret"]={{path="chatsounds/autoadd/vinesauce/spay me for the dooret.ogg",length=1.4013378684807256}}
+L["spay me"]={{path="chatsounds/autoadd/vinesauce/spay me.ogg",length=1.1210657596371882}}
 L["spiritu sanctus sanctum amen forever"]={{path="chatsounds/autoadd/vinesauce/spiritu sanctus sanctum amen forever.ogg",length=3.9753061224489796}}
 L["squarerrrr"]={{path="chatsounds/autoadd/vinesauce/squarerrrr.ogg",length=1.7874603174603174}}
 L["taking it up the butt like a real thug"]={{path="chatsounds/autoadd/vinesauce/taking it up the butt like a real thug.ogg",length=3.4288208616780045}}
@@ -157,6 +161,7 @@ L["well this sux"]={{path="chatsounds/autoadd/vinesauce/well this sux.ogg",lengt
 L["were going to sit down and work this out together"]={{path="chatsounds/autoadd/vinesauce/were going to sit down and work this out together.ogg",length=2.5950340136054422}}
 L["what anal sex"]={{path="chatsounds/autoadd/vinesauce/what anal sex.ogg",length=1.0609750566893423}}
 L["what do you mean f the policeman they keep you safe"]={{path="chatsounds/autoadd/vinesauce/what do you mean f the policeman they keep you safe.ogg",length=3.5762131519274378}}
+L["what is happening"]={{path="chatsounds/autoadd/vinesauce/what is happening.ogg",length=1.2331746031746031}}
 L["what is your name pls"]={{path="chatsounds/autoadd/vinesauce/what is your name pls.ogg",length=1.3842403628117914}}
 L["what you doing"]={{path="chatsounds/autoadd/vinesauce/what you doing.ogg",length=0.7116780045351474}}
 L["which guy which guy tell me the guy"]={{path="chatsounds/autoadd/vinesauce/which guy which guy tell me the guy.ogg",length=2.010498866213152}}

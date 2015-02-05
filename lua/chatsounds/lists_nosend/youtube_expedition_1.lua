@@ -15,7 +15,7 @@ L["gotcha scared ya"]={{path="chatsounds/autoadd/youtube_expedition_1/gotcha sca
 L["hey everybody im looking at gay porno"]={{path="chatsounds/autoadd/youtube_expedition_1/hey everybody im looking at gay porno.ogg",length=3.6712698412698415}}
 L["i must break you"]={{path="chatsounds/autoadd/youtube_expedition_1/i must break you.ogg",length=1.3846258503401361}}
 L["im the one that asked for the butter"]={{path="chatsounds/autoadd/youtube_expedition_1/im the one that asked for the butter.ogg",length=1.7308616780045352}}
-L["its free real estate"]={{path="chatsounds/autoadd/youtube_expedition_1/its free real estate.ogg",length=1.5189569160997733}}
+L["its free real estate"]={{path="chatsounds/autoadd/youtube_expedition_1/its free real estate/its free real estate.ogg",length=1.5189569160997733},{path="chatsounds/autoadd/youtube_expedition_1/its free real estate/its free real estate2.ogg",length=1.0673015873015872}}
 L["money de la krabs"]={{path="chatsounds/autoadd/youtube_expedition_1/money de la krabs.ogg",length=41.31487528344671}}
 L["mr hot whipz"]={{path="chatsounds/autoadd/youtube_expedition_1/mr hot whipz.ogg",length=4.7362585034013609}}
 L["norway fuck you its our time"]={{path="chatsounds/autoadd/youtube_expedition_1/norway fuck you its our time.ogg",length=2.0768480725623584}}
