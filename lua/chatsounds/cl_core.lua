@@ -290,6 +290,7 @@ function chatsounds.InitializeLists(force)
 		end
 		
 		for _, list in pairs(dir) do
+			yieldx(inco,5,"1")
 			if not file.Exists("lua/chatsounds/lists_nosend/" .. list .. ".lua", "GAME") then -- LUA wont work here
 				if list:Left(2) == "__" then continue end
 				c.StartList(list)
@@ -326,13 +327,13 @@ function chatsounds.InitializeLists(force)
 					
 				for _, set in pairs(file.Find("chatsounds/lists_send/" .. game .. "/*.lua", "LUA")) do
 					IncludeClientFile("chatsounds/lists_send/" .. game .. "/" .. set)
-					yieldx(inco,5,"a")
+					yieldx(inco,5,"2")
 				end
 			end
 		end
 		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LCL")) do
 			include("chatsounds/lists_nosend/" .. set)
-			yieldx(inco,10,"b")
+			yieldx(inco,10,"3")
 		end
 
 	_G.c = nil
@@ -382,7 +383,7 @@ function chatsounds.PrepareList()
 	for set_name, set in pairs(c.List) do
 		table.insert(c.SetNames, set_name)
 		c.SortedList2[set_name] = c.SortedList2[set_name] or {}
-		yieldx(inco,10,"c")
+		yieldx(inco,10,"4")
 		for trigger, data in pairs(table.Copy(set)) do
 
 			trigger = trigger:gsub("?", "")
@@ -398,17 +399,17 @@ function chatsounds.PrepareList()
 
 	for set in pairs(c.SortedList2) do
 		c.SortedList2[set] = table.ClearKeys(c.SortedList2[set])
-		yieldx(inco,15,"d")
+		yieldx(inco,15,"5")
 		table.sort(c.SortedList2[set], function(a, b) return #a.key > #b.key end)
 	end
 
-	yieldx(inco,0,"e")
+	yieldx(inco,0,"6")
 	local copied = table.Copy(c.SortedListKeys)
-	yieldx(inco,0,"f")
+	yieldx(inco,0,"7")
 	c.SortedList = table.ClearKeys(copied)
-	yieldx(inco,0,"g")
+	yieldx(inco,0,"8")
 	table.sort(c.SortedList, function(a, b) return #a.key > #b.key end)
-	yieldx(inco,0,"h")
+	yieldx(inco,0,"9")
 end
 
 function chatsounds.AddSound(set, key, data)
@@ -1542,7 +1543,7 @@ local function Initialize(force)
 		local secs=len%60
 		
 		surface.SetFont"DermaDefault"
-		local txt = string.format("Stage: %s/h Time: %.2d:%.2d.%.3d",lastn,mins,secs,frac)
+		local txt = string.format("Stage: %s/9 Time: %.2d:%.2d.%.3d",lastn,mins,secs,frac)
 		local tw2,th2=surface.GetTextSize(txt)
 		surface.SetTextPos(tx,ty+th)
 		surface.DrawText(txt)
