@@ -140,10 +140,10 @@ function chatsounds.PlayerSay(ply, text)
 end
 hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
 
-function chatsounds.SaySound(ply, _, args)
+function chatsounds.SaySound(ply, _, args,line)
 	if not IsValid(ply) then return end
 
-	chatsounds.Say(ply, string.Implode(" ", args))
+	chatsounds.Say(ply, line)
 
 	chatsounds.GenerateNewSeed()
 end
