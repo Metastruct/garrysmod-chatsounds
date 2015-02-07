@@ -1,6 +1,7 @@
 c.StartList("gigispahz")
 L["aaaaaahhcht"]={{path="chatsounds/autoadd/gigispahz/aaaaaahhcht.ogg",length=2.4405668934240361}}
 L["aaaaaugh"]={{path="chatsounds/autoadd/gigispahz/aaaaaugh/aaaaaugh1.ogg",length=1.2482539682539682},{path="chatsounds/autoadd/gigispahz/aaaaaugh/aaaaaugh2.ogg",length=1.258390022675737},{path="chatsounds/autoadd/gigispahz/aaaaaugh/aaaaaugh3.ogg",length=0.70022675736961448}}
+L["bababooey"]={{path="chatsounds/autoadd/gigispahz/bababooey.ogg",length=0.669047619047619}}
 L["decapitation of the butt"]={{path="chatsounds/autoadd/gigispahz/decapitation of the butt.ogg",length=1.8380045351473924}}
 L["dont interrupt me when im talking i can smell beans on your breath"]={{path="chatsounds/autoadd/gigispahz/dont interrupt me when im talking i can smell beans on your breath.ogg",length=4.9554195011337869}}
 L["grr"]={{path="chatsounds/autoadd/gigispahz/grr.ogg",length=1.3326077097505669}}
