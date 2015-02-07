@@ -4,9 +4,12 @@ L["3"]={{path="chatsounds/autoadd/techbot/3.ogg",length=0.87342403628117915}}
 L["4"]={{path="chatsounds/autoadd/techbot/4.ogg",length=0.87340136054421769}}
 L["5 4 3 1 offblast"]={{path="chatsounds/autoadd/techbot/5 4 3 1 offblast.ogg",length=4.8607256235827663}}
 L["5"]={{path="chatsounds/autoadd/techbot/5.ogg",length=0.87340136054421769}}
+L["matteo renzi - discorso in inglese (sottotitolato)-b0kjzeh2jn8"]={{path="chatsounds/autoadd/techbot/Matteo Renzi - Discorso in inglese (sottotitolato)-B0KJZEH2jn8.ogg",length=72.423038548752828}}
 L["no nyt vittu nyt turpa kiinni saatana"]={{path="chatsounds/autoadd/techbot/NO NYT VITTU NYT TURPA KIINNI SAATANA.ogg",length=4.0634920634920633}}
+L["a genius"]={{path="chatsounds/autoadd/techbot/a genius.ogg",length=0.62950113378684802}}
 L["aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/aaa aaaahhh.ogg",length=2.8662131519274379}}
 L["abcdefjii"]={{path="chatsounds/autoadd/techbot/abcdefjii.ogg",length=2.01578231292517}}
+L["able"]={{path="chatsounds/autoadd/techbot/able.ogg",length=0.76249433106575959}}
 L["ahgarbulagabah my eyes my eyes aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah my eyes my eyes aaa aaaahhh.ogg",length=3.4060770975056691}}
 L["ahgarbulagabah my eyes"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah my eyes.ogg",length=1.4222222222222223}}
 L["ahgarbulagabah"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah.ogg",length=0.5485714285714286}}
@@ -19,6 +22,8 @@ L["bigshake"]={{path="chatsounds/autoadd/techbot/bigshake/1.ogg",length=2.799999
 L["but"]={{path="chatsounds/autoadd/techbot/but.ogg",length=0.36827664399092969}}
 L["click"]={{path="chatsounds/autoadd/techbot/click.ogg",length=0.63709750566893419}}
 L["countdown"]={{path="chatsounds/autoadd/techbot/countdown.ogg",length=4.0228571428571431}}
+L["ddddd"]={{path="chatsounds/autoadd/techbot/ddddd.ogg",length=0.97798185941043081}}
+L["dddddde result are not good"]={{path="chatsounds/autoadd/techbot/dddddde result are not good.ogg",length=2.3632879818594104}}
 L["dick"]={{path="chatsounds/autoadd/techbot/dick.ogg",length=0.71990929705215423}}
 L["dicks"]={{path="chatsounds/autoadd/techbot/dicks.ogg",length=0.57136054421768712}}
 L["diiiiiiick"]={{path="chatsounds/autoadd/techbot/diiiiiiick.ogg",length=2.8796371882086169}}
@@ -35,6 +40,7 @@ L["fuck"]={{path="chatsounds/autoadd/techbot/fuck.ogg",length=0.7981859410430839
 L["fucking damn hell cockwhore asshole cunt shitballs"]={{path="chatsounds/autoadd/techbot/fucking damn hell cockwhore asshole cunt shitballs.ogg",length=3.2522448979591836}}
 L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",length=2.8923356009070296}}
 L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.3975510204081634}}
+L["genius"]={{path="chatsounds/autoadd/techbot/genius.ogg",length=0.49160997732426304}}
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.7501133786848073}}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.80253968253968255}}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.77902494331065764}}
@@ -49,6 +55,7 @@ L["is"]={{path="chatsounds/autoadd/techbot/is.ogg",length=0.29315192743764173}}
 L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=3.4409070294784581}}
 L["kek"]={{path="chatsounds/autoadd/techbot/kek.ogg",length=0.3831292517006803}}
 L["kiinni"]={{path="chatsounds/autoadd/techbot/kiinni.ogg",length=0.62907029478458054}}
+L["l lessons buhinibnmbebetto licence"]={{path="chatsounds/autoadd/techbot/l lessons buhinibnmbebetto licence.ogg",length=3.3190929705215417}}
 L["magic"]={{path="chatsounds/autoadd/techbot/magic.ogg",length=0.70240362811791379}}
 L["melon"]={{path="chatsounds/autoadd/techbot/melon.ogg",length=0.37750566893424037}}
 L["menee"]={{path="chatsounds/autoadd/techbot/menee.ogg",length=0.28217687074829934}}
@@ -63,6 +70,8 @@ L["no nyt"]={{path="chatsounds/autoadd/techbot/no nyt.ogg",length=0.427414965986
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.89832199546485259}}
 L["nobodycares"]={{path="chatsounds/autoadd/techbot/nobodycares.ogg",length=2.1347845804988661}}
 L["not the bees aaaaa"]={{path="chatsounds/autoadd/techbot/not the bees aaaaa.ogg",length=3.287074829931973}}
+L["now is the time of lunch er"]={{path="chatsounds/autoadd/techbot/now is the time of lunch er.ogg",length=2.7210430839002266}}
+L["now is the time to to to eat"]={{path="chatsounds/autoadd/techbot/now is the time to to to eat.ogg",length=2.0781859410430839}}
 L["offblast"]={{path="chatsounds/autoadd/techbot/offblast.ogg",length=0.89238095238095239}}
 L["oh my"]={{path="chatsounds/autoadd/techbot/oh my.ogg",length=1.3931972789115645}}
 L["oh yeah"]={{path="chatsounds/autoadd/techbot/oh yeah/1.ogg",length=3.0182312925170067},{path="chatsounds/autoadd/techbot/oh yeah/2.ogg",length=2.0384580498866214}}
@@ -76,6 +85,7 @@ L["saatana"]={{path="chatsounds/autoadd/techbot/saatana/saatana 2.ogg",length=0.
 L["sad violin"]={{path="chatsounds/autoadd/techbot/sad violin.ogg",length=22.608027210884355}}
 L["scared"]={{path="chatsounds/autoadd/techbot/scared.ogg",length=2.3147392290249433}}
 L["seriously do it"]={{path="chatsounds/autoadd/techbot/seriously do it.ogg",length=2.0302947845804988}}
+L["shish"]={{path="chatsounds/autoadd/techbot/shish.ogg",length=0.5}}
 L["skrillfeld"]={{path="chatsounds/autoadd/techbot/skrillfeld.ogg",length=2.4569614512471656}}
 L["snort"]={{path="chatsounds/autoadd/techbot/snort/snort.ogg",length=0.1982766439909297},{path="chatsounds/autoadd/techbot/snort/snort2.ogg",length=0.20172335600907029}}
 L["spaceship"]={{path="chatsounds/autoadd/techbot/spaceship.ogg",length=2.1797732426303855}}
