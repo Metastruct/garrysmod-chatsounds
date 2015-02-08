@@ -4,7 +4,6 @@ L["3"]={{path="chatsounds/autoadd/techbot/3.ogg",length=0.87342403628117915}}
 L["4"]={{path="chatsounds/autoadd/techbot/4.ogg",length=0.87340136054421769}}
 L["5 4 3 1 offblast"]={{path="chatsounds/autoadd/techbot/5 4 3 1 offblast.ogg",length=4.8607256235827663}}
 L["5"]={{path="chatsounds/autoadd/techbot/5.ogg",length=0.87340136054421769}}
-L["matteo renzi - discorso in inglese (sottotitolato)-b0kjzeh2jn8"]={{path="chatsounds/autoadd/techbot/Matteo Renzi - Discorso in inglese (sottotitolato)-B0KJZEH2jn8.ogg",length=72.423038548752828}}
 L["no nyt vittu nyt turpa kiinni saatana"]={{path="chatsounds/autoadd/techbot/NO NYT VITTU NYT TURPA KIINNI SAATANA.ogg",length=4.0634920634920633}}
 L["a genius"]={{path="chatsounds/autoadd/techbot/a genius.ogg",length=0.62950113378684802}}
 L["aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/aaa aaaahhh.ogg",length=2.8662131519274379}}
