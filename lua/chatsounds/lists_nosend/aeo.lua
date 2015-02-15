@@ -15,6 +15,7 @@ L["i may be an idiot but im an idiot"]={{path="chatsounds/autoadd/aeo/i may be a
 L["not that much fun aaaaaaaaa"]={{path="chatsounds/autoadd/aeo/not that much fun aaaaaaaaa.ogg",length=3.9938321995464854}}
 L["not that much fun"]={{path="chatsounds/autoadd/aeo/not that much fun.ogg",length=0.78947845804988659}}
 L["pay me i care"]={{path="chatsounds/autoadd/aeo/pay me i care.ogg",length=1.1029478458049886}}
+L["robswireprinter"]={{path="chatsounds/autoadd/aeo/robswireprinter.ogg",length=10.889614512471656}}
 L["suck a cheetahs dick"]={{path="chatsounds/autoadd/aeo/suck a cheetahs dick.ogg",length=47.431723356009073}}
 L["that is not the issue"]={{path="chatsounds/autoadd/aeo/that is not the issue.ogg",length=0.99555555555555553}}
 L["that is the issue"]={{path="chatsounds/autoadd/aeo/that is the issue.ogg",length=0.79673469387755103}}
