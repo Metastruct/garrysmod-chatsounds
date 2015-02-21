@@ -35,6 +35,8 @@ L["erotic"]={{path="chatsounds/autoadd/techbot/erotic.ogg",length=1.048140589569
 L["fack"]={{path="chatsounds/autoadd/techbot/fack.ogg",length=0.31637188208616779}}
 L["faens jarvla helvetes kukhore rarvhol fitte drittballe"]={{path="chatsounds/autoadd/techbot/faens jarvla helvetes kukhore rarvhol fitte drittballe.ogg",length=5.571496598639456}}
 L["ffffuffff"]={{path="chatsounds/autoadd/techbot/ffffuffff.ogg",length=2.4801814058956917}}
+L["fringe full"]={{path="chatsounds/autoadd/techbot/fringe full.ogg",length=32.208979591836737}}
+L["fringe"]={{path="chatsounds/autoadd/techbot/fringe.ogg",length=7.0472108843537411}}
 L["fuck"]={{path="chatsounds/autoadd/techbot/fuck.ogg",length=0.79818594104308394}}
 L["fucking damn hell cockwhore asshole cunt shitballs"]={{path="chatsounds/autoadd/techbot/fucking damn hell cockwhore asshole cunt shitballs.ogg",length=3.2522448979591836}}
 L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",length=2.8923356009070296}}
