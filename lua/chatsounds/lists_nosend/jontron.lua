@@ -1,6 +1,7 @@
 c.StartList("jontron")
 L["aaarin"]={{path="chatsounds/autoadd/jontron/aaarin.ogg",length=2.2427210884353741}}
 L["ah fuckin who likes the old mario games amirite"]={{path="chatsounds/autoadd/jontron/ah fuckin who likes the old mario games amirite.ogg",length=2.4572562358276646}}
+L["am i dead yet"]={{path="chatsounds/autoadd/jontron/am i dead yet.ogg",length=0.86303854875283448}}
 L["am i threatening you are you threatening me whose the threat here"]={{path="chatsounds/autoadd/jontron/am i threatening you are you threatening me whose the threat here.ogg",length=3.793968253968254}}
 L["and its got platforming"]={{path="chatsounds/autoadd/jontron/and its got platforming.ogg",length=1.7449886621315194}}
 L["arin dont leave arin dont"]={{path="chatsounds/autoadd/jontron/arin dont leave arin dont.ogg",length=5.1041496598639453}}
@@ -12,6 +13,8 @@ L["brb"]={{path="chatsounds/autoadd/jontron/brb.ogg",length=0.6636507936507936}}
 L["but look what were dealing with man"]={{path="chatsounds/autoadd/jontron/but look what were dealing with man.ogg",length=2.3394104308390022}}
 L["caaaaaaaaaaaaaaaars"]={{path="chatsounds/autoadd/jontron/caaaaaaaaaaaaaaaars.ogg",length=1.9069387755102041}}
 L["cmere banny"]={{path="chatsounds/autoadd/jontron/cmere banny.ogg",length=1.130408163265306}}
+L["did i hallucinated all that didnt i"]={{path="chatsounds/autoadd/jontron/did i hallucinated all that didnt i.ogg",length=1.6683219954648527}}
+L["fuck it"]={{path="chatsounds/autoadd/jontron/fuck it.ogg",length=0.53514739229024944}}
 L["fuck you"]={{path="chatsounds/autoadd/jontron/fuck you.ogg",length=1.2538775510204081}}
 L["i aint gonna take that sitting down"]={{path="chatsounds/autoadd/jontron/i aint gonna take that sitting down.ogg",length=3.3459183673469388}}
 L["i aint havin that shit"]={{path="chatsounds/autoadd/jontron/i aint havin that shit.ogg",length=3.0040816326530613}}
@@ -25,6 +28,8 @@ L["im just playing with you it doesnt do jack shit why is it here"]={{path="chat
 L["im superman i believe i can fly"]={{path="chatsounds/autoadd/jontron/im superman i believe i can fly.ogg",length=8.0235600907029472}}
 L["is that a fn poop rat"]={{path="chatsounds/autoadd/jontron/is that a fn poop rat.ogg",length=1.0778458049886621}}
 L["is that a poop rat"]={{path="chatsounds/autoadd/jontron/is that a poop rat.ogg",length=0.81916099773242634}}
+L["its all fucking awful its all of it all of it and every single of them sucks"]={{path="chatsounds/autoadd/jontron/its all fucking awful its all of it all of it and every single of them sucks.ogg",length=5.3227891156462581}}
+L["its its awful"]={{path="chatsounds/autoadd/jontron/its its awful.ogg",length=2.0353514739229026}}
 L["jon madden"]={{path="chatsounds/autoadd/jontron/jon madden.ogg",length=18.912653061224489}}
 L["jonlaughconker"]={{path="chatsounds/autoadd/jontron/jonlaughconker.ogg",length=13.418231292517007}}
 L["jontronmariocitysimulatorrage"]={{path="chatsounds/autoadd/jontron/jontronmariocitysimulatorrage.ogg",length=15.882448979591837}}
@@ -37,11 +42,15 @@ L["oh noooo"]={{path="chatsounds/autoadd/jontron/oh noooo.ogg",length=8.98020408
 L["oh okay yeah thats fine lets just resume then huh"]={{path="chatsounds/autoadd/jontron/oh okay yeah thats fine lets just resume then huh.ogg",length=3.6500907029478458}}
 L["oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey"]={{path="chatsounds/autoadd/jontron/oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey.ogg",length=8.0429024943310665}}
 L["oohh ooooh"]={{path="chatsounds/autoadd/jontron/oohh ooooh.ogg",length=10.247800453514738}}
+L["ooooh im coming i uh im im done here i ffilled my purpose i i need to see no more shit down here"]={{path="chatsounds/autoadd/jontron/ooooh im coming i uh im im done here i ffilled my purpose i i need to see no more shit down here.ogg",length=6.8556689342403629}}
 L["oops i killed him moving on"]={{path="chatsounds/autoadd/jontron/oops i killed him moving on.ogg",length=3.0257369614512473}}
 L["stahp"]={{path="chatsounds/autoadd/jontron/stahp/stahp1.ogg",length=0.76886621315192749},{path="chatsounds/autoadd/jontron/stahp/stahp2.ogg",length=0.62625850340136058},{path="chatsounds/autoadd/jontron/stahp/stahp3.ogg",length=0.87428571428571433}}
 L["stranger danger"]={{path="chatsounds/autoadd/jontron/stranger danger.ogg",length=1.056281179138322}}
 L["that was amazing"]={{path="chatsounds/autoadd/jontron/that was amazing.ogg",length=2.5934920634920635}}
+L["thats fuckin metal as fuck dude"]={{path="chatsounds/autoadd/jontron/thats fuckin metal as fuck dude.ogg",length=1.9686167800453516}}
+L["they didnt blow it"]={{path="chatsounds/autoadd/jontron/they didnt blow it.ogg",length=0.73405895691609979}}
 L["this is crack"]={{path="chatsounds/autoadd/jontron/this is crack.ogg",length=2.033174603174603}}
+L["waht daaa fhuckk"]={{path="chatsounds/autoadd/jontron/waht daaa fhuckk.ogg",length=3.4164852607709753}}
 L["wat wtf"]={{path="chatsounds/autoadd/jontron/wat wtf.ogg",length=3.1057823129251703}}
 L["wat"]={{path="chatsounds/autoadd/jontron/wat.ogg",length=0.88049886621315188}}
 L["wh why what is it"]={{path="chatsounds/autoadd/jontron/wh why what is it.ogg",length=1.8754195011337869}}
