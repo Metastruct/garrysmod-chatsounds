@@ -14,7 +14,6 @@ L["ded"]={{path="chatsounds/autoadd/tf2extra/ded.ogg",length=0.43870748299319728
 L["doctor"]={{path="chatsounds/autoadd/tf2extra/doctor.ogg",length=0.91997732426303858}}
 L["dont be such a baby"]={{path="chatsounds/autoadd/tf2extra/dont be such a baby.ogg",length=1.3279591836734694}}
 L["eheh well no"]={{path="chatsounds/autoadd/tf2extra/eheh well no.ogg",length=1.4719727891156462}}
-L["eotl riser long"]={{path="chatsounds/autoadd/tf2extra/eotl riser long/1.ogg",length=32.796575963718823},{path="chatsounds/autoadd/tf2extra/eotl riser long/2.ogg",length=40.739433106575966}}
 L["espresso"]={{path="chatsounds/autoadd/tf2extra/espresso.ogg",length=0.77233560090702946}}
 L["faggots"]={{path="chatsounds/autoadd/tf2extra/faggots.ogg",length=0.78004535147392295}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.1512925170068027}}
