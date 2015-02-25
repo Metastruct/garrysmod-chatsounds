@@ -43,6 +43,7 @@ L["oh okay yeah thats fine lets just resume then huh"]={{path="chatsounds/autoad
 L["oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey"]={{path="chatsounds/autoadd/jontron/oh uh oh oh oh oh oh ohhhhhhhhh phhhhh okey.ogg",length=8.0429024943310665}}
 L["oohh ooooh"]={{path="chatsounds/autoadd/jontron/oohh ooooh.ogg",length=10.247800453514738}}
 L["ooooh im coming i uh im im done here i ffilled my purpose i i need to see no more shit down here"]={{path="chatsounds/autoadd/jontron/ooooh im coming i uh im im done here i ffilled my purpose i i need to see no more shit down here.ogg",length=6.8556689342403629}}
+L["ooooooooh you piece of shit"]={{path="chatsounds/autoadd/jontron/ooooooooh you piece of shit.ogg",length=3.1242403628117912}}
 L["oops i killed him moving on"]={{path="chatsounds/autoadd/jontron/oops i killed him moving on.ogg",length=3.0257369614512473}}
 L["stahp"]={{path="chatsounds/autoadd/jontron/stahp/stahp1.ogg",length=0.76886621315192749},{path="chatsounds/autoadd/jontron/stahp/stahp2.ogg",length=0.62625850340136058},{path="chatsounds/autoadd/jontron/stahp/stahp3.ogg",length=0.87428571428571433}}
 L["stranger danger"]={{path="chatsounds/autoadd/jontron/stranger danger.ogg",length=1.056281179138322}}

@@ -14,6 +14,7 @@ L["ded"]={{path="chatsounds/autoadd/tf2extra/ded.ogg",length=0.43870748299319728
 L["doctor"]={{path="chatsounds/autoadd/tf2extra/doctor.ogg",length=0.91997732426303858}}
 L["dont be such a baby"]={{path="chatsounds/autoadd/tf2extra/dont be such a baby.ogg",length=1.3279591836734694}}
 L["eheh well no"]={{path="chatsounds/autoadd/tf2extra/eheh well no.ogg",length=1.4719727891156462}}
+L["eotl riser long"]={{path="chatsounds/autoadd/tf2extra/eotl riser long/1.ogg",length=32.796575963718823},{path="chatsounds/autoadd/tf2extra/eotl riser long/2.ogg",length=40.739433106575966}}
 L["espresso"]={{path="chatsounds/autoadd/tf2extra/espresso.ogg",length=0.77233560090702946}}
 L["faggots"]={{path="chatsounds/autoadd/tf2extra/faggots.ogg",length=0.78004535147392295}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.1512925170068027}}
@@ -21,8 +22,10 @@ L["gasp"]={{path="chatsounds/autoadd/tf2extra/gasp.ogg",length=1.085532879818594
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.91448979591836732}}
 L["gottam"]={{path="chatsounds/autoadd/tf2extra/gottam.ogg",length=0.22666666666666666}}
 L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.1173015873015873}}
+L["hello i am prepared to do nothing"]={{path="chatsounds/autoadd/tf2extra/hello i am prepared to do nothing.ogg",length=2.7951020408163267}}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2extra/hhoooott.ogg",length=1.7173696145124717}}
 L["how embarassing"]={{path="chatsounds/autoadd/tf2extra/how embarassing.ogg",length=1.0323582766439909}}
+L["i am full of meem"]={{path="chatsounds/autoadd/tf2extra/i am full of meem.ogg",length=1.8285714285714285}}
 L["i dare you"]={{path="chatsounds/autoadd/tf2extra/i dare you.ogg",length=0.99412698412698408}}
 L["i have no idea"]={{path="chatsounds/autoadd/tf2extra/i have no idea.ogg",length=2.0319727891156463}}
 L["im"]={{path="chatsounds/autoadd/tf2extra/im.ogg",length=0.31927437641723355}}
