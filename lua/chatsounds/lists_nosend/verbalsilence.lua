@@ -9,23 +9,28 @@ L["afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/afternoon deligh
 L["ah good baby"]={{path="chatsounds/autoadd/verbalsilence/ah good baby.ogg",length=2.1480725623582768}}
 L["ahahahaha phrasing"]={{path="chatsounds/autoadd/verbalsilence/ahahahaha phrasing.ogg",length=2.0985714285714288}}
 L["aint nobody got time for that"]={{path="chatsounds/autoadd/verbalsilence/aint nobody got time for that.ogg",length=1.3770521541950114}}
+L["alright fuck the game lets try bomb squad"]={{path="chatsounds/autoadd/verbalsilence/alright fuck the game lets try bomb squad.ogg",length=2.2443537414965986}}
 L["alright i just got intel from hq eta five minutes to bedtime boys lets wrap it up"]={{path="chatsounds/autoadd/verbalsilence/alright i just got intel from hq eta five minutes to bedtime boys lets wrap it up.ogg",length=4.3342403628117916}}
 L["and none for gretchen weiners bye"]={{path="chatsounds/autoadd/verbalsilence/and none for gretchen weiners bye.ogg",length=1.5978231292517007}}
 L["and we know the night is always gonna be there anyway"]={{path="chatsounds/autoadd/verbalsilence/and we know the night is always gonna be there anyway.ogg",length=6.0924036281179141}}
 L["aussiedramatic"]={{path="chatsounds/autoadd/verbalsilence/aussiedramatic.ogg",length=19.877687074829932}}
 L["aw dont cry"]={{path="chatsounds/autoadd/verbalsilence/aw dont cry.ogg",length=2.8741950113378687}}
 L["aw"]={{path="chatsounds/autoadd/verbalsilence/aw.ogg",length=0.61172335600907024}}
+L["b 17 bomber"]={{path="chatsounds/autoadd/verbalsilence/b 17 bomber.ogg",length=2.519047619047619}}
 L["bacon pancakes"]={{path="chatsounds/autoadd/verbalsilence/bacon pancakes.ogg",length=10.373378684807257}}
 L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612471655328799}}
+L["bee seventeen ballmer"]={{path="chatsounds/autoadd/verbalsilence/bee seventeen ballmer.ogg",length=3.0818367346938778}}
 L["behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren"]={{path="chatsounds/autoadd/verbalsilence/behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren.ogg",length=12.460408163265306}}
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952}}
 L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292517006804}}
+L["bomb squad"]={{path="chatsounds/autoadd/verbalsilence/bomb squad.ogg",length=1.2729251700680273}}
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428}}
 L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",length=1.295124716553288}}
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962}}
 L["broom broom"]={{path="chatsounds/autoadd/verbalsilence/broom broom.ogg",length=1.3374829931972789}}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708}}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022}}
+L["click noice"]={{path="chatsounds/autoadd/verbalsilence/click noice.ogg",length=1.5234013605442176}}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042}}
 L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.ogg",length=1.9720861678004535}}
 L["come on you youre going to have to sit in the dunce chair"]={{path="chatsounds/autoadd/verbalsilence/come on you youre going to have to sit in the dunce chair.ogg",length=3.0021995464852607}}
@@ -140,6 +145,7 @@ L["look look with your special eyes"]={{path="chatsounds/autoadd/verbalsilence/l
 L["lord jesus oh shit"]={{path="chatsounds/autoadd/verbalsilence/lord jesus oh shit.ogg",length=2.3800680272108843}}
 L["loser horn"]={{path="chatsounds/autoadd/verbalsilence/loser horn.ogg",length=4.5109750566893423}}
 L["manana"]={{path="chatsounds/autoadd/verbalsilence/manana.ogg",length=0.97866213151927439}}
+L["mattel electronics presents"]={{path="chatsounds/autoadd/verbalsilence/mattel electronics presents.ogg",length=2.4118594104308388}}
 L["memo bis punitor delicatum"]={{path="chatsounds/autoadd/verbalsilence/memo bis punitor delicatum.ogg",length=2.6714965986394557}}
 L["mlady"]={{path="chatsounds/autoadd/verbalsilence/mlady.ogg",length=0.89335600907029478}}
 L["mnnnnnnnnnnnn"]={{path="chatsounds/autoadd/verbalsilence/mnnnnnnnnnnnn.ogg",length=5.2517006802721085}}
