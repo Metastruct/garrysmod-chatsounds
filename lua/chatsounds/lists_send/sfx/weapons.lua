@@ -6204,16 +6204,6 @@ c.StartList("table: 0x3b0e59c8")
 		},
 	}
 
-	L["special"] = {
-		{
-			path = "weapons/weapon_egon/special1.wav",
-			length = 9.0027437641723,
-		},
-		{
-			path = "weapons/weapon_egon/special2.wav",
-			length = 1.1739455782313,
-		},
-	}
 
 	L["batdraw"] = {
 		{
