@@ -123,8 +123,8 @@ L["pit"]={{path="chatsounds/autoadd/CapsAdmin/pit.ogg",length=0.353718820861678}
 L["pokemontheme"]={{path="chatsounds/autoadd/CapsAdmin/pokemontheme.ogg",length=196.01619047619047}}
 L["porno"]={{path="chatsounds/autoadd/CapsAdmin/porno.ogg",length=0.59052154195011342}}
 L["ps2startup"]={{path="chatsounds/autoadd/CapsAdmin/ps2startup.ogg",length=10.446961451247166}}
-L["rf"]={{path="chatsounds/autoadd/CapsAdmin/rf.ogg",length=5.8630385487528347}}
 L["rofl"]={{path="chatsounds/autoadd/CapsAdmin/rofl.ogg",length=11.702879818594104}}
+L["roflmao"]={{path="chatsounds/autoadd/CapsAdmin/roflmao.ogg",length=5.8630385487528347}}
 L["roman2"]={{path="chatsounds/autoadd/CapsAdmin/roman2.ogg",length=26.563174603174602}}
 L["roman3"]={{path="chatsounds/autoadd/CapsAdmin/roman3.ogg",length=26.717732426303854}}
 L["rydeen"]={{path="chatsounds/autoadd/CapsAdmin/rydeen.ogg",length=26.877324263038549}}
