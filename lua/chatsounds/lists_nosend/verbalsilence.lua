@@ -160,6 +160,7 @@ L["nnnno nnnno"]={{path="chatsounds/autoadd/verbalsilence/nnnno nnnno.ogg",lengt
 L["nnnno"]={{path="chatsounds/autoadd/verbalsilence/nnnno.ogg",length=1.4963038548752834}}
 L["no dont cry baby elmos here"]={{path="chatsounds/autoadd/verbalsilence/no dont cry baby elmos here.ogg",length=4.2356689342403628}}
 L["no you need to gtfo"]={{path="chatsounds/autoadd/verbalsilence/no you need to gtfo.ogg",length=2.2927210884353744}}
+L["noimnot"]={{path="chatsounds/autoadd/verbalsilence/noimnot.ogg",length=0.74104308390022677}}
 L["nom nom nom"]={{path="chatsounds/autoadd/verbalsilence/nom nom nom.ogg",length=1.1950566893424037}}
 L["noope"]={{path="chatsounds/autoadd/verbalsilence/noope.ogg",length=0.65997732426303857}}
 L["not only is this game fffffffffffucking awful but so are its developers apparently"]={{path="chatsounds/autoadd/verbalsilence/not only is this game fffffffffffucking awful but so are its developers apparently.ogg",length=7.7070748299319725}}
@@ -206,6 +207,7 @@ L["this castle is in unacceptable condition"]={{path="chatsounds/autoadd/verbals
 L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/this is giving me a dragonboner.ogg",length=1.7013605442176871}}
 L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.11965986394557823}}
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907}}
+L["twentyone"]={{path="chatsounds/autoadd/verbalsilence/twentyone.ogg",length=0.79594104308390023}}
 L["two steps from hell intro"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell intro.ogg",length=28.64628117913832}}
 L["two steps from hell loop"]={{path="chatsounds/autoadd/verbalsilence/two steps from hell loop.ogg",length=74.93244897959184}}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911}}
@@ -221,6 +223,7 @@ L["what do you like to play"]={{path="chatsounds/autoadd/verbalsilence/what do y
 L["what rules"]={{path="chatsounds/autoadd/verbalsilence/what rules.ogg",length=0.92120181405895696}}
 L["what the fuck is this"]={{path="chatsounds/autoadd/verbalsilence/what the fuck is this.ogg",length=1.5748072562358277}}
 L["what the shitt"]={{path="chatsounds/autoadd/verbalsilence/what the shitt.ogg",length=0.90848072562358273}}
+L["whats nine plus ten"]={{path="chatsounds/autoadd/verbalsilence/whats nine plus ten.ogg",length=1.3174149659863945}}
 L["whats up im verbal"]={{path="chatsounds/autoadd/verbalsilence/whats up im verbal.ogg",length=1.4477551020408164}}
 L["when everythings a little clearer in the light of day"]={{path="chatsounds/autoadd/verbalsilence/when everythings a little clearer in the light of day.ogg",length=6.1891156462585037}}
 L["when god gives you lemons you find a new god"]={{path="chatsounds/autoadd/verbalsilence/when god gives you lemons you find a new god.ogg",length=3.2770294784580498}}
@@ -250,6 +253,8 @@ L["you lose"]={{path="chatsounds/autoadd/verbalsilence/you lose.ogg",length=1.56
 L["you probably shouldnt laugh anymore"]={{path="chatsounds/autoadd/verbalsilence/you probably shouldnt laugh anymore.ogg",length=2.6580272108843537}}
 L["you rack disciprine"]={{path="chatsounds/autoadd/verbalsilence/you rack disciprine.ogg",length=1.3740136054421768}}
 L["you shall not pass 2"]={{path="chatsounds/autoadd/verbalsilence/you shall not pass 2.ogg",length=4.149659863945578}}
+L["you stupid song"]={{path="chatsounds/autoadd/verbalsilence/you stupid song.ogg",length=15.479546485260771}}
+L["you stupid"]={{path="chatsounds/autoadd/verbalsilence/you stupid.ogg",length=0.82337868480725629}}
 L["you violated my mother"]={{path="chatsounds/autoadd/verbalsilence/you violated my mother.ogg",length=1.2146485260770976}}
 L["your body is a wonderland and i want to be alice"]={{path="chatsounds/autoadd/verbalsilence/your body is a wonderland and i want to be alice.ogg",length=3.8764852607709752}}
 L["your contact lenses just arrived"]={{path="chatsounds/autoadd/verbalsilence/your contact lenses just arrived.ogg",length=2.3092517006802722}}
