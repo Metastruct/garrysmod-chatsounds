@@ -88,7 +88,6 @@ L["glen coco"]={{path="chatsounds/autoadd/verbalsilence/glen coco.ogg",length=1.
 L["gonna find my baby gonna hold her tight gonna find some afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/gonna find my baby gonna hold her tight gonna find some afternoon delight.ogg",length=6.4308843537414964}}
 L["good day sir"]={{path="chatsounds/autoadd/verbalsilence/good day sir.ogg",length=1.7656462585034014}}
 L["goofy scream"]={{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream 2.ogg",length=1.7786848072562358},{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream 3.ogg",length=2.1186394557823127},{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream 4.ogg",length=2.1975510204081634},{path="chatsounds/autoadd/verbalsilence/goofy scream/goofy scream.ogg",length=4.1887074829931974}}
-L["gta wasted"]={{path="chatsounds/autoadd/verbalsilence/gta wasted.ogg",length=7.5296825396825398}}
 L["gun"]={{path="chatsounds/autoadd/verbalsilence/gun.ogg",length=0.86004535147392291}}
 L["hah hah"]={{path="chatsounds/autoadd/verbalsilence/hah hah.ogg",length=3.8056009070294783}}
 L["hai baby"]={{path="chatsounds/autoadd/verbalsilence/hai baby.ogg",length=1.3526077097505669}}
