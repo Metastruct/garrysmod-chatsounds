@@ -1,5 +1,6 @@
 c.StartList("lumodder")
 L["but my hope will never die"]={{path="chatsounds/autoadd/lumodder/but my hope will never die.ogg",length=1.5582086167800453}}
+L["gta wasted"]={{path="chatsounds/autoadd/lumodder/gta wasted.ogg",length=7.5296825396825398}}
 L["suck my balls doc"]={{path="chatsounds/autoadd/lumodder/suck my balls doc.ogg",length=1.5905668934240362}}
 L["take a closer look at that meme"]={{path="chatsounds/autoadd/lumodder/take a closer look at that meme.ogg",length=2.175873015873016}}
 L["take a closer look at that snout"]={{path="chatsounds/autoadd/lumodder/take a closer look at that snout.ogg",length=2.1247619047619049}}
