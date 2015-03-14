@@ -12434,4 +12434,1352 @@ c.StartList("tf2")
 			length = 2.1014058589935,
 		},
 	}
+
+	L["im running in circles around you"] = {
+		{
+			path = "vo/taunts/scout_taunts01.mp3",
+			length = 1.5557370185852,
+		},
+	}
+
+	L["im runnin in circles around you"] = {
+		{
+			path = "vo/taunts/scout_taunts01.mp3",
+			length = 1.5557370185852,
+		},
+	}
+
+	L["i never really was on your side"] = {
+		{
+			path = "vo/spy_specialcompleted07.mp3",
+			length = 1.9446711540222,
+		},
+	}
+
+	L["im runnin in circles around ya"] = {
+		{
+			path = "vo/taunts/scout_taunts01.mp3",
+			length = 1.5557370185852,
+		},
+	}
+
+	L["im running circles around ya"] = {
+		{
+			path = "vo/taunts/scout_taunts01.mp3",
+			length = 1.5557370185852,
+		},
+	}
+
+	L["not so tough now are you"] = {
+		{
+			path = "vo/taunts/scout_taunts04.mp3",
+			length = 1.9214512109756,
+		},
+	}
+
+	L["sandwich make me strong"] = {
+		{
+			path = "vo/heavy_sandwichtaunt03.mp3",
+			length = 3.1306803226471,
+		},
+	}
+
+	L["what are you looking at"] = {
+		{
+			path = "vo/taunts/scout_taunts10.mp3",
+			length = 0.84752833843231,
+		},
+	}
+
+	L["i do believe im on fire"] = {
+		{
+			path = "vo/spy_autoonfire03.mp3",
+			length = 1.3612698316574,
+		},
+	}
+
+	L["now ive seen everything"] = {
+		{
+			path = "vo/engineer_autodejectedtie02.mp3",
+			length = 1.607981801033,
+		},
+	}
+
+	L["spy sapping mah sentry"] = {
+		{
+			path = "vo/engineer_autoattackedbyspy03.mp3",
+			length = 1.8227664232254,
+		},
+	}
+
+	L["who wants some of this"] = {
+		{
+			path = "vo/taunts/scout_taunts07.mp3",
+			length = 1.0390930175781,
+		},
+	}
+
+	L["spy sappin mah sentry"] = {
+		{
+			path = "vo/engineer_autoattackedbyspy03.mp3",
+			length = 1.8227664232254,
+		},
+	}
+
+	L["spy sapping ma sentry"] = {
+		{
+			path = "vo/engineer_autoattackedbyspy03.mp3",
+			length = 1.8227664232254,
+		},
+	}
+
+	L["spy sapping my sentry"] = {
+		{
+			path = "vo/engineer_autoattackedbyspy03.mp3",
+			length = 1.8227664232254,
+		},
+	}
+
+	L["i destroy coward toys"] = {
+		{
+			path = "vo/heavy_specialcompleted02.mp3",
+			length = 3.5410430431366,
+		},
+	}
+
+	L["need a dispenser here"] = {
+		{
+			path = "vo/scout_needdispenser01.mp3",
+			length = 1.1639002561569,
+		},
+	}
+
+	L["im gonna headbutt you"] = {
+		{
+			path = "vo/taunts/scout_taunts05.mp3",
+			length = 3.0534241199493,
+		},
+	}
+
+	L["spy sappin my sentry"] = {
+		{
+			path = "vo/engineer_autoattackedbyspy03.mp3",
+			length = 1.8227664232254,
+		},
+	}
+
+	L["spy sappin ma sentry"] = {
+		{
+			path = "vo/engineer_autoattackedbyspy03.mp3",
+			length = 1.8227664232254,
+		},
+	}
+
+	L["im gonna headbutt ya"] = {
+		{
+			path = "vo/taunts/scout_taunts05.mp3",
+			length = 3.0534241199493,
+		},
+	}
+
+	L["im gonna headbut you"] = {
+		{
+			path = "vo/taunts/scout_taunts05.mp3",
+			length = 3.0534241199493,
+		},
+	}
+
+	L["moist and delicious"] = {
+		{
+			path = "vo/heavy_sandwichtaunt02.mp3",
+			length = 2.8773469924927,
+		},
+	}
+
+	L["say that to my face"] = {
+		{
+			path = "vo/taunts/scout_taunts03.mp3",
+			length = 2.4264853000641,
+		},
+	}
+
+	L["im gonna headbut ya"] = {
+		{
+			path = "vo/taunts/scout_taunts05.mp3",
+			length = 3.0534241199493,
+		},
+	}
+
+	L["who touched my gun"] = {
+		{
+			path = "vo/taunts/heavy_taunts06.mp3",
+			length = 2.5251700878143,
+		},
+	}
+
+	L["move gear forward"] = {
+		{
+			path = "vo/heavy_moveup02.mp3",
+			length = 1.5151020288467,
+		},
+	}
+
+	L["start praying boy"] = {
+		{
+			path = "vo/taunts/engineer_taunts08.mp3",
+			length = 1.6021769046783,
+		},
+	}
+
+	L["im coming for you"] = {
+		{
+			path = "vo/taunts/spy_taunts10.mp3",
+			length = 1.8750113248825,
+		},
+	}
+
+	L["visit your mother"] = {
+		{
+			path = "vo/spy_dominationscout01.mp3",
+			length = 2.2106802463531,
+		},
+	}
+
+	L["youre all losers"] = {
+		{
+			path = "vo/taunts/scout_taunts13.mp3",
+			length = 1.0681178569794,
+		},
+	}
+
+	L["fire fire fire"] = {
+		{
+			path = "vo/spy_autoonfire02.mp3",
+			length = 1.3554648160934,
+		},
+	}
+
+	L["om nom nom nom"] = {
+		{
+			path = "vo/sandwicheat09.mp3",
+			length = 2.066757440567,
+		},
+	}
+
+	L["spy gentlemen"] = {
+		{
+			path = "vo/spy_cloakedspy03.mp3",
+			length = 1.0042630434036,
+		},
+	}
+
+	L["engineerlaugh"] = {
+		{
+			path = "vo/engineer_laughevil01.mp3",
+			length = 1.2074376344681,
+		},
+		{
+			path = "vo/engineer_laughevil02.wav",
+			length = 2.0027210712433,
+		},
+		{
+			path = "vo/engineer_laughevil03.wav",
+			length = 1.1784126758575,
+		},
+		{
+			path = "vo/engineer_laughevil04.wav",
+			length = 1.3438549041748,
+		},
+		{
+			path = "vo/engineer_laughevil05.wav",
+			length = 0.83591836690903,
+		},
+		{
+			path = "vo/engineer_laughevil06.wav",
+			length = 1.8111565113068,
+		},
+		{
+			path = "vo/engineer_laughhappy01.wav",
+			length = 2.0433559417725,
+		},
+		{
+			path = "vo/engineer_laughhappy02.wav",
+			length = 1.840181350708,
+		},
+		{
+			path = "vo/engineer_laughhappy03.wav",
+			length = 1.683446764946,
+		},
+		{
+			path = "vo/engineer_laughlong01.wav",
+			length = 4.6207709312439,
+		},
+		{
+			path = "vo/engineer_laughshort01.wav",
+			length = 1.5615419149399,
+		},
+		{
+			path = "vo/engineer_laughshort02.wav",
+			length = 1.4077097177505,
+		},
+		{
+			path = "vo/engineer_laughshort03.wav",
+			length = 1.219047665596,
+		},
+		{
+			path = "vo/engineer_laughshort04.wav",
+			length = 0.96362811326981,
+		},
+	}
+
+	L["thanks pallie"] = {
+		{
+			path = "vo/scout_thanks01.mp3",
+			length = 0.81560093164444,
+		},
+	}
+
+	L["it is sad day"] = {
+		{
+			path = "vo/heavy_jeers05.mp3",
+			length = 2.6935148239136,
+		},
+	}
+
+	L["soliderlaugh"] = {
+		{
+			path = "vo/soldier_laughevil01.mp3",
+			length = 1.7124716043472,
+		},
+		{
+			path = "vo/soldier_laughevil02.wav",
+			length = 1.7531065940857,
+		},
+		{
+			path = "vo/soldier_laughevil03.wav",
+			length = 0.67337870597839,
+		},
+		{
+			path = "vo/soldier_laughhappy01.wav",
+			length = 1.3699773550034,
+		},
+		{
+			path = "vo/soldier_laughhappy02.wav",
+			length = 1.2248525619507,
+		},
+		{
+			path = "vo/soldier_laughhappy03.wav",
+			length = 2.1014058589935,
+		},
+		{
+			path = "vo/soldier_laughlong01.wav",
+			length = 3.4713833332062,
+		},
+		{
+			path = "vo/soldier_laughlong02.wav",
+			length = 4.8297505378723,
+		},
+		{
+			path = "vo/soldier_laughlong03.wav",
+			length = 4.0867118835449,
+		},
+		{
+			path = "vo/soldier_laughshort01.wav",
+			length = 1.152290225029,
+		},
+		{
+			path = "vo/soldier_laughshort02.wav",
+			length = 1.2712925672531,
+		},
+		{
+			path = "vo/soldier_laughshort03.wav",
+			length = 0.37732425332069,
+		},
+		{
+			path = "vo/soldier_laughshort04.wav",
+			length = 1.0797278881073,
+		},
+	}
+
+	L["oktober fest"] = {
+		{
+			path = "vo/medic_cheers06.mp3",
+			length = 1.8750113248825,
+		},
+		{
+			path = "vo/taunts/medic_taunts16.wav",
+			length = 3.4634921550751,
+		},
+	}
+
+	L["move gear up"] = {
+		{
+			path = "vo/heavy_moveup01.mp3",
+			length = 0.94331067800522,
+		},
+	}
+
+	L["october fest"] = {
+		{
+			path = "vo/medic_cheers06.mp3",
+			length = 1.8750113248825,
+		},
+		{
+			path = "vo/taunts/medic_taunts16.wav",
+			length = 3.4634921550751,
+		},
+	}
+
+	L["sniperlaugh"] = {
+		{
+			path = "vo/sniper_laughlong02.mp3",
+			length = 3.1927437782288,
+		},
+		{
+			path = "vo/sniper_laughlong01.wav",
+			length = 5.2477097511292,
+		},
+		{
+			path = "vo/sniper_laughhappy02.wav",
+			length = 0.80108845233917,
+		},
+		{
+			path = "vo/sniper_laughhappy01.wav",
+			length = 1.1842176914215,
+		},
+		{
+			path = "vo/sniper_laughevil03.wav",
+			length = 1.4396371841431,
+		},
+		{
+			path = "vo/sniper_laughevil02.wav",
+			length = 1.904036283493,
+		},
+		{
+			path = "vo/sniper_laughevil01.wav",
+			length = 2.1246259212494,
+		},
+	}
+
+	L["octoberfest"] = {
+		{
+			path = "vo/medic_cheers06.mp3",
+			length = 1.8750113248825,
+		},
+		{
+			path = "vo/taunts/medic_taunts16.wav",
+			length = 3.4634921550751,
+		},
+	}
+
+	L["oktoberfest"] = {
+		{
+			path = "vo/medic_cheers06.mp3",
+			length = 1.8750113248825,
+		},
+		{
+			path = "vo/taunts/medic_taunts16.wav",
+			length = 3.4634921550751,
+		},
+	}
+
+	L["heavylaugh"] = {
+		{
+			path = "vo/heavy_laughlong02.mp3",
+			length = 3.1230838298798,
+		},
+		{
+			path = "vo/heavy_laughlong01.wav",
+			length = 6.5015873908997,
+		},
+		{
+			path = "vo/heavy_laughhappy05.wav",
+			length = 2.0259411334991,
+		},
+		{
+			path = "vo/heavy_laughhappy01.wav",
+			length = 1.155192732811,
+		},
+		{
+			path = "vo/heavy_laughhappy02.wav",
+			length = 2.1652607917786,
+		},
+		{
+			path = "vo/heavy_laughhappy03.wav",
+			length = 2.6935148239136,
+		},
+		{
+			path = "vo/heavy_laughhappy04.wav",
+			length = 1.9446711540222,
+		},
+	}
+
+	L["heavysing3"] = {
+		{
+			path = "vo/heavy_singing01.mp3",
+			length = 4.6720180511475,
+		},
+	}
+
+	L["heavysing6"] = {
+		{
+			path = "vo/heavy_singing04.mp3",
+			length = 3.8346712589264,
+		},
+	}
+
+	L["heavysing4"] = {
+		{
+			path = "vo/heavy_singing02.mp3",
+			length = 5.2693424224854,
+		},
+	}
+
+	L["mediclaugh"] = {
+		{
+			path = "vo/medic_laughevil01.mp3",
+			length = 0.91428571939468,
+		},
+		{
+			path = "vo/medic_laughevil02.wav",
+			length = 0.81560093164444,
+		},
+		{
+			path = "vo/medic_laughevil03.wav",
+			length = 1.0594104528427,
+		},
+		{
+			path = "vo/medic_laughevil04.wav",
+			length = 4.2724714279175,
+		},
+		{
+			path = "vo/medic_laughevil05.wav",
+			length = 3.0882539749146,
+		},
+		{
+			path = "vo/medic_laughhappy01.wav",
+			length = 3.4249432086945,
+		},
+		{
+			path = "vo/medic_laughhappy02.wav",
+			length = 3.0882539749146,
+		},
+		{
+			path = "vo/medic_laughhappy03.wav",
+			length = 1.9214512109756,
+		},
+		{
+			path = "vo/medic_laughlong01.wav",
+			length = 3.7616326808929,
+		},
+		{
+			path = "vo/medic_laughlong02.wav",
+			length = 6.5596370697021,
+		},
+		{
+			path = "vo/medic_laughshort01.wav",
+			length = 0.56308388710022,
+		},
+		{
+			path = "vo/medic_laughshort02.wav",
+			length = 0.71111112833023,
+		},
+		{
+			path = "vo/medic_laughshort03.wav",
+			length = 0.94621312618256,
+		},
+	}
+
+	L["real scary"] = {
+		{
+			path = "vo/taunts/scout_taunts02.mp3",
+			length = 2.0259411334991,
+		},
+	}
+
+	L["scoutlaugh"] = {
+		{
+			path = "vo/scout_laughlong02.mp3",
+			length = 4.7717008590698,
+		},
+		{
+			path = "vo/scout_laughlong01.wav",
+			length = 5.7469387054443,
+		},
+		{
+			path = "vo/scout_laughhappy01.wav",
+			length = 0.96943312883377,
+		},
+		{
+			path = "vo/scout_laughhappy02.wav",
+			length = 5.3870296478271,
+		},
+		{
+			path = "vo/scout_laughhappy03.wav",
+			length = 1.4338321685791,
+		},
+		{
+			path = "vo/scout_laughhappy04.wav",
+			length = 1.448344707489,
+		},
+	}
+
+	L["heavysing5"] = {
+		{
+			path = "vo/heavy_singing03.mp3",
+			length = 3.2106802463531,
+		},
+	}
+
+	L["heavysing2"] = {
+		{
+			path = "vo/heavy_cheers07.mp3",
+			length = 4.4001812934875,
+		},
+	}
+
+	L["heavysing1"] = {
+		{
+			path = "vo/heavy_cheers08.mp3",
+			length = 6.7105669975281,
+		},
+	}
+
+	L["tf2cheer"] = {
+		{
+			path = "misc/happy_birthday.wav",
+			length = 7.5638999938965,
+		},
+		{
+			path = "vo/engineer_cheers01.wav",
+			length = 1.387392282486,
+		},
+		{
+			path = "vo/engineer_cheers02.wav",
+			length = 1.8808163404465,
+		},
+		{
+			path = "vo/engineer_cheers07.wav",
+			length = 3.3320634365082,
+		},
+		{
+			path = "vo/heavy_cheers01.wav",
+			length = 1.3438549041748,
+		},
+		{
+			path = "vo/heavy_cheers02.wav",
+			length = 1.6428117752075,
+		},
+		{
+			path = "vo/heavy_cheers04.wav",
+			length = 1.9562811851501,
+		},
+		{
+			path = "vo/heavy_cheers07.wav",
+			length = 4.4001812934875,
+		},
+		{
+			path = "vo/heavy_cheers08.wav",
+			length = 6.7105669975281,
+		},
+		{
+			path = "vo/medic_cheers01.wav",
+			length = 1.0216779708862,
+		},
+		{
+			path = "vo/pyro_cheers01.wav",
+			length = 1.0133333206177,
+		},
+		{
+			path = "vo/scout_cheers01.wav",
+			length = 0.79528343677521,
+		},
+		{
+			path = "vo/scout_cheers03.wav",
+			length = 0.92879819869995,
+		},
+		{
+			path = "vo/scout_cheers06.wav",
+			length = 0.88235825300217,
+		},
+		{
+			path = "vo/sniper_cheers01.wav",
+			length = 0.98684805631638,
+		},
+		{
+			path = "vo/sniper_cheers05.wav",
+			length = 1.5325169563293,
+		},
+		{
+			path = "vo/sniper_cheers07.wav",
+			length = 1.149387717247,
+		},
+		{
+			path = "vo/sniper_cheers08.wav",
+			length = 1.381587266922,
+		},
+		{
+			path = "vo/soldier_cheers05.wav",
+			length = 1.1116553544998,
+		},
+		{
+			path = "vo/soldier_cheers06.wav",
+			length = 1.1232652664185,
+		},
+	}
+
+	L["heavysing7"] = {
+		{
+			path = "vo/heavy_singing05.mp3",
+			length = 4.570680141449,
+		},
+	}
+
+	L["demolaugh"] = {
+		{
+			path = "vo/demoman_laughlong02.mp3",
+			length = 5.0503401756287,
+		},
+		{
+			path = "vo/demoman_laughlong01.wav",
+			length = 5.2244896888733,
+		},
+		{
+			path = "vo/demoman_laughhappy02.wav",
+			length = 2.3510203361511,
+		},
+		{
+			path = "vo/demoman_laughhappy01.wav",
+			length = 2.2175056934357,
+		},
+		{
+			path = "vo/demoman_laughevil01.wav",
+			length = 2.1130158901215,
+		},
+		{
+			path = "vo/demoman_laughevil02.wav",
+			length = 2.2929704189301,
+		},
+		{
+			path = "vo/demoman_laughevil03.wav",
+			length = 2.1594557762146,
+		},
+		{
+			path = "vo/demoman_laughevil04.wav",
+			length = 1.1261677742004,
+		},
+		{
+			path = "vo/demoman_laughevil05.wav",
+			length = 1.1842176914215,
+		},
+		{
+			path = "vo/demoman_laughshort01.wav",
+			length = 1.3409523963928,
+		},
+		{
+			path = "vo/demoman_laughshort02.wav",
+			length = 1.3061224222183,
+		},
+		{
+			path = "vo/demoman_laughshort03.wav",
+			length = 0.55292516946793,
+		},
+		{
+			path = "vo/demoman_laughshort04.wav",
+			length = 0.48471656441689,
+		},
+		{
+			path = "vo/demoman_laughshort05.wav",
+			length = 1.2625850439072,
+		},
+		{
+			path = "vo/demoman_laughshort06.wav",
+			length = 0.92589569091797,
+		},
+	}
+
+	L["rage quit"] = {
+		{
+			path = "vo/scout_domination19.mp3",
+			length = 2.6293423175812,
+		},
+	}
+
+	L["nice shot"] = {
+		{
+			path = "vo/spy_niceshot01.mp3",
+			length = 0.86204081773758,
+		},
+		{
+			path = "vo/soldier_niceshot01.wav",
+			length = 0.83591836690903,
+		},
+		{
+			path = "vo/sniper_niceshot01.wav",
+			length = 0.61242628097534,
+		},
+		{
+			path = "vo/scout_niceshot01.wav",
+			length = 1.0013605356216,
+		},
+		{
+			path = "vo/heavy_niceshot03.wav",
+			length = 1.1697052717209,
+		},
+		{
+			path = "vo/engineer_niceshot02.wav",
+			length = 0.8591383099556,
+		},
+	}
+
+	L["gentlemen"] = {
+		{
+			path = "vo/spy_battlecry01.mp3",
+			length = 0.72852605581284,
+		},
+	}
+
+	L["attention"] = {
+		{
+			path = "vo/announcer_attention.mp3",
+			length = 1.6730386018753,
+		},
+	}
+
+	L["pyrolaugh"] = {
+		{
+			path = "vo/pyro_laughlong01.mp3",
+			length = 2.3520181179047,
+		},
+		{
+			path = "vo/pyro_laughevil02.wav",
+			length = 0.8853514790535,
+		},
+		{
+			path = "vo/pyro_laughevil03.wav",
+			length = 0.47467121481895,
+		},
+		{
+			path = "vo/pyro_laughevil04.wav",
+			length = 1.1733332872391,
+		},
+	}
+
+	L["explosion"] = {
+		{
+			path = "weapons/explode3.wav",
+		},
+		{
+			path = "weapons/explode4.wav",
+		},
+		{
+			path = "weapons/explode5.wav",
+		},
+	}
+
+	L["boo"] = {
+		{
+			path = "vo/heavy_jeers01.mp3",
+			length = 1.9446711540222,
+		},
+	}
+
+	L["shall we"] = {
+		{
+			path = "vo/spy_battlecry02.mp3",
+			length = 0.63854873180389,
+		},
+	}
+
+	L["spylaugh"] = {
+		{
+			path = "vo/spy_laughevil01.mp3",
+			length = 2.0027210712433,
+		},
+		{
+			path = "vo/spy_laughevil02.wav",
+			length = 1.4686621427536,
+		},
+		{
+			path = "vo/spy_laughhappy01.wav",
+			length = 1.8634014129639,
+		},
+		{
+			path = "vo/spy_laughhappy02.wav",
+			length = 1.1290702819824,
+		},
+		{
+			path = "vo/spy_laughhappy03.wav",
+			length = 1.6660317182541,
+		},
+		{
+			path = "vo/spy_laughlong01.wav",
+			length = 6.4667572975159,
+		},
+		{
+			path = "vo/spy_laughshort01.wav",
+			length = 0.77496600151062,
+		},
+		{
+			path = "vo/spy_laughshort02.wav",
+			length = 1.2596825361252,
+		},
+		{
+			path = "vo/spy_laughshort03.wav",
+			length = 0.87074828147888,
+		},
+		{
+			path = "vo/spy_laughshort04.wav",
+			length = 0.88816326856613,
+		},
+		{
+			path = "vo/spy_laughshort05.wav",
+			length = 0.7778685092926,
+		},
+		{
+			path = "vo/spy_laughshort06.wav",
+			length = 0.63854873180389,
+		},
+	}
+
+	L["moo"] = {
+		{
+			path = "ambient/cow1.wav",
+			length = 2.5077550411224,
+		},
+		{
+			path = "ambient/cow2.wav",
+			length = 3.1579139232635,
+		},
+		{
+			path = "ambient/cow3.wav",
+			length = 2.6993198394775,
+		},
+	}
+
+	L["fight me"] = {
+		{
+			path = "vo/heavy_meleedare11.mp3",
+			length = 0.63999998569489,
+		},
+	}
+
+	L["you suck"] = {
+		{
+			path = "vo/test_two.mp3",
+			length = 1.1203627586365,
+		},
+	}
+
+	L["whistle"] = {
+		{
+			path = "vo/taunts/spy_taunts05.mp3",
+			length = 1.7298866510391,
+		},
+	}
+
+	L["kiss me"] = {
+		{
+			path = "vo/heavy_generic01.mp3",
+			length = 0.81269842386246,
+		},
+	}
+
+	L["peekabo"] = {
+		{
+			path = "vo/taunts/spy_taunts06.mp3",
+			length = 0.62693876028061,
+		},
+	}
+
+	L["warning"] = {
+		{
+			path = "vo/announcer_warning.mp3",
+			length = 1.6599773168564,
+		},
+	}
+
+	L["failure"] = {
+		{
+			path = "vo/announcer_failure.mp3",
+			length = 1.8486394882202,
+		},
+	}
+
+	L["maggots"] = {
+		{
+			path = "vo/taunts/soldier_taunts01.mp3",
+			length = 1.0158730745316,
+		},
+	}
+
+	L["magots"] = {
+		{
+			path = "vo/taunts/soldier_taunts01.mp3",
+			length = 1.0158730745316,
+		},
+	}
+
+	L["nix da"] = {
+		{
+			path = "vo/medic_no03.mp3",
+			length = 0.64435374736786,
+		},
+	}
+
+	L["cheers"] = {
+		{
+			path = "vo/spy_autocappedintelligence03.mp3",
+			length = 0.77206349372864,
+		},
+	}
+
+	L["thanks"] = {
+		{
+			path = "vo/soldier_thanks01.mp3",
+			length = 0.62693876028061,
+		},
+		{
+			path = "vo/soldier_thanks02.wav",
+			length = 0.71401357650757,
+		},
+		{
+			path = "vo/scout_thanks01.wav",
+			length = 0.81560093164444,
+		},
+		{
+			path = "vo/medic_thanks01.wav",
+			length = 0.90557825565338,
+		},
+		{
+			path = "vo/heavy_thanks01.wav",
+			length = 1.0071655511856,
+		},
+		{
+			path = "vo/heavy_thanks03.wav",
+			length = 0.96027213335037,
+		},
+		{
+			path = "vo/sniper_thanks01.wav",
+			length = 0.5659863948822,
+		},
+		{
+			path = "vo/demoman_thanks01.wav",
+			length = 0.92299318313599,
+		},
+	}
+
+	L["dangit"] = {
+		{
+			path = "vo/engineer_negativevocalization12.mp3",
+			length = 1.7937414646149,
+		},
+		{
+			path = "vo/engineer_negativevocalization11.wav",
+			length = 1.1087528467178,
+		},
+		{
+			path = "vo/engineer_negativevocalization10.wav",
+			length = 1.1784126758575,
+		},
+	}
+
+	L["ninja"] = {
+		{
+			path = "vo/scout_beingshotinvincible17.mp3",
+			length = 0.26535147428513,
+		},
+		{
+			path = "vo/scout_beingshotinvincible08.wav",
+			length = 0.24133786559105,
+		},
+		{
+			path = "vo/scout_beingshotinvincible16.wav",
+			length = 0.20267572999001,
+		},
+		{
+			path = "vo/scout_beingshotinvincible13.wav",
+			length = 0.17666666209698,
+		},
+		{
+			path = "vo/scout_beingshotinvincible12.wav",
+			length = 0.16934239864349,
+		},
+	}
+
+	L["spits"] = {
+		{
+			path = "vo/taunts/sniper_taunts23.mp3",
+			length = 1.0100680589676,
+		},
+		{
+			path = "/vo/taunts/sniper_taunts01.wav",
+			length = 1.4686621427536,
+		},
+	}
+
+	L["boink"] = {
+		{
+			path = "vo/scout_specialcompleted02.mp3",
+			length = 0.48036280274391,
+		},
+	}
+
+	L["phail"] = {
+		{
+			path = "vo/announcer_failure.mp3",
+			length = 1.8486394882202,
+		},
+	}
+
+	L["medic"] = {
+		{
+			path = "vo/medic_medic02.mp3",
+			length = 0.72852605581284,
+		},
+		{
+			path = "vo/medic_medic03.wav",
+			length = 1.5238095521927,
+		},
+		{
+			path = "vo/demoman_medic03.wav",
+			length = 0.90557825565338,
+		},
+		{
+			path = "vo/demoman_medic02.wav",
+			length = 0.90557825565338,
+		},
+		{
+			path = "vo/demoman_medic01.wav",
+			length = 0.91718822717667,
+		},
+		{
+			path = "vo/engineer_medic02.wav",
+			length = 0.67047619819641,
+		},
+		{
+			path = "vo/engineer_medic03.wav",
+			length = 0.91428571939468,
+		},
+		{
+			path = "vo/pyro_medic01.wav",
+			length = 0.68000000715256,
+		},
+		{
+			path = "vo/scout_medic01.wav",
+			length = 0.63564628362656,
+		},
+		{
+			path = "vo/scout_medic02.wav",
+			length = 0.64435374736786,
+		},
+	}
+
+	L["yippy"] = {
+		{
+			path = "vo/engineer_cheers07.mp3",
+			length = 3.3320634365082,
+		},
+	}
+
+	L["alert"] = {
+		{
+			path = "vo/announcer_alert.mp3",
+			length = 1.3508616685867,
+		},
+	}
+
+	L["pong"] = {
+		{
+			path = "vo/scout_beingshotinvincible26.mp3",
+			length = 0.46666666865349,
+		},
+	}
+
+	L["ping"] = {
+		{
+			path = "vo/scout_beingshotinvincible23.mp3",
+			length = 0.44800454378128,
+		},
+	}
+
+	L["nope"] = {
+		{
+			path = "vo/engineer_no01.mp3",
+			length = 0.36861678957939,
+		},
+	}
+
+	L["fail"] = {
+		{
+			path = "vo/announcer_failure.mp3",
+			length = 1.8486394882202,
+		},
+	}
+
+	L["attn"] = {
+		{
+			path = "vo/announcer_attention.mp3",
+			length = 1.6730386018753,
+		},
+	}
+
+	L["wuss"] = {
+		{
+			path = "vo/scout_beingshotinvincible36.mp3",
+			length = 0.45734694600105,
+		},
+	}
+
+	L["bonk"] = {
+		{
+			path = "vo/scout_specialcompleted03.mp3",
+			length = 0.44553288817406,
+		},
+	}
+
+	L["move"] = {
+		{
+			path = "vo/spy_go01.mp3",
+			length = 0.57759636640549,
+		},
+	}
+
+	L["burp"] = {
+		{
+			path = "vo/burp02.mp3",
+			length = 0.29750567674637,
+		},
+		{
+			path = "vo/burp03.wav",
+			length = 0.37374150753021,
+		},
+		{
+			path = "vo/burp04.wav",
+			length = 0.92879819869995,
+		},
+		{
+			path = "vo/burp05.wav",
+			length = 2.1618595123291,
+		},
+		{
+			path = "vo/burp02.wav",
+			length = 0.29750567674637,
+		},
+		{
+			path = "vo/burp06.wav",
+			length = 0.56018137931824,
+		},
+		{
+			path = "vo/burp07.wav",
+			length = 0.98231291770935,
+		},
+	}
+
+	L["spit"] = {
+		{
+			path = "vo/taunts/sniper_taunts23.mp3",
+			length = 1.0100680589676,
+		},
+		{
+			path = "vo/taunts/sniper_taunts01.wav",
+			length = 1.4686621427536,
+		},
+	}
+
+	L["nein"] = {
+		{
+			path = "vo/medic_no01.mp3",
+			length = 0.53115648031235,
+		},
+	}
+
+	L["tf9"] = {
+		{
+			path = "vo/announcer_ends_9sec.mp3",
+			length = 1.2770974636078,
+		},
+	}
+
+	L["tf1"] = {
+		{
+			path = "vo/announcer_ends_1sec.mp3",
+			length = 1.5151020288467,
+		},
+	}
+
+	L["tf3"] = {
+		{
+			path = "vo/announcer_ends_3sec.mp3",
+			length = 1.152290225029,
+		},
+	}
+
+	L["tf7"] = {
+		{
+			path = "vo/announcer_ends_7sec.mp3",
+			length = 1.1726076602936,
+		},
+	}
+
+	L["tf4"] = {
+		{
+			path = "vo/announcer_ends_4sec.mp3",
+			length = 1.4251247644424,
+		},
+	}
+
+	L["tf6"] = {
+		{
+			path = "vo/announcer_ends_6sec.mp3",
+			length = 1.2451701164246,
+		},
+	}
+
+	L["tf8"] = {
+		{
+			path = "vo/announcer_ends_8sec.mp3",
+			length = 0.85333335399628,
+		},
+	}
+
+	L["tf5"] = {
+		{
+			path = "vo/announcer_ends_5sec.mp3",
+			length = 1.0956915616989,
+		},
+	}
+
+	L["tf2"] = {
+		{
+			path = "vo/announcer_ends_2sec.mp3",
+			length = 1.0303854942322,
+		},
+	}
+
+	L["nah"] = {
+		{
+			path = "vo/engineer_no02.mp3",
+			length = 0.690793633461,
+		},
+	}
+
+	L["no"] = {
+		{
+			path = "vo/medic_no02.mp3",
+			length = 0.39328798651695,
+		},
+		{
+			path = "vo/sniper_no01.wav",
+			length = 0.51954650878906,
+		},
+		{
+			path = "vo/spy_no02.wav",
+			length = 0.42376416921616,
+		},
+		{
+			path = "vo/scout_no02.wav",
+			length = 0.52680271863937,
+		},
+	}
 c.EndList()
