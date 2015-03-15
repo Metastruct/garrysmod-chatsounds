@@ -32,6 +32,9 @@ L["trickshot9"]={{path="chatsounds/autoadd/nonhuman/trickshot9.OGG",length=12}}
 L["unfortunately the giant also loves barrys red cola"]={{path="chatsounds/autoadd/nonhuman/unfortunately the giant also loves barrys red cola.OGG",length=3.2006122448979593}}
 L["what would you like to do"]={{path="chatsounds/autoadd/nonhuman/what would you like to do.OGG",length=1.3058956916099773}}
 L["wombocombo"]={{path="chatsounds/autoadd/nonhuman/wombocombo.OGG",length=18}}
+L["xddddd"]={{path="chatsounds/autoadd/nonhuman/xddddd.OGG",length=1.6588435374149659}}
+L["xdddddddddddddd"]={{path="chatsounds/autoadd/nonhuman/xdddddddddddddd.OGG",length=3.0524716553287981}}
+L["xddddddistorted"]={{path="chatsounds/autoadd/nonhuman/xddddddistorted.OGG",length=1.6588435374149659}}
 L["you drink the delicious barrys red cola"]={{path="chatsounds/autoadd/nonhuman/you drink the delicious barrys red cola.OGG",length=3.0080725623582767}}
 L["you guys suck eggs"]={{path="chatsounds/autoadd/nonhuman/you guys suck eggs.OGG",length=1.9517233560090703}}
 L["you guys suck"]={{path="chatsounds/autoadd/nonhuman/you guys suck.OGG",length=1.3495238095238096}}
