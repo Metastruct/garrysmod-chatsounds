@@ -12679,55 +12679,55 @@ c.StartList("tf2")
 			length = 1.2074376344681,
 		},
 		{
-			path = "vo/engineer_laughevil02.wav",
+			path = "vo/engineer_laughevil02.mp3",
 			length = 2.0027210712433,
 		},
 		{
-			path = "vo/engineer_laughevil03.wav",
+			path = "vo/engineer_laughevil03.mp3",
 			length = 1.1784126758575,
 		},
 		{
-			path = "vo/engineer_laughevil04.wav",
+			path = "vo/engineer_laughevil04.mp3",
 			length = 1.3438549041748,
 		},
 		{
-			path = "vo/engineer_laughevil05.wav",
+			path = "vo/engineer_laughevil05.mp3",
 			length = 0.83591836690903,
 		},
 		{
-			path = "vo/engineer_laughevil06.wav",
+			path = "vo/engineer_laughevil06.mp3",
 			length = 1.8111565113068,
 		},
 		{
-			path = "vo/engineer_laughhappy01.wav",
+			path = "vo/engineer_laughhappy01.mp3",
 			length = 2.0433559417725,
 		},
 		{
-			path = "vo/engineer_laughhappy02.wav",
+			path = "vo/engineer_laughhappy02.mp3",
 			length = 1.840181350708,
 		},
 		{
-			path = "vo/engineer_laughhappy03.wav",
+			path = "vo/engineer_laughhappy03.mp3",
 			length = 1.683446764946,
 		},
 		{
-			path = "vo/engineer_laughlong01.wav",
+			path = "vo/engineer_laughlong01.mp3",
 			length = 4.6207709312439,
 		},
 		{
-			path = "vo/engineer_laughshort01.wav",
+			path = "vo/engineer_laughshort01.mp3",
 			length = 1.5615419149399,
 		},
 		{
-			path = "vo/engineer_laughshort02.wav",
+			path = "vo/engineer_laughshort02.mp3",
 			length = 1.4077097177505,
 		},
 		{
-			path = "vo/engineer_laughshort03.wav",
+			path = "vo/engineer_laughshort03.mp3",
 			length = 1.219047665596,
 		},
 		{
-			path = "vo/engineer_laughshort04.wav",
+			path = "vo/engineer_laughshort04.mp3",
 			length = 0.96362811326981,
 		},
 	}
@@ -12752,51 +12752,51 @@ c.StartList("tf2")
 			length = 1.7124716043472,
 		},
 		{
-			path = "vo/soldier_laughevil02.wav",
+			path = "vo/soldier_laughevil02.mp3",
 			length = 1.7531065940857,
 		},
 		{
-			path = "vo/soldier_laughevil03.wav",
+			path = "vo/soldier_laughevil03.mp3",
 			length = 0.67337870597839,
 		},
 		{
-			path = "vo/soldier_laughhappy01.wav",
+			path = "vo/soldier_laughhappy01.mp3",
 			length = 1.3699773550034,
 		},
 		{
-			path = "vo/soldier_laughhappy02.wav",
+			path = "vo/soldier_laughhappy02.mp3",
 			length = 1.2248525619507,
 		},
 		{
-			path = "vo/soldier_laughhappy03.wav",
+			path = "vo/soldier_laughhappy03.mp3",
 			length = 2.1014058589935,
 		},
 		{
-			path = "vo/soldier_laughlong01.wav",
+			path = "vo/soldier_laughlong01.mp3",
 			length = 3.4713833332062,
 		},
 		{
-			path = "vo/soldier_laughlong02.wav",
+			path = "vo/soldier_laughlong02.mp3",
 			length = 4.8297505378723,
 		},
 		{
-			path = "vo/soldier_laughlong03.wav",
+			path = "vo/soldier_laughlong03.mp3",
 			length = 4.0867118835449,
 		},
 		{
-			path = "vo/soldier_laughshort01.wav",
+			path = "vo/soldier_laughshort01.mp3",
 			length = 1.152290225029,
 		},
 		{
-			path = "vo/soldier_laughshort02.wav",
+			path = "vo/soldier_laughshort02.mp3",
 			length = 1.2712925672531,
 		},
 		{
-			path = "vo/soldier_laughshort03.wav",
+			path = "vo/soldier_laughshort03.mp3",
 			length = 0.37732425332069,
 		},
 		{
-			path = "vo/soldier_laughshort04.wav",
+			path = "vo/soldier_laughshort04.mp3",
 			length = 1.0797278881073,
 		},
 	}
@@ -12807,7 +12807,7 @@ c.StartList("tf2")
 			length = 1.8750113248825,
 		},
 		{
-			path = "vo/taunts/medic_taunts16.wav",
+			path = "vo/taunts/medic_taunts16.mp3",
 			length = 3.4634921550751,
 		},
 	}
@@ -12825,7 +12825,7 @@ c.StartList("tf2")
 			length = 1.8750113248825,
 		},
 		{
-			path = "vo/taunts/medic_taunts16.wav",
+			path = "vo/taunts/medic_taunts16.mp3",
 			length = 3.4634921550751,
 		},
 	}
@@ -12836,27 +12836,27 @@ c.StartList("tf2")
 			length = 3.1927437782288,
 		},
 		{
-			path = "vo/sniper_laughlong01.wav",
+			path = "vo/sniper_laughlong01.mp3",
 			length = 5.2477097511292,
 		},
 		{
-			path = "vo/sniper_laughhappy02.wav",
+			path = "vo/sniper_laughhappy02.mp3",
 			length = 0.80108845233917,
 		},
 		{
-			path = "vo/sniper_laughhappy01.wav",
+			path = "vo/sniper_laughhappy01.mp3",
 			length = 1.1842176914215,
 		},
 		{
-			path = "vo/sniper_laughevil03.wav",
+			path = "vo/sniper_laughevil03.mp3",
 			length = 1.4396371841431,
 		},
 		{
-			path = "vo/sniper_laughevil02.wav",
+			path = "vo/sniper_laughevil02.mp3",
 			length = 1.904036283493,
 		},
 		{
-			path = "vo/sniper_laughevil01.wav",
+			path = "vo/sniper_laughevil01.mp3",
 			length = 2.1246259212494,
 		},
 	}
@@ -12867,7 +12867,7 @@ c.StartList("tf2")
 			length = 1.8750113248825,
 		},
 		{
-			path = "vo/taunts/medic_taunts16.wav",
+			path = "vo/taunts/medic_taunts16.mp3",
 			length = 3.4634921550751,
 		},
 	}
@@ -12878,7 +12878,7 @@ c.StartList("tf2")
 			length = 1.8750113248825,
 		},
 		{
-			path = "vo/taunts/medic_taunts16.wav",
+			path = "vo/taunts/medic_taunts16.mp3",
 			length = 3.4634921550751,
 		},
 	}
@@ -12889,27 +12889,27 @@ c.StartList("tf2")
 			length = 3.1230838298798,
 		},
 		{
-			path = "vo/heavy_laughlong01.wav",
+			path = "vo/heavy_laughlong01.mp3",
 			length = 6.5015873908997,
 		},
 		{
-			path = "vo/heavy_laughhappy05.wav",
+			path = "vo/heavy_laughhappy05.mp3",
 			length = 2.0259411334991,
 		},
 		{
-			path = "vo/heavy_laughhappy01.wav",
+			path = "vo/heavy_laughhappy01.mp3",
 			length = 1.155192732811,
 		},
 		{
-			path = "vo/heavy_laughhappy02.wav",
+			path = "vo/heavy_laughhappy02.mp3",
 			length = 2.1652607917786,
 		},
 		{
-			path = "vo/heavy_laughhappy03.wav",
+			path = "vo/heavy_laughhappy03.mp3",
 			length = 2.6935148239136,
 		},
 		{
-			path = "vo/heavy_laughhappy04.wav",
+			path = "vo/heavy_laughhappy04.mp3",
 			length = 1.9446711540222,
 		},
 	}
@@ -12941,51 +12941,51 @@ c.StartList("tf2")
 			length = 0.91428571939468,
 		},
 		{
-			path = "vo/medic_laughevil02.wav",
+			path = "vo/medic_laughevil02.mp3",
 			length = 0.81560093164444,
 		},
 		{
-			path = "vo/medic_laughevil03.wav",
+			path = "vo/medic_laughevil03.mp3",
 			length = 1.0594104528427,
 		},
 		{
-			path = "vo/medic_laughevil04.wav",
+			path = "vo/medic_laughevil04.mp3",
 			length = 4.2724714279175,
 		},
 		{
-			path = "vo/medic_laughevil05.wav",
+			path = "vo/medic_laughevil05.mp3",
 			length = 3.0882539749146,
 		},
 		{
-			path = "vo/medic_laughhappy01.wav",
+			path = "vo/medic_laughhappy01.mp3",
 			length = 3.4249432086945,
 		},
 		{
-			path = "vo/medic_laughhappy02.wav",
+			path = "vo/medic_laughhappy02.mp3",
 			length = 3.0882539749146,
 		},
 		{
-			path = "vo/medic_laughhappy03.wav",
+			path = "vo/medic_laughhappy03.mp3",
 			length = 1.9214512109756,
 		},
 		{
-			path = "vo/medic_laughlong01.wav",
+			path = "vo/medic_laughlong01.mp3",
 			length = 3.7616326808929,
 		},
 		{
-			path = "vo/medic_laughlong02.wav",
+			path = "vo/medic_laughlong02.mp3",
 			length = 6.5596370697021,
 		},
 		{
-			path = "vo/medic_laughshort01.wav",
+			path = "vo/medic_laughshort01.mp3",
 			length = 0.56308388710022,
 		},
 		{
-			path = "vo/medic_laughshort02.wav",
+			path = "vo/medic_laughshort02.mp3",
 			length = 0.71111112833023,
 		},
 		{
-			path = "vo/medic_laughshort03.wav",
+			path = "vo/medic_laughshort03.mp3",
 			length = 0.94621312618256,
 		},
 	}
@@ -13003,23 +13003,23 @@ c.StartList("tf2")
 			length = 4.7717008590698,
 		},
 		{
-			path = "vo/scout_laughlong01.wav",
+			path = "vo/scout_laughlong01.mp3",
 			length = 5.7469387054443,
 		},
 		{
-			path = "vo/scout_laughhappy01.wav",
+			path = "vo/scout_laughhappy01.mp3",
 			length = 0.96943312883377,
 		},
 		{
-			path = "vo/scout_laughhappy02.wav",
+			path = "vo/scout_laughhappy02.mp3",
 			length = 5.3870296478271,
 		},
 		{
-			path = "vo/scout_laughhappy03.wav",
+			path = "vo/scout_laughhappy03.mp3",
 			length = 1.4338321685791,
 		},
 		{
-			path = "vo/scout_laughhappy04.wav",
+			path = "vo/scout_laughhappy04.mp3",
 			length = 1.448344707489,
 		},
 	}
@@ -13047,83 +13047,83 @@ c.StartList("tf2")
 
 	L["tf2cheer"] = {
 		{
-			path = "misc/happy_birthday.wav",
+			path = "misc/happy_birthday.mp3",
 			length = 7.5638999938965,
 		},
 		{
-			path = "vo/engineer_cheers01.wav",
+			path = "vo/engineer_cheers01.mp3",
 			length = 1.387392282486,
 		},
 		{
-			path = "vo/engineer_cheers02.wav",
+			path = "vo/engineer_cheers02.mp3",
 			length = 1.8808163404465,
 		},
 		{
-			path = "vo/engineer_cheers07.wav",
+			path = "vo/engineer_cheers07.mp3",
 			length = 3.3320634365082,
 		},
 		{
-			path = "vo/heavy_cheers01.wav",
+			path = "vo/heavy_cheers01.mp3",
 			length = 1.3438549041748,
 		},
 		{
-			path = "vo/heavy_cheers02.wav",
+			path = "vo/heavy_cheers02.mp3",
 			length = 1.6428117752075,
 		},
 		{
-			path = "vo/heavy_cheers04.wav",
+			path = "vo/heavy_cheers04.mp3",
 			length = 1.9562811851501,
 		},
 		{
-			path = "vo/heavy_cheers07.wav",
+			path = "vo/heavy_cheers07.mp3",
 			length = 4.4001812934875,
 		},
 		{
-			path = "vo/heavy_cheers08.wav",
+			path = "vo/heavy_cheers08.mp3",
 			length = 6.7105669975281,
 		},
 		{
-			path = "vo/medic_cheers01.wav",
+			path = "vo/medic_cheers01.mp3",
 			length = 1.0216779708862,
 		},
 		{
-			path = "vo/pyro_cheers01.wav",
+			path = "vo/pyro_cheers01.mp3",
 			length = 1.0133333206177,
 		},
 		{
-			path = "vo/scout_cheers01.wav",
+			path = "vo/scout_cheers01.mp3",
 			length = 0.79528343677521,
 		},
 		{
-			path = "vo/scout_cheers03.wav",
+			path = "vo/scout_cheers03.mp3",
 			length = 0.92879819869995,
 		},
 		{
-			path = "vo/scout_cheers06.wav",
+			path = "vo/scout_cheers06.mp3",
 			length = 0.88235825300217,
 		},
 		{
-			path = "vo/sniper_cheers01.wav",
+			path = "vo/sniper_cheers01.mp3",
 			length = 0.98684805631638,
 		},
 		{
-			path = "vo/sniper_cheers05.wav",
+			path = "vo/sniper_cheers05.mp3",
 			length = 1.5325169563293,
 		},
 		{
-			path = "vo/sniper_cheers07.wav",
+			path = "vo/sniper_cheers07.mp3",
 			length = 1.149387717247,
 		},
 		{
-			path = "vo/sniper_cheers08.wav",
+			path = "vo/sniper_cheers08.mp3",
 			length = 1.381587266922,
 		},
 		{
-			path = "vo/soldier_cheers05.wav",
+			path = "vo/soldier_cheers05.mp3",
 			length = 1.1116553544998,
 		},
 		{
-			path = "vo/soldier_cheers06.wav",
+			path = "vo/soldier_cheers06.mp3",
 			length = 1.1232652664185,
 		},
 	}
@@ -13141,59 +13141,59 @@ c.StartList("tf2")
 			length = 5.0503401756287,
 		},
 		{
-			path = "vo/demoman_laughlong01.wav",
+			path = "vo/demoman_laughlong01.mp3",
 			length = 5.2244896888733,
 		},
 		{
-			path = "vo/demoman_laughhappy02.wav",
+			path = "vo/demoman_laughhappy02.mp3",
 			length = 2.3510203361511,
 		},
 		{
-			path = "vo/demoman_laughhappy01.wav",
+			path = "vo/demoman_laughhappy01.mp3",
 			length = 2.2175056934357,
 		},
 		{
-			path = "vo/demoman_laughevil01.wav",
+			path = "vo/demoman_laughevil01.mp3",
 			length = 2.1130158901215,
 		},
 		{
-			path = "vo/demoman_laughevil02.wav",
+			path = "vo/demoman_laughevil02.mp3",
 			length = 2.2929704189301,
 		},
 		{
-			path = "vo/demoman_laughevil03.wav",
+			path = "vo/demoman_laughevil03.mp3",
 			length = 2.1594557762146,
 		},
 		{
-			path = "vo/demoman_laughevil04.wav",
+			path = "vo/demoman_laughevil04.mp3",
 			length = 1.1261677742004,
 		},
 		{
-			path = "vo/demoman_laughevil05.wav",
+			path = "vo/demoman_laughevil05.mp3",
 			length = 1.1842176914215,
 		},
 		{
-			path = "vo/demoman_laughshort01.wav",
+			path = "vo/demoman_laughshort01.mp3",
 			length = 1.3409523963928,
 		},
 		{
-			path = "vo/demoman_laughshort02.wav",
+			path = "vo/demoman_laughshort02.mp3",
 			length = 1.3061224222183,
 		},
 		{
-			path = "vo/demoman_laughshort03.wav",
+			path = "vo/demoman_laughshort03.mp3",
 			length = 0.55292516946793,
 		},
 		{
-			path = "vo/demoman_laughshort04.wav",
+			path = "vo/demoman_laughshort04.mp3",
 			length = 0.48471656441689,
 		},
 		{
-			path = "vo/demoman_laughshort05.wav",
+			path = "vo/demoman_laughshort05.mp3",
 			length = 1.2625850439072,
 		},
 		{
-			path = "vo/demoman_laughshort06.wav",
+			path = "vo/demoman_laughshort06.mp3",
 			length = 0.92589569091797,
 		},
 	}
@@ -13211,23 +13211,23 @@ c.StartList("tf2")
 			length = 0.86204081773758,
 		},
 		{
-			path = "vo/soldier_niceshot01.wav",
+			path = "vo/soldier_niceshot01.mp3",
 			length = 0.83591836690903,
 		},
 		{
-			path = "vo/sniper_niceshot01.wav",
+			path = "vo/sniper_niceshot01.mp3",
 			length = 0.61242628097534,
 		},
 		{
-			path = "vo/scout_niceshot01.wav",
+			path = "vo/scout_niceshot01.mp3",
 			length = 1.0013605356216,
 		},
 		{
-			path = "vo/heavy_niceshot03.wav",
+			path = "vo/heavy_niceshot03.mp3",
 			length = 1.1697052717209,
 		},
 		{
-			path = "vo/engineer_niceshot02.wav",
+			path = "vo/engineer_niceshot02.mp3",
 			length = 0.8591383099556,
 		},
 	}
@@ -13252,28 +13252,28 @@ c.StartList("tf2")
 			length = 2.3520181179047,
 		},
 		{
-			path = "vo/pyro_laughevil02.wav",
+			path = "vo/pyro_laughevil02.mp3",
 			length = 0.8853514790535,
 		},
 		{
-			path = "vo/pyro_laughevil03.wav",
+			path = "vo/pyro_laughevil03.mp3",
 			length = 0.47467121481895,
 		},
 		{
-			path = "vo/pyro_laughevil04.wav",
+			path = "vo/pyro_laughevil04.mp3",
 			length = 1.1733332872391,
 		},
 	}
 
 	L["explosion"] = {
 		{
-			path = "weapons/explode3.wav",
+			path = "weapons/explode3.mp3",
 		},
 		{
-			path = "weapons/explode4.wav",
+			path = "weapons/explode4.mp3",
 		},
 		{
-			path = "weapons/explode5.wav",
+			path = "weapons/explode5.mp3",
 		},
 	}
 
@@ -13297,62 +13297,62 @@ c.StartList("tf2")
 			length = 2.0027210712433,
 		},
 		{
-			path = "vo/spy_laughevil02.wav",
+			path = "vo/spy_laughevil02.mp3",
 			length = 1.4686621427536,
 		},
 		{
-			path = "vo/spy_laughhappy01.wav",
+			path = "vo/spy_laughhappy01.mp3",
 			length = 1.8634014129639,
 		},
 		{
-			path = "vo/spy_laughhappy02.wav",
+			path = "vo/spy_laughhappy02.mp3",
 			length = 1.1290702819824,
 		},
 		{
-			path = "vo/spy_laughhappy03.wav",
+			path = "vo/spy_laughhappy03.mp3",
 			length = 1.6660317182541,
 		},
 		{
-			path = "vo/spy_laughlong01.wav",
+			path = "vo/spy_laughlong01.mp3",
 			length = 6.4667572975159,
 		},
 		{
-			path = "vo/spy_laughshort01.wav",
+			path = "vo/spy_laughshort01.mp3",
 			length = 0.77496600151062,
 		},
 		{
-			path = "vo/spy_laughshort02.wav",
+			path = "vo/spy_laughshort02.mp3",
 			length = 1.2596825361252,
 		},
 		{
-			path = "vo/spy_laughshort03.wav",
+			path = "vo/spy_laughshort03.mp3",
 			length = 0.87074828147888,
 		},
 		{
-			path = "vo/spy_laughshort04.wav",
+			path = "vo/spy_laughshort04.mp3",
 			length = 0.88816326856613,
 		},
 		{
-			path = "vo/spy_laughshort05.wav",
+			path = "vo/spy_laughshort05.mp3",
 			length = 0.7778685092926,
 		},
 		{
-			path = "vo/spy_laughshort06.wav",
+			path = "vo/spy_laughshort06.mp3",
 			length = 0.63854873180389,
 		},
 	}
 
 	L["moo"] = {
 		{
-			path = "ambient/cow1.wav",
+			path = "ambient/cow1.mp3",
 			length = 2.5077550411224,
 		},
 		{
-			path = "ambient/cow2.wav",
+			path = "ambient/cow2.mp3",
 			length = 3.1579139232635,
 		},
 		{
-			path = "ambient/cow3.wav",
+			path = "ambient/cow3.mp3",
 			length = 2.6993198394775,
 		},
 	}
@@ -13440,31 +13440,31 @@ c.StartList("tf2")
 			length = 0.62693876028061,
 		},
 		{
-			path = "vo/soldier_thanks02.wav",
+			path = "vo/soldier_thanks02.mp3",
 			length = 0.71401357650757,
 		},
 		{
-			path = "vo/scout_thanks01.wav",
+			path = "vo/scout_thanks01.mp3",
 			length = 0.81560093164444,
 		},
 		{
-			path = "vo/medic_thanks01.wav",
+			path = "vo/medic_thanks01.mp3",
 			length = 0.90557825565338,
 		},
 		{
-			path = "vo/heavy_thanks01.wav",
+			path = "vo/heavy_thanks01.mp3",
 			length = 1.0071655511856,
 		},
 		{
-			path = "vo/heavy_thanks03.wav",
+			path = "vo/heavy_thanks03.mp3",
 			length = 0.96027213335037,
 		},
 		{
-			path = "vo/sniper_thanks01.wav",
+			path = "vo/sniper_thanks01.mp3",
 			length = 0.5659863948822,
 		},
 		{
-			path = "vo/demoman_thanks01.wav",
+			path = "vo/demoman_thanks01.mp3",
 			length = 0.92299318313599,
 		},
 	}
@@ -13475,11 +13475,11 @@ c.StartList("tf2")
 			length = 1.7937414646149,
 		},
 		{
-			path = "vo/engineer_negativevocalization11.wav",
+			path = "vo/engineer_negativevocalization11.mp3",
 			length = 1.1087528467178,
 		},
 		{
-			path = "vo/engineer_negativevocalization10.wav",
+			path = "vo/engineer_negativevocalization10.mp3",
 			length = 1.1784126758575,
 		},
 	}
@@ -13490,19 +13490,19 @@ c.StartList("tf2")
 			length = 0.26535147428513,
 		},
 		{
-			path = "vo/scout_beingshotinvincible08.wav",
+			path = "vo/scout_beingshotinvincible08.mp3",
 			length = 0.24133786559105,
 		},
 		{
-			path = "vo/scout_beingshotinvincible16.wav",
+			path = "vo/scout_beingshotinvincible16.mp3",
 			length = 0.20267572999001,
 		},
 		{
-			path = "vo/scout_beingshotinvincible13.wav",
+			path = "vo/scout_beingshotinvincible13.mp3",
 			length = 0.17666666209698,
 		},
 		{
-			path = "vo/scout_beingshotinvincible12.wav",
+			path = "vo/scout_beingshotinvincible12.mp3",
 			length = 0.16934239864349,
 		},
 	}
@@ -13513,7 +13513,7 @@ c.StartList("tf2")
 			length = 1.0100680589676,
 		},
 		{
-			path = "/vo/taunts/sniper_taunts01.wav",
+			path = "/vo/taunts/sniper_taunts01.mp3",
 			length = 1.4686621427536,
 		},
 	}
@@ -13538,39 +13538,39 @@ c.StartList("tf2")
 			length = 0.72852605581284,
 		},
 		{
-			path = "vo/medic_medic03.wav",
+			path = "vo/medic_medic03.mp3",
 			length = 1.5238095521927,
 		},
 		{
-			path = "vo/demoman_medic03.wav",
+			path = "vo/demoman_medic03.mp3",
 			length = 0.90557825565338,
 		},
 		{
-			path = "vo/demoman_medic02.wav",
+			path = "vo/demoman_medic02.mp3",
 			length = 0.90557825565338,
 		},
 		{
-			path = "vo/demoman_medic01.wav",
+			path = "vo/demoman_medic01.mp3",
 			length = 0.91718822717667,
 		},
 		{
-			path = "vo/engineer_medic02.wav",
+			path = "vo/engineer_medic02.mp3",
 			length = 0.67047619819641,
 		},
 		{
-			path = "vo/engineer_medic03.wav",
+			path = "vo/engineer_medic03.mp3",
 			length = 0.91428571939468,
 		},
 		{
-			path = "vo/pyro_medic01.wav",
+			path = "vo/pyro_medic01.mp3",
 			length = 0.68000000715256,
 		},
 		{
-			path = "vo/scout_medic01.wav",
+			path = "vo/scout_medic01.mp3",
 			length = 0.63564628362656,
 		},
 		{
-			path = "vo/scout_medic02.wav",
+			path = "vo/scout_medic02.mp3",
 			length = 0.64435374736786,
 		},
 	}
@@ -13651,27 +13651,27 @@ c.StartList("tf2")
 			length = 0.29750567674637,
 		},
 		{
-			path = "vo/burp03.wav",
+			path = "vo/burp03.mp3",
 			length = 0.37374150753021,
 		},
 		{
-			path = "vo/burp04.wav",
+			path = "vo/burp04.mp3",
 			length = 0.92879819869995,
 		},
 		{
-			path = "vo/burp05.wav",
+			path = "vo/burp05.mp3",
 			length = 2.1618595123291,
 		},
 		{
-			path = "vo/burp02.wav",
+			path = "vo/burp02.mp3",
 			length = 0.29750567674637,
 		},
 		{
-			path = "vo/burp06.wav",
+			path = "vo/burp06.mp3",
 			length = 0.56018137931824,
 		},
 		{
-			path = "vo/burp07.wav",
+			path = "vo/burp07.mp3",
 			length = 0.98231291770935,
 		},
 	}
@@ -13682,7 +13682,7 @@ c.StartList("tf2")
 			length = 1.0100680589676,
 		},
 		{
-			path = "vo/taunts/sniper_taunts01.wav",
+			path = "vo/taunts/sniper_taunts01.mp3",
 			length = 1.4686621427536,
 		},
 	}
@@ -13770,15 +13770,15 @@ c.StartList("tf2")
 			length = 0.39328798651695,
 		},
 		{
-			path = "vo/sniper_no01.wav",
+			path = "vo/sniper_no01.mp3",
 			length = 0.51954650878906,
 		},
 		{
-			path = "vo/spy_no02.wav",
+			path = "vo/spy_no02.mp3",
 			length = 0.42376416921616,
 		},
 		{
-			path = "vo/scout_no02.wav",
+			path = "vo/scout_no02.mp3",
 			length = 0.52680271863937,
 		},
 	}
