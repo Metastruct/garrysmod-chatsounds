@@ -13782,4 +13782,18 @@ c.StartList("tf2")
 			length = 0.52680271863937,
 		},
 	}
+
+	L["i am ze ubermensch"] = {
+		{
+			path = "vo/medic_cheers05.mp3",
+			length = 0.63352084159851,
+		},
+	}
+	
+	L["i am the ubermensch"] = {
+		{
+			path = "vo/medic_cheers05.mp3",
+			length = 0.63352084159851,
+		},
+	}
 c.EndList()
