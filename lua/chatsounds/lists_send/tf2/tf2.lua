@@ -7871,13 +7871,6 @@ c.StartList("tf2")
 		},
 	}
 
-	L["i am ze bermensch"] = {
-		{
-			path = "vo/medic_cheers05.mp3",
-			length = 1.7414965629578,
-		},
-	}
-
 	L["hit me i dare you"] = {
 		{
 			path = "vo/heavy_meleedare04.mp3",
@@ -13786,14 +13779,14 @@ c.StartList("tf2")
 	L["i am ze ubermensch"] = {
 		{
 			path = "vo/medic_cheers05.mp3",
-			length = 0.63352084159851,
+			length = 1.7414965629578,
 		},
 	}
 	
 	L["i am the ubermensch"] = {
 		{
 			path = "vo/medic_cheers05.mp3",
-			length = 0.63352084159851,
+			length = 1.7414965629578,
 		},
 	}
 c.EndList()
