@@ -19,11 +19,13 @@ L["come to the town square"]={{path="chatsounds/autoadd/vinesauce/come to the to
 L["concrete"]={{path="chatsounds/autoadd/vinesauce/concrete.ogg",length=1.1498185941043084}}
 L["dada dada duts"]={{path="chatsounds/autoadd/vinesauce/dada dada duts.ogg",length=1.1080272108843539}}
 L["did anyone here order a pizza"]={{path="chatsounds/autoadd/vinesauce/did anyone here order a pizza.ogg",length=4.122063492063492}}
+L["do bears eat everything yes it just have to be much"]={{path="chatsounds/autoadd/vinesauce/do bears eat everything yes it just have to be much.ogg",length=9.4859183673469385}}
 L["do do you want a stove"]={{path="chatsounds/autoadd/vinesauce/do do you want a stove.ogg",length=1.5173469387755103}}
 L["do not do this"]={{path="chatsounds/autoadd/vinesauce/do not do this.ogg",length=1.4322675736961452}}
 L["do not make me fly"]={{path="chatsounds/autoadd/vinesauce/do not make me fly.ogg",length=1.3521995464852608}}
 L["do you have lizard that shoot"]={{path="chatsounds/autoadd/vinesauce/do you have lizard that shoot/do you have the lizard that shoot 3.ogg",length=3.7473242630385486},{path="chatsounds/autoadd/vinesauce/do you have lizard that shoot/do you have the lizard that shoot.ogg",length=1.723764172335601},{path="chatsounds/autoadd/vinesauce/do you have lizard that shoot/do you have the lizard that shoot2.ogg",length=3.0915419501133785}}
 L["do you know any other songs"]={{path="chatsounds/autoadd/vinesauce/do you know any other songs.ogg",length=1.144671201814059}}
+L["do you like bercedes men"]={{path="chatsounds/autoadd/vinesauce/do you like bercedes men.ogg",length=1.8127437641723356}}
 L["do you promise to respect the laws and regulations of rp"]={{path="chatsounds/autoadd/vinesauce/do you promise to respect the laws and regulations of rp.ogg",length=3.4872789115646259}}
 L["do you understand me"]={{path="chatsounds/autoadd/vinesauce/do you understand me.ogg",length=1.144671201814059}}
 L["do you want rp"]={{path="chatsounds/autoadd/vinesauce/do you want rp.ogg",length=1.7703174603174603}}
@@ -41,6 +43,8 @@ L["everyone come to me to the town square"]={{path="chatsounds/autoadd/vinesauce
 L["everyone line up against the wall"]={{path="chatsounds/autoadd/vinesauce/everyone line up against the wall.ogg",length=1.654671201814059}}
 L["f you youre all guilty"]={{path="chatsounds/autoadd/vinesauce/f you youre all guilty.ogg",length=2.2595918367346939}}
 L["get back here"]={{path="chatsounds/autoadd/vinesauce/get back here.ogg",length=0.93170068027210884}}
+L["get the fuckin marbles out of your mouth"]={{path="chatsounds/autoadd/vinesauce/get the fuckin marbles out of your mouth.ogg",length=1.7530158730158729}}
+L["gettin a little too close for comfort"]={{path="chatsounds/autoadd/vinesauce/gettin a little too close for comfort.ogg",length=1.5584126984126985}}
 L["go do de di di do this"]={{path="chatsounds/autoadd/vinesauce/go do de di di do this.ogg",length=2.4197278911564628}}
 L["golden brown like a shit stain on a hot summers day"]={{path="chatsounds/autoadd/vinesauce/golden brown like a shit stain on a hot summers day.ogg",length=4.3657142857142857}}
 L["goodjob"]={{path="chatsounds/autoadd/vinesauce/goodjob.ogg",length=1.0319274376417233}}
@@ -90,7 +94,9 @@ L["it feels good when i rub it on your leg"]={{path="chatsounds/autoadd/vinesauc
 L["it fufill you"]={{path="chatsounds/autoadd/vinesauce/it fufill you.ogg",length=0.86759637188208616}}
 L["it is covered with peperroni and sauce"]={{path="chatsounds/autoadd/vinesauce/it is covered with peperroni and sauce.ogg",length=2.7073242630385486}}
 L["it spit on your face do you wish to continue yes or no"]={{path="chatsounds/autoadd/vinesauce/it spit on your face do you wish to continue yes or no.ogg",length=3.0246485260770974}}
+L["its copywritten fuck you"]={{path="chatsounds/autoadd/vinesauce/its copywritten fuck you.ogg",length=1.9449659863945579}}
 L["kfc bucket f you"]={{path="chatsounds/autoadd/vinesauce/kfc bucket f you.ogg",length=1.3170748299319728}}
+L["king king"]={{path="chatsounds/autoadd/vinesauce/king king.ogg",length=1.3648752834467119}}
 L["let me tell you about jesus crust"]={{path="chatsounds/autoadd/vinesauce/let me tell you about jesus crust.ogg",length=16.497641723356008}}
 L["let me tell you what happened first"]={{path="chatsounds/autoadd/vinesauce/let me tell you what happened first.ogg",length=1.654671201814059}}
 L["let us proclaim the mystery of rp"]={{path="chatsounds/autoadd/vinesauce/let us proclaim the mystery of rp.ogg",length=3.6736054421768709}}
@@ -107,6 +113,8 @@ L["my lizard is so wet"]={{path="chatsounds/autoadd/vinesauce/my lizard is so we
 L["my naked thighs are soft against your beard"]={{path="chatsounds/autoadd/vinesauce/my naked thighs are soft against your beard.ogg",length=4.5165759637188208}}
 L["no come with me i make it sexy for you"]={{path="chatsounds/autoadd/vinesauce/no come with me i make it sexy for you.ogg",length=2.1533106575963719}}
 L["no where you going"]={{path="chatsounds/autoadd/vinesauce/no where you going.ogg",length=1.1357823129251701}}
+L["not lids dids"]={{path="chatsounds/autoadd/vinesauce/not lids dids.ogg",length=1.4331292517006802}}
+L["not regal ragal"]={{path="chatsounds/autoadd/vinesauce/not regal ragal.ogg",length=1.9278911564625851}}
 L["o k"]={{path="chatsounds/autoadd/vinesauce/o k/o k.ogg",length=0.65829931972789113},{path="chatsounds/autoadd/vinesauce/o k/o k2.ogg",length=0.72764172335600907},{path="chatsounds/autoadd/vinesauce/o k/o k3.ogg",length=1.0471655328798186},{path="chatsounds/autoadd/vinesauce/o k/o k4.ogg",length=0.70587301587301587},{path="chatsounds/autoadd/vinesauce/o k/o k5.ogg",length=0.57882086167800451},{path="chatsounds/autoadd/vinesauce/o k/o k6.ogg",length=0.98820861678004535},{path="chatsounds/autoadd/vinesauce/o k/o k7.ogg",length=0.80569160997732425}}
 L["oh hello what is your name little man"]={{path="chatsounds/autoadd/vinesauce/oh hello what is your name little man.ogg",length=2.0906122448979594}}
 L["oh i know that song thats from acdc acdc thats big in my country"]={{path="chatsounds/autoadd/vinesauce/oh i know that song thats from acdc acdc thats big in my country.ogg",length=4.7143083900226754}}
@@ -149,6 +157,7 @@ L["this guy with the black face"]={{path="chatsounds/autoadd/vinesauce/this guy 
 L["this is immigration"]={{path="chatsounds/autoadd/vinesauce/this is immigration.ogg",length=1.144671201814059}}
 L["this mf is xenophobic he hates russian people"]={{path="chatsounds/autoadd/vinesauce/this mf is xenophobic he hates russian people.ogg",length=4.0096598639455783}}
 L["this society needs to be changed"]={{path="chatsounds/autoadd/vinesauce/this society needs to be changed.ogg",length=2.7700453514739229}}
+L["to take your daily dose of color"]={{path="chatsounds/autoadd/vinesauce/to take your daily dose of color.ogg",length=2.7127210884353743}}
 L["too bad"]={{path="chatsounds/autoadd/vinesauce/too bad.ogg",length=0.90507936507936504}}
 L["town square"]={{path="chatsounds/autoadd/vinesauce/town square/town square 2.ogg",length=1.4634240362811792},{path="chatsounds/autoadd/vinesauce/town square/town square.ogg",length=1.0853061224489795}}
 L["turns out you are wearing a womans brazier"]={{path="chatsounds/autoadd/vinesauce/turns out you are wearing a womans brazier.ogg",length=2.8745804988662131}}
@@ -157,6 +166,7 @@ L["uh do you have the lizard gun"]={{path="chatsounds/autoadd/vinesauce/uh do yo
 L["vinesauce rap"]={{path="chatsounds/autoadd/vinesauce/vinesauce rap/vincesauce rap.ogg",length=10.520634920634921},{path="chatsounds/autoadd/vinesauce/vinesauce rap/vinesauce rap 2.ogg",length=21.678344671201813},{path="chatsounds/autoadd/vinesauce/vinesauce rap/vinesauce rap 3.ogg",length=10.623696145124716}}
 L["vinesauce speech"]={{path="chatsounds/autoadd/vinesauce/vinesauce speech.ogg",length=26.081451247165532}}
 L["we need to make it more communist"]={{path="chatsounds/autoadd/vinesauce/we need to make it more communist.ogg",length=1.8240589569160999}}
+L["welcome to dudna aeade"]={{path="chatsounds/autoadd/vinesauce/welcome to dudna aeade.ogg",length=1.5440136054421769}}
 L["well this sux"]={{path="chatsounds/autoadd/vinesauce/well this sux.ogg",length=0.8806122448979592}}
 L["were going to sit down and work this out together"]={{path="chatsounds/autoadd/vinesauce/were going to sit down and work this out together.ogg",length=2.5950340136054422}}
 L["what anal sex"]={{path="chatsounds/autoadd/vinesauce/what anal sex.ogg",length=1.0609750566893423}}
@@ -188,6 +198,7 @@ L["you get the pizza you open the box"]={{path="chatsounds/autoadd/vinesauce/you
 L["you go and see your lord and savior cheesus crust"]={{path="chatsounds/autoadd/vinesauce/you go and see your lord and savior cheesus crust.ogg",length=3.0156916099773241}}
 L["you have beautiful beautiful stomach"]={{path="chatsounds/autoadd/vinesauce/you have beautiful beautiful stomach.ogg",length=2.8483673469387756}}
 L["you have done wrong citizen"]={{path="chatsounds/autoadd/vinesauce/you have done wrong citizen.ogg",length=2.31297052154195}}
+L["you lazy twats"]={{path="chatsounds/autoadd/vinesauce/you lazy twats.ogg",length=1.3819274376417234}}
 L["you like the lizard"]={{path="chatsounds/autoadd/vinesauce/you like the lizard.ogg",length=1.5262131519274376}}
 L["you make it very nice very hot"]={{path="chatsounds/autoadd/vinesauce/you make it very nice very hot.ogg",length=3.2025623582766438}}
 L["you now naked head to toe"]={{path="chatsounds/autoadd/vinesauce/you now naked head to toe.ogg",length=2.106281179138322}}
