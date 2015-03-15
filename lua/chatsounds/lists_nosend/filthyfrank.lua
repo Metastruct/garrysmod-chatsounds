@@ -7,7 +7,7 @@ L["boss"]={{path="chatsounds/autoadd/filthyfrank/boss/boss1.ogg",length=0.769977
 L["boss pls"]={{path="chatsounds/autoadd/filthyfrank/boss pls.ogg",length=0.82430839002267575}}
 L["can i have pizza pls"]={{path="chatsounds/autoadd/filthyfrank/can i have pizza pls/Can i have a pizza pls1.ogg",length=1.3474603174603175},{path="chatsounds/autoadd/filthyfrank/can i have pizza pls/Can i have a pizza pls2.ogg",length=1.6722902494331067}}
 L["can i have pussy"]={{path="chatsounds/autoadd/filthyfrank/can i have pussy.ogg",length=1.3631972789115647}}
-L["franksegue"]={{path="chatsounds/autoadd/filthyfrank/franksegue/franksegue1.OGG",length=14.341224489795918},{path="chatsounds/autoadd/filthyfrank/franksegue/franksegue2.OGG",length=9.6342630385487524}}
+L["franksegue"]={{path="chatsounds/autoadd/filthyfrank/franksegue/franksegue1.ogg",length=14.341224489795918},{path="chatsounds/autoadd/filthyfrank/franksegue/franksegue2.ogg",length=9.6342630385487524}}
 L["hey boss"]={{path="chatsounds/autoadd/filthyfrank/hey boss/Hey boss1.ogg",length=0.40904761904761905},{path="chatsounds/autoadd/filthyfrank/hey boss/Hey boss2.ogg",length=0.66170068027210882},{path="chatsounds/autoadd/filthyfrank/hey boss/Hey boss3.ogg",length=0.8180952380952381}}
 L["hey what the hell do you want"]={{path="chatsounds/autoadd/filthyfrank/hey what the hell do you want.ogg",length=1.1609977324263039}}
 L["i have cancer boss"]={{path="chatsounds/autoadd/filthyfrank/i have cancer boss.ogg",length=1.612562358276644}}
