@@ -30,6 +30,7 @@ L["eheiaeheia"]={{path="chatsounds/autoadd/feshpince/eheiaeheia.ogg",length=2.33
 L["fuck you nigga"]={{path="chatsounds/autoadd/feshpince/fuck you nigga.ogg",length=0.78657596371882088}}
 L["fuck your father fuck you nigga your phone"]={{path="chatsounds/autoadd/feshpince/fuck your father fuck you nigga your phone.ogg",length=2.6615873015873017}}
 L["geofferyno"]={{path="chatsounds/autoadd/feshpince/geofferyno.ogg",length=0.71401360544217685}}
+L["geofferysound"]={{path="chatsounds/autoadd/feshpince/geofferysound.ogg",length=0.57605442176870747}}
 L["get will some cookies"]={{path="chatsounds/autoadd/feshpince/get will some cookies.ogg",length=1.4744671201814059}}
 L["haauh"]={{path="chatsounds/autoadd/feshpince/haauh.ogg",length=0.76770975056689339}}
 L["heheheh"]={{path="chatsounds/autoadd/feshpince/heheheh.ogg",length=0.97959183673469385}}
