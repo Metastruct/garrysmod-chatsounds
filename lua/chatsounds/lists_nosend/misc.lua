@@ -32,6 +32,7 @@ L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.48594104308
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.36623582766439911}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.8731292517006803}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.3156689342403629}}
+L["ile"]={{path="chatsounds/autoadd/misc/ile.wav",length=0.80764172335600903}}
 L["is"]={{path="chatsounds/autoadd/misc/is.ogg",length=0.19374149659863946}}
 L["isnt"]={{path="chatsounds/autoadd/misc/isnt.ogg",length=0.28585034013605443}}
 L["it begins"]={{path="chatsounds/autoadd/misc/it begins.ogg",length=1.4740136054421769}}
