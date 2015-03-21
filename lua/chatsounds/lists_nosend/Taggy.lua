@@ -14,7 +14,6 @@ L["its the sky"]={{path="chatsounds/autoadd/Taggy/Its the sky.ogg",length=1.0860
 L["maida e"]={{path="chatsounds/autoadd/Taggy/Maida e.ogg",length=1.3550113378684807}}
 L["mnn"]={{path="chatsounds/autoadd/Taggy/Mnn.ogg",length=1.1390022675736962}}
 L["mno"]={{path="chatsounds/autoadd/Taggy/Mno.ogg",length=0.85099773242630383}}
-L["music"]={{path="chatsounds/autoadd/Taggy/Music.ogg",length=3.852018140589569}}
 L["my cabbages"]={{path="chatsounds/autoadd/Taggy/My cabbages.ogg",length=2.4520861678004535}}
 L["my plump juicy breasts are none of your goddamn business and youre one to talk you chubby little queer"]={{path="chatsounds/autoadd/Taggy/My plump juicy breasts are none of your goddamn business and youre one to talk you chubby little queer.ogg",length=7.0060317460317458}}
 L["nigga youre crazy i cant afford an xbox"]={{path="chatsounds/autoadd/Taggy/Nigga youre crazy I cant afford an Xbox.ogg",length=2.6733560090702948}}
@@ -44,5 +43,6 @@ L["you were close"]={{path="chatsounds/autoadd/Taggy/You were close.ogg",length=
 L["youre gonna pay for this"]={{path="chatsounds/autoadd/Taggy/Youre gonna pay for this.ogg",length=1.7343310657596371}}
 L["youre stupid"]={{path="chatsounds/autoadd/Taggy/Youre stupid.ogg",length=1.0206122448979591}}
 L["e me cha"]={{path="chatsounds/autoadd/Taggy/e me cha.ogg",length=1.3180045351473924}}
+L["elevmusic"]={{path="chatsounds/autoadd/Taggy/elevmusic.ogg",length=3.852018140589569}}
 L["kudasai"]={{path="chatsounds/autoadd/Taggy/kudasai.ogg",length=0.84600907029478456}}
 c.EndList()
