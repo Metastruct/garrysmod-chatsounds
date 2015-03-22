@@ -14,7 +14,9 @@ L["or call me supa hot boy hundred degrees leather jacket cause im supa hot boy"
 L["rapbattlecheer"]={{path="chatsounds/autoadd/rapbattle/rapbattlecheer/rapbattlecheer1.ogg",length=10.852471655328799},{path="chatsounds/autoadd/rapbattle/rapbattlecheer/rapbattlecheer2.ogg",length=11.06904761904762},{path="chatsounds/autoadd/rapbattle/rapbattlecheer/rapbattlecheer3.ogg",length=10.106507936507937},{path="chatsounds/autoadd/rapbattle/rapbattlecheer/rapbattlecheer4.ogg",length=9.270317460317461},{path="chatsounds/autoadd/rapbattle/rapbattlecheer/rapbattlecheer5.ogg",length=9.9380725623582773}}
 L["second of all im not a rapper so stop rapping at me"]={{path="chatsounds/autoadd/rapbattle/second of all im not a rapper so stop rapping at me.ogg",length=4.3434013605442177}}
 L["sike thats the wrong number"]={{path="chatsounds/autoadd/rapbattle/sike thats the wrong number.ogg",length=2.454421768707483}}
+L["sike"]={{path="chatsounds/autoadd/rapbattle/sike.ogg",length=0.6430385487528345}}
 L["supa hot fire"]={{path="chatsounds/autoadd/rapbattle/supa hot fire.ogg",length=2.4303628117913831}}
 L["sweet dollar tea from mcdonalds"]={{path="chatsounds/autoadd/rapbattle/sweet dollar tea from mcdonalds.ogg",length=2.5987981859410429}}
+L["thats the wrong number"]={{path="chatsounds/autoadd/rapbattle/thats the wrong number.ogg",length=1.4742857142857142}}
 L["two and a half men i watch that"]={{path="chatsounds/autoadd/rapbattle/two and a half men i watch that.ogg",length=3.3207256235827662}}
 c.EndList()
