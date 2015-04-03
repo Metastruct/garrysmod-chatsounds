@@ -8,6 +8,7 @@ L["grr"]={{path="chatsounds/autoadd/gigispahz/grr.ogg",length=1.3326077097505669
 L["i have irritable bells"]={{path="chatsounds/autoadd/gigispahz/i have irritable bells.ogg",length=1.8215646258503402}}
 L["i said no"]={{path="chatsounds/autoadd/gigispahz/i said no.ogg",length=1.1226303854875284}}
 L["i wasnt even talking but you need to shut up because im im not even talking but i dont care"]={{path="chatsounds/autoadd/gigispahz/i wasnt even talking but you need to shut up because im im not even talking but i dont care.ogg",length=5.0275056689342401}}
+L["id shower you with coconut cream pies"]={{path="chatsounds/autoadd/gigispahz/id shower you with coconut cream pies.ogg",length=5.7975510204081635}}
 L["im a man dog i dont even see any colors"]={{path="chatsounds/autoadd/gigispahz/im a man dog i dont even see any colors.ogg",length=2.2479591836734696}}
 L["its no use"]={{path="chatsounds/autoadd/gigispahz/its no use.ogg",length=1.2386621315192743}}
 L["looks like team rocket blasting off again"]={{path="chatsounds/autoadd/gigispahz/looks like team rocket blasting off again.ogg",length=5.0429024943310656}}
