@@ -28,7 +28,6 @@ L["lets rock"]={{path="chatsounds/autoadd/dengoan/lets rock.ogg",length=1.297482
 L["meeeee"]={{path="chatsounds/autoadd/dengoan/meeeee.ogg",length=3.5525623582766439}}
 L["messatsu"]={{path="chatsounds/autoadd/dengoan/messatsu.ogg",length=1.3699773242630386}}
 L["muda muda muda muda"]={{path="chatsounds/autoadd/dengoan/muda muda muda muda/muda muda muda muda1.ogg",length=6.8830385487528343},{path="chatsounds/autoadd/dengoan/muda muda muda muda/muda muda muda muda2.ogg",length=6.2393877551020411}}
-L["muda muda muda muda"]={{path="chatsounds/autoadd/dengoan/muda muda muda muda.ogg",length=3.7778231292517006}}
 L["no means no"]={{path="chatsounds/autoadd/dengoan/no means no.ogg",length=1.5383446712018141}}
 L["oh god"]={{path="chatsounds/autoadd/dengoan/oh god.ogg",length=1.6265759637188208}}
 L["okai"]={{path="chatsounds/autoadd/dengoan/okai.ogg",length=0.5061224489795918}}
