@@ -35,7 +35,7 @@ HOW TO CHANGE OGG QUALITY IN AUDACITY:
 1.	Click on "File" > "Export"
 2.	Select "Ogg Vorbis Files" in the "Save as type" drop-down menu.
 3.	Click on "Options..."
-4.	Adjust the slider and set it to 3 (https://dl.dropboxusercontent.com/u/166987820/ShareX/2014/07/2014-07-07_00-29-21.png)
+4.	Adjust the slider and set it to 3
 5.	Press OK 
 
 HOW TO CONVERT WITH FOOBAR2000:
