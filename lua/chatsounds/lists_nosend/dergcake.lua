@@ -4,6 +4,7 @@ L["beepfckingboop"]={{path="chatsounds/autoadd/dergcake/beepfckingboop.ogg",leng
 L["behold"]={{path="chatsounds/autoadd/dergcake/behold.ogg",length=6.3158276643990927}}
 L["crushyou"]={{path="chatsounds/autoadd/dergcake/crushyou.ogg",length=2.1362358276643989}}
 L["darklow"]={{path="chatsounds/autoadd/dergcake/darklow/darklow1.ogg",length=0.82798185941043079},{path="chatsounds/autoadd/dergcake/darklow/darklow2.ogg",length=0.75600907029478459}}
+L["digital style"]={{path="chatsounds/autoadd/dergcake/digital style.ogg",length=1.2479818594104308}}
 L["endgame"]={{path="chatsounds/autoadd/dergcake/endgame/endgame1.ogg",length=54.02122448979592},{path="chatsounds/autoadd/dergcake/endgame/endgame2.ogg",length=54.177959183673472},{path="chatsounds/autoadd/dergcake/endgame/endgame3.ogg",length=53.342040816326531},{path="chatsounds/autoadd/dergcake/endgame/endgame4.ogg",length=53.342040816326531},{path="chatsounds/autoadd/dergcake/endgame/endgame5.ogg",length=53.655510204081629},{path="chatsounds/autoadd/dergcake/endgame/endgame6.ogg",length=52.479999999999997}}
 L["failcake"]={{path="chatsounds/autoadd/dergcake/failcake/failcake1.ogg",length=1.0079818594104308},{path="chatsounds/autoadd/dergcake/failcake/failcake2.ogg",length=0.79201814058956921}}
 L["flex"]={{path="chatsounds/autoadd/dergcake/flex.ogg",length=0.90000000000000002}}
