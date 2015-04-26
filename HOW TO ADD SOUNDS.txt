@@ -1,10 +1,12 @@
-1.	Ask <insert admin here> to get access to the chatsounds SVN
-2.	Once you have access, go to http://code.google.com/hosting/settings to get your password
-3.	Right click in the root of the chatsounds svn folder and go to "TortoiseSVN -> Relocate..." and change the url from
-	http://garrysmod-chatsounds.googlecode.com/svn to https://garrysmod-chatsounds.googlecode.com/svn
-	(http to https)
+https://github.com/Metastruct/garrysmod-chatsounds
 
-4.	Add the sounds using the preferred format.
+1.	Ask <insert admin here> to get access to the chatsounds GitHub
+		( or make a fork and pull request: https://help.github.com/articles/fork-a-repo/ )
+
+2.	Right click in the garrysmod/garrysmod/addons folder and "SVN Checkout..." the url: https://github.com/Metastruct/garrysmod-chatsounds
+		( or if you forked: https://github.com/YOUR_USERNAME/garrysmod-chatsounds )
+
+3.	Add the sounds using the preferred format.
 	
 	=============================================
 	format      : ogg
@@ -16,12 +18,12 @@
 	
 	Name your folders properly or you'll make !cake angry. D:<
 	Ensure that you can spell  or you'll make !cake angry. D:<
-	
-5.	Make sure you remove left over files that aren't ogg files
-6.	Commit!!
 
-If you're still confused see this tutorial 
-http://mostafazh.me/2009/03/02/how-to-use-svn-with-google-code/
+4.	Make sure you remove left over files that aren't ogg files
+5.	Run chatsounds-preprocessor-full in the root of the repo ( this will generate the list files for you )
+6.	Commit!!
+7.	If you forked you will need to create a "Pull Request": https://help.github.com/articles/creating-a-pull-request/
+
 
 You can use Audacity, foobar2000 or Adobe Audition to convert to ogg.
 
