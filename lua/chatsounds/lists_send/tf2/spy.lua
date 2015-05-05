@@ -1511,7 +1511,7 @@ c.StartList("spy")
 		},
 	}
 
-	L["long"] = {
+	L["laughlong"] = {
 		{
 			path = "vo/spy_laughlong01.mp3",
 			length = 6.4667573696145,
