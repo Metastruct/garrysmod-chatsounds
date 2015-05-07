@@ -8,6 +8,7 @@ L["and then we rp together"]={{path="chatsounds/autoadd/vinesauce/and then we rp
 L["anyone want to rp follow me ok"]={{path="chatsounds/autoadd/vinesauce/anyone want to rp follow me ok.ogg",length=2.9973242630385486}}
 L["anyone want to rp with a dead body"]={{path="chatsounds/autoadd/vinesauce/anyone want to rp with a dead body.ogg",length=2.0941269841269841}}
 L["ar"]={{path="chatsounds/autoadd/vinesauce/ar.ogg",length=5.5035147392290247}}
+L["baah"]={{path="chatsounds/autoadd/vinesauce/baah/baah.ogg",length=0.46376417233560091},{path="chatsounds/autoadd/vinesauce/baah/baah2.ogg",length=0.49555555555555558}}
 L["but why did you kill these men these men were good men"]={{path="chatsounds/autoadd/vinesauce/but why did you kill these men these men were good men.ogg",length=3.6376417233560092}}
 L["can i open a prostitution ring"]={{path="chatsounds/autoadd/vinesauce/can i open a prostitution ring.ogg",length=1.9076870748299319}}
 L["can you show me to them please thank you"]={{path="chatsounds/autoadd/vinesauce/can you show me to them please thank you.ogg",length=2.0142630385487528}}
@@ -90,6 +91,7 @@ L["im a fucking cop"]={{path="chatsounds/autoadd/vinesauce/im a fucking cop.ogg"
 L["im looking to do some rp"]={{path="chatsounds/autoadd/vinesauce/im looking to do some rp.ogg",length=1.9432879818594104}}
 L["im not weird"]={{path="chatsounds/autoadd/vinesauce/im not weird.ogg",length=1.2020861678004535}}
 L["in hererrr"]={{path="chatsounds/autoadd/vinesauce/in hererrr.ogg",length=0.91396825396825399}}
+L["is that what a deer sounds like"]={{path="chatsounds/autoadd/vinesauce/is that what a deer sounds like.ogg",length=3.4597732426303853}}
 L["it feels good when i rub it on your leg"]={{path="chatsounds/autoadd/vinesauce/it feels good when i rub it on your leg.ogg",length=3.533106575963719}}
 L["it fufill you"]={{path="chatsounds/autoadd/vinesauce/it fufill you.ogg",length=0.86759637188208616}}
 L["it is covered with peperroni and sauce"]={{path="chatsounds/autoadd/vinesauce/it is covered with peperroni and sauce.ogg",length=2.7073242630385486}}
