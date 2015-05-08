@@ -22,7 +22,7 @@ L["one"]={{path="chatsounds/autoadd/hatintime/one/1.ogg",length=0.68752834467120
 L["ow"]={{path="chatsounds/autoadd/hatintime/ow/1.ogg",length=0.75934240362811789},{path="chatsounds/autoadd/hatintime/ow/2.ogg",length=0.29179138321995463}}
 L["three"]={{path="chatsounds/autoadd/hatintime/three/1.ogg",length=0.9045578231292517},{path="chatsounds/autoadd/hatintime/three/2.ogg",length=0.7146485260770975}}
 L["two"]={{path="chatsounds/autoadd/hatintime/two/1.ogg",length=0.76907029478458044},{path="chatsounds/autoadd/hatintime/two/2.ogg",length=0.57120181405895687}}
-L["uh ok"]={{path="chatsounds/autoadd/hatintime/uh ok/1.ogg",length=0.89249433106575959}}
+L["uh oh"]={{path="chatsounds/autoadd/hatintime/uh ok/1.ogg",length=0.89249433106575959}}
 L["unf"]={{path="chatsounds/autoadd/hatintime/unf/1.ogg",length=0.34687074829931974},{path="chatsounds/autoadd/hatintime/unf/2.ogg",length=0.28303854875283446}}
 L["whoah"]={{path="chatsounds/autoadd/hatintime/whoah/1.ogg",length=0.34519274376417236},{path="chatsounds/autoadd/hatintime/whoah/2.ogg",length=0.42936507936507934}}
 L["ya"]={{path="chatsounds/autoadd/hatintime/ya/1.ogg",length=0.20573696145124717},{path="chatsounds/autoadd/hatintime/ya/2.ogg",length=0.29226757369614514},{path="chatsounds/autoadd/hatintime/ya/3.ogg",length=0.18870748299319728},{path="chatsounds/autoadd/hatintime/ya/4.ogg",length=0.19743764172335601}}
