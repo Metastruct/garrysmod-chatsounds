@@ -1,4 +1,5 @@
 c.StartList("Black_Mage")
+L["awesome mmm bye"]={{path="chatsounds/autoadd/Black_Mage/awesome mmm bye.ogg",length=6.5009977324263035}}
 L["bayonettacontinueno"]={{path="chatsounds/autoadd/Black_Mage/bayonettacontinueno.ogg",length=5.2395238095238099}}
 L["bayonettacontinuenodeath"]={{path="chatsounds/autoadd/Black_Mage/bayonettacontinuenodeath.ogg",length=4.5848299319727888}}
 L["bayonettacontinueyes"]={{path="chatsounds/autoadd/Black_Mage/bayonettacontinueyes.ogg",length=4.983605442176871}}
