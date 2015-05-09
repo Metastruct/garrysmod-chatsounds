@@ -60,16 +60,16 @@ L["uh oh"]={{path="chatsounds/autoadd/hatintime/uh oh/1.ogg",length=0.8924943310
 L["unf"]={{path="chatsounds/autoadd/hatintime/unf/1.ogg",length=0.34687074829931974},{path="chatsounds/autoadd/hatintime/unf/2.ogg",length=0.28303854875283446}}
 L["vanessa in here"]={{path="chatsounds/autoadd/hatintime/vanessa in here/1.ogg",length=8.8749886621315195}}
 L["vanessaattic"]={{path="chatsounds/autoadd/hatintime/vanessaattic/1.ogg",length=76.878367346938774}}
+L["vanessacalling"]={{path="chatsounds/autoadd/hatintime/vanessacalling/1.ogg",length=4.75}}
 L["vanessacaught"]={{path="chatsounds/autoadd/hatintime/vanessacaught/1.ogg",length=12.016326530612245}}
 L["vanessacellar"]={{path="chatsounds/autoadd/hatintime/vanessacellar/1.ogg",length=76.878367346938774}}
 L["vanessalaugh"]={{path="chatsounds/autoadd/hatintime/vanessalaugh/1.ogg",length=3},{path="chatsounds/autoadd/hatintime/vanessalaugh/2.ogg",length=3},{path="chatsounds/autoadd/hatintime/vanessalaugh/3.ogg",length=3.25},{path="chatsounds/autoadd/hatintime/vanessalaugh/4.ogg",length=5.5},{path="chatsounds/autoadd/hatintime/vanessalaugh/5.ogg",length=8.1249886621315195}}
 L["vanessaonherway"]={{path="chatsounds/autoadd/hatintime/vanessaonherway/1.ogg",length=28.839183673469389}}
 L["vanessaquiet"]={{path="chatsounds/autoadd/hatintime/vanessaquiet/1.ogg",length=307.04326530612246}}
 L["vanessasheisclose"]={{path="chatsounds/autoadd/hatintime/vanessasheisclose/1.ogg",length=28.839183673469389}}
+L["vanessasheishere"]={{path="chatsounds/autoadd/hatintime/vanessasheishere/1.ogg",length=28.839183673469389}}
 L["vanessaspotted"]={{path="chatsounds/autoadd/hatintime/vanessaspotted/1.ogg",length=2.7167346938775512}}
-L["venessacalling"]={{path="chatsounds/autoadd/hatintime/venessacalling/1.ogg",length=4.75}}
-L["venessasheishere"]={{path="chatsounds/autoadd/hatintime/venessasheishere/1.ogg",length=28.839183673469389}}
-L["venesssawhythere"]={{path="chatsounds/autoadd/hatintime/venesssawhythere/1.ogg",length=5.5}}
+L["vanesssawhythere"]={{path="chatsounds/autoadd/hatintime/vanesssawhythere/1.ogg",length=5.5}}
 L["we had a little intruder"]={{path="chatsounds/autoadd/hatintime/we had a little intruder/1.ogg",length=10.166031746031747}}
 L["where do you think youre going"]={{path="chatsounds/autoadd/hatintime/where do you think youre going/1.ogg",length=5.1064625850340137}}
 L["whoah"]={{path="chatsounds/autoadd/hatintime/whoah/1.ogg",length=0.34519274376417236},{path="chatsounds/autoadd/hatintime/whoah/2.ogg",length=0.42936507936507934}}
