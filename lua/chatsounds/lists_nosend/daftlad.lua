@@ -18,6 +18,7 @@ L["cleanup"]={{path="chatsounds/autoadd/daftlad/cleanup.ogg",length=0.8718140589
 L["cocks"]={{path="chatsounds/autoadd/daftlad/cocks.ogg",length=0.67757369614512475}}
 L["cor blimey"]={{path="chatsounds/autoadd/daftlad/cor blimey.ogg",length=0.79410430839002266}}
 L["did you hear a whooping just now"]={{path="chatsounds/autoadd/daftlad/did you hear a whooping just now.ogg",length=1.6215419501133788}}
+L["disappointed"]={{path="chatsounds/autoadd/daftlad/disappointed.ogg",length=1.8662131519274376}}
 L["do what you want cause a pirate is free"]={{path="chatsounds/autoadd/daftlad/do what you want cause a pirate is free.ogg",length=2.0160997732426305}}
 L["dont talk"]={{path="chatsounds/autoadd/daftlad/dont talk.ogg",length=1.2065532879818595}}
 L["eugh im dead"]={{path="chatsounds/autoadd/daftlad/eugh im dead.ogg",length=2.6763265306122448}}
