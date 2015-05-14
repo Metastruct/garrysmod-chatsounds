@@ -9,8 +9,10 @@ L["dontloseyourway"]={{path="chatsounds/autoadd/Black_Mage/dontloseyourway.ogg",
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/Black_Mage/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/Black_Mage/jeannecontinueno.ogg",length=4.8476190476190473}}
 L["keel over and die"]={{path="chatsounds/autoadd/Black_Mage/keel over and die.ogg",length=3.0563265306122447}}
+L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/Black_Mage/leedle leedle leedle lee.ogg",length=1.75}}
 L["letsboomboom"]={{path="chatsounds/autoadd/Black_Mage/letsboomboom.ogg",length=2.3250113378684807}}
 L["mindblown"]={{path="chatsounds/autoadd/Black_Mage/mindblown.ogg",length=23.797551020408164}}
+L["mmm try again"]={{path="chatsounds/autoadd/Black_Mage/mmm try again.ogg",length=1.5}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/Black_Mage/mrkrabsviolin.ogg",length=36.784920634920638}}
 L["nightistandsad"]={{path="chatsounds/autoadd/Black_Mage/nightistandsad.ogg",length=97.200000000000003}}
 L["penis"]={{path="chatsounds/autoadd/Black_Mage/penis.ogg",length=0.90000000000000002}}
