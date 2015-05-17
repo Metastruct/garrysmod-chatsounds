@@ -7,6 +7,7 @@ L["bayonettacontinueyes"]={{path="chatsounds/autoadd/Black_Mage/bayonettacontinu
 L["bayonettagameover"]={{path="chatsounds/autoadd/Black_Mage/bayonettagameover.ogg",length=8.7903174603174605}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/Black_Mage/dontloseyourway.ogg",length=35.899999999999999}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/Black_Mage/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}
+L["is this the krusty krab"]={{path="chatsounds/autoadd/Black_Mage/is this the krusty krab/1.ogg",length=1.3570068027210884},{path="chatsounds/autoadd/Black_Mage/is this the krusty krab/2.ogg",length=1.1839909297052154},{path="chatsounds/autoadd/Black_Mage/is this the krusty krab/3.ogg",length=1.3319727891156463}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/Black_Mage/jeannecontinueno.ogg",length=4.8476190476190473}}
 L["keel over and die"]={{path="chatsounds/autoadd/Black_Mage/keel over and die.ogg",length=3.0563265306122447}}
 L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/Black_Mage/leedle leedle leedle lee.ogg",length=1.75}}
@@ -15,6 +16,8 @@ L["mindblown"]={{path="chatsounds/autoadd/Black_Mage/mindblown.ogg",length=23.79
 L["mmm try again"]={{path="chatsounds/autoadd/Black_Mage/mmm try again.ogg",length=1.5}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/Black_Mage/mrkrabsviolin.ogg",length=36.784920634920638}}
 L["nightistandsad"]={{path="chatsounds/autoadd/Black_Mage/nightistandsad.ogg",length=97.200000000000003}}
+L["no this is patrick"]={{path="chatsounds/autoadd/Black_Mage/no this is patrick/1.ogg",length=1.46},{path="chatsounds/autoadd/Black_Mage/no this is patrick/2.ogg",length=2.6146258503401358},{path="chatsounds/autoadd/Black_Mage/no this is patrick/3.ogg",length=3.0586167800453516}}
+L["overtime"]={{path="chatsounds/autoadd/Black_Mage/overtime.ogg",length=1.3609750566893424}}
 L["penis"]={{path="chatsounds/autoadd/Black_Mage/penis.ogg",length=0.90000000000000002}}
 L["smashing"]={{path="chatsounds/autoadd/Black_Mage/smashing.ogg",length=1.5571428571428572}}
 L["squiddyg"]={{path="chatsounds/autoadd/Black_Mage/squiddyg.ogg",length=61.085850340136055}}
