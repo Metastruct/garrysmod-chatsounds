@@ -1,4 +1,5 @@
 c.StartList("mitterdoo")
+L["fuck you"]={{path="chatsounds/autoadd/mitterdoo/fuck you.ogg",length=0.8990476190476191}}
 L["i swear to christ ill hook you in the gabba"]={{path="chatsounds/autoadd/mitterdoo/i swear to christ ill hook you in the gabba.ogg",length=3.0882539682539685}}
 L["i swear u are one cheeky cunt mate"]={{path="chatsounds/autoadd/mitterdoo/i swear u are one cheeky cunt mate.ogg",length=2.5658049886621317}}
 L["mitterdoo"]={{path="chatsounds/autoadd/mitterdoo/mitterdoo/mitterdoo1.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/mitterdoo/mitterdoo/mitterdoo2.ogg",length=0.55727891156462583}}
