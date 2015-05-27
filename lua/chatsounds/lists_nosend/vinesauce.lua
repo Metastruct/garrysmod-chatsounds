@@ -151,7 +151,6 @@ L["secret is in the treet"]={{path="chatsounds/autoadd/vinesauce/secret is in th
 L["shoot him in the face pls"]={{path="chatsounds/autoadd/vinesauce/shoot him in the face pls.ogg",length=1.4233560090702948}}
 L["snoop doggie dog in the house"]={{path="chatsounds/autoadd/vinesauce/snoop doggie dog in the house.ogg",length=11.897777777777778}}
 L["so i had no choice"]={{path="chatsounds/autoadd/vinesauce/so i had no choice.ogg",length=1.1712925170068027}}
-L["soi soi soi"]={{path="chatsounds/autoadd/vinesauce/soi soi soi.ogg",length=1.1946031746031747}}
 L["spaalonebabuguuscooties"]={{path="chatsounds/autoadd/vinesauce/spaalonebabuguuscooties.ogg",length=1.7189569160997733}}
 L["spay me for the dooret"]={{path="chatsounds/autoadd/vinesauce/spay me for the dooret.ogg",length=1.4013378684807256}}
 L["spay me"]={{path="chatsounds/autoadd/vinesauce/spay me.ogg",length=1.1210657596371882}}
