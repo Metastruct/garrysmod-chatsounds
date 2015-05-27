@@ -47,7 +47,7 @@ L["no i dont want that"]={{path="chatsounds/autoadd/Tenrys/no i dont want that.o
 L["no"]={{path="chatsounds/autoadd/Tenrys/no.ogg",length=0.29365079365079366}}
 L["ogh"]={{path="chatsounds/autoadd/Tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/Tenrys/oh yeah.ogg",length=1.1252607709750566}}
-L["soi soi soi"]={{path="chatsounds/autoadd/Tenrys/soi soi soi.ogg",length=21.472653061224491}}
+L["soi soi soi"]={{path="chatsounds/autoadd/Tenrys/soi soi soi.ogg",length=1.1922448979591838}}
 L["tenrys"]={{path="chatsounds/autoadd/Tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/Tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/Tenrys/tenrys/3.ogg",length=0.49403628117913834}}
 L["thanks for watching"]={{path="chatsounds/autoadd/Tenrys/thanks for watching.ogg",length=0.88900226757369616}}
 L["this is susans cooking school"]={{path="chatsounds/autoadd/Tenrys/this is susans cooking school.ogg",length=1.4334920634920636}}
