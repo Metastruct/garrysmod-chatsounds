@@ -22,7 +22,8 @@ L["dun"]={{path="chatsounds/autoadd/Tenrys/dun/dun01.ogg",length=1.1724489795918
 L["dun dun dun vroom"]={{path="chatsounds/autoadd/Tenrys/dun dun dun vroom.ogg",length=1.0873242630385487}}
 L["dun dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun dun.ogg",length=2.4032653061224489}}
 L["dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun.ogg",length=2.1681632653061222}}
-L["expand dong"]={{path="chatsounds/autoadd/Tenrys/expand dong/1.ogg",length=1.0245804988662131},{path="chatsounds/autoadd/Tenrys/expand dong/2.ogg",length=1.1884126984126984}}
+L["emulator dying"]={{path="chatsounds/autoadd/Tenrys/emulator dying.ogg",length=36.334716553287983}}
+L["expand dong"]={{path="chatsounds/autoadd/Tenrys/expand dong/1.ogg",length=1.0245804988662131},{path="chatsounds/autoadd/Tenrys/expand dong/2.ogg",length=1.1884126984126984},{path="chatsounds/autoadd/Tenrys/expand dong/3.ogg",length=1.0801587301587301}}
 L["fap sounds"]={{path="chatsounds/autoadd/Tenrys/fap sounds.ogg",length=4.7145124716553291}}
 L["fart"]={{path="chatsounds/autoadd/Tenrys/fart.ogg",length=0.20160997732426303}}
 L["gay bagels"]={{path="chatsounds/autoadd/Tenrys/gay bagels.ogg",length=0.93344671201814056}}
@@ -38,12 +39,15 @@ L["killbill"]={{path="chatsounds/autoadd/Tenrys/killbill.ogg",length=14.81142857
 L["kirby invincibility"]={{path="chatsounds/autoadd/Tenrys/kirby invincibility.ogg",length=5.4549659863945577}}
 L["kup teraz"]={{path="chatsounds/autoadd/Tenrys/kup teraz/1.ogg",length=1.1256689342403627},{path="chatsounds/autoadd/Tenrys/kup teraz/2.ogg",length=0.97736961451247162}}
 L["look at you"]={{path="chatsounds/autoadd/Tenrys/look at you.ogg",length=0.96038548752834463}}
+L["meow robotic"]={{path="chatsounds/autoadd/Tenrys/meow robotic.ogg",length=0.75097505668934239}}
+L["my roflcopter goes"]={{path="chatsounds/autoadd/Tenrys/my roflcopter goes.ogg",length=1.5407482993197279}}
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/Tenrys/nice legs daisy dukes makes a man go.ogg",length=2.6178231292517005}}
 L["ninja combo"]={{path="chatsounds/autoadd/Tenrys/ninja combo/swoosh 1.ogg",length=1.0710204081632653},{path="chatsounds/autoadd/Tenrys/ninja combo/swoosh 2.ogg",length=0.70530612244897961}}
 L["no i dont want that"]={{path="chatsounds/autoadd/Tenrys/no i dont want that.ogg",length=3.0345578231292518}}
 L["no"]={{path="chatsounds/autoadd/Tenrys/no.ogg",length=0.29365079365079366}}
 L["ogh"]={{path="chatsounds/autoadd/Tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/Tenrys/oh yeah.ogg",length=1.1252607709750566}}
+L["soi soi soi"]={{path="chatsounds/autoadd/Tenrys/soi soi soi.ogg",length=21.472653061224491}}
 L["tenrys"]={{path="chatsounds/autoadd/Tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/Tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/Tenrys/tenrys/3.ogg",length=0.49403628117913834}}
 L["thanks for watching"]={{path="chatsounds/autoadd/Tenrys/thanks for watching.ogg",length=0.88900226757369616}}
 L["this is susans cooking school"]={{path="chatsounds/autoadd/Tenrys/this is susans cooking school.ogg",length=1.4334920634920636}}
