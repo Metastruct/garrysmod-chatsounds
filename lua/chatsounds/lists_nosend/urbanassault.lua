@@ -58,8 +58,7 @@ L["flak station destroyed"]={{path="chatsounds/autoadd/urbanassault/flak station
 L["flak station under attack"]={{path="chatsounds/autoadd/urbanassault/flak station under attack.ogg",length=2.0427210884353744}}
 L["ghorkovs have left the game"]={{path="chatsounds/autoadd/urbanassault/ghorkovs have left the game.ogg",length=2.5220861678004534}}
 L["ghorkovs killed"]={{path="chatsounds/autoadd/urbanassault/ghorkovs killed.ogg",length=1.7497505668934241}}
-L["ground units request fire support (2)"]={{path="chatsounds/autoadd/urbanassault/ground units request fire support (2).ogg",length=2.181768707482993}}
-L["ground units request fire support"]={{path="chatsounds/autoadd/urbanassault/ground units request fire support.ogg",length=2.181768707482993}}
+L["ground units request fire support"]={{path="chatsounds/autoadd/urbanassault/ground units request fire support/ground units request fire support (2).ogg",length=2.181768707482993},{path="chatsounds/autoadd/urbanassault/ground units request fire support/ground units request fire support.ogg",length=2.181768707482993}}
 L["guns up lets move"]={{path="chatsounds/autoadd/urbanassault/guns up lets move.ogg",length=1.734875283446712}}
 L["heavy tanks fully loaded"]={{path="chatsounds/autoadd/urbanassault/heavy tanks fully loaded.ogg",length=2.1946485260770974}}
 L["heavy tanks ready for outfit check"]={{path="chatsounds/autoadd/urbanassault/heavy tanks ready for outfit check.ogg",length=2.4558730158730158}}
