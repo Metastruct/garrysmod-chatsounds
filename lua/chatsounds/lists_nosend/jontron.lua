@@ -14,6 +14,7 @@ L["but look what were dealing with man"]={{path="chatsounds/autoadd/jontron/but 
 L["caaaaaaaaaaaaaaaars"]={{path="chatsounds/autoadd/jontron/caaaaaaaaaaaaaaaars.ogg",length=1.9069387755102041}}
 L["cmere banny"]={{path="chatsounds/autoadd/jontron/cmere banny.ogg",length=1.130408163265306}}
 L["did i hallucinated all that didnt i"]={{path="chatsounds/autoadd/jontron/did i hallucinated all that didnt i.ogg",length=1.6683219954648527}}
+L["finally a game system for me"]={{path="chatsounds/autoadd/jontron/finally a game system for me.ogg",length=2.4703628117913832}}
 L["fuck it"]={{path="chatsounds/autoadd/jontron/fuck it.ogg",length=0.53514739229024944}}
 L["fuck you"]={{path="chatsounds/autoadd/jontron/fuck you.ogg",length=1.2538775510204081}}
 L["i aint gonna take that sitting down"]={{path="chatsounds/autoadd/jontron/i aint gonna take that sitting down.ogg",length=3.3459183673469388}}
