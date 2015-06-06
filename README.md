@@ -24,3 +24,6 @@ Chat sounds system for Garry's Mod (with extra sounds)
  - Ask people who have already added sounds
  - We accept pull requests
  - Remember to run preprocessor to update the cache files
+
+## Want to preview or link sounds over the Web?
+ - Check out the Web version [here](http://cs.3kv.in/). (updates every 30 mins.)
