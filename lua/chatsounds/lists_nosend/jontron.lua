@@ -36,6 +36,7 @@ L["jonlaughconker"]={{path="chatsounds/autoadd/jontron/jonlaughconker.ogg",lengt
 L["jontronmariocitysimulatorrage"]={{path="chatsounds/autoadd/jontron/jontronmariocitysimulatorrage.ogg",length=15.882448979591837}}
 L["just gonna keep this secret nice and tucked away in my soul until it burns a hole through it"]={{path="chatsounds/autoadd/jontron/just gonna keep this secret nice and tucked away in my soul until it burns a hole through it.ogg",length=5.2750113378684809}}
 L["making legend of zelda modern warfare"]={{path="chatsounds/autoadd/jontron/making legend of zelda modern warfare.ogg",length=1.6680498866213151}}
+L["nope nope nope nope nope nope nope nope nope so much nope"]={{path="chatsounds/autoadd/jontron/nope nope nope nope nope nope nope nope nope so much nope.ogg",length=2.5391609977324263}}
 L["not even once"]={{path="chatsounds/autoadd/jontron/not even once.ogg",length=3.2338548752834466}}
 L["not fucking this"]={{path="chatsounds/autoadd/jontron/not fucking this.ogg",length=1.6820408163265306}}
 L["oh my favourite"]={{path="chatsounds/autoadd/jontron/oh my favourite.ogg",length=2.4654195011337867}}
@@ -46,6 +47,8 @@ L["oohh ooooh"]={{path="chatsounds/autoadd/jontron/oohh ooooh.ogg",length=10.247
 L["ooooh im coming i uh im im done here i ffilled my purpose i i need to see no more shit down here"]={{path="chatsounds/autoadd/jontron/ooooh im coming i uh im im done here i ffilled my purpose i i need to see no more shit down here.ogg",length=6.8556689342403629}}
 L["ooooooooh you piece of shit"]={{path="chatsounds/autoadd/jontron/ooooooooh you piece of shit.ogg",length=3.1242403628117912}}
 L["oops i killed him moving on"]={{path="chatsounds/autoadd/jontron/oops i killed him moving on.ogg",length=3.0257369614512473}}
+L["outta this house outta this house"]={{path="chatsounds/autoadd/jontron/outta this house outta this house.ogg",length=2.0897959183673471}}
+L["spirits be gone from this house"]={{path="chatsounds/autoadd/jontron/spirits be gone from this house.ogg",length=2.3990476190476189}}
 L["stahp"]={{path="chatsounds/autoadd/jontron/stahp/stahp1.ogg",length=0.76886621315192749},{path="chatsounds/autoadd/jontron/stahp/stahp2.ogg",length=0.62625850340136058},{path="chatsounds/autoadd/jontron/stahp/stahp3.ogg",length=0.87428571428571433}}
 L["stranger danger"]={{path="chatsounds/autoadd/jontron/stranger danger.ogg",length=1.056281179138322}}
 L["that was amazing"]={{path="chatsounds/autoadd/jontron/that was amazing.ogg",length=2.5934920634920635}}
