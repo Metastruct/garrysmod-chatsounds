@@ -56,8 +56,7 @@ L["gary come quickly were in serious state"]={{path="chatsounds/autoadd/hotd2_st
 L["gary go and prevent the confusion in the city"]={{path="chatsounds/autoadd/hotd2_story/gary go and prevent the confusion in the city.ogg",length=2.5118367346938775}}
 L["gary i tried"]={{path="chatsounds/autoadd/hotd2_story/gary i tried.ogg",length=2.4108390022675739}}
 L["gary lets go"]={{path="chatsounds/autoadd/hotd2_story/gary lets go.ogg",length=1.1528344671201813}}
-L["gary lets hurry copy"]={{path="chatsounds/autoadd/hotd2_story/gary lets hurry Copy.ogg",length=1.4319727891156462}}
-L["gary lets hurry"]={{path="chatsounds/autoadd/hotd2_story/gary lets hurry.ogg",length=1.4355555555555555}}
+L["gary lets hurry"]={{path="chatsounds/autoadd/hotd2_story/gary lets hurry/gary lets hurry Copy.ogg",length=1.4319727891156462},{path="chatsounds/autoadd/hotd2_story/gary lets hurry/gary lets hurry.ogg",length=1.4355555555555555}}
 L["gary lets split from here"]={{path="chatsounds/autoadd/hotd2_story/gary lets split from here.ogg",length=1.5380498866213153}}
 L["gary over there"]={{path="chatsounds/autoadd/hotd2_story/gary over there.ogg",length=1.0640362811791384}}
 L["gary take this"]={{path="chatsounds/autoadd/hotd2_story/gary take this.ogg",length=1.8819501133786849}}
@@ -173,9 +172,7 @@ L["lets get in"]={{path="chatsounds/autoadd/hotd2_story/lets get in.ogg",length=
 L["lets go"]={{path="chatsounds/autoadd/hotd2_story/lets go/344_GA.ogg",length=0.59428571428571431},{path="chatsounds/autoadd/hotd2_story/lets go/lets go.ogg",length=0.49578231292517005}}
 L["lets go gary"]={{path="chatsounds/autoadd/hotd2_story/lets go gary/lets go gary.ogg",length=0.98077097505668931},{path="chatsounds/autoadd/hotd2_story/lets go gary/lets go gary2.ogg",length=0.91882086167800459}}
 L["lets go"]={{path="chatsounds/autoadd/hotd2_story/lets go.ogg",length=0.49578231292517005}}
-L["lets hurry"]={{path="chatsounds/autoadd/hotd2_story/lets hurry/50_GA.ogg",length=0.66893424036281179},{path="chatsounds/autoadd/hotd2_story/lets hurry/50_J.ogg",length=0.6869387755102041},{path="chatsounds/autoadd/hotd2_story/lets hurry/51_J.ogg",length=0.6869387755102041},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry.ogg",length=0.66893424036281179}}
-L["lets hurry copy"]={{path="chatsounds/autoadd/hotd2_story/lets hurry Copy.ogg",length=0.66893424036281179}}
-L["lets hurry"]={{path="chatsounds/autoadd/hotd2_story/lets hurry.ogg",length=0.92879818594104313}}
+L["lets hurry"]={{path="chatsounds/autoadd/hotd2_story/lets hurry/50_GA.ogg",length=0.66893424036281179},{path="chatsounds/autoadd/hotd2_story/lets hurry/50_J.ogg",length=0.6869387755102041},{path="chatsounds/autoadd/hotd2_story/lets hurry/51_J.ogg",length=0.6869387755102041},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry (2).ogg",length=0.92879818594104313},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry Copy.ogg",length=0.66893424036281179},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry.ogg",length=0.66893424036281179}}
 L["lets meet at sunset bridge"]={{path="chatsounds/autoadd/hotd2_story/lets meet at sunset bridge.ogg",length=1.4775510204081632}}
 L["look at your left"]={{path="chatsounds/autoadd/hotd2_story/look at your left.ogg",length=0.87074829931972786}}
 L["look at your right"]={{path="chatsounds/autoadd/hotd2_story/look at your right.ogg",length=1.2024489795918367}}
@@ -244,7 +241,7 @@ L["the bridge has been destroyed"]={{path="chatsounds/autoadd/hotd2_story/the br
 L["the cars parked in the city square the top floor building at point a0063 hes there"]={{path="chatsounds/autoadd/hotd2_story/the cars parked in the city square the top floor building at point a0063 hes there.ogg",length=9.8874829931972794}}
 L["the city the state that its in this is too much"]={{path="chatsounds/autoadd/hotd2_story/the city the state that its in this is too much.ogg",length=2.9526530612244897}}
 L["the colluseum it might be a trap but lets go on"]={{path="chatsounds/autoadd/hotd2_story/the colluseum it might be a trap but lets go on.ogg",length=4.1592743764172333}}
-L["the control must be up there"]={{path="chatsounds/autoadd/hotd2_story/the control must be up there/the control tower must be up there 2.ogg",length=1.5760544217687076},{path="chatsounds/autoadd/hotd2_story/the control must be up there/the control tower must be up there.ogg",length=2.0420408163265305}}
+L["the control tower must be up there"]={{path="chatsounds/autoadd/hotd2_story/the control tower must be up there/the control tower must be up there 2.ogg",length=1.5760544217687076},{path="chatsounds/autoadd/hotd2_story/the control tower must be up there/the control tower must be up there.ogg",length=2.0420408163265305}}
 L["the door of faith shall open"]={{path="chatsounds/autoadd/hotd2_story/the door of faith shall open.ogg",length=2.1070294784580499}}
 L["the enemy is bigger than you can imagine"]={{path="chatsounds/autoadd/hotd2_story/the enemy is bigger than you can imagine.ogg",length=2.0094331065759636}}
 L["the enemy started an all out attack"]={{path="chatsounds/autoadd/hotd2_story/the enemy started an all out attack/357_GA.ogg",length=2.1762811791383219},{path="chatsounds/autoadd/hotd2_story/the enemy started an all out attack/the enemy started an all out attack.ogg",length=2.0034467120181407}}

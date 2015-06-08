@@ -8,8 +8,7 @@ L["dj subwoof"]={{path="chatsounds/autoadd/djsubwoof/dj subwoof.ogg",length=1.33
 L["first"]={{path="chatsounds/autoadd/djsubwoof/first.ogg",length=0.2799546485260771}}
 L["hello this is dj subwoof"]={{path="chatsounds/autoadd/djsubwoof/hello this is dj subwoof.ogg",length=2.092517006802721}}
 L["hello"]={{path="chatsounds/autoadd/djsubwoof/hello.ogg",length=0.34399092970521544}}
-L["how i make my beats copy"]={{path="chatsounds/autoadd/djsubwoof/how i make my beats copy.ogg",length=2.1576870748299322}}
-L["how i make my beats"]={{path="chatsounds/autoadd/djsubwoof/how i make my beats.ogg",length=0.92702947845804984}}
+L["how i make my beats"]={{path="chatsounds/autoadd/djsubwoof/how i make my beats/how i make my beats copy.ogg",length=2.1576870748299322},{path="chatsounds/autoadd/djsubwoof/how i make my beats/how i make my beats.ogg",length=0.92702947845804984}}
 L["how i make my"]={{path="chatsounds/autoadd/djsubwoof/how i make my.ogg",length=0.78217687074829934}}
 L["i start"]={{path="chatsounds/autoadd/djsubwoof/i start.ogg",length=0.6273922902494331}}
 L["is it the bassline"]={{path="chatsounds/autoadd/djsubwoof/is it the bassline.ogg",length=2.2163265306122448}}

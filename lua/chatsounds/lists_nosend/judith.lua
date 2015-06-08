@@ -25,8 +25,7 @@ L["i mean you spent your entire life studying the human condition and and now yo
 L["i meet at his place"]={{path="chatsounds/autoadd/judith/i meet at his place.ogg",length=1.3356462585034015}}
 L["im seeing someone"]={{path="chatsounds/autoadd/judith/im seeing someone.ogg",length=1.1115192743764173}}
 L["is that is that what you want to hear"]={{path="chatsounds/autoadd/judith/is that is that what you want to hear.ogg",length=2.6297959183673467}}
-L["is that what you wanted to hear copy"]={{path="chatsounds/autoadd/judith/is that what you wanted to hear Copy.ogg",length=1.5917913832199546}}
-L["is that what you wanted to hear"]={{path="chatsounds/autoadd/judith/is that what you wanted to hear.ogg",length=1.7620408163265306}}
+L["is that what you wanted to hear"]={{path="chatsounds/autoadd/judith/is that what you wanted to hear/is that what you wanted to hear Copy.ogg",length=1.5917913832199546},{path="chatsounds/autoadd/judith/is that what you wanted to hear/is that what you wanted to hear.ogg",length=1.7620408163265306}}
 L["isnt isnt it a little embarassing for you"]={{path="chatsounds/autoadd/judith/isnt isnt it a little embarassing for you.ogg",length=2.1678911564625851}}
 L["it makes me feel like shit"]={{path="chatsounds/autoadd/judith/it makes me feel like shit.ogg",length=1.9421768707482994}}
 L["jesus christ its like the goddamn history of the world"]={{path="chatsounds/autoadd/judith/jesus christ its like the goddamn history of the world.ogg",length=2.7357823129251702}}
