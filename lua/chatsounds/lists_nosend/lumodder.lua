@@ -7,6 +7,7 @@ L["mu os"]={{path="chatsounds/autoadd/lumodder/mu os.ogg",length=1.1377551020408
 L["mumnumnum"]={{path="chatsounds/autoadd/lumodder/mumnumnum.ogg",length=0.80875283446712021}}
 L["real trap shit"]={{path="chatsounds/autoadd/lumodder/real trap shit.ogg",length=2.3161904761904761}}
 L["shots fired shots fired"]={{path="chatsounds/autoadd/lumodder/shots fired shots fired.ogg",length=3.9063718820861677}}
+L["so fast"]={{path="chatsounds/autoadd/lumodder/so fast.ogg",length=1.7182766439909296}}
 L["suck my balls doc"]={{path="chatsounds/autoadd/lumodder/suck my balls doc.ogg",length=1.5905668934240362}}
 L["take a closer look at that meme"]={{path="chatsounds/autoadd/lumodder/take a closer look at that meme.ogg",length=2.175873015873016}}
 L["take a closer look at that snout"]={{path="chatsounds/autoadd/lumodder/take a closer look at that snout.ogg",length=2.1247619047619049}}
