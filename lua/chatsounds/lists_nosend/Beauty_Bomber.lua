@@ -8,6 +8,7 @@ L["bayonettacontinueyes"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettacont
 L["bayonettagameover"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettagameover.ogg",length=8.7903174603174605}}
 L["beauty bomber"]={{path="chatsounds/autoadd/Beauty_Bomber/beauty bomber.ogg",length=0.94040816326530607}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/Beauty_Bomber/dontloseyourway.ogg",length=35.899999999999999}}
+L["gordon you must get out of here runrunrunrunrunrunrunrun"]={{path="chatsounds/autoadd/Beauty_Bomber/gordon you must get out of here runrunrunrunrunrunrunrun.ogg",length=5.2999999999999998}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/Beauty_Bomber/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}
 L["is this the krusty krab"]={{path="chatsounds/autoadd/Beauty_Bomber/is this the krusty krab/1.ogg",length=1.3570068027210884},{path="chatsounds/autoadd/Beauty_Bomber/is this the krusty krab/2.ogg",length=1.1839909297052154},{path="chatsounds/autoadd/Beauty_Bomber/is this the krusty krab/3.ogg",length=1.3319727891156463}}
 L["its leviosaaaa"]={{path="chatsounds/autoadd/Beauty_Bomber/its leviosaaaa.ogg",length=2.1000000000000001}}
