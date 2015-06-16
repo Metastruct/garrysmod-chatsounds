@@ -18,14 +18,12 @@ L["i read every day i read i practice my words and i read"]={{path="chatsounds/a
 L["i read every day"]={{path="chatsounds/autoadd/earl_dibbles_jr/i read every day.ogg",length=1.5275510204081633}}
 L["i wake up"]={{path="chatsounds/autoadd/earl_dibbles_jr/i wake up.ogg",length=2.0386167800453516}}
 L["im a country boy"]={{path="chatsounds/autoadd/earl_dibbles_jr/im a country boy.ogg",length=0.91541950113378689}}
-L["im earl dibbles jr"]={{path="chatsounds/autoadd/earl_dibbles_jr/im earl dibbles jr.ogg",length=1.4657596371882087}}
-L["im earl dibbles jr2"]={{path="chatsounds/autoadd/earl_dibbles_jr/im earl dibbles jr2.ogg",length=6.5987981859410434}}
+L["im earl dibbles jr"]={{path="chatsounds/autoadd/earl_dibbles_jr/im earl dibbles jr/im earl dibbles jr.ogg",length=1.4657596371882087},{path="chatsounds/autoadd/earl_dibbles_jr/im earl dibbles jr/im earl dibbles jr2.ogg",length=6.5987981859410434}}
 L["im gettin good"]={{path="chatsounds/autoadd/earl_dibbles_jr/im gettin good.ogg",length=1.1625170068027211}}
 L["it really pisses me off"]={{path="chatsounds/autoadd/earl_dibbles_jr/it really pisses me off.ogg",length=4.3804761904761902}}
 L["of course i work hard"]={{path="chatsounds/autoadd/earl_dibbles_jr/of course i work hard.ogg",length=1.769047619047619}}
 L["people dont know if i have a schedule or not but i do"]={{path="chatsounds/autoadd/earl_dibbles_jr/people dont know if i have a schedule or not but i do.ogg",length=3.7234013605442176}}
-L["put a good dip in"]={{path="chatsounds/autoadd/earl_dibbles_jr/put a good dip in.ogg",length=2.53281179138322}}
-L["put a good dip in2"]={{path="chatsounds/autoadd/earl_dibbles_jr/put a good dip in2.ogg",length=1.3759183673469388}}
+L["put a good dip in"]={{path="chatsounds/autoadd/earl_dibbles_jr/put a good dip in/put a good dip in.ogg",length=2.53281179138322},{path="chatsounds/autoadd/earl_dibbles_jr/put a good dip in/put a good dip in2.ogg",length=1.3759183673469388}}
 L["rattle for bucks"]={{path="chatsounds/autoadd/earl_dibbles_jr/rattle for bucks.ogg",length=3.6335600907029479}}
 L["rope stuff"]={{path="chatsounds/autoadd/earl_dibbles_jr/rope stuff.ogg",length=2.0610657596371884}}
 L["shoot the gun"]={{path="chatsounds/autoadd/earl_dibbles_jr/shoot the gun.ogg",length=1.1288208616780044}}
