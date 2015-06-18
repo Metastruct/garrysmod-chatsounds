@@ -93,7 +93,7 @@ L["surprise motherfucker"]={{path="chatsounds/autoadd/techbot/surprise motherfuc
 L["thats what i get for working at microsoos"]={{path="chatsounds/autoadd/techbot/thats what i get for working at microsoos.ogg",length=1.8351020408163266}}
 L["then for you i will play on my cosmic guitarrrz"]={{path="chatsounds/autoadd/techbot/then for you i will play on my cosmic guitarrrz.ogg",length=3.9113605442176871}}
 L["this"]={{path="chatsounds/autoadd/techbot/this.ogg",length=0.41505668934240364}}
-L["top kek"]={{path="chatsounds/autoadd/techbot/top kek.ogg",length=0.70530612244897961}}
+L["top kek"]={{path="chatsounds/autoadd/techbot/top kek/top kek.ogg",length=0.70530612244897961},{path="chatsounds/autoadd/techbot/top kek/top kek2.ogg",length=2.0467800453514737}}
 L["top"]={{path="chatsounds/autoadd/techbot/top.ogg",length=0.2365532879818594}}
 L["turpa"]={{path="chatsounds/autoadd/techbot/turpa.ogg",length=0.5839229024943311}}
 L["ughghghghghgh"]={{path="chatsounds/autoadd/techbot/ughghghghghgh.ogg",length=8.8961451247165542}}
