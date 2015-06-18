@@ -6,7 +6,7 @@ c.StartList("vortigaunt")
 		},
 	}
 
-	L["we bear witness to the bright eternity of the nihilanths demise you leap you fall we see you flash beyond the barriers"] = {
+	L["we bear witness to the bright eternity of the nihilanths demise you leap you fall we see you flash between the barriers"] = {
 		{
 			path = "vo/npc/vortigaunt/vmono_06.wav",
 			length = 9.7402040816327,
