@@ -482,7 +482,7 @@ c.StartList("vortigaunt")
 		},
 	}
 
-	L["we will share the vortessence"] = {
+	L["we shall share the vortessence"] = {
 		{
 			path = "vo/npc/vortigaunt/weshare.wav",
 			length = 1.5163038548753,
