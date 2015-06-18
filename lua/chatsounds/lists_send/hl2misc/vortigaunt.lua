@@ -118,7 +118,7 @@ c.StartList("vortigaunt")
 		},
 	}
 
-	L["for a brief time you joined with us you are one between the worlds"] = {
+	L["for a brief time you joined us you are one between the worlds"] = {
 		{
 			path = "vo/npc/vortigaunt/vmono_07.wav",
 			length = 6.6991156462585,
