@@ -34,6 +34,7 @@ L["fuck you asshole"]={{path="chatsounds/autoadd/arnold/fuck you asshole.ogg",le
 L["fucking asshole"]={{path="chatsounds/autoadd/arnold/fucking asshole.ogg",length=1.4484807256235828}}
 L["get down"]={{path="chatsounds/autoadd/arnold/get down.ogg",length=0.96943310657596371}}
 L["get me a way out"]={{path="chatsounds/autoadd/arnold/get me a way out.ogg",length=1.6250793650793651}}
+L["get out"]={{path="chatsounds/autoadd/arnold/get out.ogg",length=1.0202721088435374}}
 L["get to the chopper"]={{path="chatsounds/autoadd/arnold/get to the chopper.ogg",length=5.7303854875283449}}
 L["give me address here"]={{path="chatsounds/autoadd/arnold/give me address here.ogg",length=1.3289342403628117}}
 L["going to kill you last"]={{path="chatsounds/autoadd/arnold/going to kill you last.ogg",length=3.778231292517007}}
@@ -41,7 +42,7 @@ L["good work mac"]={{path="chatsounds/autoadd/arnold/good work mac.ogg",length=1
 L["governor gets here call me"]={{path="chatsounds/autoadd/arnold/governor gets here call me.ogg",length=1.7416326530612245}}
 L["had enough"]={{path="chatsounds/autoadd/arnold/had enough.ogg",length=0.73219954648526075}}
 L["half assed mountain boys"]={{path="chatsounds/autoadd/arnold/half assed mountain boys.ogg",length=2.7810884353741496}}
-L["hasta la vista baby"]={{path="chatsounds/autoadd/arnold/hasta la vista baby.ogg",length=2.6086621315192744}}
+L["hasta la vista baby"]={{path="chatsounds/autoadd/arnold/hasta la vista baby/1.ogg",length=2.6086621315192744},{path="chatsounds/autoadd/arnold/hasta la vista baby/2.ogg",length=1.1979365079365079}}
 L["he was a good soldier"]={{path="chatsounds/autoadd/arnold/he was a good soldier.ogg",length=1.4318820861678005}}
 L["hit me that hard"]={{path="chatsounds/autoadd/arnold/hit me that hard.ogg",length=1.6146938775510205}}
 L["howdy stranger"]={{path="chatsounds/autoadd/arnold/howdy stranger.ogg",length=1.1480725623582766}}
@@ -77,6 +78,7 @@ L["no problemo02"]={{path="chatsounds/autoadd/arnold/no problemo02.ogg",length=1
 L["no spring"]={{path="chatsounds/autoadd/arnold/no spring.ogg",length=6.5339229024943313}}
 L["not gonna happen"]={{path="chatsounds/autoadd/arnold/not gonna happen.ogg",length=5.5887074829931969}}
 L["of course im a"]={{path="chatsounds/autoadd/arnold/of course im a.ogg",length=1.7860317460317461}}
+L["please dont bump my selfie stick"]={{path="chatsounds/autoadd/arnold/please dont bump my selfie stick.ogg",length=1.6294104308390023}}
 L["pushing pencils"]={{path="chatsounds/autoadd/arnold/pushing pencils.ogg",length=3.9508390022675739}}
 L["ram to your stomach"]={{path="chatsounds/autoadd/arnold/ram to your stomach.ogg",length=3.8076643990929706}}
 L["relax youve been erased"]={{path="chatsounds/autoadd/arnold/relax youve been erased.ogg",length=2.4050793650793652}}
@@ -94,6 +96,7 @@ L["tactically dangerous"]={{path="chatsounds/autoadd/arnold/tactically dangerous
 L["take lead double time it"]={{path="chatsounds/autoadd/arnold/take lead double time it.ogg",length=1.8757823129251701}}
 L["talk to hand"]={{path="chatsounds/autoadd/arnold/talk to hand.ogg",length=1.145986394557823}}
 L["terminated"]={{path="chatsounds/autoadd/arnold/terminated.ogg",length=0.89809523809523806}}
+L["terminator"]={{path="chatsounds/autoadd/arnold/terminator.ogg",length=1.4365079365079365}}
 L["the real quaid"]={{path="chatsounds/autoadd/arnold/the real quaid.ogg",length=7.1545124716553286}}
 L["trust me"]={{path="chatsounds/autoadd/arnold/trust me.ogg",length=0.73886621315192746}}
 L["try to stay dead"]={{path="chatsounds/autoadd/arnold/try to stay dead.ogg",length=1.6341496598639456}}
@@ -101,6 +104,9 @@ L["used to be trusted"]={{path="chatsounds/autoadd/arnold/used to be trusted.ogg
 L["w t h are you"]={{path="chatsounds/autoadd/arnold/w t h are you.ogg",length=1.9461224489795919}}
 L["was there a problem"]={{path="chatsounds/autoadd/arnold/was there a problem.ogg",length=1.0278004535147391}}
 L["we need your help"]={{path="chatsounds/autoadd/arnold/we need your help.ogg",length=1.6589569160997732}}
+L["we will say one liners like"]={{path="chatsounds/autoadd/arnold/we will say one liners like.ogg",length=1.4212925170068027}}
+L["we will tell people"]={{path="chatsounds/autoadd/arnold/we will tell people.ogg",length=0.85530612244897963}}
+L["well be back"]={{path="chatsounds/autoadd/arnold/well be back.ogg",length=0.98984126984126986}}
 L["well that hit the spot"]={{path="chatsounds/autoadd/arnold/well that hit the spot.ogg",length=1.6918820861678006}}
 L["were the good guys"]={{path="chatsounds/autoadd/arnold/were the good guys.ogg",length=3.7294784580498868}}
 L["what if this is a dream"]={{path="chatsounds/autoadd/arnold/what if this is a dream.ogg",length=3.3371428571428572}}
