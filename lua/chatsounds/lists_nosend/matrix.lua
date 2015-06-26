@@ -16,7 +16,7 @@ L["creating fluctuations in even the most simplistic equations"]={{path="chatsou
 L["denial is the most predictable of all human responses"]={{path="chatsounds/autoadd/matrix/denial is the most predictable of all human responses.ogg",length=2.8013832199546487}}
 L["ergo some of my answers you will understand and some of them you will not"]={{path="chatsounds/autoadd/matrix/ergo some of my answers you will understand and some of them you will not.ogg",length=3.9734467120181405}}
 L["ergo those that refused the program if unchecked would constitute an escalating probability of disaster"]={{path="chatsounds/autoadd/matrix/ergo those that refused the program if unchecked would constitute an escalating probability of disaster.ogg",length=7.9884580498866216}}
-L["even if they were only aware of that choice at a near-unconscious level"]={{path="chatsounds/autoadd/matrix/even if they were only aware of that choice at a near-unconscious level.ogg",length=3.7822675736961453}}
+L["even if they were only aware of that choice at a near unconscious level"]={{path="chatsounds/autoadd/matrix/even if they were only aware of that choice at a near unconscious level.ogg",length=3.7822675736961453}}
 L["failure to comply with this process will result in a cataclysmic system crash"]={{path="chatsounds/autoadd/matrix/failure to comply with this process will result in a cataclysmic system crash.ogg",length=4.71328798185941}}
 L["hope it is the quintessential human delusion"]={{path="chatsounds/autoadd/matrix/hope it is the quintessential human delusion.ogg",length=3.2419501133786848}}
 L["however i was again fustrated by failure"]={{path="chatsounds/autoadd/matrix/however i was again fustrated by failure.ogg",length=2.6434467120181404}}

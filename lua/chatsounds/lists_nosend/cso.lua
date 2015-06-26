@@ -9,7 +9,7 @@ L["circleback"]={{path="chatsounds/autoadd/cso/circleback.ogg",length=1.25687074
 L["clear"]={{path="chatsounds/autoadd/cso/clear.ogg",length=1.2568707482993198}}
 L["cover me"]={{path="chatsounds/autoadd/cso/cover me.ogg",length=1.0210430839002267}}
 L["crazy"]={{path="chatsounds/autoadd/cso/crazy.ogg",length=2.1749659863945578}}
-L["ct_affirm"]={{path="chatsounds/autoadd/cso/ct_affirm.ogg",length=1.1379591836734695}}
+L["ctaffirm"]={{path="chatsounds/autoadd/cso/ctaffirm.ogg",length=1.1379591836734695}}
 L["ctwin"]={{path="chatsounds/autoadd/cso/ctwin.ogg",length=1.6497052154195011}}
 L["dogdeath1"]={{path="chatsounds/autoadd/cso/dogdeath1.ogg",length=4.5155102040816324}}
 L["dogdeath2"]={{path="chatsounds/autoadd/cso/dogdeath2.ogg",length=3.8655782312925169}}
@@ -95,6 +95,8 @@ L["you got it"]={{path="chatsounds/autoadd/cso/you got it.ogg",length=2.12789115
 L["you take the point"]={{path="chatsounds/autoadd/cso/you take the point.ogg",length=1.4980498866213152}}
 L["your team is down proceed to the target zone at all cost"]={{path="chatsounds/autoadd/cso/your team is down proceed to the target zone at all cost.ogg",length=3.4016780045351473}}
 L["zombi comeback"]={{path="chatsounds/autoadd/cso/zombi comeback.ogg",length=2.3804988662131521}}
+L["zombiedog attack run"]={{path="chatsounds/autoadd/cso/zombiedog attack run.ogg",length=0.43482993197278913}}
+L["zombiedog attack1"]={{path="chatsounds/autoadd/cso/zombiedog attack1.ogg",length=1.4095238095238096}}
 L["zombiedog grr"]={{path="chatsounds/autoadd/cso/zombiedog grr.ogg",length=10.267482993197278}}
 L["zombiedog howls"]={{path="chatsounds/autoadd/cso/zombiedog howls.ogg",length=5.897006802721088}}
 L["zombiedog hurt1"]={{path="chatsounds/autoadd/cso/zombiedog hurt1.ogg",length=0.77845804988662126}}
@@ -102,8 +104,6 @@ L["zombiedog hurt2"]={{path="chatsounds/autoadd/cso/zombiedog hurt2.ogg",length=
 L["zombiedog run"]={{path="chatsounds/autoadd/cso/zombiedog run.ogg",length=0.40730158730158728}}
 L["zombiedog skill1"]={{path="chatsounds/autoadd/cso/zombiedog skill1.ogg",length=1.5029478458049887}}
 L["zombiedog walk"]={{path="chatsounds/autoadd/cso/zombiedog walk.ogg",length=1.0895238095238096}}
-L["zombiedog_attack1"]={{path="chatsounds/autoadd/cso/zombiedog_attack1.ogg",length=1.4095238095238096}}
-L["zombiedog_attack_run"]={{path="chatsounds/autoadd/cso/zombiedog_attack_run.ogg",length=0.43482993197278913}}
 L["zombies win"]={{path="chatsounds/autoadd/cso/zombies win.ogg",length=2.0753741496598641}}
 L["zombiescape"]={{path="chatsounds/autoadd/cso/zombiescape.ogg",length=3.776235827664399}}
 L["zombifail"]={{path="chatsounds/autoadd/cso/zombifail.ogg",length=4.8417687074829932}}

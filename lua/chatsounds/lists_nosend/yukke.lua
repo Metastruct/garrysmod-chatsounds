@@ -31,5 +31,5 @@ L["tentacle swing"]={{path="chatsounds/autoadd/yukke/tentacle swing/te_swing1.og
 L["uc full"]={{path="chatsounds/autoadd/yukke/uc full.ogg",length=24.055873015873015}}
 L["uc"]={{path="chatsounds/autoadd/yukke/uc.ogg",length=4.9690702947845802}}
 L["warn"]={{path="chatsounds/autoadd/yukke/warn/warn1.ogg",length=1.2495238095238095},{path="chatsounds/autoadd/yukke/warn/warn2.ogg",length=0.95410430839002269},{path="chatsounds/autoadd/yukke/warn/warn3.ogg",length=0.35882086167800453}}
-L["weap_explode"]={{path="chatsounds/autoadd/yukke/weap_explode/explode3.ogg",length=5.8069387755102042},{path="chatsounds/autoadd/yukke/weap_explode/explode4.ogg",length=5.8125170068027208},{path="chatsounds/autoadd/yukke/weap_explode/explode5.ogg",length=5.7184580498866211}}
+L["weap explode"]={{path="chatsounds/autoadd/yukke/weap explode/explode3.ogg",length=5.8069387755102042},{path="chatsounds/autoadd/yukke/weap explode/explode4.ogg",length=5.8125170068027208},{path="chatsounds/autoadd/yukke/weap explode/explode5.ogg",length=5.7184580498866211}}
 c.EndList()

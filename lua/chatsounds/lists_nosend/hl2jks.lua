@@ -3,7 +3,7 @@ L["44 caliber ammunition"]={{path="chatsounds/autoadd/hl2jks/44 caliber ammuniti
 L["44 caliber handgun"]={{path="chatsounds/autoadd/hl2jks/44 caliber handgun.ogg",length=1.8691836734693879}}
 L["9mm ammunition"]={{path="chatsounds/autoadd/hl2jks/9mm ammunition.ogg",length=1.5847392290249434}}
 L["9mm fully automatic weapon with grenade launcher"]={{path="chatsounds/autoadd/hl2jks/9mm fully automatic weapon with grenade launcher.ogg",length=4.4233786848072558}}
-L["9mm semi-automatic handgun"]={{path="chatsounds/autoadd/hl2jks/9mm semi-automatic handgun.ogg",length=3.5352154195011338}}
+L["9mm semi automatic handgun"]={{path="chatsounds/autoadd/hl2jks/9mm semi automatic handgun.ogg",length=3.5352154195011338}}
 L["absolutely nothing for you see oxygen is required to cause an explosion"]={{path="chatsounds/autoadd/hl2jks/absolutely nothing for you see oxygen is required to cause an explosion.ogg",length=6.8846712018140588}}
 L["acquired"]={{path="chatsounds/autoadd/hl2jks/acquired.ogg",length=1.105827664399093}}
 L["activated"]={{path="chatsounds/autoadd/hl2jks/activated.ogg",length=0.73721088435374149}}
@@ -98,7 +98,7 @@ L["just my imagination"]={{path="chatsounds/autoadd/hl2jks/just my imagination.o
 L["kabang"]={{path="chatsounds/autoadd/hl2jks/kabang.ogg",length=1.0361904761904761}}
 L["kachkchk"]={{path="chatsounds/autoadd/hl2jks/kachkchk.ogg",length=0.69079365079365085}}
 L["keep the change ya filthy animal"]={{path="chatsounds/autoadd/hl2jks/keep the change ya filthy animal.ogg",length=1.8343764172335602}}
-L["laser activated anti-personnel mine"]={{path="chatsounds/autoadd/hl2jks/laser activated anti-personnel mine.ogg",length=3.6260997732426303}}
+L["laser activated antipersonnel mine"]={{path="chatsounds/autoadd/hl2jks/laser activated antipersonnel mine.ogg",length=3.6260997732426303}}
 L["laser guided rocket launcher"]={{path="chatsounds/autoadd/hl2jks/laser guided rocket launcher.ogg",length=2.2987528344671202}}
 L["laser guided rocket"]={{path="chatsounds/autoadd/hl2jks/laser guided rocket.ogg",length=1.5818367346938775}}
 L["local torniquette applied"]={{path="chatsounds/autoadd/hl2jks/local torniquette applied.ogg",length=2.1304081632653062}}

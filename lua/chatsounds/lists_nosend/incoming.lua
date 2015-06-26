@@ -34,7 +34,7 @@ L["defend installation"]={{path="chatsounds/autoadd/incoming/defend installation
 L["defend oil rigs"]={{path="chatsounds/autoadd/incoming/defend oil rigs.ogg",length=1.2953287981859409}}
 L["defend portal"]={{path="chatsounds/autoadd/incoming/defend portal.ogg",length=1.082358276643991}}
 L["defend shuttle"]={{path="chatsounds/autoadd/incoming/defend shuttle.ogg",length=0.96367346938775511}}
-L["destroy alien at-at guns"]={{path="chatsounds/autoadd/incoming/destroy alien at-at guns.ogg",length=1.7272562358276644}}
+L["destroy alien atat guns"]={{path="chatsounds/autoadd/incoming/destroy alien atat guns.ogg",length=1.7272562358276644}}
 L["destroy alien installation"]={{path="chatsounds/autoadd/incoming/destroy alien installation.ogg",length=1.5439909297052155}}
 L["destroy alien mothership"]={{path="chatsounds/autoadd/incoming/destroy alien mothership.ogg",length=1.5031292517006802}}
 L["destroy alien surface craft"]={{path="chatsounds/autoadd/incoming/destroy alien surface craft.ogg",length=1.7193197278911565}}
@@ -42,8 +42,8 @@ L["destroy all alien craft"]={{path="chatsounds/autoadd/incoming/destroy all ali
 L["destroy allied installation"]={{path="chatsounds/autoadd/incoming/destroy allied installation.ogg",length=1.5886167800453515}}
 L["destroy icebergs"]={{path="chatsounds/autoadd/incoming/destroy icebergs.ogg",length=1.5039909297052154}}
 L["destroy shield generator"]={{path="chatsounds/autoadd/incoming/destroy shield generator.ogg",length=1.3321995464852607}}
-L["destroy way-point object"]={{path="chatsounds/autoadd/incoming/destroy way-point object.ogg",length=1.7142857142857142}}
-L["destroy way-pointed object"]={{path="chatsounds/autoadd/incoming/destroy way-pointed object.ogg",length=1.6941950113378685}}
+L["destroy waypoint object"]={{path="chatsounds/autoadd/incoming/destroy waypoint object.ogg",length=1.7142857142857142}}
+L["destroy waypointed object"]={{path="chatsounds/autoadd/incoming/destroy waypointed object.ogg",length=1.6941950113378685}}
 L["dilute oil spill"]={{path="chatsounds/autoadd/incoming/dilute oil spill.ogg",length=1.3861224489795918}}
 L["engage and destroy alien craft"]={{path="chatsounds/autoadd/incoming/engage and destroy alien craft.ogg",length=2.3288435374149659}}
 L["entering war zone"]={{path="chatsounds/autoadd/incoming/entering war zone.ogg",length=1.5928344671201815}}
@@ -76,13 +76,13 @@ L["phase complete"]={{path="chatsounds/autoadd/incoming/phase complete.ogg",leng
 L["phase incomplete"]={{path="chatsounds/autoadd/incoming/phase incomplete.ogg",length=1.3826303854875284}}
 L["player exits"]={{path="chatsounds/autoadd/incoming/player exits.ogg",length=1.5648979591836734}}
 L["player joined"]={{path="chatsounds/autoadd/incoming/player joined.ogg",length=1.1924716553287982}}
-L["power-up collected"]={{path="chatsounds/autoadd/incoming/power-up collected.ogg",length=1.4499773242630385}}
-L["power-up generated"]={{path="chatsounds/autoadd/incoming/power-up generated.ogg",length=1.8587301587301588}}
+L["powerup collected"]={{path="chatsounds/autoadd/incoming/powerup collected.ogg",length=1.4499773242630385}}
+L["powerup generated"]={{path="chatsounds/autoadd/incoming/powerup generated.ogg",length=1.8587301587301588}}
 L["prime bomb"]={{path="chatsounds/autoadd/incoming/prime bomb.ogg",length=1.1382312925170068}}
-L["re-supply complete"]={{path="chatsounds/autoadd/incoming/re-supply complete.ogg",length=1.1912018140589569}}
 L["refuelling"]={{path="chatsounds/autoadd/incoming/refuelling/f_refuelling.ogg",length=0.52140589569161},{path="chatsounds/autoadd/incoming/refuelling/m_refuelling.ogg",length=0.64557823129251701}}
 L["refuelling complete"]={{path="chatsounds/autoadd/incoming/refuelling complete/f_refuelling complete.ogg",length=1.0323356009070295},{path="chatsounds/autoadd/incoming/refuelling complete/m_refuelling complete.ogg",length=0.91900226757369619}}
 L["reinforcements arrived"]={{path="chatsounds/autoadd/incoming/reinforcements arrived.ogg",length=1.307891156462585}}
+L["resupply complete"]={{path="chatsounds/autoadd/incoming/resupply complete.ogg",length=1.1912018140589569}}
 L["retrieve alien fighter"]={{path="chatsounds/autoadd/incoming/retrieve alien fighter.ogg",length=1.6025850340136054}}
 L["retrieve cargo crate"]={{path="chatsounds/autoadd/incoming/retrieve cargo crate.ogg",length=1.4943764172335601}}
 L["retrieve recon pod"]={{path="chatsounds/autoadd/incoming/retrieve recon pod.ogg",length=1.508344671201814}}

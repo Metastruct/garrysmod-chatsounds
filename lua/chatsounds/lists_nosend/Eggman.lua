@@ -25,7 +25,7 @@ L["oh you little sneaky theif ill smash you to pieces"]={{path="chatsounds/autoa
 L["parallel attack"]={{path="chatsounds/autoadd/Eggman/parallel attack.ogg",length=1.1073015873015872}}
 L["prepare to be skewered"]={{path="chatsounds/autoadd/Eggman/prepare to be skewered.ogg",length=1.8155102040816327}}
 L["rrrrr"]={{path="chatsounds/autoadd/Eggman/rrrrr.ogg",length=0.86349206349206353}}
-L["seperation_attack"]={{path="chatsounds/autoadd/Eggman/seperation_attack.ogg",length=1.4323809523809523}}
+L["seperation attack"]={{path="chatsounds/autoadd/Eggman/seperation attack.ogg",length=1.4323809523809523}}
 L["thats my chaos emerald dont you touch it"]={{path="chatsounds/autoadd/Eggman/thats my chaos emerald dont you touch it.ogg",length=2.8589569160997734}}
 L["this one controls the flow of time"]={{path="chatsounds/autoadd/Eggman/this one controls the flow of time.ogg",length=2.3031292517006801}}
 L["this1"]={{path="chatsounds/autoadd/Eggman/this1.ogg",length=0.74884353741496601}}

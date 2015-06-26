@@ -17,7 +17,7 @@ L["meow"]={{path="chatsounds/autoadd/dergcake/meow/meow1.ogg",length=1.133310657
 L["mister sandman"]={{path="chatsounds/autoadd/dergcake/mister sandman.ogg",length=92.806530612244899}}
 L["mulher"]={{path="chatsounds/autoadd/dergcake/mulher.ogg",length=0.68399092970521547}}
 L["notcake"]={{path="chatsounds/autoadd/dergcake/notcake.ogg",length=0.75600907029478459}}
-L["pro_skill"]={{path="chatsounds/autoadd/dergcake/pro_skill/pro_skill1.ogg",length=10.031020408163265},{path="chatsounds/autoadd/dergcake/pro_skill/pro_skill2.ogg",length=14.706938775510205}}
+L["pro skill"]={{path="chatsounds/autoadd/dergcake/pro skill/pro_skill1.ogg",length=10.031020408163265},{path="chatsounds/autoadd/dergcake/pro skill/pro_skill2.ogg",length=14.706938775510205}}
 L["system failure"]={{path="chatsounds/autoadd/dergcake/system failure.ogg",length=6.5666439909297054}}
 L["version"]={{path="chatsounds/autoadd/dergcake/version.ogg",length=0.79201814058956921}}
 L["well beep the fucking boop"]={{path="chatsounds/autoadd/dergcake/well beep the fucking boop.ogg",length=1.349750566893424}}

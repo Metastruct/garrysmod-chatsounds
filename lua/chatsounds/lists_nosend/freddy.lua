@@ -1,5 +1,4 @@
 c.StartList("freddy")
-L["i can't think of anything to draw because im so stupid"]={{path="chatsounds/autoadd/freddy/I can't think of anything to draw because im so stupid.ogg",length=2.7438321995464854}}
 L["and satisfy my urges"]={{path="chatsounds/autoadd/freddy/and satisfy my urges.ogg",length=1.4633786848072563}}
 L["betty told me this is what i need to do to become an artist"]={{path="chatsounds/autoadd/freddy/betty told me this is what i need to do to become an artist.ogg",length=3.1096825396825398}}
 L["daddy would you like some sausage daddy would you like some sausages"]={{path="chatsounds/autoadd/freddy/daddy would you like some sausage daddy would you like some sausages.ogg",length=4.1248979591836736}}
@@ -10,6 +9,7 @@ L["golly"]={{path="chatsounds/autoadd/freddy/golly/golly.ogg",length=0.732199546
 L["hc"]={{path="chatsounds/autoadd/freddy/hc.ogg",length=0.2743764172335601}}
 L["hes not stupid"]={{path="chatsounds/autoadd/freddy/hes not stupid.ogg",length=1.7194784580498865}}
 L["hes such a stupid loser"]={{path="chatsounds/autoadd/freddy/hes such a stupid loser.ogg",length=1.7469160997732427}}
+L["i cant think of anything to draw because im so stupid"]={{path="chatsounds/autoadd/freddy/i cant think of anything to draw because im so stupid.ogg",length=2.7438321995464854}}
 L["i dont know"]={{path="chatsounds/autoadd/freddy/i dont know.ogg",length=0.9146258503401361}}
 L["i knew if i kept yelling at you pounding you over the head with it youd come around"]={{path="chatsounds/autoadd/freddy/i knew if i kept yelling at you pounding you over the head with it youd come around.ogg",length=5.1085260770975056}}
 L["i still have some work to do"]={{path="chatsounds/autoadd/freddy/i still have some work to do.ogg",length=1.5548299319727892}}

@@ -36,7 +36,7 @@ L["well like you we lack certain components of your daughter"]={{path="chatsound
 L["were 100 percent black"]={{path="chatsounds/autoadd/deusex_malkavian/were 100 percent BLACK.ogg",length=2.0879818594104309}}
 L["which means you would need an army to multiply a very large prime number"]={{path="chatsounds/autoadd/deusex_malkavian/which means you would need an army to multiply a very large prime number.ogg",length=4.1039909297052155}}
 L["yes indeed by the way denton my three daughters turned up dead heres your op bonus 1000 credits"]={{path="chatsounds/autoadd/deusex_malkavian/yes indeed by the way denton my three daughters turned up dead heres your op bonus 1000 credits.ogg",length=7.7583673469387753}}
-L["you can have my sawed-off shotgun"]={{path="chatsounds/autoadd/deusex_malkavian/you can have my sawed-off shotgun.ogg",length=1.9439909297052154}}
+L["you can have my sawedoff shotgun"]={{path="chatsounds/autoadd/deusex_malkavian/you can have my sawedoff shotgun.ogg",length=1.9439909297052154}}
 L["you have nothing to fear"]={{path="chatsounds/autoadd/deusex_malkavian/you have nothing to fear.ogg",length=1.3319727891156463}}
 L["you havent been entertaining to watch"]={{path="chatsounds/autoadd/deusex_malkavian/you havent been entertaining to watch.ogg",length=2.0879818594104309}}
 c.EndList()

@@ -47,7 +47,7 @@ L["that um"]={{path="chatsounds/autoadd/judith/that um.ogg",length=1.69750566893
 L["that you turned out to be like every third man"]={{path="chatsounds/autoadd/judith/that you turned out to be like every third man.ogg",length=2.3905215419501133}}
 L["this air of self confidence"]={{path="chatsounds/autoadd/judith/this air of self confidence.ogg",length=1.7973696145124716}}
 L["this highly sexual woman who was wearing stilettos at 10 in the morning"]={{path="chatsounds/autoadd/judith/this highly sexual woman who was wearing stilettos at 10 in the morning.ogg",length=3.9303854875283446}}
-L["this spoiled and-"]={{path="chatsounds/autoadd/judith/this spoiled and-.ogg",length=4.673197278911565}}
+L["this spoiled and"]={{path="chatsounds/autoadd/judith/this spoiled and.ogg",length=4.673197278911565}}
 L["this woman laura she got this um"]={{path="chatsounds/autoadd/judith/this woman laura she got this um.ogg",length=2.5526530612244898}}
 L["ugh god"]={{path="chatsounds/autoadd/judith/ugh god.ogg",length=1.3546485260770975}}
 L["ugh"]={{path="chatsounds/autoadd/judith/ugh.ogg",length=0.98276643990929702}}

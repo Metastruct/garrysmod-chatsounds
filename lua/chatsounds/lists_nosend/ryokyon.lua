@@ -19,7 +19,7 @@ L["a case of group sex"]={{path="chatsounds/autoadd/ryokyon/a case of group sex.
 L["aaaahaaah"]={{path="chatsounds/autoadd/ryokyon/aaaahaaah.ogg",length=2.4660090702947848}}
 L["adios amigos"]={{path="chatsounds/autoadd/ryokyon/adios amigos.ogg",length=2.1543083900226758}}
 L["alien bogeys"]={{path="chatsounds/autoadd/ryokyon/alien bogeys.ogg",length=1.9590929705215419}}
-L["allons-y"]={{path="chatsounds/autoadd/ryokyon/allons-y.ogg",length=1.6528798185941043}}
+L["allonsy"]={{path="chatsounds/autoadd/ryokyon/allonsy.ogg",length=1.6528798185941043}}
 L["another secret bitch"]={{path="chatsounds/autoadd/ryokyon/another secret bitch.ogg",length=2.0950113378684807}}
 L["at de jumby lab"]={{path="chatsounds/autoadd/ryokyon/at de jumby lab.ogg",length=1.4496598639455782}}
 L["attackontitan"]={{path="chatsounds/autoadd/ryokyon/attackontitan.ogg",length=14.56501133786848}}

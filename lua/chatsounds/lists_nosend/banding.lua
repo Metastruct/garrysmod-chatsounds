@@ -8,12 +8,12 @@ L["freezing every body"]={{path="chatsounds/autoadd/banding/freezing every body.
 L["freezing you"]={{path="chatsounds/autoadd/banding/freezing you.ogg",length=1.0647845804988663}}
 L["i cant even pick this thing up"]={{path="chatsounds/autoadd/banding/i cant even pick this thing up.ogg",length=2.0410430839002269}}
 L["i cant take it off me"]={{path="chatsounds/autoadd/banding/i cant take it off me.ogg",length=2.6185034013605444}}
-L["i'm not"]={{path="chatsounds/autoadd/banding/i'm not/001.ogg",length=0.6841496598639456},{path="chatsounds/autoadd/banding/i'm not/002.ogg",length=0.53875283446712019},{path="chatsounds/autoadd/banding/i'm not/im not.ogg",length=0.72403628117913832}}
-L["i'm not doing it"]={{path="chatsounds/autoadd/banding/i'm not doing it/001.ogg",length=1.6188888888888888},{path="chatsounds/autoadd/banding/i'm not doing it/002.ogg",length=1.4583219954648525},{path="chatsounds/autoadd/banding/i'm not doing it/003.ogg",length=1.7223809523809523},{path="chatsounds/autoadd/banding/i'm not doing it/004.ogg",length=1.9431292517006802},{path="chatsounds/autoadd/banding/i'm not doing it/005.ogg",length=1.6847845804988661}}
-L["i'm not freezing every body"]={{path="chatsounds/autoadd/banding/i'm not freezing every body/001.ogg",length=1.9263492063492063},{path="chatsounds/autoadd/banding/i'm not freezing every body/im not freezing every body.ogg",length=2.4251473922902496}}
+L["im not"]={{path="chatsounds/autoadd/banding/im not/001.ogg",length=0.6841496598639456},{path="chatsounds/autoadd/banding/im not/002.ogg",length=0.53875283446712019},{path="chatsounds/autoadd/banding/im not/im not.ogg",length=0.72403628117913832}}
+L["im not doing it"]={{path="chatsounds/autoadd/banding/im not doing it/001.ogg",length=1.6188888888888888},{path="chatsounds/autoadd/banding/im not doing it/002.ogg",length=1.4583219954648525},{path="chatsounds/autoadd/banding/im not doing it/003.ogg",length=1.7223809523809523},{path="chatsounds/autoadd/banding/im not doing it/004.ogg",length=1.9431292517006802},{path="chatsounds/autoadd/banding/im not doing it/005.ogg",length=1.6847845804988661}}
 L["im not doing it"]={{path="chatsounds/autoadd/banding/im not doing it.ogg",length=1.6188888888888888}}
 L["im not even doing it and youre banding me"]={{path="chatsounds/autoadd/banding/im not even doing it and youre banding me.ogg",length=3.2701587301587303}}
 L["im not even doing it"]={{path="chatsounds/autoadd/banding/im not even doing it.ogg",length=1.8193650793650793}}
+L["im not freezing every body"]={{path="chatsounds/autoadd/banding/im not freezing every body/001.ogg",length=1.9263492063492063},{path="chatsounds/autoadd/banding/im not freezing every body/im not freezing every body.ogg",length=2.4251473922902496}}
 L["im not freezing every body"]={{path="chatsounds/autoadd/banding/im not freezing every body.ogg",length=1.9263492063492063}}
 L["im not freezing you"]={{path="chatsounds/autoadd/banding/im not freezing you.ogg",length=1.7888208616780046}}
 L["im not"]={{path="chatsounds/autoadd/banding/im not.ogg",length=0.72403628117913832}}

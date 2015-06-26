@@ -70,8 +70,8 @@ L["kid im starving ill take whatever is hot"]={{path="chatsounds/autoadd/vicecit
 L["kill that psycho"]={{path="chatsounds/autoadd/vicecity/kill that psycho.ogg",length=1.106938775510204}}
 L["kill the bosses"]={{path="chatsounds/autoadd/vicecity/kill the bosses.ogg",length=1.2453061224489796}}
 L["lance i need cover"]={{path="chatsounds/autoadd/vicecity/lance i need cover.ogg",length=1.8448979591836734}}
-L["lance!"]={{path="chatsounds/autoadd/vicecity/lance!.ogg",length=0.87632653061224486}}
-L["law3_13"]={{path="chatsounds/autoadd/vicecity/law3_13.ogg",length=3.4591836734693877}}
+L["lance"]={{path="chatsounds/autoadd/vicecity/lance.ogg",length=0.87632653061224486}}
+L["law3 13"]={{path="chatsounds/autoadd/vicecity/law3 13.ogg",length=3.4591836734693877}}
 L["leo has got away for a while he left me in charge"]={{path="chatsounds/autoadd/vicecity/leo has got away for a while he left me in charge.ogg",length=3.413061224489796}}
 L["maybe"]={{path="chatsounds/autoadd/vicecity/maybe.ogg",length=0.73795918367346935}}
 L["more holiday less work"]={{path="chatsounds/autoadd/vicecity/more holiday less work.ogg",length=2.1216326530612246}}
@@ -111,7 +111,7 @@ L["sorry sir no firearms on the coast"]={{path="chatsounds/autoadd/vicecity/sorr
 L["sticks out boys lets crack some commie skulls"]={{path="chatsounds/autoadd/vicecity/sticks out boys lets crack some commie skulls.ogg",length=3.090204081632653}}
 L["super special sir"]={{path="chatsounds/autoadd/vicecity/super special sir.ogg",length=1.5681632653061224}}
 L["ten seconds weve got to get the hell out of here"]={{path="chatsounds/autoadd/vicecity/ten seconds weve got to get the hell out of here.ogg",length=2.4444897959183671}}
-L["tex1_2"]={{path="chatsounds/autoadd/vicecity/tex1_2.ogg",length=3.0440816326530613}}
+L["tex1 2"]={{path="chatsounds/autoadd/vicecity/tex1 2.ogg",length=3.0440816326530613}}
 L["this doesnt seem right"]={{path="chatsounds/autoadd/vicecity/this doesnt seem right.ogg",length=1.6142857142857143}}
 L["this way"]={{path="chatsounds/autoadd/vicecity/this way.ogg",length=0.69183673469387752}}
 L["tommy im not your message boy im not your running boy"]={{path="chatsounds/autoadd/vicecity/tommy im not your message boy im not your running boy.ogg",length=2.9979591836734696}}

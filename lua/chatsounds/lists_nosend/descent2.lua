@@ -112,7 +112,7 @@ L["red picked up flag"]={{path="chatsounds/autoadd/descent2/red picked up flag.o
 L["robot21"]={{path="chatsounds/autoadd/descent2/robot21.ogg",length=0.96512471655328802}}
 L["secret exit"]={{path="chatsounds/autoadd/descent2/secret exit.ogg",length=2.4033560090702948}}
 L["seeker"]={{path="chatsounds/autoadd/descent2/seeker/arnold_1.ogg",length=1.1073922902494331},{path="chatsounds/autoadd/descent2/seeker/arnold_2.ogg",length=1.1059410430839003}}
-L["self destruct in t-minus"]={{path="chatsounds/autoadd/descent2/self destruct in t-minus.ogg",length=2.6698866213151926}}
+L["self destruct in t minus"]={{path="chatsounds/autoadd/descent2/self destruct in t minus.ogg",length=2.6698866213151926}}
 L["self destruct sequence activated"]={{path="chatsounds/autoadd/descent2/self destruct sequence activated.ogg",length=3.2334693877551022}}
 L["sidearm modula"]={{path="chatsounds/autoadd/descent2/sidearm modula.ogg",length=0.41224489795918368}}
 L["sidearm"]={{path="chatsounds/autoadd/descent2/sidearm.ogg",length=0.8882539682539683}}

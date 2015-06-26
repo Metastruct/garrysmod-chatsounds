@@ -25,7 +25,7 @@ L["listen"]={{path="chatsounds/autoadd/ufros/listen.ogg",length=0.55868480725623
 L["luckily i have a neighbour who knows all about aliens"]={{path="chatsounds/autoadd/ufros/luckily i have a neighbour who knows all about aliens.ogg",length=2.2998185941043086}}
 L["oh more"]={{path="chatsounds/autoadd/ufros/oh more.ogg",length=0.95424036281179136}}
 L["oh thats fine"]={{path="chatsounds/autoadd/ufros/oh thats fine.ogg",length=1.5}}
-L["sounds like a bunch of mumbo jumbo trash to me-"]={{path="chatsounds/autoadd/ufros/sounds like a bunch of mumbo jumbo trash to me-.ogg",length=2.6644897959183673}}
+L["sounds like a bunch of mumbo jumbo trash to me"]={{path="chatsounds/autoadd/ufros/sounds like a bunch of mumbo jumbo trash to me.ogg",length=2.6644897959183673}}
 L["tell me the truth about the aliens cause you dont have to sugar coat it with me i can take the truth"]={{path="chatsounds/autoadd/ufros/tell me the truth about the aliens cause you dont have to sugar coat it with me i can take the truth.ogg",length=6.2927437641723358}}
 L["tell me the truth about the aliens"]={{path="chatsounds/autoadd/ufros/tell me the truth about the aliens.ogg",length=1.8007256235827664}}
 L["tell me which ones are real and which ones a bunch of baloney im telling you im not lying"]={{path="chatsounds/autoadd/ufros/tell me which ones are real and which ones a bunch of baloney im telling you im not lying.ogg",length=4.7855782312925168}}

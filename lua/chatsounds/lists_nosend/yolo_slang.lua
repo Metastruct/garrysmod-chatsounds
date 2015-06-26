@@ -10,5 +10,5 @@ L["yolomofo hellomoto"]={{path="chatsounds/autoadd/yolo_slang/YOLOMOFO HELLOMOTO
 L["yowo sosopolos"]={{path="chatsounds/autoadd/yolo_slang/YOWO SOSOPOLOS/YOWO SOSOPOLOS1.ogg",length=1.7113378684807257},{path="chatsounds/autoadd/yolo_slang/YOWO SOSOPOLOS/YOWO SOSOPOLOS2.ogg",length=1.236235827664399}}
 L["yowo sosopolos sohomo"]={{path="chatsounds/autoadd/yolo_slang/YOWO SOSOPOLOS SOHOMO.ogg",length=2.1455328798185942}}
 L["yoyoko onosoco"]={{path="chatsounds/autoadd/yolo_slang/YOYOKO ONOSOCO/YOYOKO ONOSOCO1.ogg",length=1.6364172335600906},{path="chatsounds/autoadd/yolo_slang/YOYOKO ONOSOCO/YOYOKO ONOSOCO2.ogg",length=1.4422675736961452}}
-L["yoyoyo osophoto yoyoyosolo owo loco po-po opogo-drogo"]={{path="chatsounds/autoadd/yolo_slang/YOYOYO OSOPHOTO YOYOYOSOLO OWO LOCO PO-PO OPOGO-DROGO.ogg",length=4.0612018140589567}}
+L["yoyoyo osophoto yoyoyosolo owo loco popo opogodrogo"]={{path="chatsounds/autoadd/yolo_slang/YOYOYO OSOPHOTO YOYOYOSOLO OWO LOCO POPO OPOGODROGO.ogg",length=4.0612018140589567}}
 c.EndList()

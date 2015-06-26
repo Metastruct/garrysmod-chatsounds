@@ -28,6 +28,6 @@ L["smooth criminal"]={{path="chatsounds/autoadd/RemiliaST/smooth criminal.ogg",l
 L["technopolis"]={{path="chatsounds/autoadd/RemiliaST/technopolis.ogg",length=19.470113378684808}}
 L["troll"]={{path="chatsounds/autoadd/RemiliaST/troll.ogg",length=5.0273015873015874}}
 L["uaaaa"]={{path="chatsounds/autoadd/RemiliaST/uaaaa.ogg",length=3.1357369614512471}}
-L["you team lost!"]={{path="chatsounds/autoadd/RemiliaST/you team lost!.ogg",length=25.65328798185941}}
-L["you team won!"]={{path="chatsounds/autoadd/RemiliaST/you team won!.ogg",length=15.046893424036281}}
+L["you team lost"]={{path="chatsounds/autoadd/RemiliaST/you team lost.ogg",length=25.65328798185941}}
+L["you team won"]={{path="chatsounds/autoadd/RemiliaST/you team won.ogg",length=15.046893424036281}}
 c.EndList()

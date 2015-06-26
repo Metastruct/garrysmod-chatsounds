@@ -5,12 +5,10 @@ L["4"]={{path="chatsounds/autoadd/markorepairs/4.ogg",length=0.3454421768707483}
 L["6000"]={{path="chatsounds/autoadd/markorepairs/6000.ogg",length=1.0492517006802722}}
 L["9"]={{path="chatsounds/autoadd/markorepairs/9.ogg",length=0.69369614512471656}}
 L["aah"]={{path="chatsounds/autoadd/markorepairs/aah.ogg",length=0.30911564625850341}}
-L["and"]={{path="chatsounds/autoadd/markorepairs/and/and.ogg",length=0.78129251700680269},{path="chatsounds/autoadd/markorepairs/and/and1.ogg",length=0.56598639455782318}}
+L["and"]={{path="chatsounds/autoadd/markorepairs/and/and.ogg",length=0.78129251700680269},{path="chatsounds/autoadd/markorepairs/and/and1.ogg",length=0.56598639455782318},{path="chatsounds/autoadd/markorepairs/and/and2.ogg",length=0.78129251700680269},{path="chatsounds/autoadd/markorepairs/and/and3.ogg",length=0.56598639455782318}}
 L["and milk"]={{path="chatsounds/autoadd/markorepairs/and milk.ogg",length=1.3871428571428572}}
 L["and now i"]={{path="chatsounds/autoadd/markorepairs/and now i.ogg",length=1.5005895691609978}}
 L["and what is that haheheh"]={{path="chatsounds/autoadd/markorepairs/and what is that haheheh.ogg",length=3.2317006802721089}}
-L["and"]={{path="chatsounds/autoadd/markorepairs/and.ogg",length=0.78129251700680269}}
-L["and_"]={{path="chatsounds/autoadd/markorepairs/and_.ogg",length=0.56598639455782318}}
 L["antitobacco"]={{path="chatsounds/autoadd/markorepairs/antitobacco.ogg",length=96.211337868480726}}
 L["argh open open that is very difficult"]={{path="chatsounds/autoadd/markorepairs/argh open open that is very difficult.ogg",length=7.2023582766439906}}
 L["awful"]={{path="chatsounds/autoadd/markorepairs/awful.ogg",length=5.1934240362811792}}

@@ -45,9 +45,9 @@ L["dash core expiring"]={{path="chatsounds/autoadd/titanfall/dash core expiring.
 L["dash core is offline and recharging"]={{path="chatsounds/autoadd/titanfall/dash core is offline and recharging.ogg",length=2.4919727891156462}}
 L["dash core offline"]={{path="chatsounds/autoadd/titanfall/dash core offline.ogg",length=1.63859410430839}}
 L["dash core online"]={{path="chatsounds/autoadd/titanfall/dash core online.ogg",length=1.5829024943310657}}
-L["diag_gs_titan_reload_1"]={{path="chatsounds/autoadd/titanfall/diag_gs_titan_reload_1.ogg",length=2.2836734693877552}}
-L["diag_gs_titan_reload_2"]={{path="chatsounds/autoadd/titanfall/diag_gs_titan_reload_2.ogg",length=0.96739229024943307}}
-L["diag_gs_titan_reload_3"]={{path="chatsounds/autoadd/titanfall/diag_gs_titan_reload_3.ogg",length=1.5194557823129251}}
+L["diag gs titan reload 1"]={{path="chatsounds/autoadd/titanfall/diag gs titan reload 1.ogg",length=2.2836734693877552}}
+L["diag gs titan reload 2"]={{path="chatsounds/autoadd/titanfall/diag gs titan reload 2.ogg",length=0.96739229024943307}}
+L["diag gs titan reload 3"]={{path="chatsounds/autoadd/titanfall/diag gs titan reload 3.ogg",length=1.5194557823129251}}
 L["disengage"]={{path="chatsounds/autoadd/titanfall/disengage.ogg",length=1.0816326530612246}}
 L["dropping now standby for titanfall"]={{path="chatsounds/autoadd/titanfall/dropping now standby for titanfall.ogg",length=2.2178684807256235}}
 L["eject eject eject"]={{path="chatsounds/autoadd/titanfall/eject eject eject.ogg",length=2.1557823129251701}}

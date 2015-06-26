@@ -7,8 +7,7 @@ L["ah wire"]={{path="chatsounds/autoadd/breakingbad/ah wire.ogg",length=2.000113
 L["ahh"]={{path="chatsounds/autoadd/breakingbad/ahh.ogg",length=0.39814058956916099}}
 L["alright im leaving town im moving to like oregon or something"]={{path="chatsounds/autoadd/breakingbad/alright im leaving town im moving to like oregon or something.ogg",length=2.7510657596371884}}
 L["alright"]={{path="chatsounds/autoadd/breakingbad/alright.ogg",length=0.32575963718820861}}
-L["am-2"]={{path="chatsounds/autoadd/breakingbad/am-2.ogg",length=0.58757369614512467}}
-L["am"]={{path="chatsounds/autoadd/breakingbad/am.ogg",length=0.43326530612244896}}
+L["am"]={{path="chatsounds/autoadd/breakingbad/am/am-2.ogg",length=0.58757369614512467},{path="chatsounds/autoadd/breakingbad/am/am.ogg",length=0.43326530612244896}}
 L["and get shot"]={{path="chatsounds/autoadd/breakingbad/and get shot.ogg",length=0.57569160997732427}}
 L["and only you can get them for us"]={{path="chatsounds/autoadd/breakingbad/and only you can get them for us.ogg",length=2.5791836734693878}}
 L["and you think out of me"]={{path="chatsounds/autoadd/breakingbad/and you think out of me.ogg",length=0.95553287981859414}}
@@ -17,20 +16,17 @@ L["believing in yourself"]={{path="chatsounds/autoadd/breakingbad/believing in y
 L["believing in"]={{path="chatsounds/autoadd/breakingbad/believing in.ogg",length=0.76018140589569161}}
 L["better call saul"]={{path="chatsounds/autoadd/breakingbad/better call saul.ogg",length=1.0089569160997733}}
 L["better"]={{path="chatsounds/autoadd/breakingbad/better.ogg",length=0.2255328798185941}}
-L["bitch-2"]={{path="chatsounds/autoadd/breakingbad/bitch-2.ogg",length=0.76562358276643994}}
-L["bitch"]={{path="chatsounds/autoadd/breakingbad/bitch.ogg",length=0.78342403628117918}}
+L["bitch"]={{path="chatsounds/autoadd/breakingbad/bitch/bitch-2.ogg",length=0.76562358276643994},{path="chatsounds/autoadd/breakingbad/bitch/bitch.ogg",length=0.78342403628117918}}
 L["boxes"]={{path="chatsounds/autoadd/breakingbad/boxes.ogg",length=0.49773242630385489}}
 L["business"]={{path="chatsounds/autoadd/breakingbad/business.ogg",length=0.56383219954648522}}
 L["but theyre hard to come by"]={{path="chatsounds/autoadd/breakingbad/but theyre hard to come by.ogg",length=1.0678458049886621}}
-L["call-2"]={{path="chatsounds/autoadd/breakingbad/call-2.ogg",length=0.52596371882086168}}
-L["call"]={{path="chatsounds/autoadd/breakingbad/call.ogg",length=0.2255328798185941}}
+L["call"]={{path="chatsounds/autoadd/breakingbad/call/call-2.ogg",length=0.52596371882086168},{path="chatsounds/autoadd/breakingbad/call/call.ogg",length=0.2255328798185941}}
 L["cartel"]={{path="chatsounds/autoadd/breakingbad/cartel.ogg",length=0.45290249433106577}}
 L["challenging"]={{path="chatsounds/autoadd/breakingbad/challenging.ogg",length=0.57011337868480727}}
 L["comes to mind"]={{path="chatsounds/autoadd/breakingbad/comes to mind.ogg",length=1.2285714285714286}}
 L["copper"]={{path="chatsounds/autoadd/breakingbad/copper.ogg",length=0.52229024943310653}}
 L["count me out"]={{path="chatsounds/autoadd/breakingbad/count me out.ogg",length=0.65156462585034014}}
-L["cries-2"]={{path="chatsounds/autoadd/breakingbad/cries-2.ogg",length=2.0453514739229024}}
-L["cries"]={{path="chatsounds/autoadd/breakingbad/cries.ogg",length=1.8408390022675738}}
+L["cries"]={{path="chatsounds/autoadd/breakingbad/cries/cries-2.ogg",length=2.0453514739229024},{path="chatsounds/autoadd/breakingbad/cries/cries.ogg",length=1.8408390022675738}}
 L["damn"]={{path="chatsounds/autoadd/breakingbad/damn.ogg",length=0.29081632653061223}}
 L["danger"]={{path="chatsounds/autoadd/breakingbad/danger.ogg",length=0.445124716553288}}
 L["daughter"]={{path="chatsounds/autoadd/breakingbad/daughter.ogg",length=0.60537414965986391}}
@@ -46,12 +42,9 @@ L["empire"]={{path="chatsounds/autoadd/breakingbad/empire.ogg",length=0.55789115
 L["eyebrows"]={{path="chatsounds/autoadd/breakingbad/eyebrows.ogg",length=0.55195011337868483}}
 L["for the family"]={{path="chatsounds/autoadd/breakingbad/for the family.ogg",length=0.75970521541950109}}
 L["for us"]={{path="chatsounds/autoadd/breakingbad/for us.ogg",length=0.55517006802721092}}
+L["four"]={{path="chatsounds/autoadd/breakingbad/four/four-2.ogg",length=0.63346938775510209},{path="chatsounds/autoadd/breakingbad/four/four-3.ogg",length=0.23528344671201815},{path="chatsounds/autoadd/breakingbad/four/four.ogg",length=0.42530612244897958}}
+L["four pounds"]={{path="chatsounds/autoadd/breakingbad/four pounds/four pounds-2.ogg",length=0.84163265306122448},{path="chatsounds/autoadd/breakingbad/four pounds/four pounds.ogg",length=1.3302947845804989}}
 L["four pounds two pounds wasnt bad enough"]={{path="chatsounds/autoadd/breakingbad/four pounds two pounds wasnt bad enough.ogg",length=2.6967800453514741}}
-L["four pounds-2"]={{path="chatsounds/autoadd/breakingbad/four pounds-2.ogg",length=0.84163265306122448}}
-L["four pounds"]={{path="chatsounds/autoadd/breakingbad/four pounds.ogg",length=1.3302947845804989}}
-L["four-2"]={{path="chatsounds/autoadd/breakingbad/four-2.ogg",length=0.63346938775510209}}
-L["four-3"]={{path="chatsounds/autoadd/breakingbad/four-3.ogg",length=0.23528344671201815}}
-L["four"]={{path="chatsounds/autoadd/breakingbad/four.ogg",length=0.42530612244897958}}
 L["fourty"]={{path="chatsounds/autoadd/breakingbad/fourty.ogg",length=0.49773242630385489}}
 L["furnace"]={{path="chatsounds/autoadd/breakingbad/furnace.ogg",length=0.52489795918367343}}
 L["gatorade me bitch"]={{path="chatsounds/autoadd/breakingbad/gatorade me bitch.ogg",length=1.5787074829931973}}
@@ -70,17 +63,14 @@ L["hard to come by"]={{path="chatsounds/autoadd/breakingbad/hard to come by.ogg"
 L["hear me out"]={{path="chatsounds/autoadd/breakingbad/hear me out.ogg",length=0.99344671201814061}}
 L["heheheh"]={{path="chatsounds/autoadd/breakingbad/heheheh.ogg",length=0.54009070294784578}}
 L["heisenberg"]={{path="chatsounds/autoadd/breakingbad/heisenberg.ogg",length=0.77154195011337867}}
-L["hm-2"]={{path="chatsounds/autoadd/breakingbad/hm-2.ogg",length=0.20179138321995466}}
-L["hm"]={{path="chatsounds/autoadd/breakingbad/hm.ogg",length=0.23528344671201815}}
+L["hm"]={{path="chatsounds/autoadd/breakingbad/hm/hm-2.ogg",length=0.20179138321995466},{path="chatsounds/autoadd/breakingbad/hm/hm.ogg",length=0.23528344671201815}}
 L["hmm"]={{path="chatsounds/autoadd/breakingbad/hmm.ogg",length=0.43326530612244896}}
 L["i"]={{path="chatsounds/autoadd/breakingbad/i/i-2.ogg",length=0.2255328798185941},{path="chatsounds/autoadd/breakingbad/i/i-3.ogg",length=0.32049886621315193},{path="chatsounds/autoadd/breakingbad/i/i-4.ogg",length=0.30267573696145122},{path="chatsounds/autoadd/breakingbad/i/i.ogg",length=0.39764172335600906}}
+L["i am"]={{path="chatsounds/autoadd/breakingbad/i am/i am-2.ogg",length=0.73594104308390018},{path="chatsounds/autoadd/breakingbad/i am/i am-3.ogg",length=0.80716553287981863},{path="chatsounds/autoadd/breakingbad/i am/i am.ogg",length=0.39170068027210886}}
 L["i am not in danger skyler i am the danger"]={{path="chatsounds/autoadd/breakingbad/i am not in danger skyler i am the danger.ogg",length=3.76281179138322}}
 L["i am not in danger"]={{path="chatsounds/autoadd/breakingbad/i am not in danger.ogg",length=1.5727891156462586}}
 L["i am not"]={{path="chatsounds/autoadd/breakingbad/i am not.ogg",length=0.84870748299319732}}
 L["i am the one who knocks"]={{path="chatsounds/autoadd/breakingbad/i am the one who knocks.ogg",length=1.8280045351473924}}
-L["i am-2"]={{path="chatsounds/autoadd/breakingbad/i am-2.ogg",length=0.73594104308390018}}
-L["i am-3"]={{path="chatsounds/autoadd/breakingbad/i am-3.ogg",length=0.80716553287981863}}
-L["i am"]={{path="chatsounds/autoadd/breakingbad/i am.ogg",length=0.39170068027210886}}
 L["i cant do this"]={{path="chatsounds/autoadd/breakingbad/i cant do this.ogg",length=0.92303854875283442}}
 L["i cant even pronounce"]={{path="chatsounds/autoadd/breakingbad/i cant even pronounce.ogg",length=0.8506575963718821}}
 L["i dont know"]={{path="chatsounds/autoadd/breakingbad/i dont know.ogg",length=0.74204081632653063}}
@@ -88,15 +78,13 @@ L["i gave it to ted"]={{path="chatsounds/autoadd/breakingbad/i gave it to ted.og
 L["i gave it to"]={{path="chatsounds/autoadd/breakingbad/i gave it to.ogg",length=0.58439909297052151}}
 L["i had to"]={{path="chatsounds/autoadd/breakingbad/i had to.ogg",length=0.96424036281179137}}
 L["i swear"]={{path="chatsounds/autoadd/breakingbad/i swear.ogg",length=1.0519047619047619}}
+L["i will"]={{path="chatsounds/autoadd/breakingbad/i will/i will-2.ogg",length=0.68845804988662129},{path="chatsounds/autoadd/breakingbad/i will/i will.ogg",length=0.4154421768707483}}
+L["i will kill"]={{path="chatsounds/autoadd/breakingbad/i will kill/i will kill-2.ogg",length=1.0030158730158729},{path="chatsounds/autoadd/breakingbad/i will kill/i will kill.ogg",length=0.87839002267573696}}
 L["i will kill your infant daughter"]={{path="chatsounds/autoadd/breakingbad/i will kill your infant daughter.ogg",length=2.7479365079365081}}
 L["i will kill your infant"]={{path="chatsounds/autoadd/breakingbad/i will kill your infant.ogg",length=2.1425623582766442}}
 L["i will kill your son"]={{path="chatsounds/autoadd/breakingbad/i will kill your son.ogg",length=1.3769160997732426}}
 L["i will kill your wife"]={{path="chatsounds/autoadd/breakingbad/i will kill your wife.ogg",length=1.8101814058956915}}
 L["i will kill your"]={{path="chatsounds/autoadd/breakingbad/i will kill your.ogg",length=1.4540816326530612}}
-L["i will kill-2"]={{path="chatsounds/autoadd/breakingbad/i will kill-2.ogg",length=1.0030158730158729}}
-L["i will kill"]={{path="chatsounds/autoadd/breakingbad/i will kill.ogg",length=0.87839002267573696}}
-L["i will-2"]={{path="chatsounds/autoadd/breakingbad/i will-2.ogg",length=0.68845804988662129}}
-L["i will"]={{path="chatsounds/autoadd/breakingbad/i will.ogg",length=0.4154421768707483}}
 L["if you try to interfere"]={{path="chatsounds/autoadd/breakingbad/if you try to interfere.ogg",length=1.6618140589569161}}
 L["if you try"]={{path="chatsounds/autoadd/breakingbad/if you try.ogg",length=0.68848072562358276}}
 L["if you"]={{path="chatsounds/autoadd/breakingbad/if you.ogg",length=0.37986394557823128}}
@@ -120,16 +108,14 @@ L["jeers333"]={{path="chatsounds/autoadd/breakingbad/jeers333.ogg",length=10.363
 L["jesse jesse jesse"]={{path="chatsounds/autoadd/breakingbad/jesse jesse jesse.ogg",length=1.0226303854875283}}
 L["jesse"]={{path="chatsounds/autoadd/breakingbad/jesse.ogg",length=0.32580498866213153}}
 L["just hear me out"]={{path="chatsounds/autoadd/breakingbad/just hear me out.ogg",length=1.4317460317460318}}
-L["kill-2"]={{path="chatsounds/autoadd/breakingbad/kill-2.ogg",length=0.31455782312925168}}
-L["kill"]={{path="chatsounds/autoadd/breakingbad/kill.ogg",length=0.23147392290249433}}
+L["kill"]={{path="chatsounds/autoadd/breakingbad/kill/kill-2.ogg",length=0.31455782312925168},{path="chatsounds/autoadd/breakingbad/kill/kill.ogg",length=0.23147392290249433}}
 L["knocks"]={{path="chatsounds/autoadd/breakingbad/knocks.ogg",length=0.55791383219954649}}
 L["lasers"]={{path="chatsounds/autoadd/breakingbad/lasers.ogg",length=0.59351473922902498}}
 L["listen"]={{path="chatsounds/autoadd/breakingbad/listen.ogg",length=0.4886621315192744}}
 L["liters"]={{path="chatsounds/autoadd/breakingbad/liters.ogg",length=0.4614965986394558}}
 L["love"]={{path="chatsounds/autoadd/breakingbad/love.ogg",length=0.16024943310657597}}
 L["m"]={{path="chatsounds/autoadd/breakingbad/m.ogg",length=0.43326530612244896}}
-L["madlaugh-2"]={{path="chatsounds/autoadd/breakingbad/madlaugh-2.ogg",length=5.0841950113378687}}
-L["madlaugh"]={{path="chatsounds/autoadd/breakingbad/madlaugh.ogg",length=9.8177324263038557}}
+L["madlaugh"]={{path="chatsounds/autoadd/breakingbad/madlaugh/madlaugh-2.ogg",length=5.0841950113378687},{path="chatsounds/autoadd/breakingbad/madlaugh/madlaugh.ogg",length=9.8177324263038557}}
 L["magnets"]={{path="chatsounds/autoadd/breakingbad/magnets.ogg",length=0.9080725623582766}}
 L["matter"]={{path="chatsounds/autoadd/breakingbad/matter.ogg",length=0.60537414965986391}}
 L["may be challenging"]={{path="chatsounds/autoadd/breakingbad/may be challenging.ogg",length=1.248843537414966}}
@@ -164,20 +150,14 @@ L["our money"]={{path="chatsounds/autoadd/breakingbad/our money.ogg",length=0.61
 L["phone call"]={{path="chatsounds/autoadd/breakingbad/phone call.ogg",length=0.84736961451247161}}
 L["phone"]={{path="chatsounds/autoadd/breakingbad/phone.ogg",length=0.32140589569160999}}
 L["pills"]={{path="chatsounds/autoadd/breakingbad/pills.ogg",length=0.47056689342403629}}
-L["please-2"]={{path="chatsounds/autoadd/breakingbad/please-2.ogg",length=0.61360544217687074}}
-L["please-3"]={{path="chatsounds/autoadd/breakingbad/please-3.ogg",length=0.93503401360544214}}
-L["please"]={{path="chatsounds/autoadd/breakingbad/please.ogg",length=1.0519047619047619}}
-L["pound-2"]={{path="chatsounds/autoadd/breakingbad/pound-2.ogg",length=0.39818594104308391}}
-L["pound"]={{path="chatsounds/autoadd/breakingbad/pound.ogg",length=0.48870748299319727}}
-L["pounds-2"]={{path="chatsounds/autoadd/breakingbad/pounds-2.ogg",length=0.515827664399093}}
-L["pounds-3"]={{path="chatsounds/autoadd/breakingbad/pounds-3.ogg",length=0.6063492063492063}}
-L["pounds"]={{path="chatsounds/autoadd/breakingbad/pounds.ogg",length=0.83260770975056686}}
+L["please"]={{path="chatsounds/autoadd/breakingbad/please/please-2.ogg",length=0.61360544217687074},{path="chatsounds/autoadd/breakingbad/please/please-3.ogg",length=0.93503401360544214},{path="chatsounds/autoadd/breakingbad/please/please.ogg",length=1.0519047619047619}}
+L["pound"]={{path="chatsounds/autoadd/breakingbad/pound/pound-2.ogg",length=0.39818594104308391},{path="chatsounds/autoadd/breakingbad/pound/pound.ogg",length=0.48870748299319727}}
+L["pounds"]={{path="chatsounds/autoadd/breakingbad/pounds/pounds-2.ogg",length=0.515827664399093},{path="chatsounds/autoadd/breakingbad/pounds/pounds-3.ogg",length=0.6063492063492063},{path="chatsounds/autoadd/breakingbad/pounds/pounds.ogg",length=0.83260770975056686}}
 L["pronounce"]={{path="chatsounds/autoadd/breakingbad/pronounce.ogg",length=0.41628117913832202}}
 L["pseudo"]={{path="chatsounds/autoadd/breakingbad/pseudo.ogg",length=0.75111111111111106}}
 L["reductive"]={{path="chatsounds/autoadd/breakingbad/reductive.ogg",length=0.50675736961451245}}
+L["rest"]={{path="chatsounds/autoadd/breakingbad/rest/rest-2.ogg",length=0.61360544217687074},{path="chatsounds/autoadd/breakingbad/rest/rest.ogg",length=0.42367346938775508}}
 L["rest of your life"]={{path="chatsounds/autoadd/breakingbad/rest of your life.ogg",length=1.1583219954648527}}
-L["rest-2"]={{path="chatsounds/autoadd/breakingbad/rest-2.ogg",length=0.61360544217687074}}
-L["rest"]={{path="chatsounds/autoadd/breakingbad/rest.ogg",length=0.42367346938775508}}
 L["right"]={{path="chatsounds/autoadd/breakingbad/right.ogg",length=0.49260770975056689}}
 L["saul"]={{path="chatsounds/autoadd/breakingbad/saul.ogg",length=0.55789115646258503}}
 L["say my name"]={{path="chatsounds/autoadd/breakingbad/say my name.ogg",length=1.2344897959183674}}
@@ -223,15 +203,11 @@ L["tight"]={{path="chatsounds/autoadd/breakingbad/tight.ogg",length=0.4688662131
 L["today is the first day of the rest of your life"]={{path="chatsounds/autoadd/breakingbad/today is the first day of the rest of your life.ogg",length=3.9999092970521541}}
 L["today"]={{path="chatsounds/autoadd/breakingbad/today.ogg",length=0.71492063492063496}}
 L["try"]={{path="chatsounds/autoadd/breakingbad/try.ogg",length=0.30861678004535148}}
+L["two"]={{path="chatsounds/autoadd/breakingbad/two/two-2.ogg",length=0.3076643990929705},{path="chatsounds/autoadd/breakingbad/two/two-3.ogg",length=0.34424036281179138},{path="chatsounds/autoadd/breakingbad/two/two.ogg",length=0.23532879818594105}}
 L["two pounds"]={{path="chatsounds/autoadd/breakingbad/two pounds.ogg",length=0.64253968253968252}}
 L["two ww"]={{path="chatsounds/autoadd/breakingbad/two ww.ogg",length=1.2819727891156463}}
-L["two-2"]={{path="chatsounds/autoadd/breakingbad/two-2.ogg",length=0.3076643990929705}}
-L["two-3"]={{path="chatsounds/autoadd/breakingbad/two-3.ogg",length=0.34424036281179138}}
-L["two"]={{path="chatsounds/autoadd/breakingbad/two.ogg",length=0.23532879818594105}}
 L["w"]={{path="chatsounds/autoadd/breakingbad/w.ogg",length=0.4807482993197279}}
-L["walt-2"]={{path="chatsounds/autoadd/breakingbad/walt-2.ogg",length=0.40907029478458051}}
-L["walt-3"]={{path="chatsounds/autoadd/breakingbad/walt-3.ogg",length=0.5113378684807256}}
-L["walt"]={{path="chatsounds/autoadd/breakingbad/walt.ogg",length=0.64283446712018144}}
+L["walt"]={{path="chatsounds/autoadd/breakingbad/walt/walt-2.ogg",length=0.40907029478458051},{path="chatsounds/autoadd/breakingbad/walt/walt-3.ogg",length=0.5113378684807256},{path="chatsounds/autoadd/breakingbad/walt/walt.ogg",length=0.64283446712018144}}
 L["walter white"]={{path="chatsounds/autoadd/breakingbad/walter white.ogg",length=0.72999999999999998}}
 L["walter"]={{path="chatsounds/autoadd/breakingbad/walter.ogg",length=0.35609977324263037}}
 L["wasnt bad enough"]={{path="chatsounds/autoadd/breakingbad/wasnt bad enough.ogg",length=0.90494331065759637}}
@@ -243,33 +219,28 @@ L["were not going to need"]={{path="chatsounds/autoadd/breakingbad/were not goin
 L["were not"]={{path="chatsounds/autoadd/breakingbad/were not.ogg",length=0.4886621315192744}}
 L["were talking two blah boxes of sinus pills"]={{path="chatsounds/autoadd/breakingbad/were talking two blah boxes of sinus pills.ogg",length=3.1764172335600906}}
 L["were talking"]={{path="chatsounds/autoadd/breakingbad/were talking.ogg",length=0.66063492063492069}}
+L["what"]={{path="chatsounds/autoadd/breakingbad/what/what-2.ogg",length=0.75970521541950109},{path="chatsounds/autoadd/breakingbad/what/what.ogg",length=0.44514739229024941}}
 L["what are you doing"]={{path="chatsounds/autoadd/breakingbad/what are you doing.ogg",length=0.74208616780045356}}
 L["what did that phone call mean"]={{path="chatsounds/autoadd/breakingbad/what did that phone call mean.ogg",length=1.7823809523809524}}
 L["what did that"]={{path="chatsounds/autoadd/breakingbad/what did that.ogg",length=0.42367346938775508}}
-L["what-2"]={{path="chatsounds/autoadd/breakingbad/what-2.ogg",length=0.75970521541950109}}
-L["what"]={{path="chatsounds/autoadd/breakingbad/what.ogg",length=0.44514739229024941}}
 L["whats this"]={{path="chatsounds/autoadd/breakingbad/whats this.ogg",length=0.46154195011337867}}
 L["where is it"]={{path="chatsounds/autoadd/breakingbad/where is it.ogg",length=0.58437641723356004}}
 L["where is the money"]={{path="chatsounds/autoadd/breakingbad/where is the money.ogg",length=1.0226757369614512}}
 L["where is the rest"]={{path="chatsounds/autoadd/breakingbad/where is the rest.ogg",length=1.0811111111111111}}
 L["where is the"]={{path="chatsounds/autoadd/breakingbad/where is the.ogg",length=0.46750566893424034}}
 L["wheres the rest"]={{path="chatsounds/autoadd/breakingbad/wheres the rest.ogg",length=0.7304761904761905}}
-L["white-2"]={{path="chatsounds/autoadd/breakingbad/white-2.ogg",length=0.37390022675736961}}
-L["white"]={{path="chatsounds/autoadd/breakingbad/white.ogg",length=0.62444444444444447}}
+L["white"]={{path="chatsounds/autoadd/breakingbad/white/white-2.ogg",length=0.37390022675736961},{path="chatsounds/autoadd/breakingbad/white/white.ogg",length=0.62444444444444447}}
 L["will it be a life of"]={{path="chatsounds/autoadd/breakingbad/will it be a life of.ogg",length=1.0497505668934239}}
 L["willy wonka"]={{path="chatsounds/autoadd/breakingbad/willy wonka.ogg",length=0.72999999999999998}}
 L["willy"]={{path="chatsounds/autoadd/breakingbad/willy.ogg",length=0.24333333333333335}}
 L["wire"]={{path="chatsounds/autoadd/breakingbad/wire.ogg",length=1.0801814058956916}}
 L["wonka"]={{path="chatsounds/autoadd/breakingbad/wonka.ogg",length=0.48666666666666669}}
 L["world"]={{path="chatsounds/autoadd/breakingbad/world.ogg",length=0.38911564625850342}}
-L["ww-2"]={{path="chatsounds/autoadd/breakingbad/ww-2.ogg",length=0.71219954648526074}}
-L["ww"]={{path="chatsounds/autoadd/breakingbad/ww.ogg",length=0.93773242630385489}}
+L["ww"]={{path="chatsounds/autoadd/breakingbad/ww/ww-2.ogg",length=0.71219954648526074},{path="chatsounds/autoadd/breakingbad/ww/ww.ogg",length=0.93773242630385489}}
+L["yeah"]={{path="chatsounds/autoadd/breakingbad/yeah/yeah-2.ogg",length=0.21718820861678004},{path="chatsounds/autoadd/breakingbad/yeah/yeah-3.ogg",length=0.60537414965986391},{path="chatsounds/autoadd/breakingbad/yeah/yeah.ogg",length=0.25337868480725623}}
 L["yeah bitch"]={{path="chatsounds/autoadd/breakingbad/yeah bitch.ogg",length=1.3709977324263039}}
 L["yeah mister white"]={{path="chatsounds/autoadd/breakingbad/yeah mister white.ogg",length=1.2307482993197278}}
 L["yeah science"]={{path="chatsounds/autoadd/breakingbad/yeah science.ogg",length=1.0768707482993198}}
-L["yeah-2"]={{path="chatsounds/autoadd/breakingbad/yeah-2.ogg",length=0.21718820861678004}}
-L["yeah-3"]={{path="chatsounds/autoadd/breakingbad/yeah-3.ogg",length=0.60537414965986391}}
-L["yeah"]={{path="chatsounds/autoadd/breakingbad/yeah.ogg",length=0.25337868480725623}}
 L["yo mister white"]={{path="chatsounds/autoadd/breakingbad/yo mister white.ogg",length=0.71492063492063496}}
 L["yo"]={{path="chatsounds/autoadd/breakingbad/yo.ogg",length=0.6469160997732426}}
 L["you did what"]={{path="chatsounds/autoadd/breakingbad/you did what.ogg",length=0.90580498866213155}}

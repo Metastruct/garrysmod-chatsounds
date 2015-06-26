@@ -1,7 +1,7 @@
 c.StartList("vinesauce_ralph")
 L["20 dollars for fn pizza f no"]={{path="chatsounds/autoadd/vinesauce_ralph/20 dollars for fn pizza f no.ogg",length=2.5659637188208615}}
 L["a baby whaat"]={{path="chatsounds/autoadd/vinesauce_ralph/a baby whaat.ogg",length=2.8544217687074829}}
-L["a troll is a guy who pretends to be your friend and then he's really bad"]={{path="chatsounds/autoadd/vinesauce_ralph/a troll is a guy who pretends to be your friend and then he's really bad.ogg",length=4.8224489795918366}}
+L["a troll is a guy who pretends to be your friend and then hes really bad"]={{path="chatsounds/autoadd/vinesauce_ralph/a troll is a guy who pretends to be your friend and then hes really bad.ogg",length=4.8224489795918366}}
 L["aah its looking right at me"]={{path="chatsounds/autoadd/vinesauce_ralph/aah its looking right at me.ogg",length=5.4633333333333329}}
 L["age group 50 to 80 please thank you"]={{path="chatsounds/autoadd/vinesauce_ralph/age group 50 to 80 please thank you.ogg",length=2.716530612244898}}
 L["ah yes the black book"]={{path="chatsounds/autoadd/vinesauce_ralph/ah yes the black book.ogg",length=1.6390022675736962}}
