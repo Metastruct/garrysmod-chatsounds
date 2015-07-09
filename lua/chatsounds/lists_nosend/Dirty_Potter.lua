@@ -5,6 +5,8 @@ L["and off he went to watch dumbledore taking harrys arm in his butt behind the 
 L["and the delicious smell of baking salmon wafting tantalizing in their direction"]={{path="chatsounds/autoadd/Dirty_Potter/And the delicious smell of baking salmon wafting tantalizing in their direction.ogg",length=4.7595691609977324}}
 L["arousing fucking huge diarrhea bathtime"]={{path="chatsounds/autoadd/Dirty_Potter/Arousing Fucking Huge Diarrhea Bathtime.ogg",length=3.2414739229024945}}
 L["arousing"]={{path="chatsounds/autoadd/Dirty_Potter/Arousing.ogg",length=0.77467120181405891}}
+L["big bearded gay jewish burly sailor pajama party pornography"]={{path="chatsounds/autoadd/Dirty_Potter/big bearded gay jewish burly sailor pajama party pornography.ogg",length=4.7800907029478461}}
+L["buttsextumsempra"]={{path="chatsounds/autoadd/Dirty_Potter/buttsextumsempra.ogg",length=1.5297505668934241}}
 L["chapter one"]={{path="chatsounds/autoadd/Dirty_Potter/Chapter one.ogg",length=0.93777777777777782}}
 L["chapter two"]={{path="chatsounds/autoadd/Dirty_Potter/Chapter two.ogg",length=1.7374829931972788}}
 L["clitoris"]={{path="chatsounds/autoadd/Dirty_Potter/Clitoris.ogg",length=0.73854875283446708}}
@@ -23,8 +25,8 @@ L["fuck yourself"]={{path="chatsounds/autoadd/Dirty_Potter/Fuck yourself.ogg",le
 L["fuckbeak"]={{path="chatsounds/autoadd/Dirty_Potter/Fuckbeak.ogg",length=0.79507936507936505}}
 L["fucking huge"]={{path="chatsounds/autoadd/Dirty_Potter/Fucking huge.ogg",length=0.95818594104308386}}
 L["hadgrids treakled fudge had cemented his draws together"]={{path="chatsounds/autoadd/Dirty_Potter/Hadgrids treakled fudge had cemented his draws together.ogg",length=3.7015646258503403}}
-L["hagrid hump sound"]={{path="chatsounds/autoadd/Dirty_Potter/Hagrid Hump Sound.ogg",length=1.3361678004535147}}
 L["hagrid came too quickly for harrys liking"]={{path="chatsounds/autoadd/Dirty_Potter/Hagrid came too quickly for Harrys liking.ogg",length=2.379591836734694}}
+L["hagrid hump sound"]={{path="chatsounds/autoadd/Dirty_Potter/Hagrid Hump Sound.ogg",length=1.3361678004535147}}
 L["harry potter"]={{path="chatsounds/autoadd/Dirty_Potter/Harry Potter.ogg",length=1.1488435374149659}}
 L["harry swallowed cream chunks of nastiness"]={{path="chatsounds/autoadd/Dirty_Potter/Harry swallowed cream chunks of nastiness.ogg",length=3.3029705215419503}}
 L["he had cummed all over himself"]={{path="chatsounds/autoadd/Dirty_Potter/He had cummed all over himself.ogg",length=2.1100226757369613}}
@@ -38,16 +40,17 @@ L["i think i will thanks"]={{path="chatsounds/autoadd/Dirty_Potter/I think I wil
 L["i wanted to watch my sister taking a dump"]={{path="chatsounds/autoadd/Dirty_Potter/I wanted to watch my sister taking a dump.ogg",length=2.7080272108843539}}
 L["it was a smashing success"]={{path="chatsounds/autoadd/Dirty_Potter/It was a smashing success.ogg",length=1.4668480725623583}}
 L["ive just been cumming on my dead mum and im just off to do a bit more"]={{path="chatsounds/autoadd/Dirty_Potter/Ive just been cumming on my dead mum and Im just off to do a bit more.ogg",length=4.497981859410431}}
+L["jim dale adjusted his dick in his trouser before continuing"]={{path="chatsounds/autoadd/Dirty_Potter/Jim Dale adjusted his dick in his trouser before continuing.ogg",length=3.7960090702947844}}
 L["jim dale cum sound"]={{path="chatsounds/autoadd/Dirty_Potter/Jim Dale Cum sound.ogg",length=0.28092970521541949}}
 L["jim dale rap 1"]={{path="chatsounds/autoadd/Dirty_Potter/Jim Dale Rap 1.ogg",length=26.288775510204083}}
 L["jim dale rap 2"]={{path="chatsounds/autoadd/Dirty_Potter/Jim Dale Rap 2.ogg",length=28.573945578231292}}
-L["jim dale adjusted his dick in his trouser before continuing"]={{path="chatsounds/autoadd/Dirty_Potter/Jim Dale adjusted his dick in his trouser before continuing.ogg",length=3.7960090702947844}}
 L["listener perversion is advised"]={{path="chatsounds/autoadd/Dirty_Potter/Listener perversion is advised.ogg",length=2.2017460317460316}}
 L["mmm blood my favourite"]={{path="chatsounds/autoadd/Dirty_Potter/Mmm blood my favourite.ogg",length=7.3239909297052153}}
 L["niggers should be put down said hagrid"]={{path="chatsounds/autoadd/Dirty_Potter/Niggers should be put down said hagrid.ogg",length=2.9650340136054423}}
 L["oh god my hole is bleeding profusely"]={{path="chatsounds/autoadd/Dirty_Potter/Oh god my hole is bleeding profusely.ogg",length=2.3134920634920637}}
 L["oh yeah it was me i have put a little milk into your butt"]={{path="chatsounds/autoadd/Dirty_Potter/Oh yeah it was me I have put a little milk into your butt.ogg",length=4.6930612244897958}}
 L["porn"]={{path="chatsounds/autoadd/Dirty_Potter/Porn.ogg",length=0.28541950113378683}}
+L["pornography"]={{path="chatsounds/autoadd/Dirty_Potter/pornography.ogg",length=0.95396825396825402}}
 L["presents"]={{path="chatsounds/autoadd/Dirty_Potter/Presents.ogg",length=0.87662131519274378}}
 L["pussy milkshake"]={{path="chatsounds/autoadd/Dirty_Potter/Pussy Milkshake.ogg",length=1.5181405895691611}}
 L["ron got so excited that he began to beat his nigger"]={{path="chatsounds/autoadd/Dirty_Potter/Ron got so excited that he began to beat his nigger.ogg",length=7.4409297052154191}}
@@ -72,7 +75,4 @@ L["warning"]={{path="chatsounds/autoadd/Dirty_Potter/Warning.ogg",length=0.65648
 L["were gonna do a whole pile of unconscious bodies"]={{path="chatsounds/autoadd/Dirty_Potter/Were gonna do a whole pile of unconscious bodies.ogg",length=3.1901360544217687}}
 L["what are we gonna do today then"]={{path="chatsounds/autoadd/Dirty_Potter/What are we gonna do today then.ogg",length=1.2514285714285713}}
 L["whatever faggot"]={{path="chatsounds/autoadd/Dirty_Potter/Whatever faggot.ogg",length=1.2719501133786848}}
-L["big bearded gay jewish burly sailor pajama party pornography"]={{path="chatsounds/autoadd/Dirty_Potter/big bearded gay jewish burly sailor pajama party pornography.ogg",length=4.7800907029478461}}
-L["buttsextumsempra"]={{path="chatsounds/autoadd/Dirty_Potter/buttsextumsempra.ogg",length=1.5297505668934241}}
-L["pornography"]={{path="chatsounds/autoadd/Dirty_Potter/pornography.ogg",length=0.95396825396825402}}
 c.EndList()

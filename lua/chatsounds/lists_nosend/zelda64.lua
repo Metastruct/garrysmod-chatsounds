@@ -1,5 +1,4 @@
 c.StartList("zelda64")
-L["watch out"]={{path="chatsounds/autoadd/zelda64/Watch out.ogg",length=0.64911564625850338}}
 L["clock bell"]={{path="chatsounds/autoadd/zelda64/clock bell.ogg",length=5.1829024943310662}}
 L["countdown1"]={{path="chatsounds/autoadd/zelda64/countdown1.ogg",length=0.22290249433106576}}
 L["countdown2"]={{path="chatsounds/autoadd/zelda64/countdown2.ogg",length=0.38290249433106577}}
@@ -38,6 +37,7 @@ L["poe laugh"]={{path="chatsounds/autoadd/zelda64/poe laugh.ogg",length=1.278911
 L["poe vanish"]={{path="chatsounds/autoadd/zelda64/poe vanish.ogg",length=1.6764172335600906}}
 L["skullkid laugh"]={{path="chatsounds/autoadd/zelda64/skullkid laugh.ogg",length=1.3429024943310657}}
 L["skullkid scream"]={{path="chatsounds/autoadd/zelda64/skullkid scream.ogg",length=4.7029024943310658}}
+L["watch out"]={{path="chatsounds/autoadd/zelda64/Watch out.ogg",length=0.64911564625850338}}
 L["zombiedie"]={{path="chatsounds/autoadd/zelda64/zombiedie.ogg",length=2.0149206349206348}}
 L["zombiehit"]={{path="chatsounds/autoadd/zelda64/zombiehit.ogg",length=0.99088435374149664}}
 L["zombiehump"]={{path="chatsounds/autoadd/zelda64/zombiehump.ogg",length=0.54290249433106574}}

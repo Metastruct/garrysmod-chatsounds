@@ -1,6 +1,5 @@
 c.StartList("madness")
 L["90s music"]={{path="chatsounds/autoadd/madness/90s music.ogg",length=19.148752834467121}}
-L["string"]={{path="chatsounds/autoadd/madness/String.ogg",length=7.2095691609977326}}
 L["ahroy"]={{path="chatsounds/autoadd/madness/ahroy.ogg",length=1.0753061224489795}}
 L["alien hum"]={{path="chatsounds/autoadd/madness/alien hum.ogg",length=10.997551020408164}}
 L["alien screaming"]={{path="chatsounds/autoadd/madness/alien screaming.ogg",length=1.0212471655328799}}
@@ -15,5 +14,6 @@ L["ramiel"]={{path="chatsounds/autoadd/madness/ramiel.ogg",length=2.745464852607
 L["stab1"]={{path="chatsounds/autoadd/madness/stab1.ogg",length=3.7671201814058959}}
 L["stab2"]={{path="chatsounds/autoadd/madness/stab2.ogg",length=7.026893424036281}}
 L["stabend"]={{path="chatsounds/autoadd/madness/stabend.ogg",length=3.7147619047619047}}
+L["string"]={{path="chatsounds/autoadd/madness/String.ogg",length=7.2095691609977326}}
 L["who you callin turky"]={{path="chatsounds/autoadd/madness/who you callin turky.ogg",length=1.6687074829931974}}
 c.EndList()

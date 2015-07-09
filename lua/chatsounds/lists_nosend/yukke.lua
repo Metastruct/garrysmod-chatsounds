@@ -1,8 +1,8 @@
 c.StartList("yukke")
-L["bailout"]={{path="chatsounds/autoadd/yukke/BailOut.ogg",length=2.2998185941043086}}
 L["aarieen"]={{path="chatsounds/autoadd/yukke/aarieen.ogg",length=1.4512471655328798}}
 L["akuno"]={{path="chatsounds/autoadd/yukke/akuno.ogg",length=3.3706575963718821}}
 L["alien squit"]={{path="chatsounds/autoadd/yukke/alien squit.ogg",length=4.7414965986394559}}
+L["bailout"]={{path="chatsounds/autoadd/yukke/BailOut.ogg",length=2.2998185941043086}}
 L["bailoutaaah"]={{path="chatsounds/autoadd/yukke/bailoutaaah.ogg",length=10.867981859410431}}
 L["bcl alert"]={{path="chatsounds/autoadd/yukke/bcl alert.ogg",length=2.7950113378684809}}
 L["bcl bite"]={{path="chatsounds/autoadd/yukke/bcl bite.ogg",length=1.5726984126984127}}

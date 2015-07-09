@@ -2,40 +2,9 @@ c.StartList("kilroy")
 L["20thcenturyfox"]={{path="chatsounds/autoadd/kilroy/20thCenturyFox.ogg",length=23.057414965986396}}
 L["50cc"]={{path="chatsounds/autoadd/kilroy/50cc.ogg",length=2.5005442176870747}}
 L["a10attack"]={{path="chatsounds/autoadd/kilroy/A10attack.ogg",length=2.0203174603174605}}
-L["a10impact"]={{path="chatsounds/autoadd/kilroy/A10impact.ogg",length=3.7385941043083899}}
-L["antiares"]={{path="chatsounds/autoadd/kilroy/AntiAres.ogg",length=14.350113378684807}}
-L["beeyetch"]={{path="chatsounds/autoadd/kilroy/BEEYETCH.ogg",length=1.8134920634920635}}
-L["bonfire"]={{path="chatsounds/autoadd/kilroy/Bonfire.ogg",length=12.057142857142857}}
-L["crush kill destroy swag"]={{path="chatsounds/autoadd/kilroy/CRUSH KILL DESTROY SWAG.ogg",length=3.8227664399092971}}
-L["cause you about to go bananas on the moooooooon"]={{path="chatsounds/autoadd/kilroy/Cause you about to go bananas ON THE MOOOOOOOON.ogg",length=6.3628344671201811}}
-L["crazy loop"]={{path="chatsounds/autoadd/kilroy/Crazy Loop.ogg",length=43.424399092970525}}
-L["cymbal"]={{path="chatsounds/autoadd/kilroy/Cymbal.ogg",length=1.4512471655328798}}
-L["developersdevelopersdevelopersdevelopers"]={{path="chatsounds/autoadd/kilroy/DevelopersDevelopersDevelopersDevelopers.ogg",length=33.936326530612241}}
-L["disco groove"]={{path="chatsounds/autoadd/kilroy/Disco Groove.ogg",length=31.149750566893424}}
-L["fifa"]={{path="chatsounds/autoadd/kilroy/FIFA.ogg",length=16.196099773242629}}
-L["fuckingwindows98"]={{path="chatsounds/autoadd/kilroy/FUCKINGWINDOWS98.ogg",length=2.0897959183673471}}
-L["farisfun"]={{path="chatsounds/autoadd/kilroy/Farisfun.ogg",length=3.374965986394558}}
-L["fillin"]={{path="chatsounds/autoadd/kilroy/Fillin.ogg",length=1.7142857142857142}}
-L["goinin"]={{path="chatsounds/autoadd/kilroy/GoinIn.ogg",length=22.552562358276646}}
-L["i want stevenson dreamland to come to life"]={{path="chatsounds/autoadd/kilroy/I want Stevenson Dreamland to come to life.ogg",length=2.2585034013605441}}
-L["im so happy that ive found you"]={{path="chatsounds/autoadd/kilroy/Im so Happy that Ive found you.ogg",length=10.965804988662132}}
-L["intel"]={{path="chatsounds/autoadd/kilroy/Intel.ogg",length=2.8634920634920635}}
-L["kill me baby"]={{path="chatsounds/autoadd/kilroy/Kill Me Baby.ogg",length=2.4411791383219956}}
-L["kill all sons of bitches"]={{path="chatsounds/autoadd/kilroy/Kill all sons of bitches.ogg",length=1.6028117913832201}}
-L["nash music library"]={{path="chatsounds/autoadd/kilroy/Nash Music Library/1.ogg",length=1.6952380952380952},{path="chatsounds/autoadd/kilroy/Nash Music Library/2.ogg",length=1.5907482993197279}}
-L["nvidia"]={{path="chatsounds/autoadd/kilroy/Nvidia.ogg",length=4.2146031746031749}}
-L["put your hands up in the air"]={{path="chatsounds/autoadd/kilroy/Put Your Hands Up In The Air.ogg",length=3.7008616780045354}}
-L["scratch"]={{path="chatsounds/autoadd/kilroy/Scratch.ogg",length=0.46825396825396826}}
-L["thats my official instructions"]={{path="chatsounds/autoadd/kilroy/Thats my official instructions.ogg",length=1.7068480725623583}}
-L["the great and powerful trixie"]={{path="chatsounds/autoadd/kilroy/The Great and Powerful Trixie.ogg",length=4.9112018140589573}}
-L["this is madness"]={{path="chatsounds/autoadd/kilroy/This Is Madness.ogg",length=1.0566893424036281}}
-L["turntable junky"]={{path="chatsounds/autoadd/kilroy/Turntable Junky.ogg",length=1.648798185941043}}
-L["usmc"]={{path="chatsounds/autoadd/kilroy/USMC.ogg",length=8.9108390022675739}}
-L["what are we gonna do on the bed"]={{path="chatsounds/autoadd/kilroy/What are we gonna do on the bed.ogg",length=3.5644444444444443}}
-L["yeehaw"]={{path="chatsounds/autoadd/kilroy/YEEHAW.ogg",length=0.9231746031746032}}
-L["you blocked me on facebook"]={{path="chatsounds/autoadd/kilroy/You Blocked Me on Facebook.ogg",length=1.4978684807256235}}
 L["a10attackfar"]={{path="chatsounds/autoadd/kilroy/a10attackfar.ogg",length=1.3875736961451248}}
 L["a10flyby"]={{path="chatsounds/autoadd/kilroy/a10flyby.ogg",length=4.104308390022676}}
+L["a10impact"]={{path="chatsounds/autoadd/kilroy/A10impact.ogg",length=3.7385941043083899}}
 L["a10impactfar"]={{path="chatsounds/autoadd/kilroy/a10impactfar.ogg",length=2.4876190476190478}}
 L["aah"]={{path="chatsounds/autoadd/kilroy/aah.ogg",length=0.45006802721088435}}
 L["ah mm hmm"]={{path="chatsounds/autoadd/kilroy/ah mm hmm.ogg",length=1.2393197278911565}}
@@ -45,34 +14,48 @@ L["airbrake"]={{path="chatsounds/autoadd/kilroy/airbrake.ogg",length=1.991247165
 L["alive"]={{path="chatsounds/autoadd/kilroy/alive.ogg",length=0.83755102040816332}}
 L["and now you are going gets fucked up"]={{path="chatsounds/autoadd/kilroy/and now you are going gets fucked up.ogg",length=2.7807709750566891}}
 L["and now youre going to die"]={{path="chatsounds/autoadd/kilroy/and now youre going to DIE.ogg",length=1.5849433106575963}}
+L["antiares"]={{path="chatsounds/autoadd/kilroy/AntiAres.ogg",length=14.350113378684807}}
 L["awesome"]={{path="chatsounds/autoadd/kilroy/awesome.ogg",length=0.81868480725623582}}
 L["baby baby baby"]={{path="chatsounds/autoadd/kilroy/baby baby baby.ogg",length=2.3686167800453513}}
 L["bass"]={{path="chatsounds/autoadd/kilroy/bass.ogg",length=0.53650793650793649}}
 L["bass2"]={{path="chatsounds/autoadd/kilroy/bass2.ogg",length=10.163219954648525}}
 L["be careful how you use it"]={{path="chatsounds/autoadd/kilroy/be careful how you use it.ogg",length=1.4043537414965985}}
+L["beeyetch"]={{path="chatsounds/autoadd/kilroy/BEEYETCH.ogg",length=1.8134920634920635}}
 L["blah blah blah mr freeman"]={{path="chatsounds/autoadd/kilroy/blah blah blah mr freeman.ogg",length=2.2351020408163267}}
 L["blowoff"]={{path="chatsounds/autoadd/kilroy/blowoff.ogg",length=1.4778231292517008}}
+L["bonfire"]={{path="chatsounds/autoadd/kilroy/Bonfire.ogg",length=12.057142857142857}}
 L["booing"]={{path="chatsounds/autoadd/kilroy/booing.ogg",length=12.768072562358277}}
 L["bosozoku"]={{path="chatsounds/autoadd/kilroy/bosozoku.ogg",length=23.492789115646257}}
 L["but i hope you leave enough room for my fist because im going to ram it into your stomach"]={{path="chatsounds/autoadd/kilroy/but I hope you leave enough room for my fist because Im going to ram it into your stomach.ogg",length=4.2902494331065757}}
+L["cause you about to go bananas on the moooooooon"]={{path="chatsounds/autoadd/kilroy/Cause you about to go bananas ON THE MOOOOOOOON.ogg",length=6.3628344671201811}}
 L["check it out"]={{path="chatsounds/autoadd/kilroy/check it out.ogg",length=0.89414965986394557}}
 L["chocolate milk"]={{path="chatsounds/autoadd/kilroy/chocolate milk.ogg",length=1.1243310657596373}}
 L["come on"]={{path="chatsounds/autoadd/kilroy/come on.ogg",length=1.1727891156462584}}
+L["crazy loop"]={{path="chatsounds/autoadd/kilroy/Crazy Loop.ogg",length=43.424399092970525}}
+L["crush kill destroy swag"]={{path="chatsounds/autoadd/kilroy/CRUSH KILL DESTROY SWAG.ogg",length=3.8227664399092971}}
+L["cymbal"]={{path="chatsounds/autoadd/kilroy/Cymbal.ogg",length=1.4512471655328798}}
 L["dededon"]={{path="chatsounds/autoadd/kilroy/dededon.ogg",length=1.8173242630385487}}
+L["developersdevelopersdevelopersdevelopers"]={{path="chatsounds/autoadd/kilroy/DevelopersDevelopersDevelopersDevelopers.ogg",length=33.936326530612241}}
 L["dial up"]={{path="chatsounds/autoadd/kilroy/dial up.ogg",length=18.506303854875284}}
 L["die"]={{path="chatsounds/autoadd/kilroy/die.ogg",length=0.35718820861678002}}
+L["disco groove"]={{path="chatsounds/autoadd/kilroy/Disco Groove.ogg",length=31.149750566893424}}
 L["distortedguitar"]={{path="chatsounds/autoadd/kilroy/distortedguitar.ogg",length=6.8571882086167797}}
 L["do you wanna get bass"]={{path="chatsounds/autoadd/kilroy/do you wanna get bass.ogg",length=1.7119274376417233}}
 L["doomsday"]={{path="chatsounds/autoadd/kilroy/doomsday.ogg",length=16.495782312925169}}
 L["due"]={{path="chatsounds/autoadd/kilroy/due.ogg",length=0.75464852607709754}}
 L["enginestart"]={{path="chatsounds/autoadd/kilroy/enginestart.ogg",length=3.7482086167800452}}
 L["epichorn"]={{path="chatsounds/autoadd/kilroy/epichorn.ogg",length=3.0783673469387756}}
+L["farisfun"]={{path="chatsounds/autoadd/kilroy/Farisfun.ogg",length=3.374965986394558}}
+L["fifa"]={{path="chatsounds/autoadd/kilroy/FIFA.ogg",length=16.196099773242629}}
+L["fillin"]={{path="chatsounds/autoadd/kilroy/Fillin.ogg",length=1.7142857142857142}}
 L["for crying out loud would you stop yammering for longer than 3 seconds i cant even hear myself thinks"]={{path="chatsounds/autoadd/kilroy/for crying out loud would you stop yammering for longer than 3 seconds I cant even hear myself thinks.ogg",length=5.9154648526077098}}
+L["fuckingwindows98"]={{path="chatsounds/autoadd/kilroy/FUCKINGWINDOWS98.ogg",length=2.0897959183673471}}
 L["fun"]={{path="chatsounds/autoadd/kilroy/fun.ogg",length=0.59954648526077092}}
 L["gasp"]={{path="chatsounds/autoadd/kilroy/gasp.ogg",length=1.8000226757369615}}
 L["ggaayy"]={{path="chatsounds/autoadd/kilroy/ggaayy.ogg",length=5.9065759637188204}}
 L["go away"]={{path="chatsounds/autoadd/kilroy/go away.ogg",length=1.656984126984127}}
 L["godfather"]={{path="chatsounds/autoadd/kilroy/godfather.ogg",length=4.2682993197278911}}
+L["goinin"]={{path="chatsounds/autoadd/kilroy/GoinIn.ogg",length=22.552562358276646}}
 L["happy"]={{path="chatsounds/autoadd/kilroy/happy.ogg",length=6.0518820861678009}}
 L["hello cutie pie"]={{path="chatsounds/autoadd/kilroy/hello cutie pie.ogg",length=1.5675283446712018}}
 L["hey im a police officer"]={{path="chatsounds/autoadd/kilroy/hey im a police officer.ogg",length=1.6025396825396825}}
@@ -87,15 +70,20 @@ L["i am writing music i want to be a successful musician and im going to say fuc
 L["i dont like ponies touching my hooves"]={{path="chatsounds/autoadd/kilroy/i dont like ponies touching my hooves.ogg",length=1.5849886621315192}}
 L["i love them"]={{path="chatsounds/autoadd/kilroy/i love them.ogg",length=1.176984126984127}}
 L["i said no"]={{path="chatsounds/autoadd/kilroy/i said no.ogg",length=2.6409750566893422}}
+L["i want stevenson dreamland to come to life"]={{path="chatsounds/autoadd/kilroy/I want Stevenson Dreamland to come to life.ogg",length=2.2585034013605441}}
 L["idk"]={{path="chatsounds/autoadd/kilroy/idk.ogg",length=0.67936507936507939}}
 L["idols"]={{path="chatsounds/autoadd/kilroy/idols.ogg",length=15.000272108843538}}
 L["ill destroy her"]={{path="chatsounds/autoadd/kilroy/ill destroy her.ogg",length=1.9929705215419502}}
 L["im a cop you idiot"]={{path="chatsounds/autoadd/kilroy/im a cop you idiot.ogg",length=1.393560090702948}}
 L["im not a girl ugh oh fuck you"]={{path="chatsounds/autoadd/kilroy/im not a girl ugh oh fuck you.ogg",length=2.5429478458049886}}
+L["im so happy that ive found you"]={{path="chatsounds/autoadd/kilroy/Im so Happy that Ive found you.ogg",length=10.965804988662132}}
 L["im so happy"]={{path="chatsounds/autoadd/kilroy/im so Happy.ogg",length=16.075464852607709}}
+L["intel"]={{path="chatsounds/autoadd/kilroy/Intel.ogg",length=2.8634920634920635}}
 L["iphone"]={{path="chatsounds/autoadd/kilroy/iphone.ogg",length=3.4135147392290248}}
 L["its true i do have a problem"]={{path="chatsounds/autoadd/kilroy/its true i do have a problem.ogg",length=3.9609750566893425}}
 L["kabukishout"]={{path="chatsounds/autoadd/kilroy/kabukishout.ogg",length=3.1085714285714285}}
+L["kill all sons of bitches"]={{path="chatsounds/autoadd/kilroy/Kill all sons of bitches.ogg",length=1.6028117913832201}}
+L["kill me baby"]={{path="chatsounds/autoadd/kilroy/Kill Me Baby.ogg",length=2.4411791383219956}}
 L["kilroy"]={{path="chatsounds/autoadd/kilroy/kilroy.ogg",length=1.5181859410430838}}
 L["like a boss"]={{path="chatsounds/autoadd/kilroy/like a boss.ogg",length=1.3449206349206348}}
 L["madness"]={{path="chatsounds/autoadd/kilroy/madness.ogg",length=1.1031292517006803}}
@@ -106,12 +94,16 @@ L["mclarenf1"]={{path="chatsounds/autoadd/kilroy/mclarenF1.ogg",length=5.2885260
 L["milk"]={{path="chatsounds/autoadd/kilroy/milk.ogg",length=1.8171428571428572}}
 L["mmm whatcha say"]={{path="chatsounds/autoadd/kilroy/mmm whatcha say.ogg",length=26.023945578231292}}
 L["nah nah nah nah nah nah"]={{path="chatsounds/autoadd/kilroy/nah nah nah nah nah nah.ogg",length=1.6575056689342405}}
+L["nash music library"]={{path="chatsounds/autoadd/kilroy/Nash Music Library/1.ogg",length=1.6952380952380952},{path="chatsounds/autoadd/kilroy/Nash Music Library/2.ogg",length=1.5907482993197279}}
 L["np"]={{path="chatsounds/autoadd/kilroy/np.ogg",length=1.0044444444444445}}
+L["nvidia"]={{path="chatsounds/autoadd/kilroy/Nvidia.ogg",length=4.2146031746031749}}
 L["nyanya"]={{path="chatsounds/autoadd/kilroy/nyanya.ogg",length=0.61551020408163271}}
 L["okaerinyasaimase"]={{path="chatsounds/autoadd/kilroy/okaerinyasaimase.ogg",length=2.3519727891156461}}
 L["oldhorn"]={{path="chatsounds/autoadd/kilroy/oldhorn.ogg",length=0.9670748299319728}}
 L["omgomgomg"]={{path="chatsounds/autoadd/kilroy/omgomgomg.ogg",length=1.8577777777777778}}
 L["partytime"]={{path="chatsounds/autoadd/kilroy/partytime.ogg",length=0.60680272108843536}}
+L["put your hands up in the air"]={{path="chatsounds/autoadd/kilroy/Put Your Hands Up In The Air.ogg",length=3.7008616780045354}}
+L["scratch"]={{path="chatsounds/autoadd/kilroy/Scratch.ogg",length=0.46825396825396826}}
 L["shes evil"]={{path="chatsounds/autoadd/kilroy/shes evil.ogg",length=1.6809750566893424}}
 L["shout"]={{path="chatsounds/autoadd/kilroy/shout.ogg",length=2.9700226757369617}}
 L["shout2"]={{path="chatsounds/autoadd/kilroy/shout2.ogg",length=2.9733333333333332}}
@@ -120,14 +112,22 @@ L["spellcard"]={{path="chatsounds/autoadd/kilroy/spellcard.ogg",length=1.9071201
 L["still"]={{path="chatsounds/autoadd/kilroy/still.ogg",length=0.34267573696145126}}
 L["suzaku"]={{path="chatsounds/autoadd/kilroy/suzaku.ogg",length=1.9854875283446711}}
 L["thats amazing"]={{path="chatsounds/autoadd/kilroy/thats amazing.ogg",length=2.1830385487528345}}
+L["thats my official instructions"]={{path="chatsounds/autoadd/kilroy/Thats my official instructions.ogg",length=1.7068480725623583}}
+L["the great and powerful trixie"]={{path="chatsounds/autoadd/kilroy/The Great and Powerful Trixie.ogg",length=4.9112018140589573}}
+L["this is madness"]={{path="chatsounds/autoadd/kilroy/This Is Madness.ogg",length=1.0566893424036281}}
+L["turntable junky"]={{path="chatsounds/autoadd/kilroy/Turntable Junky.ogg",length=1.648798185941043}}
 L["unlock"]={{path="chatsounds/autoadd/kilroy/unlock.ogg",length=0.36462585034013606}}
+L["usmc"]={{path="chatsounds/autoadd/kilroy/USMC.ogg",length=8.9108390022675739}}
 L["vocal1"]={{path="chatsounds/autoadd/kilroy/vocal1.ogg",length=3.9985487528344672}}
 L["vocal2"]={{path="chatsounds/autoadd/kilroy/vocal2.ogg",length=2.2563718820861678}}
 L["vocal3"]={{path="chatsounds/autoadd/kilroy/vocal3.ogg",length=2.7660317460317461}}
 L["vocal4"]={{path="chatsounds/autoadd/kilroy/vocal4.ogg",length=0.94961451247165529}}
+L["what are we gonna do on the bed"]={{path="chatsounds/autoadd/kilroy/What are we gonna do on the bed.ogg",length=3.5644444444444443}}
 L["woohoo"]={{path="chatsounds/autoadd/kilroy/woohoo.ogg",length=0.65251700680272107}}
+L["yeehaw"]={{path="chatsounds/autoadd/kilroy/YEEHAW.ogg",length=0.9231746031746032}}
 L["yes oh my gosh"]={{path="chatsounds/autoadd/kilroy/yes oh my gosh.ogg",length=2.5079365079365079}}
 L["yo"]={{path="chatsounds/autoadd/kilroy/yo.ogg",length=0.85950113378684811}}
+L["you blocked me on facebook"]={{path="chatsounds/autoadd/kilroy/You Blocked Me on Facebook.ogg",length=1.4978684807256235}}
 L["you can run but you cant hide"]={{path="chatsounds/autoadd/kilroy/you can run but you cant hide.ogg",length=4.6329705215419503}}
 L["you son of a bitch"]={{path="chatsounds/autoadd/kilroy/you son of a bitch.ogg",length=2.3746031746031746}}
 L["ypaaaaaaaaa"]={{path="chatsounds/autoadd/kilroy/ypaaaaaaaaa.ogg",length=4.2958730158730161}}

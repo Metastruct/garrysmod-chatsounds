@@ -15,11 +15,12 @@ L["dont forget your sandwiches"]={{path="chatsounds/autoadd/GI_Joe_PSA/Dont forg
 L["dont give him the stick"]={{path="chatsounds/autoadd/GI_Joe_PSA/Dont give him the stick.ogg",length=1.3882086167800454}}
 L["euh ah"]={{path="chatsounds/autoadd/GI_Joe_PSA/Euh ah.ogg",length=1.0320634920634921}}
 L["fuck were all dead get the fuck out"]={{path="chatsounds/autoadd/GI_Joe_PSA/Fuck were all dead get the fuck out.ogg",length=2.532517006802721}}
-L["gi joe"]={{path="chatsounds/autoadd/GI_Joe_PSA/GI Joe.ogg",length=3.0883900226757368}}
 L["get that kid off my ice you little wankers"]={{path="chatsounds/autoadd/GI_Joe_PSA/Get that kid off my ice you little wankers.ogg",length=2.7589795918367348}}
+L["gi joe"]={{path="chatsounds/autoadd/GI_Joe_PSA/GI Joe.ogg",length=3.0883900226757368}}
 L["hey kid"]={{path="chatsounds/autoadd/GI_Joe_PSA/Hey Kid.ogg",length=0.74206349206349209}}
 L["hey what the fuck are you kids doin on my fucking lawn"]={{path="chatsounds/autoadd/GI_Joe_PSA/Hey what the fuck are you kids doin on my fucking lawn.ogg",length=2.959297052154195}}
 L["huh"]={{path="chatsounds/autoadd/GI_Joe_PSA/Huh.ogg",length=0.35814058956916101}}
+L["humming"]={{path="chatsounds/autoadd/GI_Joe_PSA/humming.ogg",length=3.5121315192743765}}
 L["i believe i knew your mother son"]={{path="chatsounds/autoadd/GI_Joe_PSA/I believe I knew your mother son.ogg",length=2.1696825396825399}}
 L["i dont know much about computers other than"]={{path="chatsounds/autoadd/GI_Joe_PSA/I dont know much about computers other than.ogg",length=2.6595918367346938}}
 L["i dont wanna die"]={{path="chatsounds/autoadd/GI_Joe_PSA/I dont wanna die.ogg",length=2.5274149659863947}}
@@ -48,8 +49,7 @@ L["what the hell"]={{path="chatsounds/autoadd/GI_Joe_PSA/What the hell.ogg",leng
 L["whats it been 13 years"]={{path="chatsounds/autoadd/GI_Joe_PSA/Whats it been 13 years.ogg",length=1.6011337868480726}}
 L["who wants a body massage"]={{path="chatsounds/autoadd/GI_Joe_PSA/Who wants a body massage.ogg",length=2.2461451247165534}}
 L["yeah dude"]={{path="chatsounds/autoadd/GI_Joe_PSA/Yeah dude.ogg",length=0.48675736961451249}}
+L["you know its funny these people when they go to sleep everythings fine everythings good"]={{path="chatsounds/autoadd/GI_Joe_PSA/you know its funny these people when they go to sleep everythings fine everythings good.ogg",length=6.6451700680272108}}
 L["you youre the ring leader"]={{path="chatsounds/autoadd/GI_Joe_PSA/You youre the ring leader.ogg",length=1.264625850340136}}
 L["youre not cooking"]={{path="chatsounds/autoadd/GI_Joe_PSA/Youre not cooking.ogg",length=1.2499773242630385}}
-L["humming"]={{path="chatsounds/autoadd/GI_Joe_PSA/humming.ogg",length=3.5121315192743765}}
-L["you know its funny these people when they go to sleep everythings fine everythings good"]={{path="chatsounds/autoadd/GI_Joe_PSA/you know its funny these people when they go to sleep everythings fine everythings good.ogg",length=6.6451700680272108}}
 c.EndList()

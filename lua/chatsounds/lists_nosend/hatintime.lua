@@ -3,7 +3,6 @@ L["10s"]={{path="chatsounds/autoadd/hatintime/10s/1.ogg",length=4.97176870748299
 L["1m20s"]={{path="chatsounds/autoadd/hatintime/1m20s/1.ogg",length=8.6595691609977319}}
 L["2m"]={{path="chatsounds/autoadd/hatintime/2m/1.ogg",length=9.0770748299319735}}
 L["40s"]={{path="chatsounds/autoadd/hatintime/40s/1.ogg",length=7.6759183673469389}}
-L["i just dusted i hope you like it"]={{path="chatsounds/autoadd/hatintime/I just dusted I hope you like it/1.ogg",length=5.5}}
 L["ack"]={{path="chatsounds/autoadd/hatintime/ack/1.ogg",length=0.17478458049886622},{path="chatsounds/autoadd/hatintime/ack/2.ogg",length=0.34750566893424034}}
 L["ah"]={{path="chatsounds/autoadd/hatintime/ah/1.ogg",length=0.3480498866213152},{path="chatsounds/autoadd/hatintime/ah/2.ogg",length=0.33458049886621316},{path="chatsounds/autoadd/hatintime/ah/3.ogg",length=0.19820861678004534},{path="chatsounds/autoadd/hatintime/ah/4.ogg",length=0.13510204081632654}}
 L["all mine"]={{path="chatsounds/autoadd/hatintime/all mine/1.ogg",length=1.1801133786848073},{path="chatsounds/autoadd/hatintime/all mine/2.ogg",length=1.1801133786848073}}
@@ -33,6 +32,7 @@ L["hut"]={{path="chatsounds/autoadd/hatintime/hut/1.ogg",length=0.11965986394557
 L["i can hear you"]={{path="chatsounds/autoadd/hatintime/i can hear you/1.ogg",length=7.1249886621315195}}
 L["i can hear your footsteps"]={{path="chatsounds/autoadd/hatintime/i can hear your footsteps/1.ogg",length=8}}
 L["i just cannot eat all these cookies"]={{path="chatsounds/autoadd/hatintime/i just cannot eat all these cookies/1.ogg",length=12.25}}
+L["i just dusted i hope you like it"]={{path="chatsounds/autoadd/hatintime/I just dusted I hope you like it/1.ogg",length=5.5}}
 L["i just want to talk"]={{path="chatsounds/autoadd/hatintime/i just want to talk/1.ogg",length=5.5}}
 L["i know where you are now"]={{path="chatsounds/autoadd/hatintime/i know where you are now/1.ogg",length=4.75}}
 L["i know youre in there"]={{path="chatsounds/autoadd/hatintime/i know youre in there/1.ogg",length=4}}

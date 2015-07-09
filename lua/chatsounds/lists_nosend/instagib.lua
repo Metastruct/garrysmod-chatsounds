@@ -6,7 +6,6 @@ L["2persons"]={{path="chatsounds/autoadd/instagib/2persons.ogg",length=2.6566893
 L["3chinesen"]={{path="chatsounds/autoadd/instagib/3chinesen.ogg",length=11.852607709750567}}
 L["44"]={{path="chatsounds/autoadd/instagib/44.ogg",length=7.2605895691609978}}
 L["4weiber"]={{path="chatsounds/autoadd/instagib/4weiber.ogg",length=12.501133786848072}}
-L["kleine penis"]={{path="chatsounds/autoadd/instagib/KLEINE PENIS.ogg",length=7.5006802721088439}}
 L["aaa fuck fuck fuck fuck fuuuck"]={{path="chatsounds/autoadd/instagib/aaa fuck fuck fuck fuck fuuuck.ogg",length=4.3152834467120185}}
 L["aaa1"]={{path="chatsounds/autoadd/instagib/aaa1.ogg",length=3.5647165532879819}}
 L["aaa3"]={{path="chatsounds/autoadd/instagib/aaa3.ogg",length=1.7960090702947846}}
@@ -685,6 +684,7 @@ L["klar"]={{path="chatsounds/autoadd/instagib/klar.ogg",length=0.990929705215419
 L["klaus"]={{path="chatsounds/autoadd/instagib/klaus.ogg",length=3.8327437641723354}}
 L["kleider"]={{path="chatsounds/autoadd/instagib/kleider.ogg",length=3.1746031746031744}}
 L["klein"]={{path="chatsounds/autoadd/instagib/klein.ogg",length=1.7759637188208617}}
+L["kleine penis"]={{path="chatsounds/autoadd/instagib/KLEINE PENIS.ogg",length=7.5006802721088439}}
 L["kleiner"]={{path="chatsounds/autoadd/instagib/kleiner.ogg",length=2.5576417233560091}}
 L["klo"]={{path="chatsounds/autoadd/instagib/klo.ogg",length=11.569433106575964}}
 L["kmpfen"]={{path="chatsounds/autoadd/instagib/kmpfen.ogg",length=1.9278004535147393}}

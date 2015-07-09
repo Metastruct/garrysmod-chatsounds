@@ -1,7 +1,5 @@
 c.StartList("dbz_fx")
 L["1aura"]={{path="chatsounds/autoadd/dbz_fx/1aura.ogg",length=3.7500680272108844}}
-L["trans"]={{path="chatsounds/autoadd/dbz_fx/Trans.ogg",length=10.959863945578231}}
-L["trans2"]={{path="chatsounds/autoadd/dbz_fx/Trans2.ogg",length=11.017868480725623}}
 L["airrecover"]={{path="chatsounds/autoadd/dbz_fx/airrecover.ogg",length=1.2026303854875284}}
 L["aura"]={{path="chatsounds/autoadd/dbz_fx/aura.ogg",length=5.7580045351473919}}
 L["aura2"]={{path="chatsounds/autoadd/dbz_fx/aura2.ogg",length=2.255873015873016}}
@@ -108,6 +106,8 @@ L["thunder"]={{path="chatsounds/autoadd/dbz_fx/thunder.ogg",length=4.74040816326
 L["thunderclap"]={{path="chatsounds/autoadd/dbz_fx/thunderclap.ogg",length=2.4838095238095237}}
 L["thunderclap2"]={{path="chatsounds/autoadd/dbz_fx/thunderclap2.ogg",length=6.8538775510204077}}
 L["thunderroll"]={{path="chatsounds/autoadd/dbz_fx/thunderroll.ogg",length=6.3887528344671205}}
+L["trans"]={{path="chatsounds/autoadd/dbz_fx/Trans.ogg",length=10.959863945578231}}
+L["trans2"]={{path="chatsounds/autoadd/dbz_fx/Trans2.ogg",length=11.017868480725623}}
 L["wallhit"]={{path="chatsounds/autoadd/dbz_fx/wallhit.ogg",length=3.0708390022675736}}
 L["walljumps"]={{path="chatsounds/autoadd/dbz_fx/walljumps.ogg",length=1.0004535147392291}}
 L["waterfall2"]={{path="chatsounds/autoadd/dbz_fx/waterfall2.ogg",length=3.6179591836734692}}

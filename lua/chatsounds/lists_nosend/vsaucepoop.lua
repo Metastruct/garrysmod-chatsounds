@@ -1,5 +1,4 @@
 c.StartList("vsaucepoop")
-L["sos"]={{path="chatsounds/autoadd/vsaucepoop/SOS.ogg",length=0.43700680272108844}}
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/vsaucepoop/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=2.2578231292517006}}
 L["alaala"]={{path="chatsounds/autoadd/vsaucepoop/alaala.ogg",length=0.50424036281179141}}
 L["eeeeeeeeeeeeeeeee"]={{path="chatsounds/autoadd/vsaucepoop/eeeeeeeeeeeeeeeee.ogg",length=1.2998412698412698}}
@@ -13,6 +12,7 @@ L["or your feeeeeeeeeeeeeeeeeeeeeeet"]={{path="chatsounds/autoadd/vsaucepoop/or 
 L["physical sauce"]={{path="chatsounds/autoadd/vsaucepoop/physical sauce.ogg",length=0.90764172335600912}}
 L["radcliffe camera radcliffe coc"]={{path="chatsounds/autoadd/vsaucepoop/radcliffe camera radcliffe coc.ogg",length=2.319546485260771}}
 L["soos"]={{path="chatsounds/autoadd/vsaucepoop/soos.ogg",length=0.5602721088435374}}
+L["sos"]={{path="chatsounds/autoadd/vsaucepoop/SOS.ogg",length=0.43700680272108844}}
 L["sowos"]={{path="chatsounds/autoadd/vsaucepoop/sowos.ogg",length=0.5154648526077098}}
 L["sssssssssssssssssssssssssssssssssss"]={{path="chatsounds/autoadd/vsaucepoop/sssssssssssssssssssssssssssssssssss.ogg",length=1.283310657596372}}
 L["the baaaaaaaaaaaaaaaaaaaallll"]={{path="chatsounds/autoadd/vsaucepoop/the baaaaaaaaaaaaaaaaaaaallll.ogg",length=1.9970521541950113}}

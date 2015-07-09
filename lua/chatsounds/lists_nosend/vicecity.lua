@@ -1,7 +1,6 @@
 c.StartList("vicecity")
-L["blowroof"]={{path="chatsounds/autoadd/vicecity/BlowRoof.ogg",length=1.153061224489796}}
-L["snipscrl"]={{path="chatsounds/autoadd/vicecity/SnipSCRL.ogg",length=2.4906122448979593}}
 L["ah hell not again i dont need this crap"]={{path="chatsounds/autoadd/vicecity/ah hell not again i dont need this crap.ogg",length=3.2285714285714286}}
+L["blowroof"]={{path="chatsounds/autoadd/vicecity/BlowRoof.ogg",length=1.153061224489796}}
 L["burn the management"]={{path="chatsounds/autoadd/vicecity/burn the management.ogg",length=1.153061224489796}}
 L["come back again"]={{path="chatsounds/autoadd/vicecity/come back again.ogg",length=1.2453061224489796}}
 L["come back soon you here"]={{path="chatsounds/autoadd/vicecity/come back soon you here.ogg",length=1.8910204081632653}}
@@ -106,6 +105,7 @@ L["ruined ruined"]={{path="chatsounds/autoadd/vicecity/ruined ruined.ogg",length
 L["scream"]={{path="chatsounds/autoadd/vicecity/scream/vcscream.ogg",length=1.9371428571428571},{path="chatsounds/autoadd/vicecity/scream/vcscream2.ogg",length=1.9371428571428571}}
 L["screw you man"]={{path="chatsounds/autoadd/vicecity/screw you man.ogg",length=1.153061224489796}}
 L["see you around handsome"]={{path="chatsounds/autoadd/vicecity/see you around handsome.ogg",length=2.2138775510204081}}
+L["snipscrl"]={{path="chatsounds/autoadd/vicecity/SnipSCRL.ogg",length=2.4906122448979593}}
 L["some pisshead messing around ill bust you whaai this toy"]={{path="chatsounds/autoadd/vicecity/some pisshead messing around ill bust you whaai this toy.ogg",length=3.8742857142857141}}
 L["sorry sir no firearms on the coast"]={{path="chatsounds/autoadd/vicecity/sorry sir no firearms on the coast.ogg",length=3.090204081632653}}
 L["sticks out boys lets crack some commie skulls"]={{path="chatsounds/autoadd/vicecity/sticks out boys lets crack some commie skulls.ogg",length=3.090204081632653}}

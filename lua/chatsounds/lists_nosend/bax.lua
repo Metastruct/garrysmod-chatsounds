@@ -1,5 +1,4 @@
 c.StartList("bax")
-L["zork laugh"]={{path="chatsounds/autoadd/bax/Zork Laugh.ogg",length=5.1545578231292515}}
 L["and i holy shit will always love you i cant believe you did this to me god damn it how could you do this to me"]={{path="chatsounds/autoadd/bax/and i holy shit will always love you i cant believe you did this to me god damn it how could you do this to me.ogg",length=12.192675736961451}}
 L["andcactus"]={{path="chatsounds/autoadd/bax/andcactus.ogg",length=0.7176190476190476}}
 L["cactus"]={{path="chatsounds/autoadd/bax/cactus/cactus1.ogg",length=0.54573696145124717},{path="chatsounds/autoadd/bax/cactus/cactus2.ogg",length=0.92816326530612248},{path="chatsounds/autoadd/bax/cactus/cactus3.ogg",length=0.51566893424036286},{path="chatsounds/autoadd/bax/cactus/cactus4.ogg",length=0.96682539682539681}}
@@ -18,4 +17,5 @@ L["slide on the soap"]={{path="chatsounds/autoadd/bax/slide on the soap.ogg",len
 L["squeaky wheel"]={{path="chatsounds/autoadd/bax/squeaky wheel.ogg",length=2.713560090702948}}
 L["wow unreal my gosh this is amazing i feel incredible yes yes yes yes i can win i feel great i can do this"]={{path="chatsounds/autoadd/bax/wow unreal my gosh this is amazing i feel incredible yes yes yes yes i can win i feel great i can do this.ogg",length=15.124807256235828}}
 L["your soundcard works perfectly"]={{path="chatsounds/autoadd/bax/your soundcard works perfectly.ogg",length=2.3427664399092971}}
+L["zork laugh"]={{path="chatsounds/autoadd/bax/Zork Laugh.ogg",length=5.1545578231292515}}
 c.EndList()

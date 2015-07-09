@@ -13,6 +13,7 @@ L["gasp"]={{path="chatsounds/autoadd/Zelda_WW/Gasp.ogg",length=0.609705215419501
 L["giggle"]={{path="chatsounds/autoadd/Zelda_WW/Giggle.ogg",length=0.76789115646258499}}
 L["glaugh"]={{path="chatsounds/autoadd/Zelda_WW/Glaugh/WW_Ganondorf_Final_TriforceLaugh1.ogg",length=3.1457369614512474},{path="chatsounds/autoadd/Zelda_WW/Glaugh/WW_Ganondorf_Final_TriforceLaugh2.ogg",length=3.2902040816326532},{path="chatsounds/autoadd/Zelda_WW/Glaugh/WW_Ganondorf_Final_TriforceLaugh3.ogg",length=10.928526077097505},{path="chatsounds/autoadd/Zelda_WW/Glaugh/WW_Ganondorf_Fortress_Laugh.ogg",length=1.305578231292517},{path="chatsounds/autoadd/Zelda_WW/Glaugh/WW_Ganondorf_FoundZelda.ogg",length=6.5975963718820863}}
 L["grouch"]={{path="chatsounds/autoadd/Zelda_WW/Grouch.ogg",length=1.1293650793650793}}
+L["haahahaha"]={{path="chatsounds/autoadd/Zelda_WW/haahahaha.ogg",length=2.4121315192743764}}
 L["hah"]={{path="chatsounds/autoadd/Zelda_WW/Hah.ogg",length=0.43192743764172337}}
 L["haha"]={{path="chatsounds/autoadd/Zelda_WW/Haha.ogg",length=1.0975963718820863}}
 L["happygasp"]={{path="chatsounds/autoadd/Zelda_WW/HappyGasp.ogg",length=0.77721088435374153}}
@@ -53,16 +54,15 @@ L["struggle"]={{path="chatsounds/autoadd/Zelda_WW/Struggle/WW_Link_Struggle1.ogg
 L["surprised"]={{path="chatsounds/autoadd/Zelda_WW/Surprised.ogg",length=0.54324263038548748}}
 L["tetrawink"]={{path="chatsounds/autoadd/Zelda_WW/TetraWink.ogg",length=1.9156235827664398}}
 L["thank you"]={{path="chatsounds/autoadd/Zelda_WW/Thank You.ogg",length=1.3822448979591837}}
-L["uhhuh"]={{path="chatsounds/autoadd/Zelda_WW/UhHuh.ogg",length=0.82505668934240362}}
 L["uhhm"]={{path="chatsounds/autoadd/Zelda_WW/Uhhm.ogg",length=1.2943083900226757}}
+L["uhhuh"]={{path="chatsounds/autoadd/Zelda_WW/UhHuh.ogg",length=0.82505668934240362}}
 L["upset"]={{path="chatsounds/autoadd/Zelda_WW/Upset.ogg",length=1.4452607709750567}}
-L["wwfanfare"]={{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_HeartContainer.ogg",length=3.5176190476190476},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_Item.ogg",length=2.4954875283446714},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_NewSong.ogg",length=2.9212244897959185},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_Pearl.ogg",length=3.0841043083900228},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_Rupee.ogg",length=1.8051700680272109},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_SmallItem.ogg",length=2.6020861678004534},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_TreasureChest.ogg",length=2.1699092970521541}}
 L["wait"]={{path="chatsounds/autoadd/Zelda_WW/Wait.ogg",length=0.79841269841269846}}
 L["woooo"]={{path="chatsounds/autoadd/Zelda_WW/WooOo.ogg",length=3.5494331065759637}}
 L["worried"]={{path="chatsounds/autoadd/Zelda_WW/Worried.ogg",length=0.65832199546485259}}
 L["wow"]={{path="chatsounds/autoadd/Zelda_WW/Wow.ogg",length=1.505374149659864}}
 L["wuhahahaha"]={{path="chatsounds/autoadd/Zelda_WW/Wuhahahaha.ogg",length=1.6416553287981859}}
+L["wwfanfare"]={{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_HeartContainer.ogg",length=3.5176190476190476},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_Item.ogg",length=2.4954875283446714},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_NewSong.ogg",length=2.9212244897959185},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_Pearl.ogg",length=3.0841043083900228},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_Rupee.ogg",length=1.8051700680272109},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_SmallItem.ogg",length=2.6020861678004534},{path="chatsounds/autoadd/Zelda_WW/WWFanfare/WW_Fanfare_TreasureChest.ogg",length=2.1699092970521541}}
 L["yay"]={{path="chatsounds/autoadd/Zelda_WW/Yay/WW_Link_Yay.ogg",length=0.51680272108843539},{path="chatsounds/autoadd/Zelda_WW/Yay/WW_Tingle_Yay.ogg",length=1.2492290249433107}}
 L["yoop"]={{path="chatsounds/autoadd/Zelda_WW/Yoop.ogg",length=0.50639455782312925}}
-L["haahahaha"]={{path="chatsounds/autoadd/Zelda_WW/haahahaha.ogg",length=2.4121315192743764}}
 c.EndList()

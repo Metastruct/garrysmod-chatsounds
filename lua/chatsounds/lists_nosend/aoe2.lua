@@ -1,9 +1,7 @@
 c.StartList("aoe2")
-L["attack an enemy now"]={{path="chatsounds/autoadd/aoe2/Attack an Enemy Now.ogg",length=1.6979591836734693}}
-L["i need a monk"]={{path="chatsounds/autoadd/aoe2/I Need a Monk.ogg",length=1.8546938775510204}}
-L["long time no siege"]={{path="chatsounds/autoadd/aoe2/Long Time No Siege.ogg",length=1.4367346938775509}}
 L["aaahhhhhh"]={{path="chatsounds/autoadd/aoe2/aaahhhhhh.ogg",length=1.8546938775510204}}
 L["all hail king of the losers"]={{path="chatsounds/autoadd/aoe2/all hail king of the losers.ogg",length=3.5787755102040815}}
+L["attack an enemy now"]={{path="chatsounds/autoadd/aoe2/Attack an Enemy Now.ogg",length=1.6979591836734693}}
 L["being rushed"]={{path="chatsounds/autoadd/aoe2/being rushed.ogg",length=1.0710204081632653}}
 L["blame your isp"]={{path="chatsounds/autoadd/aoe2/blame your isp.ogg",length=1.6457142857142857}}
 L["dont point that thing at me"]={{path="chatsounds/autoadd/aoe2/dont point that thing at me.ogg",length=1.8546938775510204}}
@@ -11,7 +9,9 @@ L["enemy sighted"]={{path="chatsounds/autoadd/aoe2/enemy sighted.ogg",length=1.0
 L["food please"]={{path="chatsounds/autoadd/aoe2/food please.ogg",length=1.3844897959183673}}
 L["gold please"]={{path="chatsounds/autoadd/aoe2/gold please.ogg",length=1.5934693877551021}}
 L["herb laugh"]={{path="chatsounds/autoadd/aoe2/herb laugh.ogg",length=4.9893877551020411}}
+L["i need a monk"]={{path="chatsounds/autoadd/aoe2/I Need a Monk.ogg",length=1.8546938775510204}}
 L["it is good to be the king"]={{path="chatsounds/autoadd/aoe2/it is good to be the king.ogg",length=2.2204081632653061}}
+L["long time no siege"]={{path="chatsounds/autoadd/aoe2/Long Time No Siege.ogg",length=1.4367346938775509}}
 L["nice town ill take it"]={{path="chatsounds/autoadd/aoe2/nice town ill take it.ogg",length=1.750204081632653}}
 L["no"]={{path="chatsounds/autoadd/aoe2/no.ogg",length=0.60081632653061223}}
 L["oooh"]={{path="chatsounds/autoadd/aoe2/oooh.ogg",length=1.5934693877551021}}

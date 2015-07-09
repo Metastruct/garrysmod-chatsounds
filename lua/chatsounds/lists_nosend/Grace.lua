@@ -1,7 +1,4 @@
 c.StartList("Grace")
-L["i dont know"]={{path="chatsounds/autoadd/Grace/I dont know.ogg",length=0.89607709750566888}}
-L["riddly diddly"]={{path="chatsounds/autoadd/Grace/RIDDLY DIDDLY.ogg",length=20.74718820861678}}
-L["rrrrrruurrrruuuuu"]={{path="chatsounds/autoadd/Grace/RRRRRRUURRRRUUUUU.ogg",length=0.88183673469387758}}
 L["barbeque barbeque"]={{path="chatsounds/autoadd/Grace/barbeque barbeque.ogg",length=2.690612244897959}}
 L["basscannon powerup"]={{path="chatsounds/autoadd/Grace/basscannon powerup.ogg",length=2.7047619047619049}}
 L["bert is shiiit"]={{path="chatsounds/autoadd/Grace/bert is shiiit.ogg",length=1.5770748299319728}}
@@ -20,6 +17,7 @@ L["galo sengen"]={{path="chatsounds/autoadd/Grace/galo sengen.ogg",length=1.0019
 L["go go go go"]={{path="chatsounds/autoadd/Grace/go go go go.ogg",length=2.9995918367346941}}
 L["good question"]={{path="chatsounds/autoadd/Grace/good question.ogg",length=1.1976643990929705}}
 L["hey guys"]={{path="chatsounds/autoadd/Grace/hey guys.ogg",length=0.91861678004535152}}
+L["i dont know"]={{path="chatsounds/autoadd/Grace/I dont know.ogg",length=0.89607709750566888}}
 L["im fucking hungry"]={{path="chatsounds/autoadd/Grace/im fucking hungry.ogg",length=1.8686848072562359}}
 L["im like fucking emperor palpatine"]={{path="chatsounds/autoadd/Grace/im like fucking emperor palpatine.ogg",length=2.9108163265306124}}
 L["initiate phase one"]={{path="chatsounds/autoadd/Grace/initiate phase one.ogg",length=2.4380952380952383}}
@@ -29,7 +27,9 @@ L["now back to the good part"]={{path="chatsounds/autoadd/Grace/now back to the 
 L["oh hamburgers"]={{path="chatsounds/autoadd/Grace/oh hamburgers.ogg",length=1.1711791383219954}}
 L["power up the bass cannon"]={{path="chatsounds/autoadd/Grace/power up the bass cannon.ogg",length=1.9047619047619047}}
 L["put a fucking dispencer here"]={{path="chatsounds/autoadd/Grace/put a fucking dispencer here.ogg",length=2.3358276643990932}}
+L["riddly diddly"]={{path="chatsounds/autoadd/Grace/RIDDLY DIDDLY.ogg",length=20.74718820861678}}
 L["right on your lap"]={{path="chatsounds/autoadd/Grace/right on your lap.ogg",length=1.6905215419501134}}
+L["rrrrrruurrrruuuuu"]={{path="chatsounds/autoadd/Grace/RRRRRRUURRRRUUUUU.ogg",length=0.88183673469387758}}
 L["sit sit sit on you"]={{path="chatsounds/autoadd/Grace/sit sit sit on you.ogg",length=1.8816099773242629}}
 L["teh time"]={{path="chatsounds/autoadd/Grace/teh time.ogg",length=2.6491609977324262}}
 L["the amityville toaster make breakfast spooky"]={{path="chatsounds/autoadd/Grace/the amityville toaster make breakfast spooky.ogg",length=2.3169841269841269}}

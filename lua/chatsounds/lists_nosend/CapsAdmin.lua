@@ -87,7 +87,7 @@ L["im not fucking kidding dude"]={{path="chatsounds/autoadd/CapsAdmin/im not fuc
 L["it burns"]={{path="chatsounds/autoadd/CapsAdmin/it burns.ogg",length=1.7120861678004535}}
 L["it is crazy"]={{path="chatsounds/autoadd/CapsAdmin/it is crazy.ogg",length=0.96018140589569156}}
 L["its the"]={{path="chatsounds/autoadd/CapsAdmin/its the.ogg",length=0.28993197278911564}}
-L["jtechsfx"]={{path="chatsounds/autoadd/CapsAdmin/jtechsfx/Marker 02.ogg",length=0.61446712018140592},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/Marker 03.ogg",length=0.64557823129251701},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/asdasd.ogg",length=1.1700680272108843},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/asfasfqw.ogg",length=0.99673469387755098},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/fasfasasfasf.ogg",length=1.1211337868480726}}
+L["jtechsfx"]={{path="chatsounds/autoadd/CapsAdmin/jtechsfx/asdasd.ogg",length=1.1700680272108843},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/asfasfqw.ogg",length=0.99673469387755098},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/fasfasasfasf.ogg",length=1.1211337868480726},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/Marker 02.ogg",length=0.61446712018140592},{path="chatsounds/autoadd/CapsAdmin/jtechsfx/Marker 03.ogg",length=0.64557823129251701}}
 L["jtechsfx2"]={{path="chatsounds/autoadd/CapsAdmin/jtechsfx2/Marker 01.ogg",length=0.49004535147392292},{path="chatsounds/autoadd/CapsAdmin/jtechsfx2/Marker 04.ogg",length=1.616984126984127}}
 L["junglebird"]={{path="chatsounds/autoadd/CapsAdmin/junglebird.ogg",length=1.7417687074829933}}
 L["kamehameha"]={{path="chatsounds/autoadd/CapsAdmin/kamehameha.ogg",length=12.462312925170068}}

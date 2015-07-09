@@ -7,13 +7,13 @@ L["ahh its locked"]={{path="chatsounds/autoadd/hotd1/ahh its locked.ogg",length=
 L["are you okay"]={{path="chatsounds/autoadd/hotd1/are you okay.ogg",length=0.89541950113378688}}
 L["better be ready curien"]={{path="chatsounds/autoadd/hotd1/better be ready curien.ogg",length=1.4106122448979592}}
 L["but you will never ever defeat me say hello to my masterpiece"]={{path="chatsounds/autoadd/hotd1/but you will never ever defeat me say hello to my masterpiece.ogg",length=8.6058956916099767}}
-L["curien"]={{path="chatsounds/autoadd/hotd1/curien/O_VOC63.ogg",length=0.5703401360544218},{path="chatsounds/autoadd/hotd1/curien/curien.ogg",length=0.72126984126984128}}
+L["curien"]={{path="chatsounds/autoadd/hotd1/curien/curien.ogg",length=0.72126984126984128},{path="chatsounds/autoadd/hotd1/curien/O_VOC63.ogg",length=0.5703401360544218}}
 L["curien"]={{path="chatsounds/autoadd/hotd1/curien.ogg",length=0.72126984126984128}}
 L["die"]={{path="chatsounds/autoadd/hotd1/die.ogg",length=0.6093877551020408}}
 L["dont worry hell pay for this"]={{path="chatsounds/autoadd/hotd1/dont worry hell pay for this.ogg",length=2.8197732426303856}}
 L["everything is over"]={{path="chatsounds/autoadd/hotd1/everything is over.ogg",length=1.0463492063492064}}
 L["farewell sophie"]={{path="chatsounds/autoadd/hotd1/farewell sophie.ogg",length=1.5658956916099773}}
-L["goodbye curien"]={{path="chatsounds/autoadd/hotd1/goodbye curien/O_VOC86.ogg",length=1.3177324263038548},{path="chatsounds/autoadd/hotd1/goodbye curien/goodbye curien.ogg",length=1.146485260770975}}
+L["goodbye curien"]={{path="chatsounds/autoadd/hotd1/goodbye curien/goodbye curien.ogg",length=1.146485260770975},{path="chatsounds/autoadd/hotd1/goodbye curien/O_VOC86.ogg",length=1.3177324263038548}}
 L["goodbye curien"]={{path="chatsounds/autoadd/hotd1/goodbye curien.ogg",length=1.146485260770975}}
 L["hotd1gun"]={{path="chatsounds/autoadd/hotd1/hotd1gun.ogg",length=0.78712018140589568}}
 L["hotdheartbeat"]={{path="chatsounds/autoadd/hotd1/hotdheartbeat.ogg",length=0.52920634920634924}}
@@ -29,9 +29,9 @@ L["i was so scared"]={{path="chatsounds/autoadd/hotd1/i was so scared.ogg",lengt
 L["ill finish you here"]={{path="chatsounds/autoadd/hotd1/ill finish you here.ogg",length=2.1768707482993199}}
 L["ill get you curien"]={{path="chatsounds/autoadd/hotd1/ill get you curien.ogg",length=1.8155102040816327}}
 L["implaugh"]={{path="chatsounds/autoadd/hotd1/implaugh.ogg",length=0.88190476190476186}}
-L["its a dead end"]={{path="chatsounds/autoadd/hotd1/its a dead end/O_VOC49.ogg",length=0.89251700680272106},{path="chatsounds/autoadd/hotd1/its a dead end/its a dead end.ogg",length=0.966530612244898}}
+L["its a dead end"]={{path="chatsounds/autoadd/hotd1/its a dead end/its a dead end.ogg",length=0.966530612244898},{path="chatsounds/autoadd/hotd1/its a dead end/O_VOC49.ogg",length=0.89251700680272106}}
 L["its a dead end"]={{path="chatsounds/autoadd/hotd1/its a dead end.ogg",length=0.966530612244898}}
-L["its too late"]={{path="chatsounds/autoadd/hotd1/its too late/O_VOC61.ogg",length=1.0448979591836736},{path="chatsounds/autoadd/hotd1/its too late/its too late.ogg",length=1.1043990929705216}}
+L["its too late"]={{path="chatsounds/autoadd/hotd1/its too late/its too late.ogg",length=1.1043990929705216},{path="chatsounds/autoadd/hotd1/its too late/O_VOC61.ogg",length=1.0448979591836736}}
 L["its too late"]={{path="chatsounds/autoadd/hotd1/its too late.ogg",length=1.1043990929705216}}
 L["its you"]={{path="chatsounds/autoadd/hotd1/its you.ogg",length=1.0608616780045352}}
 L["lets go in"]={{path="chatsounds/autoadd/hotd1/lets go in.ogg",length=0.70675736961451252}}
@@ -45,7 +45,7 @@ L["ohnoo"]={{path="chatsounds/autoadd/hotd1/ohnoo.ogg",length=0.8562358276643991
 L["ok curien now its your turn"]={{path="chatsounds/autoadd/hotd1/ok curien now its your turn.ogg",length=2.36843537414966}}
 L["others are still inside save them"]={{path="chatsounds/autoadd/hotd1/others are still inside save them.ogg",length=2.6398185941043084}}
 L["ow"]={{path="chatsounds/autoadd/hotd1/ow.ogg",length=0.44553287981859413}}
-L["oww"]={{path="chatsounds/autoadd/hotd1/oww/O_VOC93.ogg",length=0.50068027210884358},{path="chatsounds/autoadd/hotd1/oww/oww.ogg",length=0.48036281179138324}}
+L["oww"]={{path="chatsounds/autoadd/hotd1/oww/oww.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/hotd1/oww/O_VOC93.ogg",length=0.50068027210884358}}
 L["oww noo"]={{path="chatsounds/autoadd/hotd1/oww noo.ogg",length=1.0376417233560091}}
 L["oww"]={{path="chatsounds/autoadd/hotd1/oww.ogg",length=0.48036281179138324}}
 L["quick open the lock"]={{path="chatsounds/autoadd/hotd1/quick open the lock.ogg",length=1.1972789115646258}}

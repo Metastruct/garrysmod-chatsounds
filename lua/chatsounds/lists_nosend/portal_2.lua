@@ -1,9 +1,9 @@
 c.StartList("portal_2")
 L["99999 9"]={{path="chatsounds/autoadd/portal_2/99999 9.ogg",length=3.5887981859410432}}
-L["aperture laboratories intro"]={{path="chatsounds/autoadd/portal_2/Aperture Laboratories Intro.ogg",length=4.2490249433106575}}
 L["agh bird bird kill it its evil"]={{path="chatsounds/autoadd/portal_2/agh bird bird kill it its evil.ogg",length=2.4293877551020406}}
 L["ah dont tell anyone about this"]={{path="chatsounds/autoadd/portal_2/ah dont tell anyone about this.ogg",length=2.0114285714285716}}
 L["and you are not coming back"]={{path="chatsounds/autoadd/portal_2/and you are not coming back.ogg",length=2.3248979591836734}}
+L["aperture laboratories intro"]={{path="chatsounds/autoadd/portal_2/Aperture Laboratories Intro.ogg",length=4.2490249433106575}}
 L["because im a potato"]={{path="chatsounds/autoadd/portal_2/because im a potato.ogg",length=1.7807709750566894}}
 L["bird bird bird bird"]={{path="chatsounds/autoadd/portal_2/bird bird bird bird.ogg",length=2.3248979591836734}}
 L["consequently they have never been solved by a human"]={{path="chatsounds/autoadd/portal_2/consequently they have never been solved by a human.ogg",length=3.0513378684807257}}

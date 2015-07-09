@@ -1,5 +1,4 @@
 c.StartList("morsh")
-L["yearh"]={{path="chatsounds/autoadd/morsh/YEARH.ogg",length=0.45820861678004537}}
 L["a man"]={{path="chatsounds/autoadd/morsh/a man.ogg",length=0.57469387755102042}}
 L["airhorn"]={{path="chatsounds/autoadd/morsh/airhorn.ogg",length=1.7115419501133786}}
 L["airhorn2"]={{path="chatsounds/autoadd/morsh/airhorn2.ogg",length=2.8365306122448981}}
@@ -28,4 +27,5 @@ L["the shits stuck"]={{path="chatsounds/autoadd/morsh/the shits stuck.ogg",lengt
 L["weed2"]={{path="chatsounds/autoadd/morsh/weed2.ogg",length=0.40040816326530615}}
 L["what is that"]={{path="chatsounds/autoadd/morsh/what is that.ogg",length=1.3583673469387756}}
 L["what the fuck is that"]={{path="chatsounds/autoadd/morsh/what the fuck is that.ogg",length=1.5150566893424036}}
+L["yearh"]={{path="chatsounds/autoadd/morsh/YEARH.ogg",length=0.45820861678004537}}
 c.EndList()

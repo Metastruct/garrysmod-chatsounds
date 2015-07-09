@@ -4,7 +4,6 @@ L["3"]={{path="chatsounds/autoadd/techbot/3.ogg",length=0.87342403628117915}}
 L["4"]={{path="chatsounds/autoadd/techbot/4.ogg",length=0.87340136054421769}}
 L["5 4 3 1 offblast"]={{path="chatsounds/autoadd/techbot/5 4 3 1 offblast.ogg",length=4.8607256235827663}}
 L["5"]={{path="chatsounds/autoadd/techbot/5.ogg",length=0.87340136054421769}}
-L["no nyt vittu nyt turpa kiinni saatana"]={{path="chatsounds/autoadd/techbot/NO NYT VITTU NYT TURPA KIINNI SAATANA.ogg",length=4.0634920634920633}}
 L["a genius"]={{path="chatsounds/autoadd/techbot/a genius.ogg",length=0.62950113378684802}}
 L["aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/aaa aaaahhh.ogg",length=2.8662131519274379}}
 L["abcdefjii"]={{path="chatsounds/autoadd/techbot/abcdefjii.ogg",length=2.01578231292517}}
@@ -65,6 +64,7 @@ L["my eyes"]={{path="chatsounds/autoadd/techbot/my eyes.ogg",length=1.3946485260
 L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begins to shoosh.ogg",length=1.6602267573696146}}
 L["my"]={{path="chatsounds/autoadd/techbot/my.ogg",length=0.88526077097505673}}
 L["nnoice"]={{path="chatsounds/autoadd/techbot/nnoice.ogg",length=0.67482993197278907}}
+L["no nyt vittu nyt turpa kiinni saatana"]={{path="chatsounds/autoadd/techbot/NO NYT VITTU NYT TURPA KIINNI SAATANA.ogg",length=4.0634920634920633}}
 L["no nyt"]={{path="chatsounds/autoadd/techbot/no nyt.ogg",length=0.42741496598639456}}
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.89832199546485259}}
 L["nobodycares"]={{path="chatsounds/autoadd/techbot/nobodycares.ogg",length=2.1347845804988661}}

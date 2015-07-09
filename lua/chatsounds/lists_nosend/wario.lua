@@ -1,5 +1,4 @@
 c.StartList("wario")
-L["i win"]={{path="chatsounds/autoadd/wario/I win.ogg",length=3.3901133786848074}}
 L["aahh"]={{path="chatsounds/autoadd/wario/aahh.ogg",length=1.4309297052154195}}
 L["ah"]={{path="chatsounds/autoadd/wario/ah.ogg",length=0.9012244897959184}}
 L["alright"]={{path="chatsounds/autoadd/wario/alright.ogg",length=1.0013605442176872}}
@@ -12,6 +11,7 @@ L["good"]={{path="chatsounds/autoadd/wario/good.ogg",length=0.40054421768707482}
 L["haa"]={{path="chatsounds/autoadd/wario/haa.ogg",length=0.50068027210884358}}
 L["have a rotten day"]={{path="chatsounds/autoadd/wario/have a rotten day.ogg",length=1.1711564625850339}}
 L["here we go"]={{path="chatsounds/autoadd/wario/here we go.ogg",length=1.0013605442176872}}
+L["i win"]={{path="chatsounds/autoadd/wario/I win.ogg",length=3.3901133786848074}}
 L["im number one"]={{path="chatsounds/autoadd/wario/im number one.ogg",length=1.980952380952381}}
 L["oh no"]={{path="chatsounds/autoadd/wario/oh no.ogg",length=1.1305215419501133}}
 L["oh yeah"]={{path="chatsounds/autoadd/wario/oh yeah.ogg",length=0.97088435374149662}}

@@ -1,8 +1,5 @@
 c.StartList("noiwex")
 L["2011"]={{path="chatsounds/autoadd/noiwex/2011.ogg",length=1.0739229024943311}}
-L["cheeki breeki"]={{path="chatsounds/autoadd/noiwex/CHEEKI BREEKI.ogg",length=2.7484126984126984}}
-L["meem coming"]={{path="chatsounds/autoadd/noiwex/MEEM COMING.ogg",length=3.1373696145124716}}
-L["stupid"]={{path="chatsounds/autoadd/noiwex/STUPID.ogg",length=1.1161224489795918}}
 L["a"]={{path="chatsounds/autoadd/noiwex/a.ogg",length=0.21777777777777776}}
 L["adventures of gaben"]={{path="chatsounds/autoadd/noiwex/adventures of gaben.ogg",length=34.955238095238094}}
 L["ag"]={{path="chatsounds/autoadd/noiwex/ag.ogg",length=0.21777777777777776}}
@@ -25,6 +22,7 @@ L["bo"]={{path="chatsounds/autoadd/noiwex/bo.ogg",length=0.20417233560090703}}
 L["boom"]={{path="chatsounds/autoadd/noiwex/boom.ogg",length=0.42575963718820864}}
 L["bye bye"]={{path="chatsounds/autoadd/noiwex/bye bye.ogg",length=0.84147392290249434}}
 L["call of duty"]={{path="chatsounds/autoadd/noiwex/call of duty/call of duty 2.ogg",length=0.61793650793650789},{path="chatsounds/autoadd/noiwex/call of duty/call of duty.ogg",length=0.58539682539682536}}
+L["cheeki breeki"]={{path="chatsounds/autoadd/noiwex/CHEEKI BREEKI.ogg",length=2.7484126984126984}}
 L["come on"]={{path="chatsounds/autoadd/noiwex/come on.ogg",length=0.9570068027210884}}
 L["cyka"]={{path="chatsounds/autoadd/noiwex/cyka.ogg",length=0.4783219954648526}}
 L["delete this"]={{path="chatsounds/autoadd/noiwex/delete this/2.ogg",length=2.1461904761904762},{path="chatsounds/autoadd/noiwex/delete this/3.ogg",length=2.3885034013605444},{path="chatsounds/autoadd/noiwex/delete this/4.ogg",length=2.2049433106575962},{path="chatsounds/autoadd/noiwex/delete this/delete this.ogg",length=2.3136507936507935}}
@@ -58,6 +56,7 @@ L["kuk"]={{path="chatsounds/autoadd/noiwex/kuk.ogg",length=0.3675736961451247}}
 L["la roux"]={{path="chatsounds/autoadd/noiwex/la roux.ogg",length=45.095238095238095}}
 L["lets go"]={{path="chatsounds/autoadd/noiwex/lets go.ogg",length=0.85446712018140591}}
 L["machu punta yey"]={{path="chatsounds/autoadd/noiwex/machu punta yey.ogg",length=1.3906349206349207}}
+L["meem coming"]={{path="chatsounds/autoadd/noiwex/MEEM COMING.ogg",length=3.1373696145124716}}
 L["meem robotic"]={{path="chatsounds/autoadd/noiwex/meem robotic.ogg",length=1.497233560090703}}
 L["mmeglitch"]={{path="chatsounds/autoadd/noiwex/mmeglitch.ogg",length=7.3142857142857141}}
 L["mmmmm"]={{path="chatsounds/autoadd/noiwex/mmmmm.ogg",length=1.517392290249433}}
@@ -96,6 +95,7 @@ L["skrillex"]={{path="chatsounds/autoadd/noiwex/skrillex.ogg",length=35.86761904
 L["sniper robotic laugh"]={{path="chatsounds/autoadd/noiwex/sniper robotic laugh.ogg",length=5.0225396825396826}}
 L["sorry for what"]={{path="chatsounds/autoadd/noiwex/sorry for what.ogg",length=1.1259410430839003}}
 L["sos"]={{path="chatsounds/autoadd/noiwex/sos.ogg",length=0.35430839002267572}}
+L["stupid"]={{path="chatsounds/autoadd/noiwex/STUPID.ogg",length=1.1161224489795918}}
 L["suka"]={{path="chatsounds/autoadd/noiwex/suka.ogg",length=0.4783219954648526}}
 L["sulnalus noi my noi"]={{path="chatsounds/autoadd/noiwex/sulnalus noi my noi.ogg",length=2.466825396825397}}
 L["surprise motherfucker"]={{path="chatsounds/autoadd/noiwex/surprise motherfucker.ogg",length=1.1856009070294784}}

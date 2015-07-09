@@ -26,10 +26,10 @@ L["sarge"]={{path="chatsounds/autoadd/quake3_announce/Sarge.ogg",length=0.868117
 L["slash"]={{path="chatsounds/autoadd/quake3_announce/Slash.ogg",length=0.78716553287981861}}
 L["sorlag"]={{path="chatsounds/autoadd/quake3_announce/Sorlag.ogg",length=0.95451247165532882}}
 L["stripe"]={{path="chatsounds/autoadd/quake3_announce/Stripe.ogg",length=0.82557823129251706}}
+L["tank junior"]={{path="chatsounds/autoadd/quake3_announce/tank junior.ogg",length=1.1160997732426303}}
 L["uriel"]={{path="chatsounds/autoadd/quake3_announce/Uriel.ogg",length=0.76857142857142857}}
 L["visor"]={{path="chatsounds/autoadd/quake3_announce/Visor.ogg",length=0.81097505668934244}}
 L["wrack"]={{path="chatsounds/autoadd/quake3_announce/Wrack.ogg",length=0.619092970521542}}
 L["xaero"]={{path="chatsounds/autoadd/quake3_announce/Xaero.ogg",length=0.93111111111111111}}
-L["tank junior"]={{path="chatsounds/autoadd/quake3_announce/tank junior.ogg",length=1.1160997732426303}}
 L["you win"]={{path="chatsounds/autoadd/quake3_announce/you win.ogg",length=1.1476643990929705}}
 c.EndList()
