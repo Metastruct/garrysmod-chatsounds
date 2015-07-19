@@ -331,7 +331,7 @@ function chatsounds.InitializeLists(force)
 				end
 			end
 		end
-		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LCL")) do
+		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LUA")) do
 			include("chatsounds/lists_nosend/" .. set)
 			yieldx(inco,10,"3")
 		end
@@ -341,21 +341,12 @@ function chatsounds.InitializeLists(force)
 
 	c.PrepareList()
 
-	if hIO and player.GetByUniqueID("1416729906") == LocalPlayer() then
-		for set in pairs(c.List) do
-			if table.HasValue(c.default_lists, set) then continue end
-			if not file.Exists("lua/chatsounds/lists_nosend/"..set..".lua", "GAME") then
-				hIO.Write("addons/chatsounds/lua/chatsounds/lists_nosend/"..set..".lua", chatsounds.ListToString(set, true, true))
-			end
-		end
-	end
-
 	c.Initialized = true
 	hook.Call("ChatsoundsUpdated", GAMEMODE)
 
 	local blah = "InitializeLists took " .. math.Round(SysTime() - start, 3) .. " seconds"
 	print(blah)
-	if easylua and easylua.PrintOnServer then easylua.PrintOnServer(blah) end
+	--if easylua and easylua.PrintOnServer then easylua.PrintOnServer(blah) end
 	c.initializing = false
 end
 
