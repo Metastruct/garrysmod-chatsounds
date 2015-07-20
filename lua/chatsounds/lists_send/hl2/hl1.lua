@@ -1,4 +1,4 @@
-c.LoadCachedList("hl1_fvox","hl1fvox",1437315233,function()
+c.LoadCachedList("hl1_fvox","hl1fvox",1437315236,function()
 	local ret = {}
 	
 local l=[[acquired
@@ -78,9 +78,10 @@ wound_sterilized]]
 						path = snd,
 						length = SoundDuration(snd),
 					}
+		local tbl2={path=tbl.path,length=tbl.length}
 		
 		ret[str_expl] = tbl
-		ret[str_orig] = tbl
+		ret[str_orig] = tbl2
 		
 	end
 	return ret
