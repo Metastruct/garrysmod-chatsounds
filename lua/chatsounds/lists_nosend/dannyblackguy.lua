@@ -4,7 +4,6 @@ L["barack obama"]={{path="chatsounds/autoadd/dannyblackguy/barack obama.ogg",len
 L["but you must be some kind of retard"]={{path="chatsounds/autoadd/dannyblackguy/but you must be some kind of retard.ogg",length=1.8999999999999999}}
 L["cyka"]={{path="chatsounds/autoadd/dannyblackguy/cyka.ogg",length=0.55000000000000004}}
 L["danny"]={{path="chatsounds/autoadd/dannyblackguy/danny.ogg",length=0.31480725623582767}}
-L["he thinks your a pussie"]={{path="chatsounds/autoadd/dannyblackguy/he thinks your a pussie.ogg",length=1.7986621315192743}}
 L["japanese people can fly"]={{path="chatsounds/autoadd/dannyblackguy/japanese people can fly.ogg",length=1.8106349206349206}}
 L["look at my fucking car"]={{path="chatsounds/autoadd/dannyblackguy/look at my fucking car.ogg",length=1.8808163265306121}}
 L["rated rp"]={{path="chatsounds/autoadd/dannyblackguy/rated rp.ogg",length=1.9060997732426304}}
