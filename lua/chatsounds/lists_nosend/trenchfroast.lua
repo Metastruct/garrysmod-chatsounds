@@ -3,7 +3,9 @@ L["ask god to fug you"]={{path="chatsounds/autoadd/trenchfroast/ask god to fug y
 L["baab"]={{path="chatsounds/autoadd/trenchfroast/baab.ogg",length=0.58752834467120185}}
 L["barmunch"]={{path="chatsounds/autoadd/trenchfroast/barmunch/barmunch 1.ogg",length=0.084535147392290247},{path="chatsounds/autoadd/trenchfroast/barmunch/barmunch 2.ogg",length=0.077097505668934238}}
 L["blam this piece of crap"]={{path="chatsounds/autoadd/trenchfroast/blam this piece of crap.ogg",length=2.6175056689342404}}
+L["blowjob"]={{path="chatsounds/autoadd/trenchfroast/blowjob.ogg",length=1.0042630385487528}}
 L["breadfish"]={{path="chatsounds/autoadd/trenchfroast/breadfish.ogg",length=27.428571428571427}}
+L["buh looow juh aah buh"]={{path="chatsounds/autoadd/trenchfroast/buh looow juh aah buh.ogg",length=1.6393197278911564}}
 L["butt"]={{path="chatsounds/autoadd/trenchfroast/butt.ogg",length=0.64730158730158727}}
 L["butten"]={{path="chatsounds/autoadd/trenchfroast/butten.ogg",length=0.63802721088435377}}
 L["buttplug"]={{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug Copy Copy.ogg",length=1.333015873015873},{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug Copy.ogg",length=0.79333333333333333},{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug.ogg",length=0.73229024943310661}}
@@ -11,6 +13,7 @@ L["dont say gay say hey"]={{path="chatsounds/autoadd/trenchfroast/dont say gay s
 L["doublebass"]={{path="chatsounds/autoadd/trenchfroast/doublebass.ogg",length=0.96018140589569156}}
 L["esey"]={{path="chatsounds/autoadd/trenchfroast/esey.ogg",length=0.63380952380952382}}
 L["explain to me"]={{path="chatsounds/autoadd/trenchfroast/explain to me/explain to me 1.ogg",length=1.0192290249433107},{path="chatsounds/autoadd/trenchfroast/explain to me/explain to me 2.ogg",length=1.3834240362811792}}
+L["fizzclick"]={{path="chatsounds/autoadd/trenchfroast/fizzclick/1.ogg",length=1.512154195011338},{path="chatsounds/autoadd/trenchfroast/fizzclick/2.ogg",length=2.154829931972789}}
 L["fug you"]={{path="chatsounds/autoadd/trenchfroast/fug you.ogg",length=0.67428571428571427}}
 L["go to the church and ask god to fug you"]={{path="chatsounds/autoadd/trenchfroast/go to the church and ask god to fug you.ogg",length=3.0518820861678004}}
 L["haaaaah"]={{path="chatsounds/autoadd/trenchfroast/haaaaah.ogg",length=3.7846485260770977}}
