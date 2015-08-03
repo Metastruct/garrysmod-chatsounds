@@ -22,7 +22,7 @@ L["what are ya talkin to me"]={{path="chatsounds/autoadd/dannyblackguy/what are 
 L["what the fuck"]={{path="chatsounds/autoadd/dannyblackguy/what the fuck.ogg",length=1.1185034013605442}}
 L["yeah shut the fuck up clarence"]={{path="chatsounds/autoadd/dannyblackguy/yeah shut the fuck up clarence.ogg",length=1.9582312925170069}}
 L["you son of a bitch"]={{path="chatsounds/autoadd/dannyblackguy/you son of a bitch.ogg",length=1.073015873015873}}
+L["your fuckin joken"]={{path="chatsounds/autoadd/dannyblackguy/your fuckin joken.ogg",length=1.8710430839002268}}
 L["your fucking going straight to prision"]={{path="chatsounds/autoadd/dannyblackguy/your fucking going straight to prision.ogg",length=1.78}}
-L["yourfuckinjoken"]={{path="chatsounds/autoadd/dannyblackguy/yourfuckinjoken.ogg",length=1.8710430839002268}}
 L["zap zap mother fucker"]={{path="chatsounds/autoadd/dannyblackguy/zap zap mother fucker.ogg",length=1.5893424036281179}}
 c.EndList()
