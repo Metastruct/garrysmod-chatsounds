@@ -46,6 +46,7 @@ L["no i dont want that"]={{path="chatsounds/autoadd/Tenrys/no i dont want that.o
 L["no"]={{path="chatsounds/autoadd/Tenrys/no.ogg",length=0.29365079365079366}}
 L["ogh"]={{path="chatsounds/autoadd/Tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/Tenrys/oh yeah.ogg",length=1.1252607709750566}}
+L["pianofuck"]={{path="chatsounds/autoadd/Tenrys/pianofuck.ogg",length=175.75183673469388}}
 L["soi soi soi"]={{path="chatsounds/autoadd/Tenrys/soi soi soi.ogg",length=1.1922448979591838}}
 L["tenrys"]={{path="chatsounds/autoadd/Tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/Tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/Tenrys/tenrys/3.ogg",length=0.49403628117913834}}
 L["thanks for watching"]={{path="chatsounds/autoadd/Tenrys/thanks for watching.ogg",length=0.88900226757369616}}
