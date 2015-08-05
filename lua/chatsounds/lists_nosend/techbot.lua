@@ -42,6 +42,7 @@ L["genius"]={{path="chatsounds/autoadd/techbot/genius.ogg",length=0.491609977324
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.7501133786848073}}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.80253968253968255}}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.77902494331065764}}
+L["hello darkness my old friend"]={{path="chatsounds/autoadd/techbot/hello darkness my old friend.ogg",length=4.1675963718820865}}
 L["hey baby wake up from your asleep"]={{path="chatsounds/autoadd/techbot/hey baby wake up from your asleep.ogg",length=2.6392063492063493}}
 L["hey shutup"]={{path="chatsounds/autoadd/techbot/hey shutup.ogg",length=2.3176417233560089}}
 L["holy"]={{path="chatsounds/autoadd/techbot/holy/holy-2.ogg",length=0.76487528344671207},{path="chatsounds/autoadd/techbot/holy/holy.ogg",length=1.4773696145124717}}
