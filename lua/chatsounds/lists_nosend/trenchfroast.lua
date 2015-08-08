@@ -19,6 +19,7 @@ L["go to the church and ask god to fug you"]={{path="chatsounds/autoadd/trenchfr
 L["haaaaah"]={{path="chatsounds/autoadd/trenchfroast/haaaaah.ogg",length=3.7846485260770977}}
 L["hah"]={{path="chatsounds/autoadd/trenchfroast/hah/hah 1.ogg",length=0.18954648526077097},{path="chatsounds/autoadd/trenchfroast/hah/hah 2.ogg",length=0.39852607709750565},{path="chatsounds/autoadd/trenchfroast/hah/hah 3.ogg",length=0.32190476190476192},{path="chatsounds/autoadd/trenchfroast/hah/hah 4.ogg",length=0.50392290249433103}}
 L["ipponmanzoku"]={{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 1.ogg",length=3.294920634920635},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 2.ogg",length=3.3324263038548754},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 3.ogg",length=3.2747392290249433},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 4.ogg",length=3.2735147392290251}}
+L["oi"]={{path="chatsounds/autoadd/trenchfroast/oi.ogg",length=0.30723356009070296}}
 L["packagerip"]={{path="chatsounds/autoadd/trenchfroast/packagerip.ogg",length=0.84424036281179138}}
 L["peeeeniiissss"]={{path="chatsounds/autoadd/trenchfroast/PEEEENIIISSSS.ogg",length=2.7095464852607711}}
 L["plug"]={{path="chatsounds/autoadd/trenchfroast/plug.ogg",length=0.83192743764172339}}
