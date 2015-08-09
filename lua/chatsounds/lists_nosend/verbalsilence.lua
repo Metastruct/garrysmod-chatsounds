@@ -226,6 +226,7 @@ L["whats nine plus ten"]={{path="chatsounds/autoadd/verbalsilence/whats nine plu
 L["whats up im verbal"]={{path="chatsounds/autoadd/verbalsilence/whats up im verbal.ogg",length=1.4477551020408164}}
 L["when everythings a little clearer in the light of day"]={{path="chatsounds/autoadd/verbalsilence/when everythings a little clearer in the light of day.ogg",length=6.1891156462585037}}
 L["when god gives you lemons you find a new god"]={{path="chatsounds/autoadd/verbalsilence/when god gives you lemons you find a new god.ogg",length=3.2770294784580498}}
+L["who is this 4 chan"]={{path="chatsounds/autoadd/verbalsilence/who is this 4 chan.ogg",length=1.7097732426303855}}
 L["why cool guy whyyyyyy"]={{path="chatsounds/autoadd/verbalsilence/why cool guy whyyyyyy.ogg",length=6.024943310657596}}
 L["why is everyone so fucking stupid"]={{path="chatsounds/autoadd/verbalsilence/why is everyone so fucking stupid.ogg",length=2.3206575963718823}}
 L["wolf whistle"]={{path="chatsounds/autoadd/verbalsilence/wolf whistle.ogg",length=1.2444671201814059}}
