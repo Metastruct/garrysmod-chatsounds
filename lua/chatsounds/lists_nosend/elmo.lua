@@ -22,6 +22,7 @@ L["elmo laugh 3"]={{path="chatsounds/autoadd/elmo/elmo laugh 3.ogg",length=1.520
 L["elmo laugh"]={{path="chatsounds/autoadd/elmo/elmo laugh.ogg",length=1.079047619047619}}
 L["elmo likes being red"]={{path="chatsounds/autoadd/elmo/elmo likes being red.ogg",length=1.5677777777777777}}
 L["elmo likes cookies"]={{path="chatsounds/autoadd/elmo/elmo likes cookies.ogg",length=1.127437641723356}}
+L["elmo lmfao"]={{path="chatsounds/autoadd/elmo/elmo lmfao.ogg",length=2.850045351473923}}
 L["elmo loves all of you very very much"]={{path="chatsounds/autoadd/elmo/elmo loves all of you very very much.ogg",length=2.4048979591836734}}
 L["elmo loves his laugh"]={{path="chatsounds/autoadd/elmo/elmo loves his laugh.ogg",length=1.2010657596371883}}
 L["elmo mommy and daddy brought him here"]={{path="chatsounds/autoadd/elmo/elmo mommy and daddy brought him here.ogg",length=2.0177777777777779}}
@@ -52,7 +53,6 @@ L["it really is"]={{path="chatsounds/autoadd/elmo/it really is.ogg",length=0.829
 L["it took elmo two and a half weeks"]={{path="chatsounds/autoadd/elmo/it took elmo two and a half weeks.ogg",length=2.3903854875283446}}
 L["its kinda challenging"]={{path="chatsounds/autoadd/elmo/its kinda challenging.ogg",length=1.3887301587301588}}
 L["just think wonderful thoughts"]={{path="chatsounds/autoadd/elmo/just think wonderful thoughts.ogg",length=1.7626984126984127}}
-L["lmfao"]={{path="chatsounds/autoadd/elmo/lmfao.ogg",length=2.850045351473923}}
 L["martin luther king"]={{path="chatsounds/autoadd/elmo/martin luther king.ogg",length=1.1060090702947847}}
 L["maybe grill it"]={{path="chatsounds/autoadd/elmo/maybe grill it.ogg",length=0.83712018140589572}}
 L["new jersey"]={{path="chatsounds/autoadd/elmo/new jersey.ogg",length=1.0800907029478457}}
