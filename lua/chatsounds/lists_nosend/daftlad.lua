@@ -23,7 +23,9 @@ L["do what you want cause a pirate is free"]={{path="chatsounds/autoadd/daftlad/
 L["dont talk"]={{path="chatsounds/autoadd/daftlad/dont talk.ogg",length=1.2065532879818595}}
 L["eugh im dead"]={{path="chatsounds/autoadd/daftlad/eugh im dead.ogg",length=2.6763265306122448}}
 L["eugh shit"]={{path="chatsounds/autoadd/daftlad/eugh shit.ogg",length=1.3265532879818593}}
+L["fack you"]={{path="chatsounds/autoadd/daftlad/fack you/fack you1.ogg",length=1.0374603174603174},{path="chatsounds/autoadd/daftlad/fack you/fack you2.ogg",length=1.4211564625850339},{path="chatsounds/autoadd/daftlad/fack you/fack you3.ogg",length=1.1463492063492065},{path="chatsounds/autoadd/daftlad/fack you/fack you4.ogg",length=1.3468253968253969},{path="chatsounds/autoadd/daftlad/fack you/fack you5.ogg",length=1.3525396825396825},{path="chatsounds/autoadd/daftlad/fack you/fack you6.ogg",length=1.5097959183673468},{path="chatsounds/autoadd/daftlad/fack you/fack you7.ogg",length=0.88029478458049881},{path="chatsounds/autoadd/daftlad/fack you/fack you8.ogg",length=1.0327891156462585}}
 L["fakku disu"]={{path="chatsounds/autoadd/daftlad/fakku disu.ogg",length=1.4440362811791383}}
+L["fffack you"]={{path="chatsounds/autoadd/daftlad/fffack you.ogg",length=2.6437414965986394}}
 L["freezy pop"]={{path="chatsounds/autoadd/daftlad/freezy pop.ogg",length=3.0785487528344673}}
 L["fuck did you just say go fuck myself"]={{path="chatsounds/autoadd/daftlad/fuck did you just say go fuck myself.ogg",length=2.7396825396825397}}
 L["fuck motherfucker bitch"]={{path="chatsounds/autoadd/daftlad/fuck motherfucker bitch.ogg",length=1.4619954648526077}}
