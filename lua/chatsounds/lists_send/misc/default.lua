@@ -701,6 +701,26 @@ c.StartList("default")
 		},
 	}
 
+	--VINH'LL FIX IT@@
+	L["vinhll fix it"] = {
+		{
+			path = "ambient/voices/cough1.wav",
+			length = 1.0567346811295,
+		},
+		{
+			path = "ambient/voices/cough2.wav",
+			length = 0.54870748519897,
+		},
+		{
+			path = "ambient/voices/cough3.wav",
+			length = 0.61265307664871,
+		},
+		{
+			path = "ambient/voices/cough4.wav",
+			length = 0.92707484960556,
+		},
+	}
+
 	L["vital alert"] = {
 		{
 			path = "vo/outland_07/barn/over_barn.wav",
