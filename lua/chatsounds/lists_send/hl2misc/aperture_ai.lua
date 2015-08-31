@@ -52,7 +52,7 @@ c.StartList("00")
 		},
 	}
 
-	L["unbelievable you [subject name here] must be the pride of [subject hometown here]"] = {
+	L["unbelievable you subject name here must be the pride of subject hometown here"] = {
 		{
 			path = "vo/aperture_ai/03_part1_success-1.wav",
 			length = 6.9187755102041,
@@ -111,7 +111,7 @@ c.StartList("00")
 			length = 7.9447845804989,
 		},
 	}
-	L["the device is now more valuable than the organs and combined incomes of everyone in [subject hometown here]"] = {
+	L["the device is now more valuable than the organs and combined incomes of everyone in subject hometown here"] = {
 		{
 			path = "vo/aperture_ai/07_part1_get_device_component-3.wav",
 			length = 7.5868934240363,
