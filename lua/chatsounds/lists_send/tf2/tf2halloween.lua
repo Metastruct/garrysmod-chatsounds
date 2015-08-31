@@ -1,176 +1,176 @@
 c.StartList("tf2halloween")
 	L["gotohell"] = {
 		{
-			path = "misc/halloween/gotohell.mp3",
+			path = "misc/halloween/gotohell.wav",
 			length = 3.9764172335601,
 		},
 	}
 	
 	L["spelltick"] = {
 		{
-			path = "misc/halloween/spelltick_01.mp3",
+			path = "misc/halloween/spelltick_01.wav",
 			length = 0.5,
 		},
 		{
-			path = "misc/halloween/spelltick_02.mp3",
+			path = "misc/halloween/spelltick_02.wav",
 			length = 0.5,
 		},
 	}
 	
 	L["spelltickset"] = {
 		{
-			path = "misc/halloween/spelltick_set.mp3",
+			path = "misc/halloween/spelltick_set.wav",
 			length = 3.6840816326531,
 		},
 	}
 	
 	L["giantclocktick"] = {
 		{
-			path = "misc/halloween/clock_tick.mp3",
+			path = "misc/halloween/clock_tick.wav",
 			length = 2.5126530612245,
 		},
 	}
 	
 	L["skellybreak"] = {
 		{
-			path = "misc/halloween/skeleton_break.mp3",
+			path = "misc/halloween/skeleton_break.wav",
 			length = 1.9775510204082,
 		},
 	}
 	
 	L["skellygiant"] = {
 		{
-			path = "misc/halloween/skeletons/skelly_giant_01.mp3",
+			path = "misc/halloween/skeletons/skelly_giant_01.wav",
 			length = 1.6026757369615,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_giant_02.mp3",
+			path = "misc/halloween/skeletons/skelly_giant_02.wav",
 			length = 1.6453514739229,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_giant_03.mp3",
+			path = "misc/halloween/skeletons/skelly_giant_03.wav",
 			length = 1.8466666666667,
 		},
 	}
 	
 	L["skelly"] = {
 		{
-			path = "misc/halloween/skeletons/skelly_medium_01.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_01.wav",
 			length = 0.62768707482993,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_medium_02.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_02.wav",
 			length = 0.68267573696145,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_medium_03.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_03.wav",
 			length = 0.48934240362812,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_medium_04.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_04.wav",
 			length = 0.61068027210884,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_medium_05.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_05.wav",
 			length = 0.50401360544218,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_medium_06.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_06.wav",
 			length = 0.87201814058957,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_medium_07.mp3",
+			path = "misc/halloween/skeletons/skelly_medium_07.wav",
 			length = 1.0146712018141,
 		},
 	}
 	
 	L["skellysmall"] = {
 		{
-			path = "misc/halloween/skeletons/skelly_small_01.mp3",
+			path = "misc/halloween/skeletons/skelly_small_01.wav",
 			length = 0.83133786848073,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_02.mp3",
+			path = "misc/halloween/skeletons/skelly_small_02.wav",
 			length = 0.65600907029478,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_03.mp3",
+			path = "misc/halloween/skeletons/skelly_small_03.wav",
 			length = 0.62934240362812,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_04.mp3",
+			path = "misc/halloween/skeletons/skelly_small_04.wav",
 			length = 0.64800453514739,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_05.mp3",
+			path = "misc/halloween/skeletons/skelly_small_05.wav",
 			length = 0.37201814058957,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_06.mp3",
+			path = "misc/halloween/skeletons/skelly_small_06.wav",
 			length = 0.86934240362812,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_07.mp3",
+			path = "misc/halloween/skeletons/skelly_small_07.wav",
 			length = 0.72,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_08.mp3",
+			path = "misc/halloween/skeletons/skelly_small_08.wav",
 			length = 0.79600907029478,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_09.mp3",
+			path = "misc/halloween/skeletons/skelly_small_09.wav",
 			length = 0.42934240362812,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_10.mp3",
+			path = "misc/halloween/skeletons/skelly_small_10.wav",
 			length = 0.50800453514739,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_11.mp3",
+			path = "misc/halloween/skeletons/skelly_small_11.wav",
 			length = 0.65068027210884,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_12.mp3",
+			path = "misc/halloween/skeletons/skelly_small_12.wav",
 			length = 0.46401360544218,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_13.mp3",
+			path = "misc/halloween/skeletons/skelly_small_13.wav",
 			length = 0.42934240362812,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_14.mp3",
+			path = "misc/halloween/skeletons/skelly_small_14.wav",
 			length = 0.56,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_15.mp3",
+			path = "misc/halloween/skeletons/skelly_small_15.wav",
 			length = 0.68616780045351,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_16.mp3",
+			path = "misc/halloween/skeletons/skelly_small_16.wav",
 			length = 0.59734693877551,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_17.mp3",
+			path = "misc/halloween/skeletons/skelly_small_17.wav",
 			length = 0.65868480725624,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_18.mp3",
+			path = "misc/halloween/skeletons/skelly_small_18.wav",
 			length = 0.70401360544218,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_19.mp3",
+			path = "misc/halloween/skeletons/skelly_small_19.wav",
 			length = 0.74401360544218,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_20.mp3",
+			path = "misc/halloween/skeletons/skelly_small_20.wav",
 			length = 0.70666666666667,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_21.mp3",
+			path = "misc/halloween/skeletons/skelly_small_21.wav",
 			length = 0.82666666666667,
 		},
 		{
-			path = "misc/halloween/skeletons/skelly_small_22.mp3",
+			path = "misc/halloween/skeletons/skelly_small_22.wav",
 			length = 0.38,
 		},
 	}
@@ -4099,154 +4099,154 @@ c.StartList("tf2halloween")
 	
 	L["spellathletic"] = {
 		{
-			path = "misc/halloween/spell_athletic.mp3",
+			path = "misc/halloween/spell_athletic.wav",
 			length = 2.9910430839002,
 		},
 	}
 	
 	L["spellbatcast"] = {
 		{
-			path = "misc/halloween/spell_bat_cast.mp3",
+			path = "misc/halloween/spell_bat_cast.wav",
 			length = 2.6643990929705,
 		},
 	}
 	
 	L["spellbatimpact"] = {
 		{
-			path = "misc/halloween/spell_bat_impact.mp3",
+			path = "misc/halloween/spell_bat_impact.wav",
 			length = 3.5047619047619,
 		},
 	}
 	
 	L["spellblastjump"] = {
 		{
-			path = "misc/halloween/spell_blast_jump.mp3",
+			path = "misc/halloween/spell_blast_jump.wav",
 			length = 1.8792517006803,
 		},
 	}
 	
 	L["spellfireballcast"] = {
 		{
-			path = "misc/halloween/spell_fireball_cast.mp3",
+			path = "misc/halloween/spell_fireball_cast.wav",
 			length = 1.9968253968254,
 		},
 	}
 	
 	L["spellfireballimpact"] = {
 		{
-			path = "misc/halloween/spell_fireball_impact.mp3",
+			path = "misc/halloween/spell_fireball_impact.wav",
 			length = 2.5768480725624,
 		},
 	}
 	
 	L["spelllightningballcast"] = {
 		{
-			path = "misc/halloween/spell_lightning_ball_cast.mp3",
+			path = "misc/halloween/spell_lightning_ball_cast.wav",
 			length = 1.9866666666667,
 		},
 	}
 	
 	L["spelllightningballimpact"] = {
 		{
-			path = "misc/halloween/spell_lightning_ball_impact.mp3",
+			path = "misc/halloween/spell_lightning_ball_impact.wav",
 			length = 2.4485260770975,
 		},
 	}
 	
 	L["spellmeteorcast"] = {
 		{
-			path = "misc/halloween/spell_meteor_cast.mp3",
+			path = "misc/halloween/spell_meteor_cast.wav",
 			length = 2.0016326530612,
 		},
 	}
 	
 	L["spellmeteorimpact"] = {
 		{
-			path = "misc/halloween/spell_meteor_impact.mp3",
+			path = "misc/halloween/spell_meteor_impact.wav",
 			length = 3.00820861678,
 		},
 	}
 	
 	L["spellmirvcast"] = {
 		{
-			path = "misc/halloween/spell_mirv_cast.mp3",
+			path = "misc/halloween/spell_mirv_cast.wav",
 			length = 1.0919954648526,
 		},
 	}
 	
 	L["spellmirvexplodeprimary"] = {
 		{
-			path = "misc/halloween/spell_mirv_explode_primary.mp3",
+			path = "misc/halloween/spell_mirv_explode_primary.wav",
 			length = 4.0024036281179,
 		},
 	}
 	
 	L["spellmirvexplodesecondary"] = {
 		{
-			path = "misc/halloween/spell_mirv_explode_secondary.mp3",
+			path = "misc/halloween/spell_mirv_explode_secondary.wav",
 			length = 1.9830612244898,
 		},
 	}
 	
 	L["spelloverheal"] = {
 		{
-			path = "misc/halloween/spell_overheal.mp3",
+			path = "misc/halloween/spell_overheal.wav",
 			length = 2.5768480725624,
 		},
 	}
 	
 	L["spellpickup"] = {
 		{
-			path = "misc/halloween/spell_pickup.mp3",
+			path = "misc/halloween/spell_pickup.wav",
 			length = 2.4398185941043,
 		},
 	}
 	
 	L["spellpickuprare"] = {
 		{
-			path = "misc/halloween/spell_pickup_rare.mp3",
+			path = "misc/halloween/spell_pickup_rare.wav",
 			length = 1.8978231292517,
 		},
 	}
 	
 	L["spellskeletonhordecast"] = {
 		{
-			path = "misc/halloween/spell_skeleton_horde_cast.mp3",
+			path = "misc/halloween/spell_skeleton_horde_cast.wav",
 			length = 2.7840362811791,
 		},
 	}
 	
 	L["spellskeletonhorderise"] = {
 		{
-			path = "misc/halloween/spell_skeleton_horde_rise.mp3",
+			path = "misc/halloween/spell_skeleton_horde_rise.wav",
 			length = 7.5098639455782,
 		},
 	}
 	
 	L["spellspawnboss"] = {
 		{
-			path = "misc/halloween/spell_spawn_boss.mp3",
+			path = "misc/halloween/spell_spawn_boss.wav",
 			length = 2.9985487528345,
 		},
 	}
 	
 	L["spellspawnbossdisappear"] = {
 		{
-			path = "misc/halloween/spell_spawn_boss_disappear.mp3",
+			path = "misc/halloween/spell_spawn_boss_disappear.wav",
 			length = 2.6333786848073,
 		},
 	}
 	
 	L["spellstealth"] = {
 		{
-			path = "misc/halloween/spell_stealth.mp3",
+			path = "misc/halloween/spell_stealth.wav",
 			length = 2.196462585034,
 		},
 	}
 	
 	L["spellteleport"] = {
 		{
-			path = "misc/halloween/spell_teleport.mp3",
+			path = "misc/halloween/spell_teleport.wav",
 			length = 1.3929024943311,
 		},
 	}

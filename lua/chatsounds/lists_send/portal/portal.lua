@@ -31,7 +31,7 @@ L["as part of a required test protocol our previous statement suggesting that we
 L["good job as part of a required test protocol we will stop enhancing the truth in three two one"]={{path="vo/aperture_ai/02_part2_success-2.wav",length=9.686644}}
 L["while safety is one of many enrichment center goals the aperture science high energy pellet seen to the left of the chamber can and has caused permanent disabilities such as vaporization"]={{path="vo/aperture_ai/03_part1_entry-1.wav",length=13.21127}}
 L["please be careful"]={{path="vo/aperture_ai/03_part1_entry-2.wav",length=1.261406}}
-L["unbelievable you louder subject name herelouder must be the pride of loudersubject hometown herelouder"]={{path="vo/aperture_ai/03_part1_success-1.wav",length=6.918776}}
+L["unbelievable you subject name here must be the pride of subject hometown here"]={{path="vo/aperture_ai/03_part1_success-1.wav",length=6.918776}}
 L["audible warning devices are required on all mobile equipment however alarms and flashing hazard lights have been found to agitate the high energy pellet and have therefore been disabled for your safety"]={{path="vo/aperture_ai/03_part2_entry-1.wav",length=12.790431}}
 L["good now use the aperture science unstationary scaffold to reach the chamberlock"]={{path="vo/aperture_ai/03_part2_platform_activated-1.wav",length=6.637143}}
 L["please note that we have added a consequence for failure any contact with the chamber floor will result in an unsatisfactory mark on your official testing record followed by death good luck"]={{path="vo/aperture_ai/04_part1_entry-1.wav",length=12.526213}}

@@ -160,7 +160,7 @@ c.StartList("mechanic")
 		},
 	}
 
-	L["do you know what suck the heads means cause i came down here with keith once and he didnt know and… i mean it aint nothin bad its about eatin"] = {
+	L["do you know what suck the heads means cause i came down here with keith once and he didnt know and i mean it aint nothin bad its about eatin"] = {
 		{
 			path = "player/survivor/voice/mechanic/ellisstoriesf01.wav",
 			length = 8.737868309021,
@@ -899,7 +899,7 @@ c.StartList("mechanic")
 		},
 	}
 
-	L["might be a welcomin committee when these doors open get ready…"] = {
+	L["might be a welcomin committee when these doors open get ready"] = {
 		{
 			path = "player/survivor/voice/mechanic/worldc1m1b126.wav",
 			length = 3.0119729042053,
@@ -1988,7 +1988,7 @@ c.StartList("mechanic")
 		},
 	}
 
-	L["i swear to god ceda better be at that mall…"] = {
+	L["i swear to god ceda better be at that mall"] = {
 		{
 			path = "player/survivor/voice/mechanic/worldc1m2b46.wav",
 			length = 2.5846259593964,

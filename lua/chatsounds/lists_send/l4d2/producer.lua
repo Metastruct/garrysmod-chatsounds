@@ -10,7 +10,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["and im rochelle i havent known you guys long but well it looks like im going to be trusting you with my life so… hi and thanks"] = {
+	L["and im rochelle i havent known you guys long but well it looks like im going to be trusting you with my life so hi and thanks"] = {
 		{
 			path = "player/survivor/voice/producer/worldgenericproducer53.wav",
 			length = 11.653197288513,
@@ -76,7 +76,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["i work for a news station wed heard about the east coast but… jesus i didnt know it was this bad"] = {
+	L["i work for a news station wed heard about the east coast but jesus i didnt know it was this bad"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m1b49.wav",
 			length = 6.5165987014771,
@@ -219,7 +219,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["ok so plan a is we go find this car plan b is we… wait here in this mall and die"] = {
+	L["ok so plan a is we go find this car plan b is we wait here in this mall and die"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m4b09.wav",
 			length = 5.8046259880066,
@@ -230,7 +230,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["i been hearing about…things you know what never mind but grab a weapon trust me"] = {
+	L["i been hearing about things you know what never mind but grab a weapon trust me"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m1b19.wav",
 			length = 7.3191838264465,
@@ -450,7 +450,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["all right so… its a bit quiet i still say we should check it out"] = {
+	L["all right so its a bit quiet i still say we should check it out"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m3b01.wav",
 			length = 3.646167755127,
@@ -571,7 +571,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["okay no normally i hate guns but i… think i hate zombies more"] = {
+	L["okay no normally i hate guns but i think i hate zombies more"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m2b07.wav",
 			length = 6.1543312072754,
@@ -1228,7 +1228,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["whoa thats about as close as i like to cut it…"] = {
+	L["whoa thats about as close as i like to cut it"] = {
 		{
 			path = "player/survivor/voice/producer/transitionclose10.wav",
 			length = 2.6115193367004,
@@ -1371,7 +1371,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["please get in the tank please please please…"] = {
+	L["please get in the tank please please please"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m4b16.wav",
 			length = 3.3911564350128,
@@ -1456,7 +1456,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["you hear about them but until you see them…"] = {
+	L["you hear about them but until you see them"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m1b41.wav",
 			length = 3.375691652298,
@@ -1882,7 +1882,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["i… guess my boss never thought of that"] = {
+	L["i guess my boss never thought of that"] = {
 		{
 			path = "player/survivor/voice/producer/worldgenericproducer55.wav",
 			length = 2.6883900165558,
@@ -2803,7 +2803,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["please work please please work…"] = {
+	L["please work please please work"] = {
 		{
 			path = "player/survivor/voice/producer/defibrillator11.wav",
 			length = 2.6995465755463,
@@ -3196,7 +3196,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["cedad better be at that mall…"] = {
+	L["cedad better be at that mall"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m2b16.wav",
 			length = 2.1977777481079,
@@ -3550,7 +3550,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["these… dont look like people"] = {
+	L["these dont look like people"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m1b39.wav",
 			length = 3.5689342021942,
@@ -3844,7 +3844,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["comeoncomeoncomeon come on…"] = {
+	L["comeoncomeoncomeon come on"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m4b15.wav",
 			length = 2.4014966487885,
@@ -3965,7 +3965,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["i dont like this get ready…"] = {
+	L["i dont like this get ready"] = {
 		{
 			path = "player/survivor/voice/producer/worldgenericproducer45.wav",
 			length = 2.4671201705933,
@@ -4273,7 +4273,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["bottle of… puke apparently"] = {
+	L["bottle of puke apparently"] = {
 		{
 			path = "player/survivor/voice/producer/boomerjar01.wav",
 			length = 2.4119727611542,
@@ -4883,7 +4883,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["we almost didnt make it…"] = {
+	L["we almost didnt make it"] = {
 		{
 			path = "player/survivor/voice/producer/transitionclose12.wav",
 			length = 1.3707937002182,
@@ -5185,7 +5185,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["come onnnn come onnnnnn…"] = {
+	L["come onnnn come onnnnnn"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m4b19.wav",
 			length = 1.6992290019989,
@@ -5520,7 +5520,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["hurry up hurrrry upppp…"] = {
+	L["hurry up hurrrry upppp"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m4b17.wav",
 			length = 2.2461678981781,
@@ -6781,7 +6781,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["no indoor plumbing…"] = {
+	L["no indoor plumbing"] = {
 		{
 			path = "player/survivor/voice/producer/worldc3m1b10.wav",
 			length = 1.7026757001877,
@@ -6981,7 +6981,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["jimmy gibbs jr… yay"] = {
+	L["jimmy gibbs jr yay"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m3b16.wav",
 			length = 2.7192742824554,
@@ -7519,7 +7519,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["thanks you… too…"] = {
+	L["thanks you too"] = {
 		{
 			path = "player/survivor/voice/producer/worldgenericproducer65.wav",
 			length = 1.8892970085144,
@@ -8549,7 +8549,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["nightstick here…"] = {
+	L["nightstick here"] = {
 		{
 			path = "player/survivor/voice/producer/meleeweapons09.wav",
 			length = 0.97283446788788,
@@ -9634,7 +9634,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["chainsaw here…"] = {
+	L["chainsaw here"] = {
 		{
 			path = "player/survivor/voice/producer/meleeweapons05.wav",
 			length = 0.89818596839905,
@@ -10287,7 +10287,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["oh… my… god"] = {
+	L["oh my god"] = {
 		{
 			path = "player/survivor/voice/producer/worldc1m2b18.wav",
 			length = 1.3762358427048,
@@ -10342,7 +10342,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["machete here…"] = {
+	L["machete here"] = {
 		{
 			path = "player/survivor/voice/producer/meleeweapons02.wav",
 			length = 0.87274378538132,
@@ -13823,7 +13823,7 @@ c.StartList("producer")
 		},
 	}
 
-	L["whoa…"] = {
+	L["whoa"] = {
 		{
 			path = "player/survivor/voice/producer/defibrillator17.wav",
 			length = 1.1918367147446,

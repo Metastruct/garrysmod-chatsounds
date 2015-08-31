@@ -2167,7 +2167,7 @@ c.StartList("default")
 		},
 	}
 
-	L["no d:"] = {
+	L["no"] = {
 		{
 			path = "vo/npc/male01/no02.wav",
 			length = 1.3854421377182,
