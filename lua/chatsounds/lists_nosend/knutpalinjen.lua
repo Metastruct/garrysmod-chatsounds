@@ -35,6 +35,7 @@ L["knut pffft2"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft2.ogg",length
 L["knut pffft3"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft3.ogg",length=1.1352607709750566}}
 L["knut pffft4"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft4.ogg",length=1.2715646258503401}}
 L["knut pffft5"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft5.ogg",length=0.76451247165532876}}
+L["knut theme"]={{path="chatsounds/autoadd/knutpalinjen/knut theme.ogg",length=9.4021768707482991}}
 L["lagrande skott i rumpa"]={{path="chatsounds/autoadd/knutpalinjen/lagrande skott i rumpa.ogg",length=1.9898639455782312}}
 L["macho gub budelanaamacho ra bazeezaba yeeee buzokomonzenezerababara buuuu menerabagh"]={{path="chatsounds/autoadd/knutpalinjen/macho gub budelanaamacho ra bazeezaba yeeee buzokomonzenezerababara buuuu menerabagh.ogg",length=6.1216326530612246}}
 L["myyy myyy myyy delijah"]={{path="chatsounds/autoadd/knutpalinjen/myyy myyy myyy delijah.ogg",length=3.8258049886621315}}
