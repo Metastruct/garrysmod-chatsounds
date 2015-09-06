@@ -25,7 +25,6 @@ L["call of duty"]={{path="chatsounds/autoadd/noiwex/call of duty/call of duty 2.
 L["cheeki breeki"]={{path="chatsounds/autoadd/noiwex/CHEEKI BREEKI.ogg",length=2.7484126984126984}}
 L["come on"]={{path="chatsounds/autoadd/noiwex/come on.ogg",length=0.9570068027210884}}
 L["cyka"]={{path="chatsounds/autoadd/noiwex/cyka.ogg",length=0.4783219954648526}}
-L["delete this"]={{path="chatsounds/autoadd/noiwex/delete this/2.ogg",length=2.1461904761904762},{path="chatsounds/autoadd/noiwex/delete this/3.ogg",length=2.3885034013605444},{path="chatsounds/autoadd/noiwex/delete this/4.ogg",length=2.2049433106575962},{path="chatsounds/autoadd/noiwex/delete this/delete this.ogg",length=2.3136507936507935}}
 L["eeh fuck"]={{path="chatsounds/autoadd/noiwex/eeh fuck.ogg",length=1.0673469387755101}}
 L["eiisas"]={{path="chatsounds/autoadd/noiwex/eiisas.ogg",length=1.4172108843537414}}
 L["fegelein"]={{path="chatsounds/autoadd/noiwex/fegelein/fegelein1.ogg",length=1.0862585034013605},{path="chatsounds/autoadd/noiwex/fegelein/fegelein2.ogg",length=0.90986394557823125},{path="chatsounds/autoadd/noiwex/fegelein/fegelein3.ogg",length=1.0769841269841269}}
