@@ -11,6 +11,7 @@ L["dontloseyourway"]={{path="chatsounds/autoadd/Beauty_Bomber/dontloseyourway.og
 L["gordon you must get out of here runrunrunrunrunrunrunrun"]={{path="chatsounds/autoadd/Beauty_Bomber/gordon you must get out of here runrunrunrunrunrunrunrun.ogg",length=5.2999999999999998}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/Beauty_Bomber/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}
 L["is this the krusty krab"]={{path="chatsounds/autoadd/Beauty_Bomber/is this the krusty krab/1.ogg",length=1.3570068027210884},{path="chatsounds/autoadd/Beauty_Bomber/is this the krusty krab/2.ogg",length=1.1839909297052154},{path="chatsounds/autoadd/Beauty_Bomber/is this the krusty krab/3.ogg",length=1.3319727891156463}}
+L["its an inanimate fucking object"]={{path="chatsounds/autoadd/Beauty_Bomber/its an inanimate fucking object.ogg",length=2.0823129251700681}}
 L["its leviosaaaa"]={{path="chatsounds/autoadd/Beauty_Bomber/its leviosaaaa.ogg",length=2.1000000000000001}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/Beauty_Bomber/jeannecontinueno.ogg",length=4.8476190476190473}}
 L["keel over and die"]={{path="chatsounds/autoadd/Beauty_Bomber/keel over and die.ogg",length=3.0563265306122447}}
@@ -33,4 +34,5 @@ L["stop it ron stop"]={{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/Beauty_Bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.9000000000000004}}
 L["theatreland"]={{path="chatsounds/autoadd/Beauty_Bomber/theatreland.ogg",length=27.813242630385488}}
 L["wotwtripod"]={{path="chatsounds/autoadd/Beauty_Bomber/wotwtripod.ogg",length=9.06562358276644}}
+L["youre an inanimate fucking object"]={{path="chatsounds/autoadd/Beauty_Bomber/youre an inanimate fucking object.ogg",length=5.3028571428571425}}
 c.EndList()
