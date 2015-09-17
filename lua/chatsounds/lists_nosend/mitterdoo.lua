@@ -6,6 +6,7 @@ L["i swear u are one cheeky cunt mate"]={{path="chatsounds/autoadd/mitterdoo/i s
 L["john cena"]={{path="chatsounds/autoadd/mitterdoo/john cena.ogg",length=11.97562358276644}}
 L["mitterdoo"]={{path="chatsounds/autoadd/mitterdoo/mitterdoo/mitterdoo1.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/mitterdoo/mitterdoo/mitterdoo2.ogg",length=0.55727891156462583}}
 L["say it to my face and not online and well see what happens"]={{path="chatsounds/autoadd/mitterdoo/say it to my face and not online and well see what happens.ogg",length=3.3785034013605442}}
+L["schwifty"]={{path="chatsounds/autoadd/mitterdoo/schwifty.ogg",length=22.511972789115646}}
 L["u wot m8"]={{path="chatsounds/autoadd/mitterdoo/u wot m8.ogg",length=0.99265306122448982}}
 L["you better shut your mouth or im calling me homeboys rite now preparin for a proper rumble"]={{path="chatsounds/autoadd/mitterdoo/you better shut your mouth or im calling me homeboys rite now preparin for a proper rumble.ogg",length=5.8746485260770971}}
 c.EndList()
