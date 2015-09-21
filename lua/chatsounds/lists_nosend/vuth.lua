@@ -1,5 +1,7 @@
 c.StartList("vuth")
+L["allahusnackbar"]={{path="chatsounds/autoadd/vuth/allahusnackbar.ogg",length=6.7875283446712018}}
 L["an exclusive home of the meanest sons a bitches in the state of maryland"]={{path="chatsounds/autoadd/vuth/an exclusive home of the meanest sons a bitches in the state of maryland.ogg",length=3.4618140589569162}}
+L["and blue one"]={{path="chatsounds/autoadd/vuth/and blue one.ogg",length=1.2932199546485261}}
 L["and it better not bounce or youre a dead motherfucker"]={{path="chatsounds/autoadd/vuth/and it better not bounce or youre a dead motherfucker.ogg",length=2.2819954648526077}}
 L["and not get wet"]={{path="chatsounds/autoadd/vuth/and not get wet.ogg",length=0.87598639455782312}}
 L["bad deal"]={{path="chatsounds/autoadd/vuth/bad deal.ogg",length=0.62984126984126987}}
@@ -8,6 +10,7 @@ L["big bill hells cars"]={{path="chatsounds/autoadd/vuth/big bill hells cars.ogg
 L["bring your tile"]={{path="chatsounds/autoadd/vuth/bring your tile.ogg",length=0.66972789115646258}}
 L["bring your trade"]={{path="chatsounds/autoadd/vuth/bring your trade.ogg",length=0.63868480725623578}}
 L["bring your wife"]={{path="chatsounds/autoadd/vuth/bring your wife.ogg",length=0.56551020408163266}}
+L["but look what will happen"]={{path="chatsounds/autoadd/vuth/but look what will happen.ogg",length=2.1080045351473924}}
 L["cars that break down"]={{path="chatsounds/autoadd/vuth/cars that break down.ogg",length=1.2330385487528344}}
 L["cartoonexplosion"]={{path="chatsounds/autoadd/vuth/cartoonexplosion.ogg",length=3.5425396825396827}}
 L["challenge pissing"]={{path="chatsounds/autoadd/vuth/challenge pissing.ogg",length=0.89374149659863944}}
@@ -18,6 +21,7 @@ L["do you smell something burning"]={{path="chatsounds/autoadd/vuth/do you smell
 L["dont delay"]={{path="chatsounds/autoadd/vuth/dont delay.ogg",length=0.66752834467120181}}
 L["dont fuck with us"]={{path="chatsounds/autoadd/vuth/dont fuck with us.ogg",length=0.9425170068027211}}
 L["dont wait"]={{path="chatsounds/autoadd/vuth/dont wait.ogg",length=0.58768707482993199}}
+L["fortunately its too antimatter"]={{path="chatsounds/autoadd/vuth/fortunately its too antimatter.ogg",length=2.8405895691609979}}
 L["fuck you baltimore"]={{path="chatsounds/autoadd/vuth/fuck you baltimore.ogg",length=1.3128798185941044}}
 L["get your pimping shit outta here ya god dang nigger"]={{path="chatsounds/autoadd/vuth/get your pimping shit outta here ya god dang nigger.ogg",length=3.5265306122448981}}
 L["go to hell"]={{path="chatsounds/autoadd/vuth/go to hell.ogg",length=0.72517006802721085}}
@@ -27,11 +31,13 @@ L["home of challenge pissing"]={{path="chatsounds/autoadd/vuth/home of challenge
 L["hope you rot criminal scum"]={{path="chatsounds/autoadd/vuth/hope you rot criminal scum.ogg",length=2.6122448979591835}}
 L["how does it work"]={{path="chatsounds/autoadd/vuth/how does it work.ogg",length=0.59655328798185936}}
 L["hurry up asshole"]={{path="chatsounds/autoadd/vuth/hurry up asshole.ogg",length=0.95360544217687071}}
+L["i have a red apple"]={{path="chatsounds/autoadd/vuth/i have a red apple.ogg",length=1.6146485260770975}}
 L["i once got busy in a burger king bathroom"]={{path="chatsounds/autoadd/vuth/i once got busy in a burger king bathroom.ogg",length=1.7331292517006802}}
 L["if you can piss six feet in the air straight up"]={{path="chatsounds/autoadd/vuth/if you can piss six feet in the air straight up.ogg",length=2.038049886621315}}
 L["if you think youre gonna find a bargain at big bills"]={{path="chatsounds/autoadd/vuth/if you think youre gonna find a bargain at big bills.ogg",length=2.1821995464852608}}
 L["if youre dumb enough to buy a new car this weekend"]={{path="chatsounds/autoadd/vuth/if youre dumb enough to buy a new car this weekend.ogg",length=2.324126984126984}}
 L["let me answer my f cell phone"]={{path="chatsounds/autoadd/vuth/let me answer my f cell phone.ogg",length=1.8822222222222222}}
+L["look what will happen"]={{path="chatsounds/autoadd/vuth/look what will happen.ogg",length=2.7807936507936506}}
 L["nnoo"]={{path="chatsounds/autoadd/vuth/nnoo.ogg",length=0.82678004535147387}}
 L["ohmygod"]={{path="chatsounds/autoadd/vuth/ohmygod.ogg",length=1.0634467120181406}}
 L["only at big bill hell"]={{path="chatsounds/autoadd/vuth/only at big bill hell.ogg",length=1.0334467120181405}}
@@ -59,6 +65,8 @@ L["to big bell hell"]={{path="chatsounds/autoadd/vuth/to big bell hell.ogg",leng
 L["well fuck her"]={{path="chatsounds/autoadd/vuth/well fuck her.ogg",length=0.80945578231292514}}
 L["what do you mean you dont agree with me"]={{path="chatsounds/autoadd/vuth/what do you mean you dont agree with me.ogg",length=1.8056689342403629}}
 L["what the f is this"]={{path="chatsounds/autoadd/vuth/what the f is this.ogg",length=1.7692970521541951}}
+L["which is made from antimatter"]={{path="chatsounds/autoadd/vuth/which is made from antimatter.ogg",length=2.0631746031746032}}
+L["which is made from matter"]={{path="chatsounds/autoadd/vuth/which is made from matter.ogg",length=1.7604308390022676}}
 L["yes oh hell plot and plan but theres always ways to fuck him up"]={{path="chatsounds/autoadd/vuth/yes oh hell plot and plan but theres always ways to fuck him up.ogg",length=4.0655782312925171}}
 L["yess"]={{path="chatsounds/autoadd/vuth/yess.ogg",length=0.63172335600907026}}
 L["you can kiss my ass"]={{path="chatsounds/autoadd/vuth/you can kiss my ass.ogg",length=1.1709297052154195}}
