@@ -50,6 +50,7 @@ L["do you believe in a flying spaghetti monster too bubblehead"]={{path="chatsou
 L["do you know who i am"]={{path="chatsounds/autoadd/verbalsilence/do you know who i am.ogg",length=1.9214512471655329}}
 L["dont drop that durka durk"]={{path="chatsounds/autoadd/verbalsilence/dont drop that durka durk.ogg",length=4.5857823129251702}}
 L["dont have sex because you will get pregnant and die"]={{path="chatsounds/autoadd/verbalsilence/dont have sex because you will get pregnant and die.ogg",length=9.910068027210885}}
+L["doot doot"]={{path="chatsounds/autoadd/verbalsilence/doot doot.ogg",length=0.61027210884353744}}
 L["dramatic sound"]={{path="chatsounds/autoadd/verbalsilence/dramatic sound.ogg",length=6.9224489795918371}}
 L["drink the apple juice"]={{path="chatsounds/autoadd/verbalsilence/drink the apple juice.ogg",length=2.1783219954648527}}
 L["ea sports"]={{path="chatsounds/autoadd/verbalsilence/ea sports.ogg",length=1.4708616780045352}}
@@ -82,6 +83,7 @@ L["fucking bullshit"]={{path="chatsounds/autoadd/verbalsilence/fucking bullshit.
 L["geddan song"]={{path="chatsounds/autoadd/verbalsilence/geddan song.ogg",length=38.664036281179136}}
 L["get lucky"]={{path="chatsounds/autoadd/verbalsilence/get lucky.ogg",length=41.544807256235828}}
 L["get out me car"]={{path="chatsounds/autoadd/verbalsilence/get out me car.ogg",length=1.2537414965986395}}
+L["get swole"]={{path="chatsounds/autoadd/verbalsilence/get swole.ogg",length=1.0891836734693878}}
 L["gigigiggle"]={{path="chatsounds/autoadd/verbalsilence/gigigiggle/gigigiggle 2.ogg",length=0.5329251700680272},{path="chatsounds/autoadd/verbalsilence/gigigiggle/gigigiggle.ogg",length=0.39970521541950116}}
 L["give your meat a good ol rub"]={{path="chatsounds/autoadd/verbalsilence/give your meat a good ol rub.ogg",length=1.6088662131519273}}
 L["glen coco four for you glen coco you go glen coco"]={{path="chatsounds/autoadd/verbalsilence/glen coco four for you glen coco you go glen coco.ogg",length=4.8293424036281181}}
@@ -152,6 +154,8 @@ L["mlady"]={{path="chatsounds/autoadd/verbalsilence/mlady.ogg",length=0.89335600
 L["mnnnnnnnnnnnn"]={{path="chatsounds/autoadd/verbalsilence/mnnnnnnnnnnnn.ogg",length=5.2517006802721085}}
 L["motherfucking bootleg firework shit"]={{path="chatsounds/autoadd/verbalsilence/motherfucking bootleg firework shit.ogg",length=2.7767573696145122}}
 L["mr funk theme"]={{path="chatsounds/autoadd/verbalsilence/mr funk theme.ogg",length=100.81251700680272}}
+L["muscle milk get swole"]={{path="chatsounds/autoadd/verbalsilence/muscle milk get swole.ogg",length=1.9454195011337869}}
+L["muscle milk"]={{path="chatsounds/autoadd/verbalsilence/muscle milk.ogg",length=0.8940136054421769}}
 L["my brand"]={{path="chatsounds/autoadd/verbalsilence/my brand.ogg",length=1.637641723356009}}
 L["my mottos always been when its right its right why wait until the middle of a cold dark night"]={{path="chatsounds/autoadd/verbalsilence/my mottos always been when its right its right why wait until the middle of a cold dark night.ogg",length=6.1891156462585037}}
 L["neat"]={{path="chatsounds/autoadd/verbalsilence/neat.ogg",length=0.38918367346938776}}
