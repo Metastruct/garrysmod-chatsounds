@@ -31,8 +31,8 @@ L["it makes me feel like shit"]={{path="chatsounds/autoadd/judith/it makes me fe
 L["jesus christ its like the goddamn history of the world"]={{path="chatsounds/autoadd/judith/jesus christ its like the goddamn history of the world.ogg",length=2.7357823129251702}}
 L["just a good mom"]={{path="chatsounds/autoadd/judith/just a good mom.ogg",length=1.2025396825396826}}
 L["leaving your middle aged wife and"]={{path="chatsounds/autoadd/judith/leaving your middle aged wife and.ogg",length=2.1514739229024942}}
-L["no im not"]={{path="chatsounds/autoadd/judith/no im not.ogg",length=0.7902040816326531}}
 L["no"]={{path="chatsounds/autoadd/judith/no.ogg",length=0.46349206349206351}}
+L["no im not"]={{path="chatsounds/autoadd/judith/no im not.ogg",length=0.7902040816326531}}
 L["okay"]={{path="chatsounds/autoadd/judith/okay.ogg",length=0.42226757369614515}}
 L["or the way he touches me"]={{path="chatsounds/autoadd/judith/or the way he touches me.ogg",length=1.5521088435374151}}
 L["pretty boring"]={{path="chatsounds/autoadd/judith/pretty boring.ogg",length=1.1116099773242631}}
@@ -49,8 +49,8 @@ L["this air of self confidence"]={{path="chatsounds/autoadd/judith/this air of s
 L["this highly sexual woman who was wearing stilettos at 10 in the morning"]={{path="chatsounds/autoadd/judith/this highly sexual woman who was wearing stilettos at 10 in the morning.ogg",length=3.9303854875283446}}
 L["this spoiled and"]={{path="chatsounds/autoadd/judith/this spoiled and.ogg",length=4.673197278911565}}
 L["this woman laura she got this um"]={{path="chatsounds/autoadd/judith/this woman laura she got this um.ogg",length=2.5526530612244898}}
-L["ugh god"]={{path="chatsounds/autoadd/judith/ugh god.ogg",length=1.3546485260770975}}
 L["ugh"]={{path="chatsounds/autoadd/judith/ugh.ogg",length=0.98276643990929702}}
+L["ugh god"]={{path="chatsounds/autoadd/judith/ugh god.ogg",length=1.3546485260770975}}
 L["use your imagination paul"]={{path="chatsounds/autoadd/judith/use your imagination paul.ogg",length=1.9306575963718822}}
 L["well whatever they are exactly the same"]={{path="chatsounds/autoadd/judith/well whatever they are exactly the same.ogg",length=2.3907029478458051}}
 L["what do you think i mean"]={{path="chatsounds/autoadd/judith/what do you think i mean.ogg",length=1.4297505668934241}}

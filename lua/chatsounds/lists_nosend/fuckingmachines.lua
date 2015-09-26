@@ -14,25 +14,25 @@ L["everything in this room has been modified to fuck"]={{path="chatsounds/autoad
 L["fabulous"]={{path="chatsounds/autoadd/fuckingmachines/fabulous.ogg",length=0.50721088435374151}}
 L["for instance"]={{path="chatsounds/autoadd/fuckingmachines/for instance.ogg",length=0.85607709750566896}}
 L["fuck"]={{path="chatsounds/autoadd/fuckingmachines/fuck/fuck.ogg",length=0.4151700680272109},{path="chatsounds/autoadd/fuckingmachines/fuck/fuck2.ogg",length=0.37149659863945578}}
+L["fucking"]={{path="chatsounds/autoadd/fuckingmachines/fucking.ogg",length=0.6649886621315193}}
 L["fucking machines"]={{path="chatsounds/autoadd/fuckingmachines/fucking machines/fucking machine 1.ogg",length=0.9754421768707483},{path="chatsounds/autoadd/fuckingmachines/fucking machines/fucking machine 2.ogg",length=1},{path="chatsounds/autoadd/fuckingmachines/fucking machines/fucking machine 3.ogg",length=1.1230839002267574},{path="chatsounds/autoadd/fuckingmachines/fucking machines/fucking machine 4.ogg",length=0.86068027210884357},{path="chatsounds/autoadd/fuckingmachines/fucking machines/fucking machine.ogg",length=0.90850340136054419}}
 L["fucking machines dot com"]={{path="chatsounds/autoadd/fuckingmachines/fucking machines dot com.ogg",length=1.7707482993197279}}
 L["fucking machines everywhere"]={{path="chatsounds/autoadd/fuckingmachines/fucking machines everywhere.ogg",length=1.8783219954648527}}
-L["fucking"]={{path="chatsounds/autoadd/fuckingmachines/fucking.ogg",length=0.6649886621315193}}
+L["ha ha ha"]={{path="chatsounds/autoadd/fuckingmachines/ha ha ha.ogg",length=0.8456235827664399}}
 L["ha ha ha ha ha ha"]={{path="chatsounds/autoadd/fuckingmachines/ha ha ha ha ha ha.ogg",length=2.4395464852607711}}
 L["ha ha ha no"]={{path="chatsounds/autoadd/fuckingmachines/ha ha ha no.ogg",length=1.5714965986394558}}
-L["ha ha ha"]={{path="chatsounds/autoadd/fuckingmachines/ha ha ha.ogg",length=0.8456235827664399}}
 L["has been modified to fuck"]={{path="chatsounds/autoadd/fuckingmachines/has been modified to fuck.ogg",length=2.1552154195011339}}
 L["hello"]={{path="chatsounds/autoadd/fuckingmachines/hello.ogg",length=0.5}}
-L["here we have a fabulous array of dildoes used for fucking machines"]={{path="chatsounds/autoadd/fuckingmachines/here we have a fabulous array of dildoes used for fucking machines.ogg",length=4}}
 L["here we have a fabulous array of dildoes"]={{path="chatsounds/autoadd/fuckingmachines/here we have a fabulous array of dildoes.ogg",length=2.3999999999999999}}
+L["here we have a fabulous array of dildoes used for fucking machines"]={{path="chatsounds/autoadd/fuckingmachines/here we have a fabulous array of dildoes used for fucking machines.ogg",length=4}}
 L["how about this"]={{path="chatsounds/autoadd/fuckingmachines/how about this.ogg",length=1.0709977324263038}}
 L["i am fuckzilla"]={{path="chatsounds/autoadd/fuckingmachines/i am fuckzilla.ogg",length=1.4831292517006802}}
-L["if you listen very carefully you can hear the echos of orgasms pass"]={{path="chatsounds/autoadd/fuckingmachines/if you listen very carefully you can hear the echos of orgasms pass.ogg",length=4.2778458049886625}}
 L["if you listen very carefully"]={{path="chatsounds/autoadd/fuckingmachines/if you listen very carefully.ogg",length=1.8}}
+L["if you listen very carefully you can hear the echos of orgasms pass"]={{path="chatsounds/autoadd/fuckingmachines/if you listen very carefully you can hear the echos of orgasms pass.ogg",length=4.2778458049886625}}
 L["it can cut dry wall"]={{path="chatsounds/autoadd/fuckingmachines/it can cut dry wall.ogg",length=1.333673469387755}}
 L["it is a cakemixer"]={{path="chatsounds/autoadd/fuckingmachines/it is a cakemixer.ogg",length=1.2871428571428571}}
-L["machines build purely for fucking"]={{path="chatsounds/autoadd/fuckingmachines/machines build purely for fucking.ogg",length=2.4869614512471654}}
 L["machines build purely for"]={{path="chatsounds/autoadd/fuckingmachines/machines build purely for.ogg",length=1.7225623582766441}}
+L["machines build purely for fucking"]={{path="chatsounds/autoadd/fuckingmachines/machines build purely for fucking.ogg",length=2.4869614512471654}}
 L["made specifically for"]={{path="chatsounds/autoadd/fuckingmachines/made specifically for.ogg",length=1.0996598639455781}}
 L["modified"]={{path="chatsounds/autoadd/fuckingmachines/modified.ogg",length=0.8458049886621315}}
 L["no"]={{path="chatsounds/autoadd/fuckingmachines/no.ogg",length=0.72587301587301589}}

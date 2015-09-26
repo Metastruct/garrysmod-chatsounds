@@ -24,8 +24,8 @@ L["sony says they plan to release an upgraded 800 gb version of this piece of sh
 L["sonys brand new stupid piece of shit that doesnt do the goddamn thing its fucking supposed to"]={{path="chatsounds/autoadd/Onion_Sony/sonys brand new stupid piece of shit that doesnt do the goddamn thing its fucking supposed to.ogg",length=5.0677777777777777}}
 L["sonys new stupid box thing hit the shelves at crowded malls and overpriced electronic stores"]={{path="chatsounds/autoadd/Onion_Sony/sonys new stupid box thing hit the shelves at crowded malls and overpriced electronic stores.ogg",length=6.4994784580498868}}
 L["stupid box thing"]={{path="chatsounds/autoadd/Onion_Sony/stupid box thing.ogg",length=1.1249206349206349}}
-L["sucking fucking goddamn thing to make everyone in the modern home want to tear their fucking eyeballs out"]={{path="chatsounds/autoadd/Onion_Sony/sucking fucking goddamn thing to make everyone in the modern home want to tear their fucking eyeballs out.ogg",length=8.4084126984126986}}
 L["sucking fucking goddamn thing"]={{path="chatsounds/autoadd/Onion_Sony/sucking fucking goddamn thing.ogg",length=1.5424943310657597}}
+L["sucking fucking goddamn thing to make everyone in the modern home want to tear their fucking eyeballs out"]={{path="chatsounds/autoadd/Onion_Sony/sucking fucking goddamn thing to make everyone in the modern home want to tear their fucking eyeballs out.ogg",length=8.4084126984126986}}
 L["tech savvy consumers are lining up today to be the first to purchase"]={{path="chatsounds/autoadd/Onion_Sony/tech savvy consumers are lining up today to be the first to purchase.ogg",length=3.8065079365079364}}
 L["thanks brandon"]={{path="chatsounds/autoadd/Onion_Sony/thanks brandon.ogg",length=1.0908163265306123}}
 L["the fucking piece of shit is available now"]={{path="chatsounds/autoadd/Onion_Sony/the fucking piece of shit is available now.ogg",length=1.95437641723356}}

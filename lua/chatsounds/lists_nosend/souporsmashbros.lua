@@ -1,13 +1,13 @@
 c.StartList("souporsmashbros")
 L["8 player smash can be played by up to 4 players"]={{path="chatsounds/autoadd/souporsmashbros/8 player smash can be played by up to 4 players.ogg",length=3.0670294784580499}}
 L["amibo"]={{path="chatsounds/autoadd/souporsmashbros/amibo.ogg",length=0.92725623582766437}}
+L["and"]={{path="chatsounds/autoadd/souporsmashbros/and.ogg",length=0.30312925170068028}}
 L["and finally"]={{path="chatsounds/autoadd/souporsmashbros/and finally.ogg",length=0.93913832199546488}}
 L["and you wont be able to play online"]={{path="chatsounds/autoadd/souporsmashbros/and you wont be able to play online.ogg",length=1.8188208616780046}}
-L["and"]={{path="chatsounds/autoadd/souporsmashbros/and.ogg",length=0.30312925170068028}}
 L["as kirbys"]={{path="chatsounds/autoadd/souporsmashbros/as kirbys.ogg",length=0.74893424036281175}}
+L["batteling"]={{path="chatsounds/autoadd/souporsmashbros/batteling.ogg",length=0.68947845804988661}}
 L["batteling is more difficult than ever"]={{path="chatsounds/autoadd/souporsmashbros/batteling is more difficult than ever.ogg",length=2.4132199546485262}}
 L["batteling with chuck"]={{path="chatsounds/autoadd/souporsmashbros/batteling with chuck.ogg",length=1.3254875283446712}}
-L["batteling"]={{path="chatsounds/autoadd/souporsmashbros/batteling.ogg",length=0.68947845804988661}}
 L["battles"]={{path="chatsounds/autoadd/souporsmashbros/battles/battles.ogg",length=0.90346938775510199},{path="chatsounds/autoadd/souporsmashbros/battles/battles1.ogg",length=0.9153514739229025}}
 L["brrrrrr"]={{path="chatsounds/autoadd/souporsmashbros/brrrrrr.ogg",length=0.96292517006802725}}
 L["by the way we made it so you can never play classic mode"]={{path="chatsounds/autoadd/souporsmashbros/by the way we made it so you can never play classic mode.ogg",length=4.8977324263038549}}
@@ -22,11 +22,11 @@ L["gethelpextreme"]={{path="chatsounds/autoadd/souporsmashbros/gethelpextreme.og
 L["gethelpjingle"]={{path="chatsounds/autoadd/souporsmashbros/gethelpjingle.ogg",length=1.6115192743764173}}
 L["go and take a shower"]={{path="chatsounds/autoadd/souporsmashbros/go and take a shower.ogg",length=2.294331065759637}}
 L["huzzah"]={{path="chatsounds/autoadd/souporsmashbros/huzzah.ogg",length=1.7118367346938776}}
+L["i"]={{path="chatsounds/autoadd/souporsmashbros/i.ogg",length=0.58249433106575965}}
 L["i aint talking about that wiiu"]={{path="chatsounds/autoadd/souporsmashbros/i aint talking about that wiiu.ogg",length=1.3314285714285714}}
 L["i dont think this is a game for gamers i think this is a game for posers"]={{path="chatsounds/autoadd/souporsmashbros/i dont think this is a game for gamers i think this is a game for posers.ogg",length=4.885850340136054}}
 L["i hope youre exited for team fortess 2"]={{path="chatsounds/autoadd/souporsmashbros/i hope youre exited for team fortess 2.ogg",length=3.2810204081632652}}
 L["i should mention that the probability of multiplayer is a bit lower than zero"]={{path="chatsounds/autoadd/souporsmashbros/i should mention that the probability of multiplayer is a bit lower than zero.ogg",length=4.0061678004535146}}
-L["i"]={{path="chatsounds/autoadd/souporsmashbros/i.ogg",length=0.58249433106575965}}
 L["if you or someone you know is in relationship"]={{path="chatsounds/autoadd/souporsmashbros/if you or someone you know is in relationship.ogg",length=2.4845351473922901}}
 L["if you touch one of these areas with over100 percent damange youll be"]={{path="chatsounds/autoadd/souporsmashbros/if you touch one of these areas with over100 percent damange youll be.ogg",length=4.0537188208616781}}
 L["if your miis arrive on the same space all players will be force to play the fighting party game"]={{path="chatsounds/autoadd/souporsmashbros/if your miis arrive on the same space all players will be force to play the fighting party game.ogg",length=5.3494784580498864}}
@@ -58,8 +58,8 @@ L["so those fighting techniques youve been polishing"]={{path="chatsounds/autoad
 L["super sas brothers for wiiiiuuuu"]={{path="chatsounds/autoadd/souporsmashbros/super sas brothers for wiiiiuuuu.ogg",length=4.3271201814058955}}
 L["super soupbrothers for wiiu will never be released in north america ever"]={{path="chatsounds/autoadd/souporsmashbros/super soupbrothers for wiiu will never be released in north america ever.ogg",length=4.2498639455782312}}
 L["super suicide brothers"]={{path="chatsounds/autoadd/souporsmashbros/super suicide brothers.ogg",length=1.7712698412698413}}
-L["superdoopertooperbrothers for wiids"]={{path="chatsounds/autoadd/souporsmashbros/superdoopertooperbrothers for wiids.ogg",length=1.2957596371882085}}
 L["superdoopertooperbrothers"]={{path="chatsounds/autoadd/souporsmashbros/superdoopertooperbrothers.ogg",length=1.8188208616780046}}
+L["superdoopertooperbrothers for wiids"]={{path="chatsounds/autoadd/souporsmashbros/superdoopertooperbrothers for wiids.ogg",length=1.2957596371882085}}
 L["sus"]={{path="chatsounds/autoadd/souporsmashbros/sus.ogg",length=0.49927437641723355}}
 L["the announcer"]={{path="chatsounds/autoadd/souporsmashbros/the announcer.ogg",length=1.5691836734693878}}
 L["the best part of the wiiu game is that you have more than 4 unique heroes to choose between"]={{path="chatsounds/autoadd/souporsmashbros/the best part of the wiiu game is that you have more than 4 unique heroes to choose between.ogg",length=4.4968934240362808}}
@@ -69,11 +69,11 @@ L["the most interesting thing you can do with the gamepad in smash brothers"]={{
 L["the nintendo wiiu classic gamecube controller remote pad chuck plus pro"]={{path="chatsounds/autoadd/souporsmashbros/the nintendo wiiu classic gamecube controller remote pad chuck plus pro.ogg",length=6.2648299319727894}}
 L["the nun"]={{path="chatsounds/autoadd/souporsmashbros/the nun.ogg",length=0.70138321995464847}}
 L["the piece of junk"]={{path="chatsounds/autoadd/souporsmashbros/the piece of junk.ogg",length=1.2838775510204081}}
-L["the wiiu pro controller pro"]={{path="chatsounds/autoadd/souporsmashbros/the wiiu pro controller pro.ogg",length=2.2705442176870747}}
 L["the wiiu"]={{path="chatsounds/autoadd/souporsmashbros/the wiiu.ogg",length=1.090702947845805}}
+L["the wiiu pro controller pro"]={{path="chatsounds/autoadd/souporsmashbros/the wiiu pro controller pro.ogg",length=2.2705442176870747}}
 L["there are a number of new features and modes that the wiiu and 3u version share including"]={{path="chatsounds/autoadd/souporsmashbros/there are a number of new features and modes that the wiiu and 3u version share including.ogg",length=5.492131519274376}}
-L["we are introducing a different mode called"]={{path="chatsounds/autoadd/souporsmashbros/we are introducing a different mode called.ogg",length=2.4325170068027209}}
 L["we are introducing"]={{path="chatsounds/autoadd/souporsmashbros/we are introducing.ogg",length=0.83213151927437645}}
+L["we are introducing a different mode called"]={{path="chatsounds/autoadd/souporsmashbros/we are introducing a different mode called.ogg",length=2.4325170068027209}}
 L["well you know what im trying to say"]={{path="chatsounds/autoadd/souporsmashbros/well you know what im trying to say.ogg",length=1.3433333333333333}}
 L["were bringing back"]={{path="chatsounds/autoadd/souporsmashbros/were bringing back.ogg",length=0.9272335600907029}}
 L["wiiiiuuuu"]={{path="chatsounds/autoadd/souporsmashbros/wiiiiuuuu.ogg",length=1.5513378684807255}}

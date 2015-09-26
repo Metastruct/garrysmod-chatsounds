@@ -7,8 +7,8 @@ L["disgusting"]={{path="chatsounds/autoadd/snipaaz/disgusting.ogg",length=1.6486
 L["djent"]={{path="chatsounds/autoadd/snipaaz/djent.ogg",length=12.265555555555556}}
 L["do you have a death wish"]={{path="chatsounds/autoadd/snipaaz/do you have a death wish.ogg",length=2.2639455782312927}}
 L["freedomdive"]={{path="chatsounds/autoadd/snipaaz/freedomdive.ogg",length=42.881065759637188}}
-L["hello i can see you in there"]={{path="chatsounds/autoadd/snipaaz/hello i can see you in there.ogg",length=2.0433560090702949}}
 L["hello"]={{path="chatsounds/autoadd/snipaaz/hello.ogg",length=0.592108843537415}}
+L["hello i can see you in there"]={{path="chatsounds/autoadd/snipaaz/hello i can see you in there.ogg",length=2.0433560090702949}}
 L["hillo"]={{path="chatsounds/autoadd/snipaaz/hillo.ogg",length=3.0882539682539685}}
 L["hrnng"]={{path="chatsounds/autoadd/snipaaz/hrnng.ogg",length=0.95945578231292517}}
 L["if youre one of those people that confuses your and youre or their and theyre i dont think were going to get along"]={{path="chatsounds/autoadd/snipaaz/if youre one of those people that confuses your and youre or their and theyre i dont think were going to get along.ogg",length=6.3744671201814063}}

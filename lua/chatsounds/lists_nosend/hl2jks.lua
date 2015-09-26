@@ -99,8 +99,8 @@ L["kabang"]={{path="chatsounds/autoadd/hl2jks/kabang.ogg",length=1.0361904761904
 L["kachkchk"]={{path="chatsounds/autoadd/hl2jks/kachkchk.ogg",length=0.69079365079365085}}
 L["keep the change ya filthy animal"]={{path="chatsounds/autoadd/hl2jks/keep the change ya filthy animal.ogg",length=1.8343764172335602}}
 L["laser activated antipersonnel mine"]={{path="chatsounds/autoadd/hl2jks/laser activated antipersonnel mine.ogg",length=3.6260997732426303}}
-L["laser guided rocket launcher"]={{path="chatsounds/autoadd/hl2jks/laser guided rocket launcher.ogg",length=2.2987528344671202}}
 L["laser guided rocket"]={{path="chatsounds/autoadd/hl2jks/laser guided rocket.ogg",length=1.5818367346938775}}
+L["laser guided rocket launcher"]={{path="chatsounds/autoadd/hl2jks/laser guided rocket launcher.ogg",length=2.2987528344671202}}
 L["local torniquette applied"]={{path="chatsounds/autoadd/hl2jks/local torniquette applied.ogg",length=2.1304081632653062}}
 L["look at me im a walking talking box"]={{path="chatsounds/autoadd/hl2jks/look at me im a walking talking box.ogg",length=3.5468480725623581}}
 L["luther was just telling us a joke what exactly would happen if we lit a match in a room full of nitrogen"]={{path="chatsounds/autoadd/hl2jks/luther was just telling us a joke what exactly would happen if we lit a match in a room full of nitrogen.ogg",length=7.7746485260770974}}
@@ -122,8 +122,8 @@ L["ninety"]={{path="chatsounds/autoadd/hl2jks/ninety.ogg",length=1.0564852607709
 L["north"]={{path="chatsounds/autoadd/hl2jks/north.ogg",length=0.75698412698412698}}
 L["nuh uh vanilla coke is the best"]={{path="chatsounds/autoadd/hl2jks/nuh uh vanilla coke is the best.ogg",length=2.0549659863945577}}
 L["oh how i hate labratory humor luther take gordon to the door now"]={{path="chatsounds/autoadd/hl2jks/oh how i hate labratory humor luther take gordon to the door now.ogg",length=7.5337414965986396}}
-L["one hundred"]={{path="chatsounds/autoadd/hl2jks/one hundred.ogg",length=1.2451473922902494}}
 L["one"]={{path="chatsounds/autoadd/hl2jks/one.ogg",length=0.70092970521541953}}
+L["one hundred"]={{path="chatsounds/autoadd/hl2jks/one hundred.ogg",length=1.2451473922902494}}
 L["online"]={{path="chatsounds/autoadd/hl2jks/online.ogg",length=1.3699546485260772}}
 L["orgy of blood"]={{path="chatsounds/autoadd/hl2jks/orgy of blood.ogg",length=2.3190929705215417}}
 L["our computers are so unstable"]={{path="chatsounds/autoadd/hl2jks/our computers are so unstable.ogg",length=2.2436054421768707}}
@@ -175,8 +175,8 @@ L["three"]={{path="chatsounds/autoadd/hl2jks/three.ogg",length=0.635623582766439
 L["threesome"]={{path="chatsounds/autoadd/hl2jks/threesome.ogg",length=1.3119274376417234}}
 L["time remaining"]={{path="chatsounds/autoadd/hl2jks/time remaining.ogg",length=1.5644217687074831}}
 L["twelve"]={{path="chatsounds/autoadd/hl2jks/twelve.ogg",length=1.105827664399093}}
-L["twenty five"]={{path="chatsounds/autoadd/hl2jks/twenty five.ogg",length=1.1783900226757369}}
 L["twenty"]={{path="chatsounds/autoadd/hl2jks/twenty.ogg",length=0.76768707482993193}}
+L["twenty five"]={{path="chatsounds/autoadd/hl2jks/twenty five.ogg",length=1.1783900226757369}}
 L["two"]={{path="chatsounds/autoadd/hl2jks/two.ogg",length=0.72850340136054426}}
 L["twofer"]={{path="chatsounds/autoadd/hl2jks/twofer.ogg",length=1.050702947845805}}
 L["unidentified bio weapon"]={{path="chatsounds/autoadd/hl2jks/unidentified bio weapon.ogg",length=1.8343537414965987}}
@@ -184,6 +184,7 @@ L["vital signs are dropping"]={{path="chatsounds/autoadd/hl2jks/vital signs are 
 L["vital signs monitoring activated"]={{path="chatsounds/autoadd/hl2jks/vital signs monitoring activated.ogg",length=2.745736961451247}}
 L["voice system deactivated"]={{path="chatsounds/autoadd/hl2jks/voice system deactivated.ogg",length=2.025918367346939}}
 L["voice systems activated"]={{path="chatsounds/autoadd/hl2jks/voice systems activated.ogg",length=2.2348979591836735}}
+L["warning"]={{path="chatsounds/autoadd/hl2jks/warning.ogg",length=1.0651927437641724}}
 L["warning biohazard detected"]={{path="chatsounds/autoadd/hl2jks/warning biohazard detected.ogg",length=2.8270068027210886}}
 L["warning blood toxin levels detected"]={{path="chatsounds/autoadd/hl2jks/warning blood toxin levels detected.ogg",length=3.1520861678004537}}
 L["warning hazardous chemicals detected"]={{path="chatsounds/autoadd/hl2jks/warning hazardous chemicals detected.ogg",length=3.0940362811791382}}
@@ -193,7 +194,6 @@ L["warning power movement systems overload"]={{path="chatsounds/autoadd/hl2jks/w
 L["warning reactive armor compromised"]={{path="chatsounds/autoadd/hl2jks/warning reactive armor compromised.ogg",length=3.1636961451247165}}
 L["warning vital signs critical"]={{path="chatsounds/autoadd/hl2jks/warning vital signs critical.ogg",length=2.4961224489795919}}
 L["warning vital signs dropping"]={{path="chatsounds/autoadd/hl2jks/warning vital signs dropping.ogg",length=2.6818820861678003}}
-L["warning"]={{path="chatsounds/autoadd/hl2jks/warning.ogg",length=1.0651927437641724}}
 L["weapon aquired"]={{path="chatsounds/autoadd/hl2jks/weapon aquired.ogg",length=1.5266893424036281}}
 L["welcome to murder city im the mayor"]={{path="chatsounds/autoadd/hl2jks/welcome to murder city im the mayor.ogg",length=2.5251700680272107}}
 L["welcome to the hev mark iv protected system for use in hazardous environmental conditions"]={{path="chatsounds/autoadd/hl2jks/welcome to the hev mark iv protected system for use in hazardous environmental conditions.ogg",length=8.7770975056689338}}

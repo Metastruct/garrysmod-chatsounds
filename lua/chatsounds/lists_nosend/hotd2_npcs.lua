@@ -10,21 +10,21 @@ L["dont kill me"]={{path="chatsounds/autoadd/hotd2_npcs/dont kill me.ogg",length
 L["go away go away"]={{path="chatsounds/autoadd/hotd2_npcs/go away go away/go away go away 2.ogg",length=1.9933786848072563},{path="chatsounds/autoadd/hotd2_npcs/go away go away/go away go away.ogg",length=1.7759637188208617}}
 L["good luck"]={{path="chatsounds/autoadd/hotd2_npcs/good luck/good luck 2.ogg",length=0.54639455782312929},{path="chatsounds/autoadd/hotd2_npcs/good luck/good luck.ogg",length=0.71401360544217685}}
 L["heelp"]={{path="chatsounds/autoadd/hotd2_npcs/heelp/heelp 2.ogg",length=0.61727891156462589},{path="chatsounds/autoadd/hotd2_npcs/heelp/heelp 3.ogg",length=0.6165986394557823}}
-L["heelp heelp"]={{path="chatsounds/autoadd/hotd2_npcs/heelp heelp.ogg",length=1.7919727891156463}}
 L["heelp"]={{path="chatsounds/autoadd/hotd2_npcs/heelp.ogg",length=1.1262131519274377}}
+L["heelp heelp"]={{path="chatsounds/autoadd/hotd2_npcs/heelp heelp.ogg",length=1.7919727891156463}}
+L["help"]={{path="chatsounds/autoadd/hotd2_npcs/help.ogg",length=0.66267573696145121}}
 L["help help"]={{path="chatsounds/autoadd/hotd2_npcs/help help/help help 2.ogg",length=1.3714285714285714},{path="chatsounds/autoadd/hotd2_npcs/help help/help help 3.ogg",length=1.5722902494331066},{path="chatsounds/autoadd/hotd2_npcs/help help/help help.ogg",length=1.4927891156462585}}
 L["help me help me"]={{path="chatsounds/autoadd/hotd2_npcs/help me help me/help me help me 2.ogg",length=2.0100226757369613},{path="chatsounds/autoadd/hotd2_npcs/help me help me/help me help me 3.ogg",length=2.3158276643990932},{path="chatsounds/autoadd/hotd2_npcs/help me help me/help me help me 4.ogg",length=2.2560997732426302},{path="chatsounds/autoadd/hotd2_npcs/help me help me/help me help me.ogg",length=2.1768707482993199}}
 L["help mme help mme"]={{path="chatsounds/autoadd/hotd2_npcs/help mme help mme.ogg",length=2.5993650793650795}}
-L["help"]={{path="chatsounds/autoadd/hotd2_npcs/help.ogg",length=0.66267573696145121}}
 L["my god"]={{path="chatsounds/autoadd/hotd2_npcs/my god/22_J.ogg",length=1.0827664399092971}}
 L["my god"]={{path="chatsounds/autoadd/hotd2_npcs/my god.ogg",length=0.76335600907029477}}
 L["no no noo"]={{path="chatsounds/autoadd/hotd2_npcs/no no noo.ogg",length=2.2900680272108844}}
 L["no nooo"]={{path="chatsounds/autoadd/hotd2_npcs/no nooo.ogg",length=1.7563265306122449}}
+L["noo"]={{path="chatsounds/autoadd/hotd2_npcs/noo.ogg",length=0.98616780045351471}}
 L["noo help me"]={{path="chatsounds/autoadd/hotd2_npcs/noo help me.ogg",length=1.6458049886621315}}
 L["noo noo"]={{path="chatsounds/autoadd/hotd2_npcs/noo noo.ogg",length=1.9755555555555555}}
-L["noo"]={{path="chatsounds/autoadd/hotd2_npcs/noo.ogg",length=0.98616780045351471}}
-L["nooo nooo"]={{path="chatsounds/autoadd/hotd2_npcs/nooo nooo.ogg",length=2.7145124716553286}}
 L["nooo"]={{path="chatsounds/autoadd/hotd2_npcs/nooo.ogg",length=0.74530612244897965}}
+L["nooo nooo"]={{path="chatsounds/autoadd/hotd2_npcs/nooo nooo.ogg",length=2.7145124716553286}}
 L["noooo"]={{path="chatsounds/autoadd/hotd2_npcs/noooo/noooo 2.ogg",length=1.2371428571428571},{path="chatsounds/autoadd/hotd2_npcs/noooo/noooo.ogg",length=1.3083446712018141}}
 L["thank you"]={{path="chatsounds/autoadd/hotd2_npcs/thank you/thank you 2.ogg",length=0.46244897959183673},{path="chatsounds/autoadd/hotd2_npcs/thank you/thank you 3.ogg",length=0.45995464852607709},{path="chatsounds/autoadd/hotd2_npcs/thank you/thank you 4.ogg",length=0.34000000000000002},{path="chatsounds/autoadd/hotd2_npcs/thank you/thank you 5.ogg",length=0.5061224489795918},{path="chatsounds/autoadd/hotd2_npcs/thank you/thank you.ogg",length=0.48208616780045349}}
 L["thank you for rescuing me"]={{path="chatsounds/autoadd/hotd2_npcs/thank you for rescuing me/thaank you for rescuing me.ogg",length=1.5528344671201815},{path="chatsounds/autoadd/hotd2_npcs/thank you for rescuing me/thank you for rescuing me 2.ogg",length=1.2428571428571429},{path="chatsounds/autoadd/hotd2_npcs/thank you for rescuing me/thank you for rescuing me.ogg",length=1.1803174603174602}}

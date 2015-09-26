@@ -58,8 +58,8 @@ L["godfather"]={{path="chatsounds/autoadd/kilroy/godfather.ogg",length=4.2682993
 L["goinin"]={{path="chatsounds/autoadd/kilroy/GoinIn.ogg",length=22.552562358276646}}
 L["happy"]={{path="chatsounds/autoadd/kilroy/happy.ogg",length=6.0518820861678009}}
 L["hello cutie pie"]={{path="chatsounds/autoadd/kilroy/hello cutie pie.ogg",length=1.5675283446712018}}
-L["hey im a police officer"]={{path="chatsounds/autoadd/kilroy/hey im a police officer.ogg",length=1.6025396825396825}}
 L["hey"]={{path="chatsounds/autoadd/kilroy/hey.ogg",length=0.3674829931972789}}
+L["hey im a police officer"]={{path="chatsounds/autoadd/kilroy/hey im a police officer.ogg",length=1.6025396825396825}}
 L["homer"]={{path="chatsounds/autoadd/kilroy/homer.ogg",length=1.4976417233560091}}
 L["homerlaugh"]={{path="chatsounds/autoadd/kilroy/homerlaugh.ogg",length=1.1327891156462584}}
 L["honk"]={{path="chatsounds/autoadd/kilroy/honk.ogg",length=1.0048526077097506}}
@@ -76,8 +76,8 @@ L["idols"]={{path="chatsounds/autoadd/kilroy/idols.ogg",length=15.00027210884353
 L["ill destroy her"]={{path="chatsounds/autoadd/kilroy/ill destroy her.ogg",length=1.9929705215419502}}
 L["im a cop you idiot"]={{path="chatsounds/autoadd/kilroy/im a cop you idiot.ogg",length=1.393560090702948}}
 L["im not a girl ugh oh fuck you"]={{path="chatsounds/autoadd/kilroy/im not a girl ugh oh fuck you.ogg",length=2.5429478458049886}}
-L["im so happy that ive found you"]={{path="chatsounds/autoadd/kilroy/Im so Happy that Ive found you.ogg",length=10.965804988662132}}
 L["im so happy"]={{path="chatsounds/autoadd/kilroy/im so Happy.ogg",length=16.075464852607709}}
+L["im so happy that ive found you"]={{path="chatsounds/autoadd/kilroy/Im so Happy that Ive found you.ogg",length=10.965804988662132}}
 L["intel"]={{path="chatsounds/autoadd/kilroy/Intel.ogg",length=2.8634920634920635}}
 L["iphone"]={{path="chatsounds/autoadd/kilroy/iphone.ogg",length=3.4135147392290248}}
 L["its true i do have a problem"]={{path="chatsounds/autoadd/kilroy/its true i do have a problem.ogg",length=3.9609750566893425}}

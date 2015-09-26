@@ -1,9 +1,9 @@
 c.StartList("tony_fake_friends")
 L["cause i know the truth"]={{path="chatsounds/autoadd/tony_fake_friends/cause i know the truth.ogg",length=1.6372108843537414}}
-L["dont try to lie me cause i know the truth"]={{path="chatsounds/autoadd/tony_fake_friends/dont try to lie me cause i know the truth.ogg",length=2.9897052154195012}}
 L["dont try to lie me"]={{path="chatsounds/autoadd/tony_fake_friends/dont try to lie me.ogg",length=1.3524943310657596}}
-L["fake friends fake friends fake friends fake friends fake friends fake friends"]={{path="chatsounds/autoadd/tony_fake_friends/fake friends fake friends fake friends fake friends fake friends fake friends.ogg",length=4.8649659863945578}}
+L["dont try to lie me cause i know the truth"]={{path="chatsounds/autoadd/tony_fake_friends/dont try to lie me cause i know the truth.ogg",length=2.9897052154195012}}
 L["fake friends fake friends fake friends fake friends fake friends"]={{path="chatsounds/autoadd/tony_fake_friends/fake friends fake friends fake friends fake friends fake friends.ogg",length=4.8315419501133787}}
+L["fake friends fake friends fake friends fake friends fake friends fake friends"]={{path="chatsounds/autoadd/tony_fake_friends/fake friends fake friends fake friends fake friends fake friends fake friends.ogg",length=4.8649659863945578}}
 L["i cant stand you anymore get away from me"]={{path="chatsounds/autoadd/tony_fake_friends/i cant stand you anymore get away from me/i cant stand you anymore get away from me Copy.ogg",length=3.5850566893424038},{path="chatsounds/autoadd/tony_fake_friends/i cant stand you anymore get away from me/i cant stand you anymore get away from me.ogg",length=3.5602267573696147}}
 L["i dont need fake friends thats what im telling you"]={{path="chatsounds/autoadd/tony_fake_friends/i dont need fake friends thats what im telling you.ogg",length=3.4471201814058956}}
 L["i dont need fake friends you know what im saying"]={{path="chatsounds/autoadd/tony_fake_friends/i dont need fake friends you know what im saying.ogg",length=3.4913378684807257}}

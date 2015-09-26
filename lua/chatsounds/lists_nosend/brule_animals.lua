@@ -15,8 +15,8 @@ L["furries"]={{path="chatsounds/autoadd/brule_animals/furries.ogg",length=0.9962
 L["had a whole can of cream corn for breakfast"]={{path="chatsounds/autoadd/brule_animals/had a whole can of cream corn for breakfast.ogg",length=2.1848299319727893}}
 L["half price on all damaged cans"]={{path="chatsounds/autoadd/brule_animals/half price on all damaged cans.ogg",length=2.6430839002267574}}
 L["hey lets turn into some animals and see what happens lets check it out"]={{path="chatsounds/autoadd/brule_animals/hey lets turn into some animals and see what happens lets check it out.ogg",length=3.5117913832199545}}
-L["hi were back were gunna do a segment now called doctor to animal"]={{path="chatsounds/autoadd/brule_animals/hi were back were gunna do a segment now called doctor to animal.ogg",length=5.0943310657596372}}
 L["hi were back"]={{path="chatsounds/autoadd/brule_animals/hi were back.ogg",length=1.0488662131519275}}
+L["hi were back were gunna do a segment now called doctor to animal"]={{path="chatsounds/autoadd/brule_animals/hi were back were gunna do a segment now called doctor to animal.ogg",length=5.0943310657596372}}
 L["how come i have to be the dronky"]={{path="chatsounds/autoadd/brule_animals/how come i have to be the dronky.ogg",length=2.1080725623582768}}
 L["how come ya want to be a animal"]={{path="chatsounds/autoadd/brule_animals/how come ya want to be a animal.ogg",length=1.8}}
 L["how do ya catch an animal"]={{path="chatsounds/autoadd/brule_animals/how do ya catch an animal.ogg",length=1.5512471655328799}}

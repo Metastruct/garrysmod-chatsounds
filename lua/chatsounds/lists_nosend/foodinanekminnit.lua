@@ -1,6 +1,6 @@
 c.StartList("foodinanekminnit")
-L["and of course the afraid of pasta sauce"]={{path="chatsounds/autoadd/foodinanekminnit/and of course the afraid of pasta sauce.ogg",length=2.6025850340136056}}
 L["and of course"]={{path="chatsounds/autoadd/foodinanekminnit/and of course.ogg",length=0.66732426303854875}}
+L["and of course the afraid of pasta sauce"]={{path="chatsounds/autoadd/foodinanekminnit/and of course the afraid of pasta sauce.ogg",length=2.6025850340136056}}
 L["but dont have the minnits"]={{path="chatsounds/autoadd/foodinanekminnit/but dont have the minnits.ogg",length=1.5848979591836734}}
 L["combine the indregents"]={{path="chatsounds/autoadd/foodinanekminnit/combine the indregents.ogg",length=1.6850113378684808}}
 L["cooked drain pasta"]={{path="chatsounds/autoadd/foodinanekminnit/cooked drain pasta.ogg",length=1.7016780045351474}}

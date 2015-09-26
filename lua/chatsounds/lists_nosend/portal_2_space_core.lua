@@ -31,14 +31,14 @@ L["spaaaaaaaaaaaace"]={{path="chatsounds/autoadd/portal_2_space_core/spaaaaaaaaa
 L["space going to space cant wait space"]={{path="chatsounds/autoadd/portal_2_space_core/space going to space cant wait space.ogg",length=1.424671201814059}}
 L["space mmhmhmm thats good l l lets go to space"]={{path="chatsounds/autoadd/portal_2_space_core/space mmhmhmm thats good l l lets go to space.ogg",length=3.7711791383219953}}
 L["space so much space need to see it all"]={{path="chatsounds/autoadd/portal_2_space_core/space so much space need to see it all.ogg",length=2.0951020408163266}}
+L["space space"]={{path="chatsounds/autoadd/portal_2_space_core/space space.ogg",length=1.6295238095238096}}
 L["space space go to space"]={{path="chatsounds/autoadd/portal_2_space_core/space space go to space.ogg",length=1.0149433106575965}}
 L["space space going to space oh boy yeah yeah yeahhh okay okay"]={{path="chatsounds/autoadd/portal_2_space_core/space space going to space oh boy yeah yeah yeahhh okay okay.ogg",length=2.7934693877551022}}
 L["space space ohhhhhhhhhh space"]={{path="chatsounds/autoadd/portal_2_space_core/space space ohhhhhhhhhh space.ogg",length=1.2570521541950113}}
 L["space space space space comet stars galaxies orion"]={{path="chatsounds/autoadd/portal_2_space_core/space space space space comet stars galaxies orion.ogg",length=2.1602721088435373}}
+L["space space wanna go to space"]={{path="chatsounds/autoadd/portal_2_space_core/space space wanna go to space.ogg",length=1.1918820861678006}}
 L["space space wanna go to space space space"]={{path="chatsounds/autoadd/portal_2_space_core/space space wanna go to space space space.ogg",length=2.2813378684807257}}
 L["space space wanna go to space space yes pls space"]={{path="chatsounds/autoadd/portal_2_space_core/space space wanna go to space space yes pls space.ogg",length=2.4489342403628118}}
-L["space space wanna go to space"]={{path="chatsounds/autoadd/portal_2_space_core/space space wanna go to space.ogg",length=1.1918820861678006}}
-L["space space"]={{path="chatsounds/autoadd/portal_2_space_core/space space.ogg",length=1.6295238095238096}}
 L["space trial"]={{path="chatsounds/autoadd/portal_2_space_core/space trial.ogg",length=6.3877324263038551}}
 L["space wanna go to space wanna go to space space wanna go to space"]={{path="chatsounds/autoadd/portal_2_space_core/space wanna go to space wanna go to space space wanna go to space.ogg",length=5.223786848072562}}
 L["theres a star theres another one star star star star star star"]={{path="chatsounds/autoadd/portal_2_space_core/theres a star theres another one star star star star star star.ogg",length=6.1921768707482991}}

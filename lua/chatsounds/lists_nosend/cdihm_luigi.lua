@@ -15,14 +15,14 @@ L["fire"]={{path="chatsounds/autoadd/cdihm_luigi/fire.ogg",length=0.761065759637
 L["going"]={{path="chatsounds/autoadd/cdihm_luigi/going.ogg",length=0.27863945578231292}}
 L["gonna"]={{path="chatsounds/autoadd/cdihm_luigi/gonna.ogg",length=0.25875283446712016}}
 L["gotta"]={{path="chatsounds/autoadd/cdihm_luigi/gotta.ogg",length=0.24485260770975056}}
-L["help us"]={{path="chatsounds/autoadd/cdihm_luigi/help us.ogg",length=1.0617913832199546}}
 L["help"]={{path="chatsounds/autoadd/cdihm_luigi/help.ogg",length=0.32700680272108845}}
+L["help us"]={{path="chatsounds/autoadd/cdihm_luigi/help us.ogg",length=1.0617913832199546}}
 L["him"]={{path="chatsounds/autoadd/cdihm_luigi/him.ogg",length=0.80278911564625854}}
 L["his"]={{path="chatsounds/autoadd/cdihm_luigi/his.ogg",length=0.82365079365079363}}
 L["hotel"]={{path="chatsounds/autoadd/cdihm_luigi/hotel.ogg",length=0.60873015873015868}}
-L["how are we gonna find the"]={{path="chatsounds/autoadd/cdihm_luigi/how are we gonna find the.ogg",length=1.1297052154195011}}
-L["how are"]={{path="chatsounds/autoadd/cdihm_luigi/how are.ogg",length=0.22970521541950115}}
 L["how"]={{path="chatsounds/autoadd/cdihm_luigi/how.ogg",length=0.11775510204081632}}
+L["how are"]={{path="chatsounds/autoadd/cdihm_luigi/how are.ogg",length=0.22970521541950115}}
+L["how are we gonna find the"]={{path="chatsounds/autoadd/cdihm_luigi/how are we gonna find the.ogg",length=1.1297052154195011}}
 L["i hope"]={{path="chatsounds/autoadd/cdihm_luigi/i hope.ogg",length=0.3291609977324263}}
 L["if"]={{path="chatsounds/autoadd/cdihm_luigi/if.ogg",length=0.26773242630385485}}
 L["involved"]={{path="chatsounds/autoadd/cdihm_luigi/involved.ogg",length=0.53405895691609973}}
@@ -32,8 +32,8 @@ L["laugh"]={{path="chatsounds/autoadd/cdihm_luigi/laugh.ogg",length=0.5304988662
 L["lend"]={{path="chatsounds/autoadd/cdihm_luigi/lend.ogg",length=0.19074829931972789}}
 L["light"]={{path="chatsounds/autoadd/cdihm_luigi/light.ogg",length=0.53544217687074835}}
 L["look"]={{path="chatsounds/autoadd/cdihm_luigi/look.ogg",length=0.511156462585034}}
-L["looks of the ceiling"]={{path="chatsounds/autoadd/cdihm_luigi/looks of the ceiling.ogg",length=1.3634013605442177}}
 L["looks"]={{path="chatsounds/autoadd/cdihm_luigi/looks.ogg",length=0.35163265306122449}}
+L["looks of the ceiling"]={{path="chatsounds/autoadd/cdihm_luigi/looks of the ceiling.ogg",length=1.3634013605442177}}
 L["lots"]={{path="chatsounds/autoadd/cdihm_luigi/lots.ogg",length=0.35126984126984129}}
 L["lotsa"]={{path="chatsounds/autoadd/cdihm_luigi/lotsa.ogg",length=0.42319727891156461}}
 L["made"]={{path="chatsounds/autoadd/cdihm_luigi/made.ogg",length=0.17401360544217687}}
@@ -58,8 +58,8 @@ L["theres"]={{path="chatsounds/autoadd/cdihm_luigi/theres.ogg",length=0.44782312
 L["us"]={{path="chatsounds/autoadd/cdihm_luigi/us.ogg",length=0.21063492063492065}}
 L["we"]={{path="chatsounds/autoadd/cdihm_luigi/we/2.ogg",length=0.49095238095238097},{path="chatsounds/autoadd/cdihm_luigi/we/we.ogg",length=0.16337868480725623}}
 L["well"]={{path="chatsounds/autoadd/cdihm_luigi/well.ogg",length=0.14927437641723357}}
-L["wendys hotel"]={{path="chatsounds/autoadd/cdihm_luigi/wendys hotel.ogg",length=1.0574829931972789}}
 L["wendys"]={{path="chatsounds/autoadd/cdihm_luigi/wendys.ogg",length=0.44875283446712017}}
+L["wendys hotel"]={{path="chatsounds/autoadd/cdihm_luigi/wendys hotel.ogg",length=1.0574829931972789}}
 L["when"]={{path="chatsounds/autoadd/cdihm_luigi/when.ogg",length=0.22888888888888889}}
 L["will"]={{path="chatsounds/autoadd/cdihm_luigi/will.ogg",length=0.17496598639455782}}
 L["with"]={{path="chatsounds/autoadd/cdihm_luigi/with.ogg",length=0.19904761904761906}}

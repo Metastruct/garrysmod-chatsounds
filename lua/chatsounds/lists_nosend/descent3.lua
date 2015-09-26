@@ -1,18 +1,18 @@
 c.StartList("descent3")
+L["acceleration tube"]={{path="chatsounds/autoadd/descent3/acceleration tube.ogg",length=14.072471655328798}}
 L["acceleration tube begin"]={{path="chatsounds/autoadd/descent3/acceleration tube begin.ogg",length=5.6420861678004535}}
 L["acceleration tube loop"]={{path="chatsounds/autoadd/descent3/acceleration tube loop/levsecaccelloopb.ogg",length=0.83011337868480728},{path="chatsounds/autoadd/descent3/acceleration tube loop/levsecaccelloopc.ogg",length=0.83011337868480728},{path="chatsounds/autoadd/descent3/acceleration tube loop/levsecaccelloopd.ogg",length=0.83006802721088435},{path="chatsounds/autoadd/descent3/acceleration tube loop/levsecaccelloope.ogg",length=0.83011337868480728},{path="chatsounds/autoadd/descent3/acceleration tube loop/levsecaccelloopf.ogg",length=0.83011337868480728}}
 L["acceleration tube release"]={{path="chatsounds/autoadd/descent3/acceleration tube release.ogg",length=4.961904761904762}}
-L["acceleration tube"]={{path="chatsounds/autoadd/descent3/acceleration tube.ogg",length=14.072471655328798}}
-L["afterburner stop"]={{path="chatsounds/autoadd/descent3/afterburner stop.ogg",length=1.8440816326530611}}
 L["afterburner"]={{path="chatsounds/autoadd/descent3/afterburner.ogg",length=4.4350566893424039}}
+L["afterburner stop"]={{path="chatsounds/autoadd/descent3/afterburner stop.ogg",length=1.8440816326530611}}
 L["ambplasma2"]={{path="chatsounds/autoadd/descent3/ambplasma2.ogg",length=1.9969614512471656}}
 L["barn alert"]={{path="chatsounds/autoadd/descent3/barn alert.ogg",length=1.3295238095238096}}
 L["barn idle"]={{path="chatsounds/autoadd/descent3/barn idle.ogg",length=0.99995464852607707}}
 L["base laser"]={{path="chatsounds/autoadd/descent3/base laser.ogg",length=3.3140589569160999}}
 L["beep"]={{path="chatsounds/autoadd/descent3/beep.ogg",length=0.24752834467120183}}
 L["bell"]={{path="chatsounds/autoadd/descent3/bell.ogg",length=2.3741043083900228}}
-L["black shark explode"]={{path="chatsounds/autoadd/descent3/black shark explode.ogg",length=5.9443083900226759}}
 L["black shark"]={{path="chatsounds/autoadd/descent3/black shark.ogg",length=0.96793650793650798}}
+L["black shark explode"]={{path="chatsounds/autoadd/descent3/black shark explode.ogg",length=5.9443083900226759}}
 L["bullet hit"]={{path="chatsounds/autoadd/descent3/bullet hit.ogg",length=0.6281179138321995}}
 L["burn"]={{path="chatsounds/autoadd/descent3/burn.ogg",length=0.9229931972789116}}
 L["change countermeasure"]={{path="chatsounds/autoadd/descent3/change countermeasure.ogg",length=1.4889342403628119}}
@@ -41,13 +41,13 @@ L["dragon breath"]={{path="chatsounds/autoadd/descent3/dragon breath.ogg",length
 L["dragon tail"]={{path="chatsounds/autoadd/descent3/dragon tail.ogg",length=1.8073469387755101}}
 L["drain"]={{path="chatsounds/autoadd/descent3/drain.ogg",length=0.74022675736961452}}
 L["draw"]={{path="chatsounds/autoadd/descent3/draw.ogg",length=0.92712018140589569}}
-L["drop bomb"]={{path="chatsounds/autoadd/descent3/drop bomb.ogg",length=0.79682539682539677}}
 L["drop"]={{path="chatsounds/autoadd/descent3/drop.ogg",length=1.0943310657596372}}
+L["drop bomb"]={{path="chatsounds/autoadd/descent3/drop bomb.ogg",length=0.79682539682539677}}
 L["earthshaker"]={{path="chatsounds/autoadd/descent3/earthshaker.ogg",length=1.7909297052154196}}
+L["emd"]={{path="chatsounds/autoadd/descent3/emd.ogg",length=0.995328798185941}}
 L["emd hit"]={{path="chatsounds/autoadd/descent3/emd hit.ogg",length=1.9938321995464852}}
 L["emd spin down"]={{path="chatsounds/autoadd/descent3/emd spin down.ogg",length=1.7312018140589569}}
 L["emd spin up"]={{path="chatsounds/autoadd/descent3/emd spin up.ogg",length=1.4323809523809523}}
-L["emd"]={{path="chatsounds/autoadd/descent3/emd.ogg",length=0.995328798185941}}
 L["energy to shield"]={{path="chatsounds/autoadd/descent3/energy to shield.ogg",length=1.129297052154195}}
 L["envdatabeep"]={{path="chatsounds/autoadd/descent3/envdatabeep.ogg",length=0.10013605442176871}}
 L["envdatabeepb"]={{path="chatsounds/autoadd/descent3/envdatabeepb.ogg",length=0.082131519274376411}}
@@ -57,14 +57,14 @@ L["envdatawhira"]={{path="chatsounds/autoadd/descent3/envdatawhira.ogg",length=0
 L["explode"]={{path="chatsounds/autoadd/descent3/explode/defaultbuildingexplodeb.ogg",length=2.8704308390022675},{path="chatsounds/autoadd/descent3/explode/defaultrobotexplode1b.ogg",length=1.4896598639455783},{path="chatsounds/autoadd/descent3/explode/defaultrobotexplode2b.ogg",length=2.6131519274376416},{path="chatsounds/autoadd/descent3/explode/explode1.ogg",length=1.3236281179138323}}
 L["extra life"]={{path="chatsounds/autoadd/descent3/extra life.ogg",length=3.1696145124716555}}
 L["fade"]={{path="chatsounds/autoadd/descent3/fade.ogg",length=0.71700680272108841}}
-L["flare hit"]={{path="chatsounds/autoadd/descent3/flare hit.ogg",length=0.30258503401360543}}
 L["flare"]={{path="chatsounds/autoadd/descent3/flare.ogg",length=1.1376870748299319}}
+L["flare hit"]={{path="chatsounds/autoadd/descent3/flare hit.ogg",length=0.30258503401360543}}
 L["forcefield"]={{path="chatsounds/autoadd/descent3/forcefield.ogg",length=1.0886167800453515}}
-L["frag explode"]={{path="chatsounds/autoadd/descent3/frag explode.ogg",length=2.9590929705215419}}
 L["frag"]={{path="chatsounds/autoadd/descent3/frag.ogg",length=1.7923809523809524}}
+L["frag explode"]={{path="chatsounds/autoadd/descent3/frag explode.ogg",length=2.9590929705215419}}
 L["freeze"]={{path="chatsounds/autoadd/descent3/freeze.ogg",length=0.64698412698412699}}
-L["fusion charge"]={{path="chatsounds/autoadd/descent3/fusion charge.ogg",length=2.3555555555555556}}
 L["fusion"]={{path="chatsounds/autoadd/descent3/fusion.ogg",length=1.1407256235827665}}
+L["fusion charge"]={{path="chatsounds/autoadd/descent3/fusion charge.ogg",length=2.3555555555555556}}
 L["gadget alert"]={{path="chatsounds/autoadd/descent3/gadget alert.ogg",length=0.45428571428571429}}
 L["gadget idle"]={{path="chatsounds/autoadd/descent3/gadget idle.ogg",length=2.0298866213151929}}
 L["gadget repair"]={{path="chatsounds/autoadd/descent3/gadget repair/gadget repair.ogg",length=2.9804081632653063},{path="chatsounds/autoadd/descent3/gadget repair/gadget repair2.ogg",length=3.9150113378684805}}
@@ -112,10 +112,10 @@ L["hit by fire"]={{path="chatsounds/autoadd/descent3/hit by fire.ogg",length=3.1
 L["hit by matter"]={{path="chatsounds/autoadd/descent3/hit by matter.ogg",length=1.0013605442176872}}
 L["hit lava"]={{path="chatsounds/autoadd/descent3/hit lava.ogg",length=2.0085260770975055}}
 L["hit water"]={{path="chatsounds/autoadd/descent3/hit water.ogg",length=2.3298866213151928}}
+L["homing"]={{path="chatsounds/autoadd/descent3/homing.ogg",length=1.4756916099773243}}
 L["homing explode"]={{path="chatsounds/autoadd/descent3/homing explode.ogg",length=2.29297052154195}}
 L["homing turret fire"]={{path="chatsounds/autoadd/descent3/homing turret fire.ogg",length=3.9938321995464854}}
 L["homing turret idle"]={{path="chatsounds/autoadd/descent3/homing turret idle.ogg",length=1.4828117913832199}}
-L["homing"]={{path="chatsounds/autoadd/descent3/homing.ogg",length=1.4756916099773243}}
 L["homonculus alert"]={{path="chatsounds/autoadd/descent3/homonculus alert.ogg",length=3.4973242630385486}}
 L["homonculus death"]={{path="chatsounds/autoadd/descent3/homonculus death.ogg",length=18.271065759637189}}
 L["homonculus engine"]={{path="chatsounds/autoadd/descent3/homonculus engine.ogg",length=3.0000453514739229}}
@@ -129,17 +129,17 @@ L["hyper orb"]={{path="chatsounds/autoadd/descent3/hyper orb.ogg",length=0.97201
 L["invulnerability on"]={{path="chatsounds/autoadd/descent3/invulnerability on.ogg",length=1.5819501133786849}}
 L["invulverability off"]={{path="chatsounds/autoadd/descent3/invulverability off.ogg",length=1.3062131519274376}}
 L["juggernaut stomp"]={{path="chatsounds/autoadd/descent3/juggernaut stomp.ogg",length=2.8560544217687074}}
+L["laser"]={{path="chatsounds/autoadd/descent3/laser.ogg",length=0.5717913832199546}}
 L["laser level 1"]={{path="chatsounds/autoadd/descent3/laser level 1.ogg",length=0.33115646258503401}}
 L["laser level 2"]={{path="chatsounds/autoadd/descent3/laser level 2.ogg",length=0.47609977324263036}}
 L["laser level 3"]={{path="chatsounds/autoadd/descent3/laser level 3.ogg",length=0.52462585034013609}}
 L["laser level 5"]={{path="chatsounds/autoadd/descent3/laser level 5.ogg",length=0.71120181405895688}}
 L["laser level 6"]={{path="chatsounds/autoadd/descent3/laser level 6.ogg",length=0.64154195011337867}}
-L["laser"]={{path="chatsounds/autoadd/descent3/laser.ogg",length=0.5717913832199546}}
 L["launcher"]={{path="chatsounds/autoadd/descent3/launcher.ogg",length=1.5005442176870749}}
 L["lock"]={{path="chatsounds/autoadd/descent3/lock.ogg",length=0.40643990929705215}}
 L["manta idle"]={{path="chatsounds/autoadd/descent3/manta idle.ogg",length=1.0012244897959184}}
-L["mass driver zoom"]={{path="chatsounds/autoadd/descent3/mass driver zoom.ogg",length=1.0797278911564625}}
 L["mass driver"]={{path="chatsounds/autoadd/descent3/mass driver.ogg",length=2.2175056689342405}}
+L["mass driver zoom"]={{path="chatsounds/autoadd/descent3/mass driver zoom.ogg",length=1.0797278911564625}}
 L["matcen start"]={{path="chatsounds/autoadd/descent3/matcen start.ogg",length=12.08390022675737}}
 L["matcen zap"]={{path="chatsounds/autoadd/descent3/matcen zap.ogg",length=2.0056689342403629}}
 L["mega explode"]={{path="chatsounds/autoadd/descent3/mega explode.ogg",length=1.7424943310657597}}
@@ -147,29 +147,29 @@ L["menu highlight"]={{path="chatsounds/autoadd/descent3/menu highlight.ogg",leng
 L["menu select"]={{path="chatsounds/autoadd/descent3/menu select.ogg",length=0.10526077097505669}}
 L["mercury"]={{path="chatsounds/autoadd/descent3/mercury.ogg",length=1.0943310657596372}}
 L["message"]={{path="chatsounds/autoadd/descent3/message.ogg",length=0.44453514739229028}}
-L["microwave hit"]={{path="chatsounds/autoadd/descent3/microwave hit.ogg",length=0.66757369614512474}}
 L["microwave"]={{path="chatsounds/autoadd/descent3/microwave.ogg",length=0.32507936507936508}}
+L["microwave hit"]={{path="chatsounds/autoadd/descent3/microwave hit.ogg",length=0.66757369614512474}}
 L["minitank vauss"]={{path="chatsounds/autoadd/descent3/minitank vauss.ogg",length=0.78217687074829934}}
 L["missile explode"]={{path="chatsounds/autoadd/descent3/missile explode/missile explode.ogg",length=4.9806802721088435},{path="chatsounds/autoadd/descent3/missile explode/missile explode2.ogg",length=2.3452154195011339}}
-L["missile fire medium"]={{path="chatsounds/autoadd/descent3/missile fire medium.ogg",length=1.4222222222222223}}
 L["missile fire"]={{path="chatsounds/autoadd/descent3/missile fire.ogg",length=0.6361904761904762}}
+L["missile fire medium"]={{path="chatsounds/autoadd/descent3/missile fire medium.ogg",length=1.4222222222222223}}
 L["monitor off"]={{path="chatsounds/autoadd/descent3/monitor off.ogg",length=0.92888888888888888}}
 L["monitor shatter"]={{path="chatsounds/autoadd/descent3/monitor shatter.ogg",length=2.0026303854875285}}
+L["napalm"]={{path="chatsounds/autoadd/descent3/napalm.ogg",length=1.9411337868480725}}
 L["napalm explosion"]={{path="chatsounds/autoadd/descent3/napalm explosion.ogg",length=2.8055782312925168}}
 L["napalm hit"]={{path="chatsounds/autoadd/descent3/napalm hit.ogg",length=0.99845804988662135}}
-L["napalm rocket explode"]={{path="chatsounds/autoadd/descent3/napalm rocket explode.ogg",length=3.0004988662131518}}
 L["napalm rocket"]={{path="chatsounds/autoadd/descent3/napalm rocket.ogg",length=1.0205442176870749}}
-L["napalm"]={{path="chatsounds/autoadd/descent3/napalm.ogg",length=1.9411337868480725}}
+L["napalm rocket explode"]={{path="chatsounds/autoadd/descent3/napalm rocket explode.ogg",length=3.0004988662131518}}
 L["nomad death"]={{path="chatsounds/autoadd/descent3/nomad death.ogg",length=1.9152380952380952}}
 L["nomad skiff"]={{path="chatsounds/autoadd/descent3/nomad skiff.ogg",length=1.3140136054421769}}
-L["nomad ufo move"]={{path="chatsounds/autoadd/descent3/nomad ufo move.ogg",length=1.0027210884353741}}
 L["nomad ufo"]={{path="chatsounds/autoadd/descent3/nomad ufo.ogg",length=0.5975056689342404}}
+L["nomad ufo move"]={{path="chatsounds/autoadd/descent3/nomad ufo move.ogg",length=1.0027210884353741}}
 L["old scratch exhale"]={{path="chatsounds/autoadd/descent3/old scratch exhale.ogg",length=3.5000453514739229}}
 L["old scratch idle"]={{path="chatsounds/autoadd/descent3/old scratch idle.ogg",length=1.7451247165532879}}
 L["old scratch melee"]={{path="chatsounds/autoadd/descent3/old scratch melee.ogg",length=1.4864399092970522}}
 L["old scratch recoil"]={{path="chatsounds/autoadd/descent3/old scratch recoil.ogg",length=0.49986394557823127}}
-L["omega release"]={{path="chatsounds/autoadd/descent3/omega release.ogg",length=0.41863945578231293}}
 L["omega"]={{path="chatsounds/autoadd/descent3/omega.ogg",length=1.9206802721088436}}
+L["omega release"]={{path="chatsounds/autoadd/descent3/omega release.ogg",length=0.41863945578231293}}
 L["open cockpit"]={{path="chatsounds/autoadd/descent3/open cockpit.ogg",length=2.5309297052154194}}
 L["orbot alert"]={{path="chatsounds/autoadd/descent3/orbot alert.ogg",length=1.0100680272108844}}
 L["orbot attack"]={{path="chatsounds/autoadd/descent3/orbot attack.ogg",length=0.57428571428571429}}
@@ -186,8 +186,8 @@ L["pest death"]={{path="chatsounds/autoadd/descent3/pest death.ogg",length=4.038
 L["pest foot"]={{path="chatsounds/autoadd/descent3/pest foot/rbtpestfoot1.ogg",length=0.50117913832199545},{path="chatsounds/autoadd/descent3/pest foot/rbtpestfoot2.ogg",length=0.5063038548752834},{path="chatsounds/autoadd/descent3/pest foot/rbtpestfoot3.ogg",length=0.50321995464852609}}
 L["pest idle"]={{path="chatsounds/autoadd/descent3/pest idle.ogg",length=0.73056689342403625}}
 L["pest laser"]={{path="chatsounds/autoadd/descent3/pest laser.ogg",length=0.6034467120181406}}
-L["plasma hit"]={{path="chatsounds/autoadd/descent3/plasma hit.ogg",length=0.80399092970521546}}
 L["plasma"]={{path="chatsounds/autoadd/descent3/plasma.ogg",length=0.80399092970521546}}
+L["plasma hit"]={{path="chatsounds/autoadd/descent3/plasma hit.ogg",length=0.80399092970521546}}
 L["player killed"]={{path="chatsounds/autoadd/descent3/player killed.ogg",length=0.69959183673469383}}
 L["police chatter"]={{path="chatsounds/autoadd/descent3/police chatter/policechatter1.ogg",length=1.2100226757369614},{path="chatsounds/autoadd/descent3/police chatter/policechatter2.ogg",length=1.8654421768707483},{path="chatsounds/autoadd/descent3/police chatter/policechatter3.ogg",length=1.3402721088435374},{path="chatsounds/autoadd/descent3/police chatter/policechatter4.ogg",length=1.7997732426303854}}
 L["powerup"]={{path="chatsounds/autoadd/descent3/powerup.ogg",length=0.68884353741496596}}
@@ -205,8 +205,8 @@ L["repeater vauss"]={{path="chatsounds/autoadd/descent3/repeater vauss.ogg",leng
 L["robot engine"]={{path="chatsounds/autoadd/descent3/robot engine/highengine.ogg",length=0.99854875283446709},{path="chatsounds/autoadd/descent3/robot engine/lowengine.ogg",length=0.99854875283446709}}
 L["robot gun"]={{path="chatsounds/autoadd/descent3/robot gun.ogg",length=0.67410430839002267}}
 L["robot napalm"]={{path="chatsounds/autoadd/descent3/robot napalm.ogg",length=1.6252607709750566}}
-L["robot plasma hit"]={{path="chatsounds/autoadd/descent3/robot plasma hit.ogg",length=0.65451247165532878}}
 L["robot plasma"]={{path="chatsounds/autoadd/descent3/robot plasma.ogg",length=0.57487528344671202}}
+L["robot plasma hit"]={{path="chatsounds/autoadd/descent3/robot plasma hit.ogg",length=0.65451247165532878}}
 L["robot vauss"]={{path="chatsounds/autoadd/descent3/robot vauss.ogg",length=0.29850340136054421}}
 L["sawbot alert"]={{path="chatsounds/autoadd/descent3/sawbot alert.ogg",length=6.5583219954648522}}
 L["sawbot attack"]={{path="chatsounds/autoadd/descent3/sawbot attack/sawbot attack.ogg",length=1.4636281179138322},{path="chatsounds/autoadd/descent3/sawbot attack/sawbot attack2.ogg",length=1.727845804988662}}
@@ -229,12 +229,12 @@ L["ship thrust"]={{path="chatsounds/autoadd/descent3/ship thrust.ogg",length=2.5
 L["sickle alert"]={{path="chatsounds/autoadd/descent3/sickle alert.ogg",length=0.99342403628117915}}
 L["sickle melee"]={{path="chatsounds/autoadd/descent3/sickle melee.ogg",length=1.1167346938775511}}
 L["sickle transform"]={{path="chatsounds/autoadd/descent3/sickle transform.ogg",length=0.94263038548752831}}
-L["siren alert"]={{path="chatsounds/autoadd/descent3/siren alert.ogg",length=1.0023582766439909}}
 L["siren"]={{path="chatsounds/autoadd/descent3/siren.ogg",length=0.64734693877551019}}
+L["siren alert"]={{path="chatsounds/autoadd/descent3/siren alert.ogg",length=1.0023582766439909}}
 L["sixgun gun twirl"]={{path="chatsounds/autoadd/descent3/sixgun gun twirl.ogg",length=1.7449886621315194}}
 L["sixgun shoot"]={{path="chatsounds/autoadd/descent3/sixgun shoot.ogg",length=1.3170975056689342}}
-L["smart explode"]={{path="chatsounds/autoadd/descent3/smart explode.ogg",length=3.0534240362811791}}
 L["smart"]={{path="chatsounds/autoadd/descent3/smart.ogg",length=1.1784126984126984}}
+L["smart explode"]={{path="chatsounds/autoadd/descent3/smart explode.ogg",length=3.0534240362811791}}
 L["sparky alert"]={{path="chatsounds/autoadd/descent3/sparky alert.ogg",length=1.7996825396825398}}
 L["sparky melee"]={{path="chatsounds/autoadd/descent3/sparky melee/rbtsparkymelee1.ogg",length=2.4994104308390024},{path="chatsounds/autoadd/descent3/sparky melee/rbtsparkymelee2.ogg",length=1.1566439909297053}}
 L["sparky recoil"]={{path="chatsounds/autoadd/descent3/sparky recoil.ogg",length=1.5041269841269842}}
@@ -283,8 +283,8 @@ L["thresher recoil"]={{path="chatsounds/autoadd/descent3/thresher recoil.ogg",le
 L["tubbs alert"]={{path="chatsounds/autoadd/descent3/tubbs alert.ogg",length=1.3792743764172335}}
 L["tubbs melee"]={{path="chatsounds/autoadd/descent3/tubbs melee.ogg",length=0.76625850340136059}}
 L["turret laser"]={{path="chatsounds/autoadd/descent3/turret laser/laserahitb.ogg",length=0.99990929705215414},{path="chatsounds/autoadd/descent3/turret laser/laserblued.ogg",length=1.7297505668934241}}
+L["vauss"]={{path="chatsounds/autoadd/descent3/vauss.ogg",length=0.85791383219954653}}
 L["vauss release"]={{path="chatsounds/autoadd/descent3/vauss release.ogg",length=0.9940589569160998}}
 L["vauss ricochet"]={{path="chatsounds/autoadd/descent3/vauss ricochet/wpnvausehitrica.ogg",length=1.9083446712018142},{path="chatsounds/autoadd/descent3/vauss ricochet/wpnvausehitricb.ogg",length=1.9927891156462585}}
-L["vauss"]={{path="chatsounds/autoadd/descent3/vauss.ogg",length=0.85791383219954653}}
 L["wall of fire"]={{path="chatsounds/autoadd/descent3/wall of fire.ogg",length=2.635827664399093}}
 c.EndList()

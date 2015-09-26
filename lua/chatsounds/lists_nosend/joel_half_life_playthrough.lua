@@ -31,8 +31,8 @@ L["its so lonely"]={{path="chatsounds/autoadd/joel_half_life_playthrough/its so 
 L["its time"]={{path="chatsounds/autoadd/joel_half_life_playthrough/its time.ogg",length=0.72614512471655324}}
 L["joelnoise"]={{path="chatsounds/autoadd/joel_half_life_playthrough/joelnoise/1.ogg",length=0.40253968253968253},{path="chatsounds/autoadd/joel_half_life_playthrough/joelnoise/2.ogg",length=0.27022675736961449},{path="chatsounds/autoadd/joel_half_life_playthrough/joelnoise/3.ogg",length=0.23006802721088435},{path="chatsounds/autoadd/joel_half_life_playthrough/joelnoise/4.ogg",length=0.77197278911564626}}
 L["just stop"]={{path="chatsounds/autoadd/joel_half_life_playthrough/just stop.ogg",length=1.1104761904761904}}
-L["kill god damnit"]={{path="chatsounds/autoadd/joel_half_life_playthrough/kill god damnit.ogg",length=1.095283446712018}}
 L["kill"]={{path="chatsounds/autoadd/joel_half_life_playthrough/kill.ogg",length=0.63811791383219951}}
+L["kill god damnit"]={{path="chatsounds/autoadd/joel_half_life_playthrough/kill god damnit.ogg",length=1.095283446712018}}
 L["laser pipes"]={{path="chatsounds/autoadd/joel_half_life_playthrough/laser pipes/1.ogg",length=1.4349659863945579},{path="chatsounds/autoadd/joel_half_life_playthrough/laser pipes/2.ogg",length=1.6496598639455782}}
 L["lets out source it to some fucks"]={{path="chatsounds/autoadd/joel_half_life_playthrough/lets out source it to some fucks.ogg",length=2.0766893424036281}}
 L["listen to it"]={{path="chatsounds/autoadd/joel_half_life_playthrough/listen to it.ogg",length=0.65378684807256238}}
@@ -45,32 +45,32 @@ L["oh no"]={{path="chatsounds/autoadd/joel_half_life_playthrough/oh no.ogg",leng
 L["oh shit im gabe"]={{path="chatsounds/autoadd/joel_half_life_playthrough/oh shit im gabe.ogg",length=1.2121315192743765}}
 L["oh shit its a zombie oh no"]={{path="chatsounds/autoadd/joel_half_life_playthrough/oh shit its a zombie oh no.ogg",length=1.5638321995464852}}
 L["oh yeah i gotta have a cigar"]={{path="chatsounds/autoadd/joel_half_life_playthrough/oh yeah i gotta have a cigar.ogg",length=1.3862585034013606}}
-L["one file looping this"]={{path="chatsounds/autoadd/joel_half_life_playthrough/one file looping this.ogg",length=1.644829931972789}}
 L["one file looping"]={{path="chatsounds/autoadd/joel_half_life_playthrough/one file looping.ogg",length=1.1135374149659865}}
+L["one file looping this"]={{path="chatsounds/autoadd/joel_half_life_playthrough/one file looping this.ogg",length=1.644829931972789}}
 L["one thing that is missing is a little better nose little better nose"]={{path="chatsounds/autoadd/joel_half_life_playthrough/one thing that is missing is a little better nose little better nose.ogg",length=3.3962811791383221}}
 L["radical science"]={{path="chatsounds/autoadd/joel_half_life_playthrough/radical science.ogg",length=1.4213378684807256}}
 L["sexual release"]={{path="chatsounds/autoadd/joel_half_life_playthrough/sexual release.ogg",length=1.2365759637188209}}
 L["shoot"]={{path="chatsounds/autoadd/joel_half_life_playthrough/shoot.ogg",length=0.61113378684807251}}
-L["slap the booty 2"]={{path="chatsounds/autoadd/joel_half_life_playthrough/slap the booty 2.ogg",length=1.8260090702947847}}
 L["slap the booty"]={{path="chatsounds/autoadd/joel_half_life_playthrough/slap the booty.ogg",length=1.107641723356009}}
+L["slap the booty 2"]={{path="chatsounds/autoadd/joel_half_life_playthrough/slap the booty 2.ogg",length=1.8260090702947847}}
 L["stap"]={{path="chatsounds/autoadd/joel_half_life_playthrough/stap.ogg",length=0.48424036281179139}}
 L["stick it in me"]={{path="chatsounds/autoadd/joel_half_life_playthrough/stick it in me.ogg",length=0.69877551020408168}}
 L["stream faggot level"]={{path="chatsounds/autoadd/joel_half_life_playthrough/stream faggot level.ogg",length=1.4032653061224489}}
 L["thankssss"]={{path="chatsounds/autoadd/joel_half_life_playthrough/thankssss.ogg",length=1.3174149659863945}}
 L["thats racist"]={{path="chatsounds/autoadd/joel_half_life_playthrough/thats racist.ogg",length=1.085328798185941}}
 L["the fuck spot"]={{path="chatsounds/autoadd/joel_half_life_playthrough/the fuck spot.ogg",length=1.3617687074829932}}
-L["this game will give you alot of boners"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this game will give you alot of boners.ogg",length=2.2907482993197279}}
-L["this is no time for radical science"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this is no time for radical science.ogg",length=3.3798412698412696}}
-L["this is no time for"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this is no time for.ogg",length=1.4969387755102042}}
-L["this is what the vinesauce streaming headquarters looks like"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this is what the vinesauce streaming headquarters looks like.ogg",length=3.016077097505669}}
 L["this"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this.ogg",length=0.54192743764172335}}
+L["this game will give you alot of boners"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this game will give you alot of boners.ogg",length=2.2907482993197279}}
+L["this is no time for"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this is no time for.ogg",length=1.4969387755102042}}
+L["this is no time for radical science"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this is no time for radical science.ogg",length=3.3798412698412696}}
+L["this is what the vinesauce streaming headquarters looks like"]={{path="chatsounds/autoadd/joel_half_life_playthrough/this is what the vinesauce streaming headquarters looks like.ogg",length=3.016077097505669}}
 L["to slap the booty"]={{path="chatsounds/autoadd/joel_half_life_playthrough/to slap the booty.ogg",length=1.2218140589569162}}
 L["ugh"]={{path="chatsounds/autoadd/joel_half_life_playthrough/ugh.ogg",length=0.47995464852607711}}
 L["use gun"]={{path="chatsounds/autoadd/joel_half_life_playthrough/use gun.ogg",length=0.84052154195011342}}
 L["violence"]={{path="chatsounds/autoadd/joel_half_life_playthrough/violence/1.ogg",length=0.79575963718820864},{path="chatsounds/autoadd/joel_half_life_playthrough/violence/2.ogg",length=0.73582766439909297}}
 L["we gotta make dota five"]={{path="chatsounds/autoadd/joel_half_life_playthrough/we gotta make dota five.ogg",length=2.1516780045351473}}
-L["what is lacking from this image"]={{path="chatsounds/autoadd/joel_half_life_playthrough/what is lacking from this image.ogg",length=1.7843310657596372}}
 L["what"]={{path="chatsounds/autoadd/joel_half_life_playthrough/what.ogg",length=0.44537414965986394}}
+L["what is lacking from this image"]={{path="chatsounds/autoadd/joel_half_life_playthrough/what is lacking from this image.ogg",length=1.7843310657596372}}
 L["when you see a black man being a scientist you know half life is sci fi game"]={{path="chatsounds/autoadd/joel_half_life_playthrough/when you see a black man being a scientist you know half life is sci fi game.ogg",length=5.001972789115646}}
 L["why must life torment me so"]={{path="chatsounds/autoadd/joel_half_life_playthrough/why must life torment me so.ogg",length=1.5137414965986395}}
 L["yeah"]={{path="chatsounds/autoadd/joel_half_life_playthrough/yeah.ogg",length=0.54630385487528343}}

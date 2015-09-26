@@ -22,8 +22,8 @@ L["my plump juicy breasts are none of your goddamn business and youre one to tal
 L["nigga youre crazy i cant afford an xbox"]={{path="chatsounds/autoadd/Taggy/Nigga youre crazy I cant afford an Xbox.ogg",length=2.6733560090702948}}
 L["no wait come back"]={{path="chatsounds/autoadd/Taggy/No wait come back.ogg",length=1.6718367346938776}}
 L["off with their heads one for each head of cabbage"]={{path="chatsounds/autoadd/Taggy/Off with their heads one for each head of cabbage.ogg",length=3.05875283446712}}
-L["oh my cabbages"]={{path="chatsounds/autoadd/Taggy/Oh my cabbages.ogg",length=1.5885714285714285}}
 L["oh"]={{path="chatsounds/autoadd/Taggy/Oh.ogg",length=0.48612244897959184}}
+L["oh my cabbages"]={{path="chatsounds/autoadd/Taggy/Oh my cabbages.ogg",length=1.5885714285714285}}
 L["onicha"]={{path="chatsounds/autoadd/Taggy/Onicha.ogg",length=1.5729931972789115}}
 L["peace out"]={{path="chatsounds/autoadd/Taggy/Peace out.ogg",length=0.49582766439909298}}
 L["perfect"]={{path="chatsounds/autoadd/Taggy/Perfect.ogg",length=0.64124716553287986}}

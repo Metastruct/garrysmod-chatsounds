@@ -41,8 +41,8 @@ L["u criticize biowaru gaem ding dong bannu"]={{path="chatsounds/autoadd/stanry_
 L["u no rike grorious moddu ding dong bannu"]={{path="chatsounds/autoadd/stanry_roo/u no rike grorious moddu ding dong bannu.ogg",length=2.8666666666666667}}
 L["ur gay bik boy"]={{path="chatsounds/autoadd/stanry_roo/ur gay bik boy.ogg",length=13.121768707482993}}
 L["was it madness to build forum at bottom of ocean"]={{path="chatsounds/autoadd/stanry_roo/was it madness to build forum at bottom of ocean.ogg",length=3.0984807256235829}}
-L["we can ban if we want to but we will not this time"]={{path="chatsounds/autoadd/stanry_roo/we can ban if we want to but we will not this time.ogg",length=3.8749206349206351}}
 L["we can ban"]={{path="chatsounds/autoadd/stanry_roo/we can ban.ogg",length=2.1917006802721088}}
+L["we can ban if we want to but we will not this time"]={{path="chatsounds/autoadd/stanry_roo/we can ban if we want to but we will not this time.ogg",length=3.8749206349206351}}
 L["we can dance if we want to we can ding our friends behind"]={{path="chatsounds/autoadd/stanry_roo/we can dance if we want to we can ding our friends behind.ogg",length=4.1001587301587303}}
 L["wtf you say to me bik boy i fakin kill u"]={{path="chatsounds/autoadd/stanry_roo/wtf you say to me bik boy i fakin kill u.ogg",length=3.7616326530612243}}
 L["you get me on there i will ban them all every single one of them for life 4 lyf"]={{path="chatsounds/autoadd/stanry_roo/you get me on there i will ban them all every single one of them for life 4 lyf.ogg",length=6.8695691609977327}}

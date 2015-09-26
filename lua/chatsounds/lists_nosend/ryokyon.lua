@@ -20,8 +20,8 @@ L["confused"]={{path="chatsounds/autoadd/ryokyon/confused.ogg",length=1.57700680
 L["crabpeople"]={{path="chatsounds/autoadd/ryokyon/crabpeople.ogg",length=2.7739909297052154}}
 L["creepers"]={{path="chatsounds/autoadd/ryokyon/creepers.ogg",length=1.1819954648526076}}
 L["crraab"]={{path="chatsounds/autoadd/ryokyon/crraab.ogg",length=1.2290022675736962}}
-L["dante nooo"]={{path="chatsounds/autoadd/ryokyon/dante nooo.ogg",length=1.1949886621315193}}
 L["dante"]={{path="chatsounds/autoadd/ryokyon/dante.ogg",length=0.45451247165532882}}
+L["dante nooo"]={{path="chatsounds/autoadd/ryokyon/dante nooo.ogg",length=1.1949886621315193}}
 L["desecated squirrel semen"]={{path="chatsounds/autoadd/ryokyon/desecated squirrel semen.ogg",length=1.5309977324263038}}
 L["doc"]={{path="chatsounds/autoadd/ryokyon/Doc.ogg",length=0.39501133786848075}}
 L["doctor list"]={{path="chatsounds/autoadd/ryokyon/Doctor list.ogg",length=6.1648072562358278}}
@@ -37,13 +37,13 @@ L["filthy claw"]={{path="chatsounds/autoadd/ryokyon/filthy claw.ogg",length=2.67
 L["fly away now"]={{path="chatsounds/autoadd/ryokyon/fly away now.ogg",length=14.85}}
 L["frightened"]={{path="chatsounds/autoadd/ryokyon/frightened.ogg",length=1.0070068027210883}}
 L["fuck the media"]={{path="chatsounds/autoadd/ryokyon/Fuck the media.ogg",length=1.4818594104308389}}
-L["fuck you fred"]={{path="chatsounds/autoadd/ryokyon/fuck you fred.ogg",length=1.0029931972789117}}
 L["fuck you"]={{path="chatsounds/autoadd/ryokyon/fuck you.ogg",length=0.8372562358276644}}
+L["fuck you fred"]={{path="chatsounds/autoadd/ryokyon/fuck you fred.ogg",length=1.0029931972789117}}
 L["game over"]={{path="chatsounds/autoadd/ryokyon/game over.ogg",length=1.0525623582766439}}
 L["geronimo"]={{path="chatsounds/autoadd/ryokyon/Geronimo.ogg",length=2.9560090702947845}}
 L["get him pissed"]={{path="chatsounds/autoadd/ryokyon/get him pissed.ogg",length=2.6313832199546487}}
-L["good stuff"]={{path="chatsounds/autoadd/ryokyon/good stuff.ogg",length=0.49637188208616778}}
 L["good"]={{path="chatsounds/autoadd/ryokyon/good.ogg",length=0.87501133786848073}}
+L["good stuff"]={{path="chatsounds/autoadd/ryokyon/good stuff.ogg",length=0.49637188208616778}}
 L["group hypnosis"]={{path="chatsounds/autoadd/ryokyon/group hypnosis.ogg",length=1.02}}
 L["gut all dey organ"]={{path="chatsounds/autoadd/ryokyon/gut all dey organ.ogg",length=1.7717913832199546}}
 L["hahahaha what"]={{path="chatsounds/autoadd/ryokyon/Hahahaha What.ogg",length=3.6048072562358278}}
@@ -55,8 +55,8 @@ L["hey boi you want a job"]={{path="chatsounds/autoadd/ryokyon/hey boi you want 
 L["i am spiders now"]={{path="chatsounds/autoadd/ryokyon/i am spiders now.ogg",length=2.0909977324263038}}
 L["i dont fucking care"]={{path="chatsounds/autoadd/ryokyon/i dont fucking care.ogg",length=1.5219954648526077}}
 L["i got a bigger dick"]={{path="chatsounds/autoadd/ryokyon/i got a bigger dick.ogg",length=1.243922902494331}}
-L["i m meen never quits"]={{path="chatsounds/autoadd/ryokyon/i m meen never quits.ogg",length=8.393673469387755}}
 L["i m meen"]={{path="chatsounds/autoadd/ryokyon/i m meen.ogg",length=1.8029931972789115}}
+L["i m meen never quits"]={{path="chatsounds/autoadd/ryokyon/i m meen never quits.ogg",length=8.393673469387755}}
 L["i think we may have a mystery"]={{path="chatsounds/autoadd/ryokyon/i think we may have a mystery.ogg",length=2.8650113378684807}}
 L["i wear a fez now"]={{path="chatsounds/autoadd/ryokyon/I wear a fez now.ogg",length=3.1868480725623582}}
 L["ill be back"]={{path="chatsounds/autoadd/ryokyon/ill be back.ogg",length=1.8820181405895691}}
@@ -122,8 +122,8 @@ L["what a load of bullshit"]={{path="chatsounds/autoadd/ryokyon/what a load of b
 L["what in the shitting hell"]={{path="chatsounds/autoadd/ryokyon/what in the shitting hell.ogg",length=3.0619727891156461}}
 L["what makes you think i give a shit"]={{path="chatsounds/autoadd/ryokyon/what makes you think I give a shit.ogg",length=1.4353061224489796}}
 L["whats the matter smartie"]={{path="chatsounds/autoadd/ryokyon/whats the matter smartie.ogg",length=2.7570068027210883}}
-L["who the fuck are yoooou"]={{path="chatsounds/autoadd/ryokyon/who the fuck are yoooou.ogg",length=7.9420181405895693}}
 L["who"]={{path="chatsounds/autoadd/ryokyon/Who.ogg",length=1.0610430839002267}}
+L["who the fuck are yoooou"]={{path="chatsounds/autoadd/ryokyon/who the fuck are yoooou.ogg",length=7.9420181405895693}}
 L["whos that secret bitch"]={{path="chatsounds/autoadd/ryokyon/whos that secret bitch.ogg",length=4.3150113378684809}}
 L["wretched child"]={{path="chatsounds/autoadd/ryokyon/wretched child.ogg",length=1.7359863945578231}}
 L["wuh ya say"]={{path="chatsounds/autoadd/ryokyon/wuh ya say.ogg",length=1.2241496598639456}}

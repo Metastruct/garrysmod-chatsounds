@@ -18,8 +18,8 @@ L["in 1975"]={{path="chatsounds/autoadd/trumpetfight/in 1975.ogg",length=1.72532
 L["maybe me and everyone wants to enjoy the peace and quiet"]={{path="chatsounds/autoadd/trumpetfight/maybe me and everyone wants to enjoy the peace and quiet.ogg",length=2.5001360544217688}}
 L["mediocre piece of shit"]={{path="chatsounds/autoadd/trumpetfight/mediocre piece of shit.ogg",length=1.5287755102040816}}
 L["never"]={{path="chatsounds/autoadd/trumpetfight/never.ogg",length=0.65519274376417236}}
-L["no talent"]={{path="chatsounds/autoadd/trumpetfight/no talent/no talent Copy.ogg",length=0.86523809523809525},{path="chatsounds/autoadd/trumpetfight/no talent/no talent.ogg",length=0.8517460317460317}}
 L["no"]={{path="chatsounds/autoadd/trumpetfight/no.ogg",length=0.57873015873015876}}
+L["no talent"]={{path="chatsounds/autoadd/trumpetfight/no talent/no talent Copy.ogg",length=0.86523809523809525},{path="chatsounds/autoadd/trumpetfight/no talent/no talent.ogg",length=0.8517460317460317}}
 L["okeyy"]={{path="chatsounds/autoadd/trumpetfight/okeyy.ogg",length=0.61149659863945582}}
 L["or any other form of creativity"]={{path="chatsounds/autoadd/trumpetfight/or any other form of creativity.ogg",length=1.6424036281179137}}
 L["quiet"]={{path="chatsounds/autoadd/trumpetfight/quiet.ogg",length=0.53333333333333333}}

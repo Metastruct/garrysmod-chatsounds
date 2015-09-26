@@ -4,11 +4,11 @@ L["alien attack neutralised"]={{path="chatsounds/autoadd/incoming/alien attack n
 L["alien down"]={{path="chatsounds/autoadd/incoming/alien down/f_alien down!.ogg",length=0.80371882086167801},{path="chatsounds/autoadd/incoming/alien down/m_alien down!.ogg",length=1.1006349206349206}}
 L["alien installation destroyed"]={{path="chatsounds/autoadd/incoming/alien installation destroyed.ogg",length=1.7844444444444445}}
 L["alien unit destroyed"]={{path="chatsounds/autoadd/incoming/alien unit destroyed.ogg",length=1.432063492063492}}
+L["aliens detected"]={{path="chatsounds/autoadd/incoming/aliens detected.ogg",length=1.0020861678004536}}
 L["aliens detected east"]={{path="chatsounds/autoadd/incoming/aliens detected east.ogg",length=1.3958730158730159}}
 L["aliens detected north"]={{path="chatsounds/autoadd/incoming/aliens detected north.ogg",length=1.3556009070294786}}
 L["aliens detected south"]={{path="chatsounds/autoadd/incoming/aliens detected south.ogg",length=1.3415419501133787}}
 L["aliens detected west"]={{path="chatsounds/autoadd/incoming/aliens detected west.ogg",length=1.4520634920634921}}
-L["aliens detected"]={{path="chatsounds/autoadd/incoming/aliens detected.ogg",length=1.0020861678004536}}
 L["allied base under attack"]={{path="chatsounds/autoadd/incoming/allied base under attack.ogg",length=1.7317913832199547}}
 L["allied installation destroyed"]={{path="chatsounds/autoadd/incoming/allied installation destroyed.ogg",length=1.8169614512471655}}
 L["allied installation taking damage"]={{path="chatsounds/autoadd/incoming/allied installation taking damage.ogg",length=1.6057142857142856}}
@@ -51,9 +51,10 @@ L["extinguish fire"]={{path="chatsounds/autoadd/incoming/extinguish fire.ogg",le
 L["fire at will"]={{path="chatsounds/autoadd/incoming/fire at will.ogg",length=1.0928344671201815}}
 L["follow waypoint marker"]={{path="chatsounds/autoadd/incoming/follow waypoint marker.ogg",length=1.4428117913832199}}
 L["get in there and fight"]={{path="chatsounds/autoadd/incoming/get in there and fight.ogg",length=1.6689795918367347}}
-L["help us out here"]={{path="chatsounds/autoadd/incoming/help us out here/f_help us out here.ogg",length=0.83882086167800451},{path="chatsounds/autoadd/incoming/help us out here/m_help us out here.ogg",length=0.91233560090702948}}
 L["help us out"]={{path="chatsounds/autoadd/incoming/help us out.ogg",length=0.70707482993197279}}
+L["help us out here"]={{path="chatsounds/autoadd/incoming/help us out here/f_help us out here.ogg",length=0.83882086167800451},{path="chatsounds/autoadd/incoming/help us out here/m_help us out here.ogg",length=0.91233560090702948}}
 L["human player destroyed"]={{path="chatsounds/autoadd/incoming/human player destroyed.ogg",length=2.0316553287981858}}
+L["incoming"]={{path="chatsounds/autoadd/incoming/incoming.ogg",length=0.65238095238095239}}
 L["incoming alien bomber"]={{path="chatsounds/autoadd/incoming/incoming alien bomber.ogg",length=1.3009070294784582}}
 L["incoming alien craft"]={{path="chatsounds/autoadd/incoming/incoming alien craft.ogg",length=1.2344671201814059}}
 L["incoming alien fighters"]={{path="chatsounds/autoadd/incoming/incoming alien fighters.ogg",length=1.2640362811791384}}
@@ -64,7 +65,6 @@ L["incoming aliens"]={{path="chatsounds/autoadd/incoming/incoming aliens.ogg",le
 L["incoming fire"]={{path="chatsounds/autoadd/incoming/incoming fire.ogg",length=0.94929705215419502}}
 L["incoming icebergs"]={{path="chatsounds/autoadd/incoming/incoming icebergs.ogg",length=1.0348299319727892}}
 L["incoming orders"]={{path="chatsounds/autoadd/incoming/incoming orders.ogg",length=0.84217687074829928}}
-L["incoming"]={{path="chatsounds/autoadd/incoming/incoming.ogg",length=0.65238095238095239}}
 L["invulnerability"]={{path="chatsounds/autoadd/incoming/invulnerability.ogg",length=1.2643537414965986}}
 L["lets do it"]={{path="chatsounds/autoadd/incoming/lets do it/f_lets do it!.ogg",length=0.78149659863945575},{path="chatsounds/autoadd/incoming/lets do it/m_lets do it!.ogg",length=0.63750566893424032}}
 L["lets jam"]={{path="chatsounds/autoadd/incoming/lets jam.ogg",length=1.0541043083900228}}

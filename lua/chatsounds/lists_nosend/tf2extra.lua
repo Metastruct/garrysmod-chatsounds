@@ -42,9 +42,9 @@ L["mrprprpm"]={{path="chatsounds/autoadd/tf2extra/mrprprpm.ogg",length=0.6530612
 L["no they dont"]={{path="chatsounds/autoadd/tf2extra/no they dont.ogg",length=0.56795918367346943}}
 L["noon"]={{path="chatsounds/autoadd/tf2extra/noon.ogg",length=0.54383219954648521}}
 L["now"]={{path="chatsounds/autoadd/tf2extra/now.ogg",length=0.52795918367346939}}
+L["oh"]={{path="chatsounds/autoadd/tf2extra/oh.ogg",length=0.2959637188208617}}
 L["oh my god"]={{path="chatsounds/autoadd/tf2extra/oh my god.ogg",length=2.5440136054421769}}
 L["oh thats a good one"]={{path="chatsounds/autoadd/tf2extra/oh thats a good one.ogg",length=1.9199999999999999}}
-L["oh"]={{path="chatsounds/autoadd/tf2extra/oh.ogg",length=0.2959637188208617}}
 L["painis"]={{path="chatsounds/autoadd/tf2extra/painis.ogg",length=0.58528344671201815}}
 L["pootis"]={{path="chatsounds/autoadd/tf2extra/pootis.ogg",length=0.38734693877551019}}
 L["ppoottiiss"]={{path="chatsounds/autoadd/tf2extra/ppoottiiss.ogg",length=3.1341950113378685}}
@@ -59,8 +59,8 @@ L["stout shako for 2 refined"]={{path="chatsounds/autoadd/tf2extra/stout shako f
 L["stout shako for two refined"]={{path="chatsounds/autoadd/tf2extra/stout shako for two refined.ogg",length=2.6626984126984126}}
 L["struck"]={{path="chatsounds/autoadd/tf2extra/struck.ogg",length=0.62548752834467125}}
 L["stupid face"]={{path="chatsounds/autoadd/tf2extra/stupid face.ogg",length=1.400453514739229}}
-L["surprise big not"]={{path="chatsounds/autoadd/tf2extra/surprise big not.ogg",length=1.3544897959183673}}
 L["surprise"]={{path="chatsounds/autoadd/tf2extra/surprise.ogg",length=0.80755102040816329}}
+L["surprise big not"]={{path="chatsounds/autoadd/tf2extra/surprise big not.ogg",length=1.3544897959183673}}
 L["that looks good"]={{path="chatsounds/autoadd/tf2extra/that looks good.ogg",length=0.80795918367346942}}
 L["the sound of progress"]={{path="chatsounds/autoadd/tf2extra/the sound of progress.ogg",length=1.3599773242630386}}
 L["trying"]={{path="chatsounds/autoadd/tf2extra/trying.ogg",length=0.55727891156462583}}

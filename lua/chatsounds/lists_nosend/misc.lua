@@ -55,11 +55,11 @@ L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.6238548752834467}}
 L["namomed"]={{path="chatsounds/autoadd/misc/namomed.ogg",length=0.69986394557823128}}
 L["no one"]={{path="chatsounds/autoadd/misc/no one.ogg",length=0.36625850340136057}}
 L["nobody expects the spanish inquisition"]={{path="chatsounds/autoadd/misc/nobody expects the spanish inquisition.ogg",length=6.1648979591836737}}
-L["not in to the pit"]={{path="chatsounds/autoadd/misc/not in to the pit.ogg",length=1.1373922902494331}}
 L["not in to the"]={{path="chatsounds/autoadd/misc/not in to the.ogg",length=0.61494331065759633}}
+L["not in to the pit"]={{path="chatsounds/autoadd/misc/not in to the pit.ogg",length=1.1373922902494331}}
 L["now you fucked up"]={{path="chatsounds/autoadd/misc/now you fucked up.ogg",length=19.069387755102042}}
-L["oh fine"]={{path="chatsounds/autoadd/misc/oh fine.ogg",length=0.7888662131519274}}
 L["oh"]={{path="chatsounds/autoadd/misc/oh.ogg",length=0.17607709750566894}}
+L["oh fine"]={{path="chatsounds/autoadd/misc/oh fine.ogg",length=0.7888662131519274}}
 L["peace"]={{path="chatsounds/autoadd/misc/peace.ogg",length=0.22185941043083901}}
 L["pickle surprise"]={{path="chatsounds/autoadd/misc/pickle surprise.ogg",length=1.9087528344671201}}
 L["pingas"]={{path="chatsounds/autoadd/misc/pingas.ogg",length=0.5573015873015873}}
@@ -76,8 +76,8 @@ L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.7719274376417233}}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.1434920634920633}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.435736961451248}}
 L["tell me snip if you can you have so much porn"]={{path="chatsounds/autoadd/misc/tell me snip if you can you have so much porn.ogg",length=4.0562358276643993}}
-L["that is the question"]={{path="chatsounds/autoadd/misc/that is the question.ogg",length=1.0637188208616779}}
 L["that"]={{path="chatsounds/autoadd/misc/that.ogg",length=0.15655328798185941}}
+L["that is the question"]={{path="chatsounds/autoadd/misc/that is the question.ogg",length=1.0637188208616779}}
 L["the"]={{path="chatsounds/autoadd/misc/the/1.ogg",length=0.091201814058956915},{path="chatsounds/autoadd/misc/the/2.ogg",length=0.1408843537414966}}
 L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091201814058956915}}
 L["the2"]={{path="chatsounds/autoadd/misc/the2.ogg",length=0.16600907029478459}}
@@ -88,12 +88,12 @@ L["victory"]={{path="chatsounds/autoadd/misc/victory.ogg",length=15.911065759637
 L["what the shit"]={{path="chatsounds/autoadd/misc/what the shit.ogg",length=16.802902494331065}}
 L["whip"]={{path="chatsounds/autoadd/misc/whip.ogg",length=1.0831292517006803}}
 L["white noise"]={{path="chatsounds/autoadd/misc/white noise.ogg",length=1}}
-L["why isnt the coding finished"]={{path="chatsounds/autoadd/misc/why isnt the coding finished.ogg",length=1.6777097505668934}}
 L["why"]={{path="chatsounds/autoadd/misc/why.ogg",length=0.25396825396825395}}
+L["why isnt the coding finished"]={{path="chatsounds/autoadd/misc/why isnt the coding finished.ogg",length=1.6777097505668934}}
 L["whyyyyyyyyyyyyy"]={{path="chatsounds/autoadd/misc/whyyyyyyyyyyyyy.ogg",length=15.319954648526076}}
 L["wie reis nur mit weizen"]={{path="chatsounds/autoadd/misc/wie reis nur mit weizen.ogg",length=3.1114739229024941}}
-L["will it blend"]={{path="chatsounds/autoadd/misc/will it blend.ogg",length=1.0789115646258503}}
 L["will"]={{path="chatsounds/autoadd/misc/will.ogg",length=0.28875283446712019}}
+L["will it blend"]={{path="chatsounds/autoadd/misc/will it blend.ogg",length=1.0789115646258503}}
 L["winamp winamp"]={{path="chatsounds/autoadd/misc/winamp winamp.ogg",length=1.8198639455782313}}
 L["wlm"]={{path="chatsounds/autoadd/misc/wlm.ogg",length=0.64557823129251701}}
 L["wowwow"]={{path="chatsounds/autoadd/misc/wowwow.ogg",length=1.7647165532879818}}

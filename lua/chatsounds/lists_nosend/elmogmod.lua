@@ -1,6 +1,6 @@
 c.StartList("elmogmod")
-L["bend over for elmo"]={{path="chatsounds/autoadd/elmogmod/bend over for elmo.ogg",length=3.16437641723356}}
 L["bend over"]={{path="chatsounds/autoadd/elmogmod/bend over.ogg",length=1.6593877551020408}}
+L["bend over for elmo"]={{path="chatsounds/autoadd/elmogmod/bend over for elmo.ogg",length=3.16437641723356}}
 L["can elmo has chocolate"]={{path="chatsounds/autoadd/elmogmod/can elmo has chocolate.ogg",length=3.0343310657596372}}
 L["come in elmos van"]={{path="chatsounds/autoadd/elmogmod/come in elmos van.ogg",length=2.2023129251700682}}
 L["does elmo have to slap a bitch"]={{path="chatsounds/autoadd/elmogmod/does elmo have to slap a bitch.ogg",length=3.2415646258503403}}
@@ -28,8 +28,8 @@ L["pussy elmo loves pussy"]={{path="chatsounds/autoadd/elmogmod/pussy elmo loves
 L["put your seatbelts on"]={{path="chatsounds/autoadd/elmogmod/put your seatbelts on.ogg",length=2.6917460317460318}}
 L["r u a girl"]={{path="chatsounds/autoadd/elmogmod/r u a girl.ogg",length=1.5050113378684806}}
 L["shh its all part of the plan"]={{path="chatsounds/autoadd/elmogmod/shh its all part of the plan.ogg",length=3.5502721088435374}}
-L["uh huh chocolate"]={{path="chatsounds/autoadd/elmogmod/uh huh chocolate.ogg",length=2.3736281179138321}}
 L["uh huh"]={{path="chatsounds/autoadd/elmogmod/uh huh.ogg",length=1.3892290249433106}}
+L["uh huh chocolate"]={{path="chatsounds/autoadd/elmogmod/uh huh chocolate.ogg",length=2.3736281179138321}}
 L["yeah bend burp"]={{path="chatsounds/autoadd/elmogmod/yeah bend burp.ogg",length=2.8942630385487527}}
 L["you shut your mouth bitch"]={{path="chatsounds/autoadd/elmogmod/you shut your mouth bitch.ogg",length=2.4959637188208617}}
 L["you shut your mouth richard"]={{path="chatsounds/autoadd/elmogmod/you shut your mouth richard.ogg",length=2.7784807256235826}}

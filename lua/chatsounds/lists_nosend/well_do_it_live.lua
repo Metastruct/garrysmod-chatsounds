@@ -8,7 +8,7 @@ L["i cant read it theres no theres no words on it"]={{path="chatsounds/autoadd/w
 L["thats tommorrow and that is it for us today im bill orielly thanks again for watching"]={{path="chatsounds/autoadd/well_do_it_live/thats tommorrow and that is it for us today im bill orielly thanks again for watching.ogg",length=7.7660544217687075}}
 L["theres no words there"]={{path="chatsounds/autoadd/well_do_it_live/theres no words there.ogg",length=1.484875283446712}}
 L["to play us out"]={{path="chatsounds/autoadd/well_do_it_live/to play us out.ogg",length=1.1802721088435375}}
-L["well do it live fuck it"]={{path="chatsounds/autoadd/well_do_it_live/well do it live fuck it.ogg",length=1.7896145124716554}}
 L["well do it live"]={{path="chatsounds/autoadd/well_do_it_live/well do it live.ogg",length=0.7879591836734694}}
+L["well do it live fuck it"]={{path="chatsounds/autoadd/well_do_it_live/well do it live fuck it.ogg",length=1.7896145124716554}}
 L["what does that mean to play us out"]={{path="chatsounds/autoadd/well_do_it_live/what does that mean to play us out.ogg",length=1.5039002267573696}}
 c.EndList()

@@ -12,7 +12,7 @@ L["uahhh"]={{path="chatsounds/autoadd/suck_this_cock/uahhh.ogg",length=0.8721995
 L["yeeeesss"]={{path="chatsounds/autoadd/suck_this_cock/yeeeesss.ogg",length=1.2277551020408164}}
 L["yeess"]={{path="chatsounds/autoadd/suck_this_cock/yeess.ogg",length=1.1929251700680272}}
 L["yes"]={{path="chatsounds/autoadd/suck_this_cock/yes.ogg",length=0.71111111111111114}}
+L["you gonna"]={{path="chatsounds/autoadd/suck_this_cock/you gonna.ogg",length=0.3395918367346939}}
 L["you gonna suck this cock clean"]={{path="chatsounds/autoadd/suck_this_cock/you gonna suck this cock clean.ogg",length=3.5584580498866214}}
 L["you gonna suck this cock good"]={{path="chatsounds/autoadd/suck_this_cock/you gonna suck this cock good.ogg",length=2.1536507936507938}}
-L["you gonna"]={{path="chatsounds/autoadd/suck_this_cock/you gonna.ogg",length=0.3395918367346939}}
 c.EndList()

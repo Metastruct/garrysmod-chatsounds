@@ -12,8 +12,8 @@ L["ding dong dick"]={{path="chatsounds/autoadd/enderbro/ding dong dick.ogg",leng
 L["dkdoorpain"]={{path="chatsounds/autoadd/enderbro/dkdoorpain.ogg",length=37.27390022675737}}
 L["do not throw souls"]={{path="chatsounds/autoadd/enderbro/do not throw souls.ogg",length=1.3443764172335602}}
 L["dont answer that"]={{path="chatsounds/autoadd/enderbro/dont answer that.ogg",length=0.81292517006802723}}
-L["dont throw fruit at the computer distorted"]={{path="chatsounds/autoadd/enderbro/dont throw fruit at the computer distorted.ogg",length=9.9635600907029485}}
 L["dont throw fruit at the computer"]={{path="chatsounds/autoadd/enderbro/dont throw fruit at the computer.ogg",length=2.019342403628118}}
+L["dont throw fruit at the computer distorted"]={{path="chatsounds/autoadd/enderbro/dont throw fruit at the computer distorted.ogg",length=9.9635600907029485}}
 L["ffuckhead"]={{path="chatsounds/autoadd/enderbro/ffuckhead.ogg",length=1.0528798185941044}}
 L["for the gaaaaames"]={{path="chatsounds/autoadd/enderbro/for the gaaaaames.ogg",length=2.4558049886621314}}
 L["hihihihihaah"]={{path="chatsounds/autoadd/enderbro/hihihihihaah.ogg",length=4.5970068027210882}}

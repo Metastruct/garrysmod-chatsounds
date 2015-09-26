@@ -4,8 +4,8 @@ L["and id say he knows a little more about fighting than you do"]={{path="chatso
 L["and then"]={{path="chatsounds/autoadd/mtt_soldier/and then/and then1.ogg",length=0.59029478458049889},{path="chatsounds/autoadd/mtt_soldier/and then/and then2.ogg",length=0.44637188208616779}}
 L["and then he beat the crap out of every single one"]={{path="chatsounds/autoadd/mtt_soldier/and then he beat the crap out of every single one.ogg",length=3.3009750566893423}}
 L["and then he herded them onto a boat"]={{path="chatsounds/autoadd/mtt_soldier/and then he herded them onto a boat.ogg",length=1.9756916099773243}}
-L["and then he perfected it so that no living man could best him in the ring of honor"]={{path="chatsounds/autoadd/mtt_soldier/and then he perfected it so that no living man could best him in the ring of honor.ogg",length=4.7181179138321996}}
 L["and then he perfected it"]={{path="chatsounds/autoadd/mtt_soldier/and then he perfected it.ogg",length=1.4596145124716553}}
+L["and then he perfected it so that no living man could best him in the ring of honor"]={{path="chatsounds/autoadd/mtt_soldier/and then he perfected it so that no living man could best him in the ring of honor.ogg",length=4.7181179138321996}}
 L["beat the crap out of every single one"]={{path="chatsounds/autoadd/mtt_soldier/beat the crap out of every single one.ogg",length=2.5296371882086168}}
 L["because he invented it"]={{path="chatsounds/autoadd/mtt_soldier/because he invented it.ogg",length=1.4290702947845806}}
 L["boat"]={{path="chatsounds/autoadd/mtt_soldier/boat.ogg",length=0.37240362811791383}}

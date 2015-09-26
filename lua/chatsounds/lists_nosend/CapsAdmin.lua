@@ -48,8 +48,8 @@ L["fuck me in my ass man"]={{path="chatsounds/autoadd/CapsAdmin/fuck me in my as
 L["fuck you bitch i swear to god"]={{path="chatsounds/autoadd/CapsAdmin/fuck you bitch i swear to god.ogg",length=4.3520181405895695}}
 L["funniest mod"]={{path="chatsounds/autoadd/CapsAdmin/funniest mod.ogg",length=1.4009750566893424}}
 L["fuurz"]={{path="chatsounds/autoadd/CapsAdmin/fuurz.ogg",length=4.948163265306122}}
-L["gay porno"]={{path="chatsounds/autoadd/CapsAdmin/gay porno.ogg",length=0.97181405895691608}}
 L["gay"]={{path="chatsounds/autoadd/CapsAdmin/gay.ogg",length=0.37718820861678004}}
+L["gay porno"]={{path="chatsounds/autoadd/CapsAdmin/gay porno.ogg",length=0.97181405895691608}}
 L["ghettoreporter"]={{path="chatsounds/autoadd/CapsAdmin/ghettoreporter.ogg",length=22.388934240362811}}
 L["go jackson"]={{path="chatsounds/autoadd/CapsAdmin/go jackson.ogg",length=8.2227664399092966}}
 L["goatexcited"]={{path="chatsounds/autoadd/CapsAdmin/goatexcited.ogg",length=13.921179138321996}}
@@ -66,12 +66,12 @@ L["heeheeheeheheheehehehe"]={{path="chatsounds/autoadd/CapsAdmin/heeheeheehehehe
 L["hehe"]={{path="chatsounds/autoadd/CapsAdmin/hehe.ogg",length=3.7658956916099773}}
 L["heul4"]={{path="chatsounds/autoadd/CapsAdmin/heul4.ogg",length=11.998231292517007}}
 L["hey everybody"]={{path="chatsounds/autoadd/CapsAdmin/hey everybody.ogg",length=1.2371655328798186}}
-L["hey paisanos its the super mario brothers super show"]={{path="chatsounds/autoadd/CapsAdmin/hey paisanos its the super mario brothers super show.ogg",length=4.0125850340136058}}
 L["hey paisanos"]={{path="chatsounds/autoadd/CapsAdmin/hey paisanos.ogg",length=1.3659863945578232}}
+L["hey paisanos its the super mario brothers super show"]={{path="chatsounds/autoadd/CapsAdmin/hey paisanos its the super mario brothers super show.ogg",length=4.0125850340136058}}
 L["hey wanna hear the most annoying sound in the world"]={{path="chatsounds/autoadd/CapsAdmin/hey wanna hear the most annoying sound in the world.ogg",length=3.4434240362811792}}
 L["hmmmmmm"]={{path="chatsounds/autoadd/CapsAdmin/hmmmmmm.ogg",length=10.10095238095238}}
-L["holy shit what is going on"]={{path="chatsounds/autoadd/CapsAdmin/holy shit what is going on.ogg",length=15.9962358276644}}
 L["holy shit"]={{path="chatsounds/autoadd/CapsAdmin/holy shit.ogg",length=2.4625850340136055}}
+L["holy shit what is going on"]={{path="chatsounds/autoadd/CapsAdmin/holy shit what is going on.ogg",length=15.9962358276644}}
 L["horn"]={{path="chatsounds/autoadd/CapsAdmin/horn.ogg",length=2.7068480725623583}}
 L["i cant see"]={{path="chatsounds/autoadd/CapsAdmin/i cant see.ogg",length=1.041360544217687}}
 L["i dd"]={{path="chatsounds/autoadd/CapsAdmin/i dd.ogg",length=10.64952380952381}}
@@ -81,8 +81,8 @@ L["illuminati"]={{path="chatsounds/autoadd/CapsAdmin/illuminati.ogg",length=9.41
 L["im be making video now for 5000 time"]={{path="chatsounds/autoadd/CapsAdmin/im be making video now for 5000 time.ogg",length=5.3514512471655324}}
 L["im dying in this country ass fucked up town"]={{path="chatsounds/autoadd/CapsAdmin/im dying in this country ass fucked up town.ogg",length=3.6714739229024942}}
 L["im gonna fucking kick your ass"]={{path="chatsounds/autoadd/CapsAdmin/im gonna fucking kick your ass.ogg",length=3.0795011337868479}}
-L["im looking at gay porno"]={{path="chatsounds/autoadd/CapsAdmin/im looking at gay porno.ogg",length=1.683265306122449}}
 L["im looking at"]={{path="chatsounds/autoadd/CapsAdmin/im looking at.ogg",length=0.70027210884353741}}
+L["im looking at gay porno"]={{path="chatsounds/autoadd/CapsAdmin/im looking at gay porno.ogg",length=1.683265306122449}}
 L["im not fucking kidding dude"]={{path="chatsounds/autoadd/CapsAdmin/im not fucking kidding dude.ogg",length=1.3865759637188209}}
 L["it burns"]={{path="chatsounds/autoadd/CapsAdmin/it burns.ogg",length=1.7120861678004535}}
 L["it is crazy"]={{path="chatsounds/autoadd/CapsAdmin/it is crazy.ogg",length=0.96018140589569156}}
@@ -134,8 +134,8 @@ L["scream1"]={{path="chatsounds/autoadd/CapsAdmin/scream1.ogg",length=4.69990929
 L["scream2"]={{path="chatsounds/autoadd/CapsAdmin/scream2.ogg",length=12.038956916099773}}
 L["scream3"]={{path="chatsounds/autoadd/CapsAdmin/scream3.ogg",length=15.004943310657596}}
 L["scream4"]={{path="chatsounds/autoadd/CapsAdmin/scream4.ogg",length=3.0234467120181407}}
-L["shit flyin in my mouth"]={{path="chatsounds/autoadd/CapsAdmin/shit flyin in my mouth.ogg",length=2.2076643990929705}}
 L["shit"]={{path="chatsounds/autoadd/CapsAdmin/shit.ogg",length=0.95804988662131518}}
+L["shit flyin in my mouth"]={{path="chatsounds/autoadd/CapsAdmin/shit flyin in my mouth.ogg",length=2.2076643990929705}}
 L["skatepain1"]={{path="chatsounds/autoadd/CapsAdmin/skatepain1.ogg",length=4.1989569160997728}}
 L["skatepain10"]={{path="chatsounds/autoadd/CapsAdmin/skatepain10.ogg",length=7.5344217687074826}}
 L["skatepain11"]={{path="chatsounds/autoadd/CapsAdmin/skatepain11.ogg",length=6.629886621315193}}
@@ -161,8 +161,8 @@ L["the wecommended amount of"]={{path="chatsounds/autoadd/CapsAdmin/the wecommen
 L["the weirdest"]={{path="chatsounds/autoadd/CapsAdmin/the weirdest.ogg",length=1.5544897959183674}}
 L["the worlds about to end"]={{path="chatsounds/autoadd/CapsAdmin/the worlds about to end.ogg",length=33.406621315192744}}
 L["these games are getting really realistic"]={{path="chatsounds/autoadd/CapsAdmin/these games are getting really realistic.ogg",length=3.5464399092970522}}
-L["thomas you no good cat thats sabotage out you go"]={{path="chatsounds/autoadd/CapsAdmin/thomas you no good cat thats sabotage out you go.ogg",length=4.7637188208616781}}
 L["thomas"]={{path="chatsounds/autoadd/CapsAdmin/thomas.ogg",length=0.80000000000000004}}
+L["thomas you no good cat thats sabotage out you go"]={{path="chatsounds/autoadd/CapsAdmin/thomas you no good cat thats sabotage out you go.ogg",length=4.7637188208616781}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/CapsAdmin/thomasthetankengine.ogg",length=29.10358276643991}}
 L["thx2"]={{path="chatsounds/autoadd/CapsAdmin/thx2.ogg",length=20.055192743764174}}
 L["tomscream"]={{path="chatsounds/autoadd/CapsAdmin/tomscream.ogg",length=2.1604761904761904}}
@@ -171,14 +171,14 @@ L["trance"]={{path="chatsounds/autoadd/CapsAdmin/trance.ogg",length=4.6623129251
 L["trumpet"]={{path="chatsounds/autoadd/CapsAdmin/trumpet.ogg",length=0.26648526077097506}}
 L["tv2news fanfare"]={{path="chatsounds/autoadd/CapsAdmin/tv2news fanfare.ogg",length=43.969773242630389}}
 L["ufo sound"]={{path="chatsounds/autoadd/CapsAdmin/ufo sound.ogg",length=0.37752834467120183}}
-L["um detotated wam to the server"]={{path="chatsounds/autoadd/CapsAdmin/um detotated wam to the server.ogg",length=3.0763265306122447}}
 L["um"]={{path="chatsounds/autoadd/CapsAdmin/um.ogg",length=0.95138321995464847}}
+L["um detotated wam to the server"]={{path="chatsounds/autoadd/CapsAdmin/um detotated wam to the server.ogg",length=3.0763265306122447}}
 L["uuuuhhh"]={{path="chatsounds/autoadd/CapsAdmin/uuuuhhh.ogg",length=4.2891156462585034}}
 L["wanna hear the most annoying sound in the world"]={{path="chatsounds/autoadd/CapsAdmin/wanna hear the most annoying sound in the world.ogg",length=1.7483219954648526}}
 L["wendybday"]={{path="chatsounds/autoadd/CapsAdmin/wendybday.ogg",length=43.927845804988664}}
+L["what is"]={{path="chatsounds/autoadd/CapsAdmin/what is.ogg",length=1.6984353741496598}}
 L["what is going on"]={{path="chatsounds/autoadd/CapsAdmin/what is going on.ogg",length=0.98639455782312924}}
 L["what is the weirdest slash funniest mod you have ever seen"]={{path="chatsounds/autoadd/CapsAdmin/what is the weirdest slash funniest mod you have ever seen.ogg",length=7.2830839002267576}}
-L["what is"]={{path="chatsounds/autoadd/CapsAdmin/what is.ogg",length=1.6984353741496598}}
 L["whats the wecommended amount of dededotated wam isooasdasd erver"]={{path="chatsounds/autoadd/CapsAdmin/whats the wecommended amount of dededotated wam isooasdasd erver.ogg",length=5.6399319727891157}}
 L["whyyy"]={{path="chatsounds/autoadd/CapsAdmin/whyyy.ogg",length=3.0639909297052155}}
 L["windows 95 is the game platform"]={{path="chatsounds/autoadd/CapsAdmin/windows 95 is the game platform.ogg",length=3.9356916099773245}}

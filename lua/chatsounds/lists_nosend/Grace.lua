@@ -41,6 +41,6 @@ L["unlimited power"]={{path="chatsounds/autoadd/Grace/unlimited power.ogg",lengt
 L["whats that sandvich kill them all lets go"]={{path="chatsounds/autoadd/Grace/whats that sandvich kill them all lets go.ogg",length=4.8513605442176875}}
 L["ye galo sengen"]={{path="chatsounds/autoadd/Grace/ye galo sengen.ogg",length=1.4612471655328798}}
 L["youre shit bert"]={{path="chatsounds/autoadd/Grace/youre shit bert.ogg",length=1.356281179138322}}
-L["youre too late enjoy the poop"]={{path="chatsounds/autoadd/Grace/youre too late enjoy the poop.ogg",length=2.7763718820861678}}
 L["youre too late"]={{path="chatsounds/autoadd/Grace/youre too late.ogg",length=1.230657596371882}}
+L["youre too late enjoy the poop"]={{path="chatsounds/autoadd/Grace/youre too late enjoy the poop.ogg",length=2.7763718820861678}}
 c.EndList()

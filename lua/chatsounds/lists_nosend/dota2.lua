@@ -70,10 +70,10 @@ L["seek the heat"]={{path="chatsounds/autoadd/dota2/seek the heat.ogg",length=1.
 L["shitty wizard"]={{path="chatsounds/autoadd/dota2/shitty wizard.ogg",length=1.7382086167800455}}
 L["shrapnel"]={{path="chatsounds/autoadd/dota2/shrapnel.ogg",length=1.1112698412698412}}
 L["silence"]={{path="chatsounds/autoadd/dota2/silence/Dro_ability_01.ogg",length=2.3792743764172335},{path="chatsounds/autoadd/dota2/silence/Dro_ability_06.ogg",length=2.4576417233560091}}
+L["silence"]={{path="chatsounds/autoadd/dota2/silence.ogg",length=1.0458956916099773}}
 L["silence afflict thee"]={{path="chatsounds/autoadd/dota2/silence afflict thee.ogg",length=2.1180498866213151}}
 L["silence all"]={{path="chatsounds/autoadd/dota2/silence all.ogg",length=2.1441723356009068}}
 L["silence seal you"]={{path="chatsounds/autoadd/dota2/silence seal you.ogg",length=2.3531519274376418}}
-L["silence"]={{path="chatsounds/autoadd/dota2/silence.ogg",length=1.0458956916099773}}
 L["smoke"]={{path="chatsounds/autoadd/dota2/smoke.ogg",length=2.9344217687074829}}
 L["snipdamage"]={{path="chatsounds/autoadd/dota2/snipdamage/assasinate damage01.ogg",length=0.53043083900226762},{path="chatsounds/autoadd/dota2/snipdamage/assasinate damage02.ogg",length=0.51535147392290248}}
 L["sniplaugh"]={{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 01.ogg",length=1.8426984126984127},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 02.ogg",length=1.2418820861678004},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 03.ogg",length=1.2418820861678004},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 04.ogg",length=1.2157596371882087},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 05.ogg",length=1.3986167800453515},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 06.ogg",length=1.9210657596371883},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 07.ogg",length=2.1300453514739228},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 08.ogg",length=3.2271882086167802},{path="chatsounds/autoadd/dota2/sniplaugh/snip laugh 09.ogg",length=1.7904535147392291}}

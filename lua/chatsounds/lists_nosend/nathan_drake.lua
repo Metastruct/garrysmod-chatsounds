@@ -11,15 +11,15 @@ L["aw crap"]={{path="chatsounds/autoadd/nathan_drake/aw crap.ogg",length=1.05600
 L["aw man"]={{path="chatsounds/autoadd/nathan_drake/aw man.ogg",length=1.0560090702947846}}
 L["back to business"]={{path="chatsounds/autoadd/nathan_drake/back to business.ogg",length=1.104013605442177}}
 L["bingo"]={{path="chatsounds/autoadd/nathan_drake/bingo/1.ogg",length=0.55201814058956911},{path="chatsounds/autoadd/nathan_drake/bingo/2.ogg",length=0.64800453514739231}}
-L["bring it on"]={{path="chatsounds/autoadd/nathan_drake/bring it on.ogg",length=0.9120181405895692}}
 L["bring it"]={{path="chatsounds/autoadd/nathan_drake/bring it.ogg",length=0.67201814058956921}}
+L["bring it on"]={{path="chatsounds/autoadd/nathan_drake/bring it on.ogg",length=0.9120181405895692}}
 L["catch"]={{path="chatsounds/autoadd/nathan_drake/catch.ogg",length=0.50401360544217688}}
 L["charming"]={{path="chatsounds/autoadd/nathan_drake/charming.ogg",length=0.64800453514739231}}
 L["chew on that"]={{path="chatsounds/autoadd/nathan_drake/chew on that.ogg",length=0.86401360544217687}}
 L["come on"]={{path="chatsounds/autoadd/nathan_drake/come on.ogg",length=0.83999999999999997}}
 L["comin at ya"]={{path="chatsounds/autoadd/nathan_drake/comin at ya.ogg",length=0.69600907029478454}}
-L["didnt see that coming did ya"]={{path="chatsounds/autoadd/nathan_drake/didnt see that coming did ya.ogg",length=1.4880045351473923}}
 L["didnt see that coming"]={{path="chatsounds/autoadd/nathan_drake/didnt see that coming.ogg",length=1.0560090702947846}}
+L["didnt see that coming did ya"]={{path="chatsounds/autoadd/nathan_drake/didnt see that coming did ya.ogg",length=1.4880045351473923}}
 L["done and done"]={{path="chatsounds/autoadd/nathan_drake/done and done.ogg",length=1.5360090702947846}}
 L["dont mind if i do"]={{path="chatsounds/autoadd/nathan_drake/dont mind if i do.ogg",length=1.1520181405895691}}
 L["eat some of that"]={{path="chatsounds/autoadd/nathan_drake/eat some of that.ogg",length=1.0080045351473923}}
@@ -33,8 +33,8 @@ L["groaning ouch"]={{path="chatsounds/autoadd/nathan_drake/groaning ouch.ogg",le
 L["groaning think fast"]={{path="chatsounds/autoadd/nathan_drake/groaning think fast.ogg",length=1.5120181405895692}}
 L["ha ha"]={{path="chatsounds/autoadd/nathan_drake/ha ha.ogg",length=0.52800453514739232}}
 L["heads up"]={{path="chatsounds/autoadd/nathan_drake/heads up.ogg",length=0.62401360544217688}}
-L["hell yeah im in"]={{path="chatsounds/autoadd/nathan_drake/hell yeah im in.ogg",length=1.2960090702947846}}
 L["hell yeah"]={{path="chatsounds/autoadd/nathan_drake/hell yeah.ogg",length=0.81600907029478453}}
+L["hell yeah im in"]={{path="chatsounds/autoadd/nathan_drake/hell yeah im in.ogg",length=1.2960090702947846}}
 L["hello"]={{path="chatsounds/autoadd/nathan_drake/hello.ogg",length=0.86401360544217687}}
 L["here catch"]={{path="chatsounds/autoadd/nathan_drake/here catch.ogg",length=0.71999999999999997}}
 L["here goes nothin"]={{path="chatsounds/autoadd/nathan_drake/here goes nothin.ogg",length=1.0080045351473923}}
@@ -56,8 +56,8 @@ L["i got a clip with your name on it"]={{path="chatsounds/autoadd/nathan_drake/i
 L["i got some for ya"]={{path="chatsounds/autoadd/nathan_drake/i got some for ya.ogg",length=1.1760090702947845}}
 L["i like these odds"]={{path="chatsounds/autoadd/nathan_drake/i like these odds.ogg",length=1.2}}
 L["i will kick you to sleep"]={{path="chatsounds/autoadd/nathan_drake/i will kick you to sleep.ogg",length=1.6560090702947845}}
-L["ill take that thank you"]={{path="chatsounds/autoadd/nathan_drake/ill take that thank you.ogg",length=1.2480045351473923}}
 L["ill take that"]={{path="chatsounds/autoadd/nathan_drake/ill take that.ogg",length=0.79201814058956921}}
+L["ill take that thank you"]={{path="chatsounds/autoadd/nathan_drake/ill take that thank you.ogg",length=1.2480045351473923}}
 L["im not in shambhala anymore"]={{path="chatsounds/autoadd/nathan_drake/im not in shambhala anymore.ogg",length=1.7040136054421768}}
 L["in like flynn get it eh nevermind"]={{path="chatsounds/autoadd/nathan_drake/in like flynn get it eh nevermind.ogg",length=3.4560090702947845}}
 L["is that it"]={{path="chatsounds/autoadd/nathan_drake/is that it.ogg",length=0.86401360544217687}}
@@ -92,8 +92,8 @@ L["one down"]={{path="chatsounds/autoadd/nathan_drake/one down.ogg",length=0.912
 L["oops"]={{path="chatsounds/autoadd/nathan_drake/oops.ogg",length=0.76800453514739231}}
 L["perfect"]={{path="chatsounds/autoadd/nathan_drake/perfect.ogg",length=0.67201814058956921}}
 L["see what you made me do"]={{path="chatsounds/autoadd/nathan_drake/see what you made me do.ogg",length=1.0080045351473923}}
-L["see ya fellas"]={{path="chatsounds/autoadd/nathan_drake/see ya fellas.ogg",length=1.1520181405895691}}
 L["see ya"]={{path="chatsounds/autoadd/nathan_drake/see ya.ogg",length=0.62401360544217688}}
+L["see ya fellas"]={{path="chatsounds/autoadd/nathan_drake/see ya fellas.ogg",length=1.1520181405895691}}
 L["sleep tight"]={{path="chatsounds/autoadd/nathan_drake/sleep tight.ogg",length=0.93600907029478453}}
 L["suprice"]={{path="chatsounds/autoadd/nathan_drake/suprice.ogg",length=1.1760090702947845}}
 L["sure"]={{path="chatsounds/autoadd/nathan_drake/sure.ogg",length=0.69600907029478454}}
@@ -124,8 +124,8 @@ L["why would someone leave this here"]={{path="chatsounds/autoadd/nathan_drake/w
 L["wow you look like hell"]={{path="chatsounds/autoadd/nathan_drake/wow you look like hell.ogg",length=1.8}}
 L["yawn"]={{path="chatsounds/autoadd/nathan_drake/yawn.ogg",length=1.1760090702947845}}
 L["yeah"]={{path="chatsounds/autoadd/nathan_drake/yeah/1.ogg",length=0.57600907029478454},{path="chatsounds/autoadd/nathan_drake/yeah/2.ogg",length=0.9120181405895692}}
-L["yes please"]={{path="chatsounds/autoadd/nathan_drake/yes please.ogg",length=0.67201814058956921}}
 L["yes"]={{path="chatsounds/autoadd/nathan_drake/yes.ogg",length=0.62401360544217688}}
+L["yes please"]={{path="chatsounds/autoadd/nathan_drake/yes please.ogg",length=0.67201814058956921}}
 L["you asked for it"]={{path="chatsounds/autoadd/nathan_drake/you asked for it.ogg",length=1.0800000000000001}}
 L["you ready"]={{path="chatsounds/autoadd/nathan_drake/you ready.ogg",length=0.71999999999999997}}
 L["you wanna play rough well play rough"]={{path="chatsounds/autoadd/nathan_drake/you wanna play rough well play rough.ogg",length=1.8240136054421769}}

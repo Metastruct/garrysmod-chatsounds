@@ -5,8 +5,8 @@ L["asss"]={{path="chatsounds/autoadd/tourettes/asss.ogg",length=0.80979591836734
 L["fuuuck"]={{path="chatsounds/autoadd/tourettes/fuuuck.ogg",length=1.3322448979591837}}
 L["get out shit"]={{path="chatsounds/autoadd/tourettes/get out shit.ogg",length=2.1942857142857144}}
 L["god damnit"]={{path="chatsounds/autoadd/tourettes/god damnit.ogg",length=0.94040816326530607}}
-L["oh fuck damnit"]={{path="chatsounds/autoadd/tourettes/oh fuck damnit.ogg",length=1.9069387755102041}}
 L["oh fuck"]={{path="chatsounds/autoadd/tourettes/oh fuck.ogg",length=1.4367346938775509}}
+L["oh fuck damnit"]={{path="chatsounds/autoadd/tourettes/oh fuck damnit.ogg",length=1.9069387755102041}}
 L["oh shit"]={{path="chatsounds/autoadd/tourettes/oh shit.ogg",length=1.4106122448979592}}
 L["ouch"]={{path="chatsounds/autoadd/tourettes/ouch.ogg",length=0.62693877551020405}}
 L["ow fuck"]={{path="chatsounds/autoadd/tourettes/ow fuck.ogg",length=1.5673469387755101}}

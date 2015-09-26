@@ -1,11 +1,11 @@
 c.StartList("christian_caller")
 L["90 years"]={{path="chatsounds/autoadd/christian_caller/90 years.ogg",length=0.94408163265306122}}
-L["a higher power"]={{path="chatsounds/autoadd/christian_caller/a higher power.ogg",length=1.2509750566893425}}
 L["a higher"]={{path="chatsounds/autoadd/christian_caller/a higher.ogg",length=0.60335600907029474}}
+L["a higher power"]={{path="chatsounds/autoadd/christian_caller/a higher power.ogg",length=1.2509750566893425}}
 L["about"]={{path="chatsounds/autoadd/christian_caller/about/about Copy.ogg",length=0.95247165532879818},{path="chatsounds/autoadd/christian_caller/about/about Copy1.ogg",length=0.5},{path="chatsounds/autoadd/christian_caller/about/about.ogg",length=0.3960090702947846}}
+L["after"]={{path="chatsounds/autoadd/christian_caller/after.ogg",length=0.4505215419501134}}
 L["after 90 years this human life span is how long"]={{path="chatsounds/autoadd/christian_caller/after 90 years this human life span is how long.ogg",length=4.1486621315192744}}
 L["after you pass away"]={{path="chatsounds/autoadd/christian_caller/after you pass away.ogg",length=1.7132426303854875}}
-L["after"]={{path="chatsounds/autoadd/christian_caller/after.ogg",length=0.4505215419501134}}
 L["all of life into existence"]={{path="chatsounds/autoadd/christian_caller/all of life into existence.ogg",length=3.3504761904761904}}
 L["and"]={{path="chatsounds/autoadd/christian_caller/and/and.ogg",length=0.60897959183673467}}
 L["and how humans"]={{path="chatsounds/autoadd/christian_caller/and how humans.ogg",length=2.5931972789115645}}
@@ -27,36 +27,36 @@ L["explode"]={{path="chatsounds/autoadd/christian_caller/explode.ogg",length=0.6
 L["exploded"]={{path="chatsounds/autoadd/christian_caller/exploded.ogg",length=0.84498866213151924}}
 L["for everything"]={{path="chatsounds/autoadd/christian_caller/for everything.ogg",length=0.79396825396825399}}
 L["forever"]={{path="chatsounds/autoadd/christian_caller/forever.ogg",length=1.2722902494331065}}
-L["from somewhere"]={{path="chatsounds/autoadd/christian_caller/from somewhere.ogg",length=0.91818594104308393}}
 L["from"]={{path="chatsounds/autoadd/christian_caller/from.ogg",length=0.37052154195011339}}
+L["from somewhere"]={{path="chatsounds/autoadd/christian_caller/from somewhere.ogg",length=0.91818594104308393}}
 L["had to spring"]={{path="chatsounds/autoadd/christian_caller/had to spring.ogg",length=1.318095238095238}}
 L["has to start"]={{path="chatsounds/autoadd/christian_caller/has to start.ogg",length=1.3397732426303854}}
-L["have to come"]={{path="chatsounds/autoadd/christian_caller/have to come.ogg",length=1.0474829931972789}}
 L["have to"]={{path="chatsounds/autoadd/christian_caller/have to.ogg",length=0.46358276643990931}}
-L["he did not have to come"]={{path="chatsounds/autoadd/christian_caller/he did not have to come.ogg",length=2.1628571428571428}}
+L["have to come"]={{path="chatsounds/autoadd/christian_caller/have to come.ogg",length=1.0474829931972789}}
 L["he"]={{path="chatsounds/autoadd/christian_caller/he.ogg",length=0.60013605442176876}}
-L["how did the higher power come to exist"]={{path="chatsounds/autoadd/christian_caller/how did the higher power come to exist.ogg",length=2.7941950113378686}}
+L["he did not have to come"]={{path="chatsounds/autoadd/christian_caller/he did not have to come.ogg",length=2.1628571428571428}}
 L["how did"]={{path="chatsounds/autoadd/christian_caller/how did.ogg",length=0.48045351473922904}}
+L["how did the higher power come to exist"]={{path="chatsounds/autoadd/christian_caller/how did the higher power come to exist.ogg",length=2.7941950113378686}}
 L["how do humans exist"]={{path="chatsounds/autoadd/christian_caller/how do humans exist.ogg",length=3.3692970521541952}}
 L["how does all this exist"]={{path="chatsounds/autoadd/christian_caller/how does all this exist.ogg",length=2.6727891156462587}}
 L["how does the supernatural cause exist"]={{path="chatsounds/autoadd/christian_caller/how does the supernatural cause exist.ogg",length=3.6955102040816326}}
 L["human beings"]={{path="chatsounds/autoadd/christian_caller/human beings.ogg",length=1.4545578231292517}}
 L["humanity"]={{path="chatsounds/autoadd/christian_caller/humanity.ogg",length=0.83569160997732428}}
 L["humans in life exist"]={{path="chatsounds/autoadd/christian_caller/humans in life exist.ogg",length=2.459954648526077}}
-L["i believe that it"]={{path="chatsounds/autoadd/christian_caller/i believe that it.ogg",length=3.8467573696145125}}
 L["i believe"]={{path="chatsounds/autoadd/christian_caller/i believe.ogg",length=0.80000000000000004}}
+L["i believe that it"]={{path="chatsounds/autoadd/christian_caller/i believe that it.ogg",length=3.8467573696145125}}
 L["i dont believe"]={{path="chatsounds/autoadd/christian_caller/i dont believe.ogg",length=0.82866213151927437}}
 L["i hear"]={{path="chatsounds/autoadd/christian_caller/i hear.ogg",length=2.6545578231292515}}
 L["if you would go out"]={{path="chatsounds/autoadd/christian_caller/if you would go out.ogg",length=1.8080272108843538}}
-L["im disagreeing with"]={{path="chatsounds/autoadd/christian_caller/im disagreeing with.ogg",length=2.3344217687074829}}
+L["im"]={{path="chatsounds/autoadd/christian_caller/im.ogg",length=0.35188208616780048}}
 L["im disagreeing"]={{path="chatsounds/autoadd/christian_caller/im disagreeing.ogg",length=1.1803174603174602}}
+L["im disagreeing with"]={{path="chatsounds/autoadd/christian_caller/im disagreeing with.ogg",length=2.3344217687074829}}
 L["im just telling it like it is"]={{path="chatsounds/autoadd/christian_caller/im just telling it like it is.ogg",length=1.8634467120181406}}
+L["im talking about"]={{path="chatsounds/autoadd/christian_caller/im talking about.ogg",length=1.1004988662131518}}
 L["im talking about the use and the ways that you uh spread this illogical information"]={{path="chatsounds/autoadd/christian_caller/im talking about the use and the ways that you uh spread this illogical information.ogg",length=16.850793650793651}}
 L["im talking about uh"]={{path="chatsounds/autoadd/christian_caller/im talking about uh.ogg",length=2.8413151927437643}}
-L["im talking about"]={{path="chatsounds/autoadd/christian_caller/im talking about.ogg",length=1.1004988662131518}}
-L["im"]={{path="chatsounds/autoadd/christian_caller/im.ogg",length=0.35188208616780048}}
-L["in life exist"]={{path="chatsounds/autoadd/christian_caller/in life exist.ogg",length=1.7424489795918368}}
 L["in"]={{path="chatsounds/autoadd/christian_caller/in.ogg",length=0.15659863945578231}}
+L["in life exist"]={{path="chatsounds/autoadd/christian_caller/in life exist.ogg",length=1.7424489795918368}}
 L["insects"]={{path="chatsounds/autoadd/christian_caller/insects.ogg",length=1.1259863945578232}}
 L["is"]={{path="chatsounds/autoadd/christian_caller/is/is Copy.ogg",length=1.1518367346938776},{path="chatsounds/autoadd/christian_caller/is/is Copy1.ogg",length=0.26344671201814057},{path="chatsounds/autoadd/christian_caller/is/is.ogg",length=0.41968253968253966}}
 L["it would  have to be"]={{path="chatsounds/autoadd/christian_caller/it would  have to be.ogg",length=1.5926077097505669}}
@@ -91,26 +91,26 @@ L["power"]={{path="chatsounds/autoadd/christian_caller/power/power Copy.ogg",len
 L["reason"]={{path="chatsounds/autoadd/christian_caller/reason.ogg",length=0.56888888888888889}}
 L["region"]={{path="chatsounds/autoadd/christian_caller/region.ogg",length=0.8533786848072562}}
 L["right"]={{path="chatsounds/autoadd/christian_caller/right.ogg",length=0.42485260770975058}}
+L["so"]={{path="chatsounds/autoadd/christian_caller/so.ogg",length=0.44907029478458049}}
 L["so you have to go back"]={{path="chatsounds/autoadd/christian_caller/so you have to go back.ogg",length=2.6809070294784583}}
 L["so you saying this starts with"]={{path="chatsounds/autoadd/christian_caller/so you saying this starts with.ogg",length=3.0254875283446712}}
-L["so"]={{path="chatsounds/autoadd/christian_caller/so.ogg",length=0.44907029478458049}}
+L["some"]={{path="chatsounds/autoadd/christian_caller/some.ogg",length=0.63759637188208618}}
 L["some of"]={{path="chatsounds/autoadd/christian_caller/some of/some of Copy.ogg",length=1.3776870748299319},{path="chatsounds/autoadd/christian_caller/some of/some of.ogg",length=0.54580498866213156}}
 L["some of the"]={{path="chatsounds/autoadd/christian_caller/some of the.ogg",length=0.85024943310657597}}
 L["some power had to create that"]={{path="chatsounds/autoadd/christian_caller/some power had to create that.ogg",length=2.4289795918367347}}
 L["some type of"]={{path="chatsounds/autoadd/christian_caller/some type of.ogg",length=1.6182312925170068}}
-L["some"]={{path="chatsounds/autoadd/christian_caller/some.ogg",length=0.63759637188208618}}
 L["somebody"]={{path="chatsounds/autoadd/christian_caller/somebody.ogg",length=0.87142857142857144}}
-L["something had to spring"]={{path="chatsounds/autoadd/christian_caller/something had to spring.ogg",length=1.8057596371882085}}
-L["something had"]={{path="chatsounds/autoadd/christian_caller/something had.ogg",length=0.73151927437641728}}
-L["something or somebody"]={{path="chatsounds/autoadd/christian_caller/something or somebody.ogg",length=2.2231292517006804}}
 L["something"]={{path="chatsounds/autoadd/christian_caller/something.ogg",length=0.48766439909297055}}
+L["something had"]={{path="chatsounds/autoadd/christian_caller/something had.ogg",length=0.73151927437641728}}
+L["something had to spring"]={{path="chatsounds/autoadd/christian_caller/something had to spring.ogg",length=1.8057596371882085}}
+L["something or somebody"]={{path="chatsounds/autoadd/christian_caller/something or somebody.ogg",length=2.2231292517006804}}
 L["somewhere"]={{path="chatsounds/autoadd/christian_caller/somewhere.ogg",length=0.8121541950113379}}
-L["space region"]={{path="chatsounds/autoadd/christian_caller/space region.ogg",length=1.9317460317460318}}
 L["space"]={{path="chatsounds/autoadd/christian_caller/space.ogg",length=1.0783673469387756}}
+L["space region"]={{path="chatsounds/autoadd/christian_caller/space region.ogg",length=1.9317460317460318}}
 L["spring"]={{path="chatsounds/autoadd/christian_caller/spring.ogg",length=0.94077097505668938}}
 L["starts with"]={{path="chatsounds/autoadd/christian_caller/starts with.ogg",length=1.1908390022675737}}
-L["talking about"]={{path="chatsounds/autoadd/christian_caller/talking about.ogg",length=0.82616780045351479}}
 L["talking"]={{path="chatsounds/autoadd/christian_caller/talking.ogg",length=0.43015873015873018}}
+L["talking about"]={{path="chatsounds/autoadd/christian_caller/talking about.ogg",length=0.82616780045351479}}
 L["that"]={{path="chatsounds/autoadd/christian_caller/that/that Copy.ogg",length=1.2487074829931972},{path="chatsounds/autoadd/christian_caller/that/that Copy1.ogg",length=0.30185941043083903},{path="chatsounds/autoadd/christian_caller/that/that Copy2.ogg",length=1.4066666666666667},{path="chatsounds/autoadd/christian_caller/that/that.ogg",length=0.80857142857142861}}
 L["that began"]={{path="chatsounds/autoadd/christian_caller/that began.ogg",length=1.546077097505669}}
 L["that you say"]={{path="chatsounds/autoadd/christian_caller/that you say.ogg",length=0.80498866213151932}}
@@ -118,22 +118,22 @@ L["thats it"]={{path="chatsounds/autoadd/christian_caller/thats it.ogg",length=1
 L["the atheist experience"]={{path="chatsounds/autoadd/christian_caller/the atheist experience.ogg",length=1.6738321995464853}}
 L["the building"]={{path="chatsounds/autoadd/christian_caller/the building.ogg",length=0.55201814058956911}}
 L["the creator"]={{path="chatsounds/autoadd/christian_caller/the creator.ogg",length=2.2864852607709749}}
-L["the higher power"]={{path="chatsounds/autoadd/christian_caller/the higher power.ogg",length=2.4298866213151928}}
 L["the higher"]={{path="chatsounds/autoadd/christian_caller/the higher.ogg",length=0.54367346938775507}}
+L["the higher power"]={{path="chatsounds/autoadd/christian_caller/the higher power.ogg",length=2.4298866213151928}}
 L["the outter"]={{path="chatsounds/autoadd/christian_caller/the outter.ogg",length=0.40000000000000002}}
-L["the proof is right outside the building"]={{path="chatsounds/autoadd/christian_caller/the proof is right outside the building.ogg",length=2.9085714285714284}}
 L["the proof"]={{path="chatsounds/autoadd/christian_caller/the proof.ogg",length=0.74662131519274377}}
+L["the proof is right outside the building"]={{path="chatsounds/autoadd/christian_caller/the proof is right outside the building.ogg",length=2.9085714285714284}}
 L["the reason"]={{path="chatsounds/autoadd/christian_caller/the reason.ogg",length=0.75691609977324259}}
 L["the use"]={{path="chatsounds/autoadd/christian_caller/the use.ogg",length=2.3455782312925169}}
 L["the ways"]={{path="chatsounds/autoadd/christian_caller/the ways.ogg",length=1.5339229024943311}}
 L["the with"]={{path="chatsounds/autoadd/christian_caller/the with.ogg",length=0.79882086167800459}}
 L["then ask yourself"]={{path="chatsounds/autoadd/christian_caller/then ask yourself.ogg",length=1.3404535147392291}}
 L["theory"]={{path="chatsounds/autoadd/christian_caller/theory.ogg",length=0.4564625850340136}}
+L["theres a"]={{path="chatsounds/autoadd/christian_caller/theres a.ogg",length=0.49015873015873018}}
 L["theres a cause and effect"]={{path="chatsounds/autoadd/christian_caller/theres a cause and effect.ogg",length=2.4601360544217687}}
 L["theres a reason everything exists"]={{path="chatsounds/autoadd/christian_caller/theres a reason everything exists.ogg",length=1.7977324263038548}}
-L["theres a"]={{path="chatsounds/autoadd/christian_caller/theres a.ogg",length=0.49015873015873018}}
-L["theres this other theory"]={{path="chatsounds/autoadd/christian_caller/theres this other theory.ogg",length=1.3160544217687076}}
 L["theres this other"]={{path="chatsounds/autoadd/christian_caller/theres this other.ogg",length=0.85959183673469386}}
+L["theres this other theory"]={{path="chatsounds/autoadd/christian_caller/theres this other theory.ogg",length=1.3160544217687076}}
 L["things"]={{path="chatsounds/autoadd/christian_caller/things.ogg",length=0.4178684807256236}}
 L["this"]={{path="chatsounds/autoadd/christian_caller/this/this Copy.ogg",length=1.2546938775510204},{path="chatsounds/autoadd/christian_caller/this/this.ogg",length=0.37120181405895691}}
 L["this human life"]={{path="chatsounds/autoadd/christian_caller/this human life.ogg",length=1.2175510204081632}}
@@ -150,25 +150,25 @@ L["use"]={{path="chatsounds/autoadd/christian_caller/use.ogg",length=1.160997732
 L["well"]={{path="chatsounds/autoadd/christian_caller/well/well Copy.ogg",length=1.5709750566893423},{path="chatsounds/autoadd/christian_caller/well/well.ogg",length=0.37832199546485262}}
 L["well i have sympathy for you sir"]={{path="chatsounds/autoadd/christian_caller/well i have sympathy for you sir.ogg",length=2.6697959183673468}}
 L["were created"]={{path="chatsounds/autoadd/christian_caller/were created.ogg",length=1.683718820861678}}
+L["what"]={{path="chatsounds/autoadd/christian_caller/what.ogg",length=0.38217687074829931}}
 L["what else do i need to know"]={{path="chatsounds/autoadd/christian_caller/what else do i need to know.ogg",length=1.3155555555555556}}
 L["what question"]={{path="chatsounds/autoadd/christian_caller/what question.ogg",length=1.1826757369614513}}
-L["what"]={{path="chatsounds/autoadd/christian_caller/what.ogg",length=0.38217687074829931}}
 L["whatever youre talking about"]={{path="chatsounds/autoadd/christian_caller/whatever youre talking about.ogg",length=2.4634920634920636}}
 L["when you go outside"]={{path="chatsounds/autoadd/christian_caller/when you go outside.ogg",length=1.5529251700680271}}
-L["where did this matter how was this matter created"]={{path="chatsounds/autoadd/christian_caller/where did this matter how was this matter created.ogg",length=5.5}}
 L["where did"]={{path="chatsounds/autoadd/christian_caller/where did.ogg",length=0.87841269841269842}}
+L["where did this matter how was this matter created"]={{path="chatsounds/autoadd/christian_caller/where did this matter how was this matter created.ogg",length=5.5}}
 L["why is there"]={{path="chatsounds/autoadd/christian_caller/why is there.ogg",length=1.1039909297052155}}
+L["with"]={{path="chatsounds/autoadd/christian_caller/with.ogg",length=1.1551020408163266}}
 L["with the reason"]={{path="chatsounds/autoadd/christian_caller/with the reason.ogg",length=1.1905668934240363}}
 L["with your sowing"]={{path="chatsounds/autoadd/christian_caller/with your sowing.ogg",length=0.85147392290249435}}
-L["with"]={{path="chatsounds/autoadd/christian_caller/with.ogg",length=1.1551020408163266}}
-L["yeah i believe that"]={{path="chatsounds/autoadd/christian_caller/yeah i believe that.ogg",length=1.5018594104308389}}
 L["yeah"]={{path="chatsounds/autoadd/christian_caller/yeah.ogg",length=0.40000000000000002}}
+L["yeah i believe that"]={{path="chatsounds/autoadd/christian_caller/yeah i believe that.ogg",length=1.5018594104308389}}
+L["you"]={{path="chatsounds/autoadd/christian_caller/you.ogg",length=2.7239455782312927}}
 L["you have to go back"]={{path="chatsounds/autoadd/christian_caller/you have to go back/you have to go back Copy.ogg",length=0.96852607709750571},{path="chatsounds/autoadd/christian_caller/you have to go back/you have to go back.ogg",length=2}}
 L["you say"]={{path="chatsounds/autoadd/christian_caller/you say.ogg",length=1.2504308390022676}}
 L["you saying"]={{path="chatsounds/autoadd/christian_caller/you saying.ogg",length=0.60947845804988665}}
 L["you will reap"]={{path="chatsounds/autoadd/christian_caller/you will reap.ogg",length=1.2253514739229026}}
-L["you"]={{path="chatsounds/autoadd/christian_caller/you.ogg",length=2.7239455782312927}}
 L["youre in denial"]={{path="chatsounds/autoadd/christian_caller/youre in denial.ogg",length=1.0341950113378684}}
-L["youre not gonna want this pers uh forever"]={{path="chatsounds/autoadd/christian_caller/youre not gonna want this pers uh forever.ogg",length=3.6685714285714286}}
 L["youre not"]={{path="chatsounds/autoadd/christian_caller/youre not.ogg",length=0.48367346938775513}}
+L["youre not gonna want this pers uh forever"]={{path="chatsounds/autoadd/christian_caller/youre not gonna want this pers uh forever.ogg",length=3.6685714285714286}}
 c.EndList()

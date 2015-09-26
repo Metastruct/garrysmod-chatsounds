@@ -8,8 +8,8 @@ L["dont stare at me"]={{path="chatsounds/autoadd/cat_yelling/dont stare at me.og
 L["fucking jump"]={{path="chatsounds/autoadd/cat_yelling/fucking jump/fucking jump 2.ogg",length=1.6331065759637189},{path="chatsounds/autoadd/cat_yelling/fucking jump/fucking jump.ogg",length=1.658639455782313}}
 L["fuuck you"]={{path="chatsounds/autoadd/cat_yelling/fuuck you.ogg",length=1.5820861678004534}}
 L["gaargh"]={{path="chatsounds/autoadd/cat_yelling/gaargh.ogg",length=1.1312698412698412}}
-L["gtf down from there"]={{path="chatsounds/autoadd/cat_yelling/gtf down from there.ogg",length=2.5007256235827664}}
 L["gtf down"]={{path="chatsounds/autoadd/cat_yelling/gtf down.ogg",length=1.6161224489795918}}
+L["gtf down from there"]={{path="chatsounds/autoadd/cat_yelling/gtf down from there.ogg",length=2.5007256235827664}}
 L["gtf outside"]={{path="chatsounds/autoadd/cat_yelling/gtf outside.ogg",length=1.8117233560090702}}
 L["hh run"]={{path="chatsounds/autoadd/cat_yelling/hh run.ogg",length=1.046235827664399}}
 L["i will end you"]={{path="chatsounds/autoadd/cat_yelling/i will end you.ogg",length=1.5820861678004534}}

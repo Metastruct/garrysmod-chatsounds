@@ -25,8 +25,8 @@ L["i believe i knew your mother son"]={{path="chatsounds/autoadd/GI_Joe_PSA/I be
 L["i dont know much about computers other than"]={{path="chatsounds/autoadd/GI_Joe_PSA/I dont know much about computers other than.ogg",length=2.6595918367346938}}
 L["i dont wanna die"]={{path="chatsounds/autoadd/GI_Joe_PSA/I dont wanna die.ogg",length=2.5274149659863947}}
 L["i dont wannncicle"]={{path="chatsounds/autoadd/GI_Joe_PSA/I dont wannncicle.ogg",length=4.1533106575963723}}
-L["i just wanna ride my motorcy cle"]={{path="chatsounds/autoadd/GI_Joe_PSA/I just wanna ride my motorcy cle.ogg",length=5.0548526077097504}}
 L["i just wanna ride my motorcy"]={{path="chatsounds/autoadd/GI_Joe_PSA/I just wanna ride my motorcy.ogg",length=2.6203401360544216}}
+L["i just wanna ride my motorcy cle"]={{path="chatsounds/autoadd/GI_Joe_PSA/I just wanna ride my motorcy cle.ogg",length=5.0548526077097504}}
 L["i just want to eat you up"]={{path="chatsounds/autoadd/GI_Joe_PSA/I just want to eat you up.ogg",length=1.1680045351473922}}
 L["i just want to ride my motorcycle"]={{path="chatsounds/autoadd/GI_Joe_PSA/I just want to ride my motorcycle.ogg",length=4.6802721088435373}}
 L["im a computer"]={{path="chatsounds/autoadd/GI_Joe_PSA/Im a computer.ogg",length=1.0863945578231293}}

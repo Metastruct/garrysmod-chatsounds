@@ -1,6 +1,6 @@
 c.StartList("Gamer_Poop_LA_Noire")
-L["dont do anything i wouldnt do partner"]={{path="chatsounds/autoadd/Gamer_Poop_LA_Noire/dont do anything i wouldnt do partner.ogg",length=2.6469160997732426}}
 L["dont do anything i wouldnt do"]={{path="chatsounds/autoadd/Gamer_Poop_LA_Noire/dont do anything i wouldnt do.ogg",length=1.7764625850340137}}
+L["dont do anything i wouldnt do partner"]={{path="chatsounds/autoadd/Gamer_Poop_LA_Noire/dont do anything i wouldnt do partner.ogg",length=2.6469160997732426}}
 L["dont tell me you actually jerk off phelps"]={{path="chatsounds/autoadd/Gamer_Poop_LA_Noire/dont tell me you actually jerk off phelps.ogg",length=1.5438321995464852}}
 L["go flap your cock somewhere else"]={{path="chatsounds/autoadd/Gamer_Poop_LA_Noire/go flap your cock somewhere else.ogg",length=1.7263492063492063}}
 L["heeey i love to jerk off"]={{path="chatsounds/autoadd/Gamer_Poop_LA_Noire/heeey i love to jerk off.ogg",length=1.7644671201814059}}

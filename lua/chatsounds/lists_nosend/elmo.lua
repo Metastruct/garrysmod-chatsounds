@@ -17,9 +17,9 @@ L["elmo hopes so too"]={{path="chatsounds/autoadd/elmo/elmo hopes so too.ogg",le
 L["elmo hum"]={{path="chatsounds/autoadd/elmo/elmo hum.ogg",length=1.6417233560090703}}
 L["elmo kiss"]={{path="chatsounds/autoadd/elmo/elmo kiss.ogg",length=1.4354875283446713}}
 L["elmo kisses"]={{path="chatsounds/autoadd/elmo/elmo kisses/elmo kisses 1.ogg",length=4.0231519274376417},{path="chatsounds/autoadd/elmo/elmo kisses/elmo kisses 2.ogg",length=3.9098412698412699}}
+L["elmo laugh"]={{path="chatsounds/autoadd/elmo/elmo laugh.ogg",length=1.079047619047619}}
 L["elmo laugh 2"]={{path="chatsounds/autoadd/elmo/elmo laugh 2.ogg",length=1.0403401360544218}}
 L["elmo laugh 3"]={{path="chatsounds/autoadd/elmo/elmo laugh 3.ogg",length=1.5207709750566893}}
-L["elmo laugh"]={{path="chatsounds/autoadd/elmo/elmo laugh.ogg",length=1.079047619047619}}
 L["elmo likes being red"]={{path="chatsounds/autoadd/elmo/elmo likes being red.ogg",length=1.5677777777777777}}
 L["elmo likes cookies"]={{path="chatsounds/autoadd/elmo/elmo likes cookies.ogg",length=1.127437641723356}}
 L["elmo lmfao"]={{path="chatsounds/autoadd/elmo/elmo lmfao.ogg",length=2.850045351473923}}
@@ -41,8 +41,8 @@ L["elmos favourite color is red"]={{path="chatsounds/autoadd/elmo/elmos favourit
 L["elmos favourite food is wasabi"]={{path="chatsounds/autoadd/elmo/elmos favourite food is wasabi.ogg",length=2.4919954648526077}}
 L["elmos meaning of life"]={{path="chatsounds/autoadd/elmo/elmos meaning of life.ogg",length=10.601836734693878}}
 L["equador"]={{path="chatsounds/autoadd/elmo/equador.ogg",length=0.78632653061224489}}
-L["f you computer f you"]={{path="chatsounds/autoadd/elmo/f you computer f you.ogg",length=3.2903854875283445}}
 L["f you"]={{path="chatsounds/autoadd/elmo/f you.ogg",length=0.62673469387755099}}
+L["f you computer f you"]={{path="chatsounds/autoadd/elmo/f you computer f you.ogg",length=3.2903854875283445}}
 L["germany"]={{path="chatsounds/autoadd/elmo/germany.ogg",length=0.63941043083900229}}
 L["give elmo a big kiss"]={{path="chatsounds/autoadd/elmo/give elmo a big kiss.ogg",length=1.9077097505668934}}
 L["he hasnt gotten it yet but maybe he will"]={{path="chatsounds/autoadd/elmo/he hasnt gotten it yet but maybe he will.ogg",length=2.5835827664399091}}

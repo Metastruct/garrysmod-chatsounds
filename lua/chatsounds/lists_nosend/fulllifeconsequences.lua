@@ -32,9 +32,9 @@ L["countrysides there was no birds singing and the pants were dead"]={{path="cha
 L["fightin der final boss"]={{path="chatsounds/autoadd/fulllifeconsequences/fightin der final boss.ogg",length=2.3251700680272109}}
 L["get stepped on"]={{path="chatsounds/autoadd/fulllifeconsequences/get stepped on.ogg",length=1.3310884353741497}}
 L["gorden freeman"]={{path="chatsounds/autoadd/fulllifeconsequences/gorden freeman.ogg",length=1.154172335600907}}
+L["gordon"]={{path="chatsounds/autoadd/fulllifeconsequences/gordon.ogg",length=0.47176870748299321}}
 L["gordon freeman looked up and said"]={{path="chatsounds/autoadd/fulllifeconsequences/gordon freeman looked up and said.ogg",length=1.5922448979591837}}
 L["gordon freeman said"]={{path="chatsounds/autoadd/fulllifeconsequences/gordon freeman said.ogg",length=0.97723356009070295}}
-L["gordon"]={{path="chatsounds/autoadd/fulllifeconsequences/gordon.ogg",length=0.47176870748299321}}
 L["he found his brother"]={{path="chatsounds/autoadd/fulllifeconsequences/he found his brother.ogg",length=1.2384126984126984}}
 L["he got an email from his brother that said"]={{path="chatsounds/autoadd/fulllifeconsequences/he got an email from his brother that said.ogg",length=2.5947619047619046}}
 L["he kept driving down the road and made sure there was no zombies around"]={{path="chatsounds/autoadd/fulllifeconsequences/he kept driving down the road and made sure there was no zombies around.ogg",length=4.4397278911564628}}

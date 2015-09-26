@@ -14,6 +14,6 @@ L["okay maam drive around"]={{path="chatsounds/autoadd/dane_cook/okay maam drive
 L["scuse me chewbaca uh"]={{path="chatsounds/autoadd/dane_cook/scuse me chewbaca uh.ogg",length=1.7298866213151927}}
 L["someone get some sauce now"]={{path="chatsounds/autoadd/dane_cook/someone get some sauce now.ogg",length=1.5905668934240362}}
 L["sweet sauce all over my body"]={{path="chatsounds/autoadd/dane_cook/sweet sauce all over my body.ogg",length=2.5541950113378684}}
-L["whopper no onion"]={{path="chatsounds/autoadd/dane_cook/whopper no onion.ogg",length=1.3815873015873017}}
 L["whopper"]={{path="chatsounds/autoadd/dane_cook/whopper.ogg",length=1.0797278911564625}}
+L["whopper no onion"]={{path="chatsounds/autoadd/dane_cook/whopper no onion.ogg",length=1.3815873015873017}}
 c.EndList()

@@ -38,8 +38,8 @@ L["thatexplains2"]={{path="chatsounds/autoadd/wingblast/thatexplains2.ogg",lengt
 L["thatistrue"]={{path="chatsounds/autoadd/wingblast/thatistrue.ogg",length=1.230657596371882}}
 L["the biggest ass"]={{path="chatsounds/autoadd/wingblast/the biggest ass.ogg",length=1.3467573696145125}}
 L["the new frerf scents from old spice"]={{path="chatsounds/autoadd/wingblast/the new frerf scents from old spice.ogg",length=4.1795918367346943}}
-L["there goes philip banks the biggest ass that ever lived what a douche"]={{path="chatsounds/autoadd/wingblast/there goes philip banks the biggest ass that ever lived what a douche.ogg",length=6.1648979591836737}}
 L["there goes philip banks"]={{path="chatsounds/autoadd/wingblast/there goes philip banks.ogg",length=2.2871655328798184}}
+L["there goes philip banks the biggest ass that ever lived what a douche"]={{path="chatsounds/autoadd/wingblast/there goes philip banks the biggest ass that ever lived what a douche.ogg",length=6.1648979591836737}}
 L["well tough shit i dont care"]={{path="chatsounds/autoadd/wingblast/well tough shit i dont care.ogg",length=1.6718367346938776}}
 L["what a douche"]={{path="chatsounds/autoadd/wingblast/what a douche.ogg",length=1.1493877551020408}}
 L["whatisthisplace"]={{path="chatsounds/autoadd/wingblast/whatisthisplace.ogg",length=2.7167346938775512}}

@@ -7,10 +7,10 @@ L["its a two bedroom house its free its got a pool in the back"]={{path="chatsou
 L["its for your house"]={{path="chatsounds/autoadd/free house for you jim/its for your house.ogg",length=1.2668707482993198}}
 L["its free"]={{path="chatsounds/autoadd/free house for you jim/its free/its free.ogg",length=0.74625850340136057},{path="chatsounds/autoadd/free house for you jim/its free/its free2.ogg",length=0.57269841269841271}}
 L["its real estate free"]={{path="chatsounds/autoadd/free house for you jim/its real estate free.ogg",length=1.1280272108843536}}
+L["jim"]={{path="chatsounds/autoadd/free house for you jim/jim.ogg",length=0.31238095238095237}}
 L["jim come get your damn land"]={{path="chatsounds/autoadd/free house for you jim/jim come get your damn land.ogg",length=1.5619047619047619}}
 L["jim does it get better than this"]={{path="chatsounds/autoadd/free house for you jim/jim does it get better than this.ogg",length=1.1280272108843536}}
 L["jim i got real estate"]={{path="chatsounds/autoadd/free house for you jim/jim i got real estate.ogg",length=1.1974603174603176}}
-L["jim"]={{path="chatsounds/autoadd/free house for you jim/jim.ogg",length=0.31238095238095237}}
 L["real estate"]={{path="chatsounds/autoadd/free house for you jim/real estate.ogg",length=0.72888888888888892}}
 L["thats a free house for you jim"]={{path="chatsounds/autoadd/free house for you jim/thats a free house for you jim.ogg",length=1.6486848072562359}}
 L["the following advertisement is intended for jim boonie only"]={{path="chatsounds/autoadd/free house for you jim/the following advertisement is intended for jim boonie only.ogg",length=2.6205442176870748}}

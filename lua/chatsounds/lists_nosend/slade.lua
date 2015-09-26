@@ -3,8 +3,8 @@ L["aah"]={{path="chatsounds/autoadd/slade/aah.ogg",length=0.82430839002267575}}
 L["all rise motherfucker"]={{path="chatsounds/autoadd/slade/all rise motherfucker.ogg",length=1.3931972789115645}}
 L["and it comes with a telephone"]={{path="chatsounds/autoadd/slade/and it comes with a telephone.ogg",length=1.5557369614512471}}
 L["bam look at that bacon sizzle"]={{path="chatsounds/autoadd/slade/bam look at that bacon sizzle.ogg",length=1.3699773242630386}}
-L["bass clitoris"]={{path="chatsounds/autoadd/slade/bass clitoris.ogg",length=1.7531065759637188}}
 L["bass"]={{path="chatsounds/autoadd/slade/bass.ogg",length=0.67088435374149658}}
+L["bass clitoris"]={{path="chatsounds/autoadd/slade/bass clitoris.ogg",length=1.7531065759637188}}
 L["because volvo"]={{path="chatsounds/autoadd/slade/because volvo/because volvo1.ogg",length=1.18421768707483},{path="chatsounds/autoadd/slade/because volvo/because volvo2.ogg",length=1.1726077097505669},{path="chatsounds/autoadd/slade/because volvo/because volvo3.ogg",length=1.3815873015873017}}
 L["clitoris"]={{path="chatsounds/autoadd/slade/clitoris.ogg",length=1.0802267573696145}}
 L["disguise motherfucker"]={{path="chatsounds/autoadd/slade/disguise motherfucker.ogg",length=1.2654875283446712}}
@@ -19,14 +19,14 @@ L["guess what"]={{path="chatsounds/autoadd/slade/guess what.ogg",length=0.708208
 L["hnggh"]={{path="chatsounds/autoadd/slade/hnggh.ogg",length=0.51083900226757373}}
 L["i hate the spaceball"]={{path="chatsounds/autoadd/slade/i hate the spaceball.ogg",length=1.6137868480725623}}
 L["i have to fart here it is"]={{path="chatsounds/autoadd/slade/i have to fart here it is.ogg",length=1.8068707482993198}}
-L["i love the power glove its so bad"]={{path="chatsounds/autoadd/slade/i love the power glove its so bad.ogg",length=3.564263038548753}}
 L["i love the power glove"]={{path="chatsounds/autoadd/slade/i love the power glove.ogg",length=1.4280272108843537}}
+L["i love the power glove its so bad"]={{path="chatsounds/autoadd/slade/i love the power glove its so bad.ogg",length=3.564263038548753}}
 L["i love the spaceball"]={{path="chatsounds/autoadd/slade/i love the spaceball.ogg",length=1.4280272108843537}}
 L["i was conceived in a short bus"]={{path="chatsounds/autoadd/slade/i was conceived in a short bus.ogg",length=3.0998639455782313}}
 L["ill be your woman now"]={{path="chatsounds/autoadd/slade/ill be your woman now.ogg",length=2.5425850340136056}}
+L["im"]={{path="chatsounds/autoadd/slade/im.ogg",length=0.84172335600907033}}
 L["im sorry youre so stupid"]={{path="chatsounds/autoadd/slade/im sorry youre so stupid.ogg",length=2.1246258503401361}}
 L["im sorryyyy im sorry youre so stupid"]={{path="chatsounds/autoadd/slade/im sorryyyy im sorry youre so stupid.ogg",length=12.921904761904761}}
-L["im"]={{path="chatsounds/autoadd/slade/im.ogg",length=0.84172335600907033}}
 L["it begins"]={{path="chatsounds/autoadd/slade/it begins.ogg",length=2.0897959183673471}}
 L["it starts with your thumb and then it gets fun"]={{path="chatsounds/autoadd/slade/it starts with your thumb and then it gets fun.ogg",length=3.2740136054421769}}
 L["its so bad"]={{path="chatsounds/autoadd/slade/its so bad.ogg",length=1.0681179138321995}}
@@ -60,8 +60,8 @@ L["volvo s60r"]={{path="chatsounds/autoadd/slade/volvo s60r.ogg",length=1.660226
 L["vov"]={{path="chatsounds/autoadd/slade/vov.ogg",length=0.30560090702947845}}
 L["warrgharbl"]={{path="chatsounds/autoadd/slade/warrgharbl.ogg",length=1.3467573696145125}}
 L["way cool"]={{path="chatsounds/autoadd/slade/way cool.ogg",length=1.1493877551020408}}
-L["what do these pills do"]={{path="chatsounds/autoadd/slade/what do these pills do/pills1.ogg",length=2.3230385487528347},{path="chatsounds/autoadd/slade/what do these pills do/pills2.ogg",length=2.0433560090702949}}
 L["what"]={{path="chatsounds/autoadd/slade/what.ogg",length=0.39473922902494329}}
+L["what do these pills do"]={{path="chatsounds/autoadd/slade/what do these pills do/pills1.ogg",length=2.3230385487528347},{path="chatsounds/autoadd/slade/what do these pills do/pills2.ogg",length=2.0433560090702949}}
 L["wheres my teddy ruxpin"]={{path="chatsounds/autoadd/slade/wheres my teddy ruxpin.ogg",length=3.1927437641723357}}
 L["whoa"]={{path="chatsounds/autoadd/slade/whoa.ogg",length=0.92879818594104313}}
 L["whooa"]={{path="chatsounds/autoadd/slade/whooa.ogg",length=0.55727891156462583}}

@@ -6,17 +6,17 @@ L["ag"]={{path="chatsounds/autoadd/noiwex/ag.ogg",length=0.21777777777777776}}
 L["ah fuck you letterhead"]={{path="chatsounds/autoadd/noiwex/ah fuck you letterhead.ogg",length=2.5292290249433105}}
 L["aha"]={{path="chatsounds/autoadd/noiwex/aha.ogg",length=1.3906349206349207}}
 L["ai"]={{path="chatsounds/autoadd/noiwex/ai.mp3",length=0.42961451247165533}}
+L["aii"]={{path="chatsounds/autoadd/noiwex/aii.mp3",length=1.0376190476190477}}
 L["aii v dyshlo te urod"]={{path="chatsounds/autoadd/noiwex/aii v dyshlo te urod.mp3",length=2.2777777777777777}}
 L["aii yo"]={{path="chatsounds/autoadd/noiwex/aii yo.mp3",length=0.9324489795918367}}
-L["aii"]={{path="chatsounds/autoadd/noiwex/aii.mp3",length=1.0376190476190477}}
 L["aknepasta"]={{path="chatsounds/autoadd/noiwex/aknepasta.ogg",length=1.0540589569160999}}
 L["amazing graphic fidelity"]={{path="chatsounds/autoadd/noiwex/amazing graphic fidelity.ogg",length=1.5108390022675737}}
 L["and you all need to learn how to handle real power"]={{path="chatsounds/autoadd/noiwex/and you all need to learn how to handle real power.ogg",length=3.3456916099773242}}
 L["assholes made a mess"]={{path="chatsounds/autoadd/noiwex/assholes made a mess.ogg",length=1.3435600907029479}}
 L["aui"]={{path="chatsounds/autoadd/noiwex/aui.mp3",length=0.57523809523809522}}
 L["battlefield"]={{path="chatsounds/autoadd/noiwex/battlefield.ogg",length=0.63272108843537411}}
-L["bf3intro bash"]={{path="chatsounds/autoadd/noiwex/bf3intro bash.ogg",length=4.6596598639455786}}
 L["bf3intro"]={{path="chatsounds/autoadd/noiwex/bf3intro.ogg",length=26.668775510204082}}
+L["bf3intro bash"]={{path="chatsounds/autoadd/noiwex/bf3intro bash.ogg",length=4.6596598639455786}}
 L["biggasp"]={{path="chatsounds/autoadd/noiwex/biggasp.ogg",length=1.4048072562358276}}
 L["bo"]={{path="chatsounds/autoadd/noiwex/bo.ogg",length=0.20417233560090703}}
 L["boom"]={{path="chatsounds/autoadd/noiwex/boom.ogg",length=0.42575963718820864}}
@@ -69,16 +69,16 @@ L["oeoeoeoeoe"]={{path="chatsounds/autoadd/noiwex/oeoeoeoeoe.ogg",length=2.35315
 L["oh shit im sorry"]={{path="chatsounds/autoadd/noiwex/oh shit im sorry.ogg",length=1.3194784580498866}}
 L["omg"]={{path="chatsounds/autoadd/noiwex/omg.ogg",length=1.3583673469387756}}
 L["oooooooooo oh"]={{path="chatsounds/autoadd/noiwex/oooooooooo oh.ogg",length=1.4127437641723355}}
-L["opa liver vylez"]={{path="chatsounds/autoadd/noiwex/opa liver vylez.mp3",length=2.5737188208616781}}
 L["opa"]={{path="chatsounds/autoadd/noiwex/opa.ogg",length=0.71943310657596371}}
+L["opa liver vylez"]={{path="chatsounds/autoadd/noiwex/opa liver vylez.mp3",length=2.5737188208616781}}
 L["patsanov valyat"]={{path="chatsounds/autoadd/noiwex/patsanov valyat.mp3",length=1.945374149659864}}
 L["pffkrt"]={{path="chatsounds/autoadd/noiwex/pffkrt.ogg",length=0.56687074829931972}}
 L["ppyyrroo ddeeaatthh"]={{path="chatsounds/autoadd/noiwex/ppyyrroo ddeeaatthh.ogg",length=2.8583673469387754}}
 L["punta punta punta punta"]={{path="chatsounds/autoadd/noiwex/punta punta punta punta.ogg",length=3.5696145124716554}}
 L["pweehahaha"]={{path="chatsounds/autoadd/noiwex/pweehahaha.ogg",length=1.2223582766439909}}
 L["radio mayak"]={{path="chatsounds/autoadd/noiwex/radio mayak.ogg",length=8.0114739229024945}}
-L["rar sos"]={{path="chatsounds/autoadd/noiwex/rar sos.ogg",length=0.86362811791383221}}
 L["rar"]={{path="chatsounds/autoadd/noiwex/rar.ogg",length=0.50931972789115643}}
+L["rar sos"]={{path="chatsounds/autoadd/noiwex/rar sos.ogg",length=0.86362811791383221}}
 L["rarr"]={{path="chatsounds/autoadd/noiwex/rarr.ogg",length=0.50931972789115643}}
 L["rawr"]={{path="chatsounds/autoadd/noiwex/rawr.ogg",length=0.50931972789115643}}
 L["real power"]={{path="chatsounds/autoadd/noiwex/real power.ogg",length=23.130136054421769}}
@@ -115,15 +115,15 @@ L["volyny k boju"]={{path="chatsounds/autoadd/noiwex/volyny k boju.mp3",length=1
 L["wall"]={{path="chatsounds/autoadd/noiwex/wall.ogg",length=0.3341043083900227}}
 L["warp"]={{path="chatsounds/autoadd/noiwex/warp.ogg",length=1.6469387755102041}}
 L["what year is this"]={{path="chatsounds/autoadd/noiwex/what year is this.ogg",length=1.050702947845805}}
-L["when you hit a wall you get this nice boom you hit it in your leap and you go"]={{path="chatsounds/autoadd/noiwex/when you hit a wall you get this nice boom you hit it in your leap and you go.ogg",length=3.769705215419501}}
 L["when you hit a wall"]={{path="chatsounds/autoadd/noiwex/when you hit a wall.ogg",length=0.92541950113378679}}
+L["when you hit a wall you get this nice boom you hit it in your leap and you go"]={{path="chatsounds/autoadd/noiwex/when you hit a wall you get this nice boom you hit it in your leap and you go.ogg",length=3.769705215419501}}
 L["wiiu"]={{path="chatsounds/autoadd/noiwex/wiiu.ogg",length=1.0850566893424036}}
 L["xyu"]={{path="chatsounds/autoadd/noiwex/xyu.ogg",length=0.41650793650793649}}
 L["yessassessassaa"]={{path="chatsounds/autoadd/noiwex/yessassessassaa.ogg",length=2.1878231292517007}}
 L["yey"]={{path="chatsounds/autoadd/noiwex/yey.ogg",length=0.73519274376417232}}
-L["you get this nice boom you hit in your leap and you go"]={{path="chatsounds/autoadd/noiwex/you get this nice boom you hit in your leap and you go.ogg",length=2.4303628117913831}}
-L["you get this nice boom"]={{path="chatsounds/autoadd/noiwex/you get this nice boom.ogg",length=1.1708390022675736}}
 L["you get this nice"]={{path="chatsounds/autoadd/noiwex/you get this nice.ogg",length=0.7036734693877551}}
+L["you get this nice boom"]={{path="chatsounds/autoadd/noiwex/you get this nice boom.ogg",length=1.1708390022675736}}
+L["you get this nice boom you hit in your leap and you go"]={{path="chatsounds/autoadd/noiwex/you get this nice boom you hit in your leap and you go.ogg",length=2.4303628117913831}}
 L["you hit it in your leap and you go"]={{path="chatsounds/autoadd/noiwex/you hit it in your leap and you go.ogg",length=1.2595238095238095}}
 L["you need a shower"]={{path="chatsounds/autoadd/noiwex/you need a shower.ogg",length=1.3699092970521543}}
 L["you two need yoga"]={{path="chatsounds/autoadd/noiwex/you two need yoga.ogg",length=1.4225850340136055}}

@@ -6,6 +6,6 @@ L["ive"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/Ive.ogg",length=0.49845804
 L["more"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/more.ogg",length=0.22310657596371883}}
 L["mud"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/mud.ogg",length=0.4320861678004535}}
 L["mudcrabs"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/mudcrabs.ogg",length=0.85004535147392291}}
-L["than you"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/than you.ogg",length=0.66718820861678008}}
 L["than"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/than.ogg",length=0.19698412698412698}}
+L["than you"]={{path="chatsounds/autoadd/ivefoughtmudcrabs/than you.ogg",length=0.66718820861678008}}
 c.EndList()

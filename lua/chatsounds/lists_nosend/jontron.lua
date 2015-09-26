@@ -56,8 +56,8 @@ L["thats fuckin metal as fuck dude"]={{path="chatsounds/autoadd/jontron/thats fu
 L["they didnt blow it"]={{path="chatsounds/autoadd/jontron/they didnt blow it.ogg",length=0.73405895691609979}}
 L["this is crack"]={{path="chatsounds/autoadd/jontron/this is crack.ogg",length=2.033174603174603}}
 L["waht daaa fhuckk"]={{path="chatsounds/autoadd/jontron/waht daaa fhuckk.ogg",length=3.4164852607709753}}
-L["wat wtf"]={{path="chatsounds/autoadd/jontron/wat wtf.ogg",length=3.1057823129251703}}
 L["wat"]={{path="chatsounds/autoadd/jontron/wat.ogg",length=0.88049886621315188}}
+L["wat wtf"]={{path="chatsounds/autoadd/jontron/wat wtf.ogg",length=3.1057823129251703}}
 L["wh why what is it"]={{path="chatsounds/autoadd/jontron/wh why what is it.ogg",length=1.8754195011337869}}
 L["what is my life"]={{path="chatsounds/autoadd/jontron/what is my life.ogg",length=1.6433786848072562}}
 L["what is this a crack den i thought i was supposed to be getting off drugs"]={{path="chatsounds/autoadd/jontron/what is this a crack den i thought i was supposed to be getting off drugs.ogg",length=3.3058956916099773}}

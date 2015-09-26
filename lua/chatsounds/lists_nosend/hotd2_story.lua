@@ -1,13 +1,13 @@
 c.StartList("hotd2_story")
-L["a0063 just ahead"]={{path="chatsounds/autoadd/hotd2_story/a0063 just ahead/331_GA.ogg",length=3.0831292517006803},{path="chatsounds/autoadd/hotd2_story/a0063 just ahead/a0063 just ahead.ogg",length=2.1924263038548752}}
 L["a0063 just ahead"]={{path="chatsounds/autoadd/hotd2_story/a0063 just ahead.ogg",length=2.1924263038548752}}
+L["a0063 just ahead"]={{path="chatsounds/autoadd/hotd2_story/a0063 just ahead/331_GA.ogg",length=3.0831292517006803},{path="chatsounds/autoadd/hotd2_story/a0063 just ahead/a0063 just ahead.ogg",length=2.1924263038548752}}
 L["above you"]={{path="chatsounds/autoadd/hotd2_story/above you.ogg",length=0.6408616780045352}}
 L["amy harry"]={{path="chatsounds/autoadd/hotd2_story/amy harry/179_GOA.ogg",length=1.6538775510204082},{path="chatsounds/autoadd/hotd2_story/amy harry/amy harry 2.ogg",length=1.0042630385487528},{path="chatsounds/autoadd/hotd2_story/amy harry/amy harry.ogg",length=1.7211791383219954}}
+L["amy harry"]={{path="chatsounds/autoadd/hotd2_story/amy harry.ogg",length=1.7211791383219954}}
 L["amy harry are you alright"]={{path="chatsounds/autoadd/hotd2_story/amy harry are you alright/317_E.ogg",length=2.381859410430839},{path="chatsounds/autoadd/hotd2_story/amy harry are you alright/amy harry are you alright.ogg",length=2.2826757369614512}}
 L["amy harry are you alright"]={{path="chatsounds/autoadd/hotd2_story/amy harry are you alright.ogg",length=2.2826757369614512}}
 L["amy harry the chaos of the city is increasing"]={{path="chatsounds/autoadd/hotd2_story/amy harry the chaos of the city is increasing.ogg",length=3.3522448979591837}}
 L["amy harry the state of the city is too much"]={{path="chatsounds/autoadd/hotd2_story/amy harry the state of the city is too much.ogg",length=3.5091156462585036}}
-L["amy harry"]={{path="chatsounds/autoadd/hotd2_story/amy harry.ogg",length=1.7211791383219954}}
 L["amy hary"]={{path="chatsounds/autoadd/hotd2_story/amy hary/amy harry 2.ogg",length=1.1254875283446713},{path="chatsounds/autoadd/hotd2_story/amy hary/amy harry.ogg",length=1.7199092970521541}}
 L["amy what happened amy"]={{path="chatsounds/autoadd/hotd2_story/amy what happened amy/amy what happened amy 2.ogg",length=2.1383673469387756},{path="chatsounds/autoadd/hotd2_story/amy what happened amy/amy what happened amy.ogg",length=1.66421768707483}}
 L["are they in here"]={{path="chatsounds/autoadd/hotd2_story/are they in here/147_J.ogg",length=0.87619047619047619},{path="chatsounds/autoadd/hotd2_story/are they in here/are they in here.ogg",length=0.7256235827664399}}
@@ -18,12 +18,12 @@ L["as long as we have the will to live"]={{path="chatsounds/autoadd/hotd2_story/
 L["as long as we have the will to live"]={{path="chatsounds/autoadd/hotd2_story/as long as we have the will to live.ogg",length=2.2377777777777776}}
 L["as long as we try to keep on living"]={{path="chatsounds/autoadd/hotd2_story/as long as we try to keep on living.ogg",length=2.4984580498866213}}
 L["at last youve come friends"]={{path="chatsounds/autoadd/hotd2_story/at last youve come friends.ogg",length=2.8024489795918366}}
-L["bossmumbling"]={{path="chatsounds/autoadd/hotd2_story/bossmumbling/350_AE_A.ogg",length=2.0444444444444443},{path="chatsounds/autoadd/hotd2_story/bossmumbling/bossmumbling.ogg",length=1.9759183673469387}}
 L["bossmumbling"]={{path="chatsounds/autoadd/hotd2_story/bossmumbling.ogg",length=1.9759183673469387}}
+L["bossmumbling"]={{path="chatsounds/autoadd/hotd2_story/bossmumbling/350_AE_A.ogg",length=2.0444444444444443},{path="chatsounds/autoadd/hotd2_story/bossmumbling/bossmumbling.ogg",length=1.9759183673469387}}
 L["can we get to sunset bridge this way"]={{path="chatsounds/autoadd/hotd2_story/can we get to sunset bridge this way/73_Y_W.ogg",length=2.3314285714285714},{path="chatsounds/autoadd/hotd2_story/can we get to sunset bridge this way/can we get to sunset bridge this way.ogg",length=1.7527891156462585}}
 L["can we get to sunset bridge this way"]={{path="chatsounds/autoadd/hotd2_story/can we get to sunset bridge this way.ogg",length=1.7527891156462585}}
-L["cant be youre"]={{path="chatsounds/autoadd/hotd2_story/cant be youre.ogg",length=2.2857142857142856}}
 L["cant be"]={{path="chatsounds/autoadd/hotd2_story/cant be.ogg",length=0.66394557823129252}}
+L["cant be youre"]={{path="chatsounds/autoadd/hotd2_story/cant be youre.ogg",length=2.2857142857142856}}
 L["curien"]={{path="chatsounds/autoadd/hotd2_story/curien/03_ZEA.ogg",length=5.5619047619047617},{path="chatsounds/autoadd/hotd2_story/curien/04_ZE.ogg",length=0.99034013605442173},{path="chatsounds/autoadd/hotd2_story/curien/06_ZE.ogg",length=0.77895691609977324},{path="chatsounds/autoadd/hotd2_story/curien/29_1ZE.ogg",length=1.7233560090702948},{path="chatsounds/autoadd/hotd2_story/curien/29_2ZE.ogg",length=2.346485260770975},{path="chatsounds/autoadd/hotd2_story/curien/30_ZE2P.ogg",length=1.70140589569161},{path="chatsounds/autoadd/hotd2_story/curien/337_ZE.ogg",length=2.9611791383219956},{path="chatsounds/autoadd/hotd2_story/curien/338_GA.ogg",length=1.3643537414965987},{path="chatsounds/autoadd/hotd2_story/curien/33_ZEA.ogg",length=4.4103854875283446},{path="chatsounds/autoadd/hotd2_story/curien/curien.ogg",length=4.3199092970521544},{path="chatsounds/autoadd/hotd2_story/curien/hahaha seems like my advice had no effect.ogg",length=4.3367346938775508}}
 L["did we really do the right thing"]={{path="chatsounds/autoadd/hotd2_story/did we really do the right thing.ogg",length=1.346938775510204}}
 L["do you know what youre doing"]={{path="chatsounds/autoadd/hotd2_story/do you know what youre doing/370_GO.ogg",length=1.0971428571428572},{path="chatsounds/autoadd/hotd2_story/do you know what youre doing/do you know what youre doing.ogg",length=1.5342403628117913}}
@@ -31,8 +31,8 @@ L["do you know what youre doing"]={{path="chatsounds/autoadd/hotd2_story/do you 
 L["dogs of the ams time they made a move"]={{path="chatsounds/autoadd/hotd2_story/dogs of the ams time they made a move.ogg",length=3.2405895691609978}}
 L["dont care who it is no ones gotta get away with this"]={{path="chatsounds/autoadd/hotd2_story/dont care who it is no ones gotta get away with this.ogg",length=2.8266666666666667}}
 L["dont come dont come"]={{path="chatsounds/autoadd/hotd2_story/dont come dont come/56_2_Y_W.ogg",length=1.9868027210884354},{path="chatsounds/autoadd/hotd2_story/dont come dont come/dont come dont come.ogg",length=1.7701133786848073},{path="chatsounds/autoadd/hotd2_story/dont come dont come/dont come dont comwe.ogg",length=1.9868027210884354},{path="chatsounds/autoadd/hotd2_story/dont come dont come/dont cowme dont come.ogg",length=1.9868027210884354}}
-L["dont know but its very similar to the 1998 curien case"]={{path="chatsounds/autoadd/hotd2_story/dont know but its very similar to the 1998 curien case.ogg",length=3.512154195011338}}
 L["dont know but"]={{path="chatsounds/autoadd/hotd2_story/dont know but.ogg",length=1.9696145124716553}}
+L["dont know but its very similar to the 1998 curien case"]={{path="chatsounds/autoadd/hotd2_story/dont know but its very similar to the 1998 curien case.ogg",length=3.512154195011338}}
 L["dont underestimate the enemy"]={{path="chatsounds/autoadd/hotd2_story/dont underestimate the enemy.ogg",length=2.233560090702948}}
 L["dont worry ill get him out"]={{path="chatsounds/autoadd/hotd2_story/dont worry ill get him out.ogg",length=1.6365986394557823}}
 L["dont worry well get him out"]={{path="chatsounds/autoadd/hotd2_story/dont worry well get him out.ogg",length=1.8231292517006803}}
@@ -67,10 +67,10 @@ L["go away go away"]={{path="chatsounds/autoadd/hotd2_story/go away go away/56_2
 L["go away go away"]={{path="chatsounds/autoadd/hotd2_story/go away go away.ogg",length=1.7759637188208617}}
 L["go from the left"]={{path="chatsounds/autoadd/hotd2_story/go from the left.ogg",length=0.78530612244897957}}
 L["goldman"]={{path="chatsounds/autoadd/hotd2_story/goldman/368_J.ogg",length=0.62553287981859407},{path="chatsounds/autoadd/hotd2_story/goldman/goldman.ogg",length=0.55537414965986398}}
+L["goldman"]={{path="chatsounds/autoadd/hotd2_story/goldman.ogg",length=0.55537414965986398}}
 L["goldman i dont care if a successor comes or not"]={{path="chatsounds/autoadd/hotd2_story/goldman i dont care if a successor comes or not.ogg",length=4.1066666666666665}}
 L["goldman ill get you"]={{path="chatsounds/autoadd/hotd2_story/goldman ill get you.ogg",length=2.1555555555555554}}
 L["goldman im not gonna let you get away with this"]={{path="chatsounds/autoadd/hotd2_story/goldman im not gonna let you get away with this.ogg",length=2.8288888888888888}}
-L["goldman"]={{path="chatsounds/autoadd/hotd2_story/goldman.ogg",length=0.55537414965986398}}
 L["goodbye goldman"]={{path="chatsounds/autoadd/hotd2_story/goodbye goldman/403_R.ogg",length=0.87256235827664397},{path="chatsounds/autoadd/hotd2_story/goodbye goldman/goodbye goldman.ogg",length=1.073469387755102}}
 L["goodbye goldman"]={{path="chatsounds/autoadd/hotd2_story/goodbye goldman.ogg",length=1.073469387755102}}
 L["gooo garyyy"]={{path="chatsounds/autoadd/hotd2_story/gooo garyyy.ogg",length=2.0611337868480724}}
@@ -78,17 +78,17 @@ L["gooo jaaames"]={{path="chatsounds/autoadd/hotd2_story/gooo jaaames.ogg",lengt
 L["gs blood stinks"]={{path="chatsounds/autoadd/hotd2_story/gs blood stinks/gs blood stinks 2.ogg",length=1.5095238095238095},{path="chatsounds/autoadd/hotd2_story/gs blood stinks/gs blood stinks.ogg",length=2.0673922902494333}}
 L["harry and amy are coming to back us up"]={{path="chatsounds/autoadd/hotd2_story/harry and amy are coming to back us up.ogg",length=2.6681179138321998}}
 L["harry looks like we can go around from the right"]={{path="chatsounds/autoadd/hotd2_story/harry looks like we can go around from the right.ogg",length=2.7712018140589567}}
-L["have to hurry"]={{path="chatsounds/autoadd/hotd2_story/have to hurry/172_J_B.ogg",length=0.8396825396825397},{path="chatsounds/autoadd/hotd2_story/have to hurry/have to hurry.ogg",length=0.74784580498866216}}
 L["have to hurry"]={{path="chatsounds/autoadd/hotd2_story/have to hurry.ogg",length=0.74784580498866216}}
+L["have to hurry"]={{path="chatsounds/autoadd/hotd2_story/have to hurry/172_J_B.ogg",length=0.8396825396825397},{path="chatsounds/autoadd/hotd2_story/have to hurry/have to hurry.ogg",length=0.74784580498866216}}
 L["heelp heelp"]={{path="chatsounds/autoadd/hotd2_story/heelp heelp.ogg",length=1.5722902494331066}}
 L["heelp mee heelp mee"]={{path="chatsounds/autoadd/hotd2_story/heelp mee heelp mee.ogg",length=2.1768707482993199}}
 L["help help"]={{path="chatsounds/autoadd/hotd2_story/help help/65_Y_W.ogg",length=1.6250793650793651},{path="chatsounds/autoadd/hotd2_story/help help/66_OM.ogg",length=1.2535600907029478},{path="chatsounds/autoadd/hotd2_story/help help/help help.ogg",length=1.4498866213151926}}
 L["help help"]={{path="chatsounds/autoadd/hotd2_story/help help.ogg",length=1.4498866213151926}}
 L["help hhelp"]={{path="chatsounds/autoadd/hotd2_story/help hhelp.ogg",length=1.65156462585034}}
-L["help me help me"]={{path="chatsounds/autoadd/hotd2_story/help me help me.ogg",length=2.0100226757369613}}
-L["help me help"]={{path="chatsounds/autoadd/hotd2_story/help me help.ogg",length=2.2560997732426302}}
-L["help me i dont wanna die"]={{path="chatsounds/autoadd/hotd2_story/help me i dont wanna die.ogg",length=2.6790022675736962}}
 L["help me"]={{path="chatsounds/autoadd/hotd2_story/help me.ogg",length=1.2761904761904761}}
+L["help me help"]={{path="chatsounds/autoadd/hotd2_story/help me help.ogg",length=2.2560997732426302}}
+L["help me help me"]={{path="chatsounds/autoadd/hotd2_story/help me help me.ogg",length=2.0100226757369613}}
+L["help me i dont wanna die"]={{path="chatsounds/autoadd/hotd2_story/help me i dont wanna die.ogg",length=2.6790022675736962}}
 L["help mme help mme"]={{path="chatsounds/autoadd/hotd2_story/help mme help mme/67_Y_M.ogg",length=2.5993650793650795},{path="chatsounds/autoadd/hotd2_story/help mme help mme/help mme help mme.ogg",length=2.3158276643990932}}
 L["help mme help mme"]={{path="chatsounds/autoadd/hotd2_story/help mme help mme.ogg",length=2.3158276643990932}}
 L["help my friends are inside"]={{path="chatsounds/autoadd/hotd2_story/help my friends are inside.ogg",length=2.7771428571428571}}
@@ -96,9 +96,9 @@ L["hes waiting for you outside"]={{path="chatsounds/autoadd/hotd2_story/hes wait
 L["hes waiting outside"]={{path="chatsounds/autoadd/hotd2_story/hes waiting outside.ogg",length=1.4506122448979593}}
 L["hmhmhmhmhm this is a present from me to you"]={{path="chatsounds/autoadd/hotd2_story/hmhmhmhmhm this is a present from me to you.ogg",length=4.2452154195011333}}
 L["hmmmhmmhmm people of the ams i am goldman"]={{path="chatsounds/autoadd/hotd2_story/hmmmhmmhmm people of the ams i am goldman.ogg",length=6.2693877551020405}}
+L["how could anyone do this"]={{path="chatsounds/autoadd/hotd2_story/how could anyone do this.ogg",length=1.4636734693877551}}
 L["how could anyone do this"]={{path="chatsounds/autoadd/hotd2_story/how could anyone do this/how could anyone do this 2.ogg",length=1.8553741496598639},{path="chatsounds/autoadd/hotd2_story/how could anyone do this/how could anyone do this 3.ogg",length=1.5466666666666666},{path="chatsounds/autoadd/hotd2_story/how could anyone do this/how could anyone do this.ogg",length=2.1578231292517005},{path="chatsounds/autoadd/hotd2_story/how could anyone do this/how could anyone do this2.ogg",length=2.2189569160997733}}
 L["how could anyone do this if i only i noticed sooner"]={{path="chatsounds/autoadd/hotd2_story/how could anyone do this if i only i noticed sooner.ogg",length=4.0968253968253965}}
-L["how could anyone do this"]={{path="chatsounds/autoadd/hotd2_story/how could anyone do this.ogg",length=1.4636734693877551}}
 L["how could this happen"]={{path="chatsounds/autoadd/hotd2_story/how could this happen.ogg",length=1.0681179138321995}}
 L["how many are there"]={{path="chatsounds/autoadd/hotd2_story/how many are there/360_J.ogg",length=1.2128798185941043},{path="chatsounds/autoadd/hotd2_story/how many are there/how many are there.ogg",length=1.1077097505668934}}
 L["how many are there"]={{path="chatsounds/autoadd/hotd2_story/how many are there.ogg",length=1.1077097505668934}}
@@ -126,8 +126,8 @@ L["im alright but harry is"]={{path="chatsounds/autoadd/hotd2_story/im alright b
 L["im coming for you goldman"]={{path="chatsounds/autoadd/hotd2_story/im coming for you goldman.ogg",length=1.3414965986394558}}
 L["im coming to get you goldman"]={{path="chatsounds/autoadd/hotd2_story/im coming to get you goldman.ogg",length=1.4583673469387755}}
 L["im fully aware of what im doing cant you see"]={{path="chatsounds/autoadd/hotd2_story/im fully aware of what im doing cant you see.ogg",length=2.9075283446712019}}
-L["im not gonna let you get away"]={{path="chatsounds/autoadd/hotd2_story/im not gonna let you get away/311_J.ogg",length=1.7078458049886622},{path="chatsounds/autoadd/hotd2_story/im not gonna let you get away/im not gonna let you get away.ogg",length=1.5496598639455783}}
 L["im not gonna let you get away"]={{path="chatsounds/autoadd/hotd2_story/im not gonna let you get away.ogg",length=1.5496598639455783}}
+L["im not gonna let you get away"]={{path="chatsounds/autoadd/hotd2_story/im not gonna let you get away/311_J.ogg",length=1.7078458049886622},{path="chatsounds/autoadd/hotd2_story/im not gonna let you get away/im not gonna let you get away.ogg",length=1.5496598639455783}}
 L["in time a sucessor will come"]={{path="chatsounds/autoadd/hotd2_story/in time a sucessor will come.ogg",length=2.6837641723356009}}
 L["is he invinsible"]={{path="chatsounds/autoadd/hotd2_story/is he invinsible/is he invinsible 2.ogg",length=0.97777777777777775},{path="chatsounds/autoadd/hotd2_story/is he invinsible/is he invinsible.ogg",length=1.4417233560090703}}
 L["is it really over"]={{path="chatsounds/autoadd/hotd2_story/is it really over.ogg",length=0.94095238095238098}}
@@ -145,8 +145,8 @@ L["its like theyre inviting me in"]={{path="chatsounds/autoadd/hotd2_story/its l
 L["its like theyre inviting us in"]={{path="chatsounds/autoadd/hotd2_story/its like theyre inviting us in/362_J_2.ogg",length=2.3889342403628118},{path="chatsounds/autoadd/hotd2_story/its like theyre inviting us in/its like theyre inviting us in.ogg",length=1.4338321995464853}}
 L["its like theyre inviting us in"]={{path="chatsounds/autoadd/hotd2_story/its like theyre inviting us in.ogg",length=1.4338321995464853}}
 L["its me gary"]={{path="chatsounds/autoadd/hotd2_story/its me gary.ogg",length=0.90412698412698411}}
-L["its too dark"]={{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark 2.ogg",length=0.75945578231292521},{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark.ogg",length=1.0534240362811791}}
 L["its too dark"]={{path="chatsounds/autoadd/hotd2_story/its too dark.ogg",length=1.0534240362811791}}
+L["its too dark"]={{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark 2.ogg",length=0.75945578231292521},{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark.ogg",length=1.0534240362811791}}
 L["its too quiet"]={{path="chatsounds/autoadd/hotd2_story/its too quiet/356_GA.ogg",length=1.6388208616780044},{path="chatsounds/autoadd/hotd2_story/its too quiet/its too quiet.ogg",length=0.89795918367346939}}
 L["its too quiet"]={{path="chatsounds/autoadd/hotd2_story/its too quiet.ogg",length=0.89795918367346939}}
 L["its tood ark"]={{path="chatsounds/autoadd/hotd2_story/its tood ark.ogg",length=0.75945578231292521}}
@@ -154,6 +154,7 @@ L["ive been waiting for this time to come"]={{path="chatsounds/autoadd/hotd2_sto
 L["ive been waiting for you friends"]={{path="chatsounds/autoadd/hotd2_story/ive been waiting for you friends.ogg",length=2.9717913832199545}}
 L["ive had it"]={{path="chatsounds/autoadd/hotd2_story/ive had it.ogg",length=0.59346938775510205}}
 L["jaames"]={{path="chatsounds/autoadd/hotd2_story/jaames.ogg",length=0.98675736961451244}}
+L["james"]={{path="chatsounds/autoadd/hotd2_story/james.ogg",length=0.49251700680272109}}
 L["james"]={{path="chatsounds/autoadd/hotd2_story/james/125_GO_A Copy.ogg",length=0.51156462585034013},{path="chatsounds/autoadd/hotd2_story/james/125_GO_A.ogg",length=0.51156462585034013},{path="chatsounds/autoadd/hotd2_story/james/148_GA Copy.ogg",length=0.575374149659864},{path="chatsounds/autoadd/hotd2_story/james/148_GA.ogg",length=0.575374149659864},{path="chatsounds/autoadd/hotd2_story/james/404_R.ogg",length=0.5536054421768708},{path="chatsounds/autoadd/hotd2_story/james/jame2s Copy.ogg",length=0.51156462585034013},{path="chatsounds/autoadd/hotd2_story/james/jame2s.ogg",length=0.51156462585034013},{path="chatsounds/autoadd/hotd2_story/james/james Copy.ogg",length=0.62494331065759634},{path="chatsounds/autoadd/hotd2_story/james/james Copy1.ogg",length=0.49251700680272109},{path="chatsounds/autoadd/hotd2_story/james/james.ogg",length=0.62494331065759634}}
 L["james back me up"]={{path="chatsounds/autoadd/hotd2_story/james back me up.ogg",length=1.4816326530612245}}
 L["james behind you"]={{path="chatsounds/autoadd/hotd2_story/james behind you.ogg",length=1.3076190476190477}}
@@ -165,13 +166,12 @@ L["james over there"]={{path="chatsounds/autoadd/hotd2_story/james over there.og
 L["james take this"]={{path="chatsounds/autoadd/hotd2_story/james take this.ogg",length=1.6897505668934241}}
 L["james you go from the underground passage well go this way"]={{path="chatsounds/autoadd/hotd2_story/james you go from the underground passage well go this way.ogg",length=3.8211337868480726}}
 L["james you guys use the underground passage well go this way"]={{path="chatsounds/autoadd/hotd2_story/james you guys use the underground passage well go this way.ogg",length=3.9793197278911565}}
-L["james"]={{path="chatsounds/autoadd/hotd2_story/james.ogg",length=0.49251700680272109}}
 L["leave it to me"]={{path="chatsounds/autoadd/hotd2_story/leave it to me.ogg",length=0.68367346938775508}}
 L["left"]={{path="chatsounds/autoadd/hotd2_story/left/left 2.ogg",length=0.45287981859410431},{path="chatsounds/autoadd/hotd2_story/left/left.ogg",length=0.49922902494331067}}
 L["lets get in"]={{path="chatsounds/autoadd/hotd2_story/lets get in.ogg",length=0.74204081632653063}}
+L["lets go"]={{path="chatsounds/autoadd/hotd2_story/lets go.ogg",length=0.49578231292517005}}
 L["lets go"]={{path="chatsounds/autoadd/hotd2_story/lets go/344_GA.ogg",length=0.59428571428571431},{path="chatsounds/autoadd/hotd2_story/lets go/lets go.ogg",length=0.49578231292517005}}
 L["lets go gary"]={{path="chatsounds/autoadd/hotd2_story/lets go gary/lets go gary.ogg",length=0.98077097505668931},{path="chatsounds/autoadd/hotd2_story/lets go gary/lets go gary2.ogg",length=0.91882086167800459}}
-L["lets go"]={{path="chatsounds/autoadd/hotd2_story/lets go.ogg",length=0.49578231292517005}}
 L["lets hurry"]={{path="chatsounds/autoadd/hotd2_story/lets hurry/50_GA.ogg",length=0.66893424036281179},{path="chatsounds/autoadd/hotd2_story/lets hurry/50_J.ogg",length=0.6869387755102041},{path="chatsounds/autoadd/hotd2_story/lets hurry/51_J.ogg",length=0.6869387755102041},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry (2).ogg",length=0.92879818594104313},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry Copy.ogg",length=0.66893424036281179},{path="chatsounds/autoadd/hotd2_story/lets hurry/lets hurry.ogg",length=0.66893424036281179}}
 L["lets meet at sunset bridge"]={{path="chatsounds/autoadd/hotd2_story/lets meet at sunset bridge.ogg",length=1.4775510204081632}}
 L["look at your left"]={{path="chatsounds/autoadd/hotd2_story/look at your left.ogg",length=0.87074829931972786}}
@@ -180,8 +180,8 @@ L["looks like they didnt make it"]={{path="chatsounds/autoadd/hotd2_story/looks 
 L["man commited a sin disturbing the life cycle of nature"]={{path="chatsounds/autoadd/hotd2_story/man commited a sin disturbing the life cycle of nature.ogg",length=3.9027210884353742}}
 L["man disturbed the life cycle the sins commited to nature"]={{path="chatsounds/autoadd/hotd2_story/man disturbed the life cycle the sins commited to nature.ogg",length=3.523265306122449}}
 L["man went too far"]={{path="chatsounds/autoadd/hotd2_story/man went too far.ogg",length=1.3940589569160997}}
-L["mom"]={{path="chatsounds/autoadd/hotd2_story/mom/mom 2.ogg",length=0.45147392290249433},{path="chatsounds/autoadd/hotd2_story/mom/mom 3.ogg",length=0.54004535147392285}}
 L["mom"]={{path="chatsounds/autoadd/hotd2_story/mom.ogg",length=0.40217687074829933}}
+L["mom"]={{path="chatsounds/autoadd/hotd2_story/mom/mom 2.ogg",length=0.45147392290249433},{path="chatsounds/autoadd/hotd2_story/mom/mom 3.ogg",length=0.54004535147392285}}
 L["my dads still inside"]={{path="chatsounds/autoadd/hotd2_story/my dads still inside.ogg",length=1.4733786848072563}}
 L["my friends went inside but theyre not back yet"]={{path="chatsounds/autoadd/hotd2_story/my friends went inside but theyre not back yet.ogg",length=2.861859410430839}}
 L["my god"]={{path="chatsounds/autoadd/hotd2_story/my god/my god 2.ogg",length=0.76335600907029477},{path="chatsounds/autoadd/hotd2_story/my god/my god.ogg",length=1.3589115646258503}}
@@ -195,9 +195,9 @@ L["no ones gonna get away with this"]={{path="chatsounds/autoadd/hotd2_story/no 
 L["no turning back now"]={{path="chatsounds/autoadd/hotd2_story/no turning back now/365_GA.ogg",length=1.5454421768707483},{path="chatsounds/autoadd/hotd2_story/no turning back now/no turning back now.ogg",length=1.2048979591836735}}
 L["no turning back now"]={{path="chatsounds/autoadd/hotd2_story/no turning back now.ogg",length=1.2048979591836735}}
 L["noo"]={{path="chatsounds/autoadd/hotd2_story/noo/noo.ogg",length=0.78326530612244893}}
+L["noo"]={{path="chatsounds/autoadd/hotd2_story/noo.ogg",length=0.78326530612244893}}
 L["noo help me"]={{path="chatsounds/autoadd/hotd2_story/noo help me/49_OM.ogg",length=1.5101133786848073},{path="chatsounds/autoadd/hotd2_story/noo help me/49_OM_1.ogg",length=1.7959183673469388}}
 L["noo why"]={{path="chatsounds/autoadd/hotd2_story/noo why.ogg",length=1.9954648526077097}}
-L["noo"]={{path="chatsounds/autoadd/hotd2_story/noo.ogg",length=0.78326530612244893}}
 L["nooo harry"]={{path="chatsounds/autoadd/hotd2_story/nooo harry.ogg",length=2.1178231292517005}}
 L["okay"]={{path="chatsounds/autoadd/hotd2_story/okay/142_E.ogg",length=0.60054421768707478},{path="chatsounds/autoadd/hotd2_story/okay/okay 2.ogg",length=0.46730158730158733},{path="chatsounds/autoadd/hotd2_story/okay/okay.ogg",length=0.50761904761904764},{path="chatsounds/autoadd/hotd2_story/okay/okay2.ogg",length=0.42485260770975058}}
 L["on we go to our next battle"]={{path="chatsounds/autoadd/hotd2_story/on we go to our next battle.ogg",length=2.2882086167800453}}
@@ -211,8 +211,8 @@ L["point a0063 is just ahead"]={{path="chatsounds/autoadd/hotd2_story/point a006
 L["powers still coming"]={{path="chatsounds/autoadd/hotd2_story/powers still coming/315_GO.ogg",length=1.1706122448979592},{path="chatsounds/autoadd/hotd2_story/powers still coming/powers still coming.ogg",length=0.97451247165532884}}
 L["powers still coming"]={{path="chatsounds/autoadd/hotd2_story/powers still coming.ogg",length=0.97451247165532884}}
 L["prepare yourself goldman"]={{path="chatsounds/autoadd/hotd2_story/prepare yourself goldman.ogg",length=1.8666666666666667}}
-L["remember theres no such thing as a second chance"]={{path="chatsounds/autoadd/hotd2_story/remember theres no such thing as a second chance/339_GA.ogg",length=3.2255782312925172},{path="chatsounds/autoadd/hotd2_story/remember theres no such thing as a second chance/remember theres no such thing as a second chance.ogg",length=2.7862585034013607}}
 L["remember theres no such thing as a second chance"]={{path="chatsounds/autoadd/hotd2_story/remember theres no such thing as a second chance.ogg",length=2.7862585034013607}}
+L["remember theres no such thing as a second chance"]={{path="chatsounds/autoadd/hotd2_story/remember theres no such thing as a second chance/339_GA.ogg",length=3.2255782312925172},{path="chatsounds/autoadd/hotd2_story/remember theres no such thing as a second chance/remember theres no such thing as a second chance.ogg",length=2.7862585034013607}}
 L["right"]={{path="chatsounds/autoadd/hotd2_story/right/right 2.ogg",length=0.32253968253968252},{path="chatsounds/autoadd/hotd2_story/right/right.ogg",length=0.49188208616780044}}
 L["rogan"]={{path="chatsounds/autoadd/hotd2_story/rogan/406_R_A.ogg",length=0.65306122448979587},{path="chatsounds/autoadd/hotd2_story/rogan/rogan.ogg",length=0.45351473922902497}}
 L["rogan"]={{path="chatsounds/autoadd/hotd2_story/rogan.ogg",length=0.45351473922902497}}
@@ -291,6 +291,7 @@ L["were flying right over the sunset bridge someth staticnoise"]={{path="chatsou
 L["were meeting g over there"]={{path="chatsounds/autoadd/hotd2_story/were meeting g over there/were meeting g over there 2.ogg",length=2.0253968253968253},{path="chatsounds/autoadd/hotd2_story/were meeting g over there/were meeting g over there.ogg",length=1.2429931972789117}}
 L["wha"]={{path="chatsounds/autoadd/hotd2_story/wha.ogg",length=0.38734693877551019}}
 L["what"]={{path="chatsounds/autoadd/hotd2_story/what/340_J.ogg",length=0.47591836734693876},{path="chatsounds/autoadd/hotd2_story/what/52_GA.ogg",length=0.24861678004535148},{path="chatsounds/autoadd/hotd2_story/what/52_J.ogg",length=0.62730158730158725},{path="chatsounds/autoadd/hotd2_story/what/what 2.ogg",length=0.53768707482993194},{path="chatsounds/autoadd/hotd2_story/what/what Copy.ogg",length=0.37020408163265306},{path="chatsounds/autoadd/hotd2_story/what/what.ogg",length=0.24598639455782312}}
+L["what"]={{path="chatsounds/autoadd/hotd2_story/what.ogg",length=0.37020408163265306}}
 L["what are they"]={{path="chatsounds/autoadd/hotd2_story/what are they.ogg",length=0.85560090702947844}}
 L["what from goldman"]={{path="chatsounds/autoadd/hotd2_story/what from goldman.ogg",length=1.5618140589569161}}
 L["what happened to amy and harry"]={{path="chatsounds/autoadd/hotd2_story/what happened to amy and harry/172_GA.ogg",length=1.7724263038548753},{path="chatsounds/autoadd/hotd2_story/what happened to amy and harry/what happened to amy and harry.ogg",length=1.3409523809523809}}
@@ -303,7 +304,6 @@ L["what thaa"]={{path="chatsounds/autoadd/hotd2_story/what thaa.ogg",length=0.86
 L["what the"]={{path="chatsounds/autoadd/hotd2_story/what the/what the.ogg",length=0.90380952380952384},{path="chatsounds/autoadd/hotd2_story/what the/what the2.ogg",length=0.90380952380952384}}
 L["what the hell is going on in the city"]={{path="chatsounds/autoadd/hotd2_story/what the hell is going on in the city.ogg",length=1.5615419501133787}}
 L["what the hell is going on in this city"]={{path="chatsounds/autoadd/hotd2_story/what the hell is going on in this city.ogg",length=2.1478004535147392}}
-L["what"]={{path="chatsounds/autoadd/hotd2_story/what.ogg",length=0.37020408163265306}}
 L["whats going on in the city"]={{path="chatsounds/autoadd/hotd2_story/whats going on in the city.ogg",length=1.3148299319727892}}
 L["whats going on the citys chaos is increasing"]={{path="chatsounds/autoadd/hotd2_story/whats going on the citys chaos is increasing.ogg",length=3.4530158730158731}}
 L["whats gonna happen to the city"]={{path="chatsounds/autoadd/hotd2_story/whats gonna happen to the city.ogg",length=1.8274829931972789}}
@@ -316,8 +316,8 @@ L["yes go straight and youll get to sunset bridge"]={{path="chatsounds/autoadd/h
 L["yes that case"]={{path="chatsounds/autoadd/hotd2_story/yes that case.ogg",length=1.65718820861678}}
 L["yes this is amy"]={{path="chatsounds/autoadd/hotd2_story/yes this is amy.ogg",length=1.2858049886621314}}
 L["yes yes"]={{path="chatsounds/autoadd/hotd2_story/yes yes.ogg",length=1.9156462585034013}}
-L["you have no future"]={{path="chatsounds/autoadd/hotd2_story/you have no future.ogg",length=1.9591836734693877}}
 L["you"]={{path="chatsounds/autoadd/hotd2_story/you.ogg",length=0.52648526077097502}}
+L["you have no future"]={{path="chatsounds/autoadd/hotd2_story/you have no future.ogg",length=1.9591836734693877}}
 L["youre the only one whos gonna get defeated magician"]={{path="chatsounds/autoadd/hotd2_story/youre the only one whos gonna get defeated magician.ogg",length=2.3559183673469386}}
 L["youve finally made it friends"]={{path="chatsounds/autoadd/hotd2_story/youve finally made it friends.ogg",length=2.5921088435374151}}
 c.EndList()

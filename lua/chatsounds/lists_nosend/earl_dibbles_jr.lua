@@ -4,18 +4,18 @@ L["and start the day"]={{path="chatsounds/autoadd/earl_dibbles_jr/and start the 
 L["bam"]={{path="chatsounds/autoadd/earl_dibbles_jr/bam.ogg",length=1.2972789115646259}}
 L["checkin out the wells"]={{path="chatsounds/autoadd/earl_dibbles_jr/checkin out the wells.ogg",length=1.8701133786848072}}
 L["climb the windmill"]={{path="chatsounds/autoadd/earl_dibbles_jr/climb the windmill.ogg",length=1.7353287981859411}}
-L["crack a cold one"]={{path="chatsounds/autoadd/earl_dibbles_jr/crack a cold one.ogg",length=1.3815419501133788}}
 L["crack a cold"]={{path="chatsounds/autoadd/earl_dibbles_jr/crack a cold.ogg",length=3.627936507936508}}
-L["earl dibbles jr survivor"]={{path="chatsounds/autoadd/earl_dibbles_jr/earl dibbles jr survivor.ogg",length=3.6616326530612247}}
+L["crack a cold one"]={{path="chatsounds/autoadd/earl_dibbles_jr/crack a cold one.ogg",length=1.3815419501133788}}
 L["earl dibbles jr"]={{path="chatsounds/autoadd/earl_dibbles_jr/earl dibbles jr.ogg",length=2.0217460317460318}}
+L["earl dibbles jr survivor"]={{path="chatsounds/autoadd/earl_dibbles_jr/earl dibbles jr survivor.ogg",length=3.6616326530612247}}
 L["fish for bass and cats"]={{path="chatsounds/autoadd/earl_dibbles_jr/fish for bass and cats.ogg",length=4.2344671201814057}}
 L["fix the tree"]={{path="chatsounds/autoadd/earl_dibbles_jr/fix the tree.ogg",length=5.7339229024943315}}
 L["get dressed"]={{path="chatsounds/autoadd/earl_dibbles_jr/get dressed.ogg",length=1.6342630385487529}}
 L["giberish"]={{path="chatsounds/autoadd/earl_dibbles_jr/giberish.ogg",length=11.181473922902494}}
 L["i do explorin in the woods"]={{path="chatsounds/autoadd/earl_dibbles_jr/i do explorin in the woods.ogg",length=3.3190476190476192}}
 L["i dont even know what he talkin about"]={{path="chatsounds/autoadd/earl_dibbles_jr/i dont even know what he talkin about.ogg",length=2.0610657596371884}}
-L["i read every day i read i practice my words and i read"]={{path="chatsounds/autoadd/earl_dibbles_jr/i read every day i read i practice my words and i read.ogg",length=5.3745124716553292}}
 L["i read every day"]={{path="chatsounds/autoadd/earl_dibbles_jr/i read every day.ogg",length=1.5275510204081633}}
+L["i read every day i read i practice my words and i read"]={{path="chatsounds/autoadd/earl_dibbles_jr/i read every day i read i practice my words and i read.ogg",length=5.3745124716553292}}
 L["i wake up"]={{path="chatsounds/autoadd/earl_dibbles_jr/i wake up.ogg",length=2.0386167800453516}}
 L["im a country boy"]={{path="chatsounds/autoadd/earl_dibbles_jr/im a country boy.ogg",length=0.91541950113378689}}
 L["im earl dibbles jr"]={{path="chatsounds/autoadd/earl_dibbles_jr/im earl dibbles jr/im earl dibbles jr.ogg",length=1.4657596371882087},{path="chatsounds/autoadd/earl_dibbles_jr/im earl dibbles jr/im earl dibbles jr2.ogg",length=6.5987981859410434}}

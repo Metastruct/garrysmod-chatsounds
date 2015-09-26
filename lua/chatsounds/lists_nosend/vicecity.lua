@@ -68,8 +68,8 @@ L["just tell me where you are"]={{path="chatsounds/autoadd/vicecity/just tell me
 L["kid im starving ill take whatever is hot"]={{path="chatsounds/autoadd/vicecity/kid im starving ill take whatever is hot.ogg",length=1.8910204081632653}}
 L["kill that psycho"]={{path="chatsounds/autoadd/vicecity/kill that psycho.ogg",length=1.106938775510204}}
 L["kill the bosses"]={{path="chatsounds/autoadd/vicecity/kill the bosses.ogg",length=1.2453061224489796}}
-L["lance i need cover"]={{path="chatsounds/autoadd/vicecity/lance i need cover.ogg",length=1.8448979591836734}}
 L["lance"]={{path="chatsounds/autoadd/vicecity/lance.ogg",length=0.87632653061224486}}
+L["lance i need cover"]={{path="chatsounds/autoadd/vicecity/lance i need cover.ogg",length=1.8448979591836734}}
 L["law3 13"]={{path="chatsounds/autoadd/vicecity/law3 13.ogg",length=3.4591836734693877}}
 L["leo has got away for a while he left me in charge"]={{path="chatsounds/autoadd/vicecity/leo has got away for a while he left me in charge.ogg",length=3.413061224489796}}
 L["maybe"]={{path="chatsounds/autoadd/vicecity/maybe.ogg",length=0.73795918367346935}}

@@ -8,8 +8,8 @@ L["cops thats what that son of a bitch uses in operations against black people"]
 L["do you have any idea how to multiply"]={{path="chatsounds/autoadd/deusex_malkavian/do you have any idea how to multiply.ogg",length=2.4479818594104308}}
 L["first word gep gun"]={{path="chatsounds/autoadd/deusex_malkavian/first word gep gun.ogg",length=2.0159863945578231}}
 L["get moving"]={{path="chatsounds/autoadd/deusex_malkavian/get moving.ogg",length=0.74158730158730157}}
-L["get pills against my orders get moving"]={{path="chatsounds/autoadd/deusex_malkavian/get PILLS against my orders get moving.ogg",length=3.3697959183673469}}
 L["get pills"]={{path="chatsounds/autoadd/deusex_malkavian/get pills.ogg",length=0.76886621315192749}}
+L["get pills against my orders get moving"]={{path="chatsounds/autoadd/deusex_malkavian/get PILLS against my orders get moving.ogg",length=3.3697959183673469}}
 L["homeless people with a wrecking ball driving a nail down the soldiers bodies"]={{path="chatsounds/autoadd/deusex_malkavian/homeless people with a wrecking ball driving a nail down the soldiers bodies.ogg",length=4.7542857142857144}}
 L["i do not move out of the way"]={{path="chatsounds/autoadd/deusex_malkavian/i do not move out of the way.ogg",length=1.6199773242630386}}
 L["i just want to find some food"]={{path="chatsounds/autoadd/deusex_malkavian/i just want to find some food.ogg",length=2.1239909297052155}}

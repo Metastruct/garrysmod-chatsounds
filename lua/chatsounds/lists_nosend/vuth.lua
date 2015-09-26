@@ -52,8 +52,8 @@ L["shutup"]={{path="chatsounds/autoadd/vuth/shutup.ogg",length=0.875918367346938
 L["shutup2"]={{path="chatsounds/autoadd/vuth/shutup2.ogg",length=0.7141043083900227}}
 L["stop you violated the law pay the court a fine or serve your sentence your stolen goods are now forfeit"]={{path="chatsounds/autoadd/vuth/stop you violated the law pay the court a fine or serve your sentence your stolen goods are now forfeit.ogg",length=7.5755102040816329}}
 L["take a hike"]={{path="chatsounds/autoadd/vuth/take a hike.ogg",length=0.70743764172335599}}
-L["thats right well fuck your wife"]={{path="chatsounds/autoadd/vuth/thats right well fuck your wife.ogg",length=1.3682993197278912}}
 L["thats right"]={{path="chatsounds/autoadd/vuth/thats right.ogg",length=0.57879818594104304}}
+L["thats right well fuck your wife"]={{path="chatsounds/autoadd/vuth/thats right well fuck your wife.ogg",length=1.3682993197278912}}
 L["thats too bad i was hoping youd resist arrest"]={{path="chatsounds/autoadd/vuth/thats too bad i was hoping youd resist arrest.ogg",length=4.2057142857142855}}
 L["the f"]={{path="chatsounds/autoadd/vuth/the f.ogg",length=0.76698412698412699}}
 L["the only dealer that tells you to fuck off"]={{path="chatsounds/autoadd/vuth/the only dealer that tells you to fuck off.ogg",length=2.0801814058956918}}

@@ -1,7 +1,7 @@
 c.StartList("breen")
 L["and i dont wanna hear it on the radio"]={{path="chatsounds/autoadd/breen/and i dont wanna hear it on the radio.ogg",length=1.635986394557823}}
-L["and theyre gonna send us their very best thats what were going to be up against"]={{path="chatsounds/autoadd/breen/and theyre gonna send us their very best thats what were going to be up against.ogg",length=3.7095691609977326}}
 L["and theyre gonna send us"]={{path="chatsounds/autoadd/breen/and theyre gonna send us.ogg",length=1.257233560090703}}
+L["and theyre gonna send us their very best thats what were going to be up against"]={{path="chatsounds/autoadd/breen/and theyre gonna send us their very best thats what were going to be up against.ogg",length=3.7095691609977326}}
 L["dead charlie"]={{path="chatsounds/autoadd/breen/dead charlie.ogg",length=0.93129251700680271}}
 L["good"]={{path="chatsounds/autoadd/breen/good.ogg",length=0.71219954648526074}}
 L["guys"]={{path="chatsounds/autoadd/breen/guys.ogg",length=0.78385487528344666}}
@@ -10,8 +10,8 @@ L["i dont wanna hear it on tv"]={{path="chatsounds/autoadd/breen/i dont wanna he
 L["i want this fevery to stop"]={{path="chatsounds/autoadd/breen/i want this fevery to stop.ogg",length=1.7228571428571429}}
 L["i want this thing to disappear"]={{path="chatsounds/autoadd/breen/i want this thing to disappear.ogg",length=2.2764399092970522}}
 L["i will not tolerate"]={{path="chatsounds/autoadd/breen/i will not tolerate.ogg",length=1.6513378684807256}}
-L["if i caught one of our guys"]={{path="chatsounds/autoadd/breen/if i caught one of our guys.ogg",length=2.3592290249433105}}
 L["if i caught"]={{path="chatsounds/autoadd/breen/if i caught.ogg",length=0.76054421768707481}}
+L["if i caught one of our guys"]={{path="chatsounds/autoadd/breen/if i caught one of our guys.ogg",length=2.3592290249433105}}
 L["im telling you this is herpes were looking at here its not gonna go away by itself"]={{path="chatsounds/autoadd/breen/im telling you this is herpes were looking at here its not gonna go away by itself.ogg",length=4.6067800453514742}}
 L["is that clear"]={{path="chatsounds/autoadd/breen/is that clear.ogg",length=0.65024943310657601}}
 L["is that perfectly clear"]={{path="chatsounds/autoadd/breen/is that perfectly clear.ogg",length=1.7753287981859411}}

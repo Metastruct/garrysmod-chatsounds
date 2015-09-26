@@ -22,8 +22,8 @@ L["could you get it please"]={{path="chatsounds/autoadd/arnold/could you get it 
 L["crom"]={{path="chatsounds/autoadd/arnold/crom.ogg",length=1.3541043083900226}}
 L["cybernetic organism"]={{path="chatsounds/autoadd/arnold/cybernetic organism.ogg",length=3.8304761904761904}}
 L["destroy yourselves"]={{path="chatsounds/autoadd/arnold/destroy yourselves.ogg",length=2.1516553287981859}}
-L["doesnt work that way"]={{path="chatsounds/autoadd/arnold/doesnt work that way.ogg",length=1.132517006802721}}
 L["doesnt work"]={{path="chatsounds/autoadd/arnold/doesnt work.ogg",length=2.3071655328798184}}
+L["doesnt work that way"]={{path="chatsounds/autoadd/arnold/doesnt work that way.ogg",length=1.132517006802721}}
 L["dont b s me"]={{path="chatsounds/autoadd/arnold/dont b s me.ogg",length=1.6497052154195011}}
 L["dont be ridiculous"]={{path="chatsounds/autoadd/arnold/dont be ridiculous.ogg",length=1.1021315192743764}}
 L["dont move youre dead"]={{path="chatsounds/autoadd/arnold/dont move youre dead.ogg",length=1.5097959183673468}}

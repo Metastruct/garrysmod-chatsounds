@@ -40,12 +40,12 @@ L["enemy contacts inbound"]={{path="chatsounds/autoadd/urbanassault/enemy contac
 L["enemy destroyed"]={{path="chatsounds/autoadd/urbanassault/enemy destroyed/enemy destroyed (2).ogg",length=1.8383673469387756},{path="chatsounds/autoadd/urbanassault/enemy destroyed/enemy destroyed.ogg",length=1.8383673469387756}}
 L["enemy host station destroyed"]={{path="chatsounds/autoadd/urbanassault/enemy host station destroyed.ogg",length=2.5515646258503399}}
 L["enemy jesters buggin out"]={{path="chatsounds/autoadd/urbanassault/enemy jesters buggin out.ogg",length=2.3923809523809525}}
-L["enemy sector entered"]={{path="chatsounds/autoadd/urbanassault/enemy sector entered/enemy sector entered (2).ogg",length=1.8017233560090702},{path="chatsounds/autoadd/urbanassault/enemy sector entered/enemy sector entered.ogg",length=1.8017233560090702}}
 L["enemy sector"]={{path="chatsounds/autoadd/urbanassault/enemy sector.ogg",length=1.6134240362811791}}
+L["enemy sector entered"]={{path="chatsounds/autoadd/urbanassault/enemy sector entered/enemy sector entered (2).ogg",length=1.8017233560090702},{path="chatsounds/autoadd/urbanassault/enemy sector entered/enemy sector entered.ogg",length=1.8017233560090702}}
 L["enemy signature confirmed"]={{path="chatsounds/autoadd/urbanassault/enemy signature confirmed.ogg",length=2.1466666666666665}}
+L["enemy station"]={{path="chatsounds/autoadd/urbanassault/enemy station.ogg",length=1.9235374149659863}}
 L["enemy station confirmed"]={{path="chatsounds/autoadd/urbanassault/enemy station confirmed.ogg",length=1.9350566893424037}}
 L["enemy station sighted"]={{path="chatsounds/autoadd/urbanassault/enemy station sighted.ogg",length=1.7517460317460318}}
-L["enemy station"]={{path="chatsounds/autoadd/urbanassault/enemy station.ogg",length=1.9235374149659863}}
 L["enemy tangos at 2 4 niner 8 your pursuit should intercept at grid 7"]={{path="chatsounds/autoadd/urbanassault/enemy tangos at 2 4 niner 8 your pursuit should intercept at grid 7.ogg",length=5.8148752834467121}}
 L["enemy tangos engaged"]={{path="chatsounds/autoadd/urbanassault/enemy tangos engaged.ogg",length=2.0050793650793652}}
 L["enemy tangos retreating"]={{path="chatsounds/autoadd/urbanassault/enemy tangos retreating/enemy tangos retreating (2).ogg",length=2.1951020408163266},{path="chatsounds/autoadd/urbanassault/enemy tangos retreating/enemy tangos retreating.ogg",length=2.1951020408163266}}
@@ -177,8 +177,8 @@ L["we have unknown contact inbound"]={{path="chatsounds/autoadd/urbanassault/we 
 L["weapon technology upgrade captured"]={{path="chatsounds/autoadd/urbanassault/weapon technology upgrade captured.ogg",length=2.4370068027210885}}
 L["weapons and shields recharged"]={{path="chatsounds/autoadd/urbanassault/weapons and shields recharged/weapons and shields recharged (2).ogg",length=2.3184580498866212},{path="chatsounds/autoadd/urbanassault/weapons and shields recharged/weapons and shields recharged.ogg",length=2.3184580498866212}}
 L["welcome aboard"]={{path="chatsounds/autoadd/urbanassault/welcome aboard.ogg",length=1.6378231292517007}}
-L["welcome back user"]={{path="chatsounds/autoadd/urbanassault/welcome back user.ogg",length=1.3199092970521542}}
 L["welcome back"]={{path="chatsounds/autoadd/urbanassault/welcome back.ogg",length=1.2961451247165532}}
+L["welcome back user"]={{path="chatsounds/autoadd/urbanassault/welcome back user.ogg",length=1.3199092970521542}}
 L["welcome commander"]={{path="chatsounds/autoadd/urbanassault/welcome commander.ogg",length=1.3996371882086167}}
 L["welcome to level end debriefing"]={{path="chatsounds/autoadd/urbanassault/welcome to level end debriefing.ogg",length=1.9910204081632652}}
 L["welcome to mission briefing"]={{path="chatsounds/autoadd/urbanassault/welcome to mission briefing.ogg",length=1.6278458049886622}}

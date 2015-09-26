@@ -10,8 +10,8 @@ L["adjusting neural transmission"]={{path="chatsounds/autoadd/starcraft/adjustin
 L["adun save me"]={{path="chatsounds/autoadd/starcraft/adun save me.ogg",length=2.6354648526077096}}
 L["adun toridas"]={{path="chatsounds/autoadd/starcraft/adun toridas/adun toridas corsair.ogg",length=2.7979591836734694},{path="chatsounds/autoadd/starcraft/adun toridas/adun toridas dark templar.ogg",length=2.1464399092970523}}
 L["affirmative"]={{path="chatsounds/autoadd/starcraft/affirmative.ogg",length=0.88235827664399091}}
-L["affirmitive sir"]={{path="chatsounds/autoadd/starcraft/affirmitive sir.ogg",length=1.6646258503401361}}
 L["affirmitive"]={{path="chatsounds/autoadd/starcraft/affirmitive.ogg",length=1.3583673469387756}}
+L["affirmitive sir"]={{path="chatsounds/autoadd/starcraft/affirmitive sir.ogg",length=1.6646258503401361}}
 L["ah greetings command"]={{path="chatsounds/autoadd/starcraft/ah greetings command.ogg",length=1.750204081632653}}
 L["ah thats the stuff"]={{path="chatsounds/autoadd/starcraft/ah thats the stuff.ogg",length=2.1159637188208618}}
 L["ah thats what i thought"]={{path="chatsounds/autoadd/starcraft/ah thats what i thought.ogg",length=2.0027210884353743}}
@@ -64,8 +64,8 @@ L["clear"]={{path="chatsounds/autoadd/starcraft/clear.ogg",length=0.929931972789
 L["come again captain"]={{path="chatsounds/autoadd/starcraft/come again captain.ogg",length=1.2103401360544217}}
 L["command or you will be relieved"]={{path="chatsounds/autoadd/starcraft/command or you will be relieved.ogg",length=3.1230839002267574}}
 L["commander"]={{path="chatsounds/autoadd/starcraft/commander.ogg",length=0.72126984126984128}}
-L["commencing"]={{path="chatsounds/autoadd/starcraft/commencing/carrier commencing.ogg",length=1.1638548752834468},{path="chatsounds/autoadd/starcraft/commencing/dragoon commencing.ogg",length=0.77047619047619043}}
 L["commencing"]={{path="chatsounds/autoadd/starcraft/commencing.ogg",length=1.6188208616780044}}
+L["commencing"]={{path="chatsounds/autoadd/starcraft/commencing/carrier commencing.ogg",length=1.1638548752834468},{path="chatsounds/autoadd/starcraft/commencing/dragoon commencing.ogg",length=0.77047619047619043}}
 L["commlink online"]={{path="chatsounds/autoadd/starcraft/commlink online.ogg",length=1.7414965986394557}}
 L["confirmed"]={{path="chatsounds/autoadd/starcraft/confirmed/confirmed dragoon.ogg",length=0.96920634920634918},{path="chatsounds/autoadd/starcraft/confirmed/confirmed goliath.ogg",length=2.2290702947845804}}
 L["consider it done"]={{path="chatsounds/autoadd/starcraft/consider it done.ogg",length=2.5483900226757368}}
@@ -114,8 +114,8 @@ L["for the khala is my stength"]={{path="chatsounds/autoadd/starcraft/for the kh
 L["for the overmind"]={{path="chatsounds/autoadd/starcraft/for the overmind.ogg",length=2.2390929705215421}}
 L["for vengeance"]={{path="chatsounds/autoadd/starcraft/for vengeance.ogg",length=1.3688435374149659}}
 L["galahoslos"]={{path="chatsounds/autoadd/starcraft/galahoslos.ogg",length=1.0935600907029479}}
-L["garble reengaged"]={{path="chatsounds/autoadd/starcraft/garble reengaged.ogg",length=3.2682539682539682}}
 L["garble"]={{path="chatsounds/autoadd/starcraft/garble.ogg",length=2.8276190476190477}}
+L["garble reengaged"]={{path="chatsounds/autoadd/starcraft/garble reengaged.ogg",length=3.2682539682539682}}
 L["gaugurah"]={{path="chatsounds/autoadd/starcraft/gaugurah.ogg",length=1.0203174603174603}}
 L["gauju"]={{path="chatsounds/autoadd/starcraft/gauju.ogg",length=1.3844897959183673}}
 L["geehous"]={{path="chatsounds/autoadd/starcraft/geehous.ogg",length=1.1422222222222222}}
@@ -186,9 +186,9 @@ L["i like the cut of your jib"]={{path="chatsounds/autoadd/starcraft/i like the 
 L["i like your style friend"]={{path="chatsounds/autoadd/starcraft/i like your style friend/i like your style friend duran zerg.ogg",length=3.4539229024943312},{path="chatsounds/autoadd/starcraft/i like your style friend/i like your style friend duran.ogg",length=4.7948752834467117}}
 L["i long for combat"]={{path="chatsounds/autoadd/starcraft/i long for combat.ogg",length=1.8126984126984127}}
 L["i love the smell of napalm"]={{path="chatsounds/autoadd/starcraft/i love the smell of napalm.ogg",length=2.6470748299319729}}
+L["i read you"]={{path="chatsounds/autoadd/starcraft/i read you.ogg",length=1.1145578231292517}}
 L["i read you heh"]={{path="chatsounds/autoadd/starcraft/i read you heh.ogg",length=2.7138321995464851}}
 L["i read you sir"]={{path="chatsounds/autoadd/starcraft/i read you sir.ogg",length=2.2946938775510204}}
-L["i read you"]={{path="chatsounds/autoadd/starcraft/i read you.ogg",length=1.1145578231292517}}
 L["i really have to go number one"]={{path="chatsounds/autoadd/starcraft/i really have to go number one.ogg",length=3.6223129251700681}}
 L["i see you have an appetite for destruction"]={{path="chatsounds/autoadd/starcraft/i see you have an appetite for destruction.ogg",length=3.758548752834467}}
 L["i sense a soul in search of answers"]={{path="chatsounds/autoadd/starcraft/i sense a soul in search of answers.ogg",length=3.8777324263038548}}
@@ -348,19 +348,19 @@ L["ready to kill"]={{path="chatsounds/autoadd/starcraft/ready to kill.ogg",lengt
 L["ready to roll out"]={{path="chatsounds/autoadd/starcraft/ready to roll out.ogg",length=1.2296145124716553}}
 L["ready to serve"]={{path="chatsounds/autoadd/starcraft/ready to serve.ogg",length=1.8381859410430839}}
 L["reaver"]={{path="chatsounds/autoadd/starcraft/reaver/PtrPss00.ogg",length=1.6485714285714286},{path="chatsounds/autoadd/starcraft/reaver/PtrPss01.ogg",length=1.8343764172335602},{path="chatsounds/autoadd/starcraft/reaver/PtrPss02.ogg",length=2.1536054421768709},{path="chatsounds/autoadd/starcraft/reaver/PTrRdy00.ogg",length=2.2290702947845804},{path="chatsounds/autoadd/starcraft/reaver/PTrWht00.ogg",length=1.3612244897959183},{path="chatsounds/autoadd/starcraft/reaver/PTrWht01.ogg",length=1.3612244897959183},{path="chatsounds/autoadd/starcraft/reaver/PTrWht02.ogg",length=1.1667573696145124},{path="chatsounds/autoadd/starcraft/reaver/PTrWht03.ogg",length=0.98390022675736966},{path="chatsounds/autoadd/starcraft/reaver/PTrYes00.ogg",length=2.234875283446712},{path="chatsounds/autoadd/starcraft/reaver/PTrYes01.ogg",length=2.7399546485260773},{path="chatsounds/autoadd/starcraft/reaver/PTrYes02.ogg",length=2.2290702947845804},{path="chatsounds/autoadd/starcraft/reaver/PTrYes03.ogg",length=2.1129705215419503}}
+L["receiving"]={{path="chatsounds/autoadd/starcraft/receiving.ogg",length=0.9882993197278912}}
 L["receiving headquarters"]={{path="chatsounds/autoadd/starcraft/receiving headquarters.ogg",length=2.136190476190476}}
 L["receiving transmission"]={{path="chatsounds/autoadd/starcraft/receiving transmission.ogg",length=2.3103854875283445}}
-L["receiving"]={{path="chatsounds/autoadd/starcraft/receiving.ogg",length=0.9882993197278912}}
 L["reportin for duty"]={{path="chatsounds/autoadd/starcraft/reportin for duty.ogg",length=1.2074376417233561}}
 L["reporting in"]={{path="chatsounds/autoadd/starcraft/reporting in.ogg",length=1.1378231292517007}}
 L["research complete"]={{path="chatsounds/autoadd/starcraft/research complete/research complete protoss.ogg",length=1.3477551020408163},{path="chatsounds/autoadd/starcraft/research complete/research complete terran.ogg",length=1.8048072562358277}}
 L["ride on"]={{path="chatsounds/autoadd/starcraft/ride on.ogg",length=2.2407256235827666}}
 L["right away"]={{path="chatsounds/autoadd/starcraft/right away/right away duran zerg.ogg",length=1.7588662131519275},{path="chatsounds/autoadd/starcraft/right away/right away duran.ogg",length=1.4309297052154195}}
-L["right away sir"]={{path="chatsounds/autoadd/starcraft/right away sir.ogg",length=1.0913378684807256}}
 L["right away"]={{path="chatsounds/autoadd/starcraft/right away.ogg",length=0.96993197278911569}}
+L["right away sir"]={{path="chatsounds/autoadd/starcraft/right away sir.ogg",length=1.0913378684807256}}
 L["rock and roll"]={{path="chatsounds/autoadd/starcraft/rock and roll.ogg",length=1.5804535147392291}}
-L["roger that"]={{path="chatsounds/autoadd/starcraft/roger that.ogg",length=1.002766439909297}}
 L["roger"]={{path="chatsounds/autoadd/starcraft/roger.ogg",length=1.0217233560090704}}
+L["roger that"]={{path="chatsounds/autoadd/starcraft/roger that.ogg",length=1.002766439909297}}
 L["running level one diagnostic"]={{path="chatsounds/autoadd/starcraft/running level one diagnostic.ogg",length=2.0200907029478459}}
 L["sacrifice me"]={{path="chatsounds/autoadd/starcraft/sacrifice me.ogg",length=2.234920634920635}}
 L["scourge"]={{path="chatsounds/autoadd/starcraft/scourge/ZAvHit00.ogg",length=0.76045351473922906},{path="chatsounds/autoadd/starcraft/scourge/ZAvPss00.ogg",length=0.91913832199546486},{path="chatsounds/autoadd/starcraft/scourge/ZAvPss01.ogg",length=0.73433106575963714},{path="chatsounds/autoadd/starcraft/scourge/ZAvRdy00.ogg",length=1.3987755102040815},{path="chatsounds/autoadd/starcraft/scourge/ZAvWht00.ogg",length=1.1513378684807256},{path="chatsounds/autoadd/starcraft/scourge/ZAvWht01.ogg",length=0.69859410430838997},{path="chatsounds/autoadd/starcraft/scourge/ZAvYes00.ogg",length=1.2945124716553289},{path="chatsounds/autoadd/starcraft/scourge/ZAvYes01.ogg",length=1.3741950113378685}}
@@ -411,9 +411,9 @@ L["thorasohcahp"]={{path="chatsounds/autoadd/starcraft/thorasohcahp.ogg",length=
 L["thoughts in chaos"]={{path="chatsounds/autoadd/starcraft/thoughts in chaos.ogg",length=2.9267120181405897}}
 L["to curl chunks please use the vomit bag in front of you"]={{path="chatsounds/autoadd/starcraft/to curl chunks please use the vomit bag in front of you.ogg",length=2.9257596371882086}}
 L["transmission"]={{path="chatsounds/autoadd/starcraft/transmission.wav",length=0.17990929705215419}}
+L["transmit"]={{path="chatsounds/autoadd/starcraft/transmit.ogg",length=0.8011791383219955}}
 L["transmit coordinates"]={{path="chatsounds/autoadd/starcraft/transmit coordinates.ogg",length=1.4164625850340136}}
 L["transmit orders"]={{path="chatsounds/autoadd/starcraft/transmit orders.ogg",length=1.82562358276644}}
-L["transmit"]={{path="chatsounds/autoadd/starcraft/transmit.ogg",length=0.8011791383219955}}
 L["turn your head and cough"]={{path="chatsounds/autoadd/starcraft/turn your head and cough.ogg",length=1.6841269841269841}}
 L["ugh"]={{path="chatsounds/autoadd/starcraft/ugh.ogg",length=1.4318367346938776}}
 L["ultralisk"]={{path="chatsounds/autoadd/starcraft/ultralisk/zulPss00.ogg",length=1.6195464852607711},{path="chatsounds/autoadd/starcraft/ultralisk/zulPss01.ogg",length=2.4322448979591837},{path="chatsounds/autoadd/starcraft/ultralisk/zulPss02.ogg",length=2.1245804988662131},{path="chatsounds/autoadd/starcraft/ultralisk/zulRdy00.ogg",length=2.8826757369614513},{path="chatsounds/autoadd/starcraft/ultralisk/zulRor00.ogg",length=2.3771882086167802},{path="chatsounds/autoadd/starcraft/ultralisk/zulWht00.ogg",length=1.0519274376417234},{path="chatsounds/autoadd/starcraft/ultralisk/zulWht01.ogg",length=0.85909297052154199},{path="chatsounds/autoadd/starcraft/ultralisk/zulWht02.ogg",length=1.1120181405895693},{path="chatsounds/autoadd/starcraft/ultralisk/zulWht03.ogg",length=1.0129251700680273},{path="chatsounds/autoadd/starcraft/ultralisk/zulYes00.ogg",length=1.5034467120181405},{path="chatsounds/autoadd/starcraft/ultralisk/zulYes01.ogg",length=1.3554195011337868},{path="chatsounds/autoadd/starcraft/ultralisk/zulYes02.ogg",length=1.5789115646258503},{path="chatsounds/autoadd/starcraft/ultralisk/zulYes03.ogg",length=1.0738775510204082}}
@@ -441,9 +441,10 @@ L["we require more vespene gas"]={{path="chatsounds/autoadd/starcraft/we require
 L["we rule"]={{path="chatsounds/autoadd/starcraft/we rule.ogg",length=2.2204081632653061}}
 L["we sense a soul in search of answers"]={{path="chatsounds/autoadd/starcraft/we sense a soul in search of answers.ogg",length=3.6223129251700681}}
 L["we will do what we must"]={{path="chatsounds/autoadd/starcraft/we will do what we must.ogg",length=1.8620861678004534}}
-L["well take that as a yes"]={{path="chatsounds/autoadd/starcraft/well take that as a yes.ogg",length=2.0839909297052155}}
 L["well"]={{path="chatsounds/autoadd/starcraft/well.ogg",length=1.9504761904761905}}
+L["well take that as a yes"]={{path="chatsounds/autoadd/starcraft/well take that as a yes.ogg",length=2.0839909297052155}}
 L["whaddya you want"]={{path="chatsounds/autoadd/starcraft/whaddya you want.ogg",length=1.500997732426304}}
+L["what"]={{path="chatsounds/autoadd/starcraft/what.ogg",length=1.811156462585034}}
 L["what battle calls"]={{path="chatsounds/autoadd/starcraft/what battle calls.ogg",length=1.5050340136054421}}
 L["what did you do to your hair"]={{path="chatsounds/autoadd/starcraft/what did you do to your hair.ogg",length=4.7510657596371884}}
 L["what do i look like an orc"]={{path="chatsounds/autoadd/starcraft/what do i look like an orc.ogg",length=3.221768707482993}}
@@ -452,7 +453,6 @@ L["what is it now"]={{path="chatsounds/autoadd/starcraft/what is it now.ogg",len
 L["what is your major malfunction"]={{path="chatsounds/autoadd/starcraft/what is your major malfunction.ogg",length=2.020997732426304}}
 L["what now"]={{path="chatsounds/autoadd/starcraft/what now.ogg",length=1.3670748299319728}}
 L["what would you ask of me"]={{path="chatsounds/autoadd/starcraft/what would you ask of me.ogg",length=1.2542857142857142}}
-L["what"]={{path="chatsounds/autoadd/starcraft/what.ogg",length=1.811156462585034}}
 L["whats so funny"]={{path="chatsounds/autoadd/starcraft/whats so funny/whats so funny duran zerg.ogg",length=1.8706122448979592},{path="chatsounds/autoadd/starcraft/whats so funny/whats so funny duran.ogg",length=1.2887074829931973}}
 L["whats up"]={{path="chatsounds/autoadd/starcraft/whats up.ogg",length=0.44984126984126982}}
 L["whats your problem man"]={{path="chatsounds/autoadd/starcraft/whats your problem man.ogg",length=2.028888888888889}}
@@ -464,8 +464,8 @@ L["whos your mommy"]={{path="chatsounds/autoadd/starcraft/whos your mommy.ogg",l
 L["will go"]={{path="chatsounds/autoadd/starcraft/will go.ogg",length=1.9098412698412699}}
 L["wraith awaiting launch orders"]={{path="chatsounds/autoadd/starcraft/wraith awaiting launch orders.ogg",length=2.0491156462585036}}
 L["yall need some good old fashioned discipline"]={{path="chatsounds/autoadd/starcraft/yall need some good old fashioned discipline.ogg",length=4.3421315192743766}}
-L["yeah im going"]={{path="chatsounds/autoadd/starcraft/yeah im going.ogg",length=1.9454421768707484}}
 L["yeah"]={{path="chatsounds/autoadd/starcraft/yeah.ogg",length=1.2519727891156462}}
+L["yeah im going"]={{path="chatsounds/autoadd/starcraft/yeah im going.ogg",length=1.9454421768707484}}
 L["yep"]={{path="chatsounds/autoadd/starcraft/yep.ogg",length=0.45473922902494329}}
 L["yes"]={{path="chatsounds/autoadd/starcraft/yes/yes dark templar.ogg",length=1.169297052154195},{path="chatsounds/autoadd/starcraft/yes/yes firebat.ogg",length=1.0332879818594105},{path="chatsounds/autoadd/starcraft/yes/yes infested kerrigan.ogg",length=1.2103401360544217},{path="chatsounds/autoadd/starcraft/yes/yes infested terran.ogg",length=1.5731519274376418}}
 L["yes captain"]={{path="chatsounds/autoadd/starcraft/yes captain.ogg",length=1.2799546485260771}}
@@ -493,8 +493,8 @@ L["your command"]={{path="chatsounds/autoadd/starcraft/your command/your command
 L["your forces are under attack"]={{path="chatsounds/autoadd/starcraft/your forces are under attack.ogg",length=2.2715646258503401}}
 L["your orders templar"]={{path="chatsounds/autoadd/starcraft/your orders templar.ogg",length=2.5275736961451245}}
 L["your taunts are ill advised templar"]={{path="chatsounds/autoadd/starcraft/your taunts are ill advised templar.ogg",length=2.6726077097505669}}
-L["your thoughts betray you"]={{path="chatsounds/autoadd/starcraft/your thoughts betray you.ogg",length=2.1644444444444444}}
 L["your thoughts"]={{path="chatsounds/autoadd/starcraft/your thoughts.ogg",length=2.2560090702947844}}
+L["your thoughts betray you"]={{path="chatsounds/autoadd/starcraft/your thoughts betray you.ogg",length=2.1644444444444444}}
 L["your warriors have engaged the enemy"]={{path="chatsounds/autoadd/starcraft/your warriors have engaged the enemy.ogg",length=2.2612698412698413}}
 L["your will"]={{path="chatsounds/autoadd/starcraft/your will.ogg",length=1.2192290249433106}}
 L["youre being very naughty"]={{path="chatsounds/autoadd/starcraft/youre being very naughty.ogg",length=2.2639002267573698}}

@@ -8,8 +8,8 @@ L["deku uhoh"]={{path="chatsounds/autoadd/zelda64/deku uhoh.ogg",length=0.542902
 L["goron ohrr"]={{path="chatsounds/autoadd/zelda64/goron ohrr.ogg",length=1.4063038548752835}}
 L["goron oop"]={{path="chatsounds/autoadd/zelda64/goron oop.ogg",length=0.38226757369614511}}
 L["hehehe"]={{path="chatsounds/autoadd/zelda64/hehehe.ogg",length=2.814920634920635}}
-L["hey listen"]={{path="chatsounds/autoadd/zelda64/hey listen.ogg",length=0.90453514739229024}}
 L["hey"]={{path="chatsounds/autoadd/zelda64/hey.ogg",length=0.41691609977324262}}
+L["hey listen"]={{path="chatsounds/autoadd/zelda64/hey listen.ogg",length=0.90453514739229024}}
 L["listen"]={{path="chatsounds/autoadd/zelda64/listen.ogg",length=0.48657596371882084}}
 L["mask get"]={{path="chatsounds/autoadd/zelda64/mask get.ogg",length=4.8949206349206351}}
 L["mask off"]={{path="chatsounds/autoadd/zelda64/mask off.ogg",length=3.4549206349206347}}

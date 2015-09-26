@@ -6,8 +6,8 @@ L["aaah this must be the one"]={{path="chatsounds/autoadd/postal/aaah this must 
 L["aah time to partay with mister napalm"]={{path="chatsounds/autoadd/postal/aah time to partay with mister napalm.ogg",length=2.9522448979591838}}
 L["again"]={{path="chatsounds/autoadd/postal/again.ogg",length=0.82934240362811795}}
 L["ah"]={{path="chatsounds/autoadd/postal/ah/ah.ogg",length=0.38476190476190475}}
-L["ah jail a small slice of urine stained heaven with a little sodomy on the side"]={{path="chatsounds/autoadd/postal/ah jail a small slice of urine stained heaven with a little sodomy on the side.ogg",length=5.3887981859410434}}
 L["ah jail a small slice of urine stained heaven"]={{path="chatsounds/autoadd/postal/ah jail a small slice of urine stained heaven.ogg",length=3.2175963718820864}}
+L["ah jail a small slice of urine stained heaven with a little sodomy on the side"]={{path="chatsounds/autoadd/postal/ah jail a small slice of urine stained heaven with a little sodomy on the side.ogg",length=5.3887981859410434}}
 L["ah thats the stuff"]={{path="chatsounds/autoadd/postal/ah thats the stuff/ah thats the stuff1.ogg",length=1.5884807256235827},{path="chatsounds/autoadd/postal/ah thats the stuff/ah thats the stuff2.ogg",length=1.8455328798185942}}
 L["ahhh"]={{path="chatsounds/autoadd/postal/ahhh.ogg",length=0.70766439909297052}}
 L["all the cars in this town seem to be props anyway"]={{path="chatsounds/autoadd/postal/all the cars in this town seem to be props anyway.ogg",length=2.6784126984126986}}
@@ -23,8 +23,8 @@ L["and one for your mother"]={{path="chatsounds/autoadd/postal/and one for your 
 L["and one just because i can"]={{path="chatsounds/autoadd/postal/and one just because i can.ogg",length=2.0230839002267573}}
 L["and one to grow on"]={{path="chatsounds/autoadd/postal/and one to grow on.ogg",length=1.5156916099773243}}
 L["and steaks for the psychotic friends network barbeque"]={{path="chatsounds/autoadd/postal/and steaks for the psychotic friends network barbeque.ogg",length=3.24281179138322}}
-L["are you saving again"]={{path="chatsounds/autoadd/postal/are you saving again.ogg",length=1.6221768707482993}}
 L["are you saving"]={{path="chatsounds/autoadd/postal/are you saving.ogg",length=0.80113378684807257}}
+L["are you saving again"]={{path="chatsounds/autoadd/postal/are you saving again.ogg",length=1.6221768707482993}}
 L["are you storing kadavers in here"]={{path="chatsounds/autoadd/postal/are you storing kadavers in here.ogg",length=1.8361904761904762}}
 L["atleast its educational"]={{path="chatsounds/autoadd/postal/atleast its educational.ogg",length=1.6089342403628117}}
 L["bad idea"]={{path="chatsounds/autoadd/postal/bad idea.ogg",length=0.65578231292517009}}
@@ -37,8 +37,8 @@ L["buttsause"]={{path="chatsounds/autoadd/postal/buttsause.ogg",length=1.0716553
 L["cant we all just get along"]={{path="chatsounds/autoadd/postal/cant we all just get along.ogg",length=1.6623129251700681}}
 L["catch"]={{path="chatsounds/autoadd/postal/catch.ogg",length=0.56521541950113374}}
 L["close enough"]={{path="chatsounds/autoadd/postal/close enough.ogg",length=0.87083900226757371}}
-L["come on hurry up i know you got minorities to opress"]={{path="chatsounds/autoadd/postal/come on hurry up i know you got minorities to opress.ogg",length=2.6505668934240361}}
 L["come on hurry up"]={{path="chatsounds/autoadd/postal/come on hurry up.ogg",length=0.82662131519274373}}
+L["come on hurry up i know you got minorities to opress"]={{path="chatsounds/autoadd/postal/come on hurry up i know you got minorities to opress.ogg",length=2.6505668934240361}}
 L["crap"]={{path="chatsounds/autoadd/postal/crap.ogg",length=0.60090702947845809}}
 L["damn do all these people look alike or what"]={{path="chatsounds/autoadd/postal/damn do all these people look alike or what.ogg",length=2.5880725623582768}}
 L["damn here i was minding my own business enjoying my second amendment rights and you people have to freak out on me"]={{path="chatsounds/autoadd/postal/damn here i was minding my own business enjoying my second amendment rights and you people have to freak out on me.ogg",length=6.0225850340136056}}
@@ -62,13 +62,13 @@ L["fuck"]={{path="chatsounds/autoadd/postal/fuck/fuck1.ogg",length=0.80730158730
 L["fuck me i better get home"]={{path="chatsounds/autoadd/postal/fuck me i better get home/fuck me i better get home1.ogg",length=1.8327891156462586},{path="chatsounds/autoadd/postal/fuck me i better get home/fuck me i better get home2.ogg",length=1.6632653061224489}}
 L["fuck you"]={{path="chatsounds/autoadd/postal/fuck you.ogg",length=0.85446712018140591}}
 L["gah i feel like il get hepatitis if i touch anything in this fucking town"]={{path="chatsounds/autoadd/postal/gah i feel like il get hepatitis if i touch anything in this fucking town.ogg",length=4.1912925170068025}}
+L["gee"]={{path="chatsounds/autoadd/postal/gee.ogg",length=0.53047619047619043}}
 L["gee i hope nobody is taping this"]={{path="chatsounds/autoadd/postal/gee i hope nobody is taping this.ogg",length=2.4704308390022676}}
 L["gee that wasnt so awefull"]={{path="chatsounds/autoadd/postal/gee that wasnt so awefull.ogg",length=2.3533333333333335}}
-L["gee"]={{path="chatsounds/autoadd/postal/gee.ogg",length=0.53047619047619043}}
 L["geez if the sherrif turns out to be don nots il kill everyone and then myself"]={{path="chatsounds/autoadd/postal/geez if the sherrif turns out to be don nots il kill everyone and then myself.ogg",length=4.1765986394557819}}
 L["geeze whoever designed this town was on serious crack"]={{path="chatsounds/autoadd/postal/geeze whoever designed this town was on serious crack.ogg",length=3.1676190476190476}}
-L["get down if you dont wanna die"]={{path="chatsounds/autoadd/postal/get down if you dont wanna die.ogg",length=1.4305215419501134}}
 L["get down"]={{path="chatsounds/autoadd/postal/get down.ogg",length=0.8067573696145125}}
+L["get down if you dont wanna die"]={{path="chatsounds/autoadd/postal/get down if you dont wanna die.ogg",length=1.4305215419501134}}
 L["get the fuck down"]={{path="chatsounds/autoadd/postal/get the fuck down.ogg",length=1.2821768707482992}}
 L["give me some money"]={{path="chatsounds/autoadd/postal/give me some money.ogg",length=1.2279365079365079}}
 L["glad to see my tax dollars not going to waste"]={{path="chatsounds/autoadd/postal/glad to see my tax dollars not going to waste.ogg",length=2.2926984126984129}}
@@ -80,15 +80,15 @@ L["grandfather of jimmy joe billy bob cousin of johnny joe billy jimbo bob"]={{p
 L["gues i need to get to the top floor"]={{path="chatsounds/autoadd/postal/gues i need to get to the top floor.ogg",length=1.8265306122448979}}
 L["gues im just jaded and synical"]={{path="chatsounds/autoadd/postal/gues im just jaded and synical.ogg",length=2.2414965986394559}}
 L["gues its never too early to introduce a major fire hazard into the home"]={{path="chatsounds/autoadd/postal/gues its never too early to introduce a major fire hazard into the home.ogg",length=4.3441723356009074}}
-L["guns dont kill people i do"]={{path="chatsounds/autoadd/postal/guns dont kill people i do.ogg",length=2.4682086167800454}}
 L["guns dont kill people"]={{path="chatsounds/autoadd/postal/guns dont kill people.ogg",length=1.4738775510204081}}
+L["guns dont kill people i do"]={{path="chatsounds/autoadd/postal/guns dont kill people i do.ogg",length=2.4682086167800454}}
 L["happy fucking birthday"]={{path="chatsounds/autoadd/postal/happy fucking birthday.ogg",length=2.021315192743764}}
 L["have a nice day"]={{path="chatsounds/autoadd/postal/have a nice day.ogg",length=1.3009070294784582}}
 L["he didnt i didnt"]={{path="chatsounds/autoadd/postal/he didnt i didnt.ogg",length=1.1319274376417234}}
 L["hehehehehehe"]={{path="chatsounds/autoadd/postal/hehehehehehe.ogg",length=1.90140589569161}}
+L["here"]={{path="chatsounds/autoadd/postal/here.ogg",length=0.44412698412698415}}
 L["here catch"]={{path="chatsounds/autoadd/postal/here catch.ogg",length=1.0043083900226757}}
 L["here it is"]={{path="chatsounds/autoadd/postal/here it is.ogg",length=0.81560090702947841}}
-L["here"]={{path="chatsounds/autoadd/postal/here.ogg",length=0.44412698412698415}}
 L["heres some lead for you to recycle"]={{path="chatsounds/autoadd/postal/heres some lead for you to recycle.ogg",length=1.7787301587301587}}
 L["heres your rebate you damn dirty apes"]={{path="chatsounds/autoadd/postal/heres your rebate you damn dirty apes.ogg",length=2.2310204081632654}}
 L["heres your tax relief"]={{path="chatsounds/autoadd/postal/heres your tax relief.ogg",length=1.6205895691609977}}
@@ -100,13 +100,13 @@ L["hey liberatchy catch"]={{path="chatsounds/autoadd/postal/hey liberatchy catch
 L["hey look its uncle dad"]={{path="chatsounds/autoadd/postal/hey look its uncle dad.ogg",length=2.1231746031746033}}
 L["hey now i cant feel my legs"]={{path="chatsounds/autoadd/postal/hey now i cant feel my legs.ogg",length=2.5230385487528344}}
 L["hey they left the door unlocked again"]={{path="chatsounds/autoadd/postal/hey they left the door unlocked again.ogg",length=2.0131519274376419}}
-L["hi there"]={{path="chatsounds/autoadd/postal/hi there.ogg",length=0.60875283446712014}}
 L["hi"]={{path="chatsounds/autoadd/postal/hi.ogg",length=0.54612244897959183}}
+L["hi there"]={{path="chatsounds/autoadd/postal/hi there.ogg",length=0.60875283446712014}}
 L["hm usually id expect a fancy cinematic to explain such a crucial story element the font is nice though"]={{path="chatsounds/autoadd/postal/hm usually id expect a fancy cinematic to explain such a crucial story element the font is nice though.ogg",length=7.8109750566893421}}
 L["hmhmm"]={{path="chatsounds/autoadd/postal/hmhmm.ogg",length=0.96916099773242625}}
+L["hmm"]={{path="chatsounds/autoadd/postal/hmm.ogg",length=0.67442176870748294}}
 L["hmm all out of cash"]={{path="chatsounds/autoadd/postal/hmm all out of cash.ogg",length=1.6639002267573697}}
 L["hmm i think i need that"]={{path="chatsounds/autoadd/postal/hmm i think i need that.ogg",length=1.7389569160997733}}
-L["hmm"]={{path="chatsounds/autoadd/postal/hmm.ogg",length=0.67442176870748294}}
 L["hmmm"]={{path="chatsounds/autoadd/postal/hmmm.ogg",length=1.0874829931972789}}
 L["how about some service over here"]={{path="chatsounds/autoadd/postal/how about some service over here.ogg",length=1.6998639455782314}}
 L["how convenient"]={{path="chatsounds/autoadd/postal/how convenient.ogg",length=1.255374149659864}}
@@ -149,9 +149,9 @@ L["just call me doctor euthanasia"]={{path="chatsounds/autoadd/postal/just call 
 L["just kidding"]={{path="chatsounds/autoadd/postal/just kidding.ogg",length=0.96154195011337873}}
 L["let me fix that"]={{path="chatsounds/autoadd/postal/let me fix that.ogg",length=1.1936961451247166}}
 L["lets see"]={{path="chatsounds/autoadd/postal/lets see.ogg",length=0.96916099773242625}}
+L["man"]={{path="chatsounds/autoadd/postal/man.ogg",length=0.60730158730158734}}
 L["man i gotta stop smoking this crap"]={{path="chatsounds/autoadd/postal/man i gotta stop smoking this crap.ogg",length=2.7371428571428571}}
 L["man what these game developers wont do for a buck"]={{path="chatsounds/autoadd/postal/man what these game developers wont do for a buck.ogg",length=2.8830385487528343}}
-L["man"]={{path="chatsounds/autoadd/postal/man.ogg",length=0.60730158730158734}}
 L["maybe i should keep that"]={{path="chatsounds/autoadd/postal/maybe i should keep that.ogg",length=1.4063038548752835}}
 L["mission accomplished"]={{path="chatsounds/autoadd/postal/mission accomplished.ogg",length=1.31578231292517}}
 L["mmm smells like chicken"]={{path="chatsounds/autoadd/postal/mmm smells like chicken.ogg",length=2.074829931972789}}
@@ -177,8 +177,8 @@ L["now thats what i call wellfare reform"]={{path="chatsounds/autoadd/postal/now
 L["now the flowers will grow"]={{path="chatsounds/autoadd/postal/now the flowers will grow.ogg",length=2.032154195011338}}
 L["now where is that"]={{path="chatsounds/autoadd/postal/now where is that.ogg",length=1.2036734693877551}}
 L["nuh uh"]={{path="chatsounds/autoadd/postal/nuh uh.ogg",length=0.57981859410430836}}
-L["oh great now my day is complete"]={{path="chatsounds/autoadd/postal/oh great now my day is complete.ogg",length=2.5614058956916099}}
 L["oh great"]={{path="chatsounds/autoadd/postal/oh great.ogg",length=1.1289342403628118}}
+L["oh great now my day is complete"]={{path="chatsounds/autoadd/postal/oh great now my day is complete.ogg",length=2.5614058956916099}}
 L["oh i get it"]={{path="chatsounds/autoadd/postal/oh i get it.ogg",length=0.97424036281179138}}
 L["oh like thats not going to get me into trouble"]={{path="chatsounds/autoadd/postal/oh like thats not going to get me into trouble.ogg",length=2.2010430839002266}}
 L["oh look they left the door unlocked"]={{path="chatsounds/autoadd/postal/oh look they left the door unlocked.ogg",length=2.1085714285714285}}
@@ -196,9 +196,9 @@ L["oooh yeah"]={{path="chatsounds/autoadd/postal/oooh yeah.ogg",length=2.9047619
 L["oops that was impetuous of me"]={{path="chatsounds/autoadd/postal/oops that was impetuous of me.ogg",length=1.7928344671201815}}
 L["oops1"]={{path="chatsounds/autoadd/postal/oops1.ogg",length=0.52761904761904765}}
 L["oops2"]={{path="chatsounds/autoadd/postal/oops2.ogg",length=0.423265306122449}}
+L["ow"]={{path="chatsounds/autoadd/postal/ow.ogg",length=0.52761904761904765}}
 L["ow my clavichord"]={{path="chatsounds/autoadd/postal/ow my clavichord.ogg",length=1.2454421768707482}}
 L["ow so thats what that feels like"]={{path="chatsounds/autoadd/postal/ow so thats what that feels like.ogg",length=2.4706122448979593}}
-L["ow"]={{path="chatsounds/autoadd/postal/ow.ogg",length=0.52761904761904765}}
 L["please dont think im a biggot i kill races equally"]={{path="chatsounds/autoadd/postal/please dont think im a biggot i kill races equally.ogg",length=3.3370975056689343}}
 L["probably through that door"]={{path="chatsounds/autoadd/postal/probably through that door.ogg",length=1.9575056689342403}}
 L["really"]={{path="chatsounds/autoadd/postal/really.ogg",length=0.61242630385487529}}
@@ -218,8 +218,8 @@ L["so thats what that feels like"]={{path="chatsounds/autoadd/postal/so thats wh
 L["sold out"]={{path="chatsounds/autoadd/postal/sold out.ogg",length=0.85777777777777775}}
 L["someone light a match"]={{path="chatsounds/autoadd/postal/someone light a match.ogg",length=1.6066666666666667}}
 L["someone stole my donuts and now youre all gonna pay"]={{path="chatsounds/autoadd/postal/someone stole my donuts and now youre all gonna pay.ogg",length=3.5101133786848071}}
-L["sorry folks the bible backs me up on this one"]={{path="chatsounds/autoadd/postal/sorry folks the bible backs me up on this one.ogg",length=2.8349206349206351}}
 L["sorry"]={{path="chatsounds/autoadd/postal/sorry.ogg",length=0.77120181405895694}}
+L["sorry folks the bible backs me up on this one"]={{path="chatsounds/autoadd/postal/sorry folks the bible backs me up on this one.ogg",length=2.8349206349206351}}
 L["sounds reasonable"]={{path="chatsounds/autoadd/postal/sounds reasonable.ogg",length=1.0058503401360543}}
 L["stupid library book bitch cant even read"]={{path="chatsounds/autoadd/postal/stupid library book bitch cant even read.ogg",length=2.5496598639455783}}
 L["suprise"]={{path="chatsounds/autoadd/postal/suprise.ogg",length=1.4319727891156462}}
@@ -234,8 +234,8 @@ L["thats clearly wrong"]={{path="chatsounds/autoadd/postal/thats clearly wrong.o
 L["thats definitly gonna be on my permanent record"]={{path="chatsounds/autoadd/postal/thats definitly gonna be on my permanent record.ogg",length=2.6407256235827665}}
 L["thats gonna be sore tomorrow"]={{path="chatsounds/autoadd/postal/thats gonna be sore tomorrow.ogg",length=1.7387755102040816}}
 L["thats gonna leave a mark"]={{path="chatsounds/autoadd/postal/thats gonna leave a mark.ogg",length=1.1867573696145124}}
-L["thats the one oh wait no"]={{path="chatsounds/autoadd/postal/thats the one oh wait no.ogg",length=2.4785941043083901}}
 L["thats the one"]={{path="chatsounds/autoadd/postal/thats the one.ogg",length=1.1470748299319729}}
+L["thats the one oh wait no"]={{path="chatsounds/autoadd/postal/thats the one oh wait no.ogg",length=2.4785941043083901}}
 L["thats the ticket"]={{path="chatsounds/autoadd/postal/thats the ticket.ogg",length=1.5059410430839002}}
 L["the font is nice though"]={{path="chatsounds/autoadd/postal/the font is nice though.ogg",length=1.2337414965986395}}
 L["the gene pool is stagnent and i am the minister of chlorine"]={{path="chatsounds/autoadd/postal/the gene pool is stagnent and i am the minister of chlorine.ogg",length=3.8062585034013607}}

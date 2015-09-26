@@ -1,8 +1,8 @@
 c.StartList("luigimansion")
 L["aha"]={{path="chatsounds/autoadd/luigimansion/aha/aha.ogg",length=0.81399092970521547},{path="chatsounds/autoadd/luigimansion/aha/aha2.ogg",length=0.82131519274376419}}
 L["gameover"]={{path="chatsounds/autoadd/luigimansion/gameover.ogg",length=7.6600453514739231}}
-L["got it yeah"]={{path="chatsounds/autoadd/luigimansion/got it yeah.ogg",length=1.2079818594104308}}
 L["got it"]={{path="chatsounds/autoadd/luigimansion/got it.ogg",length=0.38931972789115649}}
+L["got it yeah"]={{path="chatsounds/autoadd/luigimansion/got it yeah.ogg",length=1.2079818594104308}}
 L["gotcha"]={{path="chatsounds/autoadd/luigimansion/gotcha.ogg",length=0.42664399092970523}}
 L["hello"]={{path="chatsounds/autoadd/luigimansion/hello.ogg",length=0.52131519274376414}}
 L["hey"]={{path="chatsounds/autoadd/luigimansion/hey/hey.ogg",length=0.40000000000000002},{path="chatsounds/autoadd/luigimansion/hey/hey2.ogg",length=0.57308390022675737}}

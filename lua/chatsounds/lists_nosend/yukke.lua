@@ -10,8 +10,8 @@ L["bcl chew"]={{path="chatsounds/autoadd/yukke/bcl chew/bcl_chew1.ogg",length=2.
 L["bcl die"]={{path="chatsounds/autoadd/yukke/bcl die/bcl_die1.ogg",length=4.0792743764172332},{path="chatsounds/autoadd/yukke/bcl die/bcl_die3.ogg",length=2.4532426303854877}}
 L["bcl tongue"]={{path="chatsounds/autoadd/yukke/bcl tongue.ogg",length=1.5107482993197279}}
 L["bigwarning"]={{path="chatsounds/autoadd/yukke/bigwarning.ogg",length=1.3369614512471655}}
-L["da ma re full"]={{path="chatsounds/autoadd/yukke/da ma re full.ogg",length=6.4106575963718821}}
 L["da ma re"]={{path="chatsounds/autoadd/yukke/da ma re.ogg",length=0.77868480725623579}}
+L["da ma re full"]={{path="chatsounds/autoadd/yukke/da ma re full.ogg",length=6.4106575963718821}}
 L["dokusaikoku"]={{path="chatsounds/autoadd/yukke/dokusaikoku.ogg",length=1.9306575963718822}}
 L["doon"]={{path="chatsounds/autoadd/yukke/doon.ogg",length=1.4164172335600906}}
 L["dorihu"]={{path="chatsounds/autoadd/yukke/dorihu.ogg",length=13.769433106575963}}
@@ -28,8 +28,8 @@ L["tentacle sing"]={{path="chatsounds/autoadd/yukke/tentacle sing/te_sing1.ogg",
 L["tentacle squirm"]={{path="chatsounds/autoadd/yukke/tentacle squirm.ogg",length=5.1611791383219954}}
 L["tentacle strike"]={{path="chatsounds/autoadd/yukke/tentacle strike/te_strike1.ogg",length=1.6468027210884353},{path="chatsounds/autoadd/yukke/tentacle strike/te_strike2.ogg",length=1.0970521541950113}}
 L["tentacle swing"]={{path="chatsounds/autoadd/yukke/tentacle swing/te_swing1.ogg",length=0.92807256235827662},{path="chatsounds/autoadd/yukke/tentacle swing/te_swing2.ogg",length=1.699954648526077}}
-L["uc full"]={{path="chatsounds/autoadd/yukke/uc full.ogg",length=24.055873015873015}}
 L["uc"]={{path="chatsounds/autoadd/yukke/uc.ogg",length=4.9690702947845802}}
+L["uc full"]={{path="chatsounds/autoadd/yukke/uc full.ogg",length=24.055873015873015}}
 L["warn"]={{path="chatsounds/autoadd/yukke/warn/warn1.ogg",length=1.2495238095238095},{path="chatsounds/autoadd/yukke/warn/warn2.ogg",length=0.95410430839002269},{path="chatsounds/autoadd/yukke/warn/warn3.ogg",length=0.35882086167800453}}
 L["weap explode"]={{path="chatsounds/autoadd/yukke/weap explode/explode3.ogg",length=5.8069387755102042},{path="chatsounds/autoadd/yukke/weap explode/explode4.ogg",length=5.8125170068027208},{path="chatsounds/autoadd/yukke/weap explode/explode5.ogg",length=5.7184580498866211}}
 c.EndList()

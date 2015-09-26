@@ -90,8 +90,8 @@ L["banane"]={{path="chatsounds/autoadd/instagib/banane.ogg",length=1.50929705215
 L["bangr"]={{path="chatsounds/autoadd/instagib/bangr.ogg",length=42.447981859410433}}
 L["banni"]={{path="chatsounds/autoadd/instagib/banni.ogg",length=0.81487528344671201}}
 L["bartintro"]={{path="chatsounds/autoadd/instagib/bartintro.ogg",length=16.371746031746031}}
-L["bb cry"]={{path="chatsounds/autoadd/instagib/bb cry.ogg",length=38.480975056689346}}
 L["bb"]={{path="chatsounds/autoadd/instagib/bb.ogg",length=2.6487981859410432}}
+L["bb cry"]={{path="chatsounds/autoadd/instagib/bb cry.ogg",length=38.480975056689346}}
 L["bboys"]={{path="chatsounds/autoadd/instagib/bboys.ogg",length=11.100589569160999}}
 L["bc1"]={{path="chatsounds/autoadd/instagib/bc1.ogg",length=2.2522902494331065}}
 L["bd"]={{path="chatsounds/autoadd/instagib/bd.ogg",length=17.342131519274375}}
@@ -241,8 +241,8 @@ L["death awaits you all"]={{path="chatsounds/autoadd/instagib/death awaits you a
 L["dein kopf is ab du wicht"]={{path="chatsounds/autoadd/instagib/dein kopf is ab du wicht.ogg",length=1.8999999999999999}}
 L["denken"]={{path="chatsounds/autoadd/instagib/denken.ogg",length=2.7502494331065761}}
 L["deo"]={{path="chatsounds/autoadd/instagib/deo.ogg",length=3.144671201814059}}
-L["der naechste bitte"]={{path="chatsounds/autoadd/instagib/der naechste bitte.ogg",length=1.3999999999999999}}
 L["der"]={{path="chatsounds/autoadd/instagib/der.ogg",length=0.87768707482993202}}
+L["der naechste bitte"]={{path="chatsounds/autoadd/instagib/der naechste bitte.ogg",length=1.3999999999999999}}
 L["dickhole"]={{path="chatsounds/autoadd/instagib/dickhole.ogg",length=1.9564625850340136}}
 L["didr"]={{path="chatsounds/autoadd/instagib/didr.ogg",length=28.935600907029478}}
 L["didu"]={{path="chatsounds/autoadd/instagib/didu.ogg",length=9.7761451247165532}}
@@ -524,8 +524,8 @@ L["hellspell"]={{path="chatsounds/autoadd/instagib/hellspell.ogg",length=7.54267
 L["help help im being repressed"]={{path="chatsounds/autoadd/instagib/help help im being repressed.ogg",length=2.1678911564625851}}
 L["helpme"]={{path="chatsounds/autoadd/instagib/helpme.ogg",length=0.85750566893424041}}
 L["helpme2"]={{path="chatsounds/autoadd/instagib/helpme2.ogg",length=1.0972789115646258}}
-L["here kitty kitty kitty gunshots"]={{path="chatsounds/autoadd/instagib/here kitty kitty kitty gunshots.ogg",length=9.2107482993197287}}
 L["here kitty kitty kitty"]={{path="chatsounds/autoadd/instagib/here kitty kitty kitty.ogg",length=1.353015873015873}}
+L["here kitty kitty kitty gunshots"]={{path="chatsounds/autoadd/instagib/here kitty kitty kitty gunshots.ogg",length=9.2107482993197287}}
 L["hescrazy"]={{path="chatsounds/autoadd/instagib/hescrazy.ogg",length=1.1645804988662132}}
 L["heul"]={{path="chatsounds/autoadd/instagib/heul.ogg",length=0.97061224489795916}}
 L["heul2"]={{path="chatsounds/autoadd/instagib/heul2.ogg",length=5.8523356009070291}}
@@ -864,10 +864,10 @@ L["nera"]={{path="chatsounds/autoadd/instagib/nera.ogg",length=4.765079365079365
 L["nervendenjunkies"]={{path="chatsounds/autoadd/instagib/nervendenjunkies.ogg",length=2.048888888888889}}
 L["nervr"]={{path="chatsounds/autoadd/instagib/nervr.ogg",length=17.487346938775509}}
 L["neveragain"]={{path="chatsounds/autoadd/instagib/neveragain.ogg",length=2.1691609977324262}}
+L["nice"]={{path="chatsounds/autoadd/instagib/nice.ogg",length=2.5478458049886621}}
 L["nice fuckin shot"]={{path="chatsounds/autoadd/instagib/nice fuckin shot.ogg",length=1.647437641723356}}
 L["nice shot"]={{path="chatsounds/autoadd/instagib/nice shot.ogg",length=0.96643990929705215}}
 L["nice work"]={{path="chatsounds/autoadd/instagib/nice work.ogg",length=1.4276643990929705}}
-L["nice"]={{path="chatsounds/autoadd/instagib/nice.ogg",length=2.5478458049886621}}
 L["nice1"]={{path="chatsounds/autoadd/instagib/nice1.ogg",length=4.8813605442176868}}
 L["nichtdu"]={{path="chatsounds/autoadd/instagib/nichtdu.ogg",length=2.0364625850340135}}
 L["nichterinnern"]={{path="chatsounds/autoadd/instagib/nichterinnern.ogg",length=3.2039002267573697}}
@@ -881,8 +881,8 @@ L["nimm"]={{path="chatsounds/autoadd/instagib/nimm.ogg",length=14.28897959183673
 L["ninja1"]={{path="chatsounds/autoadd/instagib/ninja1.ogg",length=2.07546485260771}}
 L["niveau"]={{path="chatsounds/autoadd/instagib/niveau.ogg",length=2.8404988662131521}}
 L["nix"]={{path="chatsounds/autoadd/instagib/nix.ogg",length=2.5887528344671202}}
-L["no youre going to get in trouble"]={{path="chatsounds/autoadd/instagib/no youre going to get in trouble.ogg",length=1.9246258503401361}}
 L["no"]={{path="chatsounds/autoadd/instagib/no.ogg",length=0.91428571428571426}}
+L["no youre going to get in trouble"]={{path="chatsounds/autoadd/instagib/no youre going to get in trouble.ogg",length=1.9246258503401361}}
 L["no2"]={{path="chatsounds/autoadd/instagib/no2.ogg",length=0.82049886621315193}}
 L["nodisco"]={{path="chatsounds/autoadd/instagib/nodisco.ogg",length=6.6544671201814056}}
 L["noobs1"]={{path="chatsounds/autoadd/instagib/noobs1.ogg",length=2.8496145124716552}}
@@ -1329,8 +1329,8 @@ L["woohoo"]={{path="chatsounds/autoadd/instagib/woohoo.ogg",length=3.69496598639
 L["wooow"]={{path="chatsounds/autoadd/instagib/wooow.ogg",length=3.8462585034013603}}
 L["wow"]={{path="chatsounds/autoadd/instagib/wow.ogg",length=1.6130612244897959}}
 L["wowcool"]={{path="chatsounds/autoadd/instagib/wowcool.ogg",length=1.833469387755102}}
-L["wth was that"]={{path="chatsounds/autoadd/instagib/wth was that.ogg",length=1.2414512471655328}}
 L["wth"]={{path="chatsounds/autoadd/instagib/wth.ogg",length=1.5800000000000001}}
+L["wth was that"]={{path="chatsounds/autoadd/instagib/wth was that.ogg",length=1.2414512471655328}}
 L["wth2"]={{path="chatsounds/autoadd/instagib/wth2.ogg",length=1.9197732426303855}}
 L["wunder"]={{path="chatsounds/autoadd/instagib/wunder.ogg",length=3.1085714285714285}}
 L["wunderbar"]={{path="chatsounds/autoadd/instagib/wunderbar.ogg",length=4.2956009070294785}}

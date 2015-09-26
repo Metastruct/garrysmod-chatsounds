@@ -12,8 +12,8 @@ L["hold smella di ta piller sjol"]={{path="chatsounds/autoadd/kjerring/hold smel
 L["jeg har vert ute med sanne for jeg skjonner du"]={{path="chatsounds/autoadd/kjerring/jeg har vert ute med sanne for jeg skjonner du.ogg",length=1.9866666666666666}}
 L["kan du lokke opp dora sa jeg kommer ut"]={{path="chatsounds/autoadd/kjerring/kan du lokke opp dora sa jeg kommer ut.ogg",length=1.9448526077097505}}
 L["kuk hel dau"]={{path="chatsounds/autoadd/kjerring/kuk hel dau.ogg",length=1.1137414965986394}}
-L["lokk opp dora sa gar dere ut"]={{path="chatsounds/autoadd/kjerring/lokk opp dora sa gar dere ut.ogg",length=1.3488435374149659}}
 L["lokk opp dora"]={{path="chatsounds/autoadd/kjerring/lokk opp dora.ogg",length=0.78902494331065764}}
+L["lokk opp dora sa gar dere ut"]={{path="chatsounds/autoadd/kjerring/lokk opp dora sa gar dere ut.ogg",length=1.3488435374149659}}
 L["narkotika"]={{path="chatsounds/autoadd/kjerring/narkotika.ogg",length=1.2024489795918367}}
 L["pul hu som star vedsidnav deg"]={{path="chatsounds/autoadd/kjerring/pul hu som star vedsidnav deg.ogg",length=1.79859410430839}}
 L["sa lurer du ikke meg"]={{path="chatsounds/autoadd/kjerring/sa lurer du ikke meg.ogg",length=1.0351473922902494}}

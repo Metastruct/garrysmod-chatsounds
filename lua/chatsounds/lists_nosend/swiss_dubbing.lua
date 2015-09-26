@@ -17,8 +17,8 @@ L["so geil"]={{path="chatsounds/autoadd/swiss_dubbing/so geil.ogg",length=1.1559
 L["so ist laessig so ist gut"]={{path="chatsounds/autoadd/swiss_dubbing/so ist laessig so ist gut.ogg",length=2.8199773242630384}}
 L["so ja ist gut"]={{path="chatsounds/autoadd/swiss_dubbing/so ja ist gut.ogg",length=1.3503174603174604}}
 L["so laessig ja jo"]={{path="chatsounds/autoadd/swiss_dubbing/so laessig ja jo.ogg",length=2.2232426303854878}}
+L["spritz"]={{path="chatsounds/autoadd/swiss_dubbing/spritz.ogg",length=0.64789115646258499}}
 L["spritz auf den arsch"]={{path="chatsounds/autoadd/swiss_dubbing/spritz auf den arsch.ogg",length=1.2036961451247166}}
 L["spritz auf muschi"]={{path="chatsounds/autoadd/swiss_dubbing/spritz auf muschi.ogg",length=1.3639455782312926}}
 L["spritz jetzt auf titte"]={{path="chatsounds/autoadd/swiss_dubbing/spritz jetzt auf titte.ogg",length=1.5753741496598639}}
-L["spritz"]={{path="chatsounds/autoadd/swiss_dubbing/spritz.ogg",length=0.64789115646258499}}
 c.EndList()

@@ -2,8 +2,8 @@ c.StartList("Gamer_Poop_Skyrim")
 L["ah and look somebodys fcking that dead body"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ah and look somebodys fcking that dead body.ogg",length=2.6848526077097508}}
 L["ah dead body"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ah dead body.ogg",length=1.4812925170068028}}
 L["ah it burns"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ah it burns.ogg",length=1.399092970521542}}
-L["ah its just a dream nope better"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ah its just a dream nope better.ogg",length=19.838390022675735}}
 L["ah its just a dream"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ah its just a dream.ogg",length=1.345283446712018}}
+L["ah its just a dream nope better"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ah its just a dream nope better.ogg",length=19.838390022675735}}
 L["ahh it burns"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ahh it burns.ogg",length=1.9904761904761905}}
 L["balgruf oh balgruf why dont you show us that fine pussie"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/balgruf oh balgruf why dont you show us that fine pussie.ogg",length=5.1658730158730162}}
 L["ballin ballin ballin swag"]={{path="chatsounds/autoadd/Gamer_Poop_Skyrim/ballin ballin ballin swag.ogg",length=6.3761224489795918}}

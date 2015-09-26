@@ -12,8 +12,8 @@ L["go on without me"]={{path="chatsounds/autoadd/matrix_xp/go on without me.ogg"
 L["have you tried realising the truth that there is no spoon"]={{path="chatsounds/autoadd/matrix_xp/have you tried realising the truth that there is no spoon.ogg",length=3.0490702947845807}}
 L["hope you have cookies enabled"]={{path="chatsounds/autoadd/matrix_xp/hope you have cookies enabled.ogg",length=2.5658503401360546}}
 L["i dont now know how those got there"]={{path="chatsounds/autoadd/matrix_xp/i dont now know how those got there.ogg",length=1.6838321995464853}}
-L["i just have to wait for the hour glass to go away ok"]={{path="chatsounds/autoadd/matrix_xp/i just have to wait for the hour glass to go away ok.ogg",length=4.5873242630385489}}
 L["i just have to wait for the hour glass to go away"]={{path="chatsounds/autoadd/matrix_xp/i just have to wait for the hour glass to go away.ogg",length=2.2704535147392289}}
+L["i just have to wait for the hour glass to go away ok"]={{path="chatsounds/autoadd/matrix_xp/i just have to wait for the hour glass to go away ok.ogg",length=4.5873242630385489}}
 L["i said i got it"]={{path="chatsounds/autoadd/matrix_xp/i said i got it.ogg",length=1.0677097505668933}}
 L["it is the most advanced windows program ever developed"]={{path="chatsounds/autoadd/matrix_xp/it is the most advanced windows program ever developed.ogg",length=3.355034013605442}}
 L["it looks like you try to bend the spoon with your mind"]={{path="chatsounds/autoadd/matrix_xp/it looks like you try to bend the spoon with your mind.ogg",length=2.5531972789115644}}
@@ -28,21 +28,21 @@ L["our free trial of kung fu is expired "]={{path="chatsounds/autoadd/matrix_xp/
 L["progress bar is moving but the remaining time is going up"]={{path="chatsounds/autoadd/matrix_xp/progress bar is moving but the remaining time is going up.ogg",length=3.1482312925170066}}
 L["rrragh"]={{path="chatsounds/autoadd/matrix_xp/rrragh.ogg",length=1.1126984126984127}}
 L["so you are to trust noone"]={{path="chatsounds/autoadd/matrix_xp/so you are to trust noone.ogg",length=1.9665986394557824}}
-L["sooner or later we all encounter an error neo you will have to make a choice to send an error report"]={{path="chatsounds/autoadd/matrix_xp/sooner or later we all encounter an error neo you will have to make a choice to send an error report.ogg",length=17.792222222222222}}
 L["sooner or later"]={{path="chatsounds/autoadd/matrix_xp/sooner or later.ogg",length=1.5361451247165532}}
+L["sooner or later we all encounter an error neo you will have to make a choice to send an error report"]={{path="chatsounds/autoadd/matrix_xp/sooner or later we all encounter an error neo you will have to make a choice to send an error report.ogg",length=17.792222222222222}}
 L["that closet should be full of guns"]={{path="chatsounds/autoadd/matrix_xp/that closet should be full of guns.ogg",length=1.9159410430839001}}
-L["the matrix used to run pretty well but it slows down over time"]={{path="chatsounds/autoadd/matrix_xp/the matrix used to run pretty well but it slows down over time.ogg",length=4.4564852607709753}}
 L["the matrix used to run pretty well"]={{path="chatsounds/autoadd/matrix_xp/the matrix used to run pretty well.ogg",length=2.3506349206349206}}
+L["the matrix used to run pretty well but it slows down over time"]={{path="chatsounds/autoadd/matrix_xp/the matrix used to run pretty well but it slows down over time.ogg",length=4.4564852607709753}}
 L["this happens from time to time"]={{path="chatsounds/autoadd/matrix_xp/this happens from time to time.ogg",length=1.6669614512471655}}
 L["this was a training exercise"]={{path="chatsounds/autoadd/matrix_xp/this was a training exercise.ogg",length=2.6122902494331064}}
 L["to send an error report or not to send one"]={{path="chatsounds/autoadd/matrix_xp/to send an error report or not to send one.ogg",length=4.743469387755102}}
 L["try ctrl alt del"]={{path="chatsounds/autoadd/matrix_xp/try ctrl alt del.ogg",length=1.7492517006802721}}
-L["ubuntu im going to learn ubuntu"]={{path="chatsounds/autoadd/matrix_xp/ubuntu im going to learn ubuntu.ogg",length=4.3847619047619046}}
 L["ubuntu"]={{path="chatsounds/autoadd/matrix_xp/ubuntu.ogg",length=0.78916099773242632}}
+L["ubuntu im going to learn ubuntu"]={{path="chatsounds/autoadd/matrix_xp/ubuntu im going to learn ubuntu.ogg",length=4.3847619047619046}}
 L["unfreeze"]={{path="chatsounds/autoadd/matrix_xp/unfreeze/unfreeze1.ogg",length=0.96219954648526074},{path="chatsounds/autoadd/matrix_xp/unfreeze/unfreeze2.ogg",length=0.97909297052154198}}
 L["we all encounter an error neo"]={{path="chatsounds/autoadd/matrix_xp/we all encounter an error neo.ogg",length=2.958344671201814}}
-L["well hello there hope you have cookies enabled"]={{path="chatsounds/autoadd/matrix_xp/well hello there hope you have cookies enabled.ogg",length=4.194852607709751}}
 L["well hello there"]={{path="chatsounds/autoadd/matrix_xp/well hello there.ogg",length=1.5530385487528344}}
+L["well hello there hope you have cookies enabled"]={{path="chatsounds/autoadd/matrix_xp/well hello there hope you have cookies enabled.ogg",length=4.194852607709751}}
 L["why am i here"]={{path="chatsounds/autoadd/matrix_xp/why am i here.ogg",length=1.0719274376417234}}
 L["you need to do exactly as i say you understand"]={{path="chatsounds/autoadd/matrix_xp/you need to do exactly as i say you understand.ogg",length=2.1100907029478457}}
 L["you will have to make a choice"]={{path="chatsounds/autoadd/matrix_xp/you will have to make a choice.ogg",length=2.9794331065759638}}

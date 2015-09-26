@@ -6,8 +6,8 @@ L["die wachstumsphasen der haarwurzeln zu verlaengern"]={{path="chatsounds/autoa
 L["doping"]={{path="chatsounds/autoadd/alpecin/doping/doping 1.ogg",length=0.47335600907029479},{path="chatsounds/autoadd/alpecin/doping/doping 2.ogg",length=0.52380952380952384}}
 L["doping fuer die haare"]={{path="chatsounds/autoadd/alpecin/doping fuer die haare.ogg",length=1.2289115646258504}}
 L["dr klenk"]={{path="chatsounds/autoadd/alpecin/dr klenk.ogg",length=0.65215419501133787}}
-L["erblich bedingtem haarausfall"]={{path="chatsounds/autoadd/alpecin/erblich bedingtem haarausfall.ogg",length=1.1452834467120181}}
 L["erblich"]={{path="chatsounds/autoadd/alpecin/erblich.ogg",length=0.35863945578231293}}
+L["erblich bedingtem haarausfall"]={{path="chatsounds/autoadd/alpecin/erblich bedingtem haarausfall.ogg",length=1.1452834467120181}}
 L["erregt"]={{path="chatsounds/autoadd/alpecin/erregt.ogg",length=0.5143083900226757}}
 L["fuer die haare"]={{path="chatsounds/autoadd/alpecin/fuer die haare.ogg",length=0.72126984126984128}}
 L["haarausfall"]={{path="chatsounds/autoadd/alpecin/haarausfall.ogg",length=0.44546485260770974}}

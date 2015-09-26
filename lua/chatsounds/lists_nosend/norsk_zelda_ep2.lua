@@ -14,7 +14,7 @@ L["sigh"]={{path="chatsounds/autoadd/norsk_zelda_ep2/sigh.ogg",length=1.35662131
 L["stop der din foreder"]={{path="chatsounds/autoadd/norsk_zelda_ep2/stop der din foreder.ogg",length=1.4149659863945578}}
 L["ughh"]={{path="chatsounds/autoadd/norsk_zelda_ep2/ughh.ogg",length=1.1257823129251701}}
 L["uhh prinsesse"]={{path="chatsounds/autoadd/norsk_zelda_ep2/uhh prinsesse.ogg",length=1.8631065759637189}}
-L["zelda prinsesse zelda"]={{path="chatsounds/autoadd/norsk_zelda_ep2/zelda prinsesse zelda.ogg",length=2.846439909297052}}
 L["zelda"]={{path="chatsounds/autoadd/norsk_zelda_ep2/zelda.ogg",length=1.0119501133786848}}
+L["zelda prinsesse zelda"]={{path="chatsounds/autoadd/norsk_zelda_ep2/zelda prinsesse zelda.ogg",length=2.846439909297052}}
 L["zeldaa"]={{path="chatsounds/autoadd/norsk_zelda_ep2/zeldaa.ogg",length=1.0286621315192743}}
 c.EndList()

@@ -7,12 +7,12 @@ L["dont ignore your own doubts"]={{path="chatsounds/autoadd/dissidia/dont ignore
 L["dont you have any doubts"]={{path="chatsounds/autoadd/dissidia/dont you have any doubts.ogg",length=1.4463038548752833}}
 L["high"]={{path="chatsounds/autoadd/dissidia/high.ogg",length=0.39727891156462586}}
 L["how dare you"]={{path="chatsounds/autoadd/dissidia/how dare you.ogg",length=0.67582766439909292}}
+L["i"]={{path="chatsounds/autoadd/dissidia/i.ogg",length=0.39263038548752832}}
 L["i cant lose this fight"]={{path="chatsounds/autoadd/dissidia/i cant lose this fight.ogg",length=1.3201360544217686}}
 L["i dont plan on playing any games"]={{path="chatsounds/autoadd/dissidia/i dont plan on playing any games.ogg",length=1.8157596371882085}}
 L["i have to continue on"]={{path="chatsounds/autoadd/dissidia/i have to continue on.ogg",length=1.9103854875283446}}
 L["i was too reckless"]={{path="chatsounds/autoadd/dissidia/i was too reckless.ogg",length=1.1083900226757371}}
 L["i won"]={{path="chatsounds/autoadd/dissidia/i won.ogg",length=0.68934240362811794}}
-L["i"]={{path="chatsounds/autoadd/dissidia/i.ogg",length=0.39263038548752832}}
 L["im gonna do"]={{path="chatsounds/autoadd/dissidia/im gonna do.ogg",length=0.72861678004535146}}
 L["im no hero"]={{path="chatsounds/autoadd/dissidia/im no hero.ogg",length=0.84705215419501134}}
 L["is there anything you regret"]={{path="chatsounds/autoadd/dissidia/is there anything you regret.ogg",length=1.2502947845804988}}
@@ -25,8 +25,8 @@ L["redeemed"]={{path="chatsounds/autoadd/dissidia/redeemed.ogg",length=0.6243537
 L["so darkness may not be evil"]={{path="chatsounds/autoadd/dissidia/so darkness may not be evil.ogg",length=1.7031065759637187}}
 L["so youre a true warrior"]={{path="chatsounds/autoadd/dissidia/so youre a true warrior.ogg",length=1.6287755102040817}}
 L["the end of the line"]={{path="chatsounds/autoadd/dissidia/the end of the line.ogg",length=0.87859410430839002}}
-L["this is the only weapon i need"]={{path="chatsounds/autoadd/dissidia/this is the only weapon i need.ogg",length=2.0275056689342406}}
 L["this"]={{path="chatsounds/autoadd/dissidia/this.ogg",length=0.53854875283446713}}
+L["this is the only weapon i need"]={{path="chatsounds/autoadd/dissidia/this is the only weapon i need.ogg",length=2.0275056689342406}}
 L["to see the day"]={{path="chatsounds/autoadd/dissidia/to see the day.ogg",length=0.8582993197278912}}
 L["what a depressing job"]={{path="chatsounds/autoadd/dissidia/what a depressing job.ogg",length=1.4192743764172335}}
 L["what i can"]={{path="chatsounds/autoadd/dissidia/what i can.ogg",length=0.6382539682539683}}

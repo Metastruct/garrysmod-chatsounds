@@ -314,8 +314,8 @@ L["you aint going to jail pussy"]={{path="chatsounds/autoadd/Nigbone/you aint go
 L["you aint there you getting fist fucked"]={{path="chatsounds/autoadd/Nigbone/you aint there you getting fist fucked.ogg",length=1.903061224489796}}
 L["you always looking for your goddamn pills its not funny"]={{path="chatsounds/autoadd/Nigbone/you always looking for your goddamn pills its not funny.ogg",length=3.0180952380952379}}
 L["you dont fuckin sass da nigbone"]={{path="chatsounds/autoadd/Nigbone/you dont fuckin sass da nigbone.ogg",length=1.9704081632653061}}
-L["you dumbass mo fucka it takes two seconds of your god damn time"]={{path="chatsounds/autoadd/Nigbone/you dumbass mo fucka it takes two seconds of your god damn time.ogg",length=3.8025396825396824}}
 L["you dumbass mo fucka"]={{path="chatsounds/autoadd/Nigbone/you dumbass mo fucka.ogg",length=1.4605215419501134}}
+L["you dumbass mo fucka it takes two seconds of your god damn time"]={{path="chatsounds/autoadd/Nigbone/you dumbass mo fucka it takes two seconds of your god damn time.ogg",length=3.8025396825396824}}
 L["you excused"]={{path="chatsounds/autoadd/Nigbone/you excused.ogg",length=1.1700907029478458}}
 L["you gonna make this easy on me or you gonna make this hard on you"]={{path="chatsounds/autoadd/Nigbone/you gonna make this easy on me or you gonna make this hard on you.ogg",length=3.410453514739229}}
 L["you got a stupid ass face i hate your face"]={{path="chatsounds/autoadd/Nigbone/you got a stupid ass face i hate your face.ogg",length=3.2653741496598641}}

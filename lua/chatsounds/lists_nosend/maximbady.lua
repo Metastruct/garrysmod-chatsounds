@@ -70,8 +70,8 @@ L["milkshake will come out"]={{path="chatsounds/autoadd/maximbady/milkshake will
 L["my brain was saying nooo"]={{path="chatsounds/autoadd/maximbady/my brain was saying nooo.ogg",length=2.4159637188208616}}
 L["my ding dong is scared it is hiding"]={{path="chatsounds/autoadd/maximbady/my ding dong is scared it is hiding.ogg",length=2.4658503401360545}}
 L["my ding dong went like this"]={{path="chatsounds/autoadd/maximbady/my ding dong went like this.ogg",length=1.676485260770975}}
-L["no homo"]={{path="chatsounds/autoadd/maximbady/no homo.ogg",length=0.87058956916099772}}
 L["no"]={{path="chatsounds/autoadd/maximbady/no.ogg",length=0.66387755102040813}}
+L["no homo"]={{path="chatsounds/autoadd/maximbady/no homo.ogg",length=0.87058956916099772}}
 L["nonononono"]={{path="chatsounds/autoadd/maximbady/nonononono.ogg",length=1.1250113378684807}}
 L["oh my fucking god"]={{path="chatsounds/autoadd/maximbady/oh my fucking god.ogg",length=1.698140589569161}}
 L["oh shit oh shit oh my fucking god"]={{path="chatsounds/autoadd/maximbady/oh shit oh shit oh my fucking god.ogg",length=3.4619954648526079}}
@@ -102,8 +102,8 @@ L["what kind of balls does dis man have"]={{path="chatsounds/autoadd/maximbady/w
 L["what kind of music video shit is that"]={{path="chatsounds/autoadd/maximbady/what kind of music video shit is that.ogg",length=2.2868707482993198}}
 L["what the whatafacking fuck"]={{path="chatsounds/autoadd/maximbady/what the whatafacking fuck.ogg",length=1.8442403628117914}}
 L["when you are watching porn"]={{path="chatsounds/autoadd/maximbady/when you are watching porn.ogg",length=1.7520408163265306}}
-L["where do black people come from"]={{path="chatsounds/autoadd/maximbady/where do black people come from.ogg",length=2.228684807256236}}
 L["where"]={{path="chatsounds/autoadd/maximbady/where.ogg",length=0.79034013605442177}}
+L["where do black people come from"]={{path="chatsounds/autoadd/maximbady/where do black people come from.ogg",length=2.228684807256236}}
 L["yallah"]={{path="chatsounds/autoadd/maximbady/yallah.ogg",length=0.48530612244897958}}
 L["yes"]={{path="chatsounds/autoadd/maximbady/yes.ogg",length=0.68383219954648522}}
 L["you are either talking from out of your ass or your tits"]={{path="chatsounds/autoadd/maximbady/you are either talking from out of your ass or your tits.ogg",length=4.213265306122449}}

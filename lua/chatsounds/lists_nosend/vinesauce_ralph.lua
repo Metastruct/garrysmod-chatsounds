@@ -60,8 +60,8 @@ L["hey does anyone here want to yiff with a perfectly young and able cat"]={{pat
 L["hey everybody this is ralph bluetawn"]={{path="chatsounds/autoadd/vinesauce_ralph/hey everybody this is ralph bluetawn.ogg",length=3.617777777777778}}
 L["hey wait thats not burn victim"]={{path="chatsounds/autoadd/vinesauce_ralph/hey wait thats not burn victim.ogg",length=2.4018820861678005}}
 L["his face is weird too"]={{path="chatsounds/autoadd/vinesauce_ralph/his face is weird too.ogg",length=2.4969614512471656}}
-L["holy shit is that really ralph omg hhhh im screenshotting this"]={{path="chatsounds/autoadd/vinesauce_ralph/holy shit is that really ralph omg hhhh im screenshotting this.ogg",length=9.2012018140589564}}
 L["holy shit"]={{path="chatsounds/autoadd/vinesauce_ralph/holy shit.ogg",length=0.66349206349206347}}
+L["holy shit is that really ralph omg hhhh im screenshotting this"]={{path="chatsounds/autoadd/vinesauce_ralph/holy shit is that really ralph omg hhhh im screenshotting this.ogg",length=9.2012018140589564}}
 L["how do i initiate like a yiff"]={{path="chatsounds/autoadd/vinesauce_ralph/how do i initiate like a yiff.ogg",length=2.6709977324263039}}
 L["how do i make this end i dont know how to make this end"]={{path="chatsounds/autoadd/vinesauce_ralph/how do i make this end i dont know how to make this end.ogg",length=2.8734240362811789}}
 L["how fuckin old are you people"]={{path="chatsounds/autoadd/vinesauce_ralph/how fuckin old are you people.ogg",length=1.6963718820861677}}

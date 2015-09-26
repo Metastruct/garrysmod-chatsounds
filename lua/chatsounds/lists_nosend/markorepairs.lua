@@ -26,15 +26,15 @@ L["but not time is"]={{path="chatsounds/autoadd/markorepairs/but not time is.ogg
 L["but now i going"]={{path="chatsounds/autoadd/markorepairs/but now i going.ogg",length=1.6152380952380951}}
 L["but what what is that"]={{path="chatsounds/autoadd/markorepairs/but what what is that.ogg",length=2.17421768707483}}
 L["button"]={{path="chatsounds/autoadd/markorepairs/button/button.ogg",length=0.78349206349206346},{path="chatsounds/autoadd/markorepairs/button/button2.ogg",length=1.0708616780045352},{path="chatsounds/autoadd/markorepairs/button/button3.ogg",length=0.92133786848072563}}
+L["bye"]={{path="chatsounds/autoadd/markorepairs/bye.ogg",length=0.56598639455782318}}
 L["bye bye"]={{path="chatsounds/autoadd/markorepairs/bye bye/bye bye Copy.ogg",length=0.78947845804988659},{path="chatsounds/autoadd/markorepairs/bye bye/bye bye.ogg",length=1.0013605442176872}}
 L["bye bye bye bye"]={{path="chatsounds/autoadd/markorepairs/bye bye bye bye.ogg",length=1.7893877551020407}}
 L["bye bye finland"]={{path="chatsounds/autoadd/markorepairs/bye bye finland/bye bye finland.ogg",length=1.2756462585034014},{path="chatsounds/autoadd/markorepairs/bye bye finland/bye bye finnland.ogg",length=1.5020408163265306}}
-L["bye"]={{path="chatsounds/autoadd/markorepairs/bye.ogg",length=0.56598639455782318}}
 L["caps"]={{path="chatsounds/autoadd/markorepairs/caps/caps.ogg",length=0.51612244897959181},{path="chatsounds/autoadd/markorepairs/caps/caps2.ogg",length=0.40000000000000002}}
 L["car station"]={{path="chatsounds/autoadd/markorepairs/car station.ogg",length=0.94655328798185945}}
 L["car stations"]={{path="chatsounds/autoadd/markorepairs/car stations.ogg",length=1.1664625850340136}}
-L["change world"]={{path="chatsounds/autoadd/markorepairs/change world.ogg",length=1.6166893424036282}}
 L["change"]={{path="chatsounds/autoadd/markorepairs/change.ogg",length=0.67047619047619045}}
+L["change world"]={{path="chatsounds/autoadd/markorepairs/change world.ogg",length=1.6166893424036282}}
 L["charger"]={{path="chatsounds/autoadd/markorepairs/charger.ogg",length=0.95927437641723357}}
 L["click off that channel"]={{path="chatsounds/autoadd/markorepairs/click off that channel.ogg",length=2}}
 L["coffee"]={{path="chatsounds/autoadd/markorepairs/coffee/coffee.ogg",length=0.90376417233560091},{path="chatsounds/autoadd/markorepairs/coffee/coffee2.ogg",length=0.8753968253968254}}
@@ -47,8 +47,8 @@ L["cold"]={{path="chatsounds/autoadd/markorepairs/cold.ogg",length=1}}
 L["coming soon i"]={{path="chatsounds/autoadd/markorepairs/coming soon i.ogg",length=1.3786848072562359}}
 L["country"]={{path="chatsounds/autoadd/markorepairs/country.ogg",length=0.49777777777777776}}
 L["crazy"]={{path="chatsounds/autoadd/markorepairs/crazy.ogg",length=0.73287981859410434}}
-L["da shipman"]={{path="chatsounds/autoadd/markorepairs/da shipman.ogg",length=1.0187755102040816}}
 L["da"]={{path="chatsounds/autoadd/markorepairs/da.ogg",length=0.374421768707483}}
+L["da shipman"]={{path="chatsounds/autoadd/markorepairs/da shipman.ogg",length=1.0187755102040816}}
 L["dat"]={{path="chatsounds/autoadd/markorepairs/dat/dat Copy.ogg",length=1.2132426303854875},{path="chatsounds/autoadd/markorepairs/dat/dat.ogg",length=0.27863945578231292}}
 L["dat is correct"]={{path="chatsounds/autoadd/markorepairs/dat is correct.ogg",length=1.1639002267573697}}
 L["dat is crazy"]={{path="chatsounds/autoadd/markorepairs/dat is crazy.ogg",length=1.0927891156462586}}
@@ -62,9 +62,9 @@ L["dishwasher"]={{path="chatsounds/autoadd/markorepairs/dishwasher.ogg",length=1
 L["do you like that name"]={{path="chatsounds/autoadd/markorepairs/do you like that name.ogg",length=2.3488888888888888}}
 L["dont cry"]={{path="chatsounds/autoadd/markorepairs/dont cry.ogg",length=0.92589569160997731}}
 L["ehhehehe"]={{path="chatsounds/autoadd/markorepairs/ehhehehe.ogg",length=2}}
+L["english"]={{path="chatsounds/autoadd/markorepairs/english.ogg",length=0.6385487528344671}}
 L["english only in english"]={{path="chatsounds/autoadd/markorepairs/english only in english.ogg",length=1.931609977324263}}
 L["english talk video"]={{path="chatsounds/autoadd/markorepairs/english talk video.ogg",length=1.6747392290249432}}
-L["english"]={{path="chatsounds/autoadd/markorepairs/english.ogg",length=0.6385487528344671}}
 L["errors"]={{path="chatsounds/autoadd/markorepairs/errors.ogg",length=0.67482993197278907}}
 L["everything my"]={{path="chatsounds/autoadd/markorepairs/everything my.ogg",length=1.3402721088435374}}
 L["example"]={{path="chatsounds/autoadd/markorepairs/example.ogg",length=0.72272108843537419}}
@@ -89,8 +89,8 @@ L["half"]={{path="chatsounds/autoadd/markorepairs/half.ogg",length=1.21870748299
 L["hehe"]={{path="chatsounds/autoadd/markorepairs/hehe.ogg",length=0.76480725623582768}}
 L["help this"]={{path="chatsounds/autoadd/markorepairs/help this.ogg",length=0.74884353741496601}}
 L["hobbly"]={{path="chatsounds/autoadd/markorepairs/hobbly.ogg",length=0.62984126984126987}}
-L["i edit my first video"]={{path="chatsounds/autoadd/markorepairs/i edit my first video.ogg",length=2.1928344671201816}}
 L["i edit my"]={{path="chatsounds/autoadd/markorepairs/i edit my.ogg",length=1.0492517006802722}}
+L["i edit my first video"]={{path="chatsounds/autoadd/markorepairs/i edit my first video.ogg",length=2.1928344671201816}}
 L["i go far away"]={{path="chatsounds/autoadd/markorepairs/i go far away.ogg",length=1.5775056689342404}}
 L["i im sorry im so i am sorry"]={{path="chatsounds/autoadd/markorepairs/i im sorry im so i am sorry.ogg",length=2.6451020408163264}}
 L["i janged"]={{path="chatsounds/autoadd/markorepairs/i janged.ogg",length=0.91573696145124717}}
@@ -111,68 +111,68 @@ L["iiiim"]={{path="chatsounds/autoadd/markorepairs/iiiim.ogg",length=1.142131519
 L["in water"]={{path="chatsounds/autoadd/markorepairs/in water.ogg",length=0.99975056689342401}}
 L["inside"]={{path="chatsounds/autoadd/markorepairs/inside.ogg",length=0.74158730158730157}}
 L["installation"]={{path="chatsounds/autoadd/markorepairs/installation.ogg",length=1.533968253968254}}
+L["is"]={{path="chatsounds/autoadd/markorepairs/is.ogg",length=0.21913832199546485}}
 L["is change"]={{path="chatsounds/autoadd/markorepairs/is change.ogg",length=0.9882993197278912}}
 L["is ready"]={{path="chatsounds/autoadd/markorepairs/is ready.ogg",length=0.83106575963718821}}
-L["is"]={{path="chatsounds/autoadd/markorepairs/is.ogg",length=0.21913832199546485}}
 L["jesus is my king"]={{path="chatsounds/autoadd/markorepairs/jesus is my king.ogg",length=1.2030839002267573}}
 L["king"]={{path="chatsounds/autoadd/markorepairs/king.ogg",length=0.55873015873015874}}
 L["like milk"]={{path="chatsounds/autoadd/markorepairs/like milk.ogg",length=1.7471655328798186}}
 L["little danger"]={{path="chatsounds/autoadd/markorepairs/little danger.ogg",length=1.7545578231292518}}
-L["little take video"]={{path="chatsounds/autoadd/markorepairs/little take video.ogg",length=2.5004988662131518}}
 L["little take"]={{path="chatsounds/autoadd/markorepairs/little take.ogg",length=1.1987301587301586}}
+L["little take video"]={{path="chatsounds/autoadd/markorepairs/little take video.ogg",length=2.5004988662131518}}
 L["look at"]={{path="chatsounds/autoadd/markorepairs/look at.ogg",length=0.80108843537414964}}
 L["low deck"]={{path="chatsounds/autoadd/markorepairs/low deck.ogg",length=1.703764172335601}}
 L["marshmelon"]={{path="chatsounds/autoadd/markorepairs/marshmelon.ogg",length=1.2041496598639456}}
 L["maybe not awful because i"]={{path="chatsounds/autoadd/markorepairs/maybe not awful because i.ogg",length=3.3176643990929704}}
 L["mhm very cheap"]={{path="chatsounds/autoadd/markorepairs/mhm very cheap.ogg",length=1.0289342403628119}}
 L["milk"]={{path="chatsounds/autoadd/markorepairs/milk.ogg",length=1.0577324263038548}}
-L["more stuff"]={{path="chatsounds/autoadd/markorepairs/more stuff.ogg",length=1.0419954648526077}}
 L["more"]={{path="chatsounds/autoadd/markorepairs/more.ogg",length=0.58630385487528347}}
+L["more stuff"]={{path="chatsounds/autoadd/markorepairs/more stuff.ogg",length=1.0419954648526077}}
+L["my"]={{path="chatsounds/autoadd/markorepairs/my.ogg",length=0.44802721088435377}}
 L["my beautiful legs"]={{path="chatsounds/autoadd/markorepairs/my beautiful legs.ogg",length=1.4048072562358276}}
-L["my coffee is ready now"]={{path="chatsounds/autoadd/markorepairs/my coffee is ready now.ogg",length=2.067891156462585}}
 L["my coffee is ready"]={{path="chatsounds/autoadd/markorepairs/my coffee is ready.ogg",length=1.7232199546485261}}
+L["my coffee is ready now"]={{path="chatsounds/autoadd/markorepairs/my coffee is ready now.ogg",length=2.067891156462585}}
 L["my coffee machine is full power"]={{path="chatsounds/autoadd/markorepairs/my coffee machine is full power.ogg",length=3.5003174603174605}}
 L["my life is new page"]={{path="chatsounds/autoadd/markorepairs/my life is new page.ogg",length=2.3255555555555554}}
 L["my my my"]={{path="chatsounds/autoadd/markorepairs/my my my.ogg",length=1.2496598639455783}}
 L["my quest"]={{path="chatsounds/autoadd/markorepairs/my quest.ogg",length=0.75174603174603172}}
 L["my room"]={{path="chatsounds/autoadd/markorepairs/my room.ogg",length=0.80108843537414964}}
 L["my stomach is ill because i laughing that morning"]={{path="chatsounds/autoadd/markorepairs/my stomach is ill because i laughing that morning.ogg",length=9.1631292517006795}}
-L["my"]={{path="chatsounds/autoadd/markorepairs/my.ogg",length=0.44802721088435377}}
 L["nail me on the shipman"]={{path="chatsounds/autoadd/markorepairs/nail me on the shipman.ogg",length=2.01578231292517}}
 L["name"]={{path="chatsounds/autoadd/markorepairs/name.ogg",length=0.40235827664399093}}
 L["next trip is"]={{path="chatsounds/autoadd/markorepairs/next trip is.ogg",length=1.2088888888888889}}
-L["next year you dat trip"]={{path="chatsounds/autoadd/markorepairs/next year you dat trip.ogg",length=2.2595918367346939}}
 L["next year"]={{path="chatsounds/autoadd/markorepairs/next year.ogg",length=0.9462131519274376}}
+L["next year you dat trip"]={{path="chatsounds/autoadd/markorepairs/next year you dat trip.ogg",length=2.2595918367346939}}
 L["nigger"]={{path="chatsounds/autoadd/markorepairs/nigger.ogg",length=0.57605442176870747}}
 L["nno"]={{path="chatsounds/autoadd/markorepairs/nno.ogg",length=1.0921995464852607}}
 L["no"]={{path="chatsounds/autoadd/markorepairs/no/no copy.ogg",length=0.82639455782312921},{path="chatsounds/autoadd/markorepairs/no/no.ogg",length=0.60748299319727894}}
 L["no low deck"]={{path="chatsounds/autoadd/markorepairs/no low deck.ogg",length=1.1319727891156464}}
-L["no no no nigger"]={{path="chatsounds/autoadd/markorepairs/no no no nigger.ogg",length=1.0530839002267574}}
 L["no no no"]={{path="chatsounds/autoadd/markorepairs/no no no.ogg",length=2.4047165532879817}}
+L["no no no nigger"]={{path="chatsounds/autoadd/markorepairs/no no no nigger.ogg",length=1.0530839002267574}}
 L["no yes that"]={{path="chatsounds/autoadd/markorepairs/no yes that.ogg",length=2.7990022675736963}}
 L["nobody nobody ehm"]={{path="chatsounds/autoadd/markorepairs/nobody nobody ehm.ogg",length=1.8213151927437641}}
-L["nom nom nom"]={{path="chatsounds/autoadd/markorepairs/nom nom nom.ogg",length=1.0086167800453514}}
 L["nom nom"]={{path="chatsounds/autoadd/markorepairs/nom nom.ogg",length=0.9462131519274376}}
+L["nom nom nom"]={{path="chatsounds/autoadd/markorepairs/nom nom nom.ogg",length=1.0086167800453514}}
 L["nonono"]={{path="chatsounds/autoadd/markorepairs/nonono.ogg",length=1.1277551020408163}}
+L["noo"]={{path="chatsounds/autoadd/markorepairs/noo.ogg",length=1}}
 L["noo"]={{path="chatsounds/autoadd/markorepairs/noo/noo copy.ogg",length=0.72267573696145126},{path="chatsounds/autoadd/markorepairs/noo/noo.ogg",length=1}}
 L["noo i"]={{path="chatsounds/autoadd/markorepairs/noo i.ogg",length=1.0118367346938775}}
-L["noo"]={{path="chatsounds/autoadd/markorepairs/noo.ogg",length=1}}
 L["noonono"]={{path="chatsounds/autoadd/markorepairs/noonono.ogg",length=1.8716099773242629}}
 L["nooo"]={{path="chatsounds/autoadd/markorepairs/nooo.ogg",length=1.1196371882086167}}
 L["not anything else"]={{path="chatsounds/autoadd/markorepairs/not anything else.ogg",length=1.3194331065759637}}
 L["not understand me"]={{path="chatsounds/autoadd/markorepairs/not understand me.ogg",length=2.0078684807256235}}
 L["not warm"]={{path="chatsounds/autoadd/markorepairs/not warm.ogg",length=1.0962585034013606}}
 L["oh my spoon"]={{path="chatsounds/autoadd/markorepairs/oh my spoon.ogg",length=1.7978004535147392}}
-L["one hand"]={{path="chatsounds/autoadd/markorepairs/one hand.ogg",length=1.7041043083900227}}
 L["one"]={{path="chatsounds/autoadd/markorepairs/one.ogg",length=1.1627210884353743}}
+L["one hand"]={{path="chatsounds/autoadd/markorepairs/one hand.ogg",length=1.7041043083900227}}
 L["only 6 errors"]={{path="chatsounds/autoadd/markorepairs/only 6 errors.ogg",length=2.3176417233560089}}
 L["only and i"]={{path="chatsounds/autoadd/markorepairs/only and i.ogg",length=1.8017006802721089}}
 L["only case"]={{path="chatsounds/autoadd/markorepairs/only case.ogg",length=1.220498866213152}}
 L["only in english video"]={{path="chatsounds/autoadd/markorepairs/only in english video.ogg",length=1.5513832199546485}}
 L["open it"]={{path="chatsounds/autoadd/markorepairs/open it.ogg",length=1.0390929705215419}}
 L["open up"]={{path="chatsounds/autoadd/markorepairs/open up.ogg",length=1.5121995464852607}}
-L["outside deck"]={{path="chatsounds/autoadd/markorepairs/outside deck.ogg",length=1.8619501133786849}}
 L["outside"]={{path="chatsounds/autoadd/markorepairs/outside.ogg",length=1.0492517006802722}}
+L["outside deck"]={{path="chatsounds/autoadd/markorepairs/outside deck.ogg",length=1.8619501133786849}}
 L["oven toilet room"]={{path="chatsounds/autoadd/markorepairs/oven toilet room.ogg",length=1.8924263038548752}}
 L["panasonic is best"]={{path="chatsounds/autoadd/markorepairs/panasonic is best.ogg",length=1.6848072562358276}}
 L["paper"]={{path="chatsounds/autoadd/markorepairs/paper/paper.ogg",length=0.52956916099773244},{path="chatsounds/autoadd/markorepairs/paper/paper2.ogg",length=0.76392290249433104}}
@@ -184,18 +184,18 @@ L["power on"]={{path="chatsounds/autoadd/markorepairs/power on.ogg",length=1.430
 L["power plug"]={{path="chatsounds/autoadd/markorepairs/power plug.ogg",length=1.1682539682539683}}
 L["puhpuhuh"]={{path="chatsounds/autoadd/markorepairs/puhpuhuh.ogg",length=0.94655328798185945}}
 L["push"]={{path="chatsounds/autoadd/markorepairs/push.ogg",length=1.7148526077097506}}
+L["real"]={{path="chatsounds/autoadd/markorepairs/real.ogg",length=0.5}}
 L["real name"]={{path="chatsounds/autoadd/markorepairs/real name/real name copy.ogg",length=1.3257596371882086}}
 L["real name"]={{path="chatsounds/autoadd/markorepairs/real name.ogg",length=0.90235827664399093}}
-L["real"]={{path="chatsounds/autoadd/markorepairs/real.ogg",length=0.5}}
 L["reconstructon"]={{path="chatsounds/autoadd/markorepairs/reconstructon.ogg",length=1.3336961451247165}}
 L["room"]={{path="chatsounds/autoadd/markorepairs/room.ogg",length=0.6356462585034014}}
 L["sad tings"]={{path="chatsounds/autoadd/markorepairs/sad tings.ogg",length=1.3482086167800453}}
 L["shame"]={{path="chatsounds/autoadd/markorepairs/shame.ogg",length=0.74575963718820859}}
 L["ship"]={{path="chatsounds/autoadd/markorepairs/ship.ogg",length=0.61242630385487529}}
 L["shit"]={{path="chatsounds/autoadd/markorepairs/shit.ogg",length=0.47165532879818595}}
+L["shut"]={{path="chatsounds/autoadd/markorepairs/shut.ogg",length=0.41215419501133788}}
 L["shut up"]={{path="chatsounds/autoadd/markorepairs/shut up.ogg",length=0.84086167800453515}}
 L["shut water"]={{path="chatsounds/autoadd/markorepairs/shut water.ogg",length=2.7435827664399093}}
-L["shut"]={{path="chatsounds/autoadd/markorepairs/shut.ogg",length=0.41215419501133788}}
 L["spoon"]={{path="chatsounds/autoadd/markorepairs/spoon/spoon.ogg",length=1.1752607709750567},{path="chatsounds/autoadd/markorepairs/spoon/spoon2.ogg",length=1.1399092970521543}}
 L["stranger"]={{path="chatsounds/autoadd/markorepairs/stranger.ogg",length=0.87219954648526077}}
 L["street"]={{path="chatsounds/autoadd/markorepairs/street.ogg",length=0.76335600907029477}}
@@ -204,6 +204,7 @@ L["stupid idea"]={{path="chatsounds/autoadd/markorepairs/stupid idea.ogg",length
 L["sugar"]={{path="chatsounds/autoadd/markorepairs/sugar.ogg",length=0.76562358276643994}}
 L["t"]={{path="chatsounds/autoadd/markorepairs/t.ogg",length=0.54566893424036278}}
 L["terrible"]={{path="chatsounds/autoadd/markorepairs/terrible.ogg",length=1.0704761904761906}}
+L["that"]={{path="chatsounds/autoadd/markorepairs/that.ogg",length=0.44163265306122451}}
 L["that is better"]={{path="chatsounds/autoadd/markorepairs/that is better.ogg",length=1.2967573696145125}}
 L["that is difficult yes"]={{path="chatsounds/autoadd/markorepairs/that is difficult yes.ogg",length=1.7543310657596372}}
 L["that is fun"]={{path="chatsounds/autoadd/markorepairs/that is fun.ogg",length=1.2763265306122449}}
@@ -211,7 +212,6 @@ L["that is my coffee cup"]={{path="chatsounds/autoadd/markorepairs/that is my co
 L["that is very funny"]={{path="chatsounds/autoadd/markorepairs/that is very funny.ogg",length=2.1393197278911567}}
 L["that uh"]={{path="chatsounds/autoadd/markorepairs/that uh/that uh.ogg",length=1.7282766439909296},{path="chatsounds/autoadd/markorepairs/that uh/that uh2.ogg",length=1.0577324263038548}}
 L["that word is very bad"]={{path="chatsounds/autoadd/markorepairs/that word is very bad.ogg",length=4.5}}
-L["that"]={{path="chatsounds/autoadd/markorepairs/that.ogg",length=0.44163265306122451}}
 L["this morning i"]={{path="chatsounds/autoadd/markorepairs/this morning i.ogg",length=1.4643083900226757}}
 L["tings"]={{path="chatsounds/autoadd/markorepairs/tings.ogg",length=0.64725623582766445}}
 L["tis day"]={{path="chatsounds/autoadd/markorepairs/tis day.ogg",length=0.78367346938775506}}
@@ -236,17 +236,17 @@ L["word"]={{path="chatsounds/autoadd/markorepairs/word.ogg",length=0.56535147392
 L["world"]={{path="chatsounds/autoadd/markorepairs/world.ogg",length=0.6167800453514739}}
 L["wot is that"]={{path="chatsounds/autoadd/markorepairs/wot is that.ogg",length=1.2234013605442178}}
 L["yes"]={{path="chatsounds/autoadd/markorepairs/yes/yes.ogg",length=0.60317460317460314},{path="chatsounds/autoadd/markorepairs/yes/yes2.ogg",length=0.42646258503401363}}
+L["yes"]={{path="chatsounds/autoadd/markorepairs/yes.ogg",length=0.75900226757369615}}
 L["yes dat my dat my cabin"]={{path="chatsounds/autoadd/markorepairs/yes dat my dat my cabin.ogg",length=2.6354648526077096}}
-L["yes i need coffee"]={{path="chatsounds/autoadd/markorepairs/yes i need coffee.ogg",length=2.5336054421768708}}
 L["yes i"]={{path="chatsounds/autoadd/markorepairs/yes i.ogg",length=1.2755555555555556}}
+L["yes i need coffee"]={{path="chatsounds/autoadd/markorepairs/yes i need coffee.ogg",length=2.5336054421768708}}
 L["yes iii watch"]={{path="chatsounds/autoadd/markorepairs/yes iii watch.ogg",length=2.5910884353741497}}
 L["yes that is"]={{path="chatsounds/autoadd/markorepairs/yes that is.ogg",length=1.3152834467120182}}
-L["yes"]={{path="chatsounds/autoadd/markorepairs/yes.ogg",length=0.75900226757369615}}
 L["yess"]={{path="chatsounds/autoadd/markorepairs/yess.ogg",length=0.91573696145124717}}
+L["you"]={{path="chatsounds/autoadd/markorepairs/you.ogg",length=0.61823129251700681}}
 L["you dat trip"]={{path="chatsounds/autoadd/markorepairs/you dat trip.ogg",length=1.3133786848072562}}
 L["you pashon"]={{path="chatsounds/autoadd/markorepairs/you pashon.ogg",length=1.4819727891156462}}
-L["you push that"]={{path="chatsounds/autoadd/markorepairs/you push that.ogg",length=2.6948979591836735}}
 L["you push"]={{path="chatsounds/autoadd/markorepairs/you push.ogg",length=1.0965306122448979}}
-L["you"]={{path="chatsounds/autoadd/markorepairs/you.ogg",length=0.61823129251700681}}
+L["you push that"]={{path="chatsounds/autoadd/markorepairs/you push that.ogg",length=2.6948979591836735}}
 L["youtube watcher"]={{path="chatsounds/autoadd/markorepairs/youtube watcher.ogg",length=1.08843537414966}}
 c.EndList()

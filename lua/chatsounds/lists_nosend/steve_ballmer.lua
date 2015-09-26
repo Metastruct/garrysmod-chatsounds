@@ -10,10 +10,10 @@ L["developers"]={{path="chatsounds/autoadd/steve_ballmer/developers/developers c
 L["developers developers developers developers"]={{path="chatsounds/autoadd/steve_ballmer/developers developers developers developers.ogg",length=19.049342403628117}}
 L["developers1"]={{path="chatsounds/autoadd/steve_ballmer/developers1.ogg",length=4.6481179138321993}}
 L["developers2"]={{path="chatsounds/autoadd/steve_ballmer/developers2.ogg",length=5.6770068027210883}}
-L["get up get up"]={{path="chatsounds/autoadd/steve_ballmer/get up get up.ogg",length=3.1787755102040816}}
 L["get up"]={{path="chatsounds/autoadd/steve_ballmer/get up.ogg",length=1.6156009070294786}}
-L["i have four words for ya"]={{path="chatsounds/autoadd/steve_ballmer/i have four words for ya.ogg",length=2.8448979591836734}}
+L["get up get up"]={{path="chatsounds/autoadd/steve_ballmer/get up get up.ogg",length=3.1787755102040816}}
 L["i"]={{path="chatsounds/autoadd/steve_ballmer/i.ogg",length=1.4484807256235828}}
+L["i have four words for ya"]={{path="chatsounds/autoadd/steve_ballmer/i have four words for ya.ogg",length=2.8448979591836734}}
 L["ladies and gentlemen steve ballmer"]={{path="chatsounds/autoadd/steve_ballmer/ladies and gentlemen steve ballmer.ogg",length=5.4198639455782311}}
 L["love"]={{path="chatsounds/autoadd/steve_ballmer/love.ogg",length=1.5049886621315194}}
 L["steve ballmer"]={{path="chatsounds/autoadd/steve_ballmer/steve ballmer.ogg",length=4.2688888888888892}}

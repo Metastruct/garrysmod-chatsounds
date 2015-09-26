@@ -10,15 +10,15 @@ L["cough hard"]={{path="chatsounds/autoadd/Tenrys/cough hard.ogg",length=4.93013
 L["dot"]={{path="chatsounds/autoadd/Tenrys/dot.ogg",length=0.19448979591836735}}
 L["dramatic cue"]={{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue01.ogg",length=4.3363265306122445},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue02.ogg",length=4.3885714285714288},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue03.ogg",length=4.7281632653061223},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue04.ogg",length=6.0232199546485257},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue05.ogg",length=9.4112925170068031},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue06.ogg",length=11.795487528344671},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue07.ogg",length=13.928707482993197},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue08.ogg",length=16.255691609977323},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue09.ogg",length=21.332244897959185},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue10.ogg",length=25.717913832199546},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue11.ogg",length=2.0823129251700681},{path="chatsounds/autoadd/Tenrys/dramatic cue/dramatic cue12.ogg",length=2.6122448979591835}}
 L["drum roll"]={{path="chatsounds/autoadd/Tenrys/drum roll.ogg",length=10.348299319727891}}
-L["dubstep minigun shoot crit"]={{path="chatsounds/autoadd/Tenrys/dubstep minigun shoot crit.ogg",length=14.981609977324263}}
 L["dubstep minigun shoot"]={{path="chatsounds/autoadd/Tenrys/dubstep minigun shoot.ogg",length=32.732675736961454}}
+L["dubstep minigun shoot crit"]={{path="chatsounds/autoadd/Tenrys/dubstep minigun shoot crit.ogg",length=14.981609977324263}}
 L["dubstep minigun spin"]={{path="chatsounds/autoadd/Tenrys/dubstep minigun spin.ogg",length=45.178458049886622}}
 L["dubstep minigun wind down"]={{path="chatsounds/autoadd/Tenrys/dubstep minigun wind down.ogg",length=14.981632653061224}}
 L["dubstep minigun wind up"]={{path="chatsounds/autoadd/Tenrys/dubstep minigun wind up.ogg",length=1.2011791383219954}}
 L["dun"]={{path="chatsounds/autoadd/Tenrys/dun/dun01.ogg",length=1.1724489795918367},{path="chatsounds/autoadd/Tenrys/dun/dun02.ogg",length=3.0824489795918368},{path="chatsounds/autoadd/Tenrys/dun/dun03.ogg",length=1.9069387755102041}}
-L["dun dun dun vroom"]={{path="chatsounds/autoadd/Tenrys/dun dun dun vroom.ogg",length=1.0873242630385487}}
-L["dun dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun dun.ogg",length=2.4032653061224489}}
 L["dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun.ogg",length=2.1681632653061222}}
+L["dun dun dun"]={{path="chatsounds/autoadd/Tenrys/dun dun dun.ogg",length=2.4032653061224489}}
+L["dun dun dun vroom"]={{path="chatsounds/autoadd/Tenrys/dun dun dun vroom.ogg",length=1.0873242630385487}}
 L["emulator dying"]={{path="chatsounds/autoadd/Tenrys/emulator dying.ogg",length=36.334716553287983}}
 L["everybody do the flop"]={{path="chatsounds/autoadd/Tenrys/EVERYBODY DO THE FLOP.ogg",length=2.554829931972789}}
 L["expand dong"]={{path="chatsounds/autoadd/Tenrys/expand dong/1.ogg",length=1.0245804988662131},{path="chatsounds/autoadd/Tenrys/expand dong/2.ogg",length=1.1884126984126984},{path="chatsounds/autoadd/Tenrys/expand dong/3.ogg",length=1.0801587301587301}}
@@ -42,8 +42,8 @@ L["meow robotic"]={{path="chatsounds/autoadd/Tenrys/meow robotic.ogg",length=0.7
 L["my roflcopter goes"]={{path="chatsounds/autoadd/Tenrys/my roflcopter goes.ogg",length=1.5407482993197279}}
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/Tenrys/nice legs daisy dukes makes a man go.ogg",length=2.6178231292517005}}
 L["ninja combo"]={{path="chatsounds/autoadd/Tenrys/ninja combo/swoosh 1.ogg",length=1.0710204081632653},{path="chatsounds/autoadd/Tenrys/ninja combo/swoosh 2.ogg",length=0.70530612244897961}}
-L["no i dont want that"]={{path="chatsounds/autoadd/Tenrys/no i dont want that.ogg",length=3.0345578231292518}}
 L["no"]={{path="chatsounds/autoadd/Tenrys/no.ogg",length=0.29365079365079366}}
+L["no i dont want that"]={{path="chatsounds/autoadd/Tenrys/no i dont want that.ogg",length=3.0345578231292518}}
 L["ogh"]={{path="chatsounds/autoadd/Tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/Tenrys/oh yeah.ogg",length=1.1252607709750566}}
 L["pianofuck"]={{path="chatsounds/autoadd/Tenrys/pianofuck.ogg",length=175.75183673469388}}

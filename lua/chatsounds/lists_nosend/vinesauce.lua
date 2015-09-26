@@ -1,6 +1,6 @@
 c.StartList("vinesauce")
-L["admin prease"]={{path="chatsounds/autoadd/vinesauce/admin prease.ogg",length=1.0008163265306123}}
 L["admin"]={{path="chatsounds/autoadd/vinesauce/admin.ogg",length=0.44687074829931972}}
+L["admin prease"]={{path="chatsounds/autoadd/vinesauce/admin prease.ogg",length=1.0008163265306123}}
 L["alright you do better come on you do better"]={{path="chatsounds/autoadd/vinesauce/alright you do better come on you do better.ogg",length=3.2789342403628119}}
 L["and i will begin ok"]={{path="chatsounds/autoadd/vinesauce/and i will begin ok.ogg",length=3.8048979591836734}}
 L["and then i make into the stove and then he kill me"]={{path="chatsounds/autoadd/vinesauce/and then i make into the stove and then he kill me.ogg",length=2.4146485260770976}}
@@ -42,8 +42,8 @@ L["do you wish to continue yes or no"]={{path="chatsounds/autoadd/vinesauce/do y
 L["do you wish to continue yes or yes"]={{path="chatsounds/autoadd/vinesauce/do you wish to continue yes or yes.ogg",length=3.2320861678004533}}
 L["does anyone here want propane"]={{path="chatsounds/autoadd/vinesauce/does anyone here want propane.ogg",length=4.8394331065759637}}
 L["doesanyonewantto rp"]={{path="chatsounds/autoadd/vinesauce/doesanyonewantto rp.ogg",length=4.3302267573696147}}
-L["dude dosvedanya dosvedanya"]={{path="chatsounds/autoadd/vinesauce/dude dosvedanya dosvedanya.ogg",length=2.6793424036281177}}
 L["dude"]={{path="chatsounds/autoadd/vinesauce/dude.ogg",length=0.5195238095238095}}
+L["dude dosvedanya dosvedanya"]={{path="chatsounds/autoadd/vinesauce/dude dosvedanya dosvedanya.ogg",length=2.6793424036281177}}
 L["everyone come to me to the town square"]={{path="chatsounds/autoadd/vinesauce/everyone come to me to the town square.ogg",length=2.010498866213152}}
 L["everyone line up against the wall"]={{path="chatsounds/autoadd/vinesauce/everyone line up against the wall.ogg",length=1.654671201814059}}
 L["f you youre all guilty"]={{path="chatsounds/autoadd/vinesauce/f you youre all guilty.ogg",length=2.2595918367346939}}
@@ -53,8 +53,8 @@ L["gettin a little too close for comfort"]={{path="chatsounds/autoadd/vinesauce/
 L["go do de di di do this"]={{path="chatsounds/autoadd/vinesauce/go do de di di do this.ogg",length=2.4197278911564628}}
 L["golden brown like a shit stain on a hot summers day"]={{path="chatsounds/autoadd/vinesauce/golden brown like a shit stain on a hot summers day.ogg",length=4.3657142857142857}}
 L["goodjob"]={{path="chatsounds/autoadd/vinesauce/goodjob.ogg",length=1.0319274376417233}}
-L["gtfo of my way i am law enforcement officer i will f you with my f ing stick"]={{path="chatsounds/autoadd/vinesauce/gtfo of my way i am law enforcement officer i will f you with my f ing stick.ogg",length=4.723786848072562}}
 L["gtfo of my way"]={{path="chatsounds/autoadd/vinesauce/gtfo of my way.ogg",length=1.2365532879818595}}
+L["gtfo of my way i am law enforcement officer i will f you with my f ing stick"]={{path="chatsounds/autoadd/vinesauce/gtfo of my way i am law enforcement officer i will f you with my f ing stick.ogg",length=4.723786848072562}}
 L["happy easter everybody"]={{path="chatsounds/autoadd/vinesauce/happy easter everybody.ogg",length=1.3931292517006804}}
 L["he forgive you and then he slowly begin to unzip his pants"]={{path="chatsounds/autoadd/vinesauce/he forgive you and then he slowly begin to unzip his pants.ogg",length=13.509138321995465}}
 L["he slowly begin to take off your robe"]={{path="chatsounds/autoadd/vinesauce/he slowly begin to take off your robe.ogg",length=2.4930385487528346}}
@@ -112,8 +112,8 @@ L["king king"]={{path="chatsounds/autoadd/vinesauce/king king.ogg",length=1.3648
 L["let me tell you about jesus crust"]={{path="chatsounds/autoadd/vinesauce/let me tell you about jesus crust.ogg",length=16.497641723356008}}
 L["let me tell you what happened first"]={{path="chatsounds/autoadd/vinesauce/let me tell you what happened first.ogg",length=1.654671201814059}}
 L["let us proclaim the mystery of rp"]={{path="chatsounds/autoadd/vinesauce/let us proclaim the mystery of rp.ogg",length=3.6736054421768709}}
-L["listen up everybody i want to tell you something"]={{path="chatsounds/autoadd/vinesauce/listen up everybody i want to tell you something.ogg",length=3.4872562358276644}}
 L["listen up everybody"]={{path="chatsounds/autoadd/vinesauce/listen up everybody.ogg",length=1.4634013605442178}}
+L["listen up everybody i want to tell you something"]={{path="chatsounds/autoadd/vinesauce/listen up everybody i want to tell you something.ogg",length=3.4872562358276644}}
 L["make me feel like real man"]={{path="chatsounds/autoadd/vinesauce/make me feel like real man.ogg",length=1.6358956916099774}}
 L["make me hot"]={{path="chatsounds/autoadd/vinesauce/make me hot.ogg",length=1.1184580498866212}}
 L["marijua maay mary juano de cok chiwawa telan"]={{path="chatsounds/autoadd/vinesauce/marijua maay mary juano de cok chiwawa telan.ogg",length=9.1463718820861679}}
@@ -152,8 +152,8 @@ L["shoot him in the face pls"]={{path="chatsounds/autoadd/vinesauce/shoot him in
 L["snoop doggie dog in the house"]={{path="chatsounds/autoadd/vinesauce/snoop doggie dog in the house.ogg",length=11.897777777777778}}
 L["so i had no choice"]={{path="chatsounds/autoadd/vinesauce/so i had no choice.ogg",length=1.1712925170068027}}
 L["spaalonebabuguuscooties"]={{path="chatsounds/autoadd/vinesauce/spaalonebabuguuscooties.ogg",length=1.7189569160997733}}
-L["spay me for the dooret"]={{path="chatsounds/autoadd/vinesauce/spay me for the dooret.ogg",length=1.4013378684807256}}
 L["spay me"]={{path="chatsounds/autoadd/vinesauce/spay me.ogg",length=1.1210657596371882}}
+L["spay me for the dooret"]={{path="chatsounds/autoadd/vinesauce/spay me for the dooret.ogg",length=1.4013378684807256}}
 L["spiritu sanctus sanctum amen forever"]={{path="chatsounds/autoadd/vinesauce/spiritu sanctus sanctum amen forever.ogg",length=3.9753061224489796}}
 L["squarerrrr"]={{path="chatsounds/autoadd/vinesauce/squarerrrr.ogg",length=1.7874603174603174}}
 L["taking it up the butt like a real thug"]={{path="chatsounds/autoadd/vinesauce/taking it up the butt like a real thug.ogg",length=3.4288208616780045}}
@@ -194,8 +194,8 @@ L["were going to sit down and work this out together"]={{path="chatsounds/autoad
 L["what anal sex"]={{path="chatsounds/autoadd/vinesauce/what anal sex.ogg",length=1.0609750566893423}}
 L["what do you mean f the policeman they keep you safe"]={{path="chatsounds/autoadd/vinesauce/what do you mean f the policeman they keep you safe.ogg",length=3.5762131519274378}}
 L["what is happening"]={{path="chatsounds/autoadd/vinesauce/what is happening.ogg",length=1.2331746031746031}}
-L["what is this now"]={{path="chatsounds/autoadd/vinesauce/what is this now.ogg",length=0.86412698412698408}}
 L["what is this"]={{path="chatsounds/autoadd/vinesauce/what is this.ogg",length=0.82297052154195016}}
+L["what is this now"]={{path="chatsounds/autoadd/vinesauce/what is this now.ogg",length=0.86412698412698408}}
 L["what is your name pls"]={{path="chatsounds/autoadd/vinesauce/what is your name pls.ogg",length=1.3842403628117914}}
 L["what you doing"]={{path="chatsounds/autoadd/vinesauce/what you doing.ogg",length=0.7116780045351474}}
 L["which guy which guy tell me the guy"]={{path="chatsounds/autoadd/vinesauce/which guy which guy tell me the guy.ogg",length=2.010498866213152}}
@@ -208,11 +208,11 @@ L["why was this made"]={{path="chatsounds/autoadd/vinesauce/why was this made.og
 L["why you kill these people what did they do to you"]={{path="chatsounds/autoadd/vinesauce/why you kill these people what did they do to you.ogg",length=2.0371882086167798}}
 L["wise up"]={{path="chatsounds/autoadd/vinesauce/wise up.ogg",length=0.96700680272108841}}
 L["would that sausage dick happen to be on a pizza of some sort"]={{path="chatsounds/autoadd/vinesauce/would that sausage dick happen to be on a pizza of some sort.ogg",length=2.9477551020408161}}
-L["would you like a stove would you like a stove would you like a stove"]={{path="chatsounds/autoadd/vinesauce/would you like a stove would you like a stove would you like a stove.ogg",length=5.8535827664399092}}
 L["would you like a stove"]={{path="chatsounds/autoadd/vinesauce/would you like a stove.ogg",length=1.0975736961451248}}
-L["wtf is this game"]={{path="chatsounds/autoadd/vinesauce/wtf is this game.ogg",length=1.7050566893424037}}
-L["wtf is this"]={{path="chatsounds/autoadd/vinesauce/wtf is this.ogg",length=1.3115646258503402}}
+L["would you like a stove would you like a stove would you like a stove"]={{path="chatsounds/autoadd/vinesauce/would you like a stove would you like a stove would you like a stove.ogg",length=5.8535827664399092}}
 L["wtf"]={{path="chatsounds/autoadd/vinesauce/wtf.ogg",length=1.1779138321995466}}
+L["wtf is this"]={{path="chatsounds/autoadd/vinesauce/wtf is this.ogg",length=1.3115646258503402}}
+L["wtf is this game"]={{path="chatsounds/autoadd/vinesauce/wtf is this game.ogg",length=1.7050566893424037}}
 L["yeah thanks for ripping me off"]={{path="chatsounds/autoadd/vinesauce/yeah thanks for ripping me off.ogg",length=1.2756235827664399}}
 L["yes do you have drug i want to buy the drug"]={{path="chatsounds/autoadd/vinesauce/yes do you have drug i want to buy the drug.ogg",length=2.6687981859410432}}
 L["yes thats very bad"]={{path="chatsounds/autoadd/vinesauce/yes thats very bad.ogg",length=1.8323356009070295}}

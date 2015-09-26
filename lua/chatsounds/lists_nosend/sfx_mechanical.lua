@@ -8,8 +8,8 @@ L["bang 5"]={{path="chatsounds/autoadd/sfx_mechanical/bang 5.ogg",length=1.10108
 L["bang 6"]={{path="chatsounds/autoadd/sfx_mechanical/bang 6.ogg",length=1.6015873015873017}}
 L["bicycle pump"]={{path="chatsounds/autoadd/sfx_mechanical/bicycle pump.ogg",length=2.4024036281179137}}
 L["bumerang"]={{path="chatsounds/autoadd/sfx_mechanical/bumerang.ogg",length=1.4347845804988661}}
-L["camera click 1"]={{path="chatsounds/autoadd/sfx_mechanical/camera click 1.ogg",length=0.64000000000000001}}
 L["camera click"]={{path="chatsounds/autoadd/sfx_mechanical/camera click.ogg",length=1.0681179138321995}}
+L["camera click 1"]={{path="chatsounds/autoadd/sfx_mechanical/camera click 1.ogg",length=0.64000000000000001}}
 L["camera clicks 1"]={{path="chatsounds/autoadd/sfx_mechanical/camera clicks 1.ogg",length=1.3866666666666667}}
 L["camera focus 1"]={{path="chatsounds/autoadd/sfx_mechanical/camera focus 1.ogg",length=0.89496598639455782}}
 L["cling 1"]={{path="chatsounds/autoadd/sfx_mechanical/cling 1.ogg",length=0.63396825396825396}}

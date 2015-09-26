@@ -9,8 +9,8 @@ L["absolutely nothing is going on"]={{path="chatsounds/autoadd/thelewa/absolutel
 L["ahh"]={{path="chatsounds/autoadd/thelewa/ahh.ogg",length=0.97959183673469385}}
 L["aim training"]={{path="chatsounds/autoadd/thelewa/aim training.ogg",length=0.76625850340136059}}
 L["also this map is definitely fullcomboable"]={{path="chatsounds/autoadd/thelewa/also this map is definitely fullcomboable.ogg",length=2.4192290249433106}}
-L["and as always we do not disable anything"]={{path="chatsounds/autoadd/thelewa/and as always we do not disable anything.ogg",length=2.9765079365079363}}
 L["and as always"]={{path="chatsounds/autoadd/thelewa/and as always.ogg",length=1.4701133786848073}}
+L["and as always we do not disable anything"]={{path="chatsounds/autoadd/thelewa/and as always we do not disable anything.ogg",length=2.9765079365079363}}
 L["ar9point3"]={{path="chatsounds/autoadd/thelewa/ar9point3.ogg",length=1.1247165532879819}}
 L["ar9point5"]={{path="chatsounds/autoadd/thelewa/ar9point5/ar9point5 Copy.ogg",length=1.1726077097505669},{path="chatsounds/autoadd/thelewa/ar9point5/ar9point5.ogg",length=1.1189115646258503}}
 L["bandaria travellers"]={{path="chatsounds/autoadd/thelewa/bandaria travellers.ogg",length=1.4512471655328798}}
@@ -24,22 +24,22 @@ L["can i play eighto i cant play eighto"]={{path="chatsounds/autoadd/thelewa/can
 L["cloudsmasher"]={{path="chatsounds/autoadd/thelewa/cloudsmasher/cloudsmasher.ogg",length=0.86349206349206353},{path="chatsounds/autoadd/thelewa/cloudsmasher/cloudsmasher2.ogg",length=1.0260317460317461},{path="chatsounds/autoadd/thelewa/cloudsmasher/cloudsmasher3.ogg",length=1.9765986394557824},{path="chatsounds/autoadd/thelewa/cloudsmasher/cloudsmasher4.ogg",length=1.1290702947845805}}
 L["cocks"]={{path="chatsounds/autoadd/thelewa/cocks.ogg",length=0.71981859410430837}}
 L["definatly"]={{path="chatsounds/autoadd/thelewa/definatly.ogg",length=0.91573696145124717}}
-L["dont get mad over it its just a one second timeout"]={{path="chatsounds/autoadd/thelewa/dont get mad over it its just a one second timeout.ogg",length=2.9112018140589568}}
 L["dont get mad over it"]={{path="chatsounds/autoadd/thelewa/dont get mad over it.ogg",length=1.1334240362811792}}
+L["dont get mad over it its just a one second timeout"]={{path="chatsounds/autoadd/thelewa/dont get mad over it its just a one second timeout.ogg",length=2.9112018140589568}}
 L["dunno"]={{path="chatsounds/autoadd/thelewa/dunno.ogg",length=0.74303854875283448}}
 L["especially my middle finger"]={{path="chatsounds/autoadd/thelewa/especially my middle finger.ogg",length=1.2974149659863945}}
 L["everybody knows how this map goes"]={{path="chatsounds/autoadd/thelewa/everybody knows how this map goes.ogg",length=1.3032199546485261}}
 L["fantastic"]={{path="chatsounds/autoadd/thelewa/fantastic/fantastic.ogg",length=0.6820861678004535},{path="chatsounds/autoadd/thelewa/fantastic/fantastic1.ogg",length=1.0681179138321995},{path="chatsounds/autoadd/thelewa/fantastic/fantastic2.ogg",length=0.80108843537414964},{path="chatsounds/autoadd/thelewa/fantastic/fantastic3.ogg",length=0.77351473922902492}}
-L["first and only time"]={{path="chatsounds/autoadd/thelewa/first and only time.ogg",length=1.4556009070294784}}
 L["first"]={{path="chatsounds/autoadd/thelewa/first.ogg",length=0.79673469387755103}}
+L["first and only time"]={{path="chatsounds/autoadd/thelewa/first and only time.ogg",length=1.4556009070294784}}
 L["get one of these pens too"]={{path="chatsounds/autoadd/thelewa/get one of these pens too.ogg",length=1.3220861678004534}}
 L["good bye"]={{path="chatsounds/autoadd/thelewa/good bye.ogg",length=0.74448979591836739}}
-L["ha hah fantastic"]={{path="chatsounds/autoadd/thelewa/ha hah fantastic.ogg",length=1.629750566893424}}
 L["ha hah"]={{path="chatsounds/autoadd/thelewa/ha hah.ogg",length=0.7691609977324263}}
+L["ha hah fantastic"]={{path="chatsounds/autoadd/thelewa/ha hah fantastic.ogg",length=1.629750566893424}}
 L["haha you havent seen my hat"]={{path="chatsounds/autoadd/thelewa/haha you havent seen my hat.ogg",length=1.931609977324263}}
 L["hardrock is really not my specialty"]={{path="chatsounds/autoadd/thelewa/hardrock is really not my specialty.ogg",length=1.7458503401360543}}
-L["have a nice night whatever"]={{path="chatsounds/autoadd/thelewa/have a nice night whatever.ogg",length=1.4338321995464853}}
 L["have a nice night"]={{path="chatsounds/autoadd/thelewa/have a nice night.ogg",length=0.74448979591836739}}
+L["have a nice night whatever"]={{path="chatsounds/autoadd/thelewa/have a nice night whatever.ogg",length=1.4338321995464853}}
 L["help"]={{path="chatsounds/autoadd/thelewa/help.ogg",length=0.44553287981859413}}
 L["here it goes"]={{path="chatsounds/autoadd/thelewa/here it goes.ogg",length=0.49197278911564624}}
 L["hitlers moustache"]={{path="chatsounds/autoadd/thelewa/hitlers moustache.ogg",length=0.84752834467120186}}
@@ -48,9 +48,9 @@ L["i dont really understand people that get mad over 1 second timeouts"]={{path=
 L["i dont wanna try that"]={{path="chatsounds/autoadd/thelewa/i dont wanna try that.ogg",length=0.93315192743764175}}
 L["i gotta give this another try"]={{path="chatsounds/autoadd/thelewa/i gotta give this another try.ogg",length=1.545578231292517}}
 L["i have to get that"]={{path="chatsounds/autoadd/thelewa/i have to get that.ogg",length=1.3946485260770976}}
+L["i mean"]={{path="chatsounds/autoadd/thelewa/i mean.ogg",length=0.44988662131519275}}
 L["i mean check this out"]={{path="chatsounds/autoadd/thelewa/i mean check this out.ogg",length=0.81414965986394561}}
 L["i mean ehh"]={{path="chatsounds/autoadd/thelewa/i mean ehh.ogg",length=1.6166893424036282}}
-L["i mean"]={{path="chatsounds/autoadd/thelewa/i mean.ogg",length=0.44988662131519275}}
 L["i really love"]={{path="chatsounds/autoadd/thelewa/i really love.ogg",length=1.1073015873015872}}
 L["i think its all that all that very very hard single tapping that i have done"]={{path="chatsounds/autoadd/thelewa/i think its all that all that very very hard single tapping that i have done.ogg",length=4.6149659863945578}}
 L["i was pressing the wrong button"]={{path="chatsounds/autoadd/thelewa/i was pressing the wrong button.ogg",length=2.0680272108843538}}
@@ -73,8 +73,8 @@ L["its just a one second timeout"]={{path="chatsounds/autoadd/thelewa/its just a
 L["its like a fucking square"]={{path="chatsounds/autoadd/thelewa/its like a fucking square.ogg",length=1.6413605442176871}}
 L["its not in 2 hours you fool"]={{path="chatsounds/autoadd/thelewa/its not in 2 hours you fool.ogg",length=2.0360997732426305}}
 L["its the most touching storyboard i ever played"]={{path="chatsounds/autoadd/thelewa/its the most touching storyboard i ever played.ogg",length=3.0156916099773241}}
-L["jesus christ man"]={{path="chatsounds/autoadd/thelewa/jesus christ man.ogg",length=1.0840816326530611}}
 L["jesus christ"]={{path="chatsounds/autoadd/thelewa/jesus christ.ogg",length=0.75755102040816324}}
+L["jesus christ man"]={{path="chatsounds/autoadd/thelewa/jesus christ man.ogg",length=1.0840816326530611}}
 L["lewa annoyed"]={{path="chatsounds/autoadd/thelewa/lewa annoyed/lewa annoyed.ogg",length=0.78512471655328797},{path="chatsounds/autoadd/thelewa/lewa annoyed/lewa annoyed2.ogg",length=1.0086167800453514},{path="chatsounds/autoadd/thelewa/lewa annoyed/lewa annoyed3.ogg",length=0.82140589569160993}}
 L["lewa crying"]={{path="chatsounds/autoadd/thelewa/lewa crying.ogg",length=5.662766439909297}}
 L["lewa no"]={{path="chatsounds/autoadd/thelewa/lewa no/lewa no.ogg",length=0.67918367346938779},{path="chatsounds/autoadd/thelewa/lewa no/lewa no1.ogg",length=0.50938775510204082}}
@@ -108,13 +108,13 @@ L["that was really bad that was a terrible display"]={{path="chatsounds/autoadd/
 L["that was very skilled"]={{path="chatsounds/autoadd/thelewa/that was very skilled.ogg",length=1.2930612244897959}}
 L["that went really well actually"]={{path="chatsounds/autoadd/thelewa/that went really well actually.ogg",length=1.2292063492063492}}
 L["thats gay"]={{path="chatsounds/autoadd/thelewa/thats gay.ogg",length=0.57904761904761903}}
-L["thats it thats as far i can get"]={{path="chatsounds/autoadd/thelewa/thats it thats as far i can get.ogg",length=2.0839909297052155}}
 L["thats it"]={{path="chatsounds/autoadd/thelewa/thats it.ogg",length=0.44408163265306122}}
+L["thats it thats as far i can get"]={{path="chatsounds/autoadd/thelewa/thats it thats as far i can get.ogg",length=2.0839909297052155}}
 L["thats not a surprise"]={{path="chatsounds/autoadd/thelewa/thats not a surprise.ogg",length=1.062312925170068}}
 L["the pen weights like 100kg"]={{path="chatsounds/autoadd/thelewa/the pen weights like 100kg.ogg",length=2.6093424036281179}}
 L["the streams are real"]={{path="chatsounds/autoadd/thelewa/the streams are real.ogg",length=1.3467573696145125}}
-L["the tears check out the tears"]={{path="chatsounds/autoadd/thelewa/the tears check out the tears.ogg",length=2.2712018140589567}}
 L["the tears"]={{path="chatsounds/autoadd/thelewa/the tears.ogg",length=0.65596371882086169}}
+L["the tears check out the tears"]={{path="chatsounds/autoadd/thelewa/the tears check out the tears.ogg",length=2.2712018140589567}}
 L["this accuracy is so orgasmic"]={{path="chatsounds/autoadd/thelewa/this accuracy is so orgasmic.ogg",length=1.8300226757369615}}
 L["this is not doable"]={{path="chatsounds/autoadd/thelewa/this is not doable.ogg",length=0.9026757369614512}}
 L["this is really hard"]={{path="chatsounds/autoadd/thelewa/this is really hard.ogg",length=1.1522902494331067}}
@@ -136,9 +136,9 @@ L["when my hand was broken"]={{path="chatsounds/autoadd/thelewa/when my hand was
 L["whyyy"]={{path="chatsounds/autoadd/thelewa/whyyy.ogg",length=0.98394557823129247}}
 L["woh"]={{path="chatsounds/autoadd/thelewa/woh.ogg",length=0.23219954648526078}}
 L["wonderful"]={{path="chatsounds/autoadd/thelewa/wonderful.ogg",length=0.44117913832199546}}
+L["wow"]={{path="chatsounds/autoadd/thelewa/wow.ogg",length=0.30621315192743764}}
 L["wow this is really hard"]={{path="chatsounds/autoadd/thelewa/wow this is really hard.ogg",length=2.4061678004535145}}
 L["wow what a miss"]={{path="chatsounds/autoadd/thelewa/wow what a miss.ogg",length=0.6385487528344671}}
-L["wow"]={{path="chatsounds/autoadd/thelewa/wow.ogg",length=0.30621315192743764}}
 L["wuah"]={{path="chatsounds/autoadd/thelewa/wuah.ogg",length=0.37587301587301586}}
 L["yawn"]={{path="chatsounds/autoadd/thelewa/yawn.ogg",length=0.77931972789115644}}
 L["yeah lets try inbachi"]={{path="chatsounds/autoadd/thelewa/yeah lets try inbachi.ogg",length=1.5731519274376418}}

@@ -6,8 +6,8 @@ L["cause i think that sound like a pretty damn good idea"]={{path="chatsounds/au
 L["huh"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/huh.ogg",length=0.3861904761904762}}
 L["i may have crossed the line there"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/i may have crossed the line there.ogg",length=1.0604761904761906}}
 L["maybe you can shut it yourself"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/maybe you can shut it yourself.ogg",length=2.0765986394557823}}
-L["no you know youre right i i may i may have crossed the line"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/no you know youre right i i may i may have crossed the line.ogg",length=2.8826303854875284}}
 L["no"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/no.ogg",length=0.32580498866213153}}
+L["no you know youre right i i may i may have crossed the line"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/no you know youre right i i may i may have crossed the line.ogg",length=2.8826303854875284}}
 L["not so tough with your foot long fn sandwich while open wide because im about to wash it down with your teeth"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/not so tough with your foot long fn sandwich while open wide because im about to wash it down with your teeth.ogg",length=4.4584353741496603}}
 L["nothing"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/nothing.ogg",length=0.49628117913832198}}
 L["thats what i think"]={{path="chatsounds/autoadd/sfm_scout_unused_dialog/thats what i think.ogg",length=0.71267573696145126}}

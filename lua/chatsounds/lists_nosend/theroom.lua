@@ -1,8 +1,8 @@
 c.StartList("theroom")
 L["and the bank"]={{path="chatsounds/autoadd/theroom/and the bank.ogg",length=0.74013605442176866}}
 L["anyway"]={{path="chatsounds/autoadd/theroom/anyway.ogg",length=0.68353741496598641}}
-L["bye bye"]={{path="chatsounds/autoadd/theroom/bye bye.ogg",length=0.65306122448979587}}
 L["bye"]={{path="chatsounds/autoadd/theroom/bye.ogg",length=0.62693877551020405}}
+L["bye bye"]={{path="chatsounds/autoadd/theroom/bye bye.ogg",length=0.65306122448979587}}
 L["can i have a dozen red roses please"]={{path="chatsounds/autoadd/theroom/can i have a dozen red roses please.ogg",length=2.0114285714285716}}
 L["can i help you"]={{path="chatsounds/autoadd/theroom/can i help you.ogg",length=0.71401360544217685}}
 L["can i kiss you"]={{path="chatsounds/autoadd/theroom/can i kiss you.ogg",length=0.74884353741496601}}
@@ -20,15 +20,15 @@ L["gotta tell you about something"]={{path="chatsounds/autoadd/theroom/gotta tel
 L["gunshot"]={{path="chatsounds/autoadd/theroom/gunshot.ogg",length=6.3042176870748303}}
 L["here you go"]={{path="chatsounds/autoadd/theroom/here you go.ogg",length=0.5485714285714286}}
 L["hey everybody"]={{path="chatsounds/autoadd/theroom/hey everybody.ogg",length=0.94040816326530607}}
+L["hi"]={{path="chatsounds/autoadd/theroom/hi.ogg",length=0.67918367346938779}}
 L["hi babe"]={{path="chatsounds/autoadd/theroom/hi babe.ogg",length=0.69659863945578226}}
 L["hi doggy"]={{path="chatsounds/autoadd/theroom/hi doggy.ogg",length=0.74013605442176866}}
-L["hi"]={{path="chatsounds/autoadd/theroom/hi.ogg",length=0.67918367346938779}}
 L["how is your sex life"]={{path="chatsounds/autoadd/theroom/how is your sex life.ogg",length=1.1755102040816328}}
 L["how much is it"]={{path="chatsounds/autoadd/theroom/how much is it.ogg",length=0.62693877551020405}}
 L["i can not tell you its confidential"]={{path="chatsounds/autoadd/theroom/i can not tell you its confidential.ogg",length=1.7676190476190476}}
 L["i definitely have breast cancer"]={{path="chatsounds/autoadd/theroom/i definitely have breast cancer.ogg",length=2.0897959183673471}}
-L["i did not hit her"]={{path="chatsounds/autoadd/theroom/i did not hit her.ogg",length=1.136326530612245}}
 L["i did not"]={{path="chatsounds/autoadd/theroom/i did not.ogg",length=0.89251700680272106}}
+L["i did not hit her"]={{path="chatsounds/autoadd/theroom/i did not hit her.ogg",length=1.136326530612245}}
 L["i dont think i will ever get it"]={{path="chatsounds/autoadd/theroom/i dont think i will ever get it.ogg",length=1.3583673469387756}}
 L["i got the results of the test back"]={{path="chatsounds/autoadd/theroom/i got the results of the test back.ogg",length=1.9853061224489796}}
 L["i just like to watch you guys"]={{path="chatsounds/autoadd/theroom/i just like to watch you guys.ogg",length=1.3322448979591837}}

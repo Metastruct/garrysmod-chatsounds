@@ -6,8 +6,8 @@ L["get off the stance"]={{path="chatsounds/autoadd/illegal_photgraphy/get off th
 L["get off this stance now"]={{path="chatsounds/autoadd/illegal_photgraphy/get off this stance now.ogg",length=2.6689342403628116}}
 L["give me your card"]={{path="chatsounds/autoadd/illegal_photgraphy/give me your card.ogg",length=0.92934240362811793}}
 L["i need your names"]={{path="chatsounds/autoadd/illegal_photgraphy/i need your names.ogg",length=1.8110657596371882}}
-L["i want the camera off"]={{path="chatsounds/autoadd/illegal_photgraphy/i want the camera off.ogg",length=1.9540589569160998}}
 L["i want"]={{path="chatsounds/autoadd/illegal_photgraphy/i want.ogg",length=1.0008616780045352}}
+L["i want the camera off"]={{path="chatsounds/autoadd/illegal_photgraphy/i want the camera off.ogg",length=1.9540589569160998}}
 L["illegal photographing tresspassing"]={{path="chatsounds/autoadd/illegal_photgraphy/illegal photographing tresspassing.ogg",length=2.8488435374149659}}
 L["im calling the police now"]={{path="chatsounds/autoadd/illegal_photgraphy/im calling the police now.ogg",length=3.2646712018140591}}
 L["im tired of being videoed by people uh photographers"]={{path="chatsounds/autoadd/illegal_photgraphy/im tired of being videoed by people uh photographers.ogg",length=3.4791383219954648}}
@@ -21,8 +21,8 @@ L["thats illegal what you guys do"]={{path="chatsounds/autoadd/illegal_photgraph
 L["three youre not allowed"]={{path="chatsounds/autoadd/illegal_photgraphy/three youre not allowed.ogg",length=1.6304761904761904}}
 L["two illegal photographs"]={{path="chatsounds/autoadd/illegal_photgraphy/two illegal photographs.ogg",length=1.7379591836734694}}
 L["whats your name"]={{path="chatsounds/autoadd/illegal_photgraphy/whats your name.ogg",length=1.4805442176870749}}
-L["who gave you permission to film"]={{path="chatsounds/autoadd/illegal_photgraphy/who gave you permission to film.ogg",length=2.6450793650793649}}
 L["who gave you permission"]={{path="chatsounds/autoadd/illegal_photgraphy/who gave you permission.ogg",length=2.0493424036281178}}
+L["who gave you permission to film"]={{path="chatsounds/autoadd/illegal_photgraphy/who gave you permission to film.ogg",length=2.6450793650793649}}
 L["yeah you"]={{path="chatsounds/autoadd/illegal_photgraphy/yeah you.ogg",length=1.267392290249433}}
 L["yes i am"]={{path="chatsounds/autoadd/illegal_photgraphy/yes i am.ogg",length=1.429795918367347}}
 L["you come every couple of to take illegal photographs"]={{path="chatsounds/autoadd/illegal_photgraphy/you come every couple of to take illegal photographs.ogg",length=3.3599999999999999}}

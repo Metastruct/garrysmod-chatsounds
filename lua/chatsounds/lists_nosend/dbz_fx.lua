@@ -18,19 +18,19 @@ L["chainswoop"]={{path="chatsounds/autoadd/dbz_fx/chainswoop.ogg",length=2.61206
 L["db flying"]={{path="chatsounds/autoadd/dbz_fx/db flying.ogg",length=1.8315192743764173}}
 L["db glowing"]={{path="chatsounds/autoadd/dbz_fx/db glowing.ogg",length=3.8095691609977322}}
 L["death"]={{path="chatsounds/autoadd/dbz_fx/death.ogg",length=4.2260770975056685}}
+L["deathball"]={{path="chatsounds/autoadd/dbz_fx/deathball.ogg",length=1.0290249433106575}}
 L["deathball charge"]={{path="chatsounds/autoadd/dbz_fx/deathball charge.ogg",length=8.2971428571428572}}
 L["deathball fire"]={{path="chatsounds/autoadd/dbz_fx/deathball fire.ogg",length=3.437641723356009}}
-L["deathball"]={{path="chatsounds/autoadd/dbz_fx/deathball.ogg",length=1.0290249433106575}}
 L["deathfall"]={{path="chatsounds/autoadd/dbz_fx/deathfall.ogg",length=1.2207256235827664}}
 L["descend"]={{path="chatsounds/autoadd/dbz_fx/descend.ogg",length=0.73129251700680276}}
-L["destructodisc charge"]={{path="chatsounds/autoadd/dbz_fx/destructodisc charge.ogg",length=6.9170975056689343}}
 L["destructodisc"]={{path="chatsounds/autoadd/dbz_fx/destructodisc.ogg",length=2.2640362811791381}}
+L["destructodisc charge"]={{path="chatsounds/autoadd/dbz_fx/destructodisc charge.ogg",length=6.9170975056689343}}
 L["disc fire"]={{path="chatsounds/autoadd/dbz_fx/disc fire.ogg",length=1.1935147392290248}}
 L["disckill"]={{path="chatsounds/autoadd/dbz_fx/disckill.ogg",length=0.83646258503401361}}
 L["explosion"]={{path="chatsounds/autoadd/dbz_fx/explosion.ogg",length=2.7229478458049887}}
 L["eyebeam fire"]={{path="chatsounds/autoadd/dbz_fx/eyebeam fire.ogg",length=0.76625850340136059}}
-L["finalflash charge"]={{path="chatsounds/autoadd/dbz_fx/finalflash charge.ogg",length=7.4009977324263039}}
 L["finalflash"]={{path="chatsounds/autoadd/dbz_fx/finalflash.ogg",length=3.8587755102040817}}
+L["finalflash charge"]={{path="chatsounds/autoadd/dbz_fx/finalflash charge.ogg",length=7.4009977324263039}}
 L["fingerlaser"]={{path="chatsounds/autoadd/dbz_fx/fingerlaser.ogg",length=1.242312925170068}}
 L["gallitgun"]={{path="chatsounds/autoadd/dbz_fx/gallitgun.ogg",length=3.6397278911564626}}
 L["gallitgunfire"]={{path="chatsounds/autoadd/dbz_fx/gallitgunfire.ogg",length=0.78947845804988659}}

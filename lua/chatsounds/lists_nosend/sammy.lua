@@ -2,8 +2,8 @@ c.StartList("sammy")
 L["biiiird"]={{path="chatsounds/autoadd/sammy/biiiird.ogg",length=1.947482993197279}}
 L["for no reasooon"]={{path="chatsounds/autoadd/sammy/for no reasooon.ogg",length=2.6764172335600906}}
 L["get the frick ouuut"]={{path="chatsounds/autoadd/sammy/get the frick ouuut.ogg",length=3.6463945578231294}}
-L["go away go away go away go away"]={{path="chatsounds/autoadd/sammy/go away go away go away go away.ogg",length=2.0126530612244897}}
 L["go away"]={{path="chatsounds/autoadd/sammy/go away.ogg",length=1.0717460317460317}}
+L["go away go away go away go away"]={{path="chatsounds/autoadd/sammy/go away go away go away go away.ogg",length=2.0126530612244897}}
 L["i hate all you fricken sonic haters"]={{path="chatsounds/autoadd/sammy/i hate all you fricken sonic haters.ogg",length=2.8666666666666667}}
 L["idiots"]={{path="chatsounds/autoadd/sammy/idiots.ogg",length=1.0274376417233559}}
 L["it makes me so mad grr"]={{path="chatsounds/autoadd/sammy/it makes me so mad grr.ogg",length=3.5669841269841269}}

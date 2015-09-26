@@ -29,7 +29,7 @@ L["uuaahh"]={{path="chatsounds/autoadd/cdi_zelda/uuaahh.ogg",length=5.0155328798
 L["we were just about to have a feast"]={{path="chatsounds/autoadd/cdi_zelda/we were just about to have a feast.ogg",length=1.8234240362811791}}
 L["what happened"]={{path="chatsounds/autoadd/cdi_zelda/what happened.ogg",length=1.2602947845804988}}
 L["yes my leige"]={{path="chatsounds/autoadd/cdi_zelda/yes my leige.ogg",length=2.1452154195011337}}
-L["you saved me"]={{path="chatsounds/autoadd/cdi_zelda/you saved me.ogg",length=1.9887981859410431}}
 L["you saved"]={{path="chatsounds/autoadd/cdi_zelda/you saved.ogg",length=0.92512471655328798}}
+L["you saved me"]={{path="chatsounds/autoadd/cdi_zelda/you saved me.ogg",length=1.9887981859410431}}
 L["your omnipotence"]={{path="chatsounds/autoadd/cdi_zelda/your omnipotence.ogg",length=1.6401814058956916}}
 c.EndList()

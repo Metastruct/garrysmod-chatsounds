@@ -17,6 +17,7 @@ L["daft work is"]={{path="chatsounds/autoadd/harder_better_faster_stronger/daft 
 L["daft work it"]={{path="chatsounds/autoadd/harder_better_faster_stronger/daft work it.ogg",length=0.97170068027210887}}
 L["do it faster"]={{path="chatsounds/autoadd/harder_better_faster_stronger/do it faster.ogg",length=0.97240362811791381}}
 L["ever after work is over"]={{path="chatsounds/autoadd/harder_better_faster_stronger/ever after work is over.ogg",length=7.2659637188208617}}
+L["harder better faster stronger"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger.ogg",length=7.2747392290249433}}
 L["harder better faster stronger 1"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger 1.ogg",length=7.8100226757369615}}
 L["harder better faster stronger 10"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger 10.ogg",length=7.6038095238095238}}
 L["harder better faster stronger 11"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger 11.ogg",length=7.7268480725623583}}
@@ -31,17 +32,16 @@ L["harder better faster stronger 7"]={{path="chatsounds/autoadd/harder_better_fa
 L["harder better faster stronger 8"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger 8.ogg",length=7.6959410430839004}}
 L["harder better faster stronger 9"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger 9.ogg",length=7.9679818594104308}}
 L["harder better faster stronger break"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger break.ogg",length=7.5423809523809524}}
-L["harder better faster stronger"]={{path="chatsounds/autoadd/harder_better_faster_stronger/harder better faster stronger.ogg",length=7.2747392290249433}}
 L["hour after"]={{path="chatsounds/autoadd/harder_better_faster_stronger/hour after.ogg",length=0.98789115646258507}}
 L["make it better"]={{path="chatsounds/autoadd/harder_better_faster_stronger/make it better.ogg",length=0.97310657596371886}}
 L["makes us stronger"]={{path="chatsounds/autoadd/harder_better_faster_stronger/makes us stronger.ogg",length=1.0428798185941044}}
-L["more than ever hour after our work is never over"]={{path="chatsounds/autoadd/harder_better_faster_stronger/more than ever hour after our work is never over.ogg",length=7.8012698412698409}}
 L["more than ever"]={{path="chatsounds/autoadd/harder_better_faster_stronger/more than ever.ogg",length=1.0414739229024943}}
+L["more than ever hour after our work is never over"]={{path="chatsounds/autoadd/harder_better_faster_stronger/more than ever hour after our work is never over.ogg",length=7.8012698412698409}}
 L["more than hour our never"]={{path="chatsounds/autoadd/harder_better_faster_stronger/more than hour our never.ogg",length=8.3102267573696142}}
 L["never over"]={{path="chatsounds/autoadd/harder_better_faster_stronger/never over.ogg",length=0.97875283446712014}}
-L["our work is never over"]={{path="chatsounds/autoadd/harder_better_faster_stronger/our work is never over.ogg",length=2.0237188208616779}}
 L["our work is"]={{path="chatsounds/autoadd/harder_better_faster_stronger/our work is.ogg",length=0.93013605442176872}}
-L["work it harder make it better do it faster makes us stronger"]={{path="chatsounds/autoadd/harder_better_faster_stronger/work it harder make it better do it faster makes us stronger.ogg",length=7.7398185941043085}}
+L["our work is never over"]={{path="chatsounds/autoadd/harder_better_faster_stronger/our work is never over.ogg",length=2.0237188208616779}}
 L["work it harder"]={{path="chatsounds/autoadd/harder_better_faster_stronger/work it harder.ogg",length=0.98086167800453516}}
+L["work it harder make it better do it faster makes us stronger"]={{path="chatsounds/autoadd/harder_better_faster_stronger/work it harder make it better do it faster makes us stronger.ogg",length=7.7398185941043085}}
 L["work it make it do it makes us"]={{path="chatsounds/autoadd/harder_better_faster_stronger/work it make it do it makes us.ogg",length=8.2487981859410429}}
 c.EndList()

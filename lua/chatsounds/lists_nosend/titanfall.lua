@@ -12,8 +12,8 @@ L["autotitan engaging enemy titan"]={{path="chatsounds/autoadd/titanfall/autotit
 L["autotitan engaging hostile infantry"]={{path="chatsounds/autoadd/titanfall/autotitan engaging hostile infantry.ogg",length=2.4948299319727889}}
 L["autotitan engaging hostile pilot"]={{path="chatsounds/autoadd/titanfall/autotitan engaging hostile pilot.ogg",length=2.3917913832199544}}
 L["autotitan engaging hostile titan"]={{path="chatsounds/autoadd/titanfall/autotitan engaging hostile titan.ogg",length=2.2961904761904761}}
-L["avenge me avenge me avenge me"]={{path="chatsounds/autoadd/titanfall/avenge me avenge me avenge me.ogg",length=2.2254421768707484}}
 L["avenge me"]={{path="chatsounds/autoadd/titanfall/avenge me.ogg",length=0.71990929705215423}}
+L["avenge me avenge me avenge me"]={{path="chatsounds/autoadd/titanfall/avenge me avenge me avenge me.ogg",length=2.2254421768707484}}
 L["be advised friendly pilot is clear of your titan"]={{path="chatsounds/autoadd/titanfall/be advised friendly pilot is clear of your titan.ogg",length=3.2120181405895694}}
 L["be advised friendly pilot onboard"]={{path="chatsounds/autoadd/titanfall/be advised friendly pilot onboard.ogg",length=2.6641723356009068}}
 L["be advised replacement titan ready in 30 seconds"]={{path="chatsounds/autoadd/titanfall/be advised replacement titan ready in 30 seconds.ogg",length=2.6592290249433108}}
@@ -50,11 +50,11 @@ L["diag gs titan reload 2"]={{path="chatsounds/autoadd/titanfall/diag gs titan r
 L["diag gs titan reload 3"]={{path="chatsounds/autoadd/titanfall/diag gs titan reload 3.ogg",length=1.5194557823129251}}
 L["disengage"]={{path="chatsounds/autoadd/titanfall/disengage.ogg",length=1.0816326530612246}}
 L["dropping now standby for titanfall"]={{path="chatsounds/autoadd/titanfall/dropping now standby for titanfall.ogg",length=2.2178684807256235}}
+L["eject"]={{path="chatsounds/autoadd/titanfall/eject.ogg",length=0.78403628117913837}}
 L["eject eject eject"]={{path="chatsounds/autoadd/titanfall/eject eject eject.ogg",length=2.1557823129251701}}
 L["eject override"]={{path="chatsounds/autoadd/titanfall/eject override.ogg",length=1.2363718820861678}}
-L["eject"]={{path="chatsounds/autoadd/titanfall/eject.ogg",length=0.78403628117913837}}
-L["ejecting pilot"]={{path="chatsounds/autoadd/titanfall/ejecting pilot.ogg",length=1.05297052154195}}
 L["ejecting"]={{path="chatsounds/autoadd/titanfall/ejecting.ogg",length=0.78122448979591841}}
+L["ejecting pilot"]={{path="chatsounds/autoadd/titanfall/ejecting pilot.ogg",length=1.05297052154195}}
 L["enemy pilot eliminated"]={{path="chatsounds/autoadd/titanfall/enemy pilot eliminated.ogg",length=1.595328798185941}}
 L["enemy titan down"]={{path="chatsounds/autoadd/titanfall/enemy titan down.ogg",length=1.3867573696145126}}
 L["enemy titan has ejected"]={{path="chatsounds/autoadd/titanfall/enemy titan has ejected.ogg",length=1.6673015873015873}}
@@ -114,6 +114,7 @@ L["shield core is offline and recharging"]={{path="chatsounds/autoadd/titanfall/
 L["shield core offline"]={{path="chatsounds/autoadd/titanfall/shield core offline.ogg",length=1.6789569160997733}}
 L["shield core online"]={{path="chatsounds/autoadd/titanfall/shield core online.ogg",length=1.6676190476190476}}
 L["titan alarm"]={{path="chatsounds/autoadd/titanfall/titan alarm.ogg",length=0.54185941043083896}}
+L["titan burncard enabled"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled.ogg",length=1.7917913832199546}}
 L["titan burncard enabled cluster missile flight stabilizers improved"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled cluster missile flight stabilizers improved.ogg",length=4.5007709750566898}}
 L["titan burncard enabled dash capacity increased"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled dash capacity increased.ogg",length=3.4663492063492063}}
 L["titan burncard enabled electric smoke duration extended"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled electric smoke duration extended.ogg",length=3.8803174603174604}}
@@ -129,7 +130,6 @@ L["titan burncard enabled your missile pod now has increased ammunition"]={{path
 L["titan burncard enabled your quad rocket will now fire cluster munitions"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled your quad rocket will now fire cluster munitions.ogg",length=4.7318820861678006}}
 L["titan burncard enabled your triple threat will now fire magnetic grenades"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled your triple threat will now fire magnetic grenades.ogg",length=4.5251700680272107}}
 L["titan burncard enabled your vortex shield will now auto reflect incoming fire"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled your vortex shield will now auto reflect incoming fire.ogg",length=5.2304761904761907}}
-L["titan burncard enabled"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled.ogg",length=1.7917913832199546}}
 L["titan caution"]={{path="chatsounds/autoadd/titanfall/titan caution.ogg",length=0.85782312925170068}}
 L["titan launched standby for titanfall"]={{path="chatsounds/autoadd/titanfall/titan launched standby for titanfall.ogg",length=2.7574603174603176}}
 L["titan on route standby for titanfall"]={{path="chatsounds/autoadd/titanfall/titan on route standby for titanfall.ogg",length=2.7047619047619049}}

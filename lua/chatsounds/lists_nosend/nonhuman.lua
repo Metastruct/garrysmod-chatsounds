@@ -45,8 +45,8 @@ L["xddddddistorted"]={{path="chatsounds/autoadd/nonhuman/xddddddistorted.ogg",le
 L["yeeehaaaa"]={{path="chatsounds/autoadd/nonhuman/yeeehaaaa.OGG",length=1.5412244897959184}}
 L["yeehaww"]={{path="chatsounds/autoadd/nonhuman/yeehaww.OGG",length=1.5934693877551021}}
 L["you drink the delicious barrys red cola"]={{path="chatsounds/autoadd/nonhuman/you drink the delicious barrys red cola.ogg",length=3.0080725623582767}}
-L["you guys suck eggs"]={{path="chatsounds/autoadd/nonhuman/you guys suck eggs.ogg",length=1.9517233560090703}}
 L["you guys suck"]={{path="chatsounds/autoadd/nonhuman/you guys suck.ogg",length=1.3495238095238096}}
+L["you guys suck eggs"]={{path="chatsounds/autoadd/nonhuman/you guys suck eggs.ogg",length=1.9517233560090703}}
 L["you need a whiskey"]={{path="chatsounds/autoadd/nonhuman/you need a whiskey.OGG",length=0.80979591836734699}}
 L["you wake on a giants kitchen"]={{path="chatsounds/autoadd/nonhuman/you wake on a giants kitchen.ogg",length=2}}
 L["you yella bella coward"]={{path="chatsounds/autoadd/nonhuman/you yella bella coward.OGG",length=1.6457142857142857}}

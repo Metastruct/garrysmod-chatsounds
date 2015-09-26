@@ -42,8 +42,8 @@ L["human win"]={{path="chatsounds/autoadd/cso/human win.ogg",length=3.5722902494
 L["humililation"]={{path="chatsounds/autoadd/cso/humililation.ogg",length=1.9278911564625851}}
 L["i cant believe it"]={{path="chatsounds/autoadd/cso/i cant believe it.ogg",length=2.6944217687074832}}
 L["ill take the point"]={{path="chatsounds/autoadd/cso/ill take the point.ogg",length=1.4154195011337869}}
-L["im hit need assistance"]={{path="chatsounds/autoadd/cso/im hit need assistance.ogg",length=1.9619954648526077}}
 L["im hit"]={{path="chatsounds/autoadd/cso/im hit.ogg",length=1.0390022675736961}}
+L["im hit need assistance"]={{path="chatsounds/autoadd/cso/im hit need assistance.ogg",length=1.9619954648526077}}
 L["im in position"]={{path="chatsounds/autoadd/cso/im in position.ogg",length=1.3244444444444445}}
 L["incredible"]={{path="chatsounds/autoadd/cso/incredible.ogg",length=2.2822675736961453}}
 L["lets move out"]={{path="chatsounds/autoadd/cso/lets move out.ogg",length=1.3126530612244898}}

@@ -10,8 +10,8 @@ L["i dont know anything"]={{path="chatsounds/autoadd/voiceoftheinternet/i dont k
 L["im an investment banker 1"]={{path="chatsounds/autoadd/voiceoftheinternet/im an investment banker 1.ogg",length=2.6878231292517007}}
 L["im an investment banker 2"]={{path="chatsounds/autoadd/voiceoftheinternet/im an investment banker 2.ogg",length=7.6520181405895693}}
 L["kid babble"]={{path="chatsounds/autoadd/voiceoftheinternet/kid babble.ogg",length=1.9854421768707482}}
-L["kid singing 2"]={{path="chatsounds/autoadd/voiceoftheinternet/kid singing 2.ogg",length=4.5600453514739225}}
 L["kid singing"]={{path="chatsounds/autoadd/voiceoftheinternet/kid singing.ogg",length=5.2258276643990929}}
+L["kid singing 2"]={{path="chatsounds/autoadd/voiceoftheinternet/kid singing 2.ogg",length=4.5600453514739225}}
 L["no mans zoo"]={{path="chatsounds/autoadd/voiceoftheinternet/no mans zoo.ogg",length=1.3124943310657597}}
 L["silly buggers"]={{path="chatsounds/autoadd/voiceoftheinternet/silly buggers.ogg",length=3.54}}
 L["son of a bitch"]={{path="chatsounds/autoadd/voiceoftheinternet/son of a bitch.ogg",length=2.3089342403628117}}

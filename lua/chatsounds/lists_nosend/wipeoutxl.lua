@@ -20,8 +20,8 @@ L["quake"]={{path="chatsounds/autoadd/wipeoutxl/quake.ogg",length=1.491882086167
 L["recharge"]={{path="chatsounds/autoadd/wipeoutxl/recharge.ogg",length=2.4716553287981857}}
 L["rockets"]={{path="chatsounds/autoadd/wipeoutxl/rockets.ogg",length=0.52244897959183678}}
 L["scrape"]={{path="chatsounds/autoadd/wipeoutxl/scrape.ogg",length=2.2058956916099772}}
-L["shield energy low"]={{path="chatsounds/autoadd/wipeoutxl/shield energy low.ogg",length=1.8250340136054422}}
 L["shield"]={{path="chatsounds/autoadd/wipeoutxl/shield.ogg",length=0.65451247165532878}}
+L["shield energy low"]={{path="chatsounds/autoadd/wipeoutxl/shield energy low.ogg",length=1.8250340136054422}}
 L["ship stall"]={{path="chatsounds/autoadd/wipeoutxl/ship stall.ogg",length=2.0549659863945577}}
 L["three"]={{path="chatsounds/autoadd/wipeoutxl/three.ogg",length=0.55727891156462583}}
 L["thunder"]={{path="chatsounds/autoadd/wipeoutxl/thunder.ogg",length=1.6312018140589568}}
@@ -29,6 +29,6 @@ L["turbo"]={{path="chatsounds/autoadd/wipeoutxl/turbo.ogg",length=1.010068027210
 L["turbulence"]={{path="chatsounds/autoadd/wipeoutxl/turbulence.ogg",length=1.3512925170068026}}
 L["two"]={{path="chatsounds/autoadd/wipeoutxl/two.ogg",length=0.48181405895691609}}
 L["warning"]={{path="chatsounds/autoadd/wipeoutxl/warning.ogg",length=0.54802721088435369}}
-L["weapon hit wall"]={{path="chatsounds/autoadd/wipeoutxl/weapon hit wall.ogg",length=1.5092970521541951}}
 L["weapon hit"]={{path="chatsounds/autoadd/wipeoutxl/weapon hit.ogg",length=1.5441269841269842}}
+L["weapon hit wall"]={{path="chatsounds/autoadd/wipeoutxl/weapon hit wall.ogg",length=1.5092970521541951}}
 c.EndList()

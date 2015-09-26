@@ -8,8 +8,8 @@ L["answer me"]={{path="chatsounds/autoadd/daftlad/answer me.ogg",length=0.729070
 L["are you threatening me dick"]={{path="chatsounds/autoadd/daftlad/are you threatening me dick.ogg",length=1.4815646258503401}}
 L["begowch"]={{path="chatsounds/autoadd/daftlad/begowch/begowch 1.ogg",length=0.63077097505668933},{path="chatsounds/autoadd/daftlad/begowch/begowch 2.ogg",length=0.81421768707482989},{path="chatsounds/autoadd/daftlad/begowch/begowch 3.ogg",length=0.62176870748299318},{path="chatsounds/autoadd/daftlad/begowch/begowch 4.ogg",length=0.80224489795918363}}
 L["bi i itch"]={{path="chatsounds/autoadd/daftlad/bi i itch.ogg",length=1.4353061224489796}}
-L["bitch bitch bitch lolik bitch bitch bitch"]={{path="chatsounds/autoadd/daftlad/bitch bitch bitch lolik bitch bitch bitch.ogg",length=2.5814965986394558}}
 L["bitch bitch bitch lolik bitch"]={{path="chatsounds/autoadd/daftlad/bitch bitch bitch lolik bitch.ogg",length=2.0276870748299318}}
+L["bitch bitch bitch lolik bitch bitch bitch"]={{path="chatsounds/autoadd/daftlad/bitch bitch bitch lolik bitch bitch bitch.ogg",length=2.5814965986394558}}
 L["bullshit you didnt convince me let me see your real warface"]={{path="chatsounds/autoadd/daftlad/bullshit you didnt convince me let me see your real warface.ogg",length=3.4729931972789116}}
 L["but hey lets go out and spend two million dollars on a room full of"]={{path="chatsounds/autoadd/daftlad/but hey lets go out and spend two million dollars on a room full of.ogg",length=3.1541950113378685}}
 L["calm down there sam theres no reason for your fucking profanity"]={{path="chatsounds/autoadd/daftlad/calm down there sam theres no reason for your fucking profanity.ogg",length=3.3226077097505669}}
@@ -66,8 +66,8 @@ L["pirate"]={{path="chatsounds/autoadd/daftlad/pirate.ogg",length=0.899977324263
 L["piratesong"]={{path="chatsounds/autoadd/daftlad/piratesong.ogg",length=10.085668934240363}}
 L["register six"]={{path="chatsounds/autoadd/daftlad/register six.ogg",length=1.2300226757369614}}
 L["sarcasm"]={{path="chatsounds/autoadd/daftlad/sarcasm.ogg",length=0.75929705215419496}}
-L["shut up shut up shut shut shut shut shut up shut up"]={{path="chatsounds/autoadd/daftlad/shut up shut up shut shut shut shut shut up shut up.ogg",length=6.4840589569160993}}
 L["shut up"]={{path="chatsounds/autoadd/daftlad/shut up.ogg",length=0.98836734693877548}}
+L["shut up shut up shut shut shut shut shut up shut up"]={{path="chatsounds/autoadd/daftlad/shut up shut up shut shut shut shut shut up shut up.ogg",length=6.4840589569160993}}
 L["ssshit"]={{path="chatsounds/autoadd/daftlad/ssshit.ogg",length=0.90900226757369618}}
 L["stinger"]={{path="chatsounds/autoadd/daftlad/stinger/1.ogg",length=5.7426530612244902},{path="chatsounds/autoadd/daftlad/stinger/10.ogg",length=11.137845804988663},{path="chatsounds/autoadd/daftlad/stinger/11.ogg",length=9.295283446712018},{path="chatsounds/autoadd/daftlad/stinger/2.ogg",length=11.835056689342403},{path="chatsounds/autoadd/daftlad/stinger/3.ogg",length=6.3775283446712017},{path="chatsounds/autoadd/daftlad/stinger/4.ogg",length=11.940839002267573},{path="chatsounds/autoadd/daftlad/stinger/5.ogg",length=5.8762131519274377},{path="chatsounds/autoadd/daftlad/stinger/6.ogg",length=8.8979591836734695},{path="chatsounds/autoadd/daftlad/stinger/7.ogg",length=2.3535600907029477},{path="chatsounds/autoadd/daftlad/stinger/8.ogg",length=1.6036054421768708},{path="chatsounds/autoadd/daftlad/stinger/9.ogg",length=8.2621088435374155}}
 L["stop leaking stop leaking you ugly whore stop it"]={{path="chatsounds/autoadd/daftlad/stop leaking stop leaking you ugly whore stop it.ogg",length=3.5382312925170067}}
@@ -103,8 +103,8 @@ L["you monster frisbee"]={{path="chatsounds/autoadd/daftlad/you monster frisbee.
 L["you suck my cock"]={{path="chatsounds/autoadd/daftlad/you suck my cock.ogg",length=1.1818367346938776}}
 L["you want me to what"]={{path="chatsounds/autoadd/daftlad/you want me to what.ogg",length=0.99795918367346936}}
 L["you will not laugh you will not cry"]={{path="chatsounds/autoadd/daftlad/you will not laugh you will not cry.ogg",length=2.0635827664399091}}
-L["youre a bad motherfucker bitch oh shit"]={{path="chatsounds/autoadd/daftlad/youre a bad motherfucker bitch oh shit.ogg",length=2.2983900226757368}}
 L["youre a bad motherfucker"]={{path="chatsounds/autoadd/daftlad/youre a bad motherfucker.ogg",length=1.4651247165532879}}
+L["youre a bad motherfucker bitch oh shit"]={{path="chatsounds/autoadd/daftlad/youre a bad motherfucker bitch oh shit.ogg",length=2.2983900226757368}}
 L["youre cruising for a bruising"]={{path="chatsounds/autoadd/daftlad/youre cruising for a bruising.ogg",length=1.2013832199546486}}
 L["youre killing me"]={{path="chatsounds/autoadd/daftlad/youre killing me.ogg",length=0.84376417233560086}}
 L["yyyup"]={{path="chatsounds/autoadd/daftlad/yyyup.ogg",length=1.3902267573696145}}

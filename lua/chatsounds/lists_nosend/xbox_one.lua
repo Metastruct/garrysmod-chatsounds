@@ -10,19 +10,19 @@ L["entirely new call of duty"]={{path="chatsounds/autoadd/xbox_one/entirely new 
 L["for call of duty"]={{path="chatsounds/autoadd/xbox_one/for call of duty.ogg",length=1.3573922902494331}}
 L["for the next generation"]={{path="chatsounds/autoadd/xbox_one/for the next generation.ogg",length=1.0144897959183674}}
 L["go home"]={{path="chatsounds/autoadd/xbox_one/go home.ogg",length=0.67156462585034016}}
-L["halo television"]={{path="chatsounds/autoadd/xbox_one/halo television.ogg",length=1.0573469387755101}}
 L["halo"]={{path="chatsounds/autoadd/xbox_one/halo.ogg",length=0.45721088435374152}}
+L["halo television"]={{path="chatsounds/autoadd/xbox_one/halo television.ogg",length=1.0573469387755101}}
 L["im proud to announce a live action halo television series"]={{path="chatsounds/autoadd/xbox_one/im proud to announce a live action halo television series.ogg",length=4.2865532879818593}}
 L["im prout to announce"]={{path="chatsounds/autoadd/xbox_one/im prout to announce.ogg",length=1.3717006802721088}}
 L["introducing"]={{path="chatsounds/autoadd/xbox_one/introducing.ogg",length=1.0430612244897959}}
-L["is a dog"]={{path="chatsounds/autoadd/xbox_one/is a dog.ogg",length=0.61439909297052153}}
 L["is a"]={{path="chatsounds/autoadd/xbox_one/is a.ogg",length=0.28575963718820863}}
+L["is a dog"]={{path="chatsounds/autoadd/xbox_one/is a dog.ogg",length=0.61439909297052153}}
 L["is about to become"]={{path="chatsounds/autoadd/xbox_one/is about to become.ogg",length=1.2002267573696146}}
 L["ladies and gentlemen"]={{path="chatsounds/autoadd/xbox_one/ladies and gentlemen.ogg",length=1.6003174603174604}}
 L["movies"]={{path="chatsounds/autoadd/xbox_one/movies.ogg",length=0.55725623582766437}}
 L["next"]={{path="chatsounds/autoadd/xbox_one/next.ogg",length=0.47154195011337868}}
-L["one of the fascinating addition to your squad is a dog this is someone you care about"]={{path="chatsounds/autoadd/xbox_one/one of the fascinating addition to your squad is a dog this is someone you care about.ogg",length=4.9581179138321998}}
 L["one"]={{path="chatsounds/autoadd/xbox_one/one.ogg",length=0.51437641723356009}}
+L["one of the fascinating addition to your squad is a dog this is someone you care about"]={{path="chatsounds/autoadd/xbox_one/one of the fascinating addition to your squad is a dog this is someone you care about.ogg",length=4.9581179138321998}}
 L["remote"]={{path="chatsounds/autoadd/xbox_one/remote.ogg",length=0.40006802721088436}}
 L["series"]={{path="chatsounds/autoadd/xbox_one/series.ogg",length=0.70013605442176874}}
 L["shport"]={{path="chatsounds/autoadd/xbox_one/shport.ogg",length=0.38578231292517007}}
@@ -41,8 +41,8 @@ L["tv remote"]={{path="chatsounds/autoadd/xbox_one/tv remote.ogg",length=0.67156
 L["tvs"]={{path="chatsounds/autoadd/xbox_one/tvs.ogg",length=0.37149659863945578}}
 L["v"]={{path="chatsounds/autoadd/xbox_one/v.ogg",length=0.17147392290249433}}
 L["vee"]={{path="chatsounds/autoadd/xbox_one/vee.ogg",length=0.17147392290249433}}
-L["watch tv"]={{path="chatsounds/autoadd/xbox_one/watch tv/watch tv-2.ogg",length=1.000204081632653},{path="chatsounds/autoadd/xbox_one/watch tv/watch tv.ogg",length=0.82873015873015876}}
 L["watch"]={{path="chatsounds/autoadd/xbox_one/watch.ogg",length=0.57154195011337872}}
+L["watch tv"]={{path="chatsounds/autoadd/xbox_one/watch tv/watch tv-2.ogg",length=1.000204081632653},{path="chatsounds/autoadd/xbox_one/watch tv/watch tv.ogg",length=0.82873015873015876}}
 L["water cooler"]={{path="chatsounds/autoadd/xbox_one/water cooler.ogg",length=0.85730158730158734}}
 L["xbox"]={{path="chatsounds/autoadd/xbox_one/xbox/xbox-2.ogg",length=1.0287755102040816},{path="chatsounds/autoadd/xbox_one/xbox/xbox-3.ogg",length=0.82873015873015876},{path="chatsounds/autoadd/xbox_one/xbox/xbox.ogg",length=1.1573696145124717}}
 L["xbox fake applause"]={{path="chatsounds/autoadd/xbox_one/xbox fake applause/xbox fake applause-2.ogg",length=4.2579591836734698},{path="chatsounds/autoadd/xbox_one/xbox fake applause/xbox fake applause.ogg",length=3.0291609977324261}}

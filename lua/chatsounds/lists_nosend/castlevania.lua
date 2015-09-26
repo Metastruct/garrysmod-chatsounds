@@ -1,6 +1,6 @@
 c.StartList("castlevania")
-L["a miserable little pile of secrets"]={{path="chatsounds/autoadd/castlevania/a miserable little pile of secrets.ogg",length=2.7927891156462583}}
 L["a miserable little pile of"]={{path="chatsounds/autoadd/castlevania/a miserable little pile of.ogg",length=1.6844217687074829}}
+L["a miserable little pile of secrets"]={{path="chatsounds/autoadd/castlevania/a miserable little pile of secrets.ogg",length=2.7927891156462583}}
 L["but enough talk"]={{path="chatsounds/autoadd/castlevania/but enough talk.ogg",length=1.0596145124716554}}
 L["die monster"]={{path="chatsounds/autoadd/castlevania/die monster.ogg",length=1.3871655328798187}}
 L["have at you"]={{path="chatsounds/autoadd/castlevania/have at you.ogg",length=1.0385034013605443}}

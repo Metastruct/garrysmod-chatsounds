@@ -13,9 +13,9 @@ L["heresy"]={{path="chatsounds/autoadd/hallo_2/heresy.ogg",length=1.184988662131
 L["heretic heretic heretic heretic heretic heretic"]={{path="chatsounds/autoadd/hallo_2/heretic heretic heretic heretic heretic heretic.ogg",length=8.6334240362811787}}
 L["hi c"]={{path="chatsounds/autoadd/hallo_2/hi c.ogg",length=1.090702947845805}}
 L["i like where this is goin"]={{path="chatsounds/autoadd/hallo_2/i like where this is goin.ogg",length=1.0234013605442176}}
+L["i will"]={{path="chatsounds/autoadd/hallo_2/i will.ogg",length=0.87333333333333329}}
 L["i will continue my campaign against the humans no yes no i will no yes heresy"]={{path="chatsounds/autoadd/hallo_2/i will continue my campaign against the humans no yes no i will no yes heresy.ogg",length=10.083854875283446}}
 L["i will shit on you"]={{path="chatsounds/autoadd/hallo_2/i will shit on you.ogg",length=3.0163038548752836}}
-L["i will"]={{path="chatsounds/autoadd/hallo_2/i will.ogg",length=0.87333333333333329}}
 L["it was at this moment that nathan knew he fucked up"]={{path="chatsounds/autoadd/hallo_2/it was at this moment that nathan knew he fucked up.ogg",length=3.0432426303854876}}
 L["its divine wind will rush through our ass"]={{path="chatsounds/autoadd/hallo_2/its divine wind will rush through our ass.ogg",length=3.154829931972789}}
 L["loud no"]={{path="chatsounds/autoadd/hallo_2/loud no.ogg",length=0.75022675736961453}}

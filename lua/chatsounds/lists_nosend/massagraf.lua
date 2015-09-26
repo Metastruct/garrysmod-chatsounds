@@ -23,9 +23,9 @@ L["er klopt iemand op de deur"]={{path="chatsounds/autoadd/massagraf/er klopt ie
 L["evil klus"]={{path="chatsounds/autoadd/massagraf/evil klus.ogg",length=1.1503174603174604}}
 L["ga jij naar van leemhuyzen en zeg maar dat ik eraan kom"]={{path="chatsounds/autoadd/massagraf/ga jij naar van leemhuyzen en zeg maar dat ik eraan kom.ogg",length=1.9505215419501134}}
 L["gert is mijn bitch fietswash is de shit begrepen"]={{path="chatsounds/autoadd/massagraf/gert is mijn bitch fietswash is de shit begrepen.ogg",length=3.413424036281179}}
+L["gertje gertje"]={{path="chatsounds/autoadd/massagraf/gertje gertje.ogg",length=1.9495691609977324}}
 L["gertje gertje gertje gertje"]={{path="chatsounds/autoadd/massagraf/gertje gertje gertje gertje.ogg",length=1.5259637188208617}}
 L["gertje gertje nee niet doen"]={{path="chatsounds/autoadd/massagraf/gertje gertje nee niet doen.ogg",length=1.7008616780045351}}
-L["gertje gertje"]={{path="chatsounds/autoadd/massagraf/gertje gertje.ogg",length=1.9495691609977324}}
 L["gertje kom mij toch helpen"]={{path="chatsounds/autoadd/massagraf/gertje kom mij toch helpen.ogg",length=2.0726530612244898}}
 L["gertje zit nog altijd te"]={{path="chatsounds/autoadd/massagraf/gertje zit nog altijd te.ogg",length=1.8160090702947846}}
 L["gertjee"]={{path="chatsounds/autoadd/massagraf/gertjee.ogg",length=0.97523809523809524}}
@@ -72,12 +72,12 @@ L["mag ik mee doen"]={{path="chatsounds/autoadd/massagraf/mag ik mee doen.ogg",l
 L["mah ik zal het zeggen meneer van veelhuyzen"]={{path="chatsounds/autoadd/massagraf/mah ik zal het zeggen meneer van veelhuyzen.ogg",length=3.190612244897959}}
 L["mijn geld"]={{path="chatsounds/autoadd/massagraf/mijn geld.ogg",length=0.68521541950113374}}
 L["moet je nu wat horen"]={{path="chatsounds/autoadd/massagraf/moet je nu wat horen.ogg",length=1.0704308390022677}}
-L["moh gertje die zit daar zo een beetje heel veel te"]={{path="chatsounds/autoadd/massagraf/moh gertje die zit daar zo een beetje heel veel te.ogg",length=3.257891156462585}}
 L["moh gertje"]={{path="chatsounds/autoadd/massagraf/moh gertje.ogg",length=0.82743764172335599}}
+L["moh gertje die zit daar zo een beetje heel veel te"]={{path="chatsounds/autoadd/massagraf/moh gertje die zit daar zo een beetje heel veel te.ogg",length=3.257891156462585}}
 L["nee samson"]={{path="chatsounds/autoadd/massagraf/nee samson.ogg",length=0.55115646258503403}}
 L["neen wat zeg ik"]={{path="chatsounds/autoadd/massagraf/neen wat zeg ik.ogg",length=0.91283446712018146}}
-L["oooh ik kom meteen naar het gemeentehuis"]={{path="chatsounds/autoadd/massagraf/oooh ik kom meteen naar het gemeentehuis.ogg",length=2.7829478458049888}}
 L["oooh"]={{path="chatsounds/autoadd/massagraf/oooh.ogg",length=0.79029478458049884}}
+L["oooh ik kom meteen naar het gemeentehuis"]={{path="chatsounds/autoadd/massagraf/oooh ik kom meteen naar het gemeentehuis.ogg",length=2.7829478458049888}}
 L["piep"]={{path="chatsounds/autoadd/massagraf/piep.ogg",length=0.26573696145124714}}
 L["plop lahal"]={{path="chatsounds/autoadd/massagraf/plop lahal.ogg",length=0.9265079365079365}}
 L["plop scream"]={{path="chatsounds/autoadd/massagraf/plop scream.ogg",length=2.0706122448979594}}

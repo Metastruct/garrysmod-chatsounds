@@ -54,8 +54,8 @@ L["whats what"]={{path="chatsounds/autoadd/oney/whats what.ogg",length=0.6103174
 L["when i was just a little boy he"]={{path="chatsounds/autoadd/oney/when i was just a little boy he.ogg",length=4.3888208616780044}}
 L["which is probably why we lost"]={{path="chatsounds/autoadd/oney/which is probably why we lost.ogg",length=1.4378684807256237}}
 L["who are you supposed to ber"]={{path="chatsounds/autoadd/oney/who are you supposed to ber.ogg",length=1.8936507936507936}}
-L["ye ye yehehe yheheheheh"]={{path="chatsounds/autoadd/oney/ye ye yehehe yheheheheh.ogg",length=2.4516326530612247}}
 L["ye"]={{path="chatsounds/autoadd/oney/ye.ogg",length=0.41585034013605443}}
+L["ye ye yehehe yheheheheh"]={{path="chatsounds/autoadd/oney/ye ye yehehe yheheheheh.ogg",length=2.4516326530612247}}
 L["yeah you know cause youre black"]={{path="chatsounds/autoadd/oney/yeah you know cause youre black.ogg",length=1.9861224489795919}}
 L["you big smelly willy"]={{path="chatsounds/autoadd/oney/you big smelly willy.ogg",length=2.1570521541950112}}
 L["you have the downs"]={{path="chatsounds/autoadd/oney/you have the downs.ogg",length=1.4585487528344672}}

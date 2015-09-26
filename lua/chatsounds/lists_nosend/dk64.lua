@@ -19,8 +19,8 @@ L["knock out"]={{path="chatsounds/autoadd/dk64/knock out.ogg",length=1.735351473
 L["kool"]={{path="chatsounds/autoadd/dk64/kool.ogg",length=1.0912244897959185}}
 L["krool pain"]={{path="chatsounds/autoadd/dk64/krool pain/krool pain1.ogg",length=0.58365079365079364},{path="chatsounds/autoadd/dk64/krool pain/krool pain2.ogg",length=0.51458049886621315}}
 L["krool rage"]={{path="chatsounds/autoadd/dk64/krool rage/krool rage1.ogg",length=1.111904761904762},{path="chatsounds/autoadd/dk64/krool rage/krool rage2.ogg",length=1.0640589569160999}}
-L["left left left"]={{path="chatsounds/autoadd/dk64/left left left.ogg",length=0.9909070294784581}}
 L["left"]={{path="chatsounds/autoadd/dk64/left.ogg",length=0.47655328798185942}}
+L["left left left"]={{path="chatsounds/autoadd/dk64/left left left.ogg",length=0.9909070294784581}}
 L["look out"]={{path="chatsounds/autoadd/dk64/look out.ogg",length=1.0800226757369615}}
 L["muha"]={{path="chatsounds/autoadd/dk64/muha.ogg",length=2.9256916099773242}}
 L["nine"]={{path="chatsounds/autoadd/dk64/nine.ogg",length=0.9923582766439909}}

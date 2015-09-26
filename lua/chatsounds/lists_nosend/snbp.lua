@@ -11,8 +11,8 @@ L["im gonna fucking kill you"]={{path="chatsounds/autoadd/snbp/im gonna fucking 
 L["im on tonight you know my cheeks dont lie and im starting to feel its right"]={{path="chatsounds/autoadd/snbp/im on tonight you know my cheeks dont lie and im starting to feel its right.ogg",length=5.2223356009070292}}
 L["no no were dead were dead"]={{path="chatsounds/autoadd/snbp/no no were dead were dead.ogg",length=12.505011337868481}}
 L["oh hey man"]={{path="chatsounds/autoadd/snbp/oh hey man.ogg",length=0.85045351473922903}}
-L["oh jesus what are you doing"]={{path="chatsounds/autoadd/snbp/oh jesus what are you doing.ogg",length=1.7009297052154195}}
 L["oh jesus"]={{path="chatsounds/autoadd/snbp/oh jesus.ogg",length=0.913469387755102}}
+L["oh jesus what are you doing"]={{path="chatsounds/autoadd/snbp/oh jesus what are you doing.ogg",length=1.7009297052154195}}
 L["see you later man"]={{path="chatsounds/autoadd/snbp/see you later man.ogg",length=1.2599546485260771}}
 L["snbptheme"]={{path="chatsounds/autoadd/snbp/snbptheme.ogg",length=14.174444444444445}}
 L["spike gibberish"]={{path="chatsounds/autoadd/snbp/spike gibberish.ogg",length=1.5434240362811791}}

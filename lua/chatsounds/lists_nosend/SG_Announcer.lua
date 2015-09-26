@@ -2,8 +2,8 @@ c.StartList("SG_Announcer")
 L["a word from our sponsors"]={{path="chatsounds/autoadd/SG_Announcer/a word from our sponsors.ogg",length=2.0779818594104307}}
 L["action"]={{path="chatsounds/autoadd/SG_Announcer/action.ogg",length=0.68399092970521547}}
 L["beatemup guys"]={{path="chatsounds/autoadd/SG_Announcer/beatemup guys.ogg",length=1.0390022675736961}}
-L["cut cut cut"]={{path="chatsounds/autoadd/SG_Announcer/cut cut cut.ogg",length=1.6090022675736961}}
 L["cut"]={{path="chatsounds/autoadd/SG_Announcer/cut.ogg",length=1.2670068027210883}}
+L["cut cut cut"]={{path="chatsounds/autoadd/SG_Announcer/cut cut cut.ogg",length=1.6090022675736961}}
 L["dont that just beat all"]={{path="chatsounds/autoadd/SG_Announcer/dont that just beat all.ogg",length=1.3939909297052153}}
 L["everybody warmed up"]={{path="chatsounds/autoadd/SG_Announcer/everybody warmed up.ogg",length=1.1660090702947845}}
 L["hold it"]={{path="chatsounds/autoadd/SG_Announcer/hold it.ogg",length=0.53199546485260774}}

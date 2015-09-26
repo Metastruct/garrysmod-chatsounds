@@ -14,8 +14,8 @@ L["im sure you can imagine there are worse alternatives"]={{path="chatsounds/aut
 L["its time to choose"]={{path="chatsounds/autoadd/gman/its time to choose.ogg",length=1.5904761904761904}}
 L["no regrets mr freeman"]={{path="chatsounds/autoadd/gman/no regrets mr freeman.ogg",length=2.6740136054421768}}
 L["otherwise well i can offer you a battle you have no chance of winning"]={{path="chatsounds/autoadd/gman/otherwise well I can offer you a battle you have no chance of winning.ogg",length=13.214240362811791}}
-L["please dont think that"]={{path="chatsounds/autoadd/gman/please dont think that.ogg",length=1.71718820861678}}
 L["please dont think"]={{path="chatsounds/autoadd/gman/please dont think.ogg",length=1.4157823129251701}}
+L["please dont think that"]={{path="chatsounds/autoadd/gman/please dont think that.ogg",length=1.71718820861678}}
 L["quite so"]={{path="chatsounds/autoadd/gman/quite so.ogg",length=1.0448979591836736}}
 L["subject you"]={{path="chatsounds/autoadd/gman/subject you.ogg",length=0.62195011337868478}}
 L["telling all"]={{path="chatsounds/autoadd/gman/telling all.ogg",length=0.94086167800453513}}
@@ -24,10 +24,10 @@ L["the biggest embarrassment has been"]={{path="chatsounds/autoadd/gman/The bigg
 L["the borderworld then is in our control for the time being"]={{path="chatsounds/autoadd/gman/the borderworld then is in our control for the time being.ogg",length=12.698231292517006}}
 L["time to choose"]={{path="chatsounds/autoadd/gman/time to choose.ogg",length=1.8017233560090702}}
 L["we have decided to convey you"]={{path="chatsounds/autoadd/gman/we have decided to convey you.ogg",length=2.8249433106575963}}
-L["we meet at last"]={{path="chatsounds/autoadd/gman/we meet at last.ogg",length=1.9379591836734693}}
 L["we meet"]={{path="chatsounds/autoadd/gman/we meet.ogg",length=1.0390929705215419}}
-L["well it looks like we wont be working together no regrets"]={{path="chatsounds/autoadd/gman/Well it looks like we wont be working together no regrets.ogg",length=20.072380952380954}}
+L["we meet at last"]={{path="chatsounds/autoadd/gman/we meet at last.ogg",length=1.9379591836734693}}
 L["well it looks like we wont be working together"]={{path="chatsounds/autoadd/gman/well it looks like we wont be working together.ogg",length=3.354013605442177}}
+L["well it looks like we wont be working together no regrets"]={{path="chatsounds/autoadd/gman/Well it looks like we wont be working together no regrets.ogg",length=20.072380952380954}}
 L["wisely done mr freeman i will see you up ahead"]={{path="chatsounds/autoadd/gman/wisely done mr freeman I will see you up ahead.ogg",length=5.1057596371882088}}
 L["youve proved yourself a decisive man so i dont expect youll have any trouble deciding what to do"]={{path="chatsounds/autoadd/gman/Youve proved yourself a decisive man so I dont expect youll have any trouble deciding what to do.ogg",length=13.499138321995465}}
 c.EndList()

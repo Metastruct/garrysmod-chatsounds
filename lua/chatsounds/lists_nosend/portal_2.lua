@@ -12,8 +12,8 @@ L["cough press the button"]={{path="chatsounds/autoadd/portal_2/cough press the 
 L["dancing is not science"]={{path="chatsounds/autoadd/portal_2/dancing is not science.ogg",length=3.2653061224489797}}
 L["dont disappoint me"]={{path="chatsounds/autoadd/portal_2/dont disappoint me.ogg",length=1.1157823129251701}}
 L["dont do it"]={{path="chatsounds/autoadd/portal_2/dont do it/1.ogg",length=1.8546938775510204},{path="chatsounds/autoadd/portal_2/dont do it/2.ogg",length=1.0187755102040816}}
-L["excellent work"]={{path="chatsounds/autoadd/portal_2/excellent work.ogg",length=1.3322448979591837}}
 L["excellent"]={{path="chatsounds/autoadd/portal_2/excellent.ogg",length=1.1493877551020408}}
+L["excellent work"]={{path="chatsounds/autoadd/portal_2/excellent work.ogg",length=1.3322448979591837}}
 L["explosion imminant evacuate the facility immediately"]={{path="chatsounds/autoadd/portal_2/explosion imminant evacuate the facility immediately.ogg",length=3.996734693877551}}
 L["for science"]={{path="chatsounds/autoadd/portal_2/for science.ogg",length=1.0094784580498866}}
 L["get mad"]={{path="chatsounds/autoadd/portal_2/get mad.ogg",length=1.2016326530612245}}
@@ -58,8 +58,8 @@ L["well played"]={{path="chatsounds/autoadd/portal_2/well played.ogg",length=0.6
 L["whats going on who turned off the lights"]={{path="chatsounds/autoadd/portal_2/whats going on who turned off the lights.ogg",length=2.4555102040816328}}
 L["wooooh"]={{path="chatsounds/autoadd/portal_2/wooooh.ogg",length=1.8070521541950113}}
 L["yeah lets do this"]={{path="chatsounds/autoadd/portal_2/yeah lets do this/sp_sabotage_factory_defect_chat03.ogg",length=1.2016326530612245},{path="chatsounds/autoadd/portal_2/yeah lets do this/sp_sabotage_factory_defect_chat04.ogg",length=1.6457142857142857}}
-L["yes indeed yes indeed"]={{path="chatsounds/autoadd/portal_2/yes indeed yes indeed.ogg",length=2.063673469387755}}
 L["yes"]={{path="chatsounds/autoadd/portal_2/yes.ogg",length=0.83591836734693881}}
+L["yes indeed yes indeed"]={{path="chatsounds/autoadd/portal_2/yes indeed yes indeed.ogg",length=2.063673469387755}}
 L["you dont know anything"]={{path="chatsounds/autoadd/portal_2/you dont know anything.ogg",length=1.4035374149659865}}
 L["you dont know fear"]={{path="chatsounds/autoadd/portal_2/you dont know fear.ogg",length=1.0681632653061224}}
 L["you dont know pride"]={{path="chatsounds/autoadd/portal_2/you dont know pride.ogg",length=1.4035374149659865}}

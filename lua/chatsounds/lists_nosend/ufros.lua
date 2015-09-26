@@ -15,8 +15,8 @@ L["he told me to teach me about it if i gave him some milk"]={{path="chatsounds/
 L["how did you learn so much about outter space david"]={{path="chatsounds/autoadd/ufros/how did you learn so much about outter space david.ogg",length=2.5836281179138321}}
 L["i can take the truth"]={{path="chatsounds/autoadd/ufros/i can take the truth.ogg",length=1.0667120181405896}}
 L["i know im part white"]={{path="chatsounds/autoadd/ufros/i know im part white.ogg",length=1.4679818594104308}}
-L["i was abducted im telling you the truth"]={{path="chatsounds/autoadd/ufros/i was abducted im telling you the truth.ogg",length=1.9964172335600907}}
 L["i was abducted"]={{path="chatsounds/autoadd/ufros/i was abducted.ogg",length=0.91188208616780042}}
+L["i was abducted im telling you the truth"]={{path="chatsounds/autoadd/ufros/i was abducted im telling you the truth.ogg",length=1.9964172335600907}}
 L["im not lying"]={{path="chatsounds/autoadd/ufros/im not lying.ogg",length=1.0960997732426303}}
 L["im telling you the truth"]={{path="chatsounds/autoadd/ufros/im telling you the truth.ogg",length=1.0845351473922902}}
 L["jinglehart"]={{path="chatsounds/autoadd/ufros/jinglehart.ogg",length=0.8564172335600907}}
@@ -26,8 +26,8 @@ L["luckily i have a neighbour who knows all about aliens"]={{path="chatsounds/au
 L["oh more"]={{path="chatsounds/autoadd/ufros/oh more.ogg",length=0.95424036281179136}}
 L["oh thats fine"]={{path="chatsounds/autoadd/ufros/oh thats fine.ogg",length=1.5}}
 L["sounds like a bunch of mumbo jumbo trash to me"]={{path="chatsounds/autoadd/ufros/sounds like a bunch of mumbo jumbo trash to me.ogg",length=2.6644897959183673}}
-L["tell me the truth about the aliens cause you dont have to sugar coat it with me i can take the truth"]={{path="chatsounds/autoadd/ufros/tell me the truth about the aliens cause you dont have to sugar coat it with me i can take the truth.ogg",length=6.2927437641723358}}
 L["tell me the truth about the aliens"]={{path="chatsounds/autoadd/ufros/tell me the truth about the aliens.ogg",length=1.8007256235827664}}
+L["tell me the truth about the aliens cause you dont have to sugar coat it with me i can take the truth"]={{path="chatsounds/autoadd/ufros/tell me the truth about the aliens cause you dont have to sugar coat it with me i can take the truth.ogg",length=6.2927437641723358}}
 L["tell me which ones are real and which ones a bunch of baloney im telling you im not lying"]={{path="chatsounds/autoadd/ufros/tell me which ones are real and which ones a bunch of baloney im telling you im not lying.ogg",length=4.7855782312925168}}
 L["tell me which ones are real and which ones bunch of baloney"]={{path="chatsounds/autoadd/ufros/tell me which ones are real and which ones bunch of baloney.ogg",length=2.7891609977324263}}
 L["the omegans"]={{path="chatsounds/autoadd/ufros/the omegans.ogg",length=0.78290249433106573}}
@@ -35,8 +35,8 @@ L["the ufos"]={{path="chatsounds/autoadd/ufros/the ufos.ogg",length=0.8160997732
 L["they can come from space too"]={{path="chatsounds/autoadd/ufros/they can come from space too.ogg",length=2.0649433106575965}}
 L["well you cant tell a darling thomas anything"]={{path="chatsounds/autoadd/ufros/well you cant tell a darling thomas anything.ogg",length=3.0926984126984127}}
 L["what about aliens"]={{path="chatsounds/autoadd/ufros/what about aliens.ogg",length=1.1607256235827665}}
-L["what are the aliens like oh more"]={{path="chatsounds/autoadd/ufros/what are the aliens like oh more.ogg",length=2.1384126984126985}}
 L["what are the aliens"]={{path="chatsounds/autoadd/ufros/what are the aliens.ogg",length=1.0275736961451247}}
+L["what are the aliens like oh more"]={{path="chatsounds/autoadd/ufros/what are the aliens like oh more.ogg",length=2.1384126984126985}}
 L["when am i gonna be able to get a copy of this"]={{path="chatsounds/autoadd/ufros/when am i gonna be able to get a copy of this.ogg",length=2.4650793650793652}}
 L["you dont have to sugar coat it with me"]={{path="chatsounds/autoadd/ufros/you dont have to sugar coat it with me.ogg",length=3.4252607709750569}}
 c.EndList()

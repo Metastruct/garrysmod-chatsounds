@@ -1,9 +1,9 @@
 c.StartList("markorepairs_graphite")
 L["alarm clock"]={{path="chatsounds/autoadd/markorepairs_graphite/alarm clock.ogg",length=3.4336961451247165}}
 L["alarmm"]={{path="chatsounds/autoadd/markorepairs_graphite/alarmm.ogg",length=0.81192743764172337}}
+L["and"]={{path="chatsounds/autoadd/markorepairs_graphite/and.ogg",length=0.32993197278911562}}
 L["and my"]={{path="chatsounds/autoadd/markorepairs_graphite/and my.ogg",length=1.2907936507936508}}
 L["and radium"]={{path="chatsounds/autoadd/markorepairs_graphite/and radium.ogg",length=1.921904761904762}}
-L["and"]={{path="chatsounds/autoadd/markorepairs_graphite/and.ogg",length=0.32993197278911562}}
 L["because"]={{path="chatsounds/autoadd/markorepairs_graphite/because.ogg",length=0.65773242630385487}}
 L["but"]={{path="chatsounds/autoadd/markorepairs_graphite/but/but1.ogg",length=0.47056689342403629},{path="chatsounds/autoadd/markorepairs_graphite/but/but2.ogg",length=0.40000000000000002},{path="chatsounds/autoadd/markorepairs_graphite/but/but3.ogg",length=0.24412698412698414}}
 L["clock"]={{path="chatsounds/autoadd/markorepairs_graphite/clock.ogg",length=0.53496598639455784}}
@@ -23,11 +23,11 @@ L["nuclear powerplant"]={{path="chatsounds/autoadd/markorepairs_graphite/nuclear
 L["radio active"]={{path="chatsounds/autoadd/markorepairs_graphite/radio active.ogg",length=2.0359637188208617}}
 L["radium"]={{path="chatsounds/autoadd/markorepairs_graphite/radium.ogg",length=0.80000000000000004}}
 L["safety"]={{path="chatsounds/autoadd/markorepairs_graphite/safety.ogg",length=0.84199546485260768}}
+L["this"]={{path="chatsounds/autoadd/markorepairs_graphite/this.ogg",length=0.38666666666666666}}
 L["this alarm clock is very dangerous"]={{path="chatsounds/autoadd/markorepairs_graphite/this alarm clock is very dangerous.ogg",length=3.3871201814058955}}
 L["this is harlems"]={{path="chatsounds/autoadd/markorepairs_graphite/this is harlems.ogg",length=3.3404988662131521}}
 L["this is my"]={{path="chatsounds/autoadd/markorepairs_graphite/this is my.ogg",length=0.81433106575963721}}
 L["this time is wake up"]={{path="chatsounds/autoadd/markorepairs_graphite/this time is wake up.ogg",length=3.0795918367346937}}
-L["this"]={{path="chatsounds/autoadd/markorepairs_graphite/this.ogg",length=0.38666666666666666}}
 L["too much is"]={{path="chatsounds/autoadd/markorepairs_graphite/too much is.ogg",length=0.79941043083900232}}
 L["uh"]={{path="chatsounds/autoadd/markorepairs_graphite/uh.ogg",length=2.453061224489796}}
 L["very safety"]={{path="chatsounds/autoadd/markorepairs_graphite/very safety.ogg",length=1.2279818594104308}}

@@ -13,8 +13,8 @@ L["ah uh hm ah oooh ssd never happened to me oh my god ahmhmh"]={{path="chatsoun
 L["ahahaha"]={{path="chatsounds/autoadd/jbep3/ahahaha.ogg",length=0.75609977324263034}}
 L["ahha"]={{path="chatsounds/autoadd/jbep3/ahha.ogg",length=0.95201814058956913}}
 L["ahhaaa"]={{path="chatsounds/autoadd/jbep3/ahhaaa.ogg",length=0.86784580498866215}}
-L["alright boys lets do it"]={{path="chatsounds/autoadd/jbep3/alright boys lets do it.ogg",length=2.3626303854875284}}
 L["alright"]={{path="chatsounds/autoadd/jbep3/alright.ogg",length=1.2074376417233561}}
+L["alright boys lets do it"]={{path="chatsounds/autoadd/jbep3/alright boys lets do it.ogg",length=2.3626303854875284}}
 L["am i alone in here"]={{path="chatsounds/autoadd/jbep3/am i alone in here.ogg",length=1.3627210884353742}}
 L["and the crowd goes wild"]={{path="chatsounds/autoadd/jbep3/and the crowd goes wild.ogg",length=2.3974603174603173}}
 L["and then there was one"]={{path="chatsounds/autoadd/jbep3/and then there was one.ogg",length=2.7834920634920635}}
@@ -60,8 +60,8 @@ L["groovy"]={{path="chatsounds/autoadd/jbep3/groovy.ogg",length=1.02312925170068
 L["hacked"]={{path="chatsounds/autoadd/jbep3/hacked.ogg",length=0.87365079365079368}}
 L["hacker"]={{path="chatsounds/autoadd/jbep3/hacker.ogg",length=1.146485260770975}}
 L["hah your mine now snake"]={{path="chatsounds/autoadd/jbep3/hah your mine now snake.ogg",length=2.0985034013605444}}
-L["hail to the king baby"]={{path="chatsounds/autoadd/jbep3/hail to the king baby.ogg",length=1.5673469387755101}}
 L["hail to the king"]={{path="chatsounds/autoadd/jbep3/hail to the king.ogg",length=1.3895691609977325}}
+L["hail to the king baby"]={{path="chatsounds/autoadd/jbep3/hail to the king baby.ogg",length=1.5673469387755101}}
 L["hasta la vista baby"]={{path="chatsounds/autoadd/jbep3/hasta la vista baby.ogg",length=1.5932199546485262}}
 L["he wouldve wanted it this way"]={{path="chatsounds/autoadd/jbep3/he wouldve wanted it this way.ogg",length=1.9504761904761905}}
 L["hello"]={{path="chatsounds/autoadd/jbep3/hello.ogg",length=0.99700680272108844}}

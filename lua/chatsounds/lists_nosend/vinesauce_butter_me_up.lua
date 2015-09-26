@@ -19,8 +19,8 @@ L["i should have fucking expected that answer"]={{path="chatsounds/autoadd/vines
 L["i think weve made a bloody big mistake here"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/i think weve made a bloody big mistake here.ogg",length=2.4529931972789116}}
 L["im gordon ramsey"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/im gordon ramsey.ogg",length=1.1459183673469389}}
 L["im not really sure where the fuck it is though"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/im not really sure where the fuck it is though.ogg",length=1.9516553287981859}}
-L["isnt this dangerous you fucking twat the safety rails dont look safe at all"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/isnt this dangerous you fucking twat the safety rails dont look safe at all.ogg",length=5.0581632653061224}}
 L["isnt this dangerous you fucking twat"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/isnt this dangerous you fucking twat.ogg",length=2.4529931972789116}}
+L["isnt this dangerous you fucking twat the safety rails dont look safe at all"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/isnt this dangerous you fucking twat the safety rails dont look safe at all.ogg",length=5.0581632653061224}}
 L["it looked absolutely disgusting and i was not at all looking forward to trying it"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/it looked absolutely disgusting and i was not at all looking forward to trying it.ogg",length=4.4941723356009069}}
 L["its too fucking early for this level of bullshit"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/its too fucking early for this level of bullshit.ogg",length=3.2049886621315191}}
 L["jesus christ what kind of a fucking thing is that to say to someone"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/jesus christ what kind of a fucking thing is that to say to someone.ogg",length=3.7242630385487527}}
@@ -47,7 +47,7 @@ L["what a fucking experience"]={{path="chatsounds/autoadd/vinesauce_butter_me_up
 L["what a fucking relief"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/what a fucking relief.ogg",length=1.3428798185941042}}
 L["what the fuck did i tell you about being careful"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/what the fuck did i tell you about being careful.ogg",length=2.5962358276643993}}
 L["who the fuck drinks butter"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/who the fuck drinks butter.ogg",length=1.7188662131519274}}
-L["wtf kind of drink was that"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/wtf kind of drink was that.ogg",length=2.0948979591836734}}
 L["wtf"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/wtf.ogg",length=0.94895691609977328}}
+L["wtf kind of drink was that"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/wtf kind of drink was that.ogg",length=2.0948979591836734}}
 L["youd better fucking watch out"]={{path="chatsounds/autoadd/vinesauce_butter_me_up/youd better fucking watch out.ogg",length=1.5935600907029479}}
 c.EndList()

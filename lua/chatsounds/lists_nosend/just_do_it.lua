@@ -11,8 +11,8 @@ L["no"]={{path="chatsounds/autoadd/just_do_it/no.ogg",length=0.46192743764172334
 L["nothing is impossible"]={{path="chatsounds/autoadd/just_do_it/nothing is impossible.ogg",length=1.4986621315192743}}
 L["so just"]={{path="chatsounds/autoadd/just_do_it/so just.ogg",length=0.94437641723356014}}
 L["some people dream success"]={{path="chatsounds/autoadd/just_do_it/some people dream success.ogg",length=1.71421768707483}}
-L["stop giving up"]={{path="chatsounds/autoadd/just_do_it/stop giving up.ogg",length=2.4019501133786849}}
 L["stop"]={{path="chatsounds/autoadd/just_do_it/stop.ogg",length=0.7858956916099773}}
+L["stop giving up"]={{path="chatsounds/autoadd/just_do_it/stop giving up.ogg",length=2.4019501133786849}}
 L["up"]={{path="chatsounds/autoadd/just_do_it/up.ogg",length=0.51324263038548756}}
 L["what are you waiting for"]={{path="chatsounds/autoadd/just_do_it/what are you waiting for.ogg",length=1.3857369614512471}}
 L["where anyone else would quit"]={{path="chatsounds/autoadd/just_do_it/where anyone else would quit.ogg",length=1.6834240362811792}}

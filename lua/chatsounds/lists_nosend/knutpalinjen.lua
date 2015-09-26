@@ -10,8 +10,8 @@ L["el muerte"]={{path="chatsounds/autoadd/knutpalinjen/el muerte.ogg",length=0.8
 L["elaspita delararerekelopa ela pontapontaponta jutsu ela grasslaba dodo engranda ettabossa"]={{path="chatsounds/autoadd/knutpalinjen/elaspita delararerekelopa ela pontapontaponta jutsu ela grasslaba dodo engranda ettabossa.ogg",length=6.0842630385487526}}
 L["hagasaka"]={{path="chatsounds/autoadd/knutpalinjen/hagasaka.ogg",length=0.79360544217687079}}
 L["havajana protactjone de fettochini"]={{path="chatsounds/autoadd/knutpalinjen/havajana protactjone de fettochini.ogg",length=2.9023129251700679}}
-L["hmmm hmmm hm"]={{path="chatsounds/autoadd/knutpalinjen/hmmm hmmm hm.ogg",length=4.1662811791383216}}
 L["hmmm hmmm"]={{path="chatsounds/autoadd/knutpalinjen/hmmm hmmm.ogg",length=4.2678004535147389}}
+L["hmmm hmmm hm"]={{path="chatsounds/autoadd/knutpalinjen/hmmm hmmm hm.ogg",length=4.1662811791383216}}
 L["hohohaha"]={{path="chatsounds/autoadd/knutpalinjen/hohohaha.ogg",length=0.74238095238095236}}
 L["hoohoo"]={{path="chatsounds/autoadd/knutpalinjen/hoohoo.ogg",length=0.55068027210884352}}
 L["hoonononononononononononononoh"]={{path="chatsounds/autoadd/knutpalinjen/hoonononononononononononononoh.ogg",length=1.7469614512471656}}
@@ -44,8 +44,8 @@ L["nnnuagh fy bubblan"]={{path="chatsounds/autoadd/knutpalinjen/nnnuagh fy bubbl
 L["nuaghnahsuahsaaahaaa"]={{path="chatsounds/autoadd/knutpalinjen/nuaghnahsuahsaaahaaa.ogg",length=3.3991383219954647}}
 L["pffft buah pah eeeow"]={{path="chatsounds/autoadd/knutpalinjen/pffft buah pah eeeow.ogg",length=2.4450113378684808}}
 L["pffft pfft"]={{path="chatsounds/autoadd/knutpalinjen/pffft pfft.ogg",length=3.6317913832199546}}
-L["pft yeeetsa"]={{path="chatsounds/autoadd/knutpalinjen/pft yeeetsa.ogg",length=1.819047619047619}}
 L["pft"]={{path="chatsounds/autoadd/knutpalinjen/pft.ogg",length=0.34217687074829933}}
+L["pft yeeetsa"]={{path="chatsounds/autoadd/knutpalinjen/pft yeeetsa.ogg",length=1.819047619047619}}
 L["prostata ingladera pft pft pft aaahehahaha"]={{path="chatsounds/autoadd/knutpalinjen/prostata ingladera pft pft pft aaahehahaha.ogg",length=3.6949659863945579}}
 L["rrranzu zurabazaza"]={{path="chatsounds/autoadd/knutpalinjen/rrranzu zurabazaza.ogg",length=2.6044897959183673}}
 L["satan pissigubbi"]={{path="chatsounds/autoadd/knutpalinjen/satan pissigubbi.ogg",length=2.0110884353741496}}
