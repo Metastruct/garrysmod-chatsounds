@@ -38,6 +38,7 @@ L["portal 2 and then we have to ship"]={{path="chatsounds/autoadd/gabe/portal 2 
 L["team"]={{path="chatsounds/autoadd/gabe/team.ogg",length=0.20419501133786849}}
 L["thats what i get for working at microsoft"]={{path="chatsounds/autoadd/gabe/thats what i get for working at microsoft.ogg",length=1.7371428571428571}}
 L["the"]={{path="chatsounds/autoadd/gabe/the.ogg",length=0.095487528344671196}}
+L["these things they take time"]={{path="chatsounds/autoadd/gabe/these things they take time.ogg",length=1.6961451247165533}}
 L["this isnt working"]={{path="chatsounds/autoadd/gabe/this isnt working.ogg",length=0.82285714285714284}}
 L["two"]={{path="chatsounds/autoadd/gabe/two.ogg",length=0.37961451247165534}}
 L["uh"]={{path="chatsounds/autoadd/gabe/uh/1.ogg",length=0.44698412698412698},{path="chatsounds/autoadd/gabe/uh/2.ogg",length=0.23510204081632652}}
