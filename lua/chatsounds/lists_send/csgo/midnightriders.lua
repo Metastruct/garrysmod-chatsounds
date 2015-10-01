@@ -1,4 +1,4 @@
-c.StartList("mignightriders")
+c.StartList("midnightriders")
 	L["midnight riders death cam"] = {
 		{
 			path = "music/midnightriders_01/deathcam.mp3",
