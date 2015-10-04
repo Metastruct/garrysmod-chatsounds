@@ -53,7 +53,6 @@ L["it really is"]={{path="chatsounds/autoadd/elmo/it really is.ogg",length=0.829
 L["it took elmo two and a half weeks"]={{path="chatsounds/autoadd/elmo/it took elmo two and a half weeks.ogg",length=2.3903854875283446}}
 L["its kinda challenging"]={{path="chatsounds/autoadd/elmo/its kinda challenging.ogg",length=1.3887301587301588}}
 L["just think wonderful thoughts"]={{path="chatsounds/autoadd/elmo/just think wonderful thoughts.ogg",length=1.7626984126984127}}
-L["lmfao"]={{path="chatsounds/autoadd/elmo/lmfao.ogg",length=2.850045351473923}}
 L["martin luther king"]={{path="chatsounds/autoadd/elmo/martin luther king.ogg",length=1.1060090702947847}}
 L["maybe grill it"]={{path="chatsounds/autoadd/elmo/maybe grill it.ogg",length=0.83712018140589572}}
 L["new jersey"]={{path="chatsounds/autoadd/elmo/new jersey.ogg",length=1.0800907029478457}}
