@@ -1,4 +1,5 @@
 c.StartList("lumodder")
+L["aero chord scream"]={{path="chatsounds/autoadd/lumodder/aero chord scream.ogg",length=7.2992970521541949}}
 L["but my hope will never die"]={{path="chatsounds/autoadd/lumodder/but my hope will never die.ogg",length=1.5582086167800453}}
 L["cosmo uh um"]={{path="chatsounds/autoadd/lumodder/cosmo uh um.ogg",length=6.1765079365079369}}
 L["gta wasted"]={{path="chatsounds/autoadd/lumodder/gta wasted.ogg",length=7.5296825396825398}}

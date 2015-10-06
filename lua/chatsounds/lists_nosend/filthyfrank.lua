@@ -17,6 +17,7 @@ L["moshi moshi motherfucker"]={{path="chatsounds/autoadd/filthyfrank/moshi moshi
 L["nnnggg"]={{path="chatsounds/autoadd/filthyfrank/nnnggg.ogg",length=1.496235827664399}}
 L["nnnooo"]={{path="chatsounds/autoadd/filthyfrank/nnnooo.ogg",length=2.0549659863945577}}
 L["nyes"]={{path="chatsounds/autoadd/filthyfrank/nyes/nyes1.ogg",length=1.364172335600907},{path="chatsounds/autoadd/filthyfrank/nyes/nyes2.ogg",length=2.1362358276643989}}
+L["roasted"]={{path="chatsounds/autoadd/filthyfrank/roasted.ogg",length=11.363265306122448}}
 L["why did you leave me"]={{path="chatsounds/autoadd/filthyfrank/why did you leave me.ogg",length=1.7099773242630385}}
 L["whyyy"]={{path="chatsounds/autoadd/filthyfrank/whyyy.ogg",length=1.4160770975056689}}
 L["yes boss"]={{path="chatsounds/autoadd/filthyfrank/yes boss/yes boss1.ogg",length=1.3611791383219956},{path="chatsounds/autoadd/filthyfrank/yes boss/yes boss2.ogg",length=0.78199546485260774}}
