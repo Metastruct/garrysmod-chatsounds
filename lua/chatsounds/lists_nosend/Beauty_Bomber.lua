@@ -20,7 +20,16 @@ L["letsboomboom"]={{path="chatsounds/autoadd/Beauty_Bomber/letsboomboom.ogg",len
 L["mindblown"]={{path="chatsounds/autoadd/Beauty_Bomber/mindblown.ogg",length=23.797551020408164}}
 L["mmm try again"]={{path="chatsounds/autoadd/Beauty_Bomber/mmm try again.ogg",length=1.5}}
 L["moar"]={{path="chatsounds/autoadd/Beauty_Bomber/moar.ogg",length=0.36401360544217687}}
+L["mooncosmicpowermakeup"]={{path="chatsounds/autoadd/Beauty_Bomber/mooncosmicpowermakeup.ogg",length=31.441768707482993}}
+L["mooncosmicpowermakeupfx"]={{path="chatsounds/autoadd/Beauty_Bomber/mooncosmicpowermakeupfx.ogg",length=30.309999999999999}}
+L["mooncrisismakeup"]={{path="chatsounds/autoadd/Beauty_Bomber/mooncrisismakeup.ogg",length=31.199999999999999}}
+L["mooncrisismakeupfx"]={{path="chatsounds/autoadd/Beauty_Bomber/mooncrisismakeupfx.ogg",length=29.850000000000001}}
+L["mooncrystalpowermakeup"]={{path="chatsounds/autoadd/Beauty_Bomber/mooncrystalpowermakeup.ogg",length=36.466213151927441}}
+L["mooncrystalpowermakeupfx"]={{path="chatsounds/autoadd/Beauty_Bomber/mooncrystalpowermakeupfx.ogg",length=42.739002267573696}}
+L["mooneternalmakeup"]={{path="chatsounds/autoadd/Beauty_Bomber/mooneternalmakeup.ogg",length=37.203990929705213}}
+L["mooneternalmakeupfx"]={{path="chatsounds/autoadd/Beauty_Bomber/mooneternalmakeupfx.ogg",length=35.450000000000003}}
 L["moonprismpowermakeup"]={{path="chatsounds/autoadd/Beauty_Bomber/moonprismpowermakeup.ogg",length=37.649999999999999}}
+L["moonprismpowermakeupfx"]={{path="chatsounds/autoadd/Beauty_Bomber/moonprismpowermakeupfx.ogg",length=40.700000000000003}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/Beauty_Bomber/mrkrabsviolin.ogg",length=36.784920634920638}}
 L["nightistandsad"]={{path="chatsounds/autoadd/Beauty_Bomber/nightistandsad.ogg",length=97.200000000000003}}
 L["no this is patrick"]={{path="chatsounds/autoadd/Beauty_Bomber/no this is patrick/1.ogg",length=1.46},{path="chatsounds/autoadd/Beauty_Bomber/no this is patrick/2.ogg",length=2.6146258503401358},{path="chatsounds/autoadd/Beauty_Bomber/no this is patrick/3.ogg",length=3.0586167800453516}}
