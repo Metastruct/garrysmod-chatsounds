@@ -36,6 +36,7 @@ L["no this is patrick"]={{path="chatsounds/autoadd/Beauty_Bomber/no this is patr
 L["overtime"]={{path="chatsounds/autoadd/Beauty_Bomber/overtime.ogg",length=1.3609750566893424}}
 L["penis"]={{path="chatsounds/autoadd/Beauty_Bomber/penis.ogg",length=0.90000000000000002}}
 L["ronald weasley"]={{path="chatsounds/autoadd/Beauty_Bomber/ronald weasley.ogg",length=2}}
+L["shut up you soppy wanker"]={{path="chatsounds/autoadd/Beauty_Bomber/shut up you soppy wanker.ogg",length=1.7545578231292518}}
 L["smashing"]={{path="chatsounds/autoadd/Beauty_Bomber/smashing.ogg",length=1.5571428571428572}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/Beauty_Bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.96}}
 L["squiddyg"]={{path="chatsounds/autoadd/Beauty_Bomber/squiddyg.ogg",length=61.085850340136055}}
