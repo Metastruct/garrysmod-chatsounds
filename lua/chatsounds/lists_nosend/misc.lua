@@ -12,6 +12,7 @@ L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.5926530612244898}
 L["blulululuruah ah ah"]={{path="chatsounds/autoadd/misc/blulululuruah ah ah.ogg",length=1.862517006802721}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.2446485260770972}}
 L["brodyquest"]={{path="chatsounds/autoadd/misc/brodyquest.ogg",length=21.341927437641722}}
+L["broteamsubscriberalert"]={{path="chatsounds/autoadd/misc/broteamsubscriberalert.ogg",length=12.286281179138323}}
 L["but"]={{path="chatsounds/autoadd/misc/but.ogg",length=0.16199546485260771}}
 L["by"]={{path="chatsounds/autoadd/misc/by.ogg",length=0.20777777777777778}}
 L["carpet"]={{path="chatsounds/autoadd/misc/carpet.ogg",length=0.41907029478458052}}
@@ -22,6 +23,7 @@ L["cricket"]={{path="chatsounds/autoadd/misc/cricket.ogg",length=2.1348299319727
 L["csi"]={{path="chatsounds/autoadd/misc/csi.ogg",length=7.1540362811791383}}
 L["ddeevveellooppeerrss"]={{path="chatsounds/autoadd/misc/ddeevveellooppeerrss.ogg",length=18.727346938775511}}
 L["demoman"]={{path="chatsounds/autoadd/misc/demoman.ogg",length=0.71265306122448979}}
+L["dethbleep"]={{path="chatsounds/autoadd/misc/dethbleep.ogg",length=0.60795918367346935}}
 L["dialup"]={{path="chatsounds/autoadd/misc/dialup/marker1.ogg",length=3.2937188208616779},{path="chatsounds/autoadd/misc/dialup/marker2.ogg",length=1.5591609977324263},{path="chatsounds/autoadd/misc/dialup/marker3.ogg",length=2.1493424036281179},{path="chatsounds/autoadd/misc/dialup/marker4.ogg",length=2.9936507936507937}}
 L["dialup1"]={{path="chatsounds/autoadd/misc/dialup1.ogg",length=25.628684807256235}}
 L["die waffen legt an"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.3697959183673469}}
@@ -46,6 +48,7 @@ L["jeers2"]={{path="chatsounds/autoadd/misc/jeers2.ogg",length=7.496054421768707
 L["klopfolo"]={{path="chatsounds/autoadd/misc/klopfolo.ogg",length=0.31346938775510202}}
 L["ldeath"]={{path="chatsounds/autoadd/misc/ldeath.ogg",length=1.0067800453514739}}
 L["littlegirls"]={{path="chatsounds/autoadd/misc/littlegirls.ogg",length=4.9653968253968257}}
+L["loud nigra"]={{path="chatsounds/autoadd/misc/loud nigra.ogg",length=13.857687074829933}}
 L["mama"]={{path="chatsounds/autoadd/misc/mama.ogg",length=0.79780045351473927}}
 L["me a"]={{path="chatsounds/autoadd/misc/me a.ogg",length=0.25709750566893425}}
 L["mean"]={{path="chatsounds/autoadd/misc/mean.ogg",length=0.33104308390022674}}
@@ -64,7 +67,7 @@ L["oh"]={{path="chatsounds/autoadd/misc/oh.ogg",length=0.17607709750566894}}
 L["oh fine"]={{path="chatsounds/autoadd/misc/oh fine.ogg",length=0.7888662131519274}}
 L["peace"]={{path="chatsounds/autoadd/misc/peace.ogg",length=0.22185941043083901}}
 L["pickle surprise"]={{path="chatsounds/autoadd/misc/pickle surprise.ogg",length=1.9087528344671201}}
-L["pingas"]={{path="chatsounds/autoadd/misc/pingas.ogg",length=0.5573015873015873}}
+L["pingas"]={{path="chatsounds/autoadd/misc/pingas.ogg",length=0.56258503401360549}}
 L["potcfdk"]={{path="chatsounds/autoadd/misc/potcfdk.ogg",length=1.5388662131519275}}
 L["ppiinnggaass"]={{path="chatsounds/autoadd/misc/ppiinnggaass.ogg",length=5.0155328798185943}}
 L["ps1startup"]={{path="chatsounds/autoadd/misc/ps1startup.ogg",length=14.233242630385487}}
@@ -73,8 +76,10 @@ L["qdance"]={{path="chatsounds/autoadd/misc/qdance.ogg",length=2.009977324263038
 L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.54403628117913827}}
 L["red"]={{path="chatsounds/autoadd/misc/red.ogg",length=0.21832199546485262}}
 L["rocketlawnchair"]={{path="chatsounds/autoadd/misc/rocketlawnchair.ogg",length=1.933061224489796}}
+L["rockthecasbah"]={{path="chatsounds/autoadd/misc/rockthecasbah.ogg",length=7.4187755102040818}}
 L["san andreas"]={{path="chatsounds/autoadd/misc/san andreas.ogg",length=77.18426303854875}}
 L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.7719274376417233}}
+L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.5198412698412707}}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.1434920634920633}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.435736961451248}}
 L["tell me snip if you can you have so much porn"]={{path="chatsounds/autoadd/misc/tell me snip if you can you have so much porn.ogg",length=4.0562358276643993}}

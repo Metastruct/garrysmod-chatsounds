@@ -5,7 +5,7 @@ L["arrigato gyro"]={{path="chatsounds/autoadd/dengoan/arrigato gyro.ogg",length=
 L["arriva derci"]={{path="chatsounds/autoadd/dengoan/arriva derci.ogg",length=1.5749206349206348}}
 L["bayonetta"]={{path="chatsounds/autoadd/dengoan/bayonetta.ogg",length=1.801814058956916}}
 L["chie im gonna get so fat"]={{path="chatsounds/autoadd/dengoan/chie im gonna get so fat.ogg",length=2.1355555555555554}}
-L["crawling in my skin"]={{path="chatsounds/autoadd/dengoan/crawling in my skin.ogg",length=5.3872108843537418}}
+L["crawling in my skin"]={{path="chatsounds/autoadd/dengoan/crawling in my skin/1.ogg",length=5.3872108843537418},{path="chatsounds/autoadd/dengoan/crawling in my skin/2.ogg",length=20.485646258503401}}
 L["destroyed"]={{path="chatsounds/autoadd/dengoan/destroyed.ogg",length=2.0695011337868481}}
 L["devil may cry"]={{path="chatsounds/autoadd/dengoan/devil may cry.ogg",length=2.3999999999999999}}
 L["dominatrix banana head"]={{path="chatsounds/autoadd/dengoan/dominatrix banana head.ogg",length=3.5004081632653059}}

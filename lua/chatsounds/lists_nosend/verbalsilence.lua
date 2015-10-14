@@ -115,7 +115,7 @@ L["i have a strange urge to penetrate these females"]={{path="chatsounds/autoadd
 L["i have special eyes"]={{path="chatsounds/autoadd/verbalsilence/i have special eyes.ogg",length=1.8124489795918368}}
 L["i have to go"]={{path="chatsounds/autoadd/verbalsilence/i have to go.ogg",length=0.58573696145124721}}
 L["i like your ass"]={{path="chatsounds/autoadd/verbalsilence/i like your ass.ogg",length=0.87333333333333329}}
-L["i love little girls"]={{path="chatsounds/autoadd/verbalsilence/i love little girls.ogg",length=19.467959183673468}}
+L["i love little girls"]={{path="chatsounds/autoadd/verbalsilence/i love little girls.ogg",length=29.247505668934242}}
 L["i need mouth to ass resuscitation"]={{path="chatsounds/autoadd/verbalsilence/i need mouth to ass resuscitation.ogg",length=2.6238321995464853}}
 L["i said dickgina"]={{path="chatsounds/autoadd/verbalsilence/i said dickgina.ogg",length=3.9865532879818595}}
 L["i should go"]={{path="chatsounds/autoadd/verbalsilence/i should go.ogg",length=0.63684807256235831}}
@@ -178,7 +178,7 @@ L["oh you wonderful bitch"]={{path="chatsounds/autoadd/verbalsilence/oh you wond
 L["omg she is so annoying"]={{path="chatsounds/autoadd/verbalsilence/omg she is so annoying.ogg",length=2.0466439909297054}}
 L["omg who the hell cares"]={{path="chatsounds/autoadd/verbalsilence/omg who the hell cares.ogg",length=3.7093877551020409}}
 L["papali papali suka"]={{path="chatsounds/autoadd/verbalsilence/papali papali suka.ogg",length=2.2204081632653061}}
-L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=19.467959183673468}}
+L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=29.247505668934242}}
 L["pizza do a pizza"]={{path="chatsounds/autoadd/verbalsilence/pizza do a pizza.ogg",length=3.2918140589569163}}
 L["pokemon"]={{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 1.ogg",length=1.0414058956916099},{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 2.ogg",length=1.1772335600907029}}
 L["pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa"]={{path="chatsounds/autoadd/verbalsilence/pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa.ogg",length=9.3574149659863952}}
