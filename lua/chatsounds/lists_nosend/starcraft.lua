@@ -64,8 +64,7 @@ L["clear"]={{path="chatsounds/autoadd/starcraft/clear.ogg",length=0.929931972789
 L["come again captain"]={{path="chatsounds/autoadd/starcraft/come again captain.ogg",length=1.2103401360544217}}
 L["command or you will be relieved"]={{path="chatsounds/autoadd/starcraft/command or you will be relieved.ogg",length=3.1230839002267574}}
 L["commander"]={{path="chatsounds/autoadd/starcraft/commander.ogg",length=0.72126984126984128}}
-L["commencing"]={{path="chatsounds/autoadd/starcraft/commencing.ogg",length=1.6188208616780044}}
-L["commencing"]={{path="chatsounds/autoadd/starcraft/commencing/carrier commencing.ogg",length=1.1638548752834468},{path="chatsounds/autoadd/starcraft/commencing/dragoon commencing.ogg",length=0.77047619047619043}}
+L["commencing"]={{path="chatsounds/autoadd/starcraft/commencing.ogg",length=1.6188208616780044},{path="chatsounds/autoadd/starcraft/commencing/carrier commencing.ogg",length=1.1638548752834468},{path="chatsounds/autoadd/starcraft/commencing/dragoon commencing.ogg",length=0.77047619047619043}}
 L["commlink online"]={{path="chatsounds/autoadd/starcraft/commlink online.ogg",length=1.7414965986394557}}
 L["confirmed"]={{path="chatsounds/autoadd/starcraft/confirmed/confirmed dragoon.ogg",length=0.96920634920634918},{path="chatsounds/autoadd/starcraft/confirmed/confirmed goliath.ogg",length=2.2290702947845804}}
 L["consider it done"]={{path="chatsounds/autoadd/starcraft/consider it done.ogg",length=2.5483900226757368}}
@@ -355,8 +354,7 @@ L["reportin for duty"]={{path="chatsounds/autoadd/starcraft/reportin for duty.og
 L["reporting in"]={{path="chatsounds/autoadd/starcraft/reporting in.ogg",length=1.1378231292517007}}
 L["research complete"]={{path="chatsounds/autoadd/starcraft/research complete/research complete protoss.ogg",length=1.3477551020408163},{path="chatsounds/autoadd/starcraft/research complete/research complete terran.ogg",length=1.8048072562358277}}
 L["ride on"]={{path="chatsounds/autoadd/starcraft/ride on.ogg",length=2.2407256235827666}}
-L["right away"]={{path="chatsounds/autoadd/starcraft/right away/right away duran zerg.ogg",length=1.7588662131519275},{path="chatsounds/autoadd/starcraft/right away/right away duran.ogg",length=1.4309297052154195}}
-L["right away"]={{path="chatsounds/autoadd/starcraft/right away.ogg",length=0.96993197278911569}}
+L["right away"]={{path="chatsounds/autoadd/starcraft/right away.ogg",length=0.96993197278911569},{path="chatsounds/autoadd/starcraft/right away/right away duran zerg.ogg",length=1.7588662131519275},{path="chatsounds/autoadd/starcraft/right away/right away duran.ogg",length=1.4309297052154195}}
 L["right away sir"]={{path="chatsounds/autoadd/starcraft/right away sir.ogg",length=1.0913378684807256}}
 L["rock and roll"]={{path="chatsounds/autoadd/starcraft/rock and roll.ogg",length=1.5804535147392291}}
 L["roger"]={{path="chatsounds/autoadd/starcraft/roger.ogg",length=1.0217233560090704}}

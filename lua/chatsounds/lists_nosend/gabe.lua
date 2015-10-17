@@ -16,8 +16,7 @@ L["development"]={{path="chatsounds/autoadd/gabe/development.ogg",length=0.73884
 L["dot"]={{path="chatsounds/autoadd/gabe/dot.ogg",length=0.22675736961451248}}
 L["dota 2"]={{path="chatsounds/autoadd/gabe/dota 2.ogg",length=1.3029931972789115}}
 L["fortress"]={{path="chatsounds/autoadd/gabe/fortress.ogg",length=0.46006802721088436}}
-L["gabe"]={{path="chatsounds/autoadd/gabe/gabe/2.ogg",length=0.18696145124716554}}
-L["gabe"]={{path="chatsounds/autoadd/gabe/gabe.ogg",length=0.23795918367346938}}
+L["gabe"]={{path="chatsounds/autoadd/gabe/gabe.ogg",length=0.23795918367346938},{path="chatsounds/autoadd/gabe/gabe/2.ogg",length=0.18696145124716554}}
 L["gabe newell"]={{path="chatsounds/autoadd/gabe/gabe newell.ogg",length=0.6707482993197279}}
 L["gaben"]={{path="chatsounds/autoadd/gabe/gaben.ogg",length=0.81732426303854877}}
 L["hopefully"]={{path="chatsounds/autoadd/gabe/hopefully.ogg",length=0.79852607709750567}}

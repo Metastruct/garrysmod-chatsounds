@@ -85,8 +85,7 @@ L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.435736
 L["tell me snip if you can you have so much porn"]={{path="chatsounds/autoadd/misc/tell me snip if you can you have so much porn.ogg",length=4.0562358276643993}}
 L["that"]={{path="chatsounds/autoadd/misc/that.ogg",length=0.15655328798185941}}
 L["that is the question"]={{path="chatsounds/autoadd/misc/that is the question.ogg",length=1.0637188208616779}}
-L["the"]={{path="chatsounds/autoadd/misc/the/1.ogg",length=0.091201814058956915},{path="chatsounds/autoadd/misc/the/2.ogg",length=0.1408843537414966}}
-L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091201814058956915}}
+L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091201814058956915},{path="chatsounds/autoadd/misc/the/1.ogg",length=0.091201814058956915},{path="chatsounds/autoadd/misc/the/2.ogg",length=0.1408843537414966}}
 L["the2"]={{path="chatsounds/autoadd/misc/the2.ogg",length=0.16600907029478459}}
 L["this was a qdance event"]={{path="chatsounds/autoadd/misc/this was a qdance event.ogg",length=3.0258503401360546}}
 L["thud"]={{path="chatsounds/autoadd/misc/thud.ogg",length=12.774716553287982}}

@@ -69,8 +69,7 @@ L["science in action"]={{path="chatsounds/autoadd/dota2/science in action.ogg",l
 L["seek the heat"]={{path="chatsounds/autoadd/dota2/seek the heat.ogg",length=1.8949433106575964}}
 L["shitty wizard"]={{path="chatsounds/autoadd/dota2/shitty wizard.ogg",length=1.7382086167800455}}
 L["shrapnel"]={{path="chatsounds/autoadd/dota2/shrapnel.ogg",length=1.1112698412698412}}
-L["silence"]={{path="chatsounds/autoadd/dota2/silence/Dro_ability_01.ogg",length=2.3792743764172335},{path="chatsounds/autoadd/dota2/silence/Dro_ability_06.ogg",length=2.4576417233560091}}
-L["silence"]={{path="chatsounds/autoadd/dota2/silence.ogg",length=1.0458956916099773}}
+L["silence"]={{path="chatsounds/autoadd/dota2/silence.ogg",length=1.0458956916099773},{path="chatsounds/autoadd/dota2/silence/Dro_ability_01.ogg",length=2.3792743764172335},{path="chatsounds/autoadd/dota2/silence/Dro_ability_06.ogg",length=2.4576417233560091}}
 L["silence afflict thee"]={{path="chatsounds/autoadd/dota2/silence afflict thee.ogg",length=2.1180498866213151}}
 L["silence all"]={{path="chatsounds/autoadd/dota2/silence all.ogg",length=2.1441723356009068}}
 L["silence seal you"]={{path="chatsounds/autoadd/dota2/silence seal you.ogg",length=2.3531519274376418}}

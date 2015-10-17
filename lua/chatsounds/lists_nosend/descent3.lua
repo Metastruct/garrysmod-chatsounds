@@ -21,10 +21,8 @@ L["change primary"]={{path="chatsounds/autoadd/descent3/change primary.ogg",leng
 L["change secondary"]={{path="chatsounds/autoadd/descent3/change secondary.ogg",length=2.0020861678004533}}
 L["cheater"]={{path="chatsounds/autoadd/descent3/cheater.ogg",length=1.3352380952380953}}
 L["clang"]={{path="chatsounds/autoadd/descent3/clang/tear01.ogg",length=0.47990929705215418},{path="chatsounds/autoadd/descent3/clang/tear02.ogg",length=0.69673469387755105}}
-L["cloak off"]={{path="chatsounds/autoadd/descent3/cloak off/cloakoff.ogg",length=1.4444444444444444}}
-L["cloak off"]={{path="chatsounds/autoadd/descent3/cloak off.ogg",length=2.0684353741496597}}
-L["cloak on"]={{path="chatsounds/autoadd/descent3/cloak on/cloakon.ogg",length=1.0604081632653062}}
-L["cloak on"]={{path="chatsounds/autoadd/descent3/cloak on.ogg",length=1.4986848072562358}}
+L["cloak off"]={{path="chatsounds/autoadd/descent3/cloak off.ogg",length=2.0684353741496597},{path="chatsounds/autoadd/descent3/cloak off/cloakoff.ogg",length=1.4444444444444444}}
+L["cloak on"]={{path="chatsounds/autoadd/descent3/cloak on.ogg",length=1.4986848072562358},{path="chatsounds/autoadd/descent3/cloak on/cloakon.ogg",length=1.0604081632653062}}
 L["collision"]={{path="chatsounds/autoadd/descent3/collision.ogg",length=1.0622675736961451}}
 L["concussion"]={{path="chatsounds/autoadd/descent3/concussion.ogg",length=1.4069387755102041}}
 L["convert"]={{path="chatsounds/autoadd/descent3/convert.ogg",length=1.2481632653061225}}

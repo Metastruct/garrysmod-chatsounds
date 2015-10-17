@@ -83,8 +83,7 @@ L["know"]={{path="chatsounds/autoadd/cdihm_mario/know.ogg",length=0.099342403628
 L["koopa"]={{path="chatsounds/autoadd/cdihm_mario/koopa.ogg",length=0.32442176870748302}}
 L["koopalings"]={{path="chatsounds/autoadd/cdihm_mario/koopalings.ogg",length=0.63616780045351473}}
 L["koopas"]={{path="chatsounds/autoadd/cdihm_mario/koopas.ogg",length=0.70988662131519276}}
-L["look"]={{path="chatsounds/autoadd/cdihm_mario/look/1.ogg",length=0.630907029478458}}
-L["look"]={{path="chatsounds/autoadd/cdihm_mario/look.ogg",length=0.71362811791383218}}
+L["look"]={{path="chatsounds/autoadd/cdihm_mario/look.ogg",length=0.71362811791383218},{path="chatsounds/autoadd/cdihm_mario/look/1.ogg",length=0.630907029478458}}
 L["looks"]={{path="chatsounds/autoadd/cdihm_mario/looks.ogg",length=0.30394557823129253}}
 L["looks kinda peacefull"]={{path="chatsounds/autoadd/cdihm_mario/looks kinda peacefull.ogg",length=1.6480498866213151}}
 L["luigi"]={{path="chatsounds/autoadd/cdihm_mario/luigi/1.ogg",length=0.73852607709750562},{path="chatsounds/autoadd/cdihm_mario/luigi/2.ogg",length=0.72165532879818595},{path="chatsounds/autoadd/cdihm_mario/luigi/3.ogg",length=0.71154195011337873},{path="chatsounds/autoadd/cdihm_mario/luigi/4.ogg",length=0.85768707482993201}}

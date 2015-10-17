@@ -46,8 +46,7 @@ L["strive for"]={{path="chatsounds/autoadd/zelda_cdi_king/strive for.ogg",length
 L["take"]={{path="chatsounds/autoadd/zelda_cdi_king/take.ogg",length=0.14512471655328799}}
 L["the"]={{path="chatsounds/autoadd/zelda_cdi_king/the/the copy.ogg",length=0.11206349206349206},{path="chatsounds/autoadd/zelda_cdi_king/the/the.ogg",length=0.12303854875283447}}
 L["this peace is"]={{path="chatsounds/autoadd/zelda_cdi_king/this peace is.ogg",length=0.65011337868480723}}
-L["to"]={{path="chatsounds/autoadd/zelda_cdi_king/to/to copy.ogg",length=0.15614512471655329},{path="chatsounds/autoadd/zelda_cdi_king/to/to copy1.ogg",length=0.08122448979591837}}
-L["to"]={{path="chatsounds/autoadd/zelda_cdi_king/to.ogg",length=0.14267573696145125}}
+L["to"]={{path="chatsounds/autoadd/zelda_cdi_king/to.ogg",length=0.14267573696145125},{path="chatsounds/autoadd/zelda_cdi_king/to/to copy.ogg",length=0.15614512471655329},{path="chatsounds/autoadd/zelda_cdi_king/to/to copy1.ogg",length=0.08122448979591837}}
 L["triforce"]={{path="chatsounds/autoadd/zelda_cdi_king/triforce.ogg",length=0.55283446712018136}}
 L["true"]={{path="chatsounds/autoadd/zelda_cdi_king/true.ogg",length=0.40000000000000002}}
 L["true warriors"]={{path="chatsounds/autoadd/zelda_cdi_king/true warriors.ogg",length=0.87673469387755099}}

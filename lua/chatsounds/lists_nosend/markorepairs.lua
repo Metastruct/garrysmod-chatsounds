@@ -154,8 +154,7 @@ L["nobody nobody ehm"]={{path="chatsounds/autoadd/markorepairs/nobody nobody ehm
 L["nom nom"]={{path="chatsounds/autoadd/markorepairs/nom nom.ogg",length=0.9462131519274376}}
 L["nom nom nom"]={{path="chatsounds/autoadd/markorepairs/nom nom nom.ogg",length=1.0086167800453514}}
 L["nonono"]={{path="chatsounds/autoadd/markorepairs/nonono.ogg",length=1.1277551020408163}}
-L["noo"]={{path="chatsounds/autoadd/markorepairs/noo.ogg",length=1}}
-L["noo"]={{path="chatsounds/autoadd/markorepairs/noo/noo copy.ogg",length=0.72267573696145126},{path="chatsounds/autoadd/markorepairs/noo/noo.ogg",length=1}}
+L["noo"]={{path="chatsounds/autoadd/markorepairs/noo.ogg",length=1},{path="chatsounds/autoadd/markorepairs/noo/noo copy.ogg",length=0.72267573696145126},{path="chatsounds/autoadd/markorepairs/noo/noo.ogg",length=1}}
 L["noo i"]={{path="chatsounds/autoadd/markorepairs/noo i.ogg",length=1.0118367346938775}}
 L["noonono"]={{path="chatsounds/autoadd/markorepairs/noonono.ogg",length=1.8716099773242629}}
 L["nooo"]={{path="chatsounds/autoadd/markorepairs/nooo.ogg",length=1.1196371882086167}}
@@ -185,8 +184,7 @@ L["power plug"]={{path="chatsounds/autoadd/markorepairs/power plug.ogg",length=1
 L["puhpuhuh"]={{path="chatsounds/autoadd/markorepairs/puhpuhuh.ogg",length=0.94655328798185945}}
 L["push"]={{path="chatsounds/autoadd/markorepairs/push.ogg",length=1.7148526077097506}}
 L["real"]={{path="chatsounds/autoadd/markorepairs/real.ogg",length=0.5}}
-L["real name"]={{path="chatsounds/autoadd/markorepairs/real name/real name copy.ogg",length=1.3257596371882086}}
-L["real name"]={{path="chatsounds/autoadd/markorepairs/real name.ogg",length=0.90235827664399093}}
+L["real name"]={{path="chatsounds/autoadd/markorepairs/real name.ogg",length=0.90235827664399093},{path="chatsounds/autoadd/markorepairs/real name/real name copy.ogg",length=1.3257596371882086}}
 L["reconstructon"]={{path="chatsounds/autoadd/markorepairs/reconstructon.ogg",length=1.3336961451247165}}
 L["room"]={{path="chatsounds/autoadd/markorepairs/room.ogg",length=0.6356462585034014}}
 L["sad tings"]={{path="chatsounds/autoadd/markorepairs/sad tings.ogg",length=1.3482086167800453}}
@@ -235,8 +233,7 @@ L["wish you"]={{path="chatsounds/autoadd/markorepairs/wish you.ogg",length=0.905
 L["word"]={{path="chatsounds/autoadd/markorepairs/word.ogg",length=0.56535147392290253}}
 L["world"]={{path="chatsounds/autoadd/markorepairs/world.ogg",length=0.6167800453514739}}
 L["wot is that"]={{path="chatsounds/autoadd/markorepairs/wot is that.ogg",length=1.2234013605442178}}
-L["yes"]={{path="chatsounds/autoadd/markorepairs/yes/yes.ogg",length=0.60317460317460314},{path="chatsounds/autoadd/markorepairs/yes/yes2.ogg",length=0.42646258503401363}}
-L["yes"]={{path="chatsounds/autoadd/markorepairs/yes.ogg",length=0.75900226757369615}}
+L["yes"]={{path="chatsounds/autoadd/markorepairs/yes.ogg",length=0.75900226757369615},{path="chatsounds/autoadd/markorepairs/yes/yes.ogg",length=0.60317460317460314},{path="chatsounds/autoadd/markorepairs/yes/yes2.ogg",length=0.42646258503401363}}
 L["yes dat my dat my cabin"]={{path="chatsounds/autoadd/markorepairs/yes dat my dat my cabin.ogg",length=2.6354648526077096}}
 L["yes i"]={{path="chatsounds/autoadd/markorepairs/yes i.ogg",length=1.2755555555555556}}
 L["yes i need coffee"]={{path="chatsounds/autoadd/markorepairs/yes i need coffee.ogg",length=2.5336054421768708}}
