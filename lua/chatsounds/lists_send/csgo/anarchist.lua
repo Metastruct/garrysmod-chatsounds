@@ -1623,7 +1623,7 @@ c.StartList("anarchist")
 		},
 	}
 
-	L["the hostages will be sae with me"] = {
+	L["the hostages will be safe with me"] = {
 		{
 			path = "player/vo/anarchist/guardinghostages05.wav",
 			length = 1.8373696145125,
@@ -1805,7 +1805,7 @@ c.StartList("anarchist")
 		},
 	}
 
-	L["youre gonna be okay youre gunna be onay"] = {
+	L["youre gonna be okay youre gonna be okay"] = {
 		{
 			path = "player/vo/anarchist/scaredemote06.wav",
 			length = 1.7476870748299,
