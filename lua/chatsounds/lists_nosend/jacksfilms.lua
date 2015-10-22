@@ -6,6 +6,7 @@ L["awkwardlaugh"]={{path="chatsounds/autoadd/jacksfilms/awkwardlaugh.ogg",length
 L["bad day"]={{path="chatsounds/autoadd/jacksfilms/bad day.ogg",length=0.55725623582766437}}
 L["biches"]={{path="chatsounds/autoadd/jacksfilms/biches.ogg",length=0.61485260770975059}}
 L["blech"]={{path="chatsounds/autoadd/jacksfilms/blech.ogg",length=0.33643990929705214}}
+L["boom roasted"]={{path="chatsounds/autoadd/jacksfilms/boom roasted/boom roasted1.ogg",length=0.61551020408163271},{path="chatsounds/autoadd/jacksfilms/boom roasted/boom roasted2.ogg",length=0.58566893424036282}}
 L["can you not"]={{path="chatsounds/autoadd/jacksfilms/can you not.ogg",length=0.65170068027210881}}
 L["cool cool"]={{path="chatsounds/autoadd/jacksfilms/cool cool/cool cool.ogg",length=0.56349206349206349},{path="chatsounds/autoadd/jacksfilms/cool cool/cool cool2.ogg",length=0.47959183673469385},{path="chatsounds/autoadd/jacksfilms/cool cool/cool cool3.ogg",length=0.7097959183673469}}
 L["fck all of you"]={{path="chatsounds/autoadd/jacksfilms/fck all of you.ogg",length=0.7777097505668934}}
@@ -16,6 +17,7 @@ L["getting paid"]={{path="chatsounds/autoadd/jacksfilms/getting paid.ogg",length
 L["getting paid getting laid and gatorade"]={{path="chatsounds/autoadd/jacksfilms/getting paid getting laid and gatorade.ogg",length=2.0679591836734694}}
 L["its just a prank bro"]={{path="chatsounds/autoadd/jacksfilms/its just a prank bro.ogg",length=1.1429251700680272}}
 L["jackask"]={{path="chatsounds/autoadd/jacksfilms/jackask.ogg",length=1.9887528344671201}}
+L["kidding"]={{path="chatsounds/autoadd/jacksfilms/kidding.ogg",length=0.38893424036281177}}
 L["liurelly"]={{path="chatsounds/autoadd/jacksfilms/liurelly.ogg",length=0.86482993197278912}}
 L["no"]={{path="chatsounds/autoadd/jacksfilms/no.ogg",length=0.6492290249433107}}
 L["no no im not c im not cool with that"]={{path="chatsounds/autoadd/jacksfilms/no no im not c im not cool with that.ogg",length=3.0651020408163263}}
@@ -24,9 +26,11 @@ L["redllwhhhaaach"]={{path="chatsounds/autoadd/jacksfilms/redllwhhhaaach.ogg",le
 L["sampepperbreathing"]={{path="chatsounds/autoadd/jacksfilms/sampepperbreathing.ogg",length=5.3351473922902493}}
 L["screw this"]={{path="chatsounds/autoadd/jacksfilms/screw this.ogg",length=0.85040816326530611}}
 L["screw this no"]={{path="chatsounds/autoadd/jacksfilms/screw this no.ogg",length=1.4764172335600907}}
+L["shut your mouth fatty"]={{path="chatsounds/autoadd/jacksfilms/shut your mouth fatty.ogg",length=0.95210884353741498}}
 L["tatatatatatatata"]={{path="chatsounds/autoadd/jacksfilms/tatatatatatatata.ogg",length=1.6602267573696146}}
 L["thanks dad"]={{path="chatsounds/autoadd/jacksfilms/thanks dad.ogg",length=0.72412698412698417}}
 L["traaash"]={{path="chatsounds/autoadd/jacksfilms/traaash/1.ogg",length=0.96943310657596371},{path="chatsounds/autoadd/jacksfilms/traaash/2.ogg",length=0.78115646258503402},{path="chatsounds/autoadd/jacksfilms/traaash/3.ogg",length=0.98870748299319733}}
+L["uheuh not always"]={{path="chatsounds/autoadd/jacksfilms/uheuh not always.ogg",length=1.1615873015873015}}
 L["what"]={{path="chatsounds/autoadd/jacksfilms/what.ogg",length=0.74419501133786847}}
 L["what no no im not c im not cool with that screw this screw this no im done"]={{path="chatsounds/autoadd/jacksfilms/what no no im not c im not cool with that screw this screw this no im done.ogg",length=6.8545804988662136}}
 L["what the fck"]={{path="chatsounds/autoadd/jacksfilms/what the fck.ogg",length=0.85857142857142854}}
