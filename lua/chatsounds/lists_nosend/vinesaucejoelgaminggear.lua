@@ -35,7 +35,7 @@ L["this video"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/this video.og
 L["who the fuck smiles at themself in their reflection"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/who the fuck smiles at themself in their reflection.ogg",length=2.25297052154195}}
 L["why are you watching this"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/why are you watching this.ogg",length=1.604013605442177}}
 L["whyy"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/whyy.ogg",length=0.44437641723356008}}
-L["yeah more like youre hook on drugs you fuck"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/yeah more like youre hook on drugs you fuck.ogg",length=1.9274376417233561}}
+L["yeah more like youre hooked on drugs you fuck"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/yeah more like youre hooked on drugs you fuck.ogg",length=1.9274376417233561}}
 L["yknow what"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/yknow what.ogg",length=0.49256235827664396}}
 L["you blew it"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/you blew it.ogg",length=0.53217687074829934}}
 L["you ffffuck"]={{path="chatsounds/autoadd/vinesaucejoelgaminggear/you ffffuck.ogg",length=0.94383219954648523}}
