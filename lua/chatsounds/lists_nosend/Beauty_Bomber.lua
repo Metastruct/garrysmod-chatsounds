@@ -42,6 +42,7 @@ L["squiddyg"]={{path="chatsounds/autoadd/Beauty_Bomber/squiddyg.ogg",length=61.0
 L["stop it ron stop"]={{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/1.ogg",length=2.1699999999999999},{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/2.ogg",length=1.15140589569161},{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/3.ogg",length=1.1100000000000001}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/Beauty_Bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.9000000000000004}}
 L["theatreland"]={{path="chatsounds/autoadd/Beauty_Bomber/theatreland.ogg",length=27.813242630385488}}
+L["wilsooooon"]={{path="chatsounds/autoadd/Beauty_Bomber/wilsooooon/1.ogg",length=4.2000000000000002},{path="chatsounds/autoadd/Beauty_Bomber/wilsooooon/2.ogg",length=1.5248526077097506}}
 L["wotwtripod"]={{path="chatsounds/autoadd/Beauty_Bomber/wotwtripod.ogg",length=9.06562358276644}}
 L["youre an inanimate fucking object"]={{path="chatsounds/autoadd/Beauty_Bomber/youre an inanimate fucking object.ogg",length=2.1220181405895691}}
 c.EndList()
