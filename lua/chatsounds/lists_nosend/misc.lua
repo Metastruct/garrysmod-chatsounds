@@ -80,6 +80,7 @@ L["rockthecasbah"]={{path="chatsounds/autoadd/misc/rockthecasbah.ogg",length=7.4
 L["san andreas"]={{path="chatsounds/autoadd/misc/san andreas.ogg",length=77.18426303854875}}
 L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.7719274376417233}}
 L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.5198412698412707}}
+L["she succ me"]={{path="chatsounds/autoadd/misc/she succ me.ogg",length=12.260136054421769}}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.1434920634920633}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.435736961451248}}
 L["tell me snip if you can you have so much porn"]={{path="chatsounds/autoadd/misc/tell me snip if you can you have so much porn.ogg",length=4.0562358276643993}}
@@ -105,5 +106,6 @@ L["wlm"]={{path="chatsounds/autoadd/misc/wlm.ogg",length=0.64557823129251701}}
 L["wowwow"]={{path="chatsounds/autoadd/misc/wowwow.ogg",length=1.7647165532879818}}
 L["wtf"]={{path="chatsounds/autoadd/misc/wtf/wtf 2.ogg",length=1.1052154195011339},{path="chatsounds/autoadd/misc/wtf/wtf 3.ogg",length=0.99011337868480731},{path="chatsounds/autoadd/misc/wtf/wtf.ogg",length=0.92882086167800448}}
 L["yes yes"]={{path="chatsounds/autoadd/misc/yes yes.ogg",length=4.7855102040816329}}
+L["you belong in a garbage can"]={{path="chatsounds/autoadd/misc/you belong in a garbage can.ogg",length=2.1436961451247165}}
 L["you havent seen the last of"]={{path="chatsounds/autoadd/misc/you havent seen the last of.ogg",length=1.5292290249433107}}
 c.EndList()
