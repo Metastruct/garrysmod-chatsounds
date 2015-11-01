@@ -87,6 +87,7 @@ L["scared"]={{path="chatsounds/autoadd/techbot/scared.ogg",length=2.314739229024
 L["seriously do it"]={{path="chatsounds/autoadd/techbot/seriously do it.ogg",length=2.0302947845804988}}
 L["shish"]={{path="chatsounds/autoadd/techbot/shish.ogg",length=0.5}}
 L["skrillfeld"]={{path="chatsounds/autoadd/techbot/skrillfeld.ogg",length=2.4569614512471656}}
+L["sniperwhisp"]={{path="chatsounds/autoadd/techbot/sniperwhisp.ogg",length=6.3180272108843534}}
 L["snort"]={{path="chatsounds/autoadd/techbot/snort/snort.ogg",length=0.1982766439909297},{path="chatsounds/autoadd/techbot/snort/snort2.ogg",length=0.20172335600907029}}
 L["spaceship"]={{path="chatsounds/autoadd/techbot/spaceship.ogg",length=2.1797732426303855}}
 L["subaluwa"]={{path="chatsounds/autoadd/techbot/subaluwa.ogg",length=0.98539682539682538}}
