@@ -61,7 +61,7 @@ function chatsounds.UpdateNotify()
 		local old_rev = tostring(chatsounds.GetLocalVersion())
 		local new_rev = tostring(chatsounds.GetLiveVersion())
 		local path = string.match(debug.getinfo(1, "S").short_src, "^(addons/.-/)")
-			  path = string.sub(path, 1, -2)
+		
 		local red = Color(255,0,0)
 		local white = Color(255,255,255)
 		local blue = Color(120,120,255)
@@ -69,7 +69,12 @@ function chatsounds.UpdateNotify()
 			"There is a new version available!")
 		chat.AddText(white, "Your Version: ", blue, old_rev, white,
 			"  New Version: ", blue, new_rev)
-		chat.AddText(white, "Please update your ", blue, path, white, " folder!")
+			
+		if isstring(path) then
+			chat.AddText(white, "Please update your ", blue, string.sub(path, 1, -2), white, " folder!")
+		else
+			chat.AddText(white, "Please update your garrysmod-chatsounds!")
+		end
 	end
 end
 
