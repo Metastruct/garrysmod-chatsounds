@@ -166,6 +166,13 @@ c.StartList("table: 0x45503cc8")
 			length = 36.087001800537,
 		},
 	}
+	
+	L["gamestartuphalloween1"] = {
+		{
+			path = "ui/holiday/gamestartup_halloween1.mp3",
+			length = 62.539951324463,
+		},
+	}
 
 	L["itemknifesmallpickup"] = {
 		{
@@ -989,6 +996,26 @@ c.StartList("table: 0x45503cc8")
 		{
 			path = "ui/gamestartup19.mp3",
 			length = 58.250221252441,
+		},
+		{
+			path = "ui/gamestartup20.mp3",
+			length = 51.365749359131,
+		},
+		{
+			path = "ui/gamestartup21.mp3",
+			length = 35.21605682373,
+		},
+		{
+			path = "ui/gamestartup22.mp3",
+			length = 42.007915496826,
+		},
+		{
+			path = "ui/gamestartup23.mp3",
+			length = 64.761123657227,
+		},
+		{
+			path = "ui/gamestartup24.mp3",
+			length = 30.072750091553,
 		},
 	}
 
