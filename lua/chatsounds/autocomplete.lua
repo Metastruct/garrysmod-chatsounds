@@ -142,7 +142,7 @@ function ac.render(x, y, w, h)
 
 	if ac.tabbed then
 		ac.scroll = ac.scroll + ac.scroll_velocity
-		ac.scroll_velocity = (ac.scroll_velocity + (ac.tabbed - ac.scroll) * FrameTime() * 10) * 0.75
+		ac.scroll_velocity = (ac.scroll_velocity + (ac.tabbed - ac.scroll) * FrameTime() * 8) * 0.5
 	end
 
 	local max_lines = math.floor((h - ac.margin * 2) / ac.size)
