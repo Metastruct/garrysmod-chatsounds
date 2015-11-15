@@ -5560,7 +5560,7 @@ c.StartList("table: 0x3e9eb020")
 		},
 	}
 
-	L["explosion"] = {
+	L["explosionsound"] = {
 		{
 			path = "npc/env_headcrabcanister/explosion.wav",
 			length = 7.6625850340136,
@@ -5619,7 +5619,7 @@ c.StartList("table: 0x3e9eb020")
 		},
 	}
 
-	L["breathing"] = {
+	L["breathingsound"] = {
 		{
 			path = "npc/infected/idle/breathing/breathing01.wav",
 			length = 1.8375963718821,
@@ -5695,7 +5695,7 @@ c.StartList("table: 0x3e9eb020")
 		},
 	}
 
-	L["confused"] = {
+	L["antlionconfused"] = {
 		{
 			path = "npc/antlion_guard/confused1.wav",
 			length = 2.5309297052154,
