@@ -24,7 +24,7 @@ L["noooooooooooooooo"]={{path="chatsounds/autoadd/saxton_hale/noooooooooooooooo/
 L["oh im gonna beat the living hell out of him"]={{path="chatsounds/autoadd/saxton_hale/oh im gonna beat the living hell out of him.ogg",length=2.8905215419501133}}
 L["patchouli oil entitlement poster board glue smooth hands hippies"]={{path="chatsounds/autoadd/saxton_hale/patchouli oil entitlement poster board glue smooth hands hippies.ogg",length=7.2882539682539687}}
 L["property damage"]={{path="chatsounds/autoadd/saxton_hale/property damage.ogg",length=2.2901587301587303}}
-L["reader if you thought the first two pages of my comic contained too much bare knuckled excitement then get ready to have your eyes break from widening in surprise and your comic holding hands fall off your very arms when you get a look at the rest of the action packed ish starring me"]={{path="chatsounds/autoadd/saxton_hale/reader.ogg",length=16.504852607709751}}
+L["reader"]={{path="chatsounds/autoadd/saxton_hale/reader.ogg",length=16.504852607709751}}
 L["reading books wont win you fights fists do"]={{path="chatsounds/autoadd/saxton_hale/reading books wont win you fights fists do.ogg",length=3.7914285714285714}}
 L["real men fight they dont heal"]={{path="chatsounds/autoadd/saxton_hale/real men fight they dont heal.ogg",length=2.5770521541950115}}
 L["saxton haaaaaaaaaale"]={{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaale/saxton_hale_responce_rage1.ogg",length=2.3485714285714288},{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaale/saxton_hale_responce_rage3.ogg",length=3.866122448979592},{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaale/saxton_hale_responce_rage4.ogg",length=4.013786848072562}}
