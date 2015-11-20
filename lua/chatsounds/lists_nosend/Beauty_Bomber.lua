@@ -6,6 +6,7 @@ L["bayonettacontinueno"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettaconti
 L["bayonettacontinuenodeath"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettacontinuenodeath.ogg",length=4.5848299319727888}}
 L["bayonettacontinueyes"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettacontinueyes.ogg",length=4.983605442176871}}
 L["bayonettagameover"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettagameover.ogg",length=8.7903174603174605}}
+L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettascarboroughfairequipped.ogg",length=25.102585034013604}}
 L["beauty bomber"]={{path="chatsounds/autoadd/Beauty_Bomber/beauty bomber.ogg",length=0.94040816326530607}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/Beauty_Bomber/dontloseyourway.ogg",length=35.899999999999999}}
 L["gordon you must get out of here runrunrunrunrunrunrunrun"]={{path="chatsounds/autoadd/Beauty_Bomber/gordon you must get out of here runrunrunrunrunrunrunrun.ogg",length=5.2999999999999998}}
