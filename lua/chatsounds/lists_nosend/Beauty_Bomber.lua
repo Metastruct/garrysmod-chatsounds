@@ -1,4 +1,5 @@
 c.StartList("Beauty_Bomber")
+L["a bunch of baby ducks send them to the moon"]={{path="chatsounds/autoadd/Beauty_Bomber/a bunch of baby ducks send them to the moon.ogg",length=2.6945124716553286}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/Beauty_Bomber/ack ook ich ach bluah.ogg",length=2}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/1.ogg",length=3},{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/2.ogg",length=3},{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/3.ogg",length=2.6200000000000001},{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/4.ogg",length=1.9129931972789116}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/Beauty_Bomber/awesome mmm bye.ogg",length=6.5009977324263035}}
@@ -39,6 +40,7 @@ L["penis"]={{path="chatsounds/autoadd/Beauty_Bomber/penis.ogg",length=0.90000000
 L["ronald weasley"]={{path="chatsounds/autoadd/Beauty_Bomber/ronald weasley.ogg",length=2}}
 L["smashing"]={{path="chatsounds/autoadd/Beauty_Bomber/smashing.ogg",length=1.5571428571428572}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/Beauty_Bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.96}}
+L["soda machine that doesnt work send them to the moon"]={{path="chatsounds/autoadd/Beauty_Bomber/soda machine that doesnt work send them to the moon.ogg",length=2.8549886621315195}}
 L["squiddyg"]={{path="chatsounds/autoadd/Beauty_Bomber/squiddyg.ogg",length=61.085850340136055}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/1.ogg",length=2.1699999999999999},{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/2.ogg",length=1.15140589569161},{path="chatsounds/autoadd/Beauty_Bomber/stop it ron stop/3.ogg",length=1.1100000000000001}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/Beauty_Bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.9000000000000004}}
