@@ -33,6 +33,7 @@ L["elmos world"]={{path="chatsounds/autoadd/misc/elmos world.ogg",length=30.8647
 L["facebook"]={{path="chatsounds/autoadd/misc/facebook.ogg",length=0.95201814058956913}}
 L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.66208616780045348}}
 L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.48594104308390024}}
+L["get fucked"]={{path="chatsounds/autoadd/misc/get fucked.ogg",length=0.91621315192743769}}
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.36623582766439911}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.8731292517006803}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.3156689342403629}}
