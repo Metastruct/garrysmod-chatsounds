@@ -1,4 +1,5 @@
 c.StartList("Beauty_Bomber")
+L["7thelementfadeout"]={{path="chatsounds/autoadd/Beauty_Bomber/7thelementfadeout.ogg",length=24.906938775510206}}
 L["a bunch of baby ducks send them to the moon"]={{path="chatsounds/autoadd/Beauty_Bomber/a bunch of baby ducks send them to the moon.ogg",length=2.6945124716553286}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/Beauty_Bomber/ack ook ich ach bluah.ogg",length=2}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/1.ogg",length=3},{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/2.ogg",length=3},{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/3.ogg",length=2.6200000000000001},{path="chatsounds/autoadd/Beauty_Bomber/aha wingardium leviosaaa/4.ogg",length=1.9129931972789116}}
@@ -9,6 +10,7 @@ L["bayonettacontinueyes"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettacont
 L["bayonettagameover"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettagameover.ogg",length=8.7903174603174605}}
 L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/Beauty_Bomber/bayonettascarboroughfairequipped.ogg",length=25.102585034013604}}
 L["beauty bomber"]={{path="chatsounds/autoadd/Beauty_Bomber/beauty bomber.ogg",length=0.94040816326530607}}
+L["chandra brambra chandra chandra bendram"]={{path="chatsounds/autoadd/Beauty_Bomber/chandra brambra chandra chandra bendram/1.ogg",length=7.4000000000000004},{path="chatsounds/autoadd/Beauty_Bomber/chandra brambra chandra chandra bendram/2.ogg",length=7.2000000000000002}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/Beauty_Bomber/dontloseyourway.ogg",length=35.899999999999999}}
 L["gordon you must get out of here runrunrunrunrunrunrunrun"]={{path="chatsounds/autoadd/Beauty_Bomber/gordon you must get out of here runrunrunrunrunrunrunrun.ogg",length=5.2999999999999998}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/Beauty_Bomber/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}
