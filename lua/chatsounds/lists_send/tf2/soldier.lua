@@ -2379,10 +2379,45 @@ c.StartList("soldier")
 		},
 	}
 
-	L["scout laugh short"] = {
+	L["soldier laugh short"] = {
 		{
 			path = "vo/soldier_laughshort04.mp3",
 			length = 1.0797278911565,
+		},
+	}
+
+	L["dominated call me later we can talk about our day"] = {
+		{
+			path = "vo/soldier_dominationdemonmanupdate01.mp3",
+			length = 1.1994999647141,
+		},
+	}
+
+	L["dominated boy i have something i want to tell you about the engineer call me later pal"] = {
+		{
+			path = "vo/soldier_dominationdemonmanupdate02.mp3",
+			length = 1.3341428041458,
+		},
+	}
+
+	L["dominated i cherish these moments we spend together"] = {
+		{
+			path = "vo/soldier_dominationdemonmanupdate03.mp3",
+			length = 11.546500205994,
+		},
+	}
+
+	L["dominated im still your friend"] = {
+		{
+			path = "vo/soldier_dominationdemonmanupdate04.mp3",
+			length = 0.90343749523163,
+		},
+	}
+
+	L["dominated ill see you in hell bye see you soon"] = {
+		{
+			path = "vo/soldier_dominationdemonmanupdate05.mp3",
+			length = 1.5564999580383,
 		},
 	}
 c.EndList()
