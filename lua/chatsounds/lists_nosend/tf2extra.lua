@@ -8,6 +8,7 @@ L["but im very certain"]={{path="chatsounds/autoadd/tf2extra/but im very certain
 L["but it was then"]={{path="chatsounds/autoadd/tf2extra/but it was then.ogg",length=0.7256235827664399}}
 L["cant seem"]={{path="chatsounds/autoadd/tf2extra/cant seem.ogg",length=1.0799773242630386}}
 L["capdevelopatre"]={{path="chatsounds/autoadd/tf2extra/capdevelopatre.ogg",length=0.74367346938775514}}
+L["capsaicin"]={{path="chatsounds/autoadd/tf2extra/capsaicin.ogg",length=0.96934240362811797}}
 L["capuccino"]={{path="chatsounds/autoadd/tf2extra/capuccino.ogg",length=1.2090702947845804}}
 L["cream bacon"]={{path="chatsounds/autoadd/tf2extra/cream bacon.ogg",length=0.94231292517006804}}
 L["cupcake"]={{path="chatsounds/autoadd/tf2extra/cupcake.ogg",length=0.53775510204081634}}
