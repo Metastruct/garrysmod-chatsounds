@@ -1433,4 +1433,46 @@ c.StartList("demoman")
 			length = 0.46149659863946,
 		},
 	}
+
+	L["dominated but youre a good man and i love ya"] = {
+		{
+			path = "vo/demoman_dominationsoldierupdate01.mp3",
+			length = 1.216916680336,
+		},
+	}
+
+	L["everybody i dont like this man he is a soulless monster i do like you its just for show"] = {
+		{
+			path = "vo/demoman_dominationsoldierupdate02.mp3",
+			length = 2.3314790725708,
+		},
+	}
+
+	L["dominated but youre still me best mate heh"] = {
+		{
+			path = "vo/demoman_dominationsoldierupdate03.mp3",
+			length = 1.4346041679382,
+		},
+	}
+
+	L["dominated but i treasure your friendship"] = {
+		{
+			path = "vo/demoman_dominationsoldierupdate04.mp3",
+			length = 1.1211249828339,
+		},
+	}
+
+	L["dominated you are okay though right lad"] = {
+		{
+			path = "vo/demoman_dominationsoldierupdate05.mp3",
+			length = 1.3301041126251,
+		},
+	}
+
+	L["my greatest enemy is dead we should be friends forever eh"] = {
+		{
+			path = "vo/demoman_dominationsoldierupdate06.mp3",
+			length = 2.0753333568573,
+		},
+	}
 c.EndList()
