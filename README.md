@@ -10,7 +10,7 @@ Chat sounds system for Garry's Mod (with extra sounds)
   - To see if you installed it correctly, you should now have ```garrysmod/addons/chatsounds/lua``` folder
 
 ### How to install (alternative)
- - Install a git client (tortoise git https://tortoisegit.org or github client https://windows.github.com ) 
+ - Install a git client (tortoise git https://tortoisegit.org or github client https://desktop.github.com ) 
  - Git clone: https://github.com/Metastruct/garrysmod-chatsounds.git
   - Save to ```garrysmod/addons/chatsounds```
   - To see if you installed it correctly, you should now have ```garrysmod/addons/chatsounds/lua``` folder
