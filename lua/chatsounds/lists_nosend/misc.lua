@@ -29,6 +29,7 @@ L["dialup1"]={{path="chatsounds/autoadd/misc/dialup1.ogg",length=25.628684807256
 L["die waffen legt an"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.3697959183673469}}
 L["doom1"]={{path="chatsounds/autoadd/misc/doom1.ogg",length=16.377777777777776}}
 L["doom2"]={{path="chatsounds/autoadd/misc/doom2.ogg",length=18.695102040816327}}
+L["ea sucks big cock"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.3697959183673469}}
 L["elmos world"]={{path="chatsounds/autoadd/misc/elmos world.ogg",length=30.864739229024945}}
 L["facebook"]={{path="chatsounds/autoadd/misc/facebook.ogg",length=0.95201814058956913}}
 L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.66208616780045348}}
