@@ -67,6 +67,7 @@ L["that that you let a penis penetrate your friendship penis"]={{path="chatsound
 L["thats enough"]={{path="chatsounds/autoadd/Beauty_Bomber/thats enough.ogg",length=0.73099773242630384}}
 L["theatreland"]={{path="chatsounds/autoadd/Beauty_Bomber/theatreland.ogg",length=27.813242630385488}}
 L["thick cooking oil"]={{path="chatsounds/autoadd/Beauty_Bomber/thick cooking oil.ogg",length=1.3999999999999999}}
+L["wake me up inside"]={{path="chatsounds/autoadd/Beauty_Bomber/wake me up inside.ogg",length=21.981995464852609}}
 L["who put you on the planet"]={{path="chatsounds/autoadd/Beauty_Bomber/who put you on the planet/1.ogg",length=2.4715873015873018},{path="chatsounds/autoadd/Beauty_Bomber/who put you on the planet/2.ogg",length=2.8089569160997732}}
 L["wilsooooon"]={{path="chatsounds/autoadd/Beauty_Bomber/wilsooooon/1.ogg",length=4.2000000000000002},{path="chatsounds/autoadd/Beauty_Bomber/wilsooooon/2.ogg",length=1.5248526077097506}}
 L["woodyscream"]={{path="chatsounds/autoadd/Beauty_Bomber/woodyscream.ogg",length=0.47854875283446713}}
