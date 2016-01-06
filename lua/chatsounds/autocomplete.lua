@@ -259,7 +259,7 @@ else
 	end)
 end]]
 
-hook.Add("PostRenderVGUI", "chatsounds_autocomplete", function()
+hook.Add("HUDPaintBackground", "chatsounds_autocomplete", function()
 	if ac.visible() then
 		local x, y, w, h
 
