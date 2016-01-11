@@ -59,10 +59,12 @@ L["nightistandsad"]={{path="chatsounds/autoadd/Beauty_Bomber/nightistandsad.ogg"
 L["no this is patrick"]={{path="chatsounds/autoadd/Beauty_Bomber/no this is patrick/1.ogg",length=1.46},{path="chatsounds/autoadd/Beauty_Bomber/no this is patrick/2.ogg",length=2.6146258503401358},{path="chatsounds/autoadd/Beauty_Bomber/no this is patrick/3.ogg",length=3.0586167800453516}}
 L["oh get out get out look what youve done"]={{path="chatsounds/autoadd/Beauty_Bomber/oh get out get out look what youve done.ogg",length=3.0429931972789115}}
 L["ok mum ok dont worry about it"]={{path="chatsounds/autoadd/Beauty_Bomber/ok mum ok dont worry about it.ogg",length=3.0894784580498866}}
+L["oohh yyeess"]={{path="chatsounds/autoadd/Beauty_Bomber/oohh yyeess.ogg",length=4.2739229024943315}}
 L["overtime"]={{path="chatsounds/autoadd/Beauty_Bomber/overtime.ogg",length=1.3609750566893424}}
 L["penis"]={{path="chatsounds/autoadd/Beauty_Bomber/penis.ogg",length=0.90000000000000002}}
 L["plums"]={{path="chatsounds/autoadd/Beauty_Bomber/plums.ogg",length=0.5}}
 L["really good"]={{path="chatsounds/autoadd/Beauty_Bomber/really good.ogg",length=1}}
+L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/Beauty_Bomber/robotic yeeaaahhhh.ogg",length=1.0303854875283447}}
 L["ronald weasley"]={{path="chatsounds/autoadd/Beauty_Bomber/ronald weasley.ogg",length=2}}
 L["she looked like she had never seen anything quite so horrible in all her life"]={{path="chatsounds/autoadd/Beauty_Bomber/she looked like she had never seen anything quite so horrible in all her life.ogg",length=6.3990249433106579}}
 L["she was watching me"]={{path="chatsounds/autoadd/Beauty_Bomber/she was watching me.ogg",length=1.5865532879818594}}
@@ -79,10 +81,13 @@ L["thats really dangerous you know"]={{path="chatsounds/autoadd/Beauty_Bomber/th
 L["theatreland"]={{path="chatsounds/autoadd/Beauty_Bomber/theatreland.ogg",length=27.813242630385488}}
 L["thick cooking oil"]={{path="chatsounds/autoadd/Beauty_Bomber/thick cooking oil.ogg",length=1.3999999999999999}}
 L["wake me up inside"]={{path="chatsounds/autoadd/Beauty_Bomber/wake me up inside.ogg",length=21.981995464852609}}
+L["wha you cant do this to me"]={{path="chatsounds/autoadd/Beauty_Bomber/wha you cant do this to me.ogg",length=1.8403854875283447}}
 L["who put you on the planet"]={{path="chatsounds/autoadd/Beauty_Bomber/who put you on the planet/1.ogg",length=2.4715873015873018},{path="chatsounds/autoadd/Beauty_Bomber/who put you on the planet/2.ogg",length=2.8089569160997732}}
 L["wilsooooon"]={{path="chatsounds/autoadd/Beauty_Bomber/wilsooooon/1.ogg",length=4.2000000000000002},{path="chatsounds/autoadd/Beauty_Bomber/wilsooooon/2.ogg",length=1.5248526077097506}}
 L["woodyscream"]={{path="chatsounds/autoadd/Beauty_Bomber/woodyscream.ogg",length=0.47854875283446713}}
 L["wotwtripod"]={{path="chatsounds/autoadd/Beauty_Bomber/wotwtripod.ogg",length=9.06562358276644}}
+L["yeeaaahhhh"]={{path="chatsounds/autoadd/Beauty_Bomber/yeeaaahhhh.ogg",length=0.87074829931972786}}
+L["you know how much i sacrificed"]={{path="chatsounds/autoadd/Beauty_Bomber/you know how much i sacrificed.ogg",length=2.0765986394557823}}
 L["youre an inanimate fucking object"]={{path="chatsounds/autoadd/Beauty_Bomber/youre an inanimate fucking object.ogg",length=2.1220181405895691}}
 L["youre right quite right"]={{path="chatsounds/autoadd/Beauty_Bomber/youre right quite right.ogg",length=2.0090022675736963}}
 c.EndList()
