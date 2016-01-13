@@ -37,6 +37,7 @@ L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.og
 L["come on you youre going to have to sit in the dunce chair"]={{path="chatsounds/autoadd/verbalsilence/come on you youre going to have to sit in the dunce chair.ogg",length=3.0021995464852607}}
 L["congratulations bitch"]={{path="chatsounds/autoadd/verbalsilence/congratulations bitch.ogg",length=1.9536281179138322}}
 L["cool guuy"]={{path="chatsounds/autoadd/verbalsilence/cool guuy.ogg",length=2.505238095238095}}
+L["da fuck"]={{path="chatsounds/autoadd/verbalsilence/da fuck.ogg",length=0.5442630385487528}}
 L["daddy would you like some sausage"]={{path="chatsounds/autoadd/verbalsilence/daddy would you like some sausage.ogg",length=8.5559183673469388}}
 L["damn son whered you find this"]={{path="chatsounds/autoadd/verbalsilence/damn son whered you find this.ogg",length=2.5338775510204083}}
 L["dats sexy"]={{path="chatsounds/autoadd/verbalsilence/dats sexy.ogg",length=1.3155102040816327}}
@@ -204,6 +205,7 @@ L["thats a huge bitch"]={{path="chatsounds/autoadd/verbalsilence/thats a huge bi
 L["thats all for now"]={{path="chatsounds/autoadd/verbalsilence/thats all for now.ogg",length=0.74294784580498863}}
 L["thats enough python"]={{path="chatsounds/autoadd/verbalsilence/thats enough python.ogg",length=1.364829931972789}}
 L["the best kind of correct"]={{path="chatsounds/autoadd/verbalsilence/the best kind of correct.ogg",length=1.6212698412698412}}
+L["the fuck"]={{path="chatsounds/autoadd/verbalsilence/the fuck.ogg",length=0.5442630385487528}}
 L["they cant have my brand"]={{path="chatsounds/autoadd/verbalsilence/they cant have my brand.ogg",length=1.7503628117913832}}
 L["they played us like a damn fiddle"]={{path="chatsounds/autoadd/verbalsilence/they played us like a damn fiddle.ogg",length=2.5128798185941044}}
 L["thinking of yous working up my appetite looking foward to a little afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/thinking of yous working up my appetite looking foward to a little afternoon delight.ogg",length=6.068253968253968}}
@@ -219,6 +221,7 @@ L["watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/watch your pr
 L["welaaaax"]={{path="chatsounds/autoadd/verbalsilence/welaaaax.ogg",length=1.8667573696145126}}
 L["welaax"]={{path="chatsounds/autoadd/verbalsilence/welaax.ogg",length=1.3658503401360544}}
 L["welax"]={{path="chatsounds/autoadd/verbalsilence/welax.ogg",length=0.70988662131519276}}
+L["well were waiting"]={{path="chatsounds/autoadd/verbalsilence/well were waiting.ogg",length=3.1261904761904762}}
 L["what did you call me"]={{path="chatsounds/autoadd/verbalsilence/what did you call me.ogg",length=1.5342630385487528}}
 L["what do you like to play"]={{path="chatsounds/autoadd/verbalsilence/what do you like to play.ogg",length=1.6752834467120181}}
 L["what rules"]={{path="chatsounds/autoadd/verbalsilence/what rules.ogg",length=0.92120181405895696}}
