@@ -14,7 +14,7 @@ L["never give up never surrender"]={{path="chatsounds/autoadd/djkhaled/never giv
 L["put this money in your savings account"]={{path="chatsounds/autoadd/djkhaled/put this money in your savings account.ogg",length=1.9227437641723355}}
 L["say my name baby"]={{path="chatsounds/autoadd/djkhaled/say my name baby/say my name baby 1.ogg",length=1.576938775510204},{path="chatsounds/autoadd/djkhaled/say my name baby/say my name baby 2.ogg",length=1.7844444444444445}}
 L["thats right baby you remember that"]={{path="chatsounds/autoadd/djkhaled/thats right baby you remember that.ogg",length=2.5037414965986393}}
-L["them doors that was closed i ripped the doors off and took the hinges off then i put the hinges in the fucc bois hands"]={{path="chatsounds/autoadd/djkhaled/them doors that was closed i ripped the doors off and took the hinges off then i put the hinges in the fucc bois hands.ogg",length=9.4693877551020407}}
+L["them doors that was closed i ripped the hinges off then i put the hinges in the fucc bois hands"]={{path="chatsounds/autoadd/djkhaled/them doors that was closed i ripped the hinges off then i put the hinges in the fucc bois hands.ogg",length=9.4693877551020407}}
 L["this next part of the video is for when youre doing pushups or youre doing situps"]={{path="chatsounds/autoadd/djkhaled/this next part of the video is for when youre doing pushups or youre doing situps.ogg",length=4.2890702947845805}}
 L["we da bes"]={{path="chatsounds/autoadd/djkhaled/we da bes.ogg",length=1.3229251700680271}}
 L["whatever lets get it"]={{path="chatsounds/autoadd/djkhaled/whatever lets get it.ogg",length=1.6849886621315193}}
