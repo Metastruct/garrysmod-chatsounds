@@ -291,7 +291,7 @@ function chatsounds.InitializeLists(force)
 		
 		for _, list in pairs(dir) do
 			yieldx(inco,5,"1")
-			if not file.Exists("chatsounds/lists_nosend/" .. list .. ".lua", "LCL") then
+			if not file.Exists("chatsounds/lists_nosend/" .. list .. ".lua", "LUA") then
 				if list:Left(2) == "__" then continue end
 				c.StartList(list)
 					list = list .. "/"
@@ -321,7 +321,7 @@ function chatsounds.InitializeLists(force)
 		
 
 	_G.c = chatsounds
-		local files, folders = file.Find("chatsounds/lists_send/*", "LCL")
+		local files, folders = file.Find("chatsounds/lists_send/*", "LUA")
 		for _, game in pairs(folders) do
 			if not game:find("%.") then
 					
@@ -331,7 +331,7 @@ function chatsounds.InitializeLists(force)
 				end
 			end
 		end
-		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LCL")) do
+		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LUA")) do
 			include("chatsounds/lists_nosend/" .. set)
 			yieldx(inco,10,"3")
 		end
