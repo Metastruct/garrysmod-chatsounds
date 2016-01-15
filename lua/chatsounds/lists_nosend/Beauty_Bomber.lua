@@ -13,6 +13,7 @@ L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/Beauty_Bomber/b
 L["beauty bomber"]={{path="chatsounds/autoadd/Beauty_Bomber/beauty bomber.ogg",length=0.94040816326530607}}
 L["booiiiiiinnnnggg"]={{path="chatsounds/autoadd/Beauty_Bomber/booiiiiiinnnnggg.ogg",length=1}}
 L["breathing in pizza"]={{path="chatsounds/autoadd/Beauty_Bomber/breathing in pizza.ogg",length=1.6394331065759638}}
+L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/Beauty_Bomber/but grandma shouldnt talk that way.ogg",length=1.84578231292517}}
 L["can i have a driiiiiiink"]={{path="chatsounds/autoadd/Beauty_Bomber/can i have a driiiiiiink.ogg",length=1.9604308390022676}}
 L["chandra brambra chandra chandra bendram"]={{path="chatsounds/autoadd/Beauty_Bomber/chandra brambra chandra chandra bendram/1.ogg",length=7.4000000000000004},{path="chatsounds/autoadd/Beauty_Bomber/chandra brambra chandra chandra bendram/2.ogg",length=7.2000000000000002}}
 L["chocolate cake"]={{path="chatsounds/autoadd/Beauty_Bomber/chocolate cake.ogg",length=0.81600907029478453}}
@@ -63,9 +64,11 @@ L["oohh yyeess"]={{path="chatsounds/autoadd/Beauty_Bomber/oohh yyeess.ogg",lengt
 L["overtime"]={{path="chatsounds/autoadd/Beauty_Bomber/overtime.ogg",length=1.3609750566893424}}
 L["penis"]={{path="chatsounds/autoadd/Beauty_Bomber/penis.ogg",length=0.90000000000000002}}
 L["plums"]={{path="chatsounds/autoadd/Beauty_Bomber/plums.ogg",length=0.5}}
+L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/Beauty_Bomber/put a cork in it you greedy money grubber.ogg",length=2.3238775510204084}}
 L["really good"]={{path="chatsounds/autoadd/Beauty_Bomber/really good.ogg",length=1}}
 L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/Beauty_Bomber/robotic yeeaaahhhh.ogg",length=1.0303854875283447}}
 L["ronald weasley"]={{path="chatsounds/autoadd/Beauty_Bomber/ronald weasley.ogg",length=2}}
+L["shagudadigash shagudadigash"]={{path="chatsounds/autoadd/Beauty_Bomber/shagudadigash shagudadigash.ogg",length=1.9406575963718822}}
 L["she looked like she had never seen anything quite so horrible in all her life"]={{path="chatsounds/autoadd/Beauty_Bomber/she looked like she had never seen anything quite so horrible in all her life.ogg",length=6.3990249433106579}}
 L["she was watching me"]={{path="chatsounds/autoadd/Beauty_Bomber/she was watching me.ogg",length=1.5865532879818594}}
 L["slippery and sticky"]={{path="chatsounds/autoadd/Beauty_Bomber/slippery and sticky.ogg",length=1.3160090702947846}}
