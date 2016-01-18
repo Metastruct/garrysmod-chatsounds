@@ -70,10 +70,13 @@ L["i was first born in a laboratory unknowingly falling into a pit of immortalit
 L["i was forever trapped in an infinite timeline of pain and suffering"]={{path="chatsounds/autoadd/filthyfrank/i was forever trapped in an infinite timeline of pain and suffering.ogg",length=4.3870294784580501}}
 L["i will be your friend you fat asian fuck"]={{path="chatsounds/autoadd/filthyfrank/i will be your friend you fat asian fuck.ogg",length=2.8155102040816327}}
 L["if you know what i mean"]={{path="chatsounds/autoadd/filthyfrank/if you know what i mean.ogg",length=1.0565079365079366}}
+L["im going to call child protective services"]={{path="chatsounds/autoadd/filthyfrank/im going to call child protective services.ogg",length=2.3138548752834467}}
 L["is your pet misbehaving"]={{path="chatsounds/autoadd/filthyfrank/is your pet misbehaving.ogg",length=2.0897959183673471}}
 L["its filthy frank motherfucker its filthy frank bitch"]={{path="chatsounds/autoadd/filthyfrank/its filthy frank motherfucker its filthy frank bitch.ogg",length=5.0197732426303858}}
 L["its fucking good huh"]={{path="chatsounds/autoadd/filthyfrank/its fucking good huh.ogg",length=2.0085260770975055}}
 L["its just a prank bro"]={{path="chatsounds/autoadd/filthyfrank/its just a prank bro.ogg",length=1.364172335600907}}
+L["its time to stop"]={{path="chatsounds/autoadd/filthyfrank/its time to stop/1.ogg",length=1.9617687074829933},{path="chatsounds/autoadd/filthyfrank/its time to stop/2.ogg",length=1.9617687074829933}}
+L["its time to stop okay"]={{path="chatsounds/autoadd/filthyfrank/its time to stop okay.ogg",length=2.0120634920634921}}
 L["just call an anonymous bomb threat"]={{path="chatsounds/autoadd/filthyfrank/just call an anonymous bomb threat.ogg",length=2.7573696145124718}}
 L["just do it just fucking do it"]={{path="chatsounds/autoadd/filthyfrank/just do it just fucking do it.ogg",length=5.9152834467120181}}
 L["just do it you fucking pussy"]={{path="chatsounds/autoadd/filthyfrank/just do it you fucking pussy.ogg",length=2.9024943310657596}}
@@ -92,6 +95,7 @@ L["my lord"]={{path="chatsounds/autoadd/filthyfrank/my lord.ogg",length=0.696598
 L["my lord uughg"]={{path="chatsounds/autoadd/filthyfrank/my lord uughg.ogg",length=1.4454421768707484}}
 L["nnnggg"]={{path="chatsounds/autoadd/filthyfrank/nnnggg.ogg",length=1.496235827664399}}
 L["nnnooo"]={{path="chatsounds/autoadd/filthyfrank/nnnooo.ogg",length=2.0549659863945577}}
+L["no more"]={{path="chatsounds/autoadd/filthyfrank/no more.ogg",length=0.80482993197278907}}
 L["no way"]={{path="chatsounds/autoadd/filthyfrank/no way.ogg",length=0.98684807256235829}}
 L["now you can call upon the demons of chelzar"]={{path="chatsounds/autoadd/filthyfrank/now you can call upon the demons of chelzar.ogg",length=2.9663492063492063}}
 L["now you can place your pet in a nice long sock"]={{path="chatsounds/autoadd/filthyfrank/now you can place your pet in a nice long sock.ogg",length=3.8951473922902493}}
@@ -128,6 +132,8 @@ L["well now you can make your own personal sex doll"]={{path="chatsounds/autoadd
 L["well now you can put both cigarettes in your nose"]={{path="chatsounds/autoadd/filthyfrank/well now you can put both cigarettes in your nose.ogg",length=3.9938321995464854}}
 L["well thanks goodness theres a way to get out of school early"]={{path="chatsounds/autoadd/filthyfrank/well thanks goodness theres a way to get out of school early.ogg",length=4.017052154195011}}
 L["whats in the pocketoli"]={{path="chatsounds/autoadd/filthyfrank/whats in the pocketoli.ogg",length=1.5789569160997732}}
+L["where the fuck are your parents"]={{path="chatsounds/autoadd/filthyfrank/where the fuck are your parents.ogg",length=1.9617687074829933}}
+L["who are your parents"]={{path="chatsounds/autoadd/filthyfrank/who are your parents.ogg",length=1.4252154195011337}}
 L["why did you leave me"]={{path="chatsounds/autoadd/filthyfrank/why did you leave me.ogg",length=1.7099773242630385}}
 L["whyyy"]={{path="chatsounds/autoadd/filthyfrank/whyyy.ogg",length=1.4160770975056689}}
 L["yeah"]={{path="chatsounds/autoadd/filthyfrank/yeah.ogg",length=0.66176870748299321}}

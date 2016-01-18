@@ -23,4 +23,6 @@ L["trainrain"]={{path="chatsounds/autoadd/lumodder/trainrain.ogg",length=3.00408
 L["triple x rated"]={{path="chatsounds/autoadd/lumodder/triple x rated.ogg",length=3.4309070294784583}}
 L["well shit"]={{path="chatsounds/autoadd/lumodder/well shit.ogg",length=1.7531065759637188}}
 L["whos been drawing dicks"]={{path="chatsounds/autoadd/lumodder/whos been drawing dicks.ogg",length=1.5914739229024943}}
+L["why are you nine"]={{path="chatsounds/autoadd/lumodder/why are you nine.ogg",length=1.4790022675736962}}
+L["why you such a fag face"]={{path="chatsounds/autoadd/lumodder/why you such a fag face.ogg",length=2.0114285714285716}}
 c.EndList()
