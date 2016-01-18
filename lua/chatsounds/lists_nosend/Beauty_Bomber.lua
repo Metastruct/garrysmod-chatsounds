@@ -21,6 +21,7 @@ L["its an inanimate fucking object"]={{path="chatsounds/autoadd/Beauty_Bomber/it
 L["its leviosaaaa"]={{path="chatsounds/autoadd/Beauty_Bomber/its leviosaaaa.ogg",length=2.1000000000000001}}
 L["ive been to china"]={{path="chatsounds/autoadd/Beauty_Bomber/ive been to china.ogg",length=2.2999999999999998}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/Beauty_Bomber/jeannecontinueno.ogg",length=4.8476190476190473}}
+L["kaching"]={{path="chatsounds/autoadd/Beauty_Bomber/kaching.ogg",length=1.5866893424036281}}
 L["keel over and die"]={{path="chatsounds/autoadd/Beauty_Bomber/keel over and die.ogg",length=3.0563265306122447}}
 L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/Beauty_Bomber/leedle leedle leedle lee.ogg",length=1.75}}
 L["letsboomboom"]={{path="chatsounds/autoadd/Beauty_Bomber/letsboomboom.ogg",length=2.3250113378684807}}
