@@ -1,6 +1,6 @@
 c.StartList("professor_death")
 L["absolutely"]={{path="chatsounds/autoadd/professor_death/absolutely.ogg",length=0.87365079365079368}}
-L["but i am a man of science not of war"]={{path="chatsounds/autoadd/professor_death/but I am a man of science not of war.ogg",length=1.9214512471655329}}
+L["but i am a man of science not of war"]={{path="chatsounds/autoadd/professor_death/but i am a man of science not of war.ogg",length=1.9214512471655329}}
 L["doom melon"]={{path="chatsounds/autoadd/professor_death/doom melon.ogg",length=0.95492063492063495}}
 L["forgive me mr president"]={{path="chatsounds/autoadd/professor_death/forgive me mr president.ogg",length=1.1537414965986394}}
 L["good uses yes"]={{path="chatsounds/autoadd/professor_death/good uses yes.ogg",length=1.0840816326530611}}

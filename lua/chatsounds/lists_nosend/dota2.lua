@@ -21,17 +21,17 @@ L["every little bit counts"]={{path="chatsounds/autoadd/dota2/every little bit c
 L["everyone complains about the weather well im doing something about it"]={{path="chatsounds/autoadd/dota2/everyone complains about the weather well im doing something about it.ogg",length=5.186371882086168}}
 L["face it your a loser"]={{path="chatsounds/autoadd/dota2/face it your a loser.ogg",length=1.6859637188208616}}
 L["faster than an arrows flight"]={{path="chatsounds/autoadd/dota2/faster than an arrows flight.ogg",length=2.6404988662131519}}
-L["fate is so cruel"]={{path="chatsounds/autoadd/dota2/fate is so CRUEL.ogg",length=3.554784580498866}}
+L["fate is so cruel"]={{path="chatsounds/autoadd/dota2/fate is so cruel.ogg",length=3.554784580498866}}
 L["forward"]={{path="chatsounds/autoadd/dota2/forward.ogg",length=1.7000907029478458}}
 L["good enough"]={{path="chatsounds/autoadd/dota2/good enough.ogg",length=1.8045804988662131}}
-L["haahhh"]={{path="chatsounds/autoadd/dota2/haahhh/Dro_happy_04.ogg",length=2.1441723356009068},{path="chatsounds/autoadd/dota2/haahhh/Dro_happy_05.ogg",length=2.2486621315192745}}
+L["haahhh"]={{path="chatsounds/autoadd/dota2/haahhh/dro_happy_04.ogg",length=2.1441723356009068},{path="chatsounds/autoadd/dota2/haahhh/dro_happy_05.ogg",length=2.2486621315192745}}
 L["hahhh mmmh"]={{path="chatsounds/autoadd/dota2/hahhh mmmh.ogg",length=4.0772335600907033}}
 L["here again"]={{path="chatsounds/autoadd/dota2/here again.ogg",length=1.8829478458049886}}
 L["highly stimulating"]={{path="chatsounds/autoadd/dota2/highly stimulating.ogg",length=2.1039229024943311}}
 L["hm hm hm hm hm ha ha ha ha ha ha hm hm hm hm hm hm"]={{path="chatsounds/autoadd/dota2/hm hm hm hm hm ha ha ha ha ha ha hm hm hm hm hm hm.ogg",length=3.8541269841269843}}
 L["hm hm hm hm hm hm hm hm hm hm hm"]={{path="chatsounds/autoadd/dota2/hm hm hm hm hm hm hm hm hm hm hm.ogg",length=3.0182086167800453}}
 L["how so"]={{path="chatsounds/autoadd/dota2/how so.ogg",length=2.0658049886621317}}
-L["huh"]={{path="chatsounds/autoadd/dota2/huh/Dro_acknow_01.ogg",length=1.4911111111111111},{path="chatsounds/autoadd/dota2/huh/Dro_acknow_03.ogg",length=1.9874376417233559},{path="chatsounds/autoadd/dota2/huh/Dro_acknow_06.ogg",length=1.7000907029478458}}
+L["huh"]={{path="chatsounds/autoadd/dota2/huh/dro_acknow_01.ogg",length=1.4911111111111111},{path="chatsounds/autoadd/dota2/huh/dro_acknow_03.ogg",length=1.9874376417233559},{path="chatsounds/autoadd/dota2/huh/dro_acknow_06.ogg",length=1.7000907029478458}}
 L["i cant wait"]={{path="chatsounds/autoadd/dota2/i cant wait.ogg",length=1.9210657596371883}}
 L["i carry a charge"]={{path="chatsounds/autoadd/dota2/i carry a charge.ogg",length=1.9994331065759636}}
 L["i found a secret"]={{path="chatsounds/autoadd/dota2/i found a secret.ogg",length=2.0778004535147394}}
@@ -51,11 +51,11 @@ L["march"]={{path="chatsounds/autoadd/dota2/march/tink ability marchofthemachine
 L["marchm"]={{path="chatsounds/autoadd/dota2/marchm.ogg",length=9.7631065759637181}}
 L["marked for death"]={{path="chatsounds/autoadd/dota2/marked for death.ogg",length=1.4769841269841271}}
 L["mine"]={{path="chatsounds/autoadd/dota2/mine.ogg",length=1.7262131519274377}}
-L["mm2"]={{path="chatsounds/autoadd/dota2/mm2/Dro_happy_01.ogg",length=1.5433560090702947},{path="chatsounds/autoadd/dota2/mm2/Dro_happy_03.ogg",length=2.7449886621315192},{path="chatsounds/autoadd/dota2/mm2/Dro_happy_07.ogg",length=2.0919274376417234}}
+L["mm2"]={{path="chatsounds/autoadd/dota2/mm2/dro_happy_01.ogg",length=1.5433560090702947},{path="chatsounds/autoadd/dota2/mm2/dro_happy_03.ogg",length=2.7449886621315192},{path="chatsounds/autoadd/dota2/mm2/dro_happy_07.ogg",length=2.0919274376417234}}
 L["mmks"]={{path="chatsounds/autoadd/dota2/mmks.ogg",length=1.2821315192743765}}
 L["my bow is strung"]={{path="chatsounds/autoadd/dota2/my bow is strung.ogg",length=2.5218820861678006}}
 L["my time has come"]={{path="chatsounds/autoadd/dota2/my time has come.ogg",length=3.0965759637188208}}
-L["not yet"]={{path="chatsounds/autoadd/dota2/not yet/Drow_notyet_01.ogg",length=1.5292290249433107},{path="chatsounds/autoadd/dota2/not yet/Drow_notyet_04.ogg",length=1.6075963718820863},{path="chatsounds/autoadd/dota2/not yet/Drow_notyet_07.ogg",length=2.2084126984126984}}
+L["not yet"]={{path="chatsounds/autoadd/dota2/not yet/drow_notyet_01.ogg",length=1.5292290249433107},{path="chatsounds/autoadd/dota2/not yet/drow_notyet_04.ogg",length=1.6075963718820863},{path="chatsounds/autoadd/dota2/not yet/drow_notyet_07.ogg",length=2.2084126984126984}}
 L["now that youre dead i find it easy to respect you"]={{path="chatsounds/autoadd/dota2/now that youre dead i find it easy to respect you.ogg",length=4.6116780045351478}}
 L["odd"]={{path="chatsounds/autoadd/dota2/odd.ogg",length=0.4457596371882086}}
 L["poof"]={{path="chatsounds/autoadd/dota2/poof.ogg",length=2.330702947845805}}
@@ -69,7 +69,7 @@ L["science in action"]={{path="chatsounds/autoadd/dota2/science in action.ogg",l
 L["seek the heat"]={{path="chatsounds/autoadd/dota2/seek the heat.ogg",length=1.8949433106575964}}
 L["shitty wizard"]={{path="chatsounds/autoadd/dota2/shitty wizard.ogg",length=1.7382086167800455}}
 L["shrapnel"]={{path="chatsounds/autoadd/dota2/shrapnel.ogg",length=1.1112698412698412}}
-L["silence"]={{path="chatsounds/autoadd/dota2/silence.ogg",length=1.0458956916099773},{path="chatsounds/autoadd/dota2/silence/Dro_ability_01.ogg",length=2.3792743764172335},{path="chatsounds/autoadd/dota2/silence/Dro_ability_06.ogg",length=2.4576417233560091}}
+L["silence"]={{path="chatsounds/autoadd/dota2/silence.ogg",length=1.0458956916099773},{path="chatsounds/autoadd/dota2/silence/dro_ability_01.ogg",length=2.3792743764172335},{path="chatsounds/autoadd/dota2/silence/dro_ability_06.ogg",length=2.4576417233560091}}
 L["silence afflict thee"]={{path="chatsounds/autoadd/dota2/silence afflict thee.ogg",length=2.1180498866213151}}
 L["silence all"]={{path="chatsounds/autoadd/dota2/silence all.ogg",length=2.1441723356009068}}
 L["silence seal you"]={{path="chatsounds/autoadd/dota2/silence seal you.ogg",length=2.3531519274376418}}

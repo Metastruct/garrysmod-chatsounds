@@ -1,6 +1,6 @@
 c.StartList("mtt_soldier")
 L["and from that day forward any time a bunch of animals are together in one place its called a zoo"]={{path="chatsounds/autoadd/mtt_soldier/and from that day forward any time a bunch of animals are together in one place its called a zoo.ogg",length=5.2814058956916101}}
-L["and id say he knows a little more about fighting than you do"]={{path="chatsounds/autoadd/mtt_soldier/and Id say he knows a little more about fighting than you do.ogg",length=4.0109750566893423}}
+L["and id say he knows a little more about fighting than you do"]={{path="chatsounds/autoadd/mtt_soldier/and id say he knows a little more about fighting than you do.ogg",length=4.0109750566893423}}
 L["and then"]={{path="chatsounds/autoadd/mtt_soldier/and then/and then1.ogg",length=0.59029478458049889},{path="chatsounds/autoadd/mtt_soldier/and then/and then2.ogg",length=0.44637188208616779}}
 L["and then he beat the crap out of every single one"]={{path="chatsounds/autoadd/mtt_soldier/and then he beat the crap out of every single one.ogg",length=3.3009750566893423}}
 L["and then he herded them onto a boat"]={{path="chatsounds/autoadd/mtt_soldier/and then he herded them onto a boat.ogg",length=1.9756916099773243}}
@@ -12,7 +12,7 @@ L["boat"]={{path="chatsounds/autoadd/mtt_soldier/boat.ogg",length=0.372403628117
 L["crap"]={{path="chatsounds/autoadd/mtt_soldier/crap.ogg",length=0.5297732426303855}}
 L["farm"]={{path="chatsounds/autoadd/mtt_soldier/farm.ogg",length=0.67535147392290251}}
 L["he invented it"]={{path="chatsounds/autoadd/mtt_soldier/he invented it.ogg",length=1.0226984126984127}}
-L["if fighting is sure to result in victory then you must fight"]={{path="chatsounds/autoadd/mtt_soldier/If fighting is sure to result in victory then you must fight.ogg",length=3.7130158730158729}}
+L["if fighting is sure to result in victory then you must fight"]={{path="chatsounds/autoadd/mtt_soldier/if fighting is sure to result in victory then you must fight.ogg",length=3.7130158730158729}}
 L["pal"]={{path="chatsounds/autoadd/mtt_soldier/pal.ogg",length=0.57814058956916103}}
 L["ring of honor"]={{path="chatsounds/autoadd/mtt_soldier/ring of honor.ogg",length=0.78297052154195013}}
 L["sun tzu said that"]={{path="chatsounds/autoadd/mtt_soldier/sun tzu said that.ogg",length=0.99002267573696145}}

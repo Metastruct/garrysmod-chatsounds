@@ -67,7 +67,7 @@ L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begin
 L["nnoice"]={{path="chatsounds/autoadd/techbot/nnoice.ogg",length=0.67482993197278907}}
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.89832199546485259}}
 L["no nyt"]={{path="chatsounds/autoadd/techbot/no nyt.ogg",length=0.42741496598639456}}
-L["no nyt vittu nyt turpa kiinni saatana"]={{path="chatsounds/autoadd/techbot/NO NYT VITTU NYT TURPA KIINNI SAATANA.ogg",length=4.0634920634920633}}
+L["no nyt vittu nyt turpa kiinni saatana"]={{path="chatsounds/autoadd/techbot/no nyt vittu nyt turpa kiinni saatana.ogg",length=4.0634920634920633}}
 L["nobodycares"]={{path="chatsounds/autoadd/techbot/nobodycares.ogg",length=2.1347845804988661}}
 L["not the bees aaaaa"]={{path="chatsounds/autoadd/techbot/not the bees aaaaa.ogg",length=3.287074829931973}}
 L["now is the time of lunch er"]={{path="chatsounds/autoadd/techbot/now is the time of lunch er.ogg",length=2.7210430839002266}}
@@ -76,7 +76,7 @@ L["offblast"]={{path="chatsounds/autoadd/techbot/offblast.ogg",length=0.89238095
 L["oh"]={{path="chatsounds/autoadd/techbot/oh.ogg",length=0.45859410430839004}}
 L["oh my"]={{path="chatsounds/autoadd/techbot/oh my.ogg",length=1.3931972789115645}}
 L["oh yeah"]={{path="chatsounds/autoadd/techbot/oh yeah/1.ogg",length=3.0182312925170067},{path="chatsounds/autoadd/techbot/oh yeah/2.ogg",length=2.0384580498866214}}
-L["ok google"]={{path="chatsounds/autoadd/techbot/ok google/Marker 01.ogg",length=0.65596371882086169},{path="chatsounds/autoadd/techbot/ok google/Marker 02.ogg",length=0.80253968253968255},{path="chatsounds/autoadd/techbot/ok google/Marker 03.ogg",length=0.78367346938775506},{path="chatsounds/autoadd/techbot/ok google/Marker 04.ogg",length=0.83591836734693881}}
+L["ok google"]={{path="chatsounds/autoadd/techbot/ok google/marker 01.ogg",length=0.65596371882086169},{path="chatsounds/autoadd/techbot/ok google/marker 02.ogg",length=0.80253968253968255},{path="chatsounds/autoadd/techbot/ok google/marker 03.ogg",length=0.78367346938775506},{path="chatsounds/autoadd/techbot/ok google/marker 04.ogg",length=0.83591836734693881}}
 L["omg"]={{path="chatsounds/autoadd/techbot/omg.ogg",length=2.9184580498866213}}
 L["opqrstusb"]={{path="chatsounds/autoadd/techbot/opqrstusb.ogg",length=2.0041723356009071}}
 L["perse"]={{path="chatsounds/autoadd/techbot/perse.ogg",length=0.52117913832199547}}

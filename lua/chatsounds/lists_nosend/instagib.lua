@@ -684,7 +684,7 @@ L["klar"]={{path="chatsounds/autoadd/instagib/klar.ogg",length=0.990929705215419
 L["klaus"]={{path="chatsounds/autoadd/instagib/klaus.ogg",length=3.8327437641723354}}
 L["kleider"]={{path="chatsounds/autoadd/instagib/kleider.ogg",length=3.1746031746031744}}
 L["klein"]={{path="chatsounds/autoadd/instagib/klein.ogg",length=1.7759637188208617}}
-L["kleine penis"]={{path="chatsounds/autoadd/instagib/KLEINE PENIS.ogg",length=7.5006802721088439}}
+L["kleine penis"]={{path="chatsounds/autoadd/instagib/kleine penis.ogg",length=7.5006802721088439}}
 L["kleiner"]={{path="chatsounds/autoadd/instagib/kleiner.ogg",length=2.5576417233560091}}
 L["klo"]={{path="chatsounds/autoadd/instagib/klo.ogg",length=11.569433106575964}}
 L["kmpfen"]={{path="chatsounds/autoadd/instagib/kmpfen.ogg",length=1.9278004535147393}}

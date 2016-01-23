@@ -65,7 +65,7 @@ L["plan bbbbbb"]={{path="chatsounds/autoadd/feshpince/plan bbbbbb.ogg",length=0.
 L["pot"]={{path="chatsounds/autoadd/feshpince/pot.ogg",length=0.56691609977324264}}
 L["rubbing my coc"]={{path="chatsounds/autoadd/feshpince/rubbing my coc.ogg",length=0.98684807256235829}}
 L["sees"]={{path="chatsounds/autoadd/feshpince/sees.ogg",length=0.57904761904761903}}
-L["sex"]={{path="chatsounds/autoadd/feshpince/sex/sex Copy.ogg",length=0.52390022675736958},{path="chatsounds/autoadd/feshpince/sex/sex.ogg",length=0.65741496598639459}}
+L["sex"]={{path="chatsounds/autoadd/feshpince/sex/sex copy.ogg",length=0.52390022675736958},{path="chatsounds/autoadd/feshpince/sex/sex.ogg",length=0.65741496598639459}}
 L["shiznebarbashinz"]={{path="chatsounds/autoadd/feshpince/shiznebarbashinz.ogg",length=2.2523356009070294}}
 L["simis"]={{path="chatsounds/autoadd/feshpince/simis.ogg",length=0.80979591836734699}}
 L["simis simonis"]={{path="chatsounds/autoadd/feshpince/simis simonis.ogg",length=1.7211791383219954}}

@@ -2,9 +2,9 @@ c.StartList("deusex")
 L["a bomb"]={{path="chatsounds/autoadd/deusex/a bomb.ogg",length=0.6466213151927438}}
 L["aah thats gonna hurt"]={{path="chatsounds/autoadd/deusex/aah thats gonna hurt.ogg",length=0.61494331065759633}}
 L["alright lets do this"]={{path="chatsounds/autoadd/deusex/alright lets do this.ogg",length=1.9341269841269841}}
-L["as long as i dont turn green and grow antennaes"]={{path="chatsounds/autoadd/deusex/as long as I dont turn green and grow antennaes.ogg",length=3.1226984126984125}}
+L["as long as i dont turn green and grow antennaes"]={{path="chatsounds/autoadd/deusex/as long as i dont turn green and grow antennaes.ogg",length=3.1226984126984125}}
 L["deus ex"]={{path="chatsounds/autoadd/deusex/deus ex.ogg",length=16.609705215419503}}
-L["does that mean i dont get the job"]={{path="chatsounds/autoadd/deusex/does that mean I dont get the job.ogg",length=1.7382086167800455}}
+L["does that mean i dont get the job"]={{path="chatsounds/autoadd/deusex/does that mean i dont get the job.ogg",length=1.7382086167800455}}
 L["dont leeave mee"]={{path="chatsounds/autoadd/deusex/dont leeave mee.ogg",length=1.9733106575963719}}
 L["dont panic im just gonna press this button"]={{path="chatsounds/autoadd/deusex/dont panic im just gonna press this button.ogg",length=2.574126984126984}}
 L["engage them immediately"]={{path="chatsounds/autoadd/deusex/engage them immediately.ogg",length=2.9920861678004536}}
@@ -62,7 +62,7 @@ L["yes yes you are"]={{path="chatsounds/autoadd/deusex/yes yes you are.ogg",leng
 L["yess"]={{path="chatsounds/autoadd/deusex/yess.ogg",length=1.2026984126984126}}
 L["you better double check your systems"]={{path="chatsounds/autoadd/deusex/you better double check your systems.ogg",length=1.486031746031746}}
 L["you cant stop me"]={{path="chatsounds/autoadd/deusex/you cant stop me.ogg",length=1.3724943310657596}}
-L["you dont know who i am do you"]={{path="chatsounds/autoadd/deusex/you dont know who I am do you.ogg",length=1.7643310657596372}}
+L["you dont know who i am do you"]={{path="chatsounds/autoadd/deusex/you dont know who i am do you.ogg",length=1.7643310657596372}}
 L["you got a problem"]={{path="chatsounds/autoadd/deusex/you got a problem.ogg",length=1.1373922902494331}}
 L["you mean space aliens"]={{path="chatsounds/autoadd/deusex/you mean space aliens.ogg",length=1.6075963718820863}}
 L["you will deactivate the uplink locks"]={{path="chatsounds/autoadd/deusex/you will deactivate the uplink locks.ogg",length=2.3129024943310657}}

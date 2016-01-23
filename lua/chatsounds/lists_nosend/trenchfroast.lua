@@ -8,7 +8,7 @@ L["breadfish"]={{path="chatsounds/autoadd/trenchfroast/breadfish.ogg",length=27.
 L["buh looow juh aah buh"]={{path="chatsounds/autoadd/trenchfroast/buh looow juh aah buh.ogg",length=1.6393197278911564}}
 L["butt"]={{path="chatsounds/autoadd/trenchfroast/butt.ogg",length=0.64730158730158727}}
 L["butten"]={{path="chatsounds/autoadd/trenchfroast/butten.ogg",length=0.63802721088435377}}
-L["buttplug"]={{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug Copy Copy.ogg",length=1.333015873015873},{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug Copy.ogg",length=0.79333333333333333},{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug.ogg",length=0.73229024943310661}}
+L["buttplug"]={{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug copy copy.ogg",length=1.333015873015873},{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug copy.ogg",length=0.79333333333333333},{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug.ogg",length=0.73229024943310661}}
 L["dont say gay say hey"]={{path="chatsounds/autoadd/trenchfroast/dont say gay say hey.ogg",length=1.7145351473922903}}
 L["doublebass"]={{path="chatsounds/autoadd/trenchfroast/doublebass.ogg",length=0.96018140589569156}}
 L["esey"]={{path="chatsounds/autoadd/trenchfroast/esey.ogg",length=0.63380952380952382}}
@@ -23,7 +23,7 @@ L["intruder alert"]={{path="chatsounds/autoadd/trenchfroast/intruder alert.ogg",
 L["ipponmanzoku"]={{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 1.ogg",length=3.294920634920635},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 2.ogg",length=3.3324263038548754},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 3.ogg",length=3.2747392290249433},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 4.ogg",length=3.2735147392290251}}
 L["oi"]={{path="chatsounds/autoadd/trenchfroast/oi.ogg",length=0.30723356009070296}}
 L["packagerip"]={{path="chatsounds/autoadd/trenchfroast/packagerip.ogg",length=0.84424036281179138}}
-L["peeeeniiissss"]={{path="chatsounds/autoadd/trenchfroast/PEEEENIIISSSS.ogg",length=2.7095464852607711}}
+L["peeeeniiissss"]={{path="chatsounds/autoadd/trenchfroast/peeeeniiissss.ogg",length=2.7095464852607711}}
 L["plug"]={{path="chatsounds/autoadd/trenchfroast/plug.ogg",length=0.83192743764172339}}
 L["pyuchhhhhhhh"]={{path="chatsounds/autoadd/trenchfroast/pyuchhhhhhhh.ogg",length=2.0062585034013605}}
 L["sambaloop"]={{path="chatsounds/autoadd/trenchfroast/sambaloop.ogg",length=4.7993197278911568}}

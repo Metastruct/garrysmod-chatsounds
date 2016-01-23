@@ -6,7 +6,7 @@ L["ey"]={{path="chatsounds/autoadd/really_humor/ey.ogg",length=0.532993197278911
 L["hey you wanna see something really humor"]={{path="chatsounds/autoadd/really_humor/hey you wanna see something really humor.ogg",length=1.8746938775510205}}
 L["john bro"]={{path="chatsounds/autoadd/really_humor/john bro.ogg",length=1.1211564625850341}}
 L["john tenasio bitch"]={{path="chatsounds/autoadd/really_humor/john tenasio bitch.ogg",length=1.3153968253968253}}
-L["look"]={{path="chatsounds/autoadd/really_humor/look/look Copy.ogg",length=0.5221315192743764},{path="chatsounds/autoadd/really_humor/look/look.ogg",length=0.67190476190476189}}
+L["look"]={{path="chatsounds/autoadd/really_humor/look/look copy.ogg",length=0.5221315192743764},{path="chatsounds/autoadd/really_humor/look/look.ogg",length=0.67190476190476189}}
 L["look at me and my fucking million dollar 16"]={{path="chatsounds/autoadd/really_humor/look at me and my fucking million dollar 16.ogg",length=2.8180952380952382}}
 L["my liscence is still in a fucking permit"]={{path="chatsounds/autoadd/really_humor/my liscence is still in a fucking permit.ogg",length=1.7897278911564627}}
 L["my liscence still in a fucking permit"]={{path="chatsounds/autoadd/really_humor/my liscence still in a fucking permit.ogg",length=1.8011791383219955}}

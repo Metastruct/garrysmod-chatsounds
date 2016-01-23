@@ -7,25 +7,25 @@ L["90 people down"]={{path="chatsounds/autoadd/matt/90 people down.ogg",length=5
 L["aaaajjjj"]={{path="chatsounds/autoadd/matt/aaaajjjj.ogg",length=0.9505215419501134}}
 L["adhoen"]={{path="chatsounds/autoadd/matt/adhoen.ogg",length=0.71126984126984127}}
 L["and remember respect is everything"]={{path="chatsounds/autoadd/matt/and remember respect is everything.ogg",length=4.3816326530612244}}
-L["busted"]={{path="chatsounds/autoadd/matt/Busted.ogg",length=1.5681632653061224}}
+L["busted"]={{path="chatsounds/autoadd/matt/busted.ogg",length=1.5681632653061224}}
 L["butt"]={{path="chatsounds/autoadd/matt/butt.ogg",length=0.43374149659863948}}
 L["car jacker"]={{path="chatsounds/autoadd/matt/car jacker.ogg",length=1.8910204081632653}}
 L["cop killa"]={{path="chatsounds/autoadd/matt/cop killa.ogg",length=1.6142857142857143}}
 L["crowbar"]={{path="chatsounds/autoadd/matt/crowbar.ogg",length=1.2524263038548753}}
-L["damnation"]={{path="chatsounds/autoadd/matt/Damnation.ogg",length=4.6583673469387756}}
-L["epiclaugh"]={{path="chatsounds/autoadd/matt/epiclaugh/Laugh1.ogg",length=1.3375510204081633},{path="chatsounds/autoadd/matt/epiclaugh/Laugh2.ogg",length=1.1991836734693877},{path="chatsounds/autoadd/matt/epiclaugh/Laugh3.ogg",length=1.1991836734693877},{path="chatsounds/autoadd/matt/epiclaugh/Laugh4.ogg",length=0.83020408163265302},{path="chatsounds/autoadd/matt/epiclaugh/Laugh5.ogg",length=1.8448979591836734},{path="chatsounds/autoadd/matt/epiclaugh/Laugh6.ogg",length=1.4759183673469387},{path="chatsounds/autoadd/matt/epiclaugh/Laugh7.ogg",length=1.9371428571428571},{path="chatsounds/autoadd/matt/epiclaugh/Laugh8.ogg",length=0.92244897959183669},{path="chatsounds/autoadd/matt/epiclaugh/Laugh9.ogg",length=1.5220408163265307},{path="chatsounds/autoadd/matt/epiclaugh/LaughA.ogg",length=0.83020408163265302},{path="chatsounds/autoadd/matt/epiclaugh/LaughB.ogg",length=2.8134693877551022},{path="chatsounds/autoadd/matt/epiclaugh/LaughC.ogg",length=2.0293877551020407},{path="chatsounds/autoadd/matt/epiclaugh/LaughD.ogg",length=1.2914285714285714}}
-L["freeze"]={{path="chatsounds/autoadd/matt/Freeze.ogg",length=0.64571428571428569}}
+L["damnation"]={{path="chatsounds/autoadd/matt/damnation.ogg",length=4.6583673469387756}}
+L["epiclaugh"]={{path="chatsounds/autoadd/matt/epiclaugh/laugh1.ogg",length=1.3375510204081633},{path="chatsounds/autoadd/matt/epiclaugh/laugh2.ogg",length=1.1991836734693877},{path="chatsounds/autoadd/matt/epiclaugh/laugh3.ogg",length=1.1991836734693877},{path="chatsounds/autoadd/matt/epiclaugh/laugh4.ogg",length=0.83020408163265302},{path="chatsounds/autoadd/matt/epiclaugh/laugh5.ogg",length=1.8448979591836734},{path="chatsounds/autoadd/matt/epiclaugh/laugh6.ogg",length=1.4759183673469387},{path="chatsounds/autoadd/matt/epiclaugh/laugh7.ogg",length=1.9371428571428571},{path="chatsounds/autoadd/matt/epiclaugh/laugh8.ogg",length=0.92244897959183669},{path="chatsounds/autoadd/matt/epiclaugh/laugh9.ogg",length=1.5220408163265307},{path="chatsounds/autoadd/matt/epiclaugh/laugha.ogg",length=0.83020408163265302},{path="chatsounds/autoadd/matt/epiclaugh/laughb.ogg",length=2.8134693877551022},{path="chatsounds/autoadd/matt/epiclaugh/laughc.ogg",length=2.0293877551020407},{path="chatsounds/autoadd/matt/epiclaugh/laughd.ogg",length=1.2914285714285714}}
+L["freeze"]={{path="chatsounds/autoadd/matt/freeze.ogg",length=0.64571428571428569}}
 L["fuck your court nigga"]={{path="chatsounds/autoadd/matt/fuck your court nigga.ogg",length=1.6573469387755102}}
-L["genocide"]={{path="chatsounds/autoadd/matt/Genocide.ogg",length=1.660408163265306}}
+L["genocide"]={{path="chatsounds/autoadd/matt/genocide.ogg",length=1.660408163265306}}
 L["grenades"]={{path="chatsounds/autoadd/matt/grenades.ogg",length=0.92244897959183669}}
-L["hallelujah"]={{path="chatsounds/autoadd/matt/Hallelujah.ogg",length=4.0587755102040814}}
-L["health"]={{path="chatsounds/autoadd/matt/Health.ogg",length=0.73795918367346935}}
+L["hallelujah"]={{path="chatsounds/autoadd/matt/hallelujah.ogg",length=4.0587755102040814}}
+L["health"]={{path="chatsounds/autoadd/matt/health.ogg",length=0.73795918367346935}}
 L["hhhah"]={{path="chatsounds/autoadd/matt/hhhah.ogg",length=0.78739229024943314}}
 L["i must experience a crowbar in the butt"]={{path="chatsounds/autoadd/matt/i must experience a crowbar in the butt.ogg",length=3.6388435374149659}}
 L["in the butt"]={{path="chatsounds/autoadd/matt/in the butt.ogg",length=0.7987528344671202}}
 L["instant gang"]={{path="chatsounds/autoadd/matt/instant gang.ogg",length=1.8448979591836734}}
-L["invisibility"]={{path="chatsounds/autoadd/matt/Invisibility.ogg",length=1.0608163265306123}}
-L["invulnerability"]={{path="chatsounds/autoadd/matt/Invulnerability.ogg",length=3.966530612244898}}
+L["invisibility"]={{path="chatsounds/autoadd/matt/invisibility.ogg",length=1.0608163265306123}}
+L["invulnerability"]={{path="chatsounds/autoadd/matt/invulnerability.ogg",length=3.966530612244898}}
 L["its a nigga still in him"]={{path="chatsounds/autoadd/matt/its a nigga still in him.ogg",length=1.3467573696145125}}
 L["job complete"]={{path="chatsounds/autoadd/matt/job complete.ogg",length=2.4444897959183671}}
 L["job failed"]={{path="chatsounds/autoadd/matt/job failed.ogg",length=1.983265306122449}}
@@ -50,21 +50,21 @@ L["raspberry ripple"]={{path="chatsounds/autoadd/matt/raspberry ripple.ogg",leng
 L["respect"]={{path="chatsounds/autoadd/matt/respect.ogg",length=0.96857142857142853}}
 L["shocking"]={{path="chatsounds/autoadd/matt/shocking.ogg",length=1.5220408163265307}}
 L["sjajs"]={{path="chatsounds/autoadd/matt/sjajs.ogg",length=0.87789115646258509}}
-L["somethings cookin"]={{path="chatsounds/autoadd/matt/Somethings Cookin.ogg",length=2.8134693877551022}}
-L["sorry about that"]={{path="chatsounds/autoadd/matt/Sorry About That.ogg",length=2.859591836734694}}
+L["somethings cookin"]={{path="chatsounds/autoadd/matt/somethings cookin.ogg",length=2.8134693877551022}}
+L["sorry about that"]={{path="chatsounds/autoadd/matt/sorry about that.ogg",length=2.859591836734694}}
 L["taste my wrath"]={{path="chatsounds/autoadd/matt/taste my wrath.ogg",length=3.2746938775510204}}
 L["thats gotta hurt"]={{path="chatsounds/autoadd/matt/thats gotta hurt.ogg",length=2.6289795918367349}}
 L["thats why"]={{path="chatsounds/autoadd/matt/thats why.ogg",length=1.051201814058957}}
-L["toasted"]={{path="chatsounds/autoadd/matt/Toasted.ogg",length=1.5681632653061224}}
-L["wasted"]={{path="chatsounds/autoadd/matt/Wasted.ogg",length=2.1677551020408163}}
+L["toasted"]={{path="chatsounds/autoadd/matt/toasted.ogg",length=1.5681632653061224}}
+L["wasted"]={{path="chatsounds/autoadd/matt/wasted.ogg",length=2.1677551020408163}}
 L["what you gonna do"]={{path="chatsounds/autoadd/matt/what you gonna do.ogg",length=3.9938548752834468}}
 L["whats good nigga"]={{path="chatsounds/autoadd/matt/whats good nigga.ogg",length=2.310408163265306}}
 L["whats my name nigga"]={{path="chatsounds/autoadd/matt/whats my name nigga.ogg",length=2.0056462585034014}}
 L["whats really good"]={{path="chatsounds/autoadd/matt/whats really good.ogg",length=1.5673696145124716}}
-L["wipeout"]={{path="chatsounds/autoadd/matt/Wipeout.ogg",length=4.4738775510204079}}
+L["wipeout"]={{path="chatsounds/autoadd/matt/wipeout.ogg",length=4.4738775510204079}}
 L["you dont remember me"]={{path="chatsounds/autoadd/matt/you dont remember me.ogg",length=1.2277551020408164}}
 L["you dont remember my name"]={{path="chatsounds/autoadd/matt/you dont remember my name.ogg",length=1.8373015873015872}}
 L["you eat a dick nigga"]={{path="chatsounds/autoadd/matt/you eat a dick nigga.ogg",length=2.7980498866213153}}
 L["you shot your load"]={{path="chatsounds/autoadd/matt/you shot your load.ogg",length=2.2138775510204081}}
-L["youre toast buddy"]={{path="chatsounds/autoadd/matt/Youre Toast Buddy.ogg",length=2.2599999999999998}}
+L["youre toast buddy"]={{path="chatsounds/autoadd/matt/youre toast buddy.ogg",length=2.2599999999999998}}
 c.EndList()

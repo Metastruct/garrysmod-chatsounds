@@ -41,7 +41,7 @@ L["that was quicker than the others"]={{path="chatsounds/autoadd/matrix/that was
 L["the chemical precursors that signal the onset of an emotion designed specifically to overwhelm logic and reason"]={{path="chatsounds/autoadd/matrix/the chemical precursors that signal the onset of an emotion designed specifically to overwhelm logic and reason.ogg",length=7.2819047619047623}}
 L["the door to your left leads back to the matrix to her and to the end of your species"]={{path="chatsounds/autoadd/matrix/the door to your left leads back to the matrix to her and to the end of your species.ogg",length=5.1870975056689339}}
 L["the door to your right leads to the source and the salvation of zion"]={{path="chatsounds/autoadd/matrix/the door to your right leads to the source and the salvation of zion.ogg",length=2.8761678004535147}}
-L["the first matrix i designed was quite naturally perfect it was a work of art flawless sublime"]={{path="chatsounds/autoadd/matrix/the first matrix I designed was quite naturally perfect it was a work of art flawless sublime.ogg",length=5.2619047619047619}}
+L["the first matrix i designed was quite naturally perfect it was a work of art flawless sublime"]={{path="chatsounds/autoadd/matrix/the first matrix i designed was quite naturally perfect it was a work of art flawless sublime.ogg",length=5.2619047619047619}}
 L["the matrix is older than you know"]={{path="chatsounds/autoadd/matrix/the matrix is older than you know.ogg",length=2.1945351473922901}}
 L["there are levels of survival we are prepared to accept"]={{path="chatsounds/autoadd/matrix/there are levels of survival we are prepared to accept.ogg",length=3.3084353741496599}}
 L["there are two doors"]={{path="chatsounds/autoadd/matrix/there are two doors.ogg",length=1.1471428571428572}}
@@ -58,7 +58,7 @@ L["while the others experienced this in a very general way your experience is fa
 L["while this answer functioned it was obviously fundamentally flawed"]={{path="chatsounds/autoadd/matrix/while this answer functioned it was obviously fundamentally flawed.ogg",length=3.4331292517006804}}
 L["why am i here"]={{path="chatsounds/autoadd/matrix/why am i here.ogg",length=0.99752834467120177}}
 L["you are here because zion is about to be destroyed"]={{path="chatsounds/autoadd/matrix/you are here because zion is about to be destroyed.ogg",length=3.4497505668934241}}
-L["you are the eventuality of an anomaly which i have been unable to eliminate from what is otherwise"]={{path="chatsounds/autoadd/matrix/you are the eventuality of an anomaly which I have been unable to eliminate from what is otherwise.ogg",length=7.0491383219954651}}
+L["you are the eventuality of an anomaly which i have been unable to eliminate from what is otherwise"]={{path="chatsounds/autoadd/matrix/you are the eventuality of an anomaly which i have been unable to eliminate from what is otherwise.ogg",length=7.0491383219954651}}
 L["you have many questions"]={{path="chatsounds/autoadd/matrix/you have many questions.ogg",length=6.36750566893424}}
 L["you havent answered my question"]={{path="chatsounds/autoadd/matrix/you havent answered my question.ogg",length=1.6126530612244898}}
 L["you may or may not realize it is also the most irrelevant"]={{path="chatsounds/autoadd/matrix/you may or may not realize it is also the most irrelevant.ogg",length=4.4555782312925167}}

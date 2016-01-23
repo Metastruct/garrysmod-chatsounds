@@ -1,6 +1,6 @@
 c.StartList("kerahk")
 L["at what"]={{path="chatsounds/autoadd/kerahk/at what.ogg",length=0.63727891156462591}}
-L["because i am better"]={{path="chatsounds/autoadd/kerahk/because I am better.ogg",length=2.9171655328798187}}
+L["because i am better"]={{path="chatsounds/autoadd/kerahk/because i am better.ogg",length=2.9171655328798187}}
 L["better"]={{path="chatsounds/autoadd/kerahk/better.ogg",length=0.60748299319727894}}
 L["dalek laser"]={{path="chatsounds/autoadd/kerahk/dalek laser/2.ogg",length=1.9937868480725625},{path="chatsounds/autoadd/kerahk/dalek laser/dalek laser.ogg",length=2.0214965986394557}}
 L["everything"]={{path="chatsounds/autoadd/kerahk/everything.ogg",length=0.65090702947845802}}

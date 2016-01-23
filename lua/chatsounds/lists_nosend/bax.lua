@@ -17,5 +17,5 @@ L["slide on the soap"]={{path="chatsounds/autoadd/bax/slide on the soap.ogg",len
 L["squeaky wheel"]={{path="chatsounds/autoadd/bax/squeaky wheel.ogg",length=2.713560090702948}}
 L["wow unreal my gosh this is amazing i feel incredible yes yes yes yes i can win i feel great i can do this"]={{path="chatsounds/autoadd/bax/wow unreal my gosh this is amazing i feel incredible yes yes yes yes i can win i feel great i can do this.ogg",length=15.124807256235828}}
 L["your soundcard works perfectly"]={{path="chatsounds/autoadd/bax/your soundcard works perfectly.ogg",length=2.3427664399092971}}
-L["zork laugh"]={{path="chatsounds/autoadd/bax/Zork Laugh.ogg",length=5.1545578231292515}}
+L["zork laugh"]={{path="chatsounds/autoadd/bax/zork laugh.ogg",length=5.1545578231292515}}
 c.EndList()

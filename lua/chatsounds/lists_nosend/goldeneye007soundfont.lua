@@ -51,8 +51,8 @@ L["lobendx"]={{path="chatsounds/autoadd/goldeneye007soundfont/lobendx.ogg",lengt
 L["low church1"]={{path="chatsounds/autoadd/goldeneye007soundfont/low church1.ogg",length=0.27113378684807254}}
 L["low trom1"]={{path="chatsounds/autoadd/goldeneye007soundfont/low trom1.ogg",length=1.1785487528344671}}
 L["low trom3"]={{path="chatsounds/autoadd/goldeneye007soundfont/low trom3.ogg",length=1.2727437641723356}}
-L["marimbab3"]={{path="chatsounds/autoadd/goldeneye007soundfont/marimbaB3.ogg",length=0.19993197278911565}}
-L["marimbae1"]={{path="chatsounds/autoadd/goldeneye007soundfont/marimbaE1.ogg",length=0.14478458049886622}}
+L["marimbab3"]={{path="chatsounds/autoadd/goldeneye007soundfont/marimbab3.ogg",length=0.19993197278911565}}
+L["marimbae1"]={{path="chatsounds/autoadd/goldeneye007soundfont/marimbae1.ogg",length=0.14478458049886622}}
 L["mystro"]={{path="chatsounds/autoadd/goldeneye007soundfont/mystro.ogg",length=0.42886621315192741}}
 L["new trom4"]={{path="chatsounds/autoadd/goldeneye007soundfont/new trom4.ogg",length=1.522108843537415}}
 L["new trom5"]={{path="chatsounds/autoadd/goldeneye007soundfont/new trom5.ogg",length=1.1116780045351473}}
@@ -79,11 +79,11 @@ L["trpt fall"]={{path="chatsounds/autoadd/goldeneye007soundfont/trpt fall.ogg",l
 L["trpt3"]={{path="chatsounds/autoadd/goldeneye007soundfont/trpt3.ogg",length=0.3128798185941043}}
 L["tsbrs1"]={{path="chatsounds/autoadd/goldeneye007soundfont/tsbrs1.ogg",length=0.83659863945578228}}
 L["vibe3"]={{path="chatsounds/autoadd/goldeneye007soundfont/vibe3.ogg",length=0.15140589569160998}}
-L["vvcbd4"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbD4.ogg",length=0.68102040816326526}}
-L["vvcbf3"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbF3.ogg",length=1.0460997732426305}}
-L["vvcbfshrp2"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbFshrp2.ogg",length=0.8419274376417234}}
-L["vvcbg1"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbG1.ogg",length=0.97702947845804988}}
-L["vvcbg1b"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbG1b.ogg",length=0.97702947845804988}}
+L["vvcbd4"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbd4.ogg",length=0.68102040816326526}}
+L["vvcbf3"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbf3.ogg",length=1.0460997732426305}}
+L["vvcbfshrp2"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbfshrp2.ogg",length=0.8419274376417234}}
+L["vvcbg1"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbg1.ogg",length=0.97702947845804988}}
+L["vvcbg1b"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbg1b.ogg",length=0.97702947845804988}}
 L["vvcbstr"]={{path="chatsounds/autoadd/goldeneye007soundfont/vvcbstr.ogg",length=1.0269387755102042}}
 L["windchime6"]={{path="chatsounds/autoadd/goldeneye007soundfont/windchime6.ogg",length=0.41344671201814059}}
 L["windchime7"]={{path="chatsounds/autoadd/goldeneye007soundfont/windchime7.ogg",length=0.56564625850340133}}

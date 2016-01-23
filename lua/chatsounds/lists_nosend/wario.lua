@@ -11,7 +11,7 @@ L["good luck"]={{path="chatsounds/autoadd/wario/good luck.ogg",length=0.55002267
 L["haa"]={{path="chatsounds/autoadd/wario/haa.ogg",length=0.50068027210884358}}
 L["have a rotten day"]={{path="chatsounds/autoadd/wario/have a rotten day.ogg",length=1.1711564625850339}}
 L["here we go"]={{path="chatsounds/autoadd/wario/here we go.ogg",length=1.0013605442176872}}
-L["i win"]={{path="chatsounds/autoadd/wario/I win.ogg",length=3.3901133786848074}}
+L["i win"]={{path="chatsounds/autoadd/wario/i win.ogg",length=3.3901133786848074}}
 L["im number one"]={{path="chatsounds/autoadd/wario/im number one.ogg",length=1.980952380952381}}
 L["oh"]={{path="chatsounds/autoadd/wario/oh.ogg",length=0.50068027210884358}}
 L["oh no"]={{path="chatsounds/autoadd/wario/oh no.ogg",length=1.1305215419501133}}

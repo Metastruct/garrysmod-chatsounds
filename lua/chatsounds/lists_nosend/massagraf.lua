@@ -83,7 +83,7 @@ L["plop lahal"]={{path="chatsounds/autoadd/massagraf/plop lahal.ogg",length=0.92
 L["plop scream"]={{path="chatsounds/autoadd/massagraf/plop scream.ogg",length=2.0706122448979594}}
 L["samson flikker op"]={{path="chatsounds/autoadd/massagraf/samson flikker op.ogg",length=1.2523809523809524}}
 L["smal ja die die was dood"]={{path="chatsounds/autoadd/massagraf/smal ja die die was dood.ogg",length=2.086281179138322}}
-L["van leemhuyzen nu maak je het nog erger dan het al was"]={{path="chatsounds/autoadd/massagraf/van Leemhuyzen nu maak je het nog erger dan het al was.ogg",length=2.2831292517006805}}
+L["van leemhuyzen nu maak je het nog erger dan het al was"]={{path="chatsounds/autoadd/massagraf/van leemhuyzen nu maak je het nog erger dan het al was.ogg",length=2.2831292517006805}}
 L["wat i wuuuuw"]={{path="chatsounds/autoadd/massagraf/wat i wuuuuw.ogg",length=0.83197278911564621}}
 L["wat is dat eigenlijk zo"]={{path="chatsounds/autoadd/massagraf/wat is dat eigenlijk zo.ogg",length=1.6982993197278911}}
 L["wat is er"]={{path="chatsounds/autoadd/massagraf/wat is er.ogg",length=0.47219954648526075}}

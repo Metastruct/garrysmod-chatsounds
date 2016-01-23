@@ -27,7 +27,7 @@ L["but now i going"]={{path="chatsounds/autoadd/markorepairs/but now i going.ogg
 L["but what what is that"]={{path="chatsounds/autoadd/markorepairs/but what what is that.ogg",length=2.17421768707483}}
 L["button"]={{path="chatsounds/autoadd/markorepairs/button/button.ogg",length=0.78349206349206346},{path="chatsounds/autoadd/markorepairs/button/button2.ogg",length=1.0708616780045352},{path="chatsounds/autoadd/markorepairs/button/button3.ogg",length=0.92133786848072563}}
 L["bye"]={{path="chatsounds/autoadd/markorepairs/bye.ogg",length=0.56598639455782318}}
-L["bye bye"]={{path="chatsounds/autoadd/markorepairs/bye bye/bye bye Copy.ogg",length=0.78947845804988659},{path="chatsounds/autoadd/markorepairs/bye bye/bye bye.ogg",length=1.0013605442176872}}
+L["bye bye"]={{path="chatsounds/autoadd/markorepairs/bye bye/bye bye copy.ogg",length=0.78947845804988659},{path="chatsounds/autoadd/markorepairs/bye bye/bye bye.ogg",length=1.0013605442176872}}
 L["bye bye bye bye"]={{path="chatsounds/autoadd/markorepairs/bye bye bye bye.ogg",length=1.7893877551020407}}
 L["bye bye finland"]={{path="chatsounds/autoadd/markorepairs/bye bye finland/bye bye finland.ogg",length=1.2756462585034014},{path="chatsounds/autoadd/markorepairs/bye bye finland/bye bye finnland.ogg",length=1.5020408163265306}}
 L["caps"]={{path="chatsounds/autoadd/markorepairs/caps/caps.ogg",length=0.51612244897959181},{path="chatsounds/autoadd/markorepairs/caps/caps2.ogg",length=0.40000000000000002}}
@@ -49,7 +49,7 @@ L["country"]={{path="chatsounds/autoadd/markorepairs/country.ogg",length=0.49777
 L["crazy"]={{path="chatsounds/autoadd/markorepairs/crazy.ogg",length=0.73287981859410434}}
 L["da"]={{path="chatsounds/autoadd/markorepairs/da.ogg",length=0.374421768707483}}
 L["da shipman"]={{path="chatsounds/autoadd/markorepairs/da shipman.ogg",length=1.0187755102040816}}
-L["dat"]={{path="chatsounds/autoadd/markorepairs/dat/dat Copy.ogg",length=1.2132426303854875},{path="chatsounds/autoadd/markorepairs/dat/dat.ogg",length=0.27863945578231292}}
+L["dat"]={{path="chatsounds/autoadd/markorepairs/dat/dat copy.ogg",length=1.2132426303854875},{path="chatsounds/autoadd/markorepairs/dat/dat.ogg",length=0.27863945578231292}}
 L["dat is correct"]={{path="chatsounds/autoadd/markorepairs/dat is correct.ogg",length=1.1639002267573697}}
 L["dat is crazy"]={{path="chatsounds/autoadd/markorepairs/dat is crazy.ogg",length=1.0927891156462586}}
 L["dat is great"]={{path="chatsounds/autoadd/markorepairs/dat is great.ogg",length=0.88961451247165535}}
@@ -102,7 +102,7 @@ L["i ready"]={{path="chatsounds/autoadd/markorepairs/i ready.ogg",length=0.88723
 L["i sniff my rose"]={{path="chatsounds/autoadd/markorepairs/i sniff my rose.ogg",length=6}}
 L["i take my coffee"]={{path="chatsounds/autoadd/markorepairs/i take my coffee.ogg",length=2.3036734693877552}}
 L["i talk only english yes"]={{path="chatsounds/autoadd/markorepairs/i talk only english yes.ogg",length=6.488866213151927}}
-L["i try"]={{path="chatsounds/autoadd/markorepairs/i try/i try Copy.ogg",length=0.71256235827664394},{path="chatsounds/autoadd/markorepairs/i try/i try.ogg",length=0.69369614512471656}}
+L["i try"]={{path="chatsounds/autoadd/markorepairs/i try/i try copy.ogg",length=0.71256235827664394},{path="chatsounds/autoadd/markorepairs/i try/i try.ogg",length=0.69369614512471656}}
 L["i very sad"]={{path="chatsounds/autoadd/markorepairs/i very sad.ogg",length=1.5949206349206348}}
 L["i want dat"]={{path="chatsounds/autoadd/markorepairs/i want dat.ogg",length=1.1421315192743764}}
 L["i want only dat"]={{path="chatsounds/autoadd/markorepairs/i want only dat.ogg",length=1.5005895691609978}}

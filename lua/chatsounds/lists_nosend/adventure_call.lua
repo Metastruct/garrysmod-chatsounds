@@ -1,6 +1,6 @@
 c.StartList("adventure_call")
 L["and fall from the tower"]={{path="chatsounds/autoadd/adventure_call/and fall from the tower.ogg",length=2.1095011337868481}}
-L["and i will be your guide on your quest"]={{path="chatsounds/autoadd/adventure_call/and I will be your guide on your quest.ogg",length=2.5557596371882085}}
+L["and i will be your guide on your quest"]={{path="chatsounds/autoadd/adventure_call/and i will be your guide on your quest.ogg",length=2.5557596371882085}}
 L["greetings line 5 what is your name traveler"]={{path="chatsounds/autoadd/adventure_call/greetings line 5 what is your name traveler.ogg",length=2.9107256235827665}}
 L["i do not possess the powers"]={{path="chatsounds/autoadd/adventure_call/i do not possess the powers.ogg",length=2.0689569160997734}}
 L["lets take another call"]={{path="chatsounds/autoadd/adventure_call/lets take another call.ogg",length=1.5315419501133787}}

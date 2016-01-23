@@ -12,7 +12,7 @@ L["ello guvna"]={{path="chatsounds/autoadd/youtube_expedition_1/ello guvna.ogg",
 L["elo guvna"]={{path="chatsounds/autoadd/youtube_expedition_1/elo guvna.ogg",length=1.6730839002267575}}
 L["gotcha scared ya"]={{path="chatsounds/autoadd/youtube_expedition_1/gotcha scared ya.ogg",length=2.1398412698412699}}
 L["hey everybody im looking at gay porno"]={{path="chatsounds/autoadd/youtube_expedition_1/hey everybody im looking at gay porno.ogg",length=3.6712698412698415}}
-L["horse neigh"]={{path="chatsounds/autoadd/youtube_expedition_1/Horse Neigh.ogg",length=5.2908616780045348}}
+L["horse neigh"]={{path="chatsounds/autoadd/youtube_expedition_1/horse neigh.ogg",length=5.2908616780045348}}
 L["i must break you"]={{path="chatsounds/autoadd/youtube_expedition_1/i must break you.ogg",length=1.3846258503401361}}
 L["im the one that asked for the butter"]={{path="chatsounds/autoadd/youtube_expedition_1/im the one that asked for the butter.ogg",length=1.7308616780045352}}
 L["its free real estate"]={{path="chatsounds/autoadd/youtube_expedition_1/its free real estate/its free real estate.ogg",length=1.5189569160997733},{path="chatsounds/autoadd/youtube_expedition_1/its free real estate/its free real estate2.ogg",length=1.0673015873015872}}

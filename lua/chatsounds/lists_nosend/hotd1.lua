@@ -7,12 +7,12 @@ L["ahh its locked"]={{path="chatsounds/autoadd/hotd1/ahh its locked.ogg",length=
 L["are you okay"]={{path="chatsounds/autoadd/hotd1/are you okay.ogg",length=0.89541950113378688}}
 L["better be ready curien"]={{path="chatsounds/autoadd/hotd1/better be ready curien.ogg",length=1.4106122448979592}}
 L["but you will never ever defeat me say hello to my masterpiece"]={{path="chatsounds/autoadd/hotd1/but you will never ever defeat me say hello to my masterpiece.ogg",length=8.6058956916099767}}
-L["curien"]={{path="chatsounds/autoadd/hotd1/curien.ogg",length=0.72126984126984128},{path="chatsounds/autoadd/hotd1/curien/curien.ogg",length=0.72126984126984128},{path="chatsounds/autoadd/hotd1/curien/O_VOC63.ogg",length=0.5703401360544218}}
+L["curien"]={{path="chatsounds/autoadd/hotd1/curien.ogg",length=0.72126984126984128},{path="chatsounds/autoadd/hotd1/curien/curien.ogg",length=0.72126984126984128},{path="chatsounds/autoadd/hotd1/curien/o_voc63.ogg",length=0.5703401360544218}}
 L["die"]={{path="chatsounds/autoadd/hotd1/die.ogg",length=0.6093877551020408}}
 L["dont worry hell pay for this"]={{path="chatsounds/autoadd/hotd1/dont worry hell pay for this.ogg",length=2.8197732426303856}}
 L["everything is over"]={{path="chatsounds/autoadd/hotd1/everything is over.ogg",length=1.0463492063492064}}
 L["farewell sophie"]={{path="chatsounds/autoadd/hotd1/farewell sophie.ogg",length=1.5658956916099773}}
-L["goodbye curien"]={{path="chatsounds/autoadd/hotd1/goodbye curien.ogg",length=1.146485260770975},{path="chatsounds/autoadd/hotd1/goodbye curien/goodbye curien.ogg",length=1.146485260770975},{path="chatsounds/autoadd/hotd1/goodbye curien/O_VOC86.ogg",length=1.3177324263038548}}
+L["goodbye curien"]={{path="chatsounds/autoadd/hotd1/goodbye curien.ogg",length=1.146485260770975},{path="chatsounds/autoadd/hotd1/goodbye curien/goodbye curien.ogg",length=1.146485260770975},{path="chatsounds/autoadd/hotd1/goodbye curien/o_voc86.ogg",length=1.3177324263038548}}
 L["hotd1gun"]={{path="chatsounds/autoadd/hotd1/hotd1gun.ogg",length=0.78712018140589568}}
 L["hotdheartbeat"]={{path="chatsounds/autoadd/hotd1/hotdheartbeat.ogg",length=0.52920634920634924}}
 L["however i must go on"]={{path="chatsounds/autoadd/hotd1/however i must go on.ogg",length=2.0230385487528344}}
@@ -27,8 +27,8 @@ L["i was so scared"]={{path="chatsounds/autoadd/hotd1/i was so scared.ogg",lengt
 L["ill finish you here"]={{path="chatsounds/autoadd/hotd1/ill finish you here.ogg",length=2.1768707482993199}}
 L["ill get you curien"]={{path="chatsounds/autoadd/hotd1/ill get you curien.ogg",length=1.8155102040816327}}
 L["implaugh"]={{path="chatsounds/autoadd/hotd1/implaugh.ogg",length=0.88190476190476186}}
-L["its a dead end"]={{path="chatsounds/autoadd/hotd1/its a dead end.ogg",length=0.966530612244898},{path="chatsounds/autoadd/hotd1/its a dead end/its a dead end.ogg",length=0.966530612244898},{path="chatsounds/autoadd/hotd1/its a dead end/O_VOC49.ogg",length=0.89251700680272106}}
-L["its too late"]={{path="chatsounds/autoadd/hotd1/its too late.ogg",length=1.1043990929705216},{path="chatsounds/autoadd/hotd1/its too late/its too late.ogg",length=1.1043990929705216},{path="chatsounds/autoadd/hotd1/its too late/O_VOC61.ogg",length=1.0448979591836736}}
+L["its a dead end"]={{path="chatsounds/autoadd/hotd1/its a dead end.ogg",length=0.966530612244898},{path="chatsounds/autoadd/hotd1/its a dead end/its a dead end.ogg",length=0.966530612244898},{path="chatsounds/autoadd/hotd1/its a dead end/o_voc49.ogg",length=0.89251700680272106}}
+L["its too late"]={{path="chatsounds/autoadd/hotd1/its too late.ogg",length=1.1043990929705216},{path="chatsounds/autoadd/hotd1/its too late/its too late.ogg",length=1.1043990929705216},{path="chatsounds/autoadd/hotd1/its too late/o_voc61.ogg",length=1.0448979591836736}}
 L["its you"]={{path="chatsounds/autoadd/hotd1/its you.ogg",length=1.0608616780045352}}
 L["lets go in"]={{path="chatsounds/autoadd/hotd1/lets go in.ogg",length=0.70675736961451252}}
 L["mission completed"]={{path="chatsounds/autoadd/hotd1/mission completed.ogg",length=1.0129705215419502}}
@@ -41,25 +41,25 @@ L["ohnoo"]={{path="chatsounds/autoadd/hotd1/ohnoo.ogg",length=0.8562358276643991
 L["ok curien now its your turn"]={{path="chatsounds/autoadd/hotd1/ok curien now its your turn.ogg",length=2.36843537414966}}
 L["others are still inside save them"]={{path="chatsounds/autoadd/hotd1/others are still inside save them.ogg",length=2.6398185941043084}}
 L["ow"]={{path="chatsounds/autoadd/hotd1/ow.ogg",length=0.44553287981859413}}
-L["oww"]={{path="chatsounds/autoadd/hotd1/oww.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/hotd1/oww/oww.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/hotd1/oww/O_VOC93.ogg",length=0.50068027210884358}}
+L["oww"]={{path="chatsounds/autoadd/hotd1/oww.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/hotd1/oww/oww.ogg",length=0.48036281179138324},{path="chatsounds/autoadd/hotd1/oww/o_voc93.ogg",length=0.50068027210884358}}
 L["oww noo"]={{path="chatsounds/autoadd/hotd1/oww noo.ogg",length=1.0376417233560091}}
 L["quick open the lock"]={{path="chatsounds/autoadd/hotd1/quick open the lock.ogg",length=1.1972789115646258}}
 L["run run"]={{path="chatsounds/autoadd/hotd1/run run.ogg",length=1.3598185941043084}}
 L["shall we go now"]={{path="chatsounds/autoadd/hotd1/shall we go now.ogg",length=1.0434467120181405}}
 L["shoot outside of the screen"]={{path="chatsounds/autoadd/hotd1/shoot outside of the screen.ogg",length=1.6732879818594104}}
-L["sophie"]={{path="chatsounds/autoadd/hotd1/sophie.ogg",length=0.74158730158730157},{path="chatsounds/autoadd/hotd1/sophie/O_VOC20.ogg",length=0.93750566893424037},{path="chatsounds/autoadd/hotd1/sophie/O_VOC38.ogg",length=0.80253968253968255},{path="chatsounds/autoadd/hotd1/sophie/O_VOC45.ogg",length=0.8126984126984127},{path="chatsounds/autoadd/hotd1/sophie/sophie.ogg",length=0.74158730158730157}}
+L["sophie"]={{path="chatsounds/autoadd/hotd1/sophie.ogg",length=0.74158730158730157},{path="chatsounds/autoadd/hotd1/sophie/o_voc20.ogg",length=0.93750566893424037},{path="chatsounds/autoadd/hotd1/sophie/o_voc38.ogg",length=0.80253968253968255},{path="chatsounds/autoadd/hotd1/sophie/o_voc45.ogg",length=0.8126984126984127},{path="chatsounds/autoadd/hotd1/sophie/sophie.ogg",length=0.74158730158730157}}
 L["sophie are you okay"]={{path="chatsounds/autoadd/hotd1/sophie are you okay.ogg",length=2.3698866213151928}}
 L["sure why not"]={{path="chatsounds/autoadd/hotd1/sure why not.ogg",length=1.2596825396825397}}
-L["thank you"]={{path="chatsounds/autoadd/hotd1/thank you.ogg",length=1.0637641723356008},{path="chatsounds/autoadd/hotd1/thank you/O_THAN_2.ogg",length=0.53986394557823125},{path="chatsounds/autoadd/hotd1/thank you/O_VOC27.ogg",length=0.78657596371882088},{path="chatsounds/autoadd/hotd1/thank you/O_VOC28.ogg",length=1.1900226757369614},{path="chatsounds/autoadd/hotd1/thank you/thank you.ogg",length=0.75179138321995465},{path="chatsounds/autoadd/hotd1/thank you/thank ywou.ogg",length=1.0637641723356008}}
+L["thank you"]={{path="chatsounds/autoadd/hotd1/thank you.ogg",length=1.0637641723356008},{path="chatsounds/autoadd/hotd1/thank you/o_than_2.ogg",length=0.53986394557823125},{path="chatsounds/autoadd/hotd1/thank you/o_voc27.ogg",length=0.78657596371882088},{path="chatsounds/autoadd/hotd1/thank you/o_voc28.ogg",length=1.1900226757369614},{path="chatsounds/autoadd/hotd1/thank you/thank you.ogg",length=0.75179138321995465},{path="chatsounds/autoadd/hotd1/thank you/thank ywou.ogg",length=1.0637641723356008}}
 L["thank you take this"]={{path="chatsounds/autoadd/hotd1/thank you take this.ogg",length=2.1826757369614511}}
-L["that voice"]={{path="chatsounds/autoadd/hotd1/that voice.ogg",length=0.84607709750566895},{path="chatsounds/autoadd/hotd1/that voice/O_VOC37.ogg",length=0.93460317460317466},{path="chatsounds/autoadd/hotd1/that voice/that voice.ogg",length=0.84607709750566895}}
+L["that voice"]={{path="chatsounds/autoadd/hotd1/that voice.ogg",length=0.84607709750566895},{path="chatsounds/autoadd/hotd1/that voice/o_voc37.ogg",length=0.93460317460317466},{path="chatsounds/autoadd/hotd1/that voice/that voice.ogg",length=0.84607709750566895}}
 L["the house of the dead"]={{path="chatsounds/autoadd/hotd1/the house of the dead.ogg",length=2.7297959183673468}}
-L["theres no way out curien"]={{path="chatsounds/autoadd/hotd1/theres no way out curien.ogg",length=2.1420408163265305},{path="chatsounds/autoadd/hotd1/theres no way out curien/O_VOC71.ogg",length=1.8329251700680271},{path="chatsounds/autoadd/hotd1/theres no way out curien/theres no way out curien.ogg",length=2.1420408163265305}}
+L["theres no way out curien"]={{path="chatsounds/autoadd/hotd1/theres no way out curien.ogg",length=2.1420408163265305},{path="chatsounds/autoadd/hotd1/theres no way out curien/o_voc71.ogg",length=1.8329251700680271},{path="chatsounds/autoadd/hotd1/theres no way out curien/theres no way out curien.ogg",length=2.1420408163265305}}
 L["theyre inside help them"]={{path="chatsounds/autoadd/hotd1/theyre inside help them.ogg",length=2.066575963718821}}
 L["theyre still upstairs"]={{path="chatsounds/autoadd/hotd1/theyre still upstairs.ogg",length=1.1377777777777778}}
 L["this is as far as you go"]={{path="chatsounds/autoadd/hotd1/this is as far as you go.ogg",length=3.1187301587301586}}
-L["this is terrible"]={{path="chatsounds/autoadd/hotd1/this is terrible.ogg",length=1.0753741496598639},{path="chatsounds/autoadd/hotd1/this is terrible/O_VOC26.ogg",length=1.1232653061224489},{path="chatsounds/autoadd/hotd1/this is terrible/this is terrible.ogg",length=1.0753741496598639}}
-L["this must be the security card"]={{path="chatsounds/autoadd/hotd1/this must be the security card.ogg",length=1.6631292517006804},{path="chatsounds/autoadd/hotd1/this must be the security card/O_VOC58.ogg",length=1.7545578231292518},{path="chatsounds/autoadd/hotd1/this must be the security card/this must be the security card.ogg",length=1.6631292517006804}}
+L["this is terrible"]={{path="chatsounds/autoadd/hotd1/this is terrible.ogg",length=1.0753741496598639},{path="chatsounds/autoadd/hotd1/this is terrible/o_voc26.ogg",length=1.1232653061224489},{path="chatsounds/autoadd/hotd1/this is terrible/this is terrible.ogg",length=1.0753741496598639}}
+L["this must be the security card"]={{path="chatsounds/autoadd/hotd1/this must be the security card.ogg",length=1.6631292517006804},{path="chatsounds/autoadd/hotd1/this must be the security card/o_voc58.ogg",length=1.7545578231292518},{path="chatsounds/autoadd/hotd1/this must be the security card/this must be the security card.ogg",length=1.6631292517006804}}
 L["uhg"]={{path="chatsounds/autoadd/hotd1/uhg.ogg",length=0.39038548752834468}}
 L["unblock"]={{path="chatsounds/autoadd/hotd1/unblock.ogg",length=0.84317460317460313}}
 L["use this"]={{path="chatsounds/autoadd/hotd1/use this.ogg",length=0.68789115646258503}}
@@ -73,5 +73,5 @@ L["who are you"]={{path="chatsounds/autoadd/hotd1/who are you.ogg",length=1.4439
 L["you havent seen anything yet"]={{path="chatsounds/autoadd/hotd1/you havent seen anything yet.ogg",length=6.2911564625850342}}
 L["you must stop curien or else something terrible will happen"]={{path="chatsounds/autoadd/hotd1/you must stop curien or else something terrible will happen.ogg",length=7.0995011337868483}}
 L["you shall all die hahahahahahahaha"]={{path="chatsounds/autoadd/hotd1/you shall all die hahahahahahahaha.ogg",length=6.8426303854875288}}
-L["zombie"]={{path="chatsounds/autoadd/hotd1/zombie/zombie Copy.ogg",length=1.1230839002267574},{path="chatsounds/autoadd/hotd1/zombie/zombie Copy1.ogg",length=1.2835374149659864},{path="chatsounds/autoadd/hotd1/zombie/zombie Copy2.ogg",length=1.9273469387755102},{path="chatsounds/autoadd/hotd1/zombie/zombie Copy3.ogg",length=1.2950566893424036},{path="chatsounds/autoadd/hotd1/zombie/zombie Copy4.ogg",length=0.55628117913832198},{path="chatsounds/autoadd/hotd1/zombie/zombie.ogg",length=0.95519274376417229}}
+L["zombie"]={{path="chatsounds/autoadd/hotd1/zombie/zombie copy.ogg",length=1.1230839002267574},{path="chatsounds/autoadd/hotd1/zombie/zombie copy1.ogg",length=1.2835374149659864},{path="chatsounds/autoadd/hotd1/zombie/zombie copy2.ogg",length=1.9273469387755102},{path="chatsounds/autoadd/hotd1/zombie/zombie copy3.ogg",length=1.2950566893424036},{path="chatsounds/autoadd/hotd1/zombie/zombie copy4.ogg",length=0.55628117913832198},{path="chatsounds/autoadd/hotd1/zombie/zombie.ogg",length=0.95519274376417229}}
 c.EndList()

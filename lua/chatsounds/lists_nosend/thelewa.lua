@@ -12,7 +12,7 @@ L["also this map is definitely fullcomboable"]={{path="chatsounds/autoadd/thelew
 L["and as always"]={{path="chatsounds/autoadd/thelewa/and as always.ogg",length=1.4701133786848073}}
 L["and as always we do not disable anything"]={{path="chatsounds/autoadd/thelewa/and as always we do not disable anything.ogg",length=2.9765079365079363}}
 L["ar9point3"]={{path="chatsounds/autoadd/thelewa/ar9point3.ogg",length=1.1247165532879819}}
-L["ar9point5"]={{path="chatsounds/autoadd/thelewa/ar9point5/ar9point5 Copy.ogg",length=1.1726077097505669},{path="chatsounds/autoadd/thelewa/ar9point5/ar9point5.ogg",length=1.1189115646258503}}
+L["ar9point5"]={{path="chatsounds/autoadd/thelewa/ar9point5/ar9point5 copy.ogg",length=1.1726077097505669},{path="chatsounds/autoadd/thelewa/ar9point5/ar9point5.ogg",length=1.1189115646258503}}
 L["bandaria travellers"]={{path="chatsounds/autoadd/thelewa/bandaria travellers.ogg",length=1.4512471655328798}}
 L["bpm 300"]={{path="chatsounds/autoadd/thelewa/bpm 300.ogg",length=1.6108843537414965}}
 L["but now it hurts here"]={{path="chatsounds/autoadd/thelewa/but now it hurts here.ogg",length=0.91138321995464855}}
@@ -142,5 +142,5 @@ L["wow what a miss"]={{path="chatsounds/autoadd/thelewa/wow what a miss.ogg",len
 L["wuah"]={{path="chatsounds/autoadd/thelewa/wuah.ogg",length=0.37587301587301586}}
 L["yawn"]={{path="chatsounds/autoadd/thelewa/yawn.ogg",length=0.77931972789115644}}
 L["yeah lets try inbachi"]={{path="chatsounds/autoadd/thelewa/yeah lets try inbachi.ogg",length=1.5731519274376418}}
-L["yeh"]={{path="chatsounds/autoadd/thelewa/yeh/yeh Copy.ogg",length=0.49777777777777776},{path="chatsounds/autoadd/thelewa/yeh/yeh.ogg",length=0.44698412698412698}}
+L["yeh"]={{path="chatsounds/autoadd/thelewa/yeh/yeh copy.ogg",length=0.49777777777777776},{path="chatsounds/autoadd/thelewa/yeh/yeh.ogg",length=0.44698412698412698}}
 c.EndList()

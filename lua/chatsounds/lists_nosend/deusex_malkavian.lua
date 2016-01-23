@@ -9,7 +9,7 @@ L["do you have any idea how to multiply"]={{path="chatsounds/autoadd/deusex_malk
 L["first word gep gun"]={{path="chatsounds/autoadd/deusex_malkavian/first word gep gun.ogg",length=2.0159863945578231}}
 L["get moving"]={{path="chatsounds/autoadd/deusex_malkavian/get moving.ogg",length=0.74158730158730157}}
 L["get pills"]={{path="chatsounds/autoadd/deusex_malkavian/get pills.ogg",length=0.76886621315192749}}
-L["get pills against my orders get moving"]={{path="chatsounds/autoadd/deusex_malkavian/get PILLS against my orders get moving.ogg",length=3.3697959183673469}}
+L["get pills against my orders get moving"]={{path="chatsounds/autoadd/deusex_malkavian/get pills against my orders get moving.ogg",length=3.3697959183673469}}
 L["homeless people with a wrecking ball driving a nail down the soldiers bodies"]={{path="chatsounds/autoadd/deusex_malkavian/homeless people with a wrecking ball driving a nail down the soldiers bodies.ogg",length=4.7542857142857144}}
 L["i do not move out of the way"]={{path="chatsounds/autoadd/deusex_malkavian/i do not move out of the way.ogg",length=1.6199773242630386}}
 L["i just want to find some food"]={{path="chatsounds/autoadd/deusex_malkavian/i just want to find some food.ogg",length=2.1239909297052155}}
@@ -31,9 +31,9 @@ L["this would be our only dish until the criminals and students start running th
 L["try some word associations"]={{path="chatsounds/autoadd/deusex_malkavian/try some word associations.ogg",length=2.1239909297052155}}
 L["use force encourage acts of terror"]={{path="chatsounds/autoadd/deusex_malkavian/use force encourage acts of terror.ogg",length=2.2679818594104306}}
 L["we can not tell you what we do not know about smuggler"]={{path="chatsounds/autoadd/deusex_malkavian/we can not tell you what we do not know about smuggler.ogg",length=2.6999773242630387}}
-L["we each have our troubles you had to grow up without your parents but i lost my pocket knife"]={{path="chatsounds/autoadd/deusex_malkavian/we each have our troubles you had to grow up without your parents but I lost my pocket knife.ogg",length=6.4079818594104312}}
+L["we each have our troubles you had to grow up without your parents but i lost my pocket knife"]={{path="chatsounds/autoadd/deusex_malkavian/we each have our troubles you had to grow up without your parents but i lost my pocket knife.ogg",length=6.4079818594104312}}
 L["well like you we lack certain components of your daughter"]={{path="chatsounds/autoadd/deusex_malkavian/well like you we lack certain components of your daughter.ogg",length=4.1039909297052155}}
-L["were 100 percent black"]={{path="chatsounds/autoadd/deusex_malkavian/were 100 percent BLACK.ogg",length=2.0879818594104309}}
+L["were 100 percent black"]={{path="chatsounds/autoadd/deusex_malkavian/were 100 percent black.ogg",length=2.0879818594104309}}
 L["which means you would need an army to multiply a very large prime number"]={{path="chatsounds/autoadd/deusex_malkavian/which means you would need an army to multiply a very large prime number.ogg",length=4.1039909297052155}}
 L["yes indeed by the way denton my three daughters turned up dead heres your op bonus 1000 credits"]={{path="chatsounds/autoadd/deusex_malkavian/yes indeed by the way denton my three daughters turned up dead heres your op bonus 1000 credits.ogg",length=7.7583673469387753}}
 L["you can have my sawedoff shotgun"]={{path="chatsounds/autoadd/deusex_malkavian/you can have my sawedoff shotgun.ogg",length=1.9439909297052154}}

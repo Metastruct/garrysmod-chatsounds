@@ -23,7 +23,7 @@ L["iwillfindmyparents"]={{path="chatsounds/autoadd/octosound/iwillfindmyparents.
 L["kindaweirdalittlebitdifferent"]={{path="chatsounds/autoadd/octosound/kindaweirdalittlebitdifferent.ogg",length=8.263174603174603}}
 L["lookslikesomechicken"]={{path="chatsounds/autoadd/octosound/lookslikesomechicken.ogg",length=5.853083900226757}}
 L["loudscream"]={{path="chatsounds/autoadd/octosound/loudscream.ogg",length=0.96403628117913831}}
-L["maybeifitouchit"]={{path="chatsounds/autoadd/octosound/maybeifItouchit.ogg",length=3.064263038548753}}
+L["maybeifitouchit"]={{path="chatsounds/autoadd/octosound/maybeifitouchit.ogg",length=3.064263038548753}}
 L["maybeimrelaxing"]={{path="chatsounds/autoadd/octosound/maybeimrelaxing.ogg",length=2.1346485260770973}}
 L["notagoodoneletmetrythisone"]={{path="chatsounds/autoadd/octosound/notagoodoneletmetrythisone.ogg",length=2.2035147392290249}}
 L["octocatsaveus"]={{path="chatsounds/autoadd/octosound/octocatsaveus.ogg",length=8.1599092970521543}}
@@ -41,7 +41,7 @@ L["takebreath"]={{path="chatsounds/autoadd/octosound/takebreath.ogg",length=0.99
 L["uhhcupoftea"]={{path="chatsounds/autoadd/octosound/uhhcupoftea.ogg",length=1.5837641723356009}}
 L["walkoverit"]={{path="chatsounds/autoadd/octosound/walkoverit.ogg",length=1.3083219954648526}}
 L["whatshappening"]={{path="chatsounds/autoadd/octosound/whatshappening.ogg",length=1.3772108843537414}}
-L["whatshouldido"]={{path="chatsounds/autoadd/octosound/whatshouldIdo.ogg",length=5.7497959183673473}}
+L["whatshouldido"]={{path="chatsounds/autoadd/octosound/whatshouldido.ogg",length=5.7497959183673473}}
 L["whatsinhere"]={{path="chatsounds/autoadd/octosound/whatsinhere.ogg",length=3.1675510204081632}}
 L["whatsinthisdooribetteropenitandsee"]={{path="chatsounds/autoadd/octosound/whatsinthisdooribetteropenitandsee.ogg",length=2.8921088435374149}}
 L["woahaahwhatsoverthere"]={{path="chatsounds/autoadd/octosound/woahaahwhatsoverthere.ogg",length=2.1690929705215418}}

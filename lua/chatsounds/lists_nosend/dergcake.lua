@@ -1,5 +1,5 @@
 c.StartList("dergcake")
-L["aleluia"]={{path="chatsounds/autoadd/dergcake/ALELUIA.ogg",length=2.3219954648526078}}
+L["aleluia"]={{path="chatsounds/autoadd/dergcake/aleluia.ogg",length=2.3219954648526078}}
 L["but i need to protect the humens"]={{path="chatsounds/autoadd/dergcake/but i need to protect the humens.ogg",length=2.1973696145124717}}
 L["dad im in space"]={{path="chatsounds/autoadd/dergcake/dad im in space.ogg",length=6.6089795918367349}}
 L["darklow"]={{path="chatsounds/autoadd/dergcake/darklow/darklow1.ogg",length=0.82798185941043079},{path="chatsounds/autoadd/dergcake/darklow/darklow2.ogg",length=0.75600907029478459}}

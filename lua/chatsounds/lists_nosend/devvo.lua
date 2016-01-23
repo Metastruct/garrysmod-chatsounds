@@ -26,7 +26,7 @@ L["what are you eatin"]={{path="chatsounds/autoadd/devvo/what are you eatin.ogg"
 L["what are you lookin at"]={{path="chatsounds/autoadd/devvo/what are you lookin at.ogg",length=1.0308390022675737}}
 L["you dickhead"]={{path="chatsounds/autoadd/devvo/you dickhead.ogg",length=1.0782312925170068}}
 L["you fokin dick"]={{path="chatsounds/autoadd/devvo/you fokin dick.ogg",length=1.8783673469387756}}
-L["you fokin dickhead"]={{path="chatsounds/autoadd/devvo/you fokin dickhead/fokin dickhead Copy.ogg",length=1.6852607709750567},{path="chatsounds/autoadd/devvo/you fokin dickhead/fokin dickhead.ogg",length=1.5272789115646259}}
+L["you fokin dickhead"]={{path="chatsounds/autoadd/devvo/you fokin dickhead/fokin dickhead copy.ogg",length=1.6852607709750567},{path="chatsounds/autoadd/devvo/you fokin dickhead/fokin dickhead.ogg",length=1.5272789115646259}}
 L["you fokin dickheads"]={{path="chatsounds/autoadd/devvo/you fokin dickheads.ogg",length=2.4582993197278911}}
 L["you fokin gay"]={{path="chatsounds/autoadd/devvo/you fokin gay.ogg",length=1.991609977324263}}
 L["you fokin gay cars"]={{path="chatsounds/autoadd/devvo/you fokin gay cars.ogg",length=2.351360544217687}}

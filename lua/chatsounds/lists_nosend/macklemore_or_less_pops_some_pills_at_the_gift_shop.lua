@@ -9,7 +9,7 @@ L["im gonna fuck my grandads big asshole"]={{path="chatsounds/autoadd/macklemore
 L["im gonna tag my pocket"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/im gonna tag my pocket.ogg",length=2.1844217687074829}}
 L["im just pumped about some 50 dollars t shirts"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/im just pumped about some 50 dollars t shirts.ogg",length=2.6012925170068026}}
 L["imma take him grandpas house"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/imma take him grandpas house.ogg",length=1.346938775510204}}
-L["it was 999999999999999"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/It was 999999999999999.ogg",length=3.0486621315192743}}
+L["it was 999999999999999"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/it was 999999999999999.ogg",length=3.0486621315192743}}
 L["just fuck it"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/just fuck it.ogg",length=1.3161451247165532}}
 L["mm"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/mm.ogg",length=0.40038548752834469}}
 L["nan wow"]={{path="chatsounds/autoadd/macklemore_or_less_pops_some_pills_at_the_gift_shop/nan wow.ogg",length=1.2048979591836735}}

@@ -4,9 +4,9 @@ L["about toads new creamy chipped beef corn beef hash combo can"]={{path="chatso
 L["and it right up outta the can"]={{path="chatsounds/autoadd/ron_don_volante/and it right up outta the can.ogg",length=1.7667573696145125}}
 L["as well as"]={{path="chatsounds/autoadd/ron_don_volante/as well as.ogg",length=0.86331065759637193}}
 L["availble on the web"]={{path="chatsounds/autoadd/ron_don_volante/availble on the web.ogg",length=1.303015873015873}}
-L["beef"]={{path="chatsounds/autoadd/ron_don_volante/beef/beef Copy.ogg",length=0.24709750566893424},{path="chatsounds/autoadd/ron_don_volante/beef/beef.ogg",length=0.46444444444444444}}
+L["beef"]={{path="chatsounds/autoadd/ron_don_volante/beef/beef copy.ogg",length=0.24709750566893424},{path="chatsounds/autoadd/ron_don_volante/beef/beef.ogg",length=0.46444444444444444}}
 L["beefy"]={{path="chatsounds/autoadd/ron_don_volante/beefy.ogg",length=2.2392743764172334}}
-L["bottoms up"]={{path="chatsounds/autoadd/ron_don_volante/bottoms up/bottoms up Copy.ogg",length=0.67029478458049885},{path="chatsounds/autoadd/ron_don_volante/bottoms up/bottoms up.ogg",length=0.54174603174603175}}
+L["bottoms up"]={{path="chatsounds/autoadd/ron_don_volante/bottoms up/bottoms up copy.ogg",length=0.67029478458049885},{path="chatsounds/autoadd/ron_don_volante/bottoms up/bottoms up.ogg",length=0.54174603174603175}}
 L["call me dave"]={{path="chatsounds/autoadd/ron_don_volante/call me dave.ogg",length=0.6917913832199547}}
 L["can"]={{path="chatsounds/autoadd/ron_don_volante/can.ogg",length=0.39478458049886622}}
 L["check it out baby"]={{path="chatsounds/autoadd/ron_don_volante/check it out baby.ogg",length=0.91176870748299321}}
@@ -26,7 +26,7 @@ L["eat this hash"]={{path="chatsounds/autoadd/ron_don_volante/eat this hash.ogg"
 L["entertainment news update"]={{path="chatsounds/autoadd/ron_don_volante/entertainment news update.ogg",length=1.3995238095238096}}
 L["free"]={{path="chatsounds/autoadd/ron_don_volante/free.ogg",length=0.50403628117913835}}
 L["free mp3s are availble on the web as well as live pics"]={{path="chatsounds/autoadd/ron_don_volante/free mp3s are availble on the web as well as live pics.ogg",length=4.6356235827664403}}
-L["gangster rap"]={{path="chatsounds/autoadd/ron_don_volante/gangster rap/gangster rap Copy.ogg",length=0.66700680272108848},{path="chatsounds/autoadd/ron_don_volante/gangster rap/gangster rap.ogg",length=0.64535147392290249}}
+L["gangster rap"]={{path="chatsounds/autoadd/ron_don_volante/gangster rap/gangster rap copy.ogg",length=0.66700680272108848},{path="chatsounds/autoadd/ron_don_volante/gangster rap/gangster rap.ogg",length=0.64535147392290249}}
 L["get it done at"]={{path="chatsounds/autoadd/ron_don_volante/get it done at.ogg",length=0.74306122448979595}}
 L["hash"]={{path="chatsounds/autoadd/ron_don_volante/hash.ogg",length=0.5254648526077097}}
 L["hash combo can"]={{path="chatsounds/autoadd/ron_don_volante/hash combo can.ogg",length=1.4398412698412699}}
@@ -71,13 +71,13 @@ L["singer and manager of bottoms up"]={{path="chatsounds/autoadd/ron_don_volante
 L["so i could show you where we get it done at"]={{path="chatsounds/autoadd/ron_don_volante/so i could show you where we get it done at.ogg",length=1.6768707482993197}}
 L["special spot"]={{path="chatsounds/autoadd/ron_don_volante/special spot.ogg",length=0.71852607709750571}}
 L["stove"]={{path="chatsounds/autoadd/ron_don_volante/stove.ogg",length=0.67015873015873018}}
-L["straight up gangster rap"]={{path="chatsounds/autoadd/ron_don_volante/straight up gangster rap/straight up gangster rap Copy.ogg",length=0.9639229024943311},{path="chatsounds/autoadd/ron_don_volante/straight up gangster rap/straight up gangster rap.ogg",length=1.0910884353741497}}
+L["straight up gangster rap"]={{path="chatsounds/autoadd/ron_don_volante/straight up gangster rap/straight up gangster rap copy.ogg",length=0.9639229024943311},{path="chatsounds/autoadd/ron_don_volante/straight up gangster rap/straight up gangster rap.ogg",length=1.0910884353741497}}
 L["tastes good what do you want me to do not eat this hash"]={{path="chatsounds/autoadd/ron_don_volante/tastes good what do you want me to do not eat this hash.ogg",length=3.2041723356009069}}
 L["thats right baby"]={{path="chatsounds/autoadd/ron_don_volante/thats right baby.ogg",length=1.259342403628118}}
 L["the deep soul group"]={{path="chatsounds/autoadd/ron_don_volante/the deep soul group.ogg",length=1.4906802721088435}}
 L["this is ron dons special spot baby"]={{path="chatsounds/autoadd/ron_don_volante/this is ron dons special spot baby.ogg",length=2.5148526077097504}}
 L["this is ron ron"]={{path="chatsounds/autoadd/ron_don_volante/this is ron ron.ogg",length=1.0882312925170068}}
-L["toads"]={{path="chatsounds/autoadd/ron_don_volante/toads/toads Copy.ogg",length=0.45285714285714285},{path="chatsounds/autoadd/ron_don_volante/toads/toads.ogg",length=0.43707482993197277}}
+L["toads"]={{path="chatsounds/autoadd/ron_don_volante/toads/toads copy.ogg",length=0.45285714285714285},{path="chatsounds/autoadd/ron_don_volante/toads/toads.ogg",length=0.43707482993197277}}
 L["toke it up toke it up baby"]={{path="chatsounds/autoadd/ron_don_volante/toke it up toke it up baby.ogg",length=1.3904761904761904}}
 L["what do you me to do"]={{path="chatsounds/autoadd/ron_don_volante/what do you me to do.ogg",length=1.0269841269841269}}
 L["what do you want me to do"]={{path="chatsounds/autoadd/ron_don_volante/what do you want me to do.ogg",length=1.0643764172335601}}

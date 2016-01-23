@@ -35,6 +35,6 @@ L["this is sargent pridget"]={{path="chatsounds/autoadd/breen/this is sargent pr
 L["what do you got for me now"]={{path="chatsounds/autoadd/breen/what do you got for me now.ogg",length=2.1691156462585033}}
 L["what the hell is"]={{path="chatsounds/autoadd/breen/what the hell is.ogg",length=2.441315192743764}}
 L["will you get that greaseburger out of your face and get on this"]={{path="chatsounds/autoadd/breen/will you get that greaseburger out of your face and get on this.ogg",length=4.2358503401360545}}
-L["yes"]={{path="chatsounds/autoadd/breen/yes/yes Copy.ogg",length=0.56281179138321991},{path="chatsounds/autoadd/breen/yes/yes.ogg",length=0.3802721088435374}}
+L["yes"]={{path="chatsounds/autoadd/breen/yes/yes copy.ogg",length=0.56281179138321991},{path="chatsounds/autoadd/breen/yes/yes.ogg",length=0.3802721088435374}}
 L["yes what"]={{path="chatsounds/autoadd/breen/yes what.ogg",length=1.290204081632653}}
 c.EndList()

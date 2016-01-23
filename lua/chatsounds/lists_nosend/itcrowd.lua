@@ -3,7 +3,7 @@ L["01189998819991197253"]={{path="chatsounds/autoadd/itcrowd/0118999881999119725
 L["3"]={{path="chatsounds/autoadd/itcrowd/3/3-1.ogg",length=0.50952380952380949},{path="chatsounds/autoadd/itcrowd/3/3-2.ogg",length=0.65587301587301583},{path="chatsounds/autoadd/itcrowd/3/3-3.ogg",length=0.56412698412698414}}
 L["and better looking drivers"]={{path="chatsounds/autoadd/itcrowd/and better looking drivers.ogg",length=1.6119501133786849}}
 L["and thats not the only thing thats changing"]={{path="chatsounds/autoadd/itcrowd/and thats not the only thing thats changing.ogg",length=2.1593877551020406}}
-L["electricsexpants"]={{path="chatsounds/autoadd/itcrowd/ElectricSexPants.ogg",length=3.3316780045351475}}
+L["electricsexpants"]={{path="chatsounds/autoadd/itcrowd/electricsexpants.ogg",length=3.3316780045351475}}
 L["faster response times"]={{path="chatsounds/autoadd/itcrowd/faster response times.ogg",length=1.3481179138321995}}
 L["fixmypants"]={{path="chatsounds/autoadd/itcrowd/fixmypants.ogg",length=2.783106575963719}}
 L["from today dialing 999 wont get you the emergency services"]={{path="chatsounds/autoadd/itcrowd/from today dialing 999 wont get you the emergency services.ogg",length=4.9253741496598638}}

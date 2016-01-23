@@ -19,7 +19,7 @@ L["meeow"]={{path="chatsounds/autoadd/felicia/meeow.ogg",length=0.94199546485260
 L["mya"]={{path="chatsounds/autoadd/felicia/mya.ogg",length=0.85800453514739228}}
 L["no no no"]={{path="chatsounds/autoadd/felicia/no no no.ogg",length=2.5060090702947844}}
 L["no way"]={{path="chatsounds/autoadd/felicia/no way.ogg",length=1.7150113378684808}}
-L["ouchie"]={{path="chatsounds/autoadd/felicia/Ouchie.ogg",length=1.1100000000000001}}
+L["ouchie"]={{path="chatsounds/autoadd/felicia/ouchie.ogg",length=1.1100000000000001}}
 L["please help me"]={{path="chatsounds/autoadd/felicia/please help me.ogg",length=1.6990022675736962}}
 L["pleased to meet ya"]={{path="chatsounds/autoadd/felicia/pleased to meet ya.ogg",length=1.009002267573696}}
 L["showtime"]={{path="chatsounds/autoadd/felicia/showtime.ogg",length=1.1439909297052153}}
