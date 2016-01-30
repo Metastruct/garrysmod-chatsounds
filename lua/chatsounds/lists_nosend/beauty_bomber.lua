@@ -25,6 +25,7 @@ L["kaching"]={{path="chatsounds/autoadd/beauty_bomber/kaching.ogg",length=1.5866
 L["keel over and die"]={{path="chatsounds/autoadd/beauty_bomber/keel over and die.ogg",length=3.0563265306122447}}
 L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/beauty_bomber/leedle leedle leedle lee.ogg",length=1.75}}
 L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",length=2.3250113378684807}}
+L["meme school"]={{path="chatsounds/autoadd/beauty_bomber/meme school.ogg",length=1.0669841269841269}}
 L["michaelow"]={{path="chatsounds/autoadd/beauty_bomber/michaelow.ogg",length=1.1839909297052154}}
 L["michaelshutup"]={{path="chatsounds/autoadd/beauty_bomber/michaelshutup.ogg",length=0.77600907029478461}}
 L["mindblown"]={{path="chatsounds/autoadd/beauty_bomber/mindblown.ogg",length=23.797551020408164}}
