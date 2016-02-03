@@ -14,12 +14,12 @@ L["ha got eem"]={{path="chatsounds/autoadd/camobunny/ha got eem.ogg",length=1.81
 L["he thought it would be fun to be xavier"]={{path="chatsounds/autoadd/camobunny/he thought it would be fun to be xavier.ogg",length=2.8238548752834469}}
 L["here in my garage just bought this uh new lamborghini here"]={{path="chatsounds/autoadd/camobunny/here in my garage just bought this uh new lamborghini here.ogg",length=3.4972562358276642}}
 L["i got one question for you"]={{path="chatsounds/autoadd/camobunny/i got one question for you.ogg",length=1.342517006802721}}
-L["im a lot more proud of the seven new bookshelfs i had to get installed the whole two thousand new books that i bought"]={{path="chatsounds/autoadd/camobunny/im a lot more proud of the seven new bookshelfs i had to get installed the whole two thousand new books that i bought.ogg",length=6.3617006802721088}}
+L["im a lot more proud of the seven new bookshelfs i had to get installed the whole two thousand new books that i bought"]={{path="chatsounds/autoadd/camobunny/im a lot more proud of the seven new bookshelfs i had to get installed the whole two thousand new books that i bought.ogg",length=6.3783446712018144}}
 L["inside a watermelon"]={{path="chatsounds/autoadd/camobunny/inside a watermelon.ogg",length=1.8046031746031745}}
-L["its a watermelon inside a watermelon"]={{path="chatsounds/autoadd/camobunny/its a watermelon inside a watermelon.ogg",length=2.9335374149659863}}
 L["its hip to fuck bees"]={{path="chatsounds/autoadd/camobunny/its hip to fuck bees.ogg",length=1.5057369614512472}}
 L["its the most beautiful thing ive ever seen in my life"]={{path="chatsounds/autoadd/camobunny/its the most beautiful thing ive ever seen in my life.ogg",length=2.8480272108843536}}
 L["its watermelon"]={{path="chatsounds/autoadd/camobunny/its watermelon.ogg",length=1.1118367346938776}}
+L["its watermelon inside a watermelon"]={{path="chatsounds/autoadd/camobunny/its watermelon inside a watermelon.ogg",length=2.9335374149659863}}
 L["knowledge"]={{path="chatsounds/autoadd/camobunny/knowledge.ogg",length=0.91596371882086169}}
 L["lal"]={{path="chatsounds/autoadd/camobunny/lal.ogg",length=0.2856235827664399}}
 L["meoww"]={{path="chatsounds/autoadd/camobunny/meoww.ogg",length=0.69222222222222218}}
