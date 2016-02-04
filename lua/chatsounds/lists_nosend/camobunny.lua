@@ -14,7 +14,8 @@ L["ha got eem"]={{path="chatsounds/autoadd/camobunny/ha got eem.ogg",length=1.81
 L["he thought it would be fun to be xavier"]={{path="chatsounds/autoadd/camobunny/he thought it would be fun to be xavier.ogg",length=2.8238548752834469}}
 L["here in my garage just bought this uh new lamborghini here"]={{path="chatsounds/autoadd/camobunny/here in my garage just bought this uh new lamborghini here.ogg",length=3.4972562358276642}}
 L["i got one question for you"]={{path="chatsounds/autoadd/camobunny/i got one question for you.ogg",length=1.342517006802721}}
-L["im a lot more proud of the seven new bookshelfs i had to get installed the whole two thousand new books that i bought"]={{path="chatsounds/autoadd/camobunny/im a lot more proud of the seven new bookshelfs i had to get installed the whole two thousand new books that i bought.ogg",length=6.3783446712018144}}
+L["if you want some ill give it ya"]={{path="chatsounds/autoadd/camobunny/if you want some ill give it ya.ogg",length=1.6712244897959183}}
+L["im a lot more proud of the seven new bookshelfs i had to get installed"]={{path="chatsounds/autoadd/camobunny/im a lot more proud of the seven new bookshelfs i had to get installed.ogg",length=6.3783446712018144}}
 L["inside a watermelon"]={{path="chatsounds/autoadd/camobunny/inside a watermelon.ogg",length=1.8046031746031745}}
 L["its hip to fuck bees"]={{path="chatsounds/autoadd/camobunny/its hip to fuck bees.ogg",length=1.5057369614512472}}
 L["its the most beautiful thing ive ever seen in my life"]={{path="chatsounds/autoadd/camobunny/its the most beautiful thing ive ever seen in my life.ogg",length=2.8480272108843536}}
@@ -46,4 +47,5 @@ L["why the fuck you lying"]={{path="chatsounds/autoadd/camobunny/why the fuck yo
 L["why you always lying"]={{path="chatsounds/autoadd/camobunny/why you always lying.ogg",length=2.057437641723356}}
 L["you forgot the pickle"]={{path="chatsounds/autoadd/camobunny/you forgot the pickle.ogg",length=3.656190476190476}}
 L["you know i i started off in brooklyn"]={{path="chatsounds/autoadd/camobunny/you know i i started off in brooklyn.ogg",length=1.7017006802721089}}
+L["youve got no fans"]={{path="chatsounds/autoadd/camobunny/youve got no fans.ogg",length=1.5961224489795918}}
 c.EndList()
