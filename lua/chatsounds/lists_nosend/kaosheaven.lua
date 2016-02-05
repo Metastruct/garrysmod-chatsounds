@@ -5,5 +5,6 @@ L["nyeh"]={{path="chatsounds/autoadd/kaosheaven/nyeh.ogg",length=0.4768253968253
 L["ohoh"]={{path="chatsounds/autoadd/kaosheaven/ohoh.ogg",length=1.1681179138321995}}
 L["steve-o"]={{path="chatsounds/autoadd/kaosheaven/steve-o.ogg",length=1.2402494331065759}}
 L["the more you know"]={{path="chatsounds/autoadd/kaosheaven/the more you know.ogg",length=6.2693877551020405}}
+L["the part where he kills you"]={{path="chatsounds/autoadd/kaosheaven/the part where he kills you.ogg",length=38}}
 L["trials"]={{path="chatsounds/autoadd/kaosheaven/trials.ogg",length=79.226485260770971}}
 c.EndList()
