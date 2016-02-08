@@ -3,6 +3,7 @@ L["ahyooyha"]={{path="chatsounds/autoadd/tf2extra/ahyooyha.ogg",length=1.3844897
 L["are you sure this will work"]={{path="chatsounds/autoadd/tf2extra/are you sure this will work.ogg",length=1.8799773242630387}}
 L["big surprise"]={{path="chatsounds/autoadd/tf2extra/big surprise.ogg",length=0.98374149659863941}}
 L["birds"]={{path="chatsounds/autoadd/tf2extra/birds.ogg",length=0.62396825396825395}}
+L["booing"]={{path="chatsounds/autoadd/tf2extra/booing.ogg",length=5.9544671201814063}}
 L["box"]={{path="chatsounds/autoadd/tf2extra/box.ogg",length=0.60088435374149662}}
 L["but im very certain"]={{path="chatsounds/autoadd/tf2extra/but im very certain.ogg",length=1.4959637188208617}}
 L["but it was then"]={{path="chatsounds/autoadd/tf2extra/but it was then.ogg",length=0.7256235827664399}}
@@ -78,5 +79,6 @@ L["won"]={{path="chatsounds/autoadd/tf2extra/won.ogg",length=0.52795918367346939
 L["wot"]={{path="chatsounds/autoadd/tf2extra/wot/1.ogg",length=0.16784580498866214},{path="chatsounds/autoadd/tf2extra/wot/2.ogg",length=0.17551020408163265},{path="chatsounds/autoadd/tf2extra/wot/3.ogg",length=0.304875283446712},{path="chatsounds/autoadd/tf2extra/wot/4.ogg",length=0.17433106575963719}}
 L["wuuuub"]={{path="chatsounds/autoadd/tf2extra/wuuuub.ogg",length=1.3750113378684807}}
 L["yeey"]={{path="chatsounds/autoadd/tf2extra/yeey/1.ogg",length=0.33054421768707481},{path="chatsounds/autoadd/tf2extra/yeey/2.ogg",length=0.45022675736961454},{path="chatsounds/autoadd/tf2extra/yeey/3.ogg",length=0.44176870748299318},{path="chatsounds/autoadd/tf2extra/yeey/4.ogg",length=0.23224489795918368},{path="chatsounds/autoadd/tf2extra/yeey/5.ogg",length=0.48149659863945576},{path="chatsounds/autoadd/tf2extra/yeey/6.ogg",length=0.5130385487528345},{path="chatsounds/autoadd/tf2extra/yeey/7.ogg",length=0.42741496598639456}}
+L["your team lost"]={{path="chatsounds/autoadd/tf2extra/your team lost.ogg",length=9.1768707482993204}}
 L["youre invincible"]={{path="chatsounds/autoadd/tf2extra/youre invincible.ogg",length=2.461315192743764}}
 c.EndList()
