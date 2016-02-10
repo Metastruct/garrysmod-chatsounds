@@ -2,6 +2,7 @@ c.StartList("kaosheaven")
 L["has anyone heard of a website called meatspin"]={{path="chatsounds/autoadd/kaosheaven/has anyone heard of a website called meatspin.ogg",length=5.7324263038548757}}
 L["i bought your colgate toothpaste"]={{path="chatsounds/autoadd/kaosheaven/i bought your colgate toothpaste.ogg",length=8.2139229024943319}}
 L["i hope this is the puff daddy version of this song"]={{path="chatsounds/autoadd/kaosheaven/i hope this is the puff daddy version of this song.ogg",length=16.054467120181407}}
+L["i love you vagina"]={{path="chatsounds/autoadd/kaosheaven/i love you vagina.ogg",length=1.527891156462585}}
 L["i want two cheeseburgers"]={{path="chatsounds/autoadd/kaosheaven/i want two cheeseburgers.ogg",length=7.840544217687075}}
 L["leme tell you about a porcupines balls"]={{path="chatsounds/autoadd/kaosheaven/leme tell you about a porcupines balls.ogg",length=7.4672108843537419}}
 L["mkay"]={{path="chatsounds/autoadd/kaosheaven/mkay.ogg",length=0.49716553287981857}}
