@@ -10,7 +10,7 @@ L["advantages to living in the future"]={{path="chatsounds/autoadd/bill_wurtz/ad
 L["after the sun burns out and the sky falls down"]={{path="chatsounds/autoadd/bill_wurtz/after the sun burns out and the sky falls down.ogg",length=4.3388662131519276}}
 L["and destroying the entire world"]={{path="chatsounds/autoadd/bill_wurtz/and destroying the entire world.ogg",length=2.8620861678004537}}
 L["and dont die"]={{path="chatsounds/autoadd/bill_wurtz/and dont die.ogg",length=1.249342403628118}}
-L["and i watch them all day"]={{path="chatsounds/autoadd/bill_wurtz/and i watch them all day.ogg",length=1.8252154195011339}}
+L["and i watch them all day"]={{path="chatsounds/autoadd/bill_wurtz/and i watch them all day.ogg",length=1.8389342403628117}}
 L["and my keys"]={{path="chatsounds/autoadd/bill_wurtz/and my keys.ogg",length=1.437687074829932}}
 L["and my phone"]={{path="chatsounds/autoadd/bill_wurtz/and my phone.ogg",length=1.0972335600907031}}
 L["and so i think im gonna do some of it"]={{path="chatsounds/autoadd/bill_wurtz/and so i think im gonna do some of it.ogg",length=2.3134693877551022}}
@@ -247,9 +247,9 @@ L["maybe"]={{path="chatsounds/autoadd/bill_wurtz/maybe.ogg",length=1.14136054421
 L["merry christmas music funky"]={{path="chatsounds/autoadd/bill_wurtz/merry christmas music funky.ogg",length=35.240907029478457}}
 L["mondayexplanation"]={{path="chatsounds/autoadd/bill_wurtz/mondayexplanation.ogg",length=3.0937868480725625}}
 L["move over"]={{path="chatsounds/autoadd/bill_wurtz/move over.ogg",length=2.3334693877551018}}
-L["movies are cool"]={{path="chatsounds/autoadd/bill_wurtz/movies are cool.ogg",length=1.1823129251700679}}
-L["movies are nice"]={{path="chatsounds/autoadd/bill_wurtz/movies are nice.ogg",length=1.0675736961451248}}
-L["movies are nice movies are cool and i watch them all day till i puke"]={{path="chatsounds/autoadd/bill_wurtz/movies are nice movies are cool and i watch them all day till i puke.ogg",length=5.415374149659864}}
+L["movies are cool"]={{path="chatsounds/autoadd/bill_wurtz/movies are cool.ogg",length=1.1882766439909298}}
+L["movies are nice"]={{path="chatsounds/autoadd/bill_wurtz/movies are nice.ogg",length=1.0685260770975056}}
+L["movies are nice movies are cool and i watch them all day till i puke"]={{path="chatsounds/autoadd/bill_wurtz/movies are nice movies are cool and i watch them all day till i puke.ogg",length=5.0731746031746034}}
 L["music is cool"]={{path="chatsounds/autoadd/bill_wurtz/music is cool/music is cool 1.ogg",length=0.9560997732426304},{path="chatsounds/autoadd/bill_wurtz/music is cool/music is cool 2.ogg",length=0.93727891156462584}}
 L["music is really frickin cool"]={{path="chatsounds/autoadd/bill_wurtz/music is really frickin cool.ogg",length=1.60140589569161}}
 L["music makes me feel so interesting"]={{path="chatsounds/autoadd/bill_wurtz/music makes me feel so interesting.ogg",length=4.2028571428571428}}
@@ -345,7 +345,7 @@ L["this is the way we open up lots of"]={{path="chatsounds/autoadd/bill_wurtz/th
 L["this tree is green"]={{path="chatsounds/autoadd/bill_wurtz/this tree is green.ogg",length=6.5383673469387755}}
 L["throw away the garbage pail"]={{path="chatsounds/autoadd/bill_wurtz/throw away the garbage pail.ogg",length=1.2926077097505668}}
 L["throw away the garbage pail get a brand new garbage pail yeah this is good"]={{path="chatsounds/autoadd/bill_wurtz/throw away the garbage pail get a brand new garbage pail yeah this is good.ogg",length=6.3022675736961453}}
-L["till i puke"]={{path="chatsounds/autoadd/bill_wurtz/till i puke.ogg",length=0.91301587301587306}}
+L["till i puke"]={{path="chatsounds/autoadd/bill_wurtz/till i puke.ogg",length=0.97784580498866214}}
 L["time to be a generous and really nice person"]={{path="chatsounds/autoadd/bill_wurtz/time to be a generous and really nice person.ogg",length=2.9050340136054422}}
 L["time to rearrange my world"]={{path="chatsounds/autoadd/bill_wurtz/time to rearrange my world.ogg",length=2.6866666666666665}}
 L["to my cat"]={{path="chatsounds/autoadd/bill_wurtz/to my cat.ogg",length=0.63111111111111107}}
