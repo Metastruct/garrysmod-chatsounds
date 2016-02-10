@@ -199,6 +199,7 @@ L["good friends"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/good fr
 L["government"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/government.ogg",length=0.44564625850340134}}
 L["great britain"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/great britain.ogg",length=0.82358276643990924}}
 L["grownups"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/grownups.ogg",length=0.43671201814058958}}
+L["gunboats"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/gunboats.ogg",length=0.53752834467120181}}
 L["guns"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/guns.ogg",length=0.49165532879818596}}
 L["hated this"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/hated this.ogg",length=0.62816326530612243}}
 L["he has a cool mustache and is trying to take over the world and needs friends"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/he has a cool mustache and is trying to take over the world and needs friends.ogg",length=3.0822675736961451}}
