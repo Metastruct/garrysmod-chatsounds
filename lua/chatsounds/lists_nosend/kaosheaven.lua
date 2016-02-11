@@ -1,4 +1,5 @@
 c.StartList("kaosheaven")
+L["did you know that"]={{path="chatsounds/autoadd/kaosheaven/did you know that.ogg",length=1.5250566893424036}}
 L["has anyone heard of a website called meatspin"]={{path="chatsounds/autoadd/kaosheaven/has anyone heard of a website called meatspin.ogg",length=5.7324263038548757}}
 L["hello from the other side"]={{path="chatsounds/autoadd/kaosheaven/hello from the other side.ogg",length=7}}
 L["hello from the outside"]={{path="chatsounds/autoadd/kaosheaven/hello from the outside.ogg",length=5}}
@@ -6,7 +7,9 @@ L["hello its me"]={{path="chatsounds/autoadd/kaosheaven/hello its me.ogg",length
 L["i bought your colgate toothpaste"]={{path="chatsounds/autoadd/kaosheaven/i bought your colgate toothpaste.ogg",length=8.2139229024943319}}
 L["i hope this is the puff daddy version of this song"]={{path="chatsounds/autoadd/kaosheaven/i hope this is the puff daddy version of this song.ogg",length=16.054467120181407}}
 L["i love you vagina"]={{path="chatsounds/autoadd/kaosheaven/i love you vagina.ogg",length=1.527891156462585}}
+L["i saw you there"]={{path="chatsounds/autoadd/kaosheaven/i saw you there.ogg",length=2.0549659863945577}}
 L["i want two cheeseburgers"]={{path="chatsounds/autoadd/kaosheaven/i want two cheeseburgers.ogg",length=7.840544217687075}}
+L["just standing there"]={{path="chatsounds/autoadd/kaosheaven/just standing there.ogg",length=1.9040362811791383}}
 L["leme tell you about a porcupines balls"]={{path="chatsounds/autoadd/kaosheaven/leme tell you about a porcupines balls.ogg",length=7.4672108843537419}}
 L["mkay"]={{path="chatsounds/autoadd/kaosheaven/mkay.ogg",length=0.49716553287981857}}
 L["nokia"]={{path="chatsounds/autoadd/kaosheaven/nokia.ogg",length=5.0619501133786846}}
