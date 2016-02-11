@@ -153,6 +153,8 @@ L["muscle milk"]={{path="chatsounds/autoadd/verbalsilence/muscle milk.ogg",lengt
 L["muscle milk get swole"]={{path="chatsounds/autoadd/verbalsilence/muscle milk get swole.ogg",length=1.9454195011337869}}
 L["my brand"]={{path="chatsounds/autoadd/verbalsilence/my brand.ogg",length=1.637641723356009}}
 L["my mottos always been when its right its right why wait until the middle of a cold dark night"]={{path="chatsounds/autoadd/verbalsilence/my mottos always been when its right its right why wait until the middle of a cold dark night.ogg",length=6.1891156462585037}}
+L["my name is chef"]={{path="chatsounds/autoadd/verbalsilence/my name is chef.ogg",length=1.2056462585034013}}
+L["my name is jeff"]={{path="chatsounds/autoadd/verbalsilence/my name is jeff.ogg",length=1.2056462585034013}}
 L["neat"]={{path="chatsounds/autoadd/verbalsilence/neat.ogg",length=0.38918367346938776}}
 L["nek minnit"]={{path="chatsounds/autoadd/verbalsilence/nek minnit.ogg",length=1.3434467120181406}}
 L["nice and hot"]={{path="chatsounds/autoadd/verbalsilence/nice and hot.ogg",length=1.0033786848072563}}
