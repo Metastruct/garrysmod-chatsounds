@@ -44,9 +44,11 @@ L["it begins"]={{path="chatsounds/autoadd/misc/it begins.ogg",length=1.474013605
 L["it is a mystery"]={{path="chatsounds/autoadd/misc/it is a mystery.ogg",length=53.838367346938774}}
 L["it is crazy its so hot in here"]={{path="chatsounds/autoadd/misc/it is crazy its so hot in here.ogg",length=3.1177324263038551}}
 L["it really whips the llamas ass"]={{path="chatsounds/autoadd/misc/it really whips the llamas ass.ogg",length=2.4351927437641723}}
+L["ja ja ja ja ja"]={{path="chatsounds/autoadd/misc/ja ja ja ja ja.ogg",length=1.4628571428571429}}
 L["jeers1"]={{path="chatsounds/autoadd/misc/jeers1.ogg",length=8.9929478458049878}}
 L["jeers2"]={{path="chatsounds/autoadd/misc/jeers2.ogg",length=7.4960544217687071}}
 L["klopfolo"]={{path="chatsounds/autoadd/misc/klopfolo.ogg",length=0.31346938775510202}}
+L["kurwa"]={{path="chatsounds/autoadd/misc/kurwa.ogg",length=1.281814058956916}}
 L["ldeath"]={{path="chatsounds/autoadd/misc/ldeath.ogg",length=1.0067800453514739}}
 L["littlegirls"]={{path="chatsounds/autoadd/misc/littlegirls.ogg",length=4.9653968253968257}}
 L["loud nigra"]={{path="chatsounds/autoadd/misc/loud nigra.ogg",length=13.857687074829933}}
@@ -59,6 +61,7 @@ L["moment"]={{path="chatsounds/autoadd/misc/moment.ogg",length=0.257074829931972
 L["moments"]={{path="chatsounds/autoadd/misc/moments.ogg",length=0.3345578231292517}}
 L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.6238548752834467}}
 L["namomed"]={{path="chatsounds/autoadd/misc/namomed.ogg",length=0.69986394557823128}}
+L["nein nein nein"]={{path="chatsounds/autoadd/misc/nein nein nein.ogg",length=3.1085714285714285}}
 L["no one"]={{path="chatsounds/autoadd/misc/no one.ogg",length=0.36625850340136057}}
 L["nobody expects the spanish inquisition"]={{path="chatsounds/autoadd/misc/nobody expects the spanish inquisition.ogg",length=6.1648979591836737}}
 L["not in to the"]={{path="chatsounds/autoadd/misc/not in to the.ogg",length=0.61494331065759633}}
