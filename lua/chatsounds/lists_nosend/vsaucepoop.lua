@@ -1,6 +1,6 @@
 c.StartList("vsaucepoop")
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/vsaucepoop/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=2.2578231292517006}}
-L["aallaallaall"]={{path="chatsounds/autoadd/vsaucepoop/aallaallaall.ogg",length=0.80292517006802722}}
+L["aallaallaall"]={{path="chatsounds/autoadd/vsaucepoop/AALLAALLAALL.ogg",length=0.80292517006802722}}
 L["alaala"]={{path="chatsounds/autoadd/vsaucepoop/alaala.ogg",length=0.50424036281179141}}
 L["allala a a"]={{path="chatsounds/autoadd/vsaucepoop/allala a a.ogg",length=1.5235147392290249}}
 L["eeeeeeeeeeeeeeeee"]={{path="chatsounds/autoadd/vsaucepoop/eeeeeeeeeeeeeeeee.ogg",length=1.2998412698412698}}
