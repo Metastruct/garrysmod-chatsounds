@@ -86,6 +86,7 @@ L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.7719274376417233}}
 L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.5198412698412707}}
 L["she succ me"]={{path="chatsounds/autoadd/misc/she succ me.ogg",length=12.260136054421769}}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.1434920634920633}}
+L["sometimes i cover myself in butter and pretend im a corn dog"]={{path="chatsounds/autoadd/misc/sometimes i cover myself in butter and pretend im a corn dog.ogg",length=3.3958730158730157}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.435736961451248}}
 L["tell me snip if you can you have so much porn"]={{path="chatsounds/autoadd/misc/tell me snip if you can you have so much porn.ogg",length=4.0562358276643993}}
 L["that"]={{path="chatsounds/autoadd/misc/that.ogg",length=0.15655328798185941}}
