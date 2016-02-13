@@ -71,6 +71,7 @@ L["thats it"]={{path="chatsounds/autoadd/trenchfroast/thats it.ogg",length=0.571
 L["there we go"]={{path="chatsounds/autoadd/trenchfroast/there we go.ogg",length=0.68460317460317466}}
 L["tribal"]={{path="chatsounds/autoadd/trenchfroast/tribal.ogg",length=4.7508390022675737}}
 L["tribalrush"]={{path="chatsounds/autoadd/trenchfroast/tribalrush.ogg",length=5.7766439909297054}}
+L["uptown"]={{path="chatsounds/autoadd/trenchfroast/uptown.ogg",length=18.780612244897959}}
 L["uuuh scuse me"]={{path="chatsounds/autoadd/trenchfroast/uuuh scuse me.ogg",length=1.1067346938775511}}
 L["worthles"]={{path="chatsounds/autoadd/trenchfroast/worthles.ogg",length=0.88136054421768706}}
 c.EndList()
