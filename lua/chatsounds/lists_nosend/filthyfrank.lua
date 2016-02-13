@@ -24,6 +24,7 @@ L["bruh you want some"]={{path="chatsounds/autoadd/filthyfrank/bruh you want som
 L["can i have pizza pls"]={{path="chatsounds/autoadd/filthyfrank/can i have pizza pls/can i have a pizza pls1.ogg",length=1.3474603174603175},{path="chatsounds/autoadd/filthyfrank/can i have pizza pls/can i have a pizza pls2.ogg",length=1.6722902494331067}}
 L["can i have pussy"]={{path="chatsounds/autoadd/filthyfrank/can i have pussy.ogg",length=1.3631972789115647}}
 L["cant reach the remote"]={{path="chatsounds/autoadd/filthyfrank/cant reach the remote.ogg",length=1.2770975056689342}}
+L["cause you know i dont feel like anybody here is on my uh anime expertise level"]={{path="chatsounds/autoadd/filthyfrank/cause you know i dont feel like anybody here is on my uh anime expertise level.ogg",length=3.968185941043084}}
 L["cumshot"]={{path="chatsounds/autoadd/filthyfrank/cumshot.ogg",length=1.1609977324263039}}
 L["cut a nice penis shaped hole in the orange"]={{path="chatsounds/autoadd/filthyfrank/cut a nice penis shaped hole in the orange.ogg",length=3.6803628117913831}}
 L["dicks for life"]={{path="chatsounds/autoadd/filthyfrank/dicks for life.ogg",length=2.6586848072562357}}
@@ -34,13 +35,16 @@ L["do you hate doing the dishes"]={{path="chatsounds/autoadd/filthyfrank/do you 
 L["do you need to take your food on the go"]={{path="chatsounds/autoadd/filthyfrank/do you need to take your food on the go.ogg",length=2.8328344671201813}}
 L["do you want pearly white teeth the natural way"]={{path="chatsounds/autoadd/filthyfrank/do you want pearly white teeth the natural way.ogg",length=3.6223129251700681}}
 L["do you want to lose weight but hate excercise"]={{path="chatsounds/autoadd/filthyfrank/do you want to lose weight but hate excercise.ogg",length=3.2449886621315192}}
+L["dont talk shit about attack on titan"]={{path="chatsounds/autoadd/filthyfrank/dont talk shit about attack on titan.ogg",length=2.1561451247165535}}
 L["drink some nailpolish remover"]={{path="chatsounds/autoadd/filthyfrank/drink some nailpolish remover.ogg",length=2.6877097505668934}}
 L["existentialmacbookgroaning"]={{path="chatsounds/autoadd/filthyfrank/existentialmacbookgroaning.ogg",length=6.3685034013605444}}
 L["fat"]={{path="chatsounds/autoadd/filthyfrank/fat.ogg",length=0.31346938775510202}}
+L["first ill have to get a job"]={{path="chatsounds/autoadd/filthyfrank/first ill have to get a job.ogg",length=1.7968027210884354}}
 L["first you grab an orange"]={{path="chatsounds/autoadd/filthyfrank/first you grab an orange.ogg",length=2.1710657596371883}}
 L["frank throw me in the river so that i can be at peace"]={{path="chatsounds/autoadd/filthyfrank/frank throw me in the river so that i can be at peace.ogg",length=3.8580498866213153}}
 L["franksegue"]={{path="chatsounds/autoadd/filthyfrank/franksegue/franksegue1.ogg",length=14.341224489795918},{path="chatsounds/autoadd/filthyfrank/franksegue/franksegue2.ogg",length=9.6342630385487524}}
 L["fucking freak"]={{path="chatsounds/autoadd/filthyfrank/fucking freak.ogg",length=1.6718367346938776}}
+L["fucking weeaboos going to japan be like"]={{path="chatsounds/autoadd/filthyfrank/fucking weeaboos going to japan be like.ogg",length=2.0404308390022674}}
 L["get laid"]={{path="chatsounds/autoadd/filthyfrank/get laid.ogg",length=0.79528344671201812}}
 L["get laid you fat piece of shit"]={{path="chatsounds/autoadd/filthyfrank/get laid you fat piece of shit.ogg",length=3.5062131519274375}}
 L["get rid of it the natural way"]={{path="chatsounds/autoadd/filthyfrank/get rid of it the natural way.ogg",length=2.1710657596371883}}
@@ -63,8 +67,11 @@ L["hhmpf"]={{path="chatsounds/autoadd/filthyfrank/hhmpf.ogg",length=1.1377777777
 L["hhoh yeah"]={{path="chatsounds/autoadd/filthyfrank/hhoh yeah.ogg",length=0.91138321995464855}}
 L["how"]={{path="chatsounds/autoadd/filthyfrank/how.ogg",length=0.81850340136054422}}
 L["i envy death"]={{path="chatsounds/autoadd/filthyfrank/i envy death.ogg",length=1.2982993197278911}}
+L["i got a joke for ya"]={{path="chatsounds/autoadd/filthyfrank/i got a joke for ya.ogg",length=1.2059863945578231}}
+L["i have a katana collection"]={{path="chatsounds/autoadd/filthyfrank/i have a katana collection.ogg",length=1.5714512471655329}}
 L["i have cancer boss"]={{path="chatsounds/autoadd/filthyfrank/i have cancer boss.ogg",length=1.612562358276644}}
 L["i knew everything in the universe yet i could not fall in love"]={{path="chatsounds/autoadd/filthyfrank/i knew everything in the universe yet i could not fall in love.ogg",length=4.5336054421768708}}
+L["i know how to use chopsticks"]={{path="chatsounds/autoadd/filthyfrank/i know how to use chopsticks.ogg",length=1.7617687074829933}}
 L["i let the beat drop like old people with polio"]={{path="chatsounds/autoadd/filthyfrank/i let the beat drop like old people with polio.ogg",length=4.3328117913832198}}
 L["i was first born in a laboratory unknowingly falling into a pit of immortality"]={{path="chatsounds/autoadd/filthyfrank/i was first born in a laboratory unknowingly falling into a pit of immortality.ogg",length=5.308412698412698}}
 L["i was forever trapped in an infinite timeline of pain and suffering"]={{path="chatsounds/autoadd/filthyfrank/i was forever trapped in an infinite timeline of pain and suffering.ogg",length=4.3870294784580501}}
@@ -72,17 +79,22 @@ L["i will be your friend you fat asian fuck"]={{path="chatsounds/autoadd/filthyf
 L["if you know what i mean"]={{path="chatsounds/autoadd/filthyfrank/if you know what i mean.ogg",length=1.0565079365079366}}
 L["im going to call child protective services"]={{path="chatsounds/autoadd/filthyfrank/im going to call child protective services.ogg",length=2.3138548752834467}}
 L["is your pet misbehaving"]={{path="chatsounds/autoadd/filthyfrank/is your pet misbehaving.ogg",length=2.0897959183673471}}
+L["its a really good show"]={{path="chatsounds/autoadd/filthyfrank/its a really good show.ogg",length=1.0963492063492064}}
 L["its filthy frank motherfucker its filthy frank bitch"]={{path="chatsounds/autoadd/filthyfrank/its filthy frank motherfucker its filthy frank bitch.ogg",length=5.0197732426303858}}
 L["its fucking good huh"]={{path="chatsounds/autoadd/filthyfrank/its fucking good huh.ogg",length=2.0085260770975055}}
 L["its just a prank bro"]={{path="chatsounds/autoadd/filthyfrank/its just a prank bro.ogg",length=1.364172335600907}}
 L["its time to stop"]={{path="chatsounds/autoadd/filthyfrank/its time to stop/1.ogg",length=1.9617687074829933},{path="chatsounds/autoadd/filthyfrank/its time to stop/2.ogg",length=1.9617687074829933}}
 L["its time to stop okay"]={{path="chatsounds/autoadd/filthyfrank/its time to stop okay.ogg",length=2.0120634920634921}}
+L["ive been learning japaneese on rosetta stone for like five weeks now"]={{path="chatsounds/autoadd/filthyfrank/ive been learning japaneese on rosetta stone for like five weeks now.ogg",length=3.7032199546485263}}
+L["ive been really thinking about going to japan soon"]={{path="chatsounds/autoadd/filthyfrank/ive been really thinking about going to japan soon.ogg",length=2.5155328798185943}}
+L["ive had so much sex with my body pillow that it stands on its own now"]={{path="chatsounds/autoadd/filthyfrank/ive had so much sex with my body pillow that it stands on its own now.ogg",length=3.9712471655328798}}
 L["just call an anonymous bomb threat"]={{path="chatsounds/autoadd/filthyfrank/just call an anonymous bomb threat.ogg",length=2.7573696145124718}}
 L["just do it just fucking do it"]={{path="chatsounds/autoadd/filthyfrank/just do it just fucking do it.ogg",length=5.9152834467120181}}
 L["just do it you fucking pussy"]={{path="chatsounds/autoadd/filthyfrank/just do it you fucking pussy.ogg",length=2.9024943310657596}}
 L["just dont be black"]={{path="chatsounds/autoadd/filthyfrank/just dont be black.ogg",length=1.9853061224489796}}
 L["kill yourself"]={{path="chatsounds/autoadd/filthyfrank/kill yourself.ogg",length=1.2190476190476192}}
 L["killing a hamster"]={{path="chatsounds/autoadd/filthyfrank/killing a hamster.ogg",length=4.8761904761904766}}
+L["konnichiwa you magnificent bastards"]={{path="chatsounds/autoadd/filthyfrank/konnichiwa you magnificent bastards.ogg",length=2.580997732426304}}
 L["lets get some pussy tonight"]={{path="chatsounds/autoadd/filthyfrank/lets get some pussy tonight.ogg",length=2.6354648526077096}}
 L["life hacks"]={{path="chatsounds/autoadd/filthyfrank/life hacks.ogg",length=1.5383219954648526}}
 L["life hacks can make your life easier"]={{path="chatsounds/autoadd/filthyfrank/life hacks can make your life easier.ogg",length=2.8270294784580501}}
@@ -91,6 +103,7 @@ L["look at the stupid piece of shit ahaha you fucking freak"]={{path="chatsounds
 L["looks like the hardest thing about this case is my cock"]={{path="chatsounds/autoadd/filthyfrank/looks like the hardest thing about this case is my cock.ogg",length=4.2724716553287978}}
 L["moans of pleasure"]={{path="chatsounds/autoadd/filthyfrank/moans of pleasure.ogg",length=2.5425850340136056}}
 L["moshi moshi motherfucker"]={{path="chatsounds/autoadd/filthyfrank/moshi moshi motherfucker.ogg",length=1.799546485260771}}
+L["my favorite animes consist of toy story cory in the house airplane instruction videos from the 80s you know seinfeld"]={{path="chatsounds/autoadd/filthyfrank/my favorite animes consist of toy story cory in the house airplane instruction videos from the 80s you know seinfeld.ogg",length=8.8317006802721085}}
 L["my lord"]={{path="chatsounds/autoadd/filthyfrank/my lord.ogg",length=0.69659863945578226}}
 L["my lord uughg"]={{path="chatsounds/autoadd/filthyfrank/my lord uughg.ogg",length=1.4454421768707484}}
 L["nnnggg"]={{path="chatsounds/autoadd/filthyfrank/nnnggg.ogg",length=1.496235827664399}}
@@ -107,6 +120,7 @@ L["piece of shit"]={{path="chatsounds/autoadd/filthyfrank/piece of shit.ogg",len
 L["put the orange away"]={{path="chatsounds/autoadd/filthyfrank/put the orange away.ogg",length=1.497687074829932}}
 L["ravioli ravioli"]={{path="chatsounds/autoadd/filthyfrank/ravioli ravioli.ogg",length=1.7240816326530612}}
 L["roasted"]={{path="chatsounds/autoadd/filthyfrank/roasted.ogg",length=11.363265306122448}}
+L["rosetta stone"]={{path="chatsounds/autoadd/filthyfrank/rosetta stone.ogg",length=1.0719954648526078}}
 L["school sucks"]={{path="chatsounds/autoadd/filthyfrank/school sucks.ogg",length=1.8401814058956916}}
 L["slurp"]={{path="chatsounds/autoadd/filthyfrank/slurp.ogg",length=0.9229931972789116}}
 L["smell that shit"]={{path="chatsounds/autoadd/filthyfrank/smell that shit.ogg",length=0.7256235827664399}}
@@ -115,12 +129,14 @@ L["sometimes its hard to open a jar"]={{path="chatsounds/autoadd/filthyfrank/som
 L["take a little seat here"]={{path="chatsounds/autoadd/filthyfrank/take a little seat here.ogg",length=0.97523809523809524}}
 L["taking the trash out can be a bit of a hassle"]={{path="chatsounds/autoadd/filthyfrank/taking the trash out can be a bit of a hassle.ogg",length=2.5658049886621317}}
 L["thanks life hacks"]={{path="chatsounds/autoadd/filthyfrank/thanks life hacks.ogg",length=1.3699773242630386}}
+L["thats thats th thats the first thing"]={{path="chatsounds/autoadd/filthyfrank/thats thats th thats the first thing.ogg",length=1.8881632653061224}}
 L["these bitches wanna suck my balls"]={{path="chatsounds/autoadd/filthyfrank/these bitches wanna suck my balls.ogg",length=2.9654875283446711}}
 L["those guys will take care of anything"]={{path="chatsounds/autoadd/filthyfrank/those guys will take care of anything.ogg",length=2.159455782312925}}
 L["throw me in the river and let me sink to the bottom"]={{path="chatsounds/autoadd/filthyfrank/throw me in the river and let me sink to the bottom.ogg",length=3.2032426303854877}}
 L["ugh"]={{path="chatsounds/autoadd/filthyfrank/ugh.ogg",length=0.92879818594104313}}
 L["unwanted pregnancy"]={{path="chatsounds/autoadd/filthyfrank/unwanted pregnancy.ogg",length=1.7589115646258504}}
 L["we can make your life just a little bit easier"]={{path="chatsounds/autoadd/filthyfrank/we can make your life just a little bit easier.ogg",length=3.3494784580498864}}
+L["weeaboos"]={{path="chatsounds/autoadd/filthyfrank/weeaboos.ogg",length=0.87707482993197283}}
 L["well"]={{path="chatsounds/autoadd/filthyfrank/well.ogg",length=0.77786848072562353}}
 L["well good news"]={{path="chatsounds/autoadd/filthyfrank/well good news.ogg",length=1.7821315192743765}}
 L["well heres a simple alternative"]={{path="chatsounds/autoadd/filthyfrank/well heres a simple alternative.ogg",length=2.159455782312925}}
@@ -132,6 +148,7 @@ L["well now you can make your own personal sex doll"]={{path="chatsounds/autoadd
 L["well now you can put both cigarettes in your nose"]={{path="chatsounds/autoadd/filthyfrank/well now you can put both cigarettes in your nose.ogg",length=3.9938321995464854}}
 L["well thanks goodness theres a way to get out of school early"]={{path="chatsounds/autoadd/filthyfrank/well thanks goodness theres a way to get out of school early.ogg",length=4.017052154195011}}
 L["whats in the pocketoli"]={{path="chatsounds/autoadd/filthyfrank/whats in the pocketoli.ogg",length=1.5789569160997732}}
+L["where are the subtitles"]={{path="chatsounds/autoadd/filthyfrank/where are the subtitles.ogg",length=2.3023582766439907}}
 L["where the fuck are your parents"]={{path="chatsounds/autoadd/filthyfrank/where the fuck are your parents.ogg",length=1.9617687074829933}}
 L["who are your parents"]={{path="chatsounds/autoadd/filthyfrank/who are your parents.ogg",length=1.4252154195011337}}
 L["why did you leave me"]={{path="chatsounds/autoadd/filthyfrank/why did you leave me.ogg",length=1.7099773242630385}}
