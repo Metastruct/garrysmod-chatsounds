@@ -1,5 +1,6 @@
 c.StartList("kaosheaven")
 L["did you know that"]={{path="chatsounds/autoadd/kaosheaven/did you know that.ogg",length=1.5250566893424036}}
+L["good god run away he is gonna murder us all with that glass"]={{path="chatsounds/autoadd/kaosheaven/good god run away he is gonna murder us all with that glass.ogg",length=4.702040816326531}}
 L["has anyone heard of a website called meatspin"]={{path="chatsounds/autoadd/kaosheaven/has anyone heard of a website called meatspin.ogg",length=5.7324263038548757}}
 L["hello from the other side"]={{path="chatsounds/autoadd/kaosheaven/hello from the other side.ogg",length=7}}
 L["hello from the outside"]={{path="chatsounds/autoadd/kaosheaven/hello from the outside.ogg",length=5.5}}
@@ -15,6 +16,7 @@ L["mkay"]={{path="chatsounds/autoadd/kaosheaven/mkay.ogg",length=0.4971655328798
 L["nokia"]={{path="chatsounds/autoadd/kaosheaven/nokia.ogg",length=5.0619501133786846}}
 L["nyeh"]={{path="chatsounds/autoadd/kaosheaven/nyeh.ogg",length=0.47682539682539682}}
 L["oh my god"]={{path="chatsounds/autoadd/kaosheaven/oh my god.ogg",length=1.951111111111111}}
+L["oh my god hes got a glass"]={{path="chatsounds/autoadd/kaosheaven/oh my god hes got a glass.ogg",length=3.8893424036281181}}
 L["ohoh"]={{path="chatsounds/autoadd/kaosheaven/ohoh.ogg",length=1.1681179138321995}}
 L["pissing out the window and shitting out the window are two different things"]={{path="chatsounds/autoadd/kaosheaven/pissing out the window and shitting out the window are two different things.ogg",length=15.307755102040817}}
 L["some shit to drink"]={{path="chatsounds/autoadd/kaosheaven/some shit to drink.ogg",length=5.600408163265306}}
