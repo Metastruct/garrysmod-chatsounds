@@ -19,4 +19,5 @@ L["umm"]={{path="chatsounds/autoadd/ashens/umm.ogg",length=0.47263038548752834}}
 L["welcome"]={{path="chatsounds/autoadd/ashens/welcome.ogg",length=0.6469160997732426}}
 L["what a load of old shit"]={{path="chatsounds/autoadd/ashens/what a load of old shit.ogg",length=1.5047165532879818}}
 L["yaoi"]={{path="chatsounds/autoadd/ashens/yaoi/yaoi1.ogg",length=0.69217687074829937},{path="chatsounds/autoadd/ashens/yaoi/yaoi2.ogg",length=0.55421768707482988}}
+L["yuck"]={{path="chatsounds/autoadd/ashens/yuck.ogg",length=0.56598639455782318}}
 c.EndList()
