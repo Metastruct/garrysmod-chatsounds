@@ -246,8 +246,8 @@ L["its time for world war one"]={{path="chatsounds/autoadd/bill_wurtz_history_of
 L["its time for world war two"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/its time for world war two.ogg",length=2.693877551020408}}
 L["japan gets to keep all that shit they stole from germany"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan gets to keep all that shit they stole from germany.ogg",length=2.0622222222222222}}
 L["japan has been enjoying conquering stuff and wants"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan has been enjoying conquering stuff and wants.ogg",length=1.9887074829931972}}
-L["japan is an island by sea filled with volcanoes and its"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan is an island by sea filled with volcanoes and its.ogg",length=2.4586848072562359}}
-L["japan is an island by sea filled with volcanoes and its beautiful"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan is an island by sea filled with volcanoes and its beautiful.ogg",length=3.9698639455782314}}
+L["japan is an island by the sea filled with volcanoes and its"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan is an island by the sea filled with volcanoes and its.ogg",length=2.4586848072562359}}
+L["japan is an island by the sea filled with volcanoes and its beautiful"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan is an island by the sea filled with volcanoes and its beautiful.ogg",length=3.9698639455782314}}
 L["japan is kind of scared of russia"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan is kind of scared of russia.ogg",length=1.3307936507936509}}
 L["japan should take the islands"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japan should take the islands.ogg",length=2.1739682539682539}}
 L["japans economy is now crappy"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/japans economy is now crappy.ogg",length=1.5289342403628119}}
