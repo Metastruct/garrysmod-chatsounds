@@ -60,7 +60,6 @@ L["heres a tip"]={{path="chatsounds/autoadd/filthyfrank/heres a tip.ogg",length=
 L["hey boss"]={{path="chatsounds/autoadd/filthyfrank/hey boss/hey boss1.ogg",length=0.40904761904761905},{path="chatsounds/autoadd/filthyfrank/hey boss/hey boss2.ogg",length=0.66170068027210882},{path="chatsounds/autoadd/filthyfrank/hey boss/hey boss3.ogg",length=0.8180952380952381}}
 L["hey boss can i have a pizza pls"]={{path="chatsounds/autoadd/filthyfrank/hey boss can i have a pizza pls.ogg",length=2.6467800453514738}}
 L["hey fagget whered you get that shirt"]={{path="chatsounds/autoadd/filthyfrank/hey fagget whered you get that shirt.ogg",length=2.0027210884353743}}
-L["hey thats pretty good"]={{path="chatsounds/autoadd/filthyfrank/hey thats pretty good.ogg",length=2.1130158730158732}}
 L["hey what the hell do you want"]={{path="chatsounds/autoadd/filthyfrank/hey what the hell do you want.ogg",length=1.1609977324263039}}
 L["hhhoh yeah"]={{path="chatsounds/autoadd/filthyfrank/hhhoh yeah.ogg",length=1.242267573696145}}
 L["hhmpf"]={{path="chatsounds/autoadd/filthyfrank/hhmpf.ogg",length=1.1377777777777778}}

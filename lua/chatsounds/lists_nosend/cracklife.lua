@@ -1,10 +1,13 @@
 c.StartList("cracklife")
+L["autismtown"]={{path="chatsounds/autoadd/cracklife/autismtown.ogg",length=35.88580498866213}}
+L["banditradio"]={{path="chatsounds/autoadd/cracklife/banditradio.ogg",length=113.47591836734694}}
 L["crack need human body parts"]={{path="chatsounds/autoadd/cracklife/crack need human body parts.ogg",length=3.9648072562358276}}
 L["cracklife developer comment"]={{path="chatsounds/autoadd/cracklife/cracklife developer comment.ogg",length=24.363537414965986}}
 L["cracklife door"]={{path="chatsounds/autoadd/cracklife/cracklife door.ogg",length=2.9489342403628118}}
 L["cracklife door close"]={{path="chatsounds/autoadd/cracklife/cracklife door close.ogg",length=1.4766213151927439}}
 L["cracklife huge door"]={{path="chatsounds/autoadd/cracklife/cracklife huge door.ogg",length=14.679614512471655}}
 L["cracksong"]={{path="chatsounds/autoadd/cracklife/cracksong.ogg",length=28.096145124716553}}
+L["dance of the manwhore"]={{path="chatsounds/autoadd/cracklife/dance of the manwhore.ogg",length=28.095510204081634}}
 L["fock"]={{path="chatsounds/autoadd/cracklife/fock/geiger1.ogg",length=0.29024943310657597},{path="chatsounds/autoadd/cracklife/fock/geiger2.ogg",length=0.28444444444444444},{path="chatsounds/autoadd/cracklife/fock/geiger3.ogg",length=0.29024943310657597},{path="chatsounds/autoadd/cracklife/fock/geiger4.ogg",length=0.17995464852607709},{path="chatsounds/autoadd/cracklife/fock/geiger5.ogg",length=0.19736961451247165},{path="chatsounds/autoadd/cracklife/fock/geiger6.ogg",length=0.34249433106575966}}
 L["fuck"]={{path="chatsounds/autoadd/cracklife/fuck.ogg",length=0.37151927437641724}}
 L["fucking grenadespam motherfuckers"]={{path="chatsounds/autoadd/cracklife/fucking grenadespam motherfuckers.ogg",length=2.5454875283446712}}

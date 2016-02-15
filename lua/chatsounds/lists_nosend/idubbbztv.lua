@@ -31,6 +31,7 @@ L["guy with a do rag eating me out"]={{path="chatsounds/autoadd/idubbbztv/guy wi
 L["hel have a ginger latin ah scrap that make that a virgin ginger latino"]={{path="chatsounds/autoadd/idubbbztv/hel have a ginger latin ah scrap that make that a virgin ginger latino.ogg",length=3.9275056689342405}}
 L["hell yeah"]={{path="chatsounds/autoadd/idubbbztv/hell yeah.ogg",length=0.93258503401360549}}
 L["hey thats pretty blue"]={{path="chatsounds/autoadd/idubbbztv/hey thats pretty blue.ogg",length=1.5532199546485261}}
+L["hey thats pretty good"]={{path="chatsounds/autoadd/idubbbztv/hey thats pretty good.ogg",length=2.1130158730158732}}
 L["hi my name is ian"]={{path="chatsounds/autoadd/idubbbztv/hi my name is ian.ogg",length=1.1830385487528345}}
 L["hi my name is jake and im a ginger latino"]={{path="chatsounds/autoadd/idubbbztv/hi my name is jake and im a ginger latino.ogg",length=2.6538548752834465}}
 L["holy shit"]={{path="chatsounds/autoadd/idubbbztv/holy shit.ogg",length=0.9858730158730159}}

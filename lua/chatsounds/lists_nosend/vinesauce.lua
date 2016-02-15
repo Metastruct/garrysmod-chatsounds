@@ -70,6 +70,8 @@ L["hello little man little child man"]={{path="chatsounds/autoadd/vinesauce/hell
 L["hello officer how are you would you like to rp"]={{path="chatsounds/autoadd/vinesauce/hello officer how are you would you like to rp.ogg",length=7.4384580498866217}}
 L["hello welcome to the server"]={{path="chatsounds/autoadd/vinesauce/hello welcome to the server.ogg",length=1.5351020408163265}}
 L["his is prostituting himself"]={{path="chatsounds/autoadd/vinesauce/his is prostituting himself.ogg",length=1.5923809523809525}}
+L["his meme"]={{path="chatsounds/autoadd/vinesauce/his meme.ogg",length=1.0913378684807256}}
+L["his what his what"]={{path="chatsounds/autoadd/vinesauce/his what his what.ogg",length=2.8007482993197277}}
 L["how do you pronounce your name"]={{path="chatsounds/autoadd/vinesauce/how do you pronounce your name.ogg",length=1.9129024943310657}}
 L["i am wearing nothing but a speedo"]={{path="chatsounds/autoadd/vinesauce/i am wearing nothing but a speedo.ogg",length=2.106281179138322}}
 L["i can shoot you right now"]={{path="chatsounds/autoadd/vinesauce/i can shoot you right now.ogg",length=1.3379818594104309}}
@@ -174,6 +176,8 @@ L["thats thats good"]={{path="chatsounds/autoadd/vinesauce/thats thats good.ogg"
 L["the coast is clear"]={{path="chatsounds/autoadd/vinesauce/the coast is clear.ogg",length=1.5645124716553287}}
 L["the good news is that he doesnt gaf if youre innocent or guilty"]={{path="chatsounds/autoadd/vinesauce/the good news is that he doesnt gaf if youre innocent or guilty.ogg",length=9.1777551020408161}}
 L["the more i think about it the more it hurts my brain"]={{path="chatsounds/autoadd/vinesauce/the more i think about it the more it hurts my brain.ogg",length=1.8709977324263039}}
+L["the phantom carrys on his legend"]={{path="chatsounds/autoadd/vinesauce/the phantom carrys on his legend.ogg",length=3.1579138321995464}}
+L["the phantom carrys on his legend his meme"]={{path="chatsounds/autoadd/vinesauce/the phantom carrys on his legend his meme.ogg",length=4.2492517006802721}}
 L["the pizza goes down without much of a strugge but the lizard make you choke"]={{path="chatsounds/autoadd/vinesauce/the pizza goes down without much of a strugge but the lizard make you choke.ogg",length=5.0801587301587299}}
 L["there is no gay sex allowed in this prison"]={{path="chatsounds/autoadd/vinesauce/there is no gay sex allowed in this prison.ogg",length=2.5378004535147394}}
 L["there is no saving you now"]={{path="chatsounds/autoadd/vinesauce/there is no saving you now.ogg",length=1.3588888888888888}}
