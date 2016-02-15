@@ -44,6 +44,7 @@ L["it begins"]={{path="chatsounds/autoadd/misc/it begins.ogg",length=1.474013605
 L["it is a mystery"]={{path="chatsounds/autoadd/misc/it is a mystery.ogg",length=53.838367346938774}}
 L["it is crazy its so hot in here"]={{path="chatsounds/autoadd/misc/it is crazy its so hot in here.ogg",length=3.1177324263038551}}
 L["it really whips the llamas ass"]={{path="chatsounds/autoadd/misc/it really whips the llamas ass.ogg",length=2.4351927437641723}}
+L["its a mystery"]={{path="chatsounds/autoadd/misc/it is a mystery.ogg",length=53.838367346938774}}
 L["ja ja ja ja ja"]={{path="chatsounds/autoadd/misc/ja ja ja ja ja.ogg",length=1.4628571428571429}}
 L["jeers1"]={{path="chatsounds/autoadd/misc/jeers1.ogg",length=8.9929478458049878}}
 L["jeers2"]={{path="chatsounds/autoadd/misc/jeers2.ogg",length=7.4960544217687071}}
