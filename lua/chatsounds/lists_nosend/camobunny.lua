@@ -45,6 +45,7 @@ L["patback"]={{path="chatsounds/autoadd/camobunny/patback.ogg",length=1.65258503
 L["pewdsgoatrap"]={{path="chatsounds/autoadd/camobunny/pewdsgoatrap.ogg",length=37.37510204081633}}
 L["pinguintro"]={{path="chatsounds/autoadd/camobunny/pinguintro.ogg",length=9.8880272108843545}}
 L["please pass the milk please"]={{path="chatsounds/autoadd/camobunny/please pass the milk please.ogg",length=7.7273015873015876}}
+L["saxton haaaaaaaaaaaaaaaaaaaaaale"]={{path="chatsounds/autoadd/camobunny/saxton haaaaaaaaaaaaaaaaaaaaaale.ogg",length=48.291655328798186}}
 L["small loan of a million dollars"]={{path="chatsounds/autoadd/camobunny/small loan of a million dollars.ogg",length=1.442562358276644}}
 L["stop fuckin lying"]={{path="chatsounds/autoadd/camobunny/stop fuckin lying.ogg",length=2.1288888888888891}}
 L["stop talking"]={{path="chatsounds/autoadd/camobunny/stop talking.ogg",length=1.262108843537415}}
