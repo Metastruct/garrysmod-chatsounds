@@ -23,7 +23,7 @@ local GIT_MASTER = ".git/refs/heads/master"
 local gitpath
 local function isGit()
 	local path = string.match(debug.getinfo(1, "S").short_src, "^(addons/.-/)")
-	if !isstring(path) then return false end
+	if not isstring(path) then return false end
 	
 	gitpath = path..GIT_MASTER
 	
@@ -67,7 +67,7 @@ function chatsounds.CheckLocalVersion()
 		local rev_str = file.Read(gitpath, "GAME")
 
 		if isstring(rev_str) then
-			chatsounds.version = rev_str:Trim() // it has a newline
+			chatsounds.version = rev_str:Trim() -- it has a newline
 		end
 		done_local = true
 		
@@ -89,7 +89,7 @@ end
 
 function chatsounds.NeedsUpdate()
 	if isGit() then
-		return chatsounds.live_rev != chatsounds.version
+		return chatsounds.live_rev ~= chatsounds.version
 	end
 	
 	return chatsounds.live_rev > chatsounds.version
