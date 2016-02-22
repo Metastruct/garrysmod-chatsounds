@@ -26,4 +26,5 @@ L["the part where he kills you"]={{path="chatsounds/autoadd/kaosheaven/the part 
 L["tom delaways used to be a chef on tv"]={{path="chatsounds/autoadd/kaosheaven/tom delaways used to be a chef on tv.ogg",length=8.4005895691609975}}
 L["trials"]={{path="chatsounds/autoadd/kaosheaven/trials.ogg",length=79.226485260770971}}
 L["uh huh uh huh are you shitting me"]={{path="chatsounds/autoadd/kaosheaven/uh huh uh huh are you shitting me.ogg",length=13.067596371882086}}
+L["you must wear condom when browsing internet"]={{path="chatsounds/autoadd/kaosheaven/you must wear condom when browsing internet.ogg",length=4.7600907029478456}}
 c.EndList()
