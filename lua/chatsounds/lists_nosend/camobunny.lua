@@ -5,6 +5,8 @@ L["caillou picked and picked a whole bunch of boogers"]={{path="chatsounds/autoa
 L["caillou was making a fucking mess"]={{path="chatsounds/autoadd/camobunny/caillou was making a fucking mess.ogg",length=2.026281179138322}}
 L["caillous big furry finger up the butt show"]={{path="chatsounds/autoadd/camobunny/caillous big furry finger up the butt show.ogg",length=3.643015873015873}}
 L["cuz sum came in the mail today"]={{path="chatsounds/autoadd/camobunny/cuz sum came in the mail today.ogg",length=1.7799546485260771}}
+L["damn look at that son bitch go"]={{path="chatsounds/autoadd/camobunny/damn look at that son bitch go.ogg",length=1.1531519274376418}}
+L["damn nature you scary"]={{path="chatsounds/autoadd/camobunny/damn nature you scary.ogg",length=1.991814058956916}}
 L["deez nuts"]={{path="chatsounds/autoadd/camobunny/deez nuts.ogg",length=0.83353741496598643}}
 L["dinadle"]={{path="chatsounds/autoadd/camobunny/dinadle.ogg",length=0.78650793650793649}}
 L["electricsquidsisters"]={{path="chatsounds/autoadd/camobunny/electricsquidsisters.ogg",length=67.849614512471661}}
@@ -13,6 +15,7 @@ L["fuckbeessong"]={{path="chatsounds/autoadd/camobunny/fuckbeessong.ogg",length=
 L["fun to drive up here in the hollywood hills"]={{path="chatsounds/autoadd/camobunny/fun to drive up here in the hollywood hills.ogg",length=2.081700680272109}}
 L["fuuck off"]={{path="chatsounds/autoadd/camobunny/fuuck off.ogg",length=1.1744671201814059}}
 L["ha got eem"]={{path="chatsounds/autoadd/camobunny/ha got eem.ogg",length=1.8146938775510204}}
+L["he haulin ass"]={{path="chatsounds/autoadd/camobunny/he haulin ass.ogg",length=0.83866213151927438}}
 L["he thought it would be fun to be xavier"]={{path="chatsounds/autoadd/camobunny/he thought it would be fun to be xavier.ogg",length=2.8238548752834469}}
 L["here in my garage just bought this uh new lamborghini here"]={{path="chatsounds/autoadd/camobunny/here in my garage just bought this uh new lamborghini here.ogg",length=3.4972562358276642}}
 L["i got one question for you"]={{path="chatsounds/autoadd/camobunny/i got one question for you.ogg",length=1.342517006802721}}
@@ -49,8 +52,10 @@ L["saxton haaaaaaaaaaaaaaaaaaaaaale"]={{path="chatsounds/autoadd/camobunny/saxto
 L["small loan of a million dollars"]={{path="chatsounds/autoadd/camobunny/small loan of a million dollars.ogg",length=1.442562358276644}}
 L["stop fuckin lying"]={{path="chatsounds/autoadd/camobunny/stop fuckin lying.ogg",length=2.1288888888888891}}
 L["stop talking"]={{path="chatsounds/autoadd/camobunny/stop talking.ogg",length=1.262108843537415}}
+L["that thing come by my house i kill it"]={{path="chatsounds/autoadd/camobunny/that thing come by my house i kill it.ogg",length=1.7440136054421769}}
 L["thats nasty"]={{path="chatsounds/autoadd/camobunny/thats nasty.ogg",length=1.3273015873015872}}
 L["the jooj lantern"]={{path="chatsounds/autoadd/camobunny/the jooj lantern.ogg",length=1.1909750566893424}}
+L["the little rat looking thing just got ate"]={{path="chatsounds/autoadd/camobunny/the little rat looking thing just got ate.ogg",length=1.6201360544217687}}
 L["thuglife"]={{path="chatsounds/autoadd/camobunny/thuglife.ogg",length=9.5401133786848078}}
 L["what are thooooooose"]={{path="chatsounds/autoadd/camobunny/what are thooooooose.ogg",length=2.5572335600907028}}
 L["what youve gotta do"]={{path="chatsounds/autoadd/camobunny/what youve gotta do.ogg",length=1.1386621315192744}}
