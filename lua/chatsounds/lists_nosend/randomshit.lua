@@ -1,5 +1,4 @@
 c.StartList("randomshit")
-L["10 10 10 10 100 100 best game best game"]={{path="chatsounds/autoadd/randomshit/10 10 10 10 100 100 best game best game.ogg",length=3.1704308390022677}}
 L["bazinga"]={{path="chatsounds/autoadd/randomshit/bazinga/bazinga1.ogg",length=0.8990476190476191},{path="chatsounds/autoadd/randomshit/bazinga/bazinga2.ogg",length=0.78802721088435379},{path="chatsounds/autoadd/randomshit/bazinga/bazinga3.ogg",length=1.0876417233560092},{path="chatsounds/autoadd/randomshit/bazinga/bazinga4.ogg",length=1.0414285714285714},{path="chatsounds/autoadd/randomshit/bazinga/bazinga5.ogg",length=0.90002267573696149},{path="chatsounds/autoadd/randomshit/bazinga/bazinga6.ogg",length=0.60907029478458052},{path="chatsounds/autoadd/randomshit/bazinga/bazinga7.ogg",length=0.87555555555555553},{path="chatsounds/autoadd/randomshit/bazinga/bazinga8.ogg",length=0.83206349206349206},{path="chatsounds/autoadd/randomshit/bazinga/bazinga9.ogg",length=0.92448979591836733}}
 L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.ogg",length=1.5209070294784581}}
 L["dont listen to the old fucker"]={{path="chatsounds/autoadd/randomshit/dont listen to the old fucker.ogg",length=1.74281179138322}}
@@ -8,6 +7,7 @@ L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.8404308390022672}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.7251927437641723}}
 L["is it because i turn into a cat youre a fucking cat"]={{path="chatsounds/autoadd/randomshit/is it because i turn into a cat youre a fucking cat.ogg",length=3.4963492063492065}}
+L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.1704308390022677}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.88122448979591839},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.7695238095238095}}
 L["man i fuckin shit on your nan"]={{path="chatsounds/autoadd/randomshit/man i fuckin shit on your nan.ogg",length=2.544331065759637}}
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/randomshit/mom youre an idiot kappa.ogg",length=2.2340589569160998}}
