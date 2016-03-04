@@ -67,6 +67,7 @@ L["russkikssur"]={{path="chatsounds/autoadd/trenchfroast/russkikssur.ogg",length
 L["sack my dick"]={{path="chatsounds/autoadd/trenchfroast/sack my dick.ogg",length=0.81528344671201813}}
 L["sambaloop"]={{path="chatsounds/autoadd/trenchfroast/sambaloop.ogg",length=4.7993197278911568}}
 L["shut up granshush"]={{path="chatsounds/autoadd/trenchfroast/shut up granshush.ogg",length=1.7208843537414966}}
+L["so let me show you what i came up with"]={{path="chatsounds/autoadd/trenchfroast/so let me show you what i came up with.ogg",length=2.8941496598639458}}
 L["squeakylaugh"]={{path="chatsounds/autoadd/trenchfroast/squeakylaugh.ogg",length=2.2389115646258504}}
 L["squeakylaughlong"]={{path="chatsounds/autoadd/trenchfroast/squeakylaughlong.ogg",length=8.5940589569161006}}
 L["stranth"]={{path="chatsounds/autoadd/trenchfroast/stranth.ogg",length=0.68614512471655331}}
