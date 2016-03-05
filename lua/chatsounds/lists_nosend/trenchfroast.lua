@@ -41,6 +41,7 @@ L["idi nahui"]={{path="chatsounds/autoadd/trenchfroast/idi nahui.ogg",length=0.8
 L["if you dont speak russki i will murder you"]={{path="chatsounds/autoadd/trenchfroast/if you dont speak russki i will murder you.ogg",length=2.2403628117913832}}
 L["intruder alert"]={{path="chatsounds/autoadd/trenchfroast/intruder alert.ogg",length=2.4002721088435375}}
 L["ipponmanzoku"]={{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 1.ogg",length=3.294920634920635},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 2.ogg",length=3.3324263038548754},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 3.ogg",length=3.2747392290249433},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 4.ogg",length=3.2735147392290251}}
+L["klaxonloop"]={{path="chatsounds/autoadd/trenchfroast/klaxonloop.ogg",length=5.2188662131519274}}
 L["look at this horrendous texturing"]={{path="chatsounds/autoadd/trenchfroast/look at this horrendous texturing.ogg",length=1.7155555555555555}}
 L["loool"]={{path="chatsounds/autoadd/trenchfroast/loool.ogg",length=0.43646258503401358}}
 L["mein fuhrer"]={{path="chatsounds/autoadd/trenchfroast/mein fuhrer.ogg",length=0.69492063492063494}}
