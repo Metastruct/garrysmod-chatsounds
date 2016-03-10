@@ -16,10 +16,12 @@ L["buttplug"]={{path="chatsounds/autoadd/trenchfroast/buttplug/buttplug copy cop
 L["cabron"]={{path="chatsounds/autoadd/trenchfroast/cabron.ogg",length=0.47587301587301589}}
 L["callate pendejo americano"]={{path="chatsounds/autoadd/trenchfroast/callate pendejo americano.ogg",length=1.6265759637188208}}
 L["chinesewords"]={{path="chatsounds/autoadd/trenchfroast/chinesewords.ogg",length=2.5804988662131518}}
+L["cuck"]={{path="chatsounds/autoadd/trenchfroast/cuck.ogg",length=0.15256235827664399}}
 L["desudesudesu"]={{path="chatsounds/autoadd/trenchfroast/desudesudesu.ogg",length=0.83668934240362813}}
 L["dont say gay say hey"]={{path="chatsounds/autoadd/trenchfroast/dont say gay say hey.ogg",length=1.7145351473922903}}
 L["doublebass"]={{path="chatsounds/autoadd/trenchfroast/doublebass.ogg",length=0.96018140589569156}}
 L["eeea"]={{path="chatsounds/autoadd/trenchfroast/eeea.ogg",length=0.31637188208616779}}
+L["eei"]={{path="chatsounds/autoadd/trenchfroast/eei.ogg",length=0.20784580498866212}}
 L["esey"]={{path="chatsounds/autoadd/trenchfroast/esey.ogg",length=0.63380952380952382}}
 L["explain to me"]={{path="chatsounds/autoadd/trenchfroast/explain to me/explain to me 1.ogg",length=1.0192290249433107},{path="chatsounds/autoadd/trenchfroast/explain to me/explain to me 2.ogg",length=1.3834240362811792}}
 L["fak you fat american pig"]={{path="chatsounds/autoadd/trenchfroast/fak you fat american pig.ogg",length=1.5194104308390022}}
@@ -41,6 +43,8 @@ L["idi nahui"]={{path="chatsounds/autoadd/trenchfroast/idi nahui.ogg",length=0.8
 L["if you dont speak russki i will murder you"]={{path="chatsounds/autoadd/trenchfroast/if you dont speak russki i will murder you.ogg",length=2.2403628117913832}}
 L["intruder alert"]={{path="chatsounds/autoadd/trenchfroast/intruder alert.ogg",length=2.4002721088435375}}
 L["ipponmanzoku"]={{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 1.ogg",length=3.294920634920635},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 2.ogg",length=3.3324263038548754},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 3.ogg",length=3.2747392290249433},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 4.ogg",length=3.2735147392290251}}
+L["jej"]={{path="chatsounds/autoadd/trenchfroast/jej.ogg",length=0.22619047619047619}}
+L["joj"]={{path="chatsounds/autoadd/trenchfroast/joj.ogg",length=0.19113378684807256}}
 L["klaxonloop"]={{path="chatsounds/autoadd/trenchfroast/klaxonloop.ogg",length=5.2188662131519274}}
 L["look at this horrendous texturing"]={{path="chatsounds/autoadd/trenchfroast/look at this horrendous texturing.ogg",length=1.7155555555555555}}
 L["loool"]={{path="chatsounds/autoadd/trenchfroast/loool.ogg",length=0.43646258503401358}}
@@ -54,6 +58,7 @@ L["oh cool whats this"]={{path="chatsounds/autoadd/trenchfroast/oh cool whats th
 L["oh my gauh"]={{path="chatsounds/autoadd/trenchfroast/oh my gauh.ogg",length=1.086281179138322}}
 L["oh wow"]={{path="chatsounds/autoadd/trenchfroast/oh wow.ogg",length=0.77424036281179143}}
 L["oi"]={{path="chatsounds/autoadd/trenchfroast/oi.ogg",length=0.30723356009070296}}
+L["pac"]={{path="chatsounds/autoadd/trenchfroast/pac.ogg",length=0.30950113378684807}}
 L["packagerip"]={{path="chatsounds/autoadd/trenchfroast/packagerip.ogg",length=0.84424036281179138}}
 L["peeeeniiissss"]={{path="chatsounds/autoadd/trenchfroast/peeeeniiissss.ogg",length=2.7095464852607711}}
 L["pendejo"]={{path="chatsounds/autoadd/trenchfroast/pendejo.ogg",length=0.54621315192743769}}
@@ -65,6 +70,7 @@ L["q2f2ohno"]={{path="chatsounds/autoadd/trenchfroast/q2f2ohno/q2f2ohno 1.ogg",l
 L["q2f2wow"]={{path="chatsounds/autoadd/trenchfroast/q2f2wow/q2f2wow 1.ogg",length=1.355827664399093},{path="chatsounds/autoadd/trenchfroast/q2f2wow/q2f2wow 2.ogg",length=1.5348979591836736},{path="chatsounds/autoadd/trenchfroast/q2f2wow/q2f2wow 3.ogg",length=1.3159863945578232},{path="chatsounds/autoadd/trenchfroast/q2f2wow/q2f2wow 4.ogg",length=1.0955555555555556}}
 L["que te jodas"]={{path="chatsounds/autoadd/trenchfroast/que te jodas.ogg",length=0.91782312925170073}}
 L["russkikssur"]={{path="chatsounds/autoadd/trenchfroast/russkikssur.ogg",length=0.70412698412698416}}
+L["saas"]={{path="chatsounds/autoadd/trenchfroast/saas.ogg",length=0.34136054421768708}}
 L["sack my dick"]={{path="chatsounds/autoadd/trenchfroast/sack my dick.ogg",length=0.81528344671201813}}
 L["sambaloop"]={{path="chatsounds/autoadd/trenchfroast/sambaloop.ogg",length=4.7993197278911568}}
 L["shut up granshush"]={{path="chatsounds/autoadd/trenchfroast/shut up granshush.ogg",length=1.7208843537414966}}
@@ -81,6 +87,7 @@ L["that should do"]={{path="chatsounds/autoadd/trenchfroast/that should do.ogg",
 L["thats it"]={{path="chatsounds/autoadd/trenchfroast/thats it.ogg",length=0.57108843537414966}}
 L["the fuuf"]={{path="chatsounds/autoadd/trenchfroast/the fuuf.ogg",length=0.65065759637188214}}
 L["there we go"]={{path="chatsounds/autoadd/trenchfroast/there we go.ogg",length=0.68460317460317466}}
+L["tit"]={{path="chatsounds/autoadd/trenchfroast/tit.ogg",length=0.20886621315192744}}
 L["tribal"]={{path="chatsounds/autoadd/trenchfroast/tribal.ogg",length=4.7508390022675737}}
 L["tribalrush"]={{path="chatsounds/autoadd/trenchfroast/tribalrush.ogg",length=5.7766439909297054}}
 L["uptown"]={{path="chatsounds/autoadd/trenchfroast/uptown.ogg",length=18.780612244897959}}
