@@ -32,6 +32,7 @@ L["some shit to drink"]={{path="chatsounds/autoadd/kaosheaven/some shit to drink
 L["steve-o"]={{path="chatsounds/autoadd/kaosheaven/steve-o.ogg",length=1.2402494331065759}}
 L["the more you know"]={{path="chatsounds/autoadd/kaosheaven/the more you know.ogg",length=6.2693877551020405}}
 L["the part where he kills you"]={{path="chatsounds/autoadd/kaosheaven/the part where he kills you.ogg",length=38}}
+L["this calls for more wolfjob"]={{path="chatsounds/autoadd/kaosheaven/this calls for more wolfjob.ogg",length=4.7000000000000002}}
 L["tom delaways used to be a chef on tv"]={{path="chatsounds/autoadd/kaosheaven/tom delaways used to be a chef on tv.ogg",length=8.4005895691609975}}
 L["totally dude"]={{path="chatsounds/autoadd/kaosheaven/totally dude.ogg",length=1.3999999999999999}}
 L["trials"]={{path="chatsounds/autoadd/kaosheaven/trials.ogg",length=79.226485260770971}}
