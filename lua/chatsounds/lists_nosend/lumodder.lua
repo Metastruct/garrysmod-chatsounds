@@ -7,6 +7,7 @@ L["gta wasted"]={{path="chatsounds/autoadd/lumodder/gta wasted.ogg",length=7.529
 L["i am the penguin"]={{path="chatsounds/autoadd/lumodder/i am the penguin.ogg",length=1.4512471655328798}}
 L["i planted the thing"]={{path="chatsounds/autoadd/lumodder/i planted the thing/1.ogg",length=1.2252834467120182},{path="chatsounds/autoadd/lumodder/i planted the thing/2.ogg",length=1.2455102040816326},{path="chatsounds/autoadd/lumodder/i planted the thing/3.ogg",length=3.8921088435374149}}
 L["its boshy time"]={{path="chatsounds/autoadd/lumodder/its boshy time.ogg",length=1.9873922902494332}}
+L["moonthemefull"]={{path="chatsounds/autoadd/lumodder/moonthemefull.ogg",length=92.499591836734695}}
 L["mu os"]={{path="chatsounds/autoadd/lumodder/mu os.ogg",length=1.1377551020408163}}
 L["mumnumnum"]={{path="chatsounds/autoadd/lumodder/mumnumnum.ogg",length=0.80875283446712021}}
 L["real trap shit"]={{path="chatsounds/autoadd/lumodder/real trap shit.ogg",length=2.3161904761904761}}
