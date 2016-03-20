@@ -80,6 +80,7 @@ L["ok google"]={{path="chatsounds/autoadd/techbot/ok google/marker 01.ogg",lengt
 L["omg"]={{path="chatsounds/autoadd/techbot/omg.ogg",length=2.9184580498866213}}
 L["oooooooooooooooooooooooooooooo"]={{path="chatsounds/autoadd/techbot/oooooooooooooooooooooooooooooo.ogg",length=7.0588662131519273}}
 L["opqrstusb"]={{path="chatsounds/autoadd/techbot/opqrstusb.ogg",length=2.0041723356009071}}
+L["pepeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"]={{path="chatsounds/autoadd/techbot/pepeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ogg",length=4.0239229024943315}}
 L["perse"]={{path="chatsounds/autoadd/techbot/perse.ogg",length=0.52117913832199547}}
 L["roman"]={{path="chatsounds/autoadd/techbot/roman.ogg",length=3.0926077097505669}}
 L["saatana"]={{path="chatsounds/autoadd/techbot/saatana/saatana 2.ogg",length=0.55437641723356013},{path="chatsounds/autoadd/techbot/saatana/saatana.ogg",length=1.0535147392290249}}
