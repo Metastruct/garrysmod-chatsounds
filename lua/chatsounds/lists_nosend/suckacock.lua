@@ -3,7 +3,9 @@ L["cock"]={{path="chatsounds/autoadd/suckacock/cock.ogg",length=0.57040816326530
 L["girl"]={{path="chatsounds/autoadd/suckacock/girl.ogg",length=0.77102040816326534}}
 L["here"]={{path="chatsounds/autoadd/suckacock/here.ogg",length=0.97122448979591836}}
 L["here suck a cock"]={{path="chatsounds/autoadd/suckacock/here suck a cock.ogg",length=3.0242857142857145}}
+L["loudno"]={{path="chatsounds/autoadd/suckacock/loudno.ogg",length=0.53421768707482997}}
 L["muney"]={{path="chatsounds/autoadd/suckacock/muney.ogg",length=0.81210884353741497}}
+L["muney no"]={{path="chatsounds/autoadd/suckacock/muney no.ogg",length=1.4776190476190476}}
 L["no muney"]={{path="chatsounds/autoadd/suckacock/no muney.ogg",length=1.4776190476190476}}
 L["old man"]={{path="chatsounds/autoadd/suckacock/old man.ogg",length=0.73854875283446708}}
 L["suck a cock"]={{path="chatsounds/autoadd/suckacock/suck a cock.ogg",length=1.4994331065759636}}
