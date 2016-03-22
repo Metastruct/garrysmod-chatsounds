@@ -16,7 +16,7 @@ function chatsounds.GetLocalVersion()
 end
 
 function chatsounds.GetLiveVersion()
-	return chatsounds.live_rev
+	return chatsounds.live_ver
 end
 
 local path = string.match(debug.getinfo(1, "S").short_src, "^(addons/.-/)")
@@ -37,7 +37,7 @@ function chatsounds.CheckLiveVersion()
 			if isstring(content) then
 				local foundrev = string.match(content, '"sha":%s-"(.-)"') or false
 				if isstring(foundrev) then
-					chatsounds.live_rev = foundrev
+					chatsounds.live_ver = foundrev
 				end
 			end
 			done_live = true
@@ -50,7 +50,7 @@ function chatsounds.CheckLiveVersion()
 		if isstring(content) then
 			local foundrev = tonumber(string.gmatch(content, "(%d+)")()) or 0
 			if foundrev >= 1 then
-				chatsounds.live_rev = foundrev
+				chatsounds.live_ver = foundrev
 			end
 		end
 		done_live = true
@@ -84,10 +84,10 @@ end
 
 function chatsounds.NeedsUpdate()
 	if chatsounds.IsGit() then
-		return chatsounds.live_rev ~= chatsounds.version
+		return chatsounds.live_ver ~= chatsounds.version
 	end
 	
-	return chatsounds.live_rev > chatsounds.version
+	return chatsounds.live_ver > chatsounds.version
 end
 
 -- Notify
