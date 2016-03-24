@@ -1,6 +1,6 @@
 c.StartList("noiwex")
 L["2011"]={{path="chatsounds/autoadd/noiwex/2011.ogg",length=1.0739229024943311}}
-L["a"]={{path="chatsounds/autoadd/noiwex/a.ogg",length=0.21777777777777776}}
+L["a distorted"]={{path="chatsounds/autoadd/noiwex/a distorted.ogg",length=0.21777777777777776}}
 L["adventures of gaben"]={{path="chatsounds/autoadd/noiwex/adventures of gaben.ogg",length=34.955238095238094}}
 L["ag"]={{path="chatsounds/autoadd/noiwex/ag.ogg",length=0.21777777777777776}}
 L["ah fuck you letterhead"]={{path="chatsounds/autoadd/noiwex/ah fuck you letterhead.ogg",length=2.5292290249433105}}
@@ -18,7 +18,7 @@ L["battlefield"]={{path="chatsounds/autoadd/noiwex/battlefield.ogg",length=0.632
 L["bf3intro"]={{path="chatsounds/autoadd/noiwex/bf3intro.ogg",length=26.668775510204082}}
 L["bf3intro bash"]={{path="chatsounds/autoadd/noiwex/bf3intro bash.ogg",length=4.6596598639455786}}
 L["biggasp"]={{path="chatsounds/autoadd/noiwex/biggasp.ogg",length=1.4048072562358276}}
-L["bo"]={{path="chatsounds/autoadd/noiwex/bo.ogg",length=0.20417233560090703}}
+L["bo distorted"]={{path="chatsounds/autoadd/noiwex/bo distorted.ogg",length=0.20417233560090703}}
 L["boom"]={{path="chatsounds/autoadd/noiwex/boom.ogg",length=0.42575963718820864}}
 L["bye bye"]={{path="chatsounds/autoadd/noiwex/bye bye.ogg",length=0.84147392290249434}}
 L["call of duty"]={{path="chatsounds/autoadd/noiwex/call of duty/call of duty 2.ogg",length=0.61793650793650789},{path="chatsounds/autoadd/noiwex/call of duty/call of duty.ogg",length=0.58539682539682536}}
@@ -86,7 +86,7 @@ L["remember no russian"]={{path="chatsounds/autoadd/noiwex/remember no russian.o
 L["saas"]={{path="chatsounds/autoadd/noiwex/saas.ogg",length=0.35430839002267572}}
 L["sas"]={{path="chatsounds/autoadd/noiwex/sas.ogg",length=0.35430839002267572}}
 L["scoutnuke"]={{path="chatsounds/autoadd/noiwex/scoutnuke.ogg",length=2.6405668934240363}}
-L["see"]={{path="chatsounds/autoadd/noiwex/see.ogg",length=0.65333333333333332}}
+L["see distorted"]={{path="chatsounds/autoadd/noiwex/see distorted.ogg",length=0.65333333333333332}}
 L["sho kipish poshel"]={{path="chatsounds/autoadd/noiwex/sho kipish poshel.ogg",length=2.0963492063492062}}
 L["shukher"]={{path="chatsounds/autoadd/noiwex/shukher.ogg",length=0.90086167800453509}}
 L["shzuz shzaaz"]={{path="chatsounds/autoadd/noiwex/shzuz shzaaz.ogg",length=1.510204081632653}}
@@ -94,7 +94,7 @@ L["skrillex"]={{path="chatsounds/autoadd/noiwex/skrillex.ogg",length=35.86761904
 L["sniper robotic laugh"]={{path="chatsounds/autoadd/noiwex/sniper robotic laugh.ogg",length=5.0225396825396826}}
 L["sorry for what"]={{path="chatsounds/autoadd/noiwex/sorry for what.ogg",length=1.1259410430839003}}
 L["sos"]={{path="chatsounds/autoadd/noiwex/sos.ogg",length=0.35430839002267572}}
-L["stupid"]={{path="chatsounds/autoadd/noiwex/stupid.ogg",length=1.1161224489795918}}
+L["stupid distorted"]={{path="chatsounds/autoadd/noiwex/stupid distorted.ogg",length=1.1161224489795918}}
 L["suka"]={{path="chatsounds/autoadd/noiwex/suka.ogg",length=0.4783219954648526}}
 L["sulnalus noi my noi"]={{path="chatsounds/autoadd/noiwex/sulnalus noi my noi.ogg",length=2.466825396825397}}
 L["surprise motherfucker"]={{path="chatsounds/autoadd/noiwex/surprise motherfucker.ogg",length=1.1856009070294784}}
@@ -113,7 +113,7 @@ L["vagineer laugh"]={{path="chatsounds/autoadd/noiwex/vagineer laugh/engineer_la
 L["vagineer pain"]={{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere01.ogg",length=1.7433106575963719},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere02.ogg",length=1.327891156462585},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere03.ogg",length=0.94331065759637189},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere04.ogg",length=1.0013605442176872},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere05.ogg",length=0.79383219954648521},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere06.ogg",length=1.2074376417233561},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsevere07.ogg",length=1.6950566893424037},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp01.ogg",length=0.40272108843537413},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp02.ogg",length=0.53551020408163263},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp03.ogg",length=0.27900226757369617},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp04.ogg",length=0.49197278911564624},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp05.ogg",length=0.41650793650793649},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp06.ogg",length=0.51156462585034013},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp07.ogg",length=0.36643990929705217},{path="chatsounds/autoadd/noiwex/vagineer pain/engineer_painsharp08.ogg",length=0.69079365079365085}}
 L["volyny k boju"]={{path="chatsounds/autoadd/noiwex/volyny k boju.ogg",length=1.5552834467120182}}
 L["wall"]={{path="chatsounds/autoadd/noiwex/wall.ogg",length=0.3341043083900227}}
-L["warp"]={{path="chatsounds/autoadd/noiwex/warp.ogg",length=1.6469387755102041}}
+L["warpsound"]={{path="chatsounds/autoadd/noiwex/warpsound.ogg",length=1.6469387755102041}}
 L["what year is this"]={{path="chatsounds/autoadd/noiwex/what year is this.ogg",length=1.050702947845805}}
 L["when you hit a wall"]={{path="chatsounds/autoadd/noiwex/when you hit a wall.ogg",length=0.92541950113378679}}
 L["when you hit a wall you get this nice boom you hit it in your leap and you go"]={{path="chatsounds/autoadd/noiwex/when you hit a wall you get this nice boom you hit it in your leap and you go.ogg",length=3.769705215419501}}
