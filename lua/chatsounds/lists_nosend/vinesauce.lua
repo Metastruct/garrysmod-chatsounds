@@ -171,6 +171,7 @@ L["spay me"]={{path="chatsounds/autoadd/vinesauce/spay me.ogg",length=1.12106575
 L["spay me for the dooret"]={{path="chatsounds/autoadd/vinesauce/spay me for the dooret.ogg",length=1.4013378684807256}}
 L["spiritu sanctus sanctum amen forever"]={{path="chatsounds/autoadd/vinesauce/spiritu sanctus sanctum amen forever.ogg",length=3.9753061224489796}}
 L["squarerrrr"]={{path="chatsounds/autoadd/vinesauce/squarerrrr.ogg",length=1.7874603174603174}}
+L["succ"]={{path="chatsounds/autoadd/vinesauce/succ.ogg",length=0.69816326530612249}}
 L["taking it up the butt like a real thug"]={{path="chatsounds/autoadd/vinesauce/taking it up the butt like a real thug.ogg",length=3.4288208616780045}}
 L["tell me something hot"]={{path="chatsounds/autoadd/vinesauce/tell me something hot.ogg",length=1.212562358276644}}
 L["that guy tried to molest me"]={{path="chatsounds/autoadd/vinesauce/that guy tried to molest me.ogg",length=1.4989342403628119}}
