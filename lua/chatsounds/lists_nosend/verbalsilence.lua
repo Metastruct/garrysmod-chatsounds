@@ -96,6 +96,7 @@ L["hai baby"]={{path="chatsounds/autoadd/verbalsilence/hai baby.ogg",length=1.35
 L["haiiiii"]={{path="chatsounds/autoadd/verbalsilence/haiiiii.ogg",length=0.71857142857142853}}
 L["headcrab apply directly to the forehead"]={{path="chatsounds/autoadd/verbalsilence/headcrab apply directly to the forehead.ogg",length=2.3647619047619046}}
 L["heh yeah boi"]={{path="chatsounds/autoadd/verbalsilence/heh yeah boi.ogg",length=1.3926303854875284}}
+L["here comes the money"]={{path="chatsounds/autoadd/verbalsilence/here comes the money.ogg",length=10.420544217687075}}
 L["hhhhhhhh"]={{path="chatsounds/autoadd/verbalsilence/hhhhhhhh.ogg",length=3.0109750566893423}}
 L["hi baby get down here"]={{path="chatsounds/autoadd/verbalsilence/hi baby get down here.ogg",length=3.8775056689342402}}
 L["highway to the dangerzone"]={{path="chatsounds/autoadd/verbalsilence/highway to the dangerzone/highway to the dangerzone 1.ogg",length=111.17387755102041},{path="chatsounds/autoadd/verbalsilence/highway to the dangerzone/highway to the dangerzone 2.ogg",length=101.01950113378685}}
@@ -139,6 +140,7 @@ L["jason"]={{path="chatsounds/autoadd/verbalsilence/jason/jason1.ogg",length=0.7
 L["jehuty in 1080p"]={{path="chatsounds/autoadd/verbalsilence/jehuty in 1080p.ogg",length=2.2899773242630386}}
 L["joh rastafari"]={{path="chatsounds/autoadd/verbalsilence/joh rastafari.ogg",length=4.165328798185941}}
 L["kickboxing banana"]={{path="chatsounds/autoadd/verbalsilence/kickboxing banana/kickboxing banana2.ogg",length=1.8717460317460317},{path="chatsounds/autoadd/verbalsilence/kickboxing banana/kickboxing banana3.ogg",length=2.5982312925170068},{path="chatsounds/autoadd/verbalsilence/kickboxing banana/kickboxing banana4.ogg",length=3.572154195011338}}
+L["lets get right into the noose"]={{path="chatsounds/autoadd/verbalsilence/lets get right into the noose.ogg",length=4.5517233560090702}}
 L["look look with your special eyes"]={{path="chatsounds/autoadd/verbalsilence/look look with your special eyes.ogg",length=2.1873696145124715}}
 L["lord jesus oh shit"]={{path="chatsounds/autoadd/verbalsilence/lord jesus oh shit.ogg",length=2.3800680272108843}}
 L["lorde lorde call me lorde ya ya ya ya ya ya"]={{path="chatsounds/autoadd/verbalsilence/lorde lorde call me lorde ya ya ya ya ya ya.ogg",length=2.7035600907029478}}
