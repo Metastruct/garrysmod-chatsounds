@@ -18,7 +18,7 @@ L["battlefield"]={{path="chatsounds/autoadd/noiwex/battlefield.ogg",length=0.632
 L["bf3intro"]={{path="chatsounds/autoadd/noiwex/bf3intro.ogg",length=26.668775510204082}}
 L["bf3intro bash"]={{path="chatsounds/autoadd/noiwex/bf3intro bash.ogg",length=4.6596598639455786}}
 L["biggasp"]={{path="chatsounds/autoadd/noiwex/biggasp.ogg",length=1.4048072562358276}}
-L["bo distorted"]={{path="chatsounds/autoadd/noiwex/bo distorted.ogg",length=0.20417233560090703}}
+L["bo"]={{path="chatsounds/autoadd/noiwex/bo.ogg",length=0.20417233560090703}}
 L["boom"]={{path="chatsounds/autoadd/noiwex/boom.ogg",length=0.42575963718820864}}
 L["bye bye"]={{path="chatsounds/autoadd/noiwex/bye bye.ogg",length=0.84147392290249434}}
 L["call of duty"]={{path="chatsounds/autoadd/noiwex/call of duty/call of duty 2.ogg",length=0.61793650793650789},{path="chatsounds/autoadd/noiwex/call of duty/call of duty.ogg",length=0.58539682539682536}}
