@@ -19,6 +19,8 @@ L["i love you vagina"]={{path="chatsounds/autoadd/kaosheaven/i love you vagina.o
 L["i saw you there"]={{path="chatsounds/autoadd/kaosheaven/i saw you there.ogg",length=2.0549659863945577}}
 L["i want two cheeseburgers"]={{path="chatsounds/autoadd/kaosheaven/i want two cheeseburgers.ogg",length=7.840544217687075}}
 L["just standing there"]={{path="chatsounds/autoadd/kaosheaven/just standing there.ogg",length=1.9040362811791383}}
+L["kaos"]={{path="chatsounds/autoadd/kaosheaven/kaos.ogg",length=0.84897959183673466}}
+L["kaosheaven"]={{path="chatsounds/autoadd/kaosheaven/kaosheaven.ogg",length=1.3015192743764172}}
 L["leme tell you about a porcupines balls"]={{path="chatsounds/autoadd/kaosheaven/leme tell you about a porcupines balls.ogg",length=7.4672108843537419}}
 L["mkay"]={{path="chatsounds/autoadd/kaosheaven/mkay.ogg",length=0.49716553287981857}}
 L["muhahahaha"]={{path="chatsounds/autoadd/kaosheaven/muhahahaha.ogg",length=1.6749886621315193}}
