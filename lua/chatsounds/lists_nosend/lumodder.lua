@@ -4,6 +4,7 @@ L["but my hope will never die"]={{path="chatsounds/autoadd/lumodder/but my hope 
 L["cosmo uh um"]={{path="chatsounds/autoadd/lumodder/cosmo uh um.ogg",length=6.1765079365079369}}
 L["get the fuck out of my life distorted"]={{path="chatsounds/autoadd/lumodder/get the fuck out of my life distorted.ogg",length=18.672312925170068}}
 L["gta wasted"]={{path="chatsounds/autoadd/lumodder/gta wasted.ogg",length=7.5296825396825398}}
+L["hhyyoooooonngghh"]={{path="chatsounds/autoadd/lumodder/hhyyoooooonngghh.ogg",length=2.2821088435374151}}
 L["i am the penguin"]={{path="chatsounds/autoadd/lumodder/i am the penguin.ogg",length=1.4512471655328798}}
 L["i planted the thing"]={{path="chatsounds/autoadd/lumodder/i planted the thing/1.ogg",length=1.2252834467120182},{path="chatsounds/autoadd/lumodder/i planted the thing/2.ogg",length=1.2455102040816326},{path="chatsounds/autoadd/lumodder/i planted the thing/3.ogg",length=3.8921088435374149}}
 L["its boshy time"]={{path="chatsounds/autoadd/lumodder/its boshy time.ogg",length=1.9873922902494332}}
