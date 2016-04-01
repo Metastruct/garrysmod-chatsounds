@@ -19,7 +19,6 @@ L["fire the laser"]={{path="chatsounds/autoadd/austinpowers/fire the laser.ogg",
 L["he would make outrageous claims like he invented the question mark"]={{path="chatsounds/autoadd/austinpowers/he would make outrageous claims like he invented the question mark.ogg",length=4.2418367346938775}}
 L["hes the snake to my mongoose or the mongoose to my snake"]={{path="chatsounds/autoadd/austinpowers/hes the snake to my mongoose or the mongoose to my snake.ogg",length=5.4935147392290249}}
 L["however isnt it ironic that the very things that you stand for"]={{path="chatsounds/autoadd/austinpowers/however isnt it ironic that the very things that you stand for.ogg",length=5.2012698412698413}}
-L["i already had someone created in my image hes evil he wants to take over the world and he fits easily into most overhead storage bins"]={{path="chatsounds/autoadd/austinpowers/i already had someone created in my image hes evil he wants to take over the world and he fits easily into most overhead storage bins.ogg",length=8.3793424036281188}}
 L["i dont know animals"]={{path="chatsounds/autoadd/austinpowers/i dont know animals.ogg",length=1.6341496598639456}}
 L["i have one simple request"]={{path="chatsounds/autoadd/austinpowers/i have one simple request.ogg",length=2.4859863945578233}}
 L["im going to place him in an easily escapable situation involving an overly elaborate and exotic death"]={{path="chatsounds/autoadd/austinpowers/im going to place him in an easily escapable situation involving an overly elaborate and exotic death.ogg",length=5.841201814058957}}
