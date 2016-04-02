@@ -13,6 +13,9 @@ L["alright fuck the game lets try bomb squad"]={{path="chatsounds/autoadd/verbal
 L["alright i just got intel from hq eta five minutes to bedtime boys lets wrap it up"]={{path="chatsounds/autoadd/verbalsilence/alright i just got intel from hq eta five minutes to bedtime boys lets wrap it up.ogg",length=4.3342403628117916}}
 L["and none for gretchen weiners bye"]={{path="chatsounds/autoadd/verbalsilence/and none for gretchen weiners bye.ogg",length=1.5978231292517007}}
 L["and we know the night is always gonna be there anyway"]={{path="chatsounds/autoadd/verbalsilence/and we know the night is always gonna be there anyway.ogg",length=6.0924036281179141}}
+L["are you crazy"]={{path="chatsounds/autoadd/verbalsilence/are you crazy.ogg",length=1.044421768707483}}
+L["are you crazy are you out of your moind"]={{path="chatsounds/autoadd/verbalsilence/are you crazy are you out of your moind.ogg",length=2.2205215419501134}}
+L["are you out of your moind"]={{path="chatsounds/autoadd/verbalsilence/are you out of your moind.ogg",length=0.97759637188208615}}
 L["aussiedramatic"]={{path="chatsounds/autoadd/verbalsilence/aussiedramatic.ogg",length=19.877687074829932}}
 L["aw"]={{path="chatsounds/autoadd/verbalsilence/aw.ogg",length=0.61172335600907024}}
 L["aw dont cry"]={{path="chatsounds/autoadd/verbalsilence/aw dont cry.ogg",length=2.8741950113378687}}
@@ -103,6 +106,7 @@ L["highway to the dangerzone"]={{path="chatsounds/autoadd/verbalsilence/highway 
 L["holla holla get dolla"]={{path="chatsounds/autoadd/verbalsilence/holla holla get dolla.ogg",length=1.4971428571428571}}
 L["holy shit man you gotta get on that"]={{path="chatsounds/autoadd/verbalsilence/holy shit man you gotta get on that.ogg",length=2.7945351473922901}}
 L["howie scream"]={{path="chatsounds/autoadd/verbalsilence/howie scream.ogg",length=2.8987074829931974}}
+L["hyooongh"]={{path="chatsounds/autoadd/verbalsilence/hyooongh.ogg",length=0.86789115646258508}}
 L["i am assuming direct control"]={{path="chatsounds/autoadd/verbalsilence/i am assuming direct control.ogg",length=2.7996598639455783}}
 L["i am extraordinarily busy sir"]={{path="chatsounds/autoadd/verbalsilence/i am extraordinarily busy sir.ogg",length=2.3106802721088435}}
 L["i cant help it if i have a heavy flow and a wide set vagina"]={{path="chatsounds/autoadd/verbalsilence/i cant help it if i have a heavy flow and a wide set vagina.ogg",length=3.4469841269841268}}

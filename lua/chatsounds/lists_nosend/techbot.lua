@@ -39,6 +39,7 @@ L["fucking damn hell cockwhore asshole cunt shitballs"]={{path="chatsounds/autoa
 L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",length=2.8923356009070296}}
 L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.3975510204081634}}
 L["genius"]={{path="chatsounds/autoadd/techbot/genius.ogg",length=0.49160997732426304}}
+L["git gud"]={{path="chatsounds/autoadd/techbot/git gud.ogg",length=1.0160544217687075}}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.80253968253968255}}
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.7501133786848073}}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.77902494331065764}}

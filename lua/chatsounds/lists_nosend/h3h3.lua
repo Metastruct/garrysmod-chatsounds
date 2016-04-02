@@ -25,6 +25,7 @@ L["i just cant stop pushing my fucking incompetent grandma down the stairs"]={{p
 L["i just pranked you buddy i just goofed you hard"]={{path="chatsounds/autoadd/h3h3/i just pranked you buddy i just goofed you hard.ogg",length=3.2453287981859411}}
 L["i wonder if he gives the horse a reach around"]={{path="chatsounds/autoadd/h3h3/i wonder if he gives the horse a reach around.ogg",length=1.6705442176870748}}
 L["im a real gamer"]={{path="chatsounds/autoadd/h3h3/im a real gamer.ogg",length=1.5560090702947846}}
+L["im ethan bradberry"]={{path="chatsounds/autoadd/h3h3/im ethan bradberry.ogg",length=1.0114058956916099}}
 L["im gonna get fuckin owned by noobs with a cut like this thanks a lot dude"]={{path="chatsounds/autoadd/h3h3/im gonna get fuckin owned by noobs with a cut like this thanks a lot dude.ogg",length=5.5239909297052154}}
 L["introducing the broccoli assassin guys"]={{path="chatsounds/autoadd/h3h3/introducing the broccoli assassin guys.ogg",length=3.1533333333333333}}
 L["its like middle school but youre a grown man"]={{path="chatsounds/autoadd/h3h3/its like middle school but youre a grown man.ogg",length=2.2226757369614512}}
