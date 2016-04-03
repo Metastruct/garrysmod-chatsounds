@@ -569,12 +569,6 @@ L["holzmichel"]={{path="chatsounds/autoadd/instagib/holzmichel.ogg",length=10.79
 L["hop"]={{path="chatsounds/autoadd/instagib/hop.ogg",length=0.5485714285714286}}
 L["hope"]={{path="chatsounds/autoadd/instagib/hope.ogg",length=4.066938775510204}}
 L["hopla"]={{path="chatsounds/autoadd/instagib/hopla.ogg",length=0.56185941043083898}}
-L["horny"]={{path="chatsounds/autoadd/instagib/horny.ogg",length=9.5008616780045347}}
-L["horny1"]={{path="chatsounds/autoadd/instagib/horny1.ogg",length=8.0644897959183677}}
-L["horny2"]={{path="chatsounds/autoadd/instagib/horny2.ogg",length=11.820408163265306}}
-L["horny3"]={{path="chatsounds/autoadd/instagib/horny3.ogg",length=15.107482993197278}}
-L["horny4"]={{path="chatsounds/autoadd/instagib/horny4.ogg",length=18.742902494331066}}
-L["horny5"]={{path="chatsounds/autoadd/instagib/horny5.ogg",length=13.21501133786848}}
 L["hortauf"]={{path="chatsounds/autoadd/instagib/hortauf.ogg",length=3.0689342403628119}}
 L["hose"]={{path="chatsounds/autoadd/instagib/hose.ogg",length=9.7508843537414958}}
 L["hrhr"]={{path="chatsounds/autoadd/instagib/hrhr.ogg",length=6.5824943310657593}}
@@ -846,7 +840,6 @@ L["mussgewinnen2"]={{path="chatsounds/autoadd/instagib/mussgewinnen2.ogg",length
 L["mutti"]={{path="chatsounds/autoadd/instagib/mutti.ogg",length=2.5002267573696146}}
 L["my bunghole it speaks loud"]={{path="chatsounds/autoadd/instagib/my bunghole it speaks loud.ogg",length=1.824126984126984}}
 L["myass"]={{path="chatsounds/autoadd/instagib/myass.ogg",length=2.919002267573696}}
-L["myself"]={{path="chatsounds/autoadd/instagib/myself.ogg",length=2.8337414965986394}}
 L["n8"]={{path="chatsounds/autoadd/instagib/n8.ogg",length=1.0439909297052155}}
 L["n81"]={{path="chatsounds/autoadd/instagib/n81.ogg",length=1.5644897959183675}}
 L["nabend"]={{path="chatsounds/autoadd/instagib/nabend.ogg",length=1.8946938775510205}}
