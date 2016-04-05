@@ -223,6 +223,7 @@ L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.119659863945
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907}}
 L["twentyone"]={{path="chatsounds/autoadd/verbalsilence/twentyone.ogg",length=0.79594104308390023}}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911}}
+L["vaporwave loop"]={{path="chatsounds/autoadd/verbalsilence/vaporwave loop.ogg",length=21.865555555555556}}
 L["vat did you cool me"]={{path="chatsounds/autoadd/verbalsilence/vat did you cool me.ogg",length=1.5342630385487528}}
 L["verbal"]={{path="chatsounds/autoadd/verbalsilence/verbal.ogg",length=0.80759637188208622}}
 L["watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/watch your profanity.ogg",length=1.3598639455782313}}
@@ -246,6 +247,7 @@ L["wolf whistle"]={{path="chatsounds/autoadd/verbalsilence/wolf whistle.ogg",len
 L["would you like to play again"]={{path="chatsounds/autoadd/verbalsilence/would you like to play again.ogg",length=2.003265306122449}}
 L["wow wow wee wa"]={{path="chatsounds/autoadd/verbalsilence/wow wow wee wa.ogg",length=1.2266439909297051}}
 L["wrong sir wrong"]={{path="chatsounds/autoadd/verbalsilence/wrong sir wrong.ogg",length=2.3951473922902493}}
+L["wtf man"]={{path="chatsounds/autoadd/verbalsilence/wtf man.ogg",length=2.1071882086167801}}
 L["xbox achievement"]={{path="chatsounds/autoadd/verbalsilence/xbox achievement.ogg",length=0.27394557823129251}}
 L["ya ya ya ya ya ya i am lorde ya ya ya"]={{path="chatsounds/autoadd/verbalsilence/ya ya ya ya ya ya i am lorde ya ya ya.ogg",length=3.0481405895691611}}
 L["yeah fuck those guys and their shit ass game"]={{path="chatsounds/autoadd/verbalsilence/yeah fuck those guys and their shit ass game.ogg",length=5.4519274376417233}}
