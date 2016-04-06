@@ -12,7 +12,10 @@ L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/beauty_bomber/b
 L["beauty bomber"]={{path="chatsounds/autoadd/beauty_bomber/beauty bomber.ogg",length=0.94040816326530607}}
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.84578231292517}}
 L["chandra brambra chandra chandra bendram"]={{path="chatsounds/autoadd/beauty_bomber/chandra brambra chandra chandra bendram/1.ogg",length=7.4000000000000004},{path="chatsounds/autoadd/beauty_bomber/chandra brambra chandra chandra bendram/2.ogg",length=7.2000000000000002}}
+L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/beauty_bomber/dontloseyourway.ogg",length=35.899999999999999}}
+L["eeeeeeeeeuuuuuuuuuuggggggggghhhhhhhhhhh"]={{path="chatsounds/autoadd/beauty_bomber/eeeeeeeeeuuuuuuuuuuggggggggghhhhhhhhhhh.ogg",length=70.95269841269841}}
+L["eeeuuuggghhh"]={{path="chatsounds/autoadd/beauty_bomber/eeeuuuggghhh.ogg",length=6.1204761904761904}}
 L["gordon you must get out of here runrunrunrunrunrunrunrun"]={{path="chatsounds/autoadd/beauty_bomber/gordon you must get out of here runrunrunrunrunrunrunrun.ogg",length=5.2999999999999998}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.30725623582766443}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/beauty_bomber/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}

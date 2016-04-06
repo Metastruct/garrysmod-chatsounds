@@ -408,7 +408,7 @@ L["this should be good"]={{path="chatsounds/autoadd/starcraft/this should be goo
 L["thorasohcahp"]={{path="chatsounds/autoadd/starcraft/thorasohcahp.ogg",length=1.9781405895691611}}
 L["thoughts in chaos"]={{path="chatsounds/autoadd/starcraft/thoughts in chaos.ogg",length=2.9267120181405897}}
 L["to curl chunks please use the vomit bag in front of you"]={{path="chatsounds/autoadd/starcraft/to curl chunks please use the vomit bag in front of you.ogg",length=2.9257596371882086}}
-L["transmission"]={{path="chatsounds/autoadd/starcraft/transmission.wav",length=0.17990929705215419}}
+L["transmission"]={{path="chatsounds/autoadd/starcraft/transmission.ogg",length=0.17990929705215419}}
 L["transmit"]={{path="chatsounds/autoadd/starcraft/transmit.ogg",length=0.8011791383219955}}
 L["transmit coordinates"]={{path="chatsounds/autoadd/starcraft/transmit coordinates.ogg",length=1.4164625850340136}}
 L["transmit orders"]={{path="chatsounds/autoadd/starcraft/transmit orders.ogg",length=1.82562358276644}}

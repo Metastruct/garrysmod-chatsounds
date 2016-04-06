@@ -39,6 +39,7 @@ L["fucking damn hell cockwhore asshole cunt shitballs"]={{path="chatsounds/autoa
 L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",length=2.8923356009070296}}
 L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.3975510204081634}}
 L["genius"]={{path="chatsounds/autoadd/techbot/genius.ogg",length=0.49160997732426304}}
+L["git gud"]={{path="chatsounds/autoadd/techbot/git gud.ogg",length=1.0160544217687075}}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.80253968253968255}}
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.7501133786848073}}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.77902494331065764}}
@@ -78,7 +79,9 @@ L["oh my"]={{path="chatsounds/autoadd/techbot/oh my.ogg",length=1.39319727891156
 L["oh yeah"]={{path="chatsounds/autoadd/techbot/oh yeah/1.ogg",length=3.0182312925170067},{path="chatsounds/autoadd/techbot/oh yeah/2.ogg",length=2.0384580498866214}}
 L["ok google"]={{path="chatsounds/autoadd/techbot/ok google/marker 01.ogg",length=0.65596371882086169},{path="chatsounds/autoadd/techbot/ok google/marker 02.ogg",length=0.80253968253968255},{path="chatsounds/autoadd/techbot/ok google/marker 03.ogg",length=0.78367346938775506},{path="chatsounds/autoadd/techbot/ok google/marker 04.ogg",length=0.83591836734693881}}
 L["omg"]={{path="chatsounds/autoadd/techbot/omg.ogg",length=2.9184580498866213}}
+L["oooooooooooooooooooooooooooooo"]={{path="chatsounds/autoadd/techbot/oooooooooooooooooooooooooooooo.ogg",length=7.0588662131519273}}
 L["opqrstusb"]={{path="chatsounds/autoadd/techbot/opqrstusb.ogg",length=2.0041723356009071}}
+L["pepeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"]={{path="chatsounds/autoadd/techbot/pepeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ogg",length=4.0239229024943315}}
 L["perse"]={{path="chatsounds/autoadd/techbot/perse.ogg",length=0.52117913832199547}}
 L["roman"]={{path="chatsounds/autoadd/techbot/roman.ogg",length=3.0926077097505669}}
 L["saatana"]={{path="chatsounds/autoadd/techbot/saatana/saatana 2.ogg",length=0.55437641723356013},{path="chatsounds/autoadd/techbot/saatana/saatana.ogg",length=1.0535147392290249}}
