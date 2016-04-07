@@ -19,7 +19,7 @@ L["please dont think that"]={{path="chatsounds/autoadd/gman/please dont think th
 L["quite so"]={{path="chatsounds/autoadd/gman/quite so.ogg",length=1.0448979591836736}}
 L["subject you"]={{path="chatsounds/autoadd/gman/subject you.ogg",length=0.62195011337868478}}
 L["telling all"]={{path="chatsounds/autoadd/gman/telling all.ogg",length=0.94086167800453513}}
-L["thats why im here mr freeman i have recommended your services to my employees"]={{path="chatsounds/autoadd/gman/thats why im here mr freeman i have recommended your services to my employees.ogg",length=20.117278911564625}}
+L["thats why im here mr freeman i have recommended your services to my employers"]={{path="chatsounds/autoadd/gman/thats why im here mr freeman i have recommended your services to my employers.ogg",length=20.117278911564625}}
 L["the biggest embarrassment has been"]={{path="chatsounds/autoadd/gman/the biggest embarrassment has been.ogg",length=2.5408616780045352}}
 L["the borderworld then is in our control for the time being"]={{path="chatsounds/autoadd/gman/the borderworld then is in our control for the time being.ogg",length=12.698231292517006}}
 L["time to choose"]={{path="chatsounds/autoadd/gman/time to choose.ogg",length=1.8017233560090702}}
