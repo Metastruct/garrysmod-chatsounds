@@ -28,7 +28,6 @@ L["so we just listen in"]={{path="chatsounds/autoadd/mgs2_raiden/so we just list
 L["strut b"]={{path="chatsounds/autoadd/mgs2_raiden/strut b.ogg",length=0.97523809523809524}}
 L["thats far more effective than live exercises"]={{path="chatsounds/autoadd/mgs2_raiden/thats far more effective than live exercises.ogg",length=2.8444444444444446}}
 L["the ceiling of the womens bathroom was set to blow"]={{path="chatsounds/autoadd/mgs2_raiden/the ceiling of the womens bathroom was set to blow.ogg",length=3.1463038548752835}}
-L["the ceiling of womens bathroom was set to blow"]={{path="chatsounds/autoadd/mgs2_raiden/the ceiling of womens bathroom was set to blow.ogg",length=3.1463038548752835}}
 L["the hero of shadow moses"]={{path="chatsounds/autoadd/mgs2_raiden/the hero of shadow moses.ogg",length=2.10140589569161}}
 L["there is something i need you to do as an analist"]={{path="chatsounds/autoadd/mgs2_raiden/there is something i need you to do as an analist.ogg",length=2.8096145124716552}}
 L["this is a little different from using c4"]={{path="chatsounds/autoadd/mgs2_raiden/this is a little different from using c4.ogg",length=2.6586848072562357}}
