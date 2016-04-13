@@ -76,6 +76,7 @@ L["i guess youre leaving"]={{path="chatsounds/autoadd/borderlands/i guess youre 
 L["i had a good feelin about you glad it wasnt just the painkillers"]={{path="chatsounds/autoadd/borderlands/i had a good feelin about you glad it wasnt just the painkillers.ogg",length=4.0286621315192743}}
 L["i i hate to impose but i sure could use a helping hand"]={{path="chatsounds/autoadd/borderlands/i i hate to impose but i sure could use a helping hand.ogg",length=3.7268027210884354}}
 L["i knew it i was right"]={{path="chatsounds/autoadd/borderlands/i knew it i was right.ogg",length=1.7865306122448981}}
+L["i love it"]={{path="chatsounds/autoadd/borderlands/i love it/1.ogg",length=0.81922902494331062},{path="chatsounds/autoadd/borderlands/i love it/2.ogg",length=0.51401360544217689}}
 L["i need moarrrrr"]={{path="chatsounds/autoadd/borderlands/i need moarrrrr.ogg",length=3.3088435374149658}}
 L["i need your help with something"]={{path="chatsounds/autoadd/borderlands/i need your help with something/1.ogg",length=1.3931972789115645},{path="chatsounds/autoadd/borderlands/i need your help with something/2.ogg",length=1.6021768707482993}}
 L["i think were done here"]={{path="chatsounds/autoadd/borderlands/i think were done here/1.ogg",length=1.3699773242630386},{path="chatsounds/autoadd/borderlands/i think were done here/2.ogg",length=1.5441269841269842}}
@@ -143,13 +144,12 @@ L["ohhh god ohhh god"]={{path="chatsounds/autoadd/borderlands/ohhh god ohhh god.
 L["perhaps you could be somewhere that isnt you know here"]={{path="chatsounds/autoadd/borderlands/perhaps you could be somewhere that isnt you know here/1.ogg",length=3.0998639455782313},{path="chatsounds/autoadd/borderlands/perhaps you could be somewhere that isnt you know here/2.ogg",length=3.9125623582766438}}
 L["perhaps you could leave me alone"]={{path="chatsounds/autoadd/borderlands/perhaps you could leave me alone/1.ogg",length=1.9853061224489796},{path="chatsounds/autoadd/borderlands/perhaps you could leave me alone/2.ogg",length=1.7414965986394557}}
 L["please dont shoot my head"]={{path="chatsounds/autoadd/borderlands/please dont shoot my head.ogg",length=1.2878004535147392}}
-L["please dont shoot my head please dont shoot my head"]={{path="chatsounds/autoadd/borderlands/please dont shoot my head please dont shoot my head.ogg",length=2.6638095238095238}}
-L["please dont shoot my head please dont shoot my head2"]={{path="chatsounds/autoadd/borderlands/please dont shoot my head please dont shoot my head2.ogg",length=2.3491383219954649}}
+L["please dont shoot my head please dont shoot my head"]={{path="chatsounds/autoadd/borderlands/please dont shoot my head please dont shoot my head/1.ogg",length=2.6638095238095238},{path="chatsounds/autoadd/borderlands/please dont shoot my head please dont shoot my head/2.ogg",length=2.3491383219954649}}
 L["please vacate"]={{path="chatsounds/autoadd/borderlands/please vacate/1.ogg",length=0.85405895691609979},{path="chatsounds/autoadd/borderlands/please vacate/2.ogg",length=1.0722902494331066}}
 L["reliable and efficient very admirable"]={{path="chatsounds/autoadd/borderlands/reliable and efficient very admirable.ogg",length=2.8096145124716552}}
 L["run pussy run"]={{path="chatsounds/autoadd/borderlands/run pussy run.ogg",length=2.3916553287981861}}
 L["satisfaction abounds"]={{path="chatsounds/autoadd/borderlands/satisfaction abounds.ogg",length=2.9721541950113379}}
-L["see you lata"]={{path="chatsounds/autoadd/borderlands/see you lata.ogg",length=0.84752834467120186}}
+L["see you later"]={{path="chatsounds/autoadd/borderlands/see you later.ogg",length=0.84752834467120186}}
 L["shhhhhhhhiet"]={{path="chatsounds/autoadd/borderlands/shhhhhhhhiet.ogg",length=1.6507029478458051}}
 L["shhhhhhhhit"]={{path="chatsounds/autoadd/borderlands/shhhhhhhhit.ogg",length=1.3792063492063491}}
 L["shit incoming"]={{path="chatsounds/autoadd/borderlands/shit incoming/1.ogg",length=1.6602267573696146},{path="chatsounds/autoadd/borderlands/shit incoming/2.ogg",length=1.7182766439909296}}
@@ -158,7 +158,8 @@ L["shouldve made more zombies"]={{path="chatsounds/autoadd/borderlands/shouldve 
 L["so big so angry so dead"]={{path="chatsounds/autoadd/borderlands/so big so angry so dead/1.ogg",length=4.0751020408163265},{path="chatsounds/autoadd/borderlands/so big so angry so dead/2.ogg",length=4.5278911564625854}}
 L["so how much longer you gonna admire that dirt"]={{path="chatsounds/autoadd/borderlands/so how much longer you gonna admire that dirt.ogg",length=2.6470748299319729}}
 L["so you want me to share huh"]={{path="chatsounds/autoadd/borderlands/so you want me to share huh.ogg",length=3.5410430839002269}}
-L["son of a bitch"]={{path="chatsounds/autoadd/borderlands/son of a bitch/1.ogg",length=0.94752834467120184},{path="chatsounds/autoadd/borderlands/son of a bitch/2.ogg",length=0.93514739229024946},{path="chatsounds/autoadd/borderlands/son of a bitch/3.ogg",length=1.8343083900226758},{path="chatsounds/autoadd/borderlands/son of a bitch/4.ogg",length=1.667482993197279}}
+L["son of a bitch"]={{path="chatsounds/autoadd/borderlands/son of a bitch/3.ogg",length=1.8343083900226758},{path="chatsounds/autoadd/borderlands/son of a bitch/4.ogg",length=1.667482993197279}}
+L["sonofabitch"]={{path="chatsounds/autoadd/borderlands/sonofabitch/1.ogg",length=0.94752834467120184},{path="chatsounds/autoadd/borderlands/sonofabitch/2.ogg",length=0.93514739229024946}}
 L["sorry no"]={{path="chatsounds/autoadd/borderlands/sorry no.ogg",length=1.230657596371882}}
 L["stay outta my way"]={{path="chatsounds/autoadd/borderlands/stay outta my way/1.ogg",length=1.0307256235827664},{path="chatsounds/autoadd/borderlands/stay outta my way/2.ogg",length=1.0317460317460319}}
 L["stop killin my zombies"]={{path="chatsounds/autoadd/borderlands/stop killin my zombies.ogg",length=2.1585260770975059}}
@@ -207,7 +208,7 @@ L["what do ya want spit it out"]={{path="chatsounds/autoadd/borderlands/what do 
 L["what oh uh were we fighting"]={{path="chatsounds/autoadd/borderlands/what oh uh were we fighting.ogg",length=2.8792743764172335}}
 L["what oh were we fighting"]={{path="chatsounds/autoadd/borderlands/what oh were we fighting/1.ogg",length=3.2856235827664397},{path="chatsounds/autoadd/borderlands/what oh were we fighting/2.ogg",length=3.3668934240362813}}
 L["what the hell are you supposed to be"]={{path="chatsounds/autoadd/borderlands/what the hell are you supposed to be.ogg",length=1.9156462585034013}}
-L["what the hell is wrong with you2"]={{path="chatsounds/autoadd/borderlands/what the hell is wrong with you2.ogg",length=1.5246712018140589}}
+L["what the hell is wrong with you"]={{path="chatsounds/autoadd/borderlands/what the hell is wrong with you.ogg",length=1.5246712018140589}}
 L["what you aint done yet"]={{path="chatsounds/autoadd/borderlands/what you aint done yet.ogg",length=1.4396371882086167}}
 L["what you didnt like that"]={{path="chatsounds/autoadd/borderlands/what you didnt like that/1.ogg",length=1.2074376417233561},{path="chatsounds/autoadd/borderlands/what you didnt like that/2.ogg",length=2.1362358276643989}}
 L["what you dont wanna play pop top"]={{path="chatsounds/autoadd/borderlands/what you dont wanna play pop top.ogg",length=2.5541950113378684}}
