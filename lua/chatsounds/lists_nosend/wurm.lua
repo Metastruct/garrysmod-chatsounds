@@ -1,6 +1,6 @@
 c.StartList("wurm")
 L["applaud"]={{path="chatsounds/autoadd/wurm/applaud.ogg",length=2.6839909297052156}}
-L["call."]={{path="chatsounds/autoadd/wurm/call..ogg",length=0.44226757369614511}}
+L["call"]={{path="chatsounds/autoadd/wurm/call.ogg",length=0.44226757369614511}}
 L["chuckle"]={{path="chatsounds/autoadd/wurm/chuckle.ogg",length=0.75827664399092976}}
 L["cry"]={{path="chatsounds/autoadd/wurm/cry.ogg",length=3.4381405895691608}}
 L["curse"]={{path="chatsounds/autoadd/wurm/curse.ogg",length=1.2449433106575964}}

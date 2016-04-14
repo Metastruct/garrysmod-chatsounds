@@ -59,7 +59,7 @@ L["in"]={{path="chatsounds/autoadd/christian_caller/in.ogg",length=0.15659863945
 L["in life exist"]={{path="chatsounds/autoadd/christian_caller/in life exist.ogg",length=1.7424489795918368}}
 L["insects"]={{path="chatsounds/autoadd/christian_caller/insects.ogg",length=1.1259863945578232}}
 L["is"]={{path="chatsounds/autoadd/christian_caller/is/is copy.ogg",length=1.1518367346938776},{path="chatsounds/autoadd/christian_caller/is/is copy1.ogg",length=0.26344671201814057},{path="chatsounds/autoadd/christian_caller/is/is.ogg",length=0.41968253968253966}}
-L["it would  have to be"]={{path="chatsounds/autoadd/christian_caller/it would  have to be.ogg",length=1.5926077097505669}}
+L["it would have to be"]={{path="chatsounds/autoadd/christian_caller/it would have to be.ogg",length=1.5926077097505669}}
 L["its the beginning"]={{path="chatsounds/autoadd/christian_caller/its the beginning.ogg",length=3.7401814058956915}}
 L["just like"]={{path="chatsounds/autoadd/christian_caller/just like.ogg",length=0.9668934240362812}}
 L["life has to start somewhere"]={{path="chatsounds/autoadd/christian_caller/life has to start somewhere.ogg",length=4.1260317460317459}}

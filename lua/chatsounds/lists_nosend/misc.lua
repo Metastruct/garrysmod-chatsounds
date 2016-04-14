@@ -2,6 +2,7 @@ c.StartList("misc")
 L["adrien brody"]={{path="chatsounds/autoadd/misc/adrien brody/adrien brody1.ogg",length=1.2364172335600907},{path="chatsounds/autoadd/misc/adrien brody/adrien brody2.ogg",length=1.4273015873015873}}
 L["ahahaahhh"]={{path="chatsounds/autoadd/misc/ahahaahhh.ogg",length=7.3138095238095238}}
 L["all"]={{path="chatsounds/autoadd/misc/all.ogg",length=0.19721088435374148}}
+L["alright it seems like someone is about to get banned"]={{path="chatsounds/autoadd/misc/alright it seems like someone is about to get banned.ogg",length=5.00390022675737}}
 L["amnesiaevent"]={{path="chatsounds/autoadd/misc/amnesiaevent.ogg",length=3.8250793650793651}}
 L["aol input"]={{path="chatsounds/autoadd/misc/aol input.ogg",length=0.82539682539682535}}
 L["aol mail"]={{path="chatsounds/autoadd/misc/aol mail.ogg",length=0.87659863945578231}}

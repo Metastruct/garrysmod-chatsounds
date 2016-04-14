@@ -140,7 +140,6 @@ L["titan warning"]={{path="chatsounds/autoadd/titanfall/titan warning.ogg",lengt
 L["titannuclearcorebuild"]={{path="chatsounds/autoadd/titanfall/titannuclearcorebuild.ogg",length=4.1248979591836736}}
 L["titannuclearcoreexplode"]={{path="chatsounds/autoadd/titanfall/titannuclearcoreexplode/titannuclearcoreexplode 1.ogg",length=8.439569160997733},{path="chatsounds/autoadd/titanfall/titannuclearcoreexplode/titannuclearcoreexplode 2.ogg",length=6.5117006802721091},{path="chatsounds/autoadd/titanfall/titannuclearcoreexplode/titannuclearcoreexplode 3.ogg",length=7.2415419501133789}}
 L["transferring control to pilot"]={{path="chatsounds/autoadd/titanfall/transferring control to pilot.ogg",length=1.9382766439909298}}
-L["warning  multiple threats attacking"]={{path="chatsounds/autoadd/titanfall/warning  multiple threats attacking.ogg",length=2.4699319727891158}}
 L["warning a hostile pilot is attached to the hull"]={{path="chatsounds/autoadd/titanfall/warning a hostile pilot is attached to the hull.ogg",length=3.0621768707482993}}
 L["warning an enemy pilot is attacking you"]={{path="chatsounds/autoadd/titanfall/warning an enemy pilot is attacking you.ogg",length=2.5738321995464855}}
 L["warning another titan is attacking you"]={{path="chatsounds/autoadd/titanfall/warning another titan is attacking you.ogg",length=2.6528798185941045}}
@@ -157,6 +156,7 @@ L["warning hostile pilot detected onboard"]={{path="chatsounds/autoadd/titanfall
 L["warning hostile titanfall detected"]={{path="chatsounds/autoadd/titanfall/warning hostile titanfall detected.ogg",length=2.4273469387755102}}
 L["warning hostile titanfall incoming"]={{path="chatsounds/autoadd/titanfall/warning hostile titanfall incoming.ogg",length=2.4793197278911565}}
 L["warning multiple enemy pilots are attacking you"]={{path="chatsounds/autoadd/titanfall/warning multiple enemy pilots are attacking you.ogg",length=3.0727891156462586}}
+L["warning multiple threats attacking"]={{path="chatsounds/autoadd/titanfall/warning multiple threats attacking.ogg",length=2.4699319727891158}}
 L["warning multiple titans engaging"]={{path="chatsounds/autoadd/titanfall/warning multiple titans engaging.ogg",length=2.5622222222222222}}
 L["warning reactor unstable"]={{path="chatsounds/autoadd/titanfall/warning reactor unstable.ogg",length=2.2094331065759638}}
 L["warning recommend regen"]={{path="chatsounds/autoadd/titanfall/warning recommend regen.ogg",length=2.1821768707482994}}

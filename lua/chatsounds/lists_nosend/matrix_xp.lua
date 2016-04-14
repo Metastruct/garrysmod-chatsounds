@@ -24,7 +24,7 @@ L["neo its cypher"]={{path="chatsounds/autoadd/matrix_xp/neo its cypher.ogg",len
 L["oh god hes multiplying"]={{path="chatsounds/autoadd/matrix_xp/oh god hes multiplying.ogg",length=1.6880725623582766}}
 L["oh hey cypher whats up"]={{path="chatsounds/autoadd/matrix_xp/oh hey cypher whats up.ogg",length=1.0128344671201814}}
 L["ouh hey what are you doing ouh oouuh"]={{path="chatsounds/autoadd/matrix_xp/ouh hey what are you doing ouh oouuh.ogg",length=3.7812698412698413}}
-L["our free trial of kung fu is expired "]={{path="chatsounds/autoadd/matrix_xp/our free trial of kung fu is expired .ogg",length=2.3042176870748299}}
+L["our free trial of kung fu is expired"]={{path="chatsounds/autoadd/matrix_xp/our free trial of kung fu is expired.ogg",length=2.3042176870748299}}
 L["progress bar is moving but the remaining time is going up"]={{path="chatsounds/autoadd/matrix_xp/progress bar is moving but the remaining time is going up.ogg",length=3.1482312925170066}}
 L["rrragh"]={{path="chatsounds/autoadd/matrix_xp/rrragh.ogg",length=1.1126984126984127}}
 L["so you are to trust noone"]={{path="chatsounds/autoadd/matrix_xp/so you are to trust noone.ogg",length=1.9665986394557824}}
