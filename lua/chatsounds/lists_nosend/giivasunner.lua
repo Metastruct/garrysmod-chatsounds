@@ -2,6 +2,7 @@ c.StartList("giivasunner")
 L["dear pesky memers"]={{path="chatsounds/autoadd/giivasunner/dear pesky memers.ogg",length=1.6961224489795919}}
 L["giivasunner"]={{path="chatsounds/autoadd/giivasunner/giivasunner.ogg",length=0.69759637188208612}}
 L["giivasunner is now a permanate guest at one of my 7 grand dads"]={{path="chatsounds/autoadd/giivasunner/giivasunner is now a permanate guest at one of my 7 grand dads.ogg",length=4.5084126984126982}}
+L["granddadtheme"]={{path="chatsounds/autoadd/giivasunner/granddadtheme.ogg",length=180.37551020408162}}
 L["high quality rips are making a comeback"]={{path="chatsounds/autoadd/giivasunner/high quality rips are making a comeback.ogg",length=2.9043537414965988}}
 L["high quality video game rips"]={{path="chatsounds/autoadd/giivasunner/high quality video game rips.ogg",length=1.4717913832199547}}
 L["i dare you to find him if you can"]={{path="chatsounds/autoadd/giivasunner/i dare you to find him if you can.ogg",length=1.6277324263038548}}
