@@ -66,7 +66,7 @@ L["goodjob"]={{path="chatsounds/autoadd/vinesauce/goodjob.ogg",length=1.03192743
 L["grand dad"]={{path="chatsounds/autoadd/vinesauce/grand dad/1.ogg",length=1.3363038548752835},{path="chatsounds/autoadd/vinesauce/grand dad/2.ogg",length=1.3052154195011338},{path="chatsounds/autoadd/vinesauce/grand dad/3.ogg",length=0.82353741496598643},{path="chatsounds/autoadd/vinesauce/grand dad/4.ogg",length=0.9012244897959184},{path="chatsounds/autoadd/vinesauce/grand dad/5.ogg",length=1.0255328798185941},{path="chatsounds/autoadd/vinesauce/grand dad/6.ogg",length=1.2119954648526077}}
 L["gtfo of my way"]={{path="chatsounds/autoadd/vinesauce/gtfo of my way.ogg",length=1.2365532879818595}}
 L["gtfo of my way i am law enforcement officer i will f you with my f ing stick"]={{path="chatsounds/autoadd/vinesauce/gtfo of my way i am law enforcement officer i will f you with my f ing stick.ogg",length=4.723786848072562}}
-L["gushing grannies"]={{path="chatsounds/autoadd/vinesauce/gushing grannies.ogg",length=585.24734693877554}}
+L["gushing grannies"]={{path="chatsounds/autoadd/vinesauce/gushing grannies.ogg",length=2.4680498866213152}}
 L["happy easter everybody"]={{path="chatsounds/autoadd/vinesauce/happy easter everybody.ogg",length=1.3931292517006804}}
 L["he forgive you and then he slowly begin to unzip his pants"]={{path="chatsounds/autoadd/vinesauce/he forgive you and then he slowly begin to unzip his pants.ogg",length=13.509138321995465}}
 L["he slowly begin to take off your robe"]={{path="chatsounds/autoadd/vinesauce/he slowly begin to take off your robe.ogg",length=2.4930385487528346}}
@@ -274,7 +274,7 @@ L["you see child"]={{path="chatsounds/autoadd/vinesauce/you see child.ogg",lengt
 L["you slowly begin to peek at my lizard"]={{path="chatsounds/autoadd/vinesauce/you slowly begin to peek at my lizard.ogg",length=2.7596371882086168}}
 L["you slowly take off your shirt"]={{path="chatsounds/autoadd/vinesauce/you slowly take off your shirt.ogg",length=1.6101814058956916}}
 L["you take off your shirt very slowly"]={{path="chatsounds/autoadd/vinesauce/you take off your shirt very slowly.ogg",length=2.8289342403628117}}
-L["you wanna fuck the bee"]={{path="chatsounds/autoadd/vinesauce/you wanna fuck the bee.ogg",length=1.1074603174603175}}
+L["you wanna fuck the bee"]={{path="chatsounds/autoadd/vinesauce/you wanna fuck the bee.ogg",length=1.8985034013605442}}
 L["you want the bee"]={{path="chatsounds/autoadd/vinesauce/you want the bee.ogg",length=1.1074603174603175}}
 L["your nipples rock hard can break through concrete"]={{path="chatsounds/autoadd/vinesauce/your nipples rock hard can break through concrete.ogg",length=3.7683219954648526}}
 L["your rock solid abs feel good against his coarse beard"]={{path="chatsounds/autoadd/vinesauce/your rock solid abs feel good against his coarse beard.ogg",length=3.6469614512471655}}
