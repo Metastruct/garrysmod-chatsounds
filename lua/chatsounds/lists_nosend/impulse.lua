@@ -14,7 +14,7 @@ L["its the future what are you gonna do about it"]={{path="chatsounds/autoadd/im
 L["kid noises"]={{path="chatsounds/autoadd/impulse/kid noises.ogg",length=10.597346938775511}}
 L["kid scream"]={{path="chatsounds/autoadd/impulse/kid scream.ogg",length=1.1798639455782314}}
 L["mom i want a sandwich"]={{path="chatsounds/autoadd/impulse/mom i want a sandwich.ogg",length=2.0736961451247167}}
-L["my human instinct is telling me to just ruin it and like burn it down and just destroy all the natural life here and just fuck up the ecosystem"]={{path="chatsounds/autoadd/impulse/my human instinct is telling me to just ruin it and like burn it down and just destroy all the natural life here and just fuck up the ecosystem.ogg",length=10.206961451247166}}
+L["my human instinct is telling me to just ruin it and like burn it down"]={{path="chatsounds/autoadd/impulse/my human instinct is telling me to just ruin it and like burn it down.ogg",length=10.206961451247166}}
 L["offlimits"]={{path="chatsounds/autoadd/impulse/offlimits.ogg",length=113.17460317460318}}
 L["oww my spine"]={{path="chatsounds/autoadd/impulse/oww my spine.ogg",length=1.9487074829931972}}
 L["sounds like im in the amazon rainforest"]={{path="chatsounds/autoadd/impulse/sounds like im in the amazon rainforest.ogg",length=2.5797732426303854}}
