@@ -1487,14 +1487,15 @@ local function Initialize(force)
 	local startsyst
 	local start=0
 	local Tag="chatsounds"
-		
+	local finishing, finish = false, 0
+	
 	local function PostRenderVGUI()
 		cam.Start2D()
 		surface.SetFont"closecaption_normal"
 		surface.SetTextColor(180,255,255,255)
 		
 		--surface.DrawText"hi"
-		local txt="Chatsounds loading..."
+		local txt="Loading Chatsounds"
 
 		startsyst=startsyst or SysTime()
 
@@ -1504,15 +1505,23 @@ local function Initialize(force)
 		local sw=ScrW()
 		local sh=ScrH()
 		local mat=Matrix()
-		mat:Translate( Vector( sw-w,math.floor(sh*0.3-h*0.5) , 0) )
-		
-		cam.PushModelMatrix(mat)
 		
 		local ft = FrameTime()
 		ft=ft==0 and 1/10 or ft>0.5 and 0.4 or ft
 		start=start+ft
 		local f=start
 		f=f>1 and 1 or f<=0 and 0 or f
+		
+		if not finishing then
+			mat:Translate( Vector( sw-w,math.floor(sh*0.3-h*0.5)*math.sqrt(math.sin(f*math.pi/2)), 0) )
+		else
+			finish=finish+ft
+			f=1-finish
+			f=f>1 and 1 or f<=0 and 0 or f
+			mat:Translate( Vector( sw-w,math.floor(sh*0.3-h*0.5)+math.floor(sh*0.3-h*0.5)*math.sqrt(math.sin(math.pi/2+f*math.pi/2)), 0) )
+		end
+		
+		cam.PushModelMatrix(mat)
 		
 		surface.SetTextColor(180,200,255,f*255)
 		surface.SetDrawColor(20,20,25,f*200)
@@ -1521,8 +1530,13 @@ local function Initialize(force)
 		local tw,th=surface.GetTextSize(txt..'     ')
 		local tx,ty=w*0.5-tw*0.5,h*0.5-th
 		surface.SetTextPos(tx,ty)
-		surface.DrawText(txt)
-		surface.DrawText(('.'):rep((start*2)%4))
+		
+		if not finishing then
+			surface.DrawText(txt)
+			surface.DrawText(('.'):rep(((start-1)*2)%4))
+		else
+			surface.DrawText("Loaded Chatsounds!")
+		end
 		
 		surface.SetTextColor(220,222,220,f*255)
 		
@@ -1542,7 +1556,8 @@ local function Initialize(force)
 		cam.PopModelMatrix()
 		cam.End2D()
 		
-		if not c.initializing then hook.Remove("DrawOverlay",Tag) return end
+		if not c.initializing and not finishing then finishing = true finish = 0 end
+		if finishing and f == 0 then hook.Remove("DrawOverlay",Tag) return end
 		
 	end
 
