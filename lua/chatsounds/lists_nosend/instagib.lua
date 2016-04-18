@@ -918,7 +918,6 @@ L["ooorgle"]={{path="chatsounds/autoadd/instagib/ooorgle.ogg",length=2.530566893
 L["oops"]={{path="chatsounds/autoadd/instagib/oops.ogg",length=1.0261224489795919}}
 L["oops1"]={{path="chatsounds/autoadd/instagib/oops1.ogg",length=18.658594104308388}}
 L["oow"]={{path="chatsounds/autoadd/instagib/oow.ogg",length=0.57528344671201814}}
-L["op"]={{path="chatsounds/autoadd/instagib/op.ogg",length=0.8008163265306123}}
 L["orga"]={{path="chatsounds/autoadd/instagib/orga.ogg",length=6.7221768707482994}}
 L["osama"]={{path="chatsounds/autoadd/instagib/osama.ogg",length=7.749977324263039}}
 L["otto"]={{path="chatsounds/autoadd/instagib/otto.ogg",length=7.9354195011337865}}
