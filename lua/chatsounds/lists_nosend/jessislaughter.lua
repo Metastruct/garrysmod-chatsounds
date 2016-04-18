@@ -17,7 +17,7 @@ L["you dun goofed"]={{path="chatsounds/autoadd/jessislaughter/you dun goofed.ogg
 L["you guys are bitches"]={{path="chatsounds/autoadd/jessislaughter/you guys are bitches.ogg",length=1.3582766439909297}}
 L["you just jealous because im perfrect and youre not"]={{path="chatsounds/autoadd/jessislaughter/you just jealous because im perfrect and youre not.ogg",length=3.4480725623582766}}
 L["youll be arrested"]={{path="chatsounds/autoadd/jessislaughter/youll be arrested.ogg",length=1.6978684807256237}}
-L["youre jealous of me because one im more pretty than you i have more friends more people like me i have more fans"]={{path="chatsounds/autoadd/jessislaughter/youre jealous of me because one im more pretty than you i have more friends more people like me i have more fans.ogg",length=8.4897052154195016}}
+L["youre jealous of me because one im more pretty than you i have more friends"]={{path="chatsounds/autoadd/jessislaughter/youre jealous of me because one im more pretty than you i have more friends.ogg",length=8.4897052154195016}}
 L["youre just like jealous of me"]={{path="chatsounds/autoadd/jessislaughter/youre just like jealous of me.ogg",length=2.2203174603174602}}
 L["youve been reported to the cyber police"]={{path="chatsounds/autoadd/jessislaughter/youve been reported to the cyber police.ogg",length=2.5860317460317459}}
 c.EndList()

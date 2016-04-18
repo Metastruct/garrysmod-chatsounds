@@ -1,10 +1,10 @@
 c.StartList("fulllifeconsequences")
-L["a cop car was hidden nearby so when john freeman went by the cops came and wanted to give him a ticket"]={{path="chatsounds/autoadd/fulllifeconsequences/a cop car was hidden nearby so when john freeman went by the cops came and wanted to give him a ticket.ogg",length=6.1162131519274379}}
+L["a cop car was hidden nearby so when john freeman went by the cops came"]={{path="chatsounds/autoadd/fulllifeconsequences/a cop car was hidden nearby so when john freeman went by the cops came.ogg",length=6.1162131519274379}}
 L["and axed him for help"]={{path="chatsounds/autoadd/fulllifeconsequences/and axed him for help.ogg",length=1.6343764172335602}}
 L["and gordon freeman said"]={{path="chatsounds/autoadd/fulllifeconsequences/and gordon freeman said.ogg",length=1.5164172335600907}}
 L["and gordon said"]={{path="chatsounds/autoadd/fulllifeconsequences/and gordon said.ogg",length=0.98566893424036284}}
 L["and he was mad and angry"]={{path="chatsounds/autoadd/fulllifeconsequences/and he was mad and angry.ogg",length=2.5526530612244898}}
-L["and john freeman felt sorry for them because they couldnt live there anymore because they were zombie goasts"]={{path="chatsounds/autoadd/fulllifeconsequences/and john freeman felt sorry for them because they couldnt live there anymore because they were zombie goasts.ogg",length=5.8382312925170066}}
+L["and john freeman felt sorry for them because they couldnt live there anymore"]={{path="chatsounds/autoadd/fulllifeconsequences/and john freeman felt sorry for them because they couldnt live there anymore.ogg",length=5.8382312925170066}}
 L["and john walked real fast out"]={{path="chatsounds/autoadd/fulllifeconsequences/and john walked real fast out.ogg",length=2.9822902494331065}}
 L["and killed the zombie goasts"]={{path="chatsounds/autoadd/fulllifeconsequences/and killed the zombie goasts.ogg",length=1.5417006802721089}}
 L["and pointed up to the top of the sky"]={{path="chatsounds/autoadd/fulllifeconsequences/and pointed up to the top of the sky.ogg",length=2.3504535147392289}}
@@ -48,7 +48,7 @@ L["its time to end this ones and for all"]={{path="chatsounds/autoadd/fulllifeco
 L["john freeman fired his bullets from"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman fired his bullets from.ogg",length=2.1735147392290251}}
 L["john freeman got his computer shut down"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman got his computer shut down.ogg",length=2.2746485260770974}}
 L["john freeman got on his motorcycle and said"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman got on his motorcycle and said.ogg",length=3.2855555555555553}}
-L["john freeman had to go faster like the speed of sound and got there fast because gordon needed him where he was"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman had to go faster like the speed of sound and got there fast because gordon needed him where he was.ogg",length=5.9982766439909296}}
+L["john freeman had to go faster like the speed of sound and got there fast"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman had to go faster like the speed of sound and got there fast.ogg",length=5.9982766439909296}}
 L["john freeman looked around the countrysides and said"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman looked around the countrysides and said.ogg",length=3.0328344671201815}}
 L["john freeman looked at road signs and saw"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman looked at road signs and saw.ogg",length=2.2409297052154193}}
 L["john freeman over here"]={{path="chatsounds/autoadd/fulllifeconsequences/john freeman over here.ogg",length=2.2072335600907032}}
@@ -85,7 +85,7 @@ L["the countrysides were nice"]={{path="chatsounds/autoadd/fulllifeconsequences/
 L["the gun"]={{path="chatsounds/autoadd/fulllifeconsequences/the gun.ogg",length=0.60655328798185937}}
 L["the laughed overed quicky though"]={{path="chatsounds/autoadd/fulllifeconsequences/the laughed overed quicky though.ogg",length=2.2661904761904763}}
 L["the mood was set for john freemans quest to help his brother where he was"]={{path="chatsounds/autoadd/fulllifeconsequences/the mood was set for john freemans quest to help his brother where he was.ogg",length=4.9873242630385484}}
-L["then john freeman heard another scream from his brother so he kept walking faster to get where he was"]={{path="chatsounds/autoadd/fulllifeconsequences/then john freeman heard another scream from his brother so he kept walking faster to get where he was.ogg",length=6.537437641723356}}
+L["then john freeman heard another scream from his brother so he kept walking faster"]={{path="chatsounds/autoadd/fulllifeconsequences/then john freeman heard another scream from his brother so he kept walking faster.ogg",length=6.537437641723356}}
 L["to be continued"]={{path="chatsounds/autoadd/fulllifeconsequences/to be continued.ogg",length=1.5838095238095238}}
 L["to go up to the roof of the building"]={{path="chatsounds/autoadd/fulllifeconsequences/to go up to the roof of the building.ogg",length=1.819705215419501}}
 L["typing on a computer"]={{path="chatsounds/autoadd/fulllifeconsequences/typing on a computer.ogg",length=1.752312925170068}}

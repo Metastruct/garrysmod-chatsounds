@@ -44,5 +44,5 @@ L["twelve"]={{path="chatsounds/autoadd/dk64/twelve.ogg",length=1.616303854875283
 L["two"]={{path="chatsounds/autoadd/dk64/two.ogg",length=0.99907029478458054}}
 L["welcome to bonus stage"]={{path="chatsounds/autoadd/dk64/welcome to bonus stage.ogg",length=1.8036054421768708}}
 L["well done"]={{path="chatsounds/autoadd/dk64/well done.ogg",length=1.9120861678004535}}
-L["while you be busy looking for youre precious golden bananas and youre friends ill be preparing my lizard flavor surprise"]={{path="chatsounds/autoadd/dk64/while you be busy looking for youre precious golden bananas and youre friends ill be preparing my lizard flavor surprise.ogg",length=10.941746031746032}}
+L["while you be busy looking for youre precious golden bananas and youre friends ill be preparing"]={{path="chatsounds/autoadd/dk64/while you be busy looking for youre precious golden bananas and youre friends ill be preparing.ogg",length=10.941746031746032}}
 c.EndList()

@@ -8,7 +8,7 @@ L["i know what your thinking what about the rinse cycle"]={{path="chatsounds/aut
 L["ill put them both in the rinse cycle"]={{path="chatsounds/autoadd/billy_mays/ill put them both in the rinse cycle.ogg",length=2.0738321995464855}}
 L["it stays in your washer while it cleans over 25 loads"]={{path="chatsounds/autoadd/billy_mays/it stays in your washer while it cleans over 25 loads.ogg",length=4.1214512471655329}}
 L["its new oxyclean detergent"]={{path="chatsounds/autoadd/billy_mays/its new oxyclean detergent.ogg",length=1.8900680272108843}}
-L["its patented formula delivers oxygen and detergent throughout your washcycle lightening and brightening your clothes"]={{path="chatsounds/autoadd/billy_mays/its patented formula delivers oxygen and detergent throughout your washcycle lightening and brightening your clothes.ogg",length=7.639092970521542}}
+L["its patented formula delivers oxygen and detergent throughout your washcycle"]={{path="chatsounds/autoadd/billy_mays/its patented formula delivers oxygen and detergent throughout your washcycle.ogg",length=7.639092970521542}}
 L["its so easy even your kids can do laundry"]={{path="chatsounds/autoadd/billy_mays/its so easy even your kids can do laundry.ogg",length=3.4126077097505667}}
 L["just toss and go"]={{path="chatsounds/autoadd/billy_mays/just toss and go.ogg",length=1.6898866213151928}}
 L["laundry just got easy"]={{path="chatsounds/autoadd/billy_mays/laundry just got easy.ogg",length=2.1788662131519274}}

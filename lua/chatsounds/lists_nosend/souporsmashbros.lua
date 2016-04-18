@@ -82,6 +82,6 @@ L["yahhh"]={{path="chatsounds/autoadd/souporsmashbros/yahhh.ogg",length=0.760816
 L["you can also help them grow by feeding them pfchangs"]={{path="chatsounds/autoadd/souporsmashbros/you can also help them grow by feeding them pfchangs.ogg",length=4.3509070294784582}}
 L["you can also play during battles"]={{path="chatsounds/autoadd/souporsmashbros/you can also play during battles.ogg",length=2.2229931972789116}}
 L["you wont have to worry about going to a friends house"]={{path="chatsounds/autoadd/souporsmashbros/you wont have to worry about going to a friends house.ogg",length=2.9600226757369614}}
-L["youll notice that the moveset of each fighter is the same"]={{path="chatsounds/autoadd/souporsmashbros/youll notice that the moveset of each fighter is the same/youll notice that the moveset of each fighter is the same-2.ogg",length=2.294331065759637},{path="chatsounds/autoadd/souporsmashbros/youll notice that the moveset of each fighter is the same/youll notice that the moveset of each fighter is the same.ogg",length=2.4964172335600905}}
+L["youll notice that the moveset of each fighter is the same"]={{path="chatsounds/autoadd/souporsmashbros/youll notice that the moveset of each fighter is the same/1.ogg",length=2.4964172335600905},{path="chatsounds/autoadd/souporsmashbros/youll notice that the moveset of each fighter is the same/2.ogg",length=2.294331065759637}}
 L["yyyyyyuuuupppp"]={{path="chatsounds/autoadd/souporsmashbros/yyyyyyuuuupppp.ogg",length=0.99857142857142855}}
 c.EndList()

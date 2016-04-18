@@ -191,7 +191,7 @@ L["python so you were alive all this time what happened to your body"]={{path="c
 L["python youre alive"]={{path="chatsounds/autoadd/verbalsilence/python youre alive.ogg",length=2.2947845804988662}}
 L["retard alert"]={{path="chatsounds/autoadd/verbalsilence/retard alert.ogg",length=4.3167120181405894}}
 L["rogen laugh"]={{path="chatsounds/autoadd/verbalsilence/rogen laugh.ogg",length=4.0590022675736961}}
-L["rubbing sticks and stones together making sparks ignite and the thought of loving you is getting so exciting"]={{path="chatsounds/autoadd/verbalsilence/rubbing sticks and stones together making sparks ignite and the thought of loving you is getting so exciting.ogg",length=6.1165759637188213}}
+L["rubbing sticks and stones together making sparks ignite and the thought of loving you"]={{path="chatsounds/autoadd/verbalsilence/rubbing sticks and stones together making sparks ignite and the thought of loving you.ogg",length=6.1165759637188213}}
 L["russian"]={{path="chatsounds/autoadd/verbalsilence/russian.ogg",length=0.70798185941043079}}
 L["sad trombone"]={{path="chatsounds/autoadd/verbalsilence/sad trombone.ogg",length=3.3278004535147394}}
 L["same python as ever"]={{path="chatsounds/autoadd/verbalsilence/same python as ever.ogg",length=1.5120181405895692}}

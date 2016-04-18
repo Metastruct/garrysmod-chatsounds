@@ -366,7 +366,7 @@ L["steals the idea of invading the capital"]={{path="chatsounds/autoadd/bill_wur
 L["stones"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/stones.ogg",length=0.56859410430838997}}
 L["stop"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/stop.ogg",length=0.36526077097505671}}
 L["stop having it be closed"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/stop having it be closed.ogg",length=1.7647845804988662}}
-L["stop no you cant take that we were gonna build a railroad through here to try to get some warm water"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/stop no you cant take that we were gonna build a railroad through here to try to get some warm water.ogg",length=4.3721995464852608}}
+L["stop no you cant take that we were gonna build a railroad through here"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/stop no you cant take that we were gonna build a railroad through here.ogg",length=4.3721995464852608}}
 L["strict"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/strict.ogg",length=0.42585034013605444}}
 L["stuff"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/stuff.ogg",length=0.6756009070294785}}
 L["such a pan"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/said japan/said japan 1.ogg",length=0.49582766439909298},{path="chatsounds/autoadd/bill_wurtz_history_of_japan/said japan/said japan 2.ogg",length=0.45947845804988663}}
@@ -378,7 +378,7 @@ L["survive"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/survive.ogg"
 L["taking it from its previous owner"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/taking it from its previous owner.ogg",length=1.2625850340136053}}
 L["tea parties"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/tea parties.ogg",length=0.47122448979591836}}
 L["technology"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/technology.ogg",length=0.44365079365079363}}
-L["that means if you own the farm you own a lot of food which is something everybody needs to survive"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/that means if you own the farm you own a lot of food which is something everybody needs to survive.ogg",length=5.2136054421768705}}
+L["that means if you own the farm you own a lot of food"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/that means if you own the farm you own a lot of food.ogg",length=5.2136054421768705}}
 L["that sucks they said"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/that sucks they said.ogg",length=1.0256689342403629}}
 L["that was pretty western"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/that was pretty western.ogg",length=1.102063492063492}}
 L["thats fine"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/thats fine.ogg",length=0.33920634920634923}}
@@ -401,7 +401,7 @@ L["the united states is also working on a large very huge bomb"]={{path="chatsou
 L["the world is about to have a war"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/the world is about to have a war.ogg",length=1.6370068027210884}}
 L["their friends and our friends are not friends"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/their friends and our friends are not friends.ogg",length=2.459297052154195}}
 L["then it got warmer"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/then it got warmer.ogg",length=0.61861678004535148}}
-L["then it got warmer some icebergs melted it became an island and now theres lots of trees because its warmer"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/then it got warmer some icebergs melted it became an island and now theres lots of trees because its warmer.ogg",length=4.4017913832199547}}
+L["then it got warmer some icebergs melted it became an island"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/then it got warmer some icebergs melted it became an island.ogg",length=4.4017913832199547}}
 L["then the emperor overthrows the shogunate"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/then the emperor overthrows the shogunate.ogg",length=1.523265306122449}}
 L["then the government was taken over by another clique"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/then the government was taken over by another clique.ogg",length=2.0259410430839004}}
 L["then the neighbours neighbours neighbours who happen to britain said"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/then the neighbours neighbours neighbours who happen to britain said.ogg",length=2.1397278911564626}}

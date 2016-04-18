@@ -189,7 +189,7 @@ L["this place is none too forgiving for outsiders"]={{path="chatsounds/autoadd/b
 L["this world is capable of corrupting anything or anyone maybe if we all had kites to fly wed be nicer"]={{path="chatsounds/autoadd/borderlands/this world is capable of corrupting anything or anyone maybe if we all had kites to fly wed be nicer.ogg",length=6.1881179138321993}}
 L["thisll keep ya goin"]={{path="chatsounds/autoadd/borderlands/thisll keep ya goin.ogg",length=1.4512471655328798}}
 L["toughen up if you want to survive"]={{path="chatsounds/autoadd/borderlands/toughen up if you want to survive.ogg",length=1.6834467120181407}}
-L["transmission received thank you for using our state of the art interstellar science magician to send your message"]={{path="chatsounds/autoadd/borderlands/transmission received thank you for using our state of the art interstellar science magician to send your message.ogg",length=8.0176190476190481}}
+L["transmission received thank you for using our state of the art interstellar science magician"]={{path="chatsounds/autoadd/borderlands/transmission received thank you for using our state of the art interstellar science magician.ogg",length=8.0176190476190481}}
 L["twats"]={{path="chatsounds/autoadd/borderlands/twats.ogg",length=0.60897959183673467}}
 L["uhh huh"]={{path="chatsounds/autoadd/borderlands/uhh huh.ogg",length=0.6385487528344671}}
 L["victory laugh"]={{path="chatsounds/autoadd/borderlands/victory laugh/1.ogg",length=3.9822222222222221},{path="chatsounds/autoadd/borderlands/victory laugh/2.ogg",length=3.7964625850340137},{path="chatsounds/autoadd/borderlands/victory laugh/3.ogg",length=6.4435374149659861}}

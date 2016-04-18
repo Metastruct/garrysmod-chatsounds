@@ -102,7 +102,7 @@ L["look at the stupid piece of shit ahaha you fucking freak"]={{path="chatsounds
 L["looks like the hardest thing about this case is my cock"]={{path="chatsounds/autoadd/filthyfrank/looks like the hardest thing about this case is my cock.ogg",length=4.2724716553287978}}
 L["moans of pleasure"]={{path="chatsounds/autoadd/filthyfrank/moans of pleasure.ogg",length=2.5425850340136056}}
 L["moshi moshi motherfucker"]={{path="chatsounds/autoadd/filthyfrank/moshi moshi motherfucker.ogg",length=1.799546485260771}}
-L["my favorite animes consist of toy story cory in the house airplane instruction videos from the 80s you know seinfeld"]={{path="chatsounds/autoadd/filthyfrank/my favorite animes consist of toy story cory in the house airplane instruction videos from the 80s you know seinfeld.ogg",length=8.8317006802721085}}
+L["my favorite animes consist of toy story cory in the house airplane instruction videos"]={{path="chatsounds/autoadd/filthyfrank/my favorite animes consist of toy story cory in the house airplane instruction videos.ogg",length=8.8317006802721085}}
 L["my lord"]={{path="chatsounds/autoadd/filthyfrank/my lord.ogg",length=0.69659863945578226}}
 L["my lord uughg"]={{path="chatsounds/autoadd/filthyfrank/my lord uughg.ogg",length=1.4454421768707484}}
 L["nnnggg"]={{path="chatsounds/autoadd/filthyfrank/nnnggg.ogg",length=1.496235827664399}}

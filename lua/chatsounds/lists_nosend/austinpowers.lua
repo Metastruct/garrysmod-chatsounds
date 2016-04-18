@@ -32,7 +32,7 @@ L["ladies and gentlemen the jury exzippit a"]={{path="chatsounds/autoadd/austinp
 L["let me tell you a little story about a man named shh"]={{path="chatsounds/autoadd/austinpowers/let me tell you a little story about a man named shh.ogg",length=2.0861451247165532}}
 L["meat helmets"]={{path="chatsounds/autoadd/austinpowers/meat helmets.ogg",length=1.0448979591836736}}
 L["my childhood was typical"]={{path="chatsounds/autoadd/austinpowers/my childhood was typical.ogg",length=2.2599999999999998}}
-L["my father was a relentlessly self improving blongerie owner with low grade narcolepsy and a penchant for buggery"]={{path="chatsounds/autoadd/austinpowers/my father was a relentlessly self improving blongerie owner with low grade narcolepsy and a penchant for buggery.ogg",length=7.7013378684807252}}
+L["my father was a relentlessly self improving blongerie owner with low grade narcolepsy"]={{path="chatsounds/autoadd/austinpowers/my father was a relentlessly self improving blongerie owner with low grade narcolepsy.ogg",length=7.7013378684807252}}
 L["my father would womanize he would drink"]={{path="chatsounds/autoadd/austinpowers/my father would womanize he would drink.ogg",length=2.920612244897959}}
 L["my mother was a 15 year old french prostitute named chloe with webbed feet"]={{path="chatsounds/autoadd/austinpowers/my mother was a 15 year old french prostitute named chloe with webbed feet.ogg",length=5.0241269841269842}}
 L["no not really i cant back that up"]={{path="chatsounds/autoadd/austinpowers/no not really i cant back that up.ogg",length=3.5294331065759637}}
@@ -55,7 +55,7 @@ L["there really is nothing like a shorn scrotum its breathtaking i suggest you t
 L["this time its personal"]={{path="chatsounds/autoadd/austinpowers/this time its personal.ogg",length=2.0433560090702949}}
 L["this time its personal kill him"]={{path="chatsounds/autoadd/austinpowers/this time its personal kill him.ogg",length=5.875963718820862}}
 L["very well where do i begin"]={{path="chatsounds/autoadd/austinpowers/very well where do i begin.ogg",length=2.4859863945578233}}
-L["well actually that was just footage from the movie independence day but the real laser would be alot like that"]={{path="chatsounds/autoadd/austinpowers/well actually that was just footage from the movie independence day but the real laser would be alot like that.ogg",length=5.771655328798186}}
+L["well actually that was just footage from the movie independence day but the real laser"]={{path="chatsounds/autoadd/austinpowers/well actually that was just footage from the movie independence day but the real laser.ogg",length=5.771655328798186}}
 L["well done mr powers"]={{path="chatsounds/autoadd/austinpowers/well done mr powers.ogg",length=2.6586848072562357}}
 L["well its true"]={{path="chatsounds/autoadd/austinpowers/well its true.ogg",length=3.5985941043083902}}
 L["were not so different you and i"]={{path="chatsounds/autoadd/austinpowers/were not so different you and i.ogg",length=2.8212244897959184}}

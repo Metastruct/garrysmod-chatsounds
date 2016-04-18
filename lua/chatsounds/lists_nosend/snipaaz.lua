@@ -11,7 +11,7 @@ L["hello"]={{path="chatsounds/autoadd/snipaaz/hello.ogg",length=0.59210884353741
 L["hello i can see you in there"]={{path="chatsounds/autoadd/snipaaz/hello i can see you in there.ogg",length=2.0433560090702949}}
 L["hillo"]={{path="chatsounds/autoadd/snipaaz/hillo.ogg",length=3.0882539682539685}}
 L["hrnng"]={{path="chatsounds/autoadd/snipaaz/hrnng.ogg",length=0.95945578231292517}}
-L["if youre one of those people that confuses your and youre or their and theyre i dont think were going to get along"]={{path="chatsounds/autoadd/snipaaz/if youre one of those people that confuses your and youre or their and theyre i dont think were going to get along.ogg",length=6.3744671201814063}}
+L["if youre one of those people that confuses your and youre or their and theyre i dont think"]={{path="chatsounds/autoadd/snipaaz/if youre one of those people that confuses your and youre or their and theyre i dont think.ogg",length=6.3744671201814063}}
 L["just a second"]={{path="chatsounds/autoadd/snipaaz/just a second.ogg",length=1.0777324263038548}}
 L["marijuana"]={{path="chatsounds/autoadd/snipaaz/marijuana.ogg",length=43.898480725623585}}
 L["my car"]={{path="chatsounds/autoadd/snipaaz/my car.ogg",length=4.350408163265306}}
