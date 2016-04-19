@@ -32,6 +32,7 @@ L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",len
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.4549433106575962}}
 L["broom broom"]={{path="chatsounds/autoadd/verbalsilence/broom broom.ogg",length=1.3374829931972789}}
 L["but python why"]={{path="chatsounds/autoadd/verbalsilence/but python why.ogg",length=1.4317233560090703}}
+L["can you smell what the rock is cooking"]={{path="chatsounds/autoadd/verbalsilence/can you smell what the rock is cooking.ogg",length=16.014807256235827}}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708}}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022}}
 L["click noice"]={{path="chatsounds/autoadd/verbalsilence/click noice.ogg",length=1.5234013605442176}}
@@ -49,6 +50,8 @@ L["dickgina"]={{path="chatsounds/autoadd/verbalsilence/dickgina.ogg",length=1.79
 L["ding dong bannu"]={{path="chatsounds/autoadd/verbalsilence/ding dong bannu.ogg",length=0.92897959183673473}}
 L["do i look like i know what a jpeg is i just want a picture of a god dang hot dog"]={{path="chatsounds/autoadd/verbalsilence/do i look like i know what a jpeg is i just want a picture of a god dang hot dog.ogg",length=6.0081632653061225}}
 L["do you believe in a flying spaghetti monster too bubblehead"]={{path="chatsounds/autoadd/verbalsilence/do you believe in a flying spaghetti monster too bubblehead.ogg",length=3.1112698412698414}}
+L["doesnt anyone notice this"]={{path="chatsounds/autoadd/verbalsilence/doesnt anyone notice this.ogg",length=1.5667573696145125}}
+L["doesnt anyone notice this i feel like im taking crazy pills"]={{path="chatsounds/autoadd/verbalsilence/doesnt anyone notice this i feel like im taking crazy pills.ogg",length=3.9959637188208617}}
 L["dont drop that durka durk"]={{path="chatsounds/autoadd/verbalsilence/dont drop that durka durk.ogg",length=4.5857823129251702}}
 L["dont have sex because you will get pregnant and die"]={{path="chatsounds/autoadd/verbalsilence/dont have sex because you will get pregnant and die.ogg",length=9.910068027210885}}
 L["doot doot"]={{path="chatsounds/autoadd/verbalsilence/doot doot.ogg",length=0.61027210884353744}}
@@ -63,18 +66,6 @@ L["f her right in the pussy"]={{path="chatsounds/autoadd/verbalsilence/f her rig
 L["f u"]={{path="chatsounds/autoadd/verbalsilence/f u/f u 2.ogg",length=1.6274149659863946},{path="chatsounds/autoadd/verbalsilence/f u/f u 3.ogg",length=0.79623582766439904},{path="chatsounds/autoadd/verbalsilence/f u/f u.ogg",length=0.5331065759637188}}
 L["facking booshit"]={{path="chatsounds/autoadd/verbalsilence/facking booshit.ogg",length=2.068548752834467}}
 L["fax mentis incendium gloria culpum et cetera et cetera"]={{path="chatsounds/autoadd/verbalsilence/fax mentis incendium gloria culpum et cetera et cetera.ogg",length=3.9151247165532879}}
-L["ff 1 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 1 fanfare.ogg",length=19.690408163265307}}
-L["ff 10 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 10 fanfare.ogg",length=38.809183673469384}}
-L["ff 12 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 12 fanfare.ogg",length=21.3418820861678}}
-L["ff 13 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 13 fanfare.ogg",length=6.0341496598639459}}
-L["ff 2 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 2 fanfare.ogg",length=20.516145124716552}}
-L["ff 3 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 3 fanfare.ogg",length=19.817460317460316}}
-L["ff 4 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 4 fanfare.ogg",length=20.611405895691611}}
-L["ff 5 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 5 fanfare.ogg",length=20.35734693877551}}
-L["ff 6 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 6 fanfare.ogg",length=20.611405895691611}}
-L["ff 7 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 7 fanfare.ogg",length=25.343469387755103}}
-L["ff 8 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 8 fanfare.ogg",length=30.710680272108842}}
-L["ff 9 fanfare"]={{path="chatsounds/autoadd/verbalsilence/ff 9 fanfare.ogg",length=23.660272108843536}}
 L["first of all what the shit"]={{path="chatsounds/autoadd/verbalsilence/first of all what the shit.ogg",length=1.4309297052154195}}
 L["fix it fix it fix it"]={{path="chatsounds/autoadd/verbalsilence/fix it fix it fix it.ogg",length=3.7801587301587301}}
 L["fizzbitch"]={{path="chatsounds/autoadd/verbalsilence/fizzbitch.ogg",length=1.0379818594104309}}
@@ -83,7 +74,6 @@ L["fuck this"]={{path="chatsounds/autoadd/verbalsilence/fuck this.ogg",length=1.
 L["fucking bullshit"]={{path="chatsounds/autoadd/verbalsilence/fucking bullshit.ogg",length=2.068548752834467}}
 L["galaxy map loop"]={{path="chatsounds/autoadd/verbalsilence/galaxy map loop.ogg",length=55.982312925170071}}
 L["geddan song"]={{path="chatsounds/autoadd/verbalsilence/geddan song.ogg",length=38.664036281179136}}
-L["get lucky song"]={{path="chatsounds/autoadd/verbalsilence/get lucky song.ogg",length=41.544807256235828}}
 L["get out me car"]={{path="chatsounds/autoadd/verbalsilence/get out me car.ogg",length=1.2537414965986395}}
 L["get swole"]={{path="chatsounds/autoadd/verbalsilence/get swole.ogg",length=1.0891836734693878}}
 L["gigigiggle"]={{path="chatsounds/autoadd/verbalsilence/gigigiggle/gigigiggle 2.ogg",length=0.5329251700680272},{path="chatsounds/autoadd/verbalsilence/gigigiggle/gigigiggle.ogg",length=0.39970521541950116}}
@@ -112,7 +102,9 @@ L["i am extraordinarily busy sir"]={{path="chatsounds/autoadd/verbalsilence/i am
 L["i cant help it if i have a heavy flow and a wide set vagina"]={{path="chatsounds/autoadd/verbalsilence/i cant help it if i have a heavy flow and a wide set vagina.ogg",length=3.4469841269841268}}
 L["i dont know how to put this but im kind of a big deal"]={{path="chatsounds/autoadd/verbalsilence/i dont know how to put this but im kind of a big deal.ogg",length=6.5733560090702952}}
 L["i dont think thats a measure of any sort of success"]={{path="chatsounds/autoadd/verbalsilence/i dont think thats a measure of any sort of success.ogg",length=3.3563718820861679}}
+L["i feel like im taking crazy pills"]={{path="chatsounds/autoadd/verbalsilence/i feel like im taking crazy pills.ogg",length=2.4292063492063494}}
 L["i got bronchitis"]={{path="chatsounds/autoadd/verbalsilence/i got bronchitis.ogg",length=1.4557369614512472}}
+L["i guess we know what the rock was cooking"]={{path="chatsounds/autoadd/verbalsilence/i guess we know what the rock was cooking.ogg",length=1.9771428571428571}}
 L["i hate you more than hitler bruhz"]={{path="chatsounds/autoadd/verbalsilence/i hate you more than hitler bruhz.ogg",length=2.084331065759637}}
 L["i have a strange urge to penetrate these females"]={{path="chatsounds/autoadd/verbalsilence/i have a strange urge to penetrate these females.ogg",length=3.0796598639455781}}
 L["i have special eyes"]={{path="chatsounds/autoadd/verbalsilence/i have special eyes.ogg",length=1.8124489795918368}}
@@ -172,6 +164,7 @@ L["noimnot"]={{path="chatsounds/autoadd/verbalsilence/noimnot.ogg",length=0.7410
 L["nom nom nom"]={{path="chatsounds/autoadd/verbalsilence/nom nom nom.ogg",length=1.1950566893424037}}
 L["noope"]={{path="chatsounds/autoadd/verbalsilence/noope.ogg",length=0.65997732426303857}}
 L["not only is this game fffffffffffucking awful but so are its developers apparently"]={{path="chatsounds/autoadd/verbalsilence/not only is this game fffffffffffucking awful but so are its developers apparently.ogg",length=7.7070748299319725}}
+L["nothing youve done nothing nothing"]={{path="chatsounds/autoadd/verbalsilence/nothing youve done nothing nothing.ogg",length=4.1076643990929709}}
 L["nothing1"]={{path="chatsounds/autoadd/verbalsilence/nothing1.ogg",length=0.98260770975056688}}
 L["nup"]={{path="chatsounds/autoadd/verbalsilence/nup.ogg",length=0.54151927437641723}}
 L["oh lord jesus oh jesus"]={{path="chatsounds/autoadd/verbalsilence/oh lord jesus oh jesus.ogg",length=3.5488662131519275}}
@@ -270,7 +263,6 @@ L["you probably shouldnt laugh anymore"]={{path="chatsounds/autoadd/verbalsilenc
 L["you rack disciprine"]={{path="chatsounds/autoadd/verbalsilence/you rack disciprine.ogg",length=1.3740136054421768}}
 L["you shall not pass 2"]={{path="chatsounds/autoadd/verbalsilence/you shall not pass 2.ogg",length=4.149659863945578}}
 L["you stupid"]={{path="chatsounds/autoadd/verbalsilence/you stupid.ogg",length=0.82337868480725629}}
-L["you stupid song"]={{path="chatsounds/autoadd/verbalsilence/you stupid song.ogg",length=15.479546485260771}}
 L["you violated my mother"]={{path="chatsounds/autoadd/verbalsilence/you violated my mother.ogg",length=1.2146485260770976}}
 L["your body is a wonderland and i want to be alice"]={{path="chatsounds/autoadd/verbalsilence/your body is a wonderland and i want to be alice.ogg",length=3.8764852607709752}}
 L["your contact lenses just arrived"]={{path="chatsounds/autoadd/verbalsilence/your contact lenses just arrived.ogg",length=2.3092517006802722}}
