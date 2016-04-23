@@ -71,6 +71,7 @@ L["who put you on the planet"]={{path="chatsounds/autoadd/beauty_bomber/who put 
 L["wilsooooon"]={{path="chatsounds/autoadd/beauty_bomber/wilsooooon/1.ogg",length=4.2000000000000002},{path="chatsounds/autoadd/beauty_bomber/wilsooooon/2.ogg",length=1.5248526077097506}}
 L["woodyscream"]={{path="chatsounds/autoadd/beauty_bomber/woodyscream.ogg",length=0.47854875283446713}}
 L["wotwtripod"]={{path="chatsounds/autoadd/beauty_bomber/wotwtripod.ogg",length=9.06562358276644}}
+L["wowowowowowowowow"]={{path="chatsounds/autoadd/beauty_bomber/wowowowowowowowow.ogg",length=10.932585034013606}}
 L["yeeaaahhhh"]={{path="chatsounds/autoadd/beauty_bomber/yeeaaahhhh.ogg",length=0.87074829931972786}}
 L["you know how much i sacrificed"]={{path="chatsounds/autoadd/beauty_bomber/you know how much i sacrificed.ogg",length=2.0765986394557823}}
 L["youre an inanimate fucking object"]={{path="chatsounds/autoadd/beauty_bomber/youre an inanimate fucking object.ogg",length=2.1220181405895691}}
