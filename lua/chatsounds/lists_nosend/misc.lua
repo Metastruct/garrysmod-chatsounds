@@ -31,6 +31,9 @@ L["die waffen legt an"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",
 L["doom1"]={{path="chatsounds/autoadd/misc/doom1.ogg",length=16.377777777777776}}
 L["doom2"]={{path="chatsounds/autoadd/misc/doom2.ogg",length=18.695102040816327}}
 L["ea sucks big cock"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.3697959183673469}}
+L["ebola"]={{path="chatsounds/autoadd/misc/ebola/ebola 1.ogg",length=0.40925170068027211},{path="chatsounds/autoadd/misc/ebola/ebola 2.ogg",length=0.70836734693877546},{path="chatsounds/autoadd/misc/ebola/ebola 3.ogg",length=0.61820861678004535},{path="chatsounds/autoadd/misc/ebola/ebola 4.ogg",length=1.0363718820861678}}
+L["ebooooola"]={{path="chatsounds/autoadd/misc/ebooooola.ogg",length=1.5689795918367346}}
+L["eeeyyy ebola"]={{path="chatsounds/autoadd/misc/eeeyyy ebola.ogg",length=1.3968707482993197}}
 L["elmos world"]={{path="chatsounds/autoadd/misc/elmos world.ogg",length=30.864739229024945}}
 L["facebook"]={{path="chatsounds/autoadd/misc/facebook.ogg",length=0.95201814058956913}}
 L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.66208616780045348}}
@@ -112,6 +115,7 @@ L["winamp winamp"]={{path="chatsounds/autoadd/misc/winamp winamp.ogg",length=1.8
 L["wlm"]={{path="chatsounds/autoadd/misc/wlm.ogg",length=0.64557823129251701}}
 L["wowwow"]={{path="chatsounds/autoadd/misc/wowwow.ogg",length=1.7647165532879818}}
 L["wtf"]={{path="chatsounds/autoadd/misc/wtf/wtf 2.ogg",length=1.1052154195011339},{path="chatsounds/autoadd/misc/wtf/wtf 3.ogg",length=0.99011337868480731},{path="chatsounds/autoadd/misc/wtf/wtf.ogg",length=0.92882086167800448}}
+L["yes ebooooola"]={{path="chatsounds/autoadd/misc/yes ebooooola.ogg",length=2.1201814058956918}}
 L["yes yes"]={{path="chatsounds/autoadd/misc/yes yes.ogg",length=4.7855102040816329}}
 L["you belong in a garbage can"]={{path="chatsounds/autoadd/misc/you belong in a garbage can.ogg",length=2.1436961451247165}}
 L["you havent seen the last of"]={{path="chatsounds/autoadd/misc/you havent seen the last of.ogg",length=1.5292290249433107}}
