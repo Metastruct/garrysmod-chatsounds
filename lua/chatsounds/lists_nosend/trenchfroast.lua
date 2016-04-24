@@ -46,6 +46,7 @@ L["ipponmanzoku"]={{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon man
 L["jarski on tosi hyvae tyyppi"]={{path="chatsounds/autoadd/trenchfroast/jarski on tosi hyvae tyyppi.ogg",length=2.1195238095238094}}
 L["jej"]={{path="chatsounds/autoadd/trenchfroast/jej.ogg",length=0.22619047619047619}}
 L["joj"]={{path="chatsounds/autoadd/trenchfroast/joj.ogg",length=0.19113378684807256}}
+L["klaxon1"]={{path="chatsounds/autoadd/trenchfroast/klaxon1.ogg",length=0.41097505668934242}}
 L["klaxonloop"]={{path="chatsounds/autoadd/trenchfroast/klaxonloop.ogg",length=5.2188662131519274}}
 L["look at this horrendous texturing"]={{path="chatsounds/autoadd/trenchfroast/look at this horrendous texturing.ogg",length=1.7155555555555555}}
 L["loool"]={{path="chatsounds/autoadd/trenchfroast/loool.ogg",length=0.43646258503401358}}
