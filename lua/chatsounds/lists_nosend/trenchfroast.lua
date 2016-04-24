@@ -49,6 +49,7 @@ L["joj"]={{path="chatsounds/autoadd/trenchfroast/joj.ogg",length=0.1911337868480
 L["klaxonloop"]={{path="chatsounds/autoadd/trenchfroast/klaxonloop.ogg",length=5.2188662131519274}}
 L["look at this horrendous texturing"]={{path="chatsounds/autoadd/trenchfroast/look at this horrendous texturing.ogg",length=1.7155555555555555}}
 L["loool"]={{path="chatsounds/autoadd/trenchfroast/loool.ogg",length=0.43646258503401358}}
+L["maam"]={{path="chatsounds/autoadd/trenchfroast/maam.ogg",length=0.56582766439909293}}
 L["mein fuhrer"]={{path="chatsounds/autoadd/trenchfroast/mein fuhrer.ogg",length=0.69492063492063494}}
 L["meinen kaese geschmolzen ist"]={{path="chatsounds/autoadd/trenchfroast/meinen kaese geschmolzen ist.ogg",length=1.8278004535147392}}
 L["my fps is too high"]={{path="chatsounds/autoadd/trenchfroast/my fps is too high.ogg",length=1.7208616780045352}}
@@ -100,4 +101,5 @@ L["tribalrush"]={{path="chatsounds/autoadd/trenchfroast/tribalrush.ogg",length=5
 L["uptown"]={{path="chatsounds/autoadd/trenchfroast/uptown.ogg",length=18.780612244897959}}
 L["uuuh scuse me"]={{path="chatsounds/autoadd/trenchfroast/uuuh scuse me.ogg",length=1.1067346938775511}}
 L["worthles"]={{path="chatsounds/autoadd/trenchfroast/worthles.ogg",length=0.88136054421768706}}
+L["yeeeeea"]={{path="chatsounds/autoadd/trenchfroast/yeeeeea.ogg",length=2.3473696145124716}}
 c.EndList()
