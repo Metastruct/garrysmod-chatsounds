@@ -37,7 +37,6 @@ L["eeeyyy ebola"]={{path="chatsounds/autoadd/misc/eeeyyy ebola.ogg",length=1.396
 L["elmos world"]={{path="chatsounds/autoadd/misc/elmos world.ogg",length=30.864739229024945}}
 L["facebook"]={{path="chatsounds/autoadd/misc/facebook.ogg",length=0.95201814058956913}}
 L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.66208616780045348}}
-L["finis old penes"]={{path="chatsounds/autoadd/misc/finis old penes.ogg",length=1.7445804988662132}}
 L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.48594104308390024}}
 L["get fucked"]={{path="chatsounds/autoadd/misc/get fucked.ogg",length=0.91621315192743769}}
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.36623582766439911}}
@@ -76,7 +75,6 @@ L["now you fucked up"]={{path="chatsounds/autoadd/misc/now you fucked up.ogg",le
 L["oh"]={{path="chatsounds/autoadd/misc/oh.ogg",length=0.17607709750566894}}
 L["oh fine"]={{path="chatsounds/autoadd/misc/oh fine.ogg",length=0.7888662131519274}}
 L["peace"]={{path="chatsounds/autoadd/misc/peace.ogg",length=0.22185941043083901}}
-L["penes"]={{path="chatsounds/autoadd/misc/penes.ogg",length=0.6138775510204082}}
 L["pickle surprise"]={{path="chatsounds/autoadd/misc/pickle surprise.ogg",length=1.9087528344671201}}
 L["pingas"]={{path="chatsounds/autoadd/misc/pingas.ogg",length=0.56258503401360549}}
 L["potcfdk"]={{path="chatsounds/autoadd/misc/potcfdk.ogg",length=1.5388662131519275}}
