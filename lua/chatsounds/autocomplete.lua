@@ -158,7 +158,7 @@ function ac.render(x, y, w, h)
 
 		ac.color.a, ac.color_highlighted.a, ac.color_shadow.a = alpha, alpha, alpha
 
-		chatsounds.DrawPrettyText(text, x + ac.margin, y + ac.margin + offset % 1 * -ac.size + ac.size * (i - 1), ac.font, ac.size, id <= ac.highlighted and 700 or 300, ac.shadow, id == ac.tabbed and ac.color_highlighted or ac.color, ac.color_shadow)
+		chatsounds_DrawPrettyText(text, x + ac.margin, y + ac.margin + offset % 1 * -ac.size + ac.size * (i - 1), ac.font, ac.size, id <= ac.highlighted and 700 or 300, ac.shadow, id == ac.tabbed and ac.color_highlighted or ac.color, ac.color_shadow)
 	end
 end
 

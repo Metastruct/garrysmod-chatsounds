@@ -41,7 +41,7 @@ local surface_SetTextColor = surface.SetTextColor
 local surface_SetTextPos = surface.SetTextPos
 local surface_DrawText = surface.DrawText
 
-function chatsounds.DrawPrettyText(text, x, y, font, size, weight, blursize, color1, color2)
+function chatsounds_DrawPrettyText(text, x, y, font, size, weight, blursize, color1, color2)
 	font = font or "Arial"
 	size = size or 14
 	weight = weight or 0
