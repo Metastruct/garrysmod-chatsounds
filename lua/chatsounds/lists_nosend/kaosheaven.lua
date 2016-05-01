@@ -6,7 +6,6 @@ L["could an eight year old do this"]={{path="chatsounds/autoadd/kaosheaven/could
 L["did you know that"]={{path="chatsounds/autoadd/kaosheaven/did you know that.ogg",length=1.5250566893424036}}
 L["dude im cripple"]={{path="chatsounds/autoadd/kaosheaven/dude im cripple.ogg",length=3.9900000000000002}}
 L["dude she is in a coma who are you trying to impress"]={{path="chatsounds/autoadd/kaosheaven/dude she is in a coma who are you trying to impress.ogg",length=3.4849886621315194}}
-L["ecch ecch"]={{path="chatsounds/autoadd/kaosheaven/ecch ecch.ogg",length=2.5251700680272107}}
 L["good god run away he is gonna murder us all with that glass"]={{path="chatsounds/autoadd/kaosheaven/good god run away he is gonna murder us all with that glass.ogg",length=4.702040816326531}}
 L["hahahahahahah"]={{path="chatsounds/autoadd/kaosheaven/hahahahahahah.ogg",length=2}}
 L["has anyone heard of a website called meatspin"]={{path="chatsounds/autoadd/kaosheaven/has anyone heard of a website called meatspin.ogg",length=5.7324263038548757}}
