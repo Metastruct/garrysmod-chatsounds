@@ -17,6 +17,7 @@ L["im a cat who loves to snooze"]={{path="chatsounds/autoadd/garfielf/im a cat w
 L["im am hungry i want some lasaga"]={{path="chatsounds/autoadd/garfielf/im am hungry i want some lasaga.ogg",length=2.766734693877551}}
 L["its time to kick odie off the table"]={{path="chatsounds/autoadd/garfielf/its time to kick odie off the table.ogg",length=2.468140589569161}}
 L["its what i do"]={{path="chatsounds/autoadd/garfielf/its what i do.ogg",length=0.93043083900226753}}
+L["lasaga"]={{path="chatsounds/autoadd/garfielf/lasaga.ogg",length=0.91863945578231287}}
 L["stuffing your face as usual"]={{path="chatsounds/autoadd/garfielf/stuffing your face as usual.ogg",length=2.4008616780045351}}
 L["that does it im done"]={{path="chatsounds/autoadd/garfielf/that does it im done.ogg",length=1.6390476190476191}}
 L["thats it ive had it with you"]={{path="chatsounds/autoadd/garfielf/thats it ive had it with you.ogg",length=1.8798185941043084}}
