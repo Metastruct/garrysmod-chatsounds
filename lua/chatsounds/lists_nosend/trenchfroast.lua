@@ -4,6 +4,7 @@ L["autisticnoise"]={{path="chatsounds/autoadd/trenchfroast/autisticnoise/autisti
 L["baab"]={{path="chatsounds/autoadd/trenchfroast/baab.ogg",length=0.58752834467120185}}
 L["barmunch"]={{path="chatsounds/autoadd/trenchfroast/barmunch/barmunch 1.ogg",length=0.084535147392290247},{path="chatsounds/autoadd/trenchfroast/barmunch/barmunch 2.ogg",length=0.077097505668934238}}
 L["better find a medkit"]={{path="chatsounds/autoadd/trenchfroast/better find a medkit.ogg",length=1.6457142857142857}}
+L["bitch"]={{path="chatsounds/autoadd/trenchfroast/bitch.ogg",length=0.68204081632653057}}
 L["blalb"]={{path="chatsounds/autoadd/trenchfroast/blalb.ogg",length=0.35750566893424035}}
 L["blam this piece of crap"]={{path="chatsounds/autoadd/trenchfroast/blam this piece of crap.ogg",length=2.6175056689342404}}
 L["blowjob"]={{path="chatsounds/autoadd/trenchfroast/blowjob.ogg",length=1.0042630385487528}}
@@ -31,6 +32,8 @@ L["fuck uff"]={{path="chatsounds/autoadd/trenchfroast/fuck uff.ogg",length=0.708
 L["fug you"]={{path="chatsounds/autoadd/trenchfroast/fug you.ogg",length=0.67428571428571427}}
 L["gibu me a buroujobu"]={{path="chatsounds/autoadd/trenchfroast/gibu me a buroujobu.ogg",length=1.4643990929705215}}
 L["go to the church and ask god to fug you"]={{path="chatsounds/autoadd/trenchfroast/go to the church and ask god to fug you.ogg",length=3.0518820861678004}}
+L["great"]={{path="chatsounds/autoadd/trenchfroast/great.ogg",length=0.80308390022675735}}
+L["great under a"]={{path="chatsounds/autoadd/trenchfroast/great under a.ogg",length=1.9446938775510203}}
 L["haaaaah"]={{path="chatsounds/autoadd/trenchfroast/haaaaah.ogg",length=3.7846485260770977}}
 L["hah"]={{path="chatsounds/autoadd/trenchfroast/hah/hah 1.ogg",length=0.18954648526077097},{path="chatsounds/autoadd/trenchfroast/hah/hah 2.ogg",length=0.39852607709750565},{path="chatsounds/autoadd/trenchfroast/hah/hah 3.ogg",length=0.32190476190476192},{path="chatsounds/autoadd/trenchfroast/hah/hah 4.ogg",length=0.50392290249433103}}
 L["hhh"]={{path="chatsounds/autoadd/trenchfroast/hhh.ogg",length=0.38328798185941043}}
@@ -38,6 +41,7 @@ L["hitlereltih"]={{path="chatsounds/autoadd/trenchfroast/hitlereltih.ogg",length
 L["huyuh"]={{path="chatsounds/autoadd/trenchfroast/huyuh.ogg",length=0.53986394557823125}}
 L["i can see clearly now the rain is gone"]={{path="chatsounds/autoadd/trenchfroast/i can see clearly now the rain is gone.ogg",length=5.5607256235827665}}
 L["i didnt know how to do that before"]={{path="chatsounds/autoadd/trenchfroast/i didnt know how to do that before.ogg",length=1.8992290249433106}}
+L["i fucking hate you"]={{path="chatsounds/autoadd/trenchfroast/i fucking hate you.ogg",length=1.2323356009070294}}
 L["idi naan idi"]={{path="chatsounds/autoadd/trenchfroast/idi naan idi.ogg",length=0.91210884353741495}}
 L["idi nahui"]={{path="chatsounds/autoadd/trenchfroast/idi nahui.ogg",length=0.81587301587301586}}
 L["if you dont speak russki i will murder you"]={{path="chatsounds/autoadd/trenchfroast/if you dont speak russki i will murder you.ogg",length=2.2403628117913832}}
@@ -48,6 +52,7 @@ L["jej"]={{path="chatsounds/autoadd/trenchfroast/jej.ogg",length=0.2261904761904
 L["joj"]={{path="chatsounds/autoadd/trenchfroast/joj.ogg",length=0.19113378684807256}}
 L["klaxon1"]={{path="chatsounds/autoadd/trenchfroast/klaxon1.ogg",length=0.41097505668934242}}
 L["klaxonloop"]={{path="chatsounds/autoadd/trenchfroast/klaxonloop.ogg",length=5.2188662131519274}}
+L["kys"]={{path="chatsounds/autoadd/trenchfroast/kys/kys 1.ogg",length=0.65900226757369618},{path="chatsounds/autoadd/trenchfroast/kys/kys 2.ogg",length=0.70848072562358277},{path="chatsounds/autoadd/trenchfroast/kys/kys 3.ogg",length=1.0022448979591836}}
 L["look at this horrendous texturing"]={{path="chatsounds/autoadd/trenchfroast/look at this horrendous texturing.ogg",length=1.7155555555555555}}
 L["loool"]={{path="chatsounds/autoadd/trenchfroast/loool.ogg",length=0.43646258503401358}}
 L["maam"]={{path="chatsounds/autoadd/trenchfroast/maam.ogg",length=0.56582766439909293}}
@@ -81,6 +86,7 @@ L["russkikssur"]={{path="chatsounds/autoadd/trenchfroast/russkikssur.ogg",length
 L["saas"]={{path="chatsounds/autoadd/trenchfroast/saas.ogg",length=0.34136054421768708}}
 L["sack my dick"]={{path="chatsounds/autoadd/trenchfroast/sack my dick.ogg",length=0.81528344671201813}}
 L["sambaloop"]={{path="chatsounds/autoadd/trenchfroast/sambaloop.ogg",length=4.7993197278911568}}
+L["seriously kys"]={{path="chatsounds/autoadd/trenchfroast/seriously kys.ogg",length=1.0602494331065759}}
 L["shut up granshush"]={{path="chatsounds/autoadd/trenchfroast/shut up granshush.ogg",length=1.7208843537414966}}
 L["so let me show you what i came up with"]={{path="chatsounds/autoadd/trenchfroast/so let me show you what i came up with.ogg",length=2.8941496598639458}}
 L["squeakylaugh"]={{path="chatsounds/autoadd/trenchfroast/squeakylaugh.ogg",length=2.2389115646258504}}
@@ -103,4 +109,7 @@ L["uptown"]={{path="chatsounds/autoadd/trenchfroast/uptown.ogg",length=18.780612
 L["uuuh scuse me"]={{path="chatsounds/autoadd/trenchfroast/uuuh scuse me.ogg",length=1.1067346938775511}}
 L["worthles"]={{path="chatsounds/autoadd/trenchfroast/worthles.ogg",length=0.88136054421768706}}
 L["yeeeeea"]={{path="chatsounds/autoadd/trenchfroast/yeeeeea.ogg",length=2.3473696145124716}}
+L["yiah"]={{path="chatsounds/autoadd/trenchfroast/yiah.ogg",length=0.53253968253968254}}
+L["you fucking dumb"]={{path="chatsounds/autoadd/trenchfroast/you fucking dumb.ogg",length=0.95365079365079364}}
+L["you suck"]={{path="chatsounds/autoadd/trenchfroast/you suck.ogg",length=0.89392290249433104}}
 c.EndList()

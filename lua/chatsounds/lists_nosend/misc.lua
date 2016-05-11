@@ -1,6 +1,5 @@
 c.StartList("misc")
 L["adrien brody"]={{path="chatsounds/autoadd/misc/adrien brody/adrien brody1.ogg",length=1.2364172335600907},{path="chatsounds/autoadd/misc/adrien brody/adrien brody2.ogg",length=1.4273015873015873}}
-L["ahahaahhh"]={{path="chatsounds/autoadd/misc/ahahaahhh.ogg",length=7.3138095238095238}}
 L["all"]={{path="chatsounds/autoadd/misc/all.ogg",length=0.19721088435374148}}
 L["alright it seems like someone is about to get banned"]={{path="chatsounds/autoadd/misc/alright it seems like someone is about to get banned.ogg",length=5.00390022675737}}
 L["amnesiaevent"]={{path="chatsounds/autoadd/misc/amnesiaevent.ogg",length=3.8250793650793651}}
@@ -10,7 +9,6 @@ L["aol output"]={{path="chatsounds/autoadd/misc/aol output.ogg",length=0.9116780
 L["bbaann"]={{path="chatsounds/autoadd/misc/bbaann.ogg",length=5.1857142857142859}}
 L["bill nye"]={{path="chatsounds/autoadd/misc/bill nye.ogg",length=5.5901814058956916}}
 L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.5926530612244898}}
-L["blulululuruah ah ah"]={{path="chatsounds/autoadd/misc/blulululuruah ah ah.ogg",length=1.8500000000000001}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.2446485260770972}}
 L["brodyquest"]={{path="chatsounds/autoadd/misc/brodyquest.ogg",length=21.341927437641722}}
 L["broteamsubscriberalert"]={{path="chatsounds/autoadd/misc/broteamsubscriberalert.ogg",length=12.286281179138323}}
