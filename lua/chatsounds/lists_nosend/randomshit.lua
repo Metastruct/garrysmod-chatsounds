@@ -6,6 +6,7 @@ L["are you kidding me"]={{path="chatsounds/autoadd/randomshit/are you kidding me
 L["bazinga"]={{path="chatsounds/autoadd/randomshit/bazinga/bazinga1.ogg",length=0.8990476190476191},{path="chatsounds/autoadd/randomshit/bazinga/bazinga2.ogg",length=0.78802721088435379},{path="chatsounds/autoadd/randomshit/bazinga/bazinga3.ogg",length=1.0876417233560092},{path="chatsounds/autoadd/randomshit/bazinga/bazinga4.ogg",length=1.0414285714285714},{path="chatsounds/autoadd/randomshit/bazinga/bazinga5.ogg",length=0.90002267573696149},{path="chatsounds/autoadd/randomshit/bazinga/bazinga6.ogg",length=0.60907029478458052},{path="chatsounds/autoadd/randomshit/bazinga/bazinga7.ogg",length=0.87555555555555553},{path="chatsounds/autoadd/randomshit/bazinga/bazinga8.ogg",length=0.83206349206349206},{path="chatsounds/autoadd/randomshit/bazinga/bazinga9.ogg",length=0.92448979591836733}}
 L["but before the show starts"]={{path="chatsounds/autoadd/randomshit/but before the show starts.ogg",length=14.476122448979591}}
 L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.ogg",length=1.5209070294784581}}
+L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my crawl.ogg",length=20.637414965986395}}
 L["dont listen to the old fucker"]={{path="chatsounds/autoadd/randomshit/dont listen to the old fucker.ogg",length=1.74281179138322}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.5958956916099769}}
 L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa.ogg",length=1.8741269841269841}}
@@ -20,12 +21,15 @@ L["is it because i turn into a cat youre a fucking cat"]={{path="chatsounds/auto
 L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places to be.ogg",length=2.9733560090702946}}
 L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.1704308390022677}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.88122448979591839},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.7695238095238095}}
+L["kurwa"]={{path="chatsounds/autoadd/randomshit/kurwa.ogg",length=1.2471428571428571}}
 L["man i fuckin shit on your nan"]={{path="chatsounds/autoadd/randomshit/man i fuckin shit on your nan.ogg",length=2.544331065759637}}
 L["meemkit"]={{path="chatsounds/autoadd/randomshit/meemkit/meemkit1.ogg",length=0.61668934240362816},{path="chatsounds/autoadd/randomshit/meemkit/meemkit2.ogg",length=0.74448979591836739},{path="chatsounds/autoadd/randomshit/meemkit/meemkit3.ogg",length=0.72272108843537419}}
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/randomshit/mom youre an idiot kappa.ogg",length=2.2340589569160998}}
+L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.7446712018140589}}
 L["oh my god you fucking kids"]={{path="chatsounds/autoadd/randomshit/oh my god you fucking kids.ogg",length=3.5305442176870749}}
 L["or the kit is shit"]={{path="chatsounds/autoadd/randomshit/or the kit is shit.ogg",length=1.4453514739229025}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.4867120181405902}}
+L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.1512244897959185}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.1450113378684805}}
 L["srors"]={{path="chatsounds/autoadd/randomshit/srors.ogg",length=0.80843537414965982}}
 L["they have twelve penises"]={{path="chatsounds/autoadd/randomshit/they have twelve penises.ogg",length=2.7885034013605443}}
