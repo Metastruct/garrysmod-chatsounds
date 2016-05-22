@@ -62,7 +62,7 @@ c.StartList("engineer")
 		},
 	}
 
-	L["soy im gonna blow that dumb look right off yer stupid face"] = {
+	L["son im gonna blow that dumb look right off yer stupid face"] = {
 		{
 			path = "vo/taunts/engineer_taunts12.mp3",
 			length = 5.0271201814059,
