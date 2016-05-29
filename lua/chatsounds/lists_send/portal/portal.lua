@@ -138,7 +138,7 @@ L["there really was a cake on entry to boss room"]={{path="vo/aperture_ai/escape
 L["dont believe me here ill put you on hellooo thats you thats how dumb you sound"]={{path="vo/aperture_ai/escape_02_spheredestroy3-05.wav",length=5.3754195011338,},}
 L["please be careful"]={{path="vo/aperture_ai/03_part1_entry-2.wav",length=1.2614058956916,},}
 L["what are you doing"]={{path="vo/aperture_ai/escape_00_part1_nag04-1.wav",length=1.5258049886621,},}
-L["erik wolpaw creating the ai voice was a multistep process first we ran every line of dialog through an automatic texttospeech program in the studio we cued the actress who plays glados ellen mcclane with the computergenerated sound file shed mimic it and then over the course of several takes adjust her performance to clean up any words that were unintelligible in the computer version for instance heres a line as ellen delivered it once the recording was done we processed all of the dialog to give it an extra computery edge heres that same line as it appears in the game with the pitch constrained pitch modulation suppressed and the formant moved up "]={{path="commentary/prtl-comment000.wav",length=58.545419501134,},}
+L["erik wolpaw creating the ai voice was a multistep process first we ran every line of dialog through an automatic texttospeech program in the studio we cued the actress who plays glados ellen mcclane with the computergenerated sound file shed mimic it and then over the course of several takes adjust her performance to clean up any words that were unintelligible in the computer version for instance heres a line as ellen delivered it once the recording was done we processed all of the dialog to give it an extra computery edge heres that same line as it appears in the game with the pitch constrained pitch modulation suppressed and the formant moved up"]={{path="commentary/prtl-comment000.wav",length=58.545419501134,},}
 L["spectacular you appear to understand how a portal affects forward momentum or to be more precise how it does not"]={{path="vo/aperture_ai/06_part1_success_1-1.wav",length=8.3809523809524,},}
 L["slaughter electric needle injector"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-35.wav",length=2.7573696145125,},}
 L["neurotoxin cough cough so deadly cough choking laughter im kidding"]={{path="vo/aperture_ai/escape_02_miscbabble-10.wav",length=10.028798185941,},}
@@ -220,7 +220,7 @@ L["oh whats that"]={{path="vo/aperture_ai/escape_02_sphere_curiosity-03.wav",len
 L["look were both stuck in this place ill use lasers to inscribe a line down the center of the facility and one half will be where you live and ill live in the other half"]={{path="vo/aperture_ai/escape_02_miscbabble-01.wav",length=10.773333333333,},}
 L["you shouldnt be here this isnt safe for you"]={{path="vo/aperture_ai/escape_00_part1_nag11-1.wav",length=4.5850793650794,},}
 L["enter portal"]={{path="player/portal_enter1.wav",length=0.4407936507937,},{path="player/portal_enter2.wav",length=0.683537414966,},}
-L["oh surprise "]={{path="vo/aperture_ai/post_escape_bridge_05.wav",length=0.3773242630385,},}
+L["oh surprise"]={{path="vo/aperture_ai/post_escape_bridge_05.wav",length=0.3773242630385,},}
 L["cordless electric needle injector"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-36.wav",length=2.8096145124717,},}
 L["two cups rhubarb sliced"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-26.wav",length=2.4613151927438,},}
 L["randy lundeen to make puzzles deeper than just teleporting to the exit we had to include surfaces that wont hold a portal which are formally introduced here we experimented with several surface designs before we settled on this one whose visual noise and reflectivity make it easy to identify at a distance"]={{path="commentary/prtl-comment038.wav",length=16.124603174603,},}
@@ -297,7 +297,7 @@ L["you did it the weighted companion cube certainly brought you good luck"]={{pa
 L["i know youre there i can feel you here"]={{path="vo/aperture_ai/escape_00_part1_nag03-1.wav",length=3.3687301587302,},}
 L["one cup lemon juice"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-17.wav",length=1.6950566893424,},}
 L["paul graham sometimes little details make a huge difference for instance we had to add the left side to this wall to give players a visual representation of how thick it is without it playtesters frequently thought the hall had just gotten impossibly narrower panicked and stopped making rational decisions"]={{path="commentary/prtl-comment094.wav",length=17.065306122449,},}
-L["so get comfortable while i warm up the neurotoxin emitters "]={{path="vo/aperture_ai/escape_02_spheredestroy1-06.wav",length=4.4053514739229,},}
+L["so get comfortable while i warm up the neurotoxin emitters"]={{path="vo/aperture_ai/escape_02_spheredestroy1-06.wav",length=4.4053514739229,},}
 L["did you know you can donate one or all of your vital organs to the aperture science self esteem fund for girls its true"]={{path="vo/aperture_ai/10_part1_success-1.wav",length=8.1066666666667,},}
 L["air whipping past"]={{path="vo/escape/portal_escape_seg03-2.wav",length=8,},}
 L["snort"]={{path="vo/aperture_ai/escape_02_sphere_anger-06.wav",length=0.928798185941,},}
