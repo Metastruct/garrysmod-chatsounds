@@ -14,7 +14,7 @@ L["you havent escaped you know"]={{path="vo/aperture_ai/escape_00_part1_nag05-1.
 L["low rumble"]={{path="vo/escape/portal_escape_seg03-4.wav",length=8,},}
 L["one 1825 ounce package chocolate cake mix"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-01.wav",length=4.6904308390023,},}
 L["your specimen has been processed and we are now ready to begin the test proper"]={{path="vo/aperture_ai/00_part1_entry-3.wav",length=4.888253968254,},}
-L["rrr i hate youpain laughter"]={{path="vo/aperture_ai/escape_02_spheredestroy4-01.wav",length=2.0266666666667,},}
+L["rrr i hate you"]={{path="vo/aperture_ai/escape_02_spheredestroy4-01.wav",length=2.0266666666667,},}
 L["portalgun secondary fire"]={{path="weapons/portalgun/portalgun_shoot_red1.wav",length=0.8220634920635,},}
 L["oh well if you want my advice you should just lie down in front of a rocket trust me itll be a lot less painful than the neurotoxin"]={{path="vo/aperture_ai/escape_02_spheredestroy1-08.wav",length=9.4293424036281,},}
 L["fiberglass surface resins"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-20.wav",length=2.2755555555556,},}
@@ -42,7 +42,7 @@ L["hey its me"]={{path="npc/turret_floor/turret_shotat_1.wav",length=1.709342403
 L["growl"]={{path="vo/aperture_ai/escape_02_sphere_anger-08.wav",length=1.0071655328798,},{path="vo/aperture_ai/escape_02_sphere_anger-03.wav",length=1.102947845805,},{path="vo/aperture_ai/escape_02_sphere_anger-09.wav",length=0.6037188208617,},{path="vo/aperture_ai/escape_02_sphere_anger-19.wav",length=0.8707482993197,},{path="vo/aperture_ai/escape_02_sphere_anger-04.wav",length=0.6225850340136,},{path="vo/aperture_ai/escape_02_sphere_anger-11.wav",length=1.149387755102,},{path="vo/aperture_ai/escape_02_sphere_anger-07.wav",length=0.6501587301587,},}
 L["first however note the incandescent particle field across the exit"]={{path="vo/aperture_ai/00_part1_success-2.wav",length=4.6613378684807,},}
 L["hey look at that thing no that other thing"]={{path="vo/aperture_ai/escape_02_sphere_curiosity-07.wav",length=2.0781859410431,},}
-L["but we both know that isnt going to happen"]={{path="vo/aperture_ai/escape_02_entry-03.wav",length=3.1680045351474,},}
+L["i guess we both know that isnt going to happen"]={{path="vo/aperture_ai/escape_02_entry-03.wav",length=3.1680045351474,},}
 L["stop squirming and die like an adult or im going to delete your backup"]={{path="vo/aperture_ai/escape_02_spheredestroy4-07.wav",length=3.4133333333333,},}
 L["ha im making more thats going to take a few minutes though meanwhile oh look its your old pal the rocket turret"]={{path="vo/aperture_ai/escape_02_spheredestroy1-ancillary2.wav",length=6.7192743764172,},}
 L["all right keep doing whatever it is you think youre doing"]={{path="vo/aperture_ai/escape_02_spheredestroy1-09.wav",length=3.7973469387755,},}
@@ -113,7 +113,7 @@ L["blue portal open"]={{path="weapons/portalgun/portal_open1.wav",length=1.89269
 L["ewww whats wrong with your legs"]={{path="vo/aperture_ai/escape_02_sphere_curiosity-08.wav",length=1.5267120181406,},}
 L["speaking of curiosity youre curious about what happens after you die right guess what i know"]={{path="vo/aperture_ai/escape_02_spheredestroy2-03.wav",length=8.1706802721088,},}
 L["well done remember the aperture science bring your daughter to work day is the perfect time to have her tested"]={{path="vo/aperture_ai/01_part2_success-1.wav",length=6.1013378684807,},}
-L["there really was a cake on entry to boss room"]={{path="vo/aperture_ai/escape_01_death_nag01-1.wav",length=5.5057823129252,},}
+L["there really was a cake"]={{path="vo/aperture_ai/escape_01_death_nag01-1.wav",length=5.5057823129252,},}
 L["dont believe me here ill put you on hellooo thats you thats how dumb you sound"]={{path="vo/aperture_ai/escape_02_spheredestroy3-05.wav",length=5.3754195011338,},}
 L["please be careful"]={{path="vo/aperture_ai/03_part1_entry-2.wav",length=1.2614058956916,},}
 L["what are you doing"]={{path="vo/aperture_ai/escape_00_part1_nag04-1.wav",length=1.5258049886621,},}
@@ -154,7 +154,7 @@ L["target lost"]={{path="npc/turret_floor/turret_retire_1.wav",length=0.84750566
 L["once again excellent work"]={{path="vo/aperture_ai/02_part1_success-1.wav",length=2.2969387755102,},}
 L["sounds echo and fade"]={{path="vo/escape/portal_escape_seg02-4.wav",length=6.1333333333333,},}
 L["it was a fun test and were all impressed at how much you won the test is over come back"]={{path="vo/aperture_ai/escape_00_part1_nag16-1.wav",length=7.1499092970522,},}
-L["good job on that by the way back to computer voice sarcasm sphere selftest complete"]={{path="vo/aperture_ai/escape_02_spheredestroy4-06.wav",length=3.8893424036281,},}
+L["good job on that by the way sarcasm sphere selftest complete"]={{path="vo/aperture_ai/escape_02_spheredestroy4-06.wav",length=3.8893424036281,},}
 L["the enrichment center is committed to the well being of all participants"]={{path="vo/aperture_ai/10_part1_entry-1.wav",length=4.380589569161,},}
 L["two cups all purpose flower"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-07.wav",length=1.9947845804989,},}
 L["injector needle driver"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-37.wav",length=2.031746031746,},}
@@ -268,7 +268,7 @@ L["i sincerely hope you werent expecting a response because im not talking to yo
 L["deploying"]={{path="npc/turret_floor/turret_deploy_1.wav",length=0.7534693877551,},{path="npc/turret_floor/turret_deploy_2.wav",length=1.146462585034,},{path="npc/turret_floor/turret_deploy_4.wav",length=1.4860544217687,},{path="npc/turret_floor/turret_deploy_5.wav",length=1.9866666666667,},{path="npc/turret_floor/turret_deploy_6.wav",length=1.5040136054422,},}
 L["pedestal rotating"]={{path="ambient/machines/portalgun_rotate1.wav",length=1.330612244898,},}
 L["while it has been a faithful companion your companion cube cannot accompany you through the rest of the test if it could talk and the enrichment center takes this opportunity to remind you that it cannot it would tell you to go on without it because it would rather die in a fire than become a burden to you"]={{path="vo/aperture_ai/13_part1_endnag-2.wav",length=17.64716553288,},}
-L["youre not going the right way"]={{path="vo/aperture_ai/escape_00_part1_nag07-1.wav",length=2.2997732426304,},}
+L["youre not even going the right way"]={{path="vo/aperture_ai/escape_00_part1_nag07-1.wav",length=2.2997732426304,},}
 L["three slash four cups butter or margarine"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-05.wav",length=2.8908843537415,},}
 L["four large eggs one cup semisweet chocolate chips"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-04.wav",length=4.2260317460317,},}
 L["coming through"]={{path="npc/turret_floor/turret_collide_1.wav",length=1.5786848072562,},{path="npc/turret_floor/turret_collide_2.wav",length=1.1613378684807,},{path="npc/turret_floor/turret_collide_3.wav",length=1.0666666666667,},{path="npc/turret_floor/turret_collide_4.wav",length=1.22,},{path="npc/turret_floor/turret_collide_5.wav",length=0.7866666666667,},}
