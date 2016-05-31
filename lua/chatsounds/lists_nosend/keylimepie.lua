@@ -9,6 +9,7 @@ L["hah gay remix"]={{path="chatsounds/autoadd/keylimepie/hah gay remix.ogg",leng
 L["ice cream is a feeling"]={{path="chatsounds/autoadd/keylimepie/ice cream is a feeling.ogg",length=2.5135600907029478}}
 L["ich mein versteht mich nicht falsch"]={{path="chatsounds/autoadd/keylimepie/ich mein versteht mich nicht falsch.ogg",length=1.223922902494331}}
 L["its a celebration"]={{path="chatsounds/autoadd/keylimepie/its a celebration.ogg",length=2.1754195011337867}}
+L["ja ist doch schoen"]={{path="chatsounds/autoadd/keylimepie/ja ist doch schoen/ja ist doch schoen 1.ogg",length=0.68723356009070291},{path="chatsounds/autoadd/keylimepie/ja ist doch schoen/ja ist doch schoen 2.ogg",length=0.73999999999999999}}
 L["knackich"]={{path="chatsounds/autoadd/keylimepie/knackich/knackich1.ogg",length=0.6897278911564626},{path="chatsounds/autoadd/keylimepie/knackich/knackich2.ogg",length=0.62249433106575969}}
 L["little babys ice cream"]={{path="chatsounds/autoadd/keylimepie/little babys ice cream.ogg",length=1.5615419501133787}}
 L["prism"]={{path="chatsounds/autoadd/keylimepie/prism.ogg",length=0.75011337868480721}}
