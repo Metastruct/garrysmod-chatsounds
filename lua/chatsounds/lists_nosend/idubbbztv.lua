@@ -91,7 +91,9 @@ L["what the f"]={{path="chatsounds/autoadd/idubbbztv/what the f.ogg",length=0.58
 L["whooo"]={{path="chatsounds/autoadd/idubbbztv/whooo.ogg",length=1.0285034013605443}}
 L["why is that his opening line"]={{path="chatsounds/autoadd/idubbbztv/why is that his opening line.ogg",length=1.5614058956916099}}
 L["with a sonachu"]={{path="chatsounds/autoadd/idubbbztv/with a sonachu.ogg",length=0.96124716553287981}}
+L["wot hev you done"]={{path="chatsounds/autoadd/idubbbztv/wot hev you done.ogg",length=1.7350566893424035}}
 L["wow kickstarter really brings out the wierdest in people doesnt it"]={{path="chatsounds/autoadd/idubbbztv/wow kickstarter really brings out the wierdest in people doesnt it.ogg",length=2.9096598639455782}}
+L["you killed john centa"]={{path="chatsounds/autoadd/idubbbztv/you killed john centa.ogg",length=2.3690022675736961}}
 L["you wanna fuck with me"]={{path="chatsounds/autoadd/idubbbztv/you wanna fuck with me/you wanna fuck with me1.ogg",length=0.8046938775510204},{path="chatsounds/autoadd/idubbbztv/you wanna fuck with me/you wanna fuck with me2.ogg",length=0.79403628117913827}}
 L["you wanna fuck with me im im jack skellington"]={{path="chatsounds/autoadd/idubbbztv/you wanna fuck with me im im jack skellington.ogg",length=2.6431972789115648}}
 c.EndList()
