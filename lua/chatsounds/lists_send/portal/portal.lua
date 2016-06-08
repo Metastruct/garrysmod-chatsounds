@@ -60,7 +60,7 @@ L["one teaspoon grated orange rhubarb"]={{path="vo/aperture_ai/escape_02_sphere_
 L["you cant hurt me"]={{path="vo/aperture_ai/escape_00_part1_nag06-1.wav",length=1.5258049886621,},}
 L["energy cascades"]={{path="vo/escape/portal_escape_seg01-5.wav",length=8,},}
 L["pain noise you think youre doing some damage two plus two is ten in base four im fine"]={{path="vo/aperture_ai/escape_02_spheredestroy3-01.wav",length=9.4560544217687,},}
-L["fish shaped organic compounds and sediment shaped sediment"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-15.wav",length=5.8978684807256,},}
+L["fish shaped volatile organic compounds and sediment shaped sediment"]={{path="vo/aperture_ai/escape_02_sphere_cakemix-15.wav",length=5.8978684807256,},}
 L["please proceed to the aperture science vital apparatus vent for a replacement"]={{path="vo/aperture_ai/generic_crate_lost-2.wav",length=5.8241950113379,},}
 L["maybe you should marry that thing since you love it so much do you want to marry it well i wont let you how does that feel"]={{path="vo/aperture_ai/escape_02_spherenag1-07.wav",length=6.7626757369615,},}
 L["stop what you are doing and assume the party escort submission position"]={{path="vo/aperture_ai/15_part1_partyreminder-1.wav",length=4.4990022675737,},}

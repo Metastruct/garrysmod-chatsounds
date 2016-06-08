@@ -370,14 +370,14 @@ c.StartList("ep2")
 		},
 	}
 
-	L["once the rocket is in range of the portal well be able to switch on the xenium resonator  "] = {
+	L["once the rocket is in range of the portal well be able to switch on the xenium resonator"] = {
 		{
 			path = "vo/outland_12a/launch/kl_launch_show01.wav",
 			length = 4.5706802721088,
 		},
 	}
 
-	L["plus itll send a homing signal to your hev suit in case you get separated from your car  "] = {
+	L["plus itll send a homing signal to your hev suit in case you get separated from your car"] = {
 		{
 			path = "vo/outland_11a/magtraining/mirt_brief_ports02.wav",
 			length = 4.8144444444444,
@@ -587,7 +587,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["the portals close to opening but dr magnussons sure well be in time to stop it  "] = {
+	L["the portals close to opening but dr magnussons sure well be in time to stop it"] = {
 		{
 			path = "vo/outland_12a/launch/al_launch_portalclose.wav",
 			length = 4.2133333333333,
@@ -685,7 +685,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["and even these are held together by baling wire and duct tape at this point  "] = {
+	L["and even these are held together by baling wire and duct tape at this point"] = {
 		{
 			path = "vo/outland_02/sheckley_theory03.wav",
 			length = 3.3467120181406,
@@ -1952,7 +1952,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["rest of the gangs up north by the old sawmillhere  "] = {
+	L["rest of the gangs up north by the old sawmillhere"] = {
 		{
 			path = "vo/outland_11a/magtraining/mirt_brief_mapquicklook03.wav",
 			length = 3.5956916099773,
@@ -2295,7 +2295,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["gordon and i are more than able to handle this  "] = {
+	L["gordon and i are more than able to handle this"] = {
 		{
 			path = "vo/outland_11a/silo/al_silo_listentokleiner02.wav",
 			length = 2.6880045351474,
@@ -2785,7 +2785,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["i only hope our dreams do not follow them  "] = {
+	L["i only hope our dreams do not follow them"] = {
 		{
 			path = "vo/outland_03_04/tunnels/vort_extract_dreamsdonotfollow02.wav",
 			length = 3.3493424036281,
@@ -4721,7 +4721,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["ill hurry it along magnusson  "] = {
+	L["ill hurry it along magnusson"] = {
 		{
 			path = "vo/outland_11a/silo/kl_silo_berightthere.wav",
 			length = 2.3093424036281,
@@ -5534,7 +5534,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["listen to dr kleiner dad  "] = {
+	L["listen to dr kleiner dad"] = {
 		{
 			path = "vo/outland_11a/silo/al_silo_listentokleiner01.wav",
 			length = 2.4,
@@ -9507,7 +9507,7 @@ c.StartList("ep2")
 		},
 	}
 
-	L["get away  "] = {
+	L["get away"] = {
 		{
 			path = "vo/outland_12a/launch/al_launch_dadgetaway02.wav",
 			length = 1.0077324263039,
