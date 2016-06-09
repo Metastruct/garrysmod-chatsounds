@@ -937,7 +937,7 @@ c.StartList("br")
 		},
 	}
 
-	L["who are you you"] = {
+	L["who are you"] = {
 		{
 			path = "vo/k_lab/br_tele_03.wav",
 			length = 1.0629024943311,
