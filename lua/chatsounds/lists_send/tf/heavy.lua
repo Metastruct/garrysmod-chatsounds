@@ -2694,24 +2694,24 @@ c.StartList("heavy")
 		},
 	}
 	
-	L["heavy is pretty princess"] = {{path = "vo/heavy_fairyprincess01.mp3",}}
-	L["heavy is fairytale come to life"] = {{path = "vo/heavy_fairyprincess02.mp3",}}
-	L["heavy is wishmaking fairy make wish"] = {{path = "vo/heavy_fairyprincess03.mp3",}}
-	L["heavy is made of sugar plums"] = {{path = "vo/heavy_fairyprincess04.mp3",}}
-	L["ooh heavy is drunk"] = {{path = "vo/heavy_fairyprincess05.mp3",}}
-	L["ugh heavy is regretting costume choice"] = {{path = "vo/heavy_fairyprincess06.mp3",}}
-	L["oh this was poor costume choice"] = {{path = "vo/heavy_fairyprincess07.mp3",}}
-	L["did you wish for heavy to kill you wish granted"] = {{path = "vo/heavy_fairyprincess08.mp3",}}
-	L["i am dressed little girl you are still biggest baby"] = {{path = "vo/heavy_fairyprincess09.mp3",}}
-	L["everyone friendship is stupid magic"] = {{path = "vo/heavy_fairyprincess10.mp3",}}
-	L["brush heavys hair brush it"] = {{path = "vo/heavy_fairyprincess11.mp3",}}
-	L["stop laughing at heavy"] = {{path = "vo/heavy_fairyprincess12.mp3",}}
-	L["come closer heavy is little pixie person he will not crush you"] = {{path = "vo/heavy_fairyprincess13.mp3",}}
-	L["tell heavy he is pretty as princess now"] = {{path = "vo/heavy_fairyprincess14.mp3",}}
-	L["pretty little princess is here to kill you"] = {{path = "vo/heavy_fairyprincess15.mp3",}}
-	L["heavy is anastasia russian princess is serious historical costume"] = {{path = "vo/heavy_fairyprincess16.mp3",}}
-	L["russian tooth fairy has come for all your teeth"] = {{path = "vo/heavy_fairyprincess17.mp3",}}
-	L["give teeth to russian tooth fairy those are the peoples teeth for all to share"] = {{path = "vo/heavy_fairyprincess18.mp3",}}
-	L["russian tooth fairy has come for all your teeth aahaha"] = {{path = "vo/heavy_fairyprincess19.mp3",}}
+	L["pretty little princess is here to kill you"]={{path="vo/heavy_fairyprincess15.mp3",length=3.4481632653061}}
+	L["oh this was poor costume choice"]={{path="vo/heavy_fairyprincess07.mp3",length=4.1795918367347}}
+	L["tell heavy he is pretty as princess now"]={{path="vo/heavy_fairyprincess14.mp3",length=5.1983673469388}}
+	L["i am dressed little girl you are still biggest baby"]={{path="vo/heavy_fairyprincess09.mp3",length=5.12}}
+	L["stop laughing at heavy"]={{path="vo/heavy_fairyprincess12.mp3",length=1.7763265306122}}
+	L["give teeth to russian tooth fairy those are the peoples teeth for all to share"]={{path="vo/heavy_fairyprincess18.mp3",length=6.3477551020408}}
+	L["everyone friendship is stupid magic"]={{path="vo/heavy_fairyprincess10.mp3",length=3.970612244898}}
+	L["russian tooth fairy has come for all your teeth aahaha"]={{path="vo/heavy_fairyprincess19.mp3",length=7.1575510204082}}
+	L["russian tooth fairy has come for all your teeth"]={{path="vo/heavy_fairyprincess17.mp3",length=3.7877551020408}}
+	L["brush heavys hair brush it"]={{path="vo/heavy_fairyprincess11.mp3",length=3.5265306122449}}
+	L["come closer heavy is little pixie person he will not crush you"]={{path="vo/heavy_fairyprincess13.mp3",length=5.9036734693878}}
+	L["heavy is anastasia russian princess is serious historical costume"]={{path="vo/heavy_fairyprincess16.mp3",length=7.8367346938776}}
+	L["heavy is fairytale come to life"]={{path="vo/heavy_fairyprincess02.mp3",length=3.970612244898}}
+	L["did you wish for heavy to kill you wish granted"]={{path="vo/heavy_fairyprincess08.mp3",length=5.5118367346939}}
+	L["heavy is wishmaking fairy make wish"]={{path="vo/heavy_fairyprincess03.mp3",length=3.970612244898}}
+	L["heavy is pretty princess"]={{path="vo/heavy_fairyprincess01.mp3",length=4.0489795918367}}
+	L["ugh heavy is regretting costume choice"]={{path="vo/heavy_fairyprincess06.mp3",length=4.3624489795918}}
+	L["heavy is made of sugar plums"]={{path="vo/heavy_fairyprincess04.mp3",length=3.134693877551}}
+	L["ooh heavy is drunk"]={{path="vo/heavy_fairyprincess05.mp3",length=2.8995918367347}}
 	
 c.EndList()
