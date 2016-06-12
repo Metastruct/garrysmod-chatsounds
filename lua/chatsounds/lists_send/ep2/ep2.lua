@@ -260,7 +260,7 @@ L["freeman go now"]={{path="vo/outland_01/intro/vort_separation_nag02.wav",lengt
 L["freeman striders are coming"]={{path="vo/outland_11a/magtraining/mag_tutor_darelaunch01.wav",length=2.2933106422424}}
 L["freeman the entrance to the mines is just ahead"]={{path="vo/outland_01/intro/vort_separation_leave01.wav",length=4.362154006958}}
 L["freeman we cannot proceed while the guardian yet lives"]={{path="vo/outland_05/canyon/vort_guard_killit_nag_02.wav",length=4.0534920692444}}
-L["freeman will to the hard work"]={{path="vo/outland_12/reb1_prepare_battle_10.wav",length=2.2186849117279}}
+L["freeman will do the hard work"]={{path="vo/outland_12/reb1_prepare_battle_10.wav",length=2.2186849117279}}
 L["freeman you dispatched those guards with great dispatch"]={{path="vo/outland_05/canyon/vort_guard_welldone02.wav",length=5.1626076698303}}
 L["freeman you must attend to the antlions"]={{path="vo/outland_01/intro/vort_separation_nag01.wav",length=4.0537643432617}}
 L["from judith"]={{path="vo/outland_11a/silo/eli_silo_fromjudith02.wav",length=1.0985940694809}}
@@ -323,6 +323,7 @@ L["gordon wait for me"]={{path="vo/npc/alyx/al_car_runafter05.wav",length=1.7069
 L["gordon we can take these"]={{path="vo/outland_06a/radio/al_rad_takethese.wav",length=1.8133333921432}}
 L["gordon we should get going"]={{path="vo/npc/alyx/al_radar_getgoing01.wav",length=1.7621542215347}}
 L["gordon you notice anything wrong"]={{path="vo/npc/alyx/al_car_rolled06.wav",length=3.6945352554321}}
+L["gordon "]={{path="vo/outland_08/chopper/al_chop_cache01.wav",length=0.77333333333333}}
 L["got some supplies over here if you need em health and ammo that sort of thing"]={{path="vo/outland_02/sheckley_somesupplies.wav",length=4.5723581314087}}
 L["got to watch all the tunnels freeman"]={{path="vo/outland_02/griggs_watchall.wav",length=2.2613377571106}}
 L["great driving gordon"]={{path="vo/outland_06/bridge/al_bridge_gooddrive.wav",length=2.3040134906769}}
