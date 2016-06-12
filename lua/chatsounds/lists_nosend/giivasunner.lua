@@ -8,7 +8,7 @@ L["high quality video game rips"]={{path="chatsounds/autoadd/giivasunner/high qu
 L["i dare you to find him if you can"]={{path="chatsounds/autoadd/giivasunner/i dare you to find him if you can.ogg",length=1.6277324263038548}}
 L["i only upload high quality video game rips"]={{path="chatsounds/autoadd/giivasunner/i only upload high quality video game rips.ogg",length=3.6748979591836735}}
 L["no loss of quality"]={{path="chatsounds/autoadd/giivasunner/no loss of quality.ogg",length=1.6003628117913833}}
-L["op"]={{path="chatsounds/autoadd/giivasunner/op.ogg",length=0.40621315192743762}}
+L["op"]={{path="chatsounds/autoadd/giivasunner/op.ogg",length=0.61968253968253972}}
 L["please read the channel description"]={{path="chatsounds/autoadd/giivasunner/please read the channel description.ogg",length=1.8575283446712019}}
 L["the world calls for high quality rips and we answer"]={{path="chatsounds/autoadd/giivasunner/the world calls for high quality rips and we answer.ogg",length=3.7341723356009071}}
 L["toby fox and i have taken over bedrock town"]={{path="chatsounds/autoadd/giivasunner/toby fox and i have taken over bedrock town.ogg",length=2.8560544217687074}}
