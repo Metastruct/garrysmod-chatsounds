@@ -123,7 +123,7 @@ L["damn its jammed okay ive got an idea head back to that office"]={{path="vo/no
 L["did you ever"]={{path="vo/outland_11a/silo/al_silo_whatif.wav",length=1.3280045351474}}
 L["did you hear that"]={{path="vo/outland_01/intro/al_rbed_didyouhear.wav",length=0.94934240362812}}
 L["dieing"]={{path="vo/citadel/al_dienow.wav",length=0.30759637188209}}
-L["disable that turret then i can work on shutting down the force field"]={{path="vo/outland_10/olde-inne/al_ambush_turretnag03.wav",length=3.7704081632653}}
+L["disable that turret then i can work on shutting down the forcefield"]={{path="vo/outland_10/olde-inne/al_ambush_turretnag03.wav",length=3.7704081632653}}
 L["do we have any idea how long until the superportals active"]={{path="vo/outland_11a/silo/al_silo_howlongactive01.wav",length=3.0160090702948}}
 L["do you mean the message didnt get through"]={{path="vo/outland_11a/silo/al_silo_message.wav",length=1.6973469387755}}
 L["do you need anything"]={{path="vo/outland_11a/silo/al_silo_doyouneed02.wav",length=1.8215873015873}}
@@ -274,7 +274,7 @@ L["hey i know that peak you can see it from white forest"]={{path="vo/outland_07
 L["hey if you have any blinding insights into how to fix this go for it"]={{path="vo/outland_01/intro/al_rbed_insight.wav",length=4.1280045351474}}
 L["hey im feeling a lot better"]={{path="vo/outland_06/bridge/al_bridge_better.wav",length=3.9253514739229}}
 L["hey it worked lets see what i can do to clear the way for you keep an eye out for mossman ill get my dad through the prison as far as i can then ill catch up with you"]={{path="vo/novaprospekt/al_leapfrog01.wav",length=10.098639455782}}
-L["hey its off again what did you do"]={{path="vo/outland_06a/radio/al_rad_offagain.wav",length=2.7306802721088}}
+L["hey its off again whatd you do"]={{path="vo/outland_06a/radio/al_rad_offagain.wav",length=2.7306802721088}}
 L["hey listen"]={{path="vo/citadel/al_heylisten.wav",length=0.99526077097506}}
 L["hey look"]={{path="vo/outland_06/bridge/al_bridge_lookcar01.wav",length=0.91734693877551}}
 L["hey look what he left behind"]={{path="vo/citadel/al_lookwhatheleft.wav",length=2.803537414966}}
@@ -480,7 +480,7 @@ L["look out below"]={{path="vo/outland_10/olde-inne/al_ambush_jump02.wav",length
 L["look the bridge"]={{path="vo/outland_01/intro/al_rbed_lookbridge.wav",length=1.5093424036281}}
 L["looks like its about halfway there"]={{path="vo/novaprospekt/al_halfway.wav",length=1.8060090702948}}
 L["looks like the elevators stuck up there"]={{path="vo/outland_05/canyon/al_guard_stucklift01.wav",length=2.6453514739229}}
-L["looks like we can get into the mines thru here if we could just get this gate open"]={{path="vo/outland_01/intro/al_rbed_gatenags04.wav",length=5.0747845804989}}
+L["looks like we can get into the mines through here if we could just get this gate open"]={{path="vo/outland_01/intro/al_rbed_gatenags04.wav",length=5.0747845804989}}
 L["looks like we might be able to get through down there"]={{path="vo/streetwar/alyx_gate/al_thrudownthere.wav",length=2.4079818594104}}
 L["looks like we need your help again"]={{path="vo/outland_11/dogfight/al_str_helpagain.wav",length=1.8240136054422}}
 L["looks like we werent the first to find this place"]={{path="vo/outland_07/barn/al_barn_body02.wav",length=2.44}}
@@ -605,7 +605,7 @@ L["shhh quiet were not alone"]={{path="vo/outland_01/intro/al_rbed_notalone.wav"
 L["shotgun"]={{path="vo/outland_06/bridge/al_bridge_shotgun.wav",length=1.24}}
 L["should have known it wouldnt be as easy as just driving down the road looks like well have to take a detour"]={{path="vo/outland_06a/radio/al_rad_roadsout.wav",length=6.4426757369615}}
 L["shut up and be glad youre still some use to us"]={{path="vo/novaprospekt/al_shutupandbeglad01.wav",length=3.0770294784581}}
-L["since i cant help you in there why dont i stand watch outside while you disable the powercell"]={{path="vo/outland_10/olde-inne/al_ambush_fried02.wav",length=4.6505442176871}}
+L["since i cant help you in there why dont i stand watch outside while you disable the power cell"]={{path="vo/outland_10/olde-inne/al_ambush_fried02.wav",length=4.6505442176871}}
 L["so here we are the scrapyard"]={{path="vo/eli_lab/al_scrapyard.wav",length=2.7033106575964}}
 L["so i see youve met dr mossman shes one of the main reasons i spend so much time outside"]={{path="vo/eli_lab/al_metmossman01.wav",length=6.0407709750567}}
 L["so that"]={{path="vo/outland_01/intro/al_transmit_grabbed04.wav",length=0.77333333333333}}
@@ -615,7 +615,7 @@ L["so youve warmed it up for us good and just in time"]={{path="vo/novaprospekt/
 L["soldiers"]={{path="vo/outland_07/barn/al_barn_soldiers01.wav",length=0.92947845804989}}
 L["some things never change"]={{path="vo/outland_11a/silo/al_silo_somethings.wav",length=2.3333333333333}}
 L["somebody must have done something to piss it off"]={{path="vo/outland_05/canyon/al_canyon_pissitoff03.wav",length=4.4373469387755}}
-L["someones gotta bring down that chopper"]={{path="vo/outland_08/chopper/al_chop_nags02.wav",length=2.2613378684807}}
+L["someones got to bring down that chopper"]={{path="vo/outland_08/chopper/al_chop_nags02.wav",length=2.2613378684807}}
 L["sorry about this"]={{path="vo/outland_07/barn/al_barn_sorry01.wav",length=1.5502721088435}}
 L["sorry it took me so long"]={{path="vo/novaprospekt/al_sorrytooksolong.wav",length=1.6658276643991}}
 L["sorry to take so long gordon looks like you could have used some help i wont leave you again though now lets track down mossman"]={{path="vo/novaprospekt/al_sorrysolong.wav",length=8.8504988662132}}
@@ -648,7 +648,7 @@ L["thanks leon gordon i havent driven the coast road in over a year but i have n
 L["that did the trick"]={{path="vo/outland_01/intro/al_rbed_didtrick.wav",length=1.0853287981859}}
 L["that doesnt sound good"]={{path="vo/outland_11/dogfight/al_str_soundgood.wav",length=2.6145351473923}}
 L["that mustve been the crash we heard"]={{path="vo/outland_11/dogfight/al_str_dropship03.wav",length=1.8613378684807}}
-L["that shouldve done it lets go see if the force fields down"]={{path="vo/outland_10/olde-inne/al_ambush_seefielddown.wav",length=3.2214285714286}}
+L["that shouldve done it lets go see if the forcefields down"]={{path="vo/outland_10/olde-inne/al_ambush_seefielddown.wav",length=3.2214285714286}}
 L["that sounds like"]={{path="vo/outland_11/dogfight/al_str_soundslikedog02.wav",length=1.1146712018141}}
 L["that thing was hurt did you see it"]={{path="vo/outland_07/barn/al_barn_adv_didyouseeituhoh01.wav",length=1.8944444444444}}
 L["that was a guardian"]={{path="vo/outland_05/canyon/al_canyon_pissitoff02.wav",length=1.5546712018141}}
