@@ -98,7 +98,7 @@ L["hold it"]={{path="npc/metropolice/vo/holdit.wav",length=0.28553287981859}}
 L["hold it right there"]={{path="npc/metropolice/vo/holditrightthere.wav",length=0.90560090702948}}
 L["holding on at code"]={{path="npc/metropolice/vo/holdingon10-14duty.wav",length=1.8696825396825}}
 L["i got one accomplice here"]={{path="npc/metropolice/vo/gotoneaccomplicehere.wav",length=1.149410430839}}
-L["i have a failure to comply with loyalty check possible3m"]={{path="npc/metropolice/vo/loyaltycheckfailure.wav",length=4.5708390022676}}
+L["i have a failure to comply with loyalty check possible 10103m"]={{path="npc/metropolice/vo/loyaltycheckfailure.wav",length=4.5708390022676}}
 L["i have a level violator here"]={{path="npc/metropolice/vo/level3civilprivacyviolator.wav",length=2.2889342403628}}
 L["i have a match on apb likeness"]={{path="npc/metropolice/vo/matchonapblikeness.wav",length=1.6834693877551}}
 L["i have a priority here"]={{path="npc/metropolice/vo/priority2anticitizenhere.wav",length=1.7182993197279}}
