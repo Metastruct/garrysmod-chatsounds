@@ -487,7 +487,7 @@ L["looks like we werent the first to find this place"]={{path="vo/outland_07/bar
 L["make a break for the thumper gordon ill follow you"]={{path="vo/outland_05/canyon/al_guard_keepmoving03.wav",length=3.7440136054422}}
 L["man of few words arent you"]={{path="vo/novaprospekt/al_elevator02.wav",length=2.1924489795918}}
 L["maybe i can get this open"]={{path="vo/outland_07/barn/al_barn_noplug02.wav",length=1.6986848072562}}
-L["maybe while im getting the car fixed up you can see about clearing up that road block"]={{path="vo/outland_08/chopper/al_chop_clearup03.wav",length=4.0746712018141}}
+L["maybe while im getting the car fixed up you can see about clearing up that roadblock"]={{path="vo/outland_08/chopper/al_chop_clearup03.wav",length=4.0746712018141}}
 L["maybe you can find a way to get this gate open"]={{path="vo/outland_01/intro/al_rbed_gatenags03.wav",length=2.4296145124717}}
 L["meanwhile lets get this show on the road"]={{path="vo/k_lab/al_showonroad.wav",length=2.0148526077098}}
 L["mind getting the car gordon"]={{path="vo/outland_11/dogfight/al_str_carnag03.wav",length=1.4642176870748}}
