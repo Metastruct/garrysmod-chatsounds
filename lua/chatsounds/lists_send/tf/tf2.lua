@@ -1,5 +1,4 @@
 c.StartList("tf2")
-L["!l epoe.AddSub(this)"]={{path="vo/spy_mvm_loot_common03.mp3",length=0.9926530612245}}
 L["a little of the ol chopchop"]={{path="vo/sniper_specialcompleted09.mp3",length=1.4106122255325}}
 L["a real texan wouldve dodged that"]={{path="vo/engineer_dominationengineer03.mp3",length=2.5132200717926}}
 L["a spy"]={{path="vo/heavy_cloakedspy03.mp3",length=0.81560093164444}}
