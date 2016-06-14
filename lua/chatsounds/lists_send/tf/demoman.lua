@@ -87,7 +87,7 @@ L["ehh thanks"]={{path="vo/demoman_thanks02.mp3",length=1.4744671583176}}
 L["everybody i dont like this man he is a soulless monster i do like you its just for show"]={{path="vo/demoman_dominationsoldierupdate02.mp3",length=2.3314790725708}}
 L["excited drunken babble"]={{path="vo/demoman_battlecry06.mp3",length=2.7167346938776}}
 L["eye for an eye wizard man ill chew the eyeballs right out of your skull"]={{path="vo/demoman_sf12_seeking08.mp3",length=5.4857142857143}}
-L["fire"]={{path="vo/pyro_autoonfire02.mp3",length=0.99868482351303},{path="vo/medic_autoonfire02.mp3",length=0.9665306122449},{path="vo/demoman_autoonfire03.mp3",length=2.1826757369615}}
+L["fire"]={{path="vo/demoman_autoonfire03.mp3",length=2.1826757369615}}
 L["fire fire fire"]={{path="vo/demoman_autoonfire01.mp3",length=2.0433560090703}}
 L["freedom"]={{path="vo/demoman_mvm_resurrect06.mp3",length=2.0114285714286},{path="vo/demoman_battlecry01.mp3",length=1.6892517006803}}
 L["freedom to roll a wheelchair to hell"]={{path="vo/demoman_sf13_round_start01.mp3",length=5.0155102040816}}
@@ -95,7 +95,7 @@ L["get em"]={{path="vo/demoman_battlecry03.mp3",length=2.2639455782313}}
 L["get em boyos"]={{path="vo/demoman_battlecry03.mp3",length=2.2639455795288}}
 L["get over here and help me defend ya idiot"]={{path="vo/demoman_helpmedefend03.mp3",length=3.5062131519274}}
 L["get over here and help me defend you idiot"]={{path="vo/demoman_helpmedefend03.mp3",length=3.5062131881714}}
-L["get to the cart"]={{path="vo/spy_cartstaycloseoffense02.mp3",length=1.28},{path="vo/spy_cartstaycloseoffense01.mp3",length=1.410612244898},{path="vo/soldier_cartstopitdefense02.mp3",length=1.0187755102041},{path="vo/soldier_cartstaycloseoffense01.mp3",length=1.3322448979592},{path="vo/demoman_cartstaycloseoffense01.mp3",length=1.4889795918367},{path="vo/announcer_am_gamestarting01.mp3",length=2.8995918367347}}
+L["get to the cart"]={{path="vo/demoman_cartstaycloseoffense01.mp3",length=1.4889795918367}}
 L["gibberish"]={{path="vo/demoman_gibberish10.mp3",length=5.8982086181641},{path="vo/demoman_gibberish08.mp3",length=4.0950113378685}}
 L["gibberish burp"]={{path="vo/demoman_gibberish02.mp3",length=3.7707482993197}}
 L["gibberish burp gibberish"]={{path="vo/demoman_gibberish10.mp3",length=5.89820861678}}
@@ -110,7 +110,7 @@ L["give us a hand here with this point"]={{path="vo/demoman_helpmecapture01.mp3"
 L["go"]={{path="vo/demoman_go01.mp3",length=0.46149659863946}}
 L["go home lassie men are fightin here"]={{path="vo/demoman_dominationpyro02.mp3",length=3.7434467120181}}
 L["go home lassie men are fighting here"]={{path="vo/demoman_dominationpyro02.mp3",length=3.7434468269348}}
-L["go left"]={{path="vo/medic_headleft02.mp3",length=0.8359183673469},{path="vo/demoman_headleft02.mp3",length=0.6443537414966}}
+L["go left"]={{path="vo/demoman_headleft02.mp3",length=0.6443537414966}}
 L["go on an build more of yer little guns ill shove every one of them up yer arse"]={{path="vo/demoman_dominationengineer05.mp3",length=4.9373469387755}}
 L["go on and build more of your little guns ill shove every one of them up your arse"]={{path="vo/demoman_dominationengineer05.mp3",length=4.9373469352722}}
 L["go on then doc"]={{path="vo/demoman_activatecharge03.mp3",length=0.80108843537415}}
@@ -131,7 +131,7 @@ L["have at em lads"]={{path="vo/demoman_battlecry02.mp3",length=2.5541950113379}
 L["have at them lads"]={{path="vo/demoman_battlecry02.mp3",length=2.5541949272156}}
 L["head left"]={{path="vo/demoman_headleft01.mp3",length=0.6487074829932}}
 L["head right"]={{path="vo/demoman_headright01.mp3",length=0.63709750566893}}
-L["help"]={{path="vo/medic_helpme01.mp3",length=0.705306122449},{path="vo/demoman_helpme01.mp3",length=0.74739229024943}}
+L["help"]={{path="vo/demoman_helpme01.mp3",length=0.74739229024943}}
 L["help me"]={{path="vo/demoman_helpme02.mp3",length=0.91718820861678}}
 L["help me capture this bloody thing"]={{path="vo/demoman_helpmecapture02.mp3",length=2.2349206349206}}
 L["hey private haircut i mighta taken a wee bit too much off yer head"]={{path="vo/demoman_dominationsoldier03.mp3",length=5.11820861678}}
@@ -167,7 +167,7 @@ L["if you were huntin trouble lad you found it"]={{path="vo/demoman_dominationen
 L["ill notify yer next of kin that ya sucked"]={{path="vo/demoman_dominationsoldier02.mp3",length=4.3438548752834}}
 L["ill notify your next of kin that you sucked"]={{path="vo/demoman_dominationsoldier02.mp3",length=4.3438549041748}}
 L["ill rest when im dead"]={{path="vo/demoman_mvm_resurrect05.mp3",length=1.5934693877551}}
-L["im back"]={{path="vo/spy_mvm_resurrect03.mp3",length=1.0710204081633},{path="vo/medic_mvm_resurrect03.mp3",length=1.7502040816327},{path="vo/heavy_mvm_resurrect04.mp3",length=1.7502040816327},{path="vo/demoman_mvm_resurrect01.mp3",length=1.4367346938776}}
+L["im back"]={{path="vo/demoman_mvm_resurrect01.mp3",length=1.4367346938776}}
 L["im back lads"]={{path="vo/demoman_mvm_resurrect11.mp3",length=1.5934693877551}}
 L["im burnin"]={{path="vo/demoman_autoonfire02.mp3",length=1.3293424036281}}
 L["im drunk you dont have an excuse"]={{path="vo/demoman_jeers03.mp3",length=3.6223129251701}}
@@ -178,7 +178,7 @@ L["im gonna stick me thumbs in yer eyes and hang on til yer dead"]={{path="vo/ta
 L["imagine if i hadnt been drunk"]={{path="vo/demoman_cheers03.mp3",length=3.4713832199546}}
 L["imagine if id hadnt been drunk hehheh ahhehheh"]={{path="vo/demoman_cheers03.mp3",length=3.4713833332062}}
 L["in your language eat lead laddies"]={{path="vo/taunts/demoman_taunts15.mp3",length=2.9605442176871}}
-L["incoming"]={{path="vo/spy_incoming03.mp3",length=0.7836734693878},{path="vo/spy_incoming02.mp3",length=0.6008163265306},{path="vo/sniper_incoming04.mp3",length=0.7314285714286},{path="vo/sniper_incoming03.mp3",length=1.28},{path="vo/sniper_incoming01.mp3",length=1.3844897959184},{path="vo/scout_incoming03.mp3",length=0.8359183673469},{path="vo/pyro_incoming01.mp3",length=1.5151020408163},{path="vo/medic_incoming03.mp3",length=0.7836734693878},{path="vo/medic_incoming02.mp3",length=1.2016326530612},{path="vo/medic_incoming01.mp3",length=0.9142857142857},{path="vo/heavy_incoming03.mp3",length=2.5338775510204},{path="vo/heavy_incoming02.mp3",length=1.3235374689102},{path="vo/heavy_incoming01.mp3",length=1.0971428571429},{path="vo/engineer_incoming03.mp3",length=0.7836734693878},{path="vo/engineer_incoming02.mp3",length=0.7575510204082},{path="vo/demoman_incoming03.mp3",length=1.1319727891156},{path="vo/demoman_incoming02.mp3",length=1.0187755102041},{path="vo/demoman_incoming01.mp3",length=0.9404081632653}}
+L["incoming"]={{path="vo/demoman_incoming03.mp3",length=1.1319727891156},{path="vo/demoman_incoming02.mp3",length=1.0187755102041},{path="vo/demoman_incoming01.mp3",length=0.9404081632653}}
 L["it is the dominatening"]={{path="vo/demoman_dominationdemoman03.mp3",length=2.8789115646259}}
 L["it is the dominationing"]={{path="vo/demoman_dominationdemoman03.mp3",length=2.8789114952087}}
 L["its a fine thing lads"]={{path="vo/demoman_cheers08.mp3",length=2.1884807256236}}
@@ -202,7 +202,7 @@ L["little too much cabertossing pie down your own throat eh chubby"]={{path="vo/
 L["long laugh"]={{path="vo/demoman_laughlong01.mp3",length=5.2244897959184}}
 L["lot of good that soldier training did ya im drunk"]={{path="vo/demoman_dominationsoldier05.mp3",length=4.5135145187378}}
 L["lotta good that soldier trainin did ya im drunk"]={{path="vo/demoman_dominationsoldier05.mp3",length=4.513514739229}}
-L["medic"]={{path="vo/soldier_medic02.mp3",length=0.9404081632653},{path="vo/soldier_medic01.mp3",length=0.8881632653061},{path="vo/sniper_medic02.mp3",length=0.7314285714286},{path="vo/scout_medic02.mp3",length=0.64435374736786},{path="vo/scout_medic01.mp3",length=0.63564628362656},{path="vo/pyro_medic01.mp3",length=0.68000000715256},{path="vo/medic_medic03.mp3",length=1.5238095521927},{path="vo/medic_medic02.mp3",length=0.72852605581284},{path="vo/medic2.mp3",length=0.8620408163265},{path="vo/medic1.mp3",length=1.0971428571429},{path="vo/heavy_medic01.mp3",length=0.84462583065033},{path="vo/engineer_medic03.mp3",length=0.91428571939468},{path="vo/engineer_medic02.mp3",length=0.67047619819641},{path="vo/demoman_medic03.mp3",length=1.7182766439909},{path="vo/demoman_medic02.mp3",length=0.90557825565338},{path="vo/demoman_medic01.mp3",length=0.91718822717667}}
+L["medic"]={{path="vo/demoman_medic03.mp3",length=1.7182766439909},{path="vo/demoman_medic02.mp3",length=0.90557825565338},{path="vo/demoman_medic01.mp3",length=0.91718822717667}}
 L["merasmus i got your nickle give me back my i"]={{path="vo/demoman_sf12_seeking06.mp3",length=5.9036734693878}}
 L["merasmus weve got unfinished business you an i and by god ill see it settled"]={{path="vo/demoman_sf12_seeking03.mp3",length=9.9004081632653}}
 L["mind the cart lads"]={{path="vo/demoman_cartgoingbackoffense03.mp3",length=2.0636734693878}}
@@ -214,7 +214,7 @@ L["move the gear up lads"]={{path="vo/demoman_moveup01.mp3",length=1.66603174603
 L["mush lads"]={{path="vo/demoman_cartgoingforwardoffense05.mp3",length=1.5673469387755}}
 L["my greatest enemy is dead we should be friends forever eh"]={{path="vo/demoman_dominationsoldierupdate06.mp3",length=2.0753333568573}}
 L["nah"]={{path="vo/demoman_no02.mp3",length=0.64580498866213}}
-L["need a dispenser here"]={{path="vo/scout_needdispenser01.mp3",length=1.1639002561569},{path="vo/pyro_needdispenser01.mp3",length=1.28},{path="vo/demoman_needdispenser01.mp3",length=1.7879365079365}}
+L["need a dispenser here"]={{path="vo/demoman_needdispenser01.mp3",length=1.7879365079365}}
 L["need a sentry here"]={{path="vo/demoman_needsentry01.mp3",length=1.5092970521542}}
 L["need a teleporter here"]={{path="vo/demoman_needteleporter01.mp3",length=2.0259410430839}}
 L["next time youll bloody ask before ya stand on my point"]={{path="vo/demoman_specialcompleted06.mp3",length=3.9241723356009}}
@@ -238,14 +238,14 @@ L["ohhh im gonna liquefy ya"]={{path="vo/taunts/demoman_taunts13.mp3",length=3.8
 L["ohhh ive really hit rock bottom"]={{path="vo/demoman_jeers06.mp3",length=3.4713832199546}}
 L["ohhh ive really hit rockbottom"]={{path="vo/demoman_jeers06.mp3",length=3.4713833332062}}
 L["ooh that smarts"]={{path="vo/demoman_painsharp07.mp3",length=1.4193197278912}}
-L["paincriticaldeath"]={{path="vo/spy_painsevere05.mp3",length=0.6791836734694},{path="vo/spy_painsevere04.mp3",length=0.7575510204082},{path="vo/spy_paincrticialdeath03.mp3",length=1.7763265306122},{path="vo/soldier_paincrticialdeath04.mp3",length=2.429387755102},{path="vo/soldier_paincrticialdeath03.mp3",length=2.7167346938776},{path="vo/soldier_paincrticialdeath02.mp3",length=2.6122448979592},{path="vo/soldier_paincrticialdeath01.mp3",length=2.2987755102041},{path="vo/pyro_paincrticialdeath03.mp3",length=2.6122448979592},{path="vo/pyro_paincrticialdeath02.mp3",length=1.6718367346939},{path="vo/medic_paincrticialdeath04.mp3",length=2.9518367346939},{path="vo/medic_paincrticialdeath03.mp3",length=2.0375510204082},{path="vo/medic_paincrticialdeath02.mp3",length=1.9069387755102},{path="vo/medic_paincrticialdeath01.mp3",length=1.4628571428571},{path="vo/heavy_paincrticialdeath02.mp3",length=2.2726530612245},{path="vo/heavy_paincrticialdeath01.mp3",length=2.1942857142857},{path="vo/engineer_paincrticialdeath04.mp3",length=1.28},{path="vo/engineer_paincrticialdeath03.mp3",length=1.3844897959184},{path="vo/engineer_paincrticialdeath02.mp3",length=1.7502040816327},{path="vo/demoman_paincrticialdeath05.mp3",length=2.429387755102},{path="vo/demoman_paincrticialdeath04.mp3",length=1.6979591836735},{path="vo/demoman_paincrticialdeath03.mp3",length=1.9069387755102},{path="vo/demoman_paincrticialdeath02.mp3",length=2.1942857142857},{path="vo/demoman_paincrticialdeath01.mp3",length=2.1420408163265}}
-L["painsevere"]={{path="vo/soldier_painsevere04.mp3",length=1.0187755102041},{path="vo/pyro_painsevere06.mp3",length=0.8359183673469},{path="vo/pyro_painsevere05.mp3",length=1.0710204081633},{path="vo/pyro_painsevere04.mp3",length=1.0187755102041},{path="vo/pyro_painsevere03.mp3",length=0.9404081632653},{path="vo/pyro_painsevere02.mp3",length=1.0710204081633},{path="vo/pyro_painsevere01.mp3",length=0.9665306122449},{path="vo/medic_painsevere03.mp3",length=0.705306122449},{path="vo/medic_painsevere02.mp3",length=0.6530612244898},{path="vo/medic_painsevere01.mp3",length=0.7575510204082},{path="vo/heavy_painsevere03.mp3",length=0.8881632653061},{path="vo/heavy_painsevere02.mp3",length=0.9142857142857},{path="vo/engineer_painsevere07.mp3",length=1.7763265306122},{path="vo/engineer_painsevere06.mp3",length=1.28},{path="vo/engineer_painsevere05.mp3",length=0.8620408163265},{path="vo/engineer_painsevere03.mp3",length=1.0187755102041},{path="vo/engineer_painsevere01.mp3",length=1.8285714285714},{path="vo/demoman_painsevere04.mp3",length=0.8881632653061},{path="vo/demoman_painsevere03.mp3",length=0.8881632653061},{path="vo/demoman_painsevere02.mp3",length=0.8620408163265}}
-L["painsharp"]={{path="vo/spy_painsharp03.mp3",length=0.4702040816327},{path="vo/spy_painsharp02.mp3",length=0.5485714285714},{path="vo/soldier_painsharp06.mp3",length=0.3395918367347},{path="vo/soldier_painsharp02.mp3",length=0.3657142857143},{path="vo/sniper_painsharp01.mp3",length=0.3918367346939},{path="vo/pyro_painsharp07.mp3",length=0.4179591836735},{path="vo/pyro_painsharp06.mp3",length=0.4702040816327},{path="vo/pyro_painsharp05.mp3",length=0.4440816326531},{path="vo/pyro_painsharp04.mp3",length=0.3134693877551},{path="vo/pyro_painsharp03.mp3",length=0.5485714285714},{path="vo/pyro_painsharp02.mp3",length=0.3134693877551},{path="vo/pyro_painsharp01.mp3",length=0.3657142857143},{path="vo/medic_painsharp08.mp3",length=0.4440816326531},{path="vo/medic_painsharp07.mp3",length=0.574693877551},{path="vo/medic_painsharp06.mp3",length=0.4440816326531},{path="vo/medic_painsharp05.mp3",length=0.4702040816327},{path="vo/medic_painsharp03.mp3",length=0.3134693877551},{path="vo/medic_painsharp02.mp3",length=0.4702040816327},{path="vo/medic_painsharp01.mp3",length=0.4440816326531},{path="vo/heavy_painsharp05.mp3",length=0.7575510204082},{path="vo/heavy_painsharp03.mp3",length=0.6530612244898},{path="vo/heavy_painsharp02.mp3",length=0.6008163265306},{path="vo/heavy_painsharp01.mp3",length=0.4179591836735},{path="vo/engineer_painsharp07.mp3",length=0.4440816326531},{path="vo/engineer_painsharp06.mp3",length=0.6008163265306},{path="vo/engineer_painsharp05.mp3",length=0.4702040816327},{path="vo/engineer_painsharp04.mp3",length=0.574693877551},{path="vo/engineer_painsharp03.mp3",length=0.3657142857143},{path="vo/engineer_painsharp02.mp3",length=0.6269387755102},{path="vo/demoman_painsharp05.mp3",length=0.6269387755102},{path="vo/demoman_painsharp04.mp3",length=0.6008163265306},{path="vo/demoman_painsharp02.mp3",length=0.5224489795918},{path="vo/demoman_painsharp01.mp3",length=0.4963265306122}}
+L["paincriticaldeath"]={{path="vo/demoman_paincrticialdeath05.mp3",length=2.429387755102},{path="vo/demoman_paincrticialdeath04.mp3",length=1.6979591836735},{path="vo/demoman_paincrticialdeath03.mp3",length=1.9069387755102},{path="vo/demoman_paincrticialdeath02.mp3",length=2.1942857142857},{path="vo/demoman_paincrticialdeath01.mp3",length=2.1420408163265}}
+L["painsevere"]={{path="vo/demoman_painsevere04.mp3",length=0.8881632653061},{path="vo/demoman_painsevere03.mp3",length=0.8881632653061},{path="vo/demoman_painsevere02.mp3",length=0.8620408163265}}
+L["painsharp"]={{path="vo/demoman_painsharp05.mp3",length=0.6269387755102},{path="vo/demoman_painsharp04.mp3",length=0.6008163265306},{path="vo/demoman_painsharp02.mp3",length=0.5224489795918},{path="vo/demoman_painsharp01.mp3",length=0.4963265306122}}
 L["perfect bloody domination you campy weasel"]={{path="vo/demoman_dominationsniper01.mp3",length=4.2560090702948}}
 L["pure dead brilliant"]={{path="vo/demoman_mvm_loot_rare01.mp3",length=2.0114285714286}}
 L["push lads"]={{path="vo/demoman_cartgoingforwardoffense04.mp3",length=1.5151020408163}}
 L["put your backs into it lads"]={{path="vo/demoman_cartgoingforwardoffense02.mp3",length=2.2726530612245}}
-L["puush"]={{path="vo/medic_cartgoingforwardoffense02.mp3",length=1.3061224489796},{path="vo/demoman_cartgoingforwardoffense03.mp3",length=1.0710204081633}}
+L["puush"]={{path="vo/demoman_cartgoingforwardoffense03.mp3",length=1.0710204081633}}
 L["robots are takin the gate lads"]={{path="vo/demoman_mvm_mannhattan_gate_atk03.mp3",length=2.690612244898}}
 L["robots at the gate"]={{path="vo/demoman_mvm_mannhattan_gate_atk02.mp3",length=2.0636734693878}}
 L["roll back to hell ya bloody cart"]={{path="vo/demoman_cartgoingbackdefense01.mp3",length=3.1085714285714}}
@@ -268,11 +268,11 @@ L["stop that cart lads"]={{path="vo/demoman_cartgoingforwarddefense02.mp3",lengt
 L["textless"]={{path="vo/demoman_painsharp03.mp3",length=0.88235827664399}}
 L["thank ya doctor"]={{path="vo/demoman_thanksfortheheal02.mp3",length=1.012970521542}}
 L["thankfully i already dont remember this"]={{path="vo/demoman_jeers07.mp3",length=2.7457596371882}}
-L["thanks"]={{path="vo/soldier_thanksfortheteleporter01.mp3",length=0.705306122449},{path="vo/soldier_thanks02.mp3",length=0.71401357650757},{path="vo/soldier_thanks01.mp3",length=0.62693876028061},{path="vo/sniper_thanks01.mp3",length=0.5659863948822},{path="vo/scout_thanks01.mp3",length=0.81560093164444},{path="vo/medic_thanks01.mp3",length=0.90557825565338},{path="vo/heavy_thanks03.mp3",length=0.96027213335037},{path="vo/heavy_thanks01.mp3",length=1.0071655511856},{path="vo/demoman_thanks01.mp3",length=0.92299318313599}}
+L["thanks"]={{path="vo/demoman_thanks01.mp3",length=0.92299318313599}}
 L["thanks doc"]={{path="vo/demoman_thanksfortheheal03.mp3",length=0.92589569160998}}
 L["thanks fer tha ride"]={{path="vo/demoman_thanksfortheteleporter01.mp3",length=1.3960997732426}}
 L["thanks lad"]={{path="vo/demoman_thanksfortheteleporter02.mp3",length=0.9752380952381}}
-L["thanks mate"]={{path="vo/sniper_thanksfortheheal01.mp3",length=0.705306122449},{path="vo/sniper_specialcompleted-assistedkill01.mp3",length=0.6008163265306},{path="vo/demoman_thanks01.mp3",length=0.92299319727891}}
+L["thanks mate"]={{path="vo/demoman_thanks01.mp3",length=0.92299319727891}}
 L["that demos a bloody spy"]={{path="vo/demoman_cloakedspyidentify04.mp3",length=2.1768707482993}}
 L["that engineers a bloody spy"]={{path="vo/demoman_cloakedspyidentify07.mp3",length=2.9721541950113}}
 L["that heavys a bloody spy"]={{path="vo/demoman_cloakedspyidentify03.mp3",length=2.3219954648526}}
@@ -324,7 +324,7 @@ L["well allright"]={{path="vo/demoman_positivevocalization02.mp3",length=1.89823
 L["well alright"]={{path="vo/demoman_positivevocalization02.mp3",length=1.8982312679291}}
 L["were a sorry bunch a losers"]={{path="vo/demoman_jeers11.mp3",length=3.3436734693878}}
 L["were a sorry bunch of losers"]={{path="vo/demoman_jeers11.mp3",length=3.3436734676361}}
-L["what did i miss"]={{path="vo/spy_mvm_resurrect08.mp3",length=1.1755102040816},{path="vo/demoman_mvm_resurrect02.mp3",length=1.0448979591837}}
+L["what did i miss"]={{path="vo/demoman_mvm_resurrect02.mp3",length=1.0448979591837}}
 L["wizard ya turn me own eye against me an by god ill kill ya for it"]={{path="vo/demoman_sf12_seeking07.mp3",length=7.4971428571429}}
 L["wuhbluhbluhbluh"]={{path="vo/demoman_mvm_resurrect09.mp3",length=1.2538775510204}}
 L["ya appear to have trodden on a mine"]={{path="vo/demoman_specialcompleted03.mp3",length=2.867664399093}}
