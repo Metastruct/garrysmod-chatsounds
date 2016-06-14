@@ -19,7 +19,7 @@ L["another bomb"]={{path="vo/soldier_mvm_bomb_see03.mp3",length=1.279387755102}}
 L["are you all tryin for a section eight"]={{path="vo/soldier_jeers03.mp3",length=2.1014058956916}}
 L["are you all trying for a section8"]={{path="vo/soldier_jeers03.mp3",length=2.1014058589935}}
 L["attack"]={{path="vo/soldier_battlecry05.mp3",length=1.5151020408163}}
-L["attention"]={{path="vo/soldier_mvm_resurrect02.mp3",length=1.410612244898},{path="vo/announcer_attention.mp3",length=1.6730386018753}}
+L["attention"]={{path="vo/soldier_mvm_resurrect02.mp3",length=1.410612244898}}
 L["augh no"]={{path="vo/soldier_negativevocalization04.mp3",length=1.3322448730469}}
 L["aw yeah"]={{path="vo/soldier_positivevocalization02.mp3",length=0.64725623582766}}
 L["aww am i too violent for ya cupcake"]={{path="vo/soldier_dominationsniper12.mp3",length=2.7121315192744}}
@@ -118,7 +118,7 @@ L["fire fire fire"]={{path="vo/soldier_autoonfire01.mp3",length=1.677641723356}}
 L["fires for cookin smores son get a real gun"]={{path="vo/soldier_dominationpyro05.mp3",length=3.3666666666667}}
 L["flank left"]={{path="vo/soldier_headleft01.mp3",length=1.2074376344681}}
 L["flank right"]={{path="vo/soldier_headright02.mp3",length=1.0419954648526}}
-L["forward"]={{path="vo/soldier_battlecry02.mp3",length=0.68498866213152},{path="vo/medic_battlecry02.mp3",length=0.8620408163265}}
+L["forward"]={{path="vo/soldier_battlecry02.mp3",length=0.68498866213152}}
 L["french imitation onh honh honh honh yer dominated"]={{path="vo/soldier_dominationspy03.mp3",length=2.6149433106576}}
 L["gear forward"]={{path="vo/soldier_moveup02.mp3",length=1.1087528344671}}
 L["get a hair cut hippie"]={{path="vo/soldier_dominationsoldier05.mp3",length=1.5315645933151}}
@@ -127,11 +127,11 @@ L["get a haircut hippie just in case"]={{path="vo/soldier_dominationpyro09.mp3",
 L["get a haircut trash cans"]={{path="vo/soldier_mvm_taunt04.mp3",length=2.3924716553288}}
 L["get haircut hippie just in case"]={{path="vo/soldier_dominationpyro09.mp3",length=2.9434239864349}}
 L["get out here so i can kick you right in your frilly wizard dress"]={{path="vo/soldier_sf12_seeking02.mp3",length=3.8922448979592}}
-L["get to the cart"]={{path="vo/spy_cartstaycloseoffense02.mp3",length=1.28},{path="vo/spy_cartstaycloseoffense01.mp3",length=1.410612244898},{path="vo/soldier_cartstopitdefense02.mp3",length=1.0187755102041},{path="vo/soldier_cartstaycloseoffense01.mp3",length=1.3322448979592},{path="vo/demoman_cartstaycloseoffense01.mp3",length=1.4889795918367},{path="vo/announcer_am_gamestarting01.mp3",length=2.8995918367347}}
+L["get to the cart"]={{path="vo/soldier_cartstopitdefense02.mp3",length=1.0187755102041},{path="vo/soldier_cartstaycloseoffense01.mp3",length=1.3322448979592}}
 L["get to the cart hup hup hup"]={{path="vo/soldier_cartstaycloseoffense06.mp3",length=1.7240816326531}}
 L["get to the cart ladies"]={{path="vo/soldier_cartstaycloseoffense02.mp3",length=1.7240816326531}}
 L["get to the cart maggots"]={{path="vo/soldier_cartstaycloseoffense04.mp3",length=1.9069387755102}}
-L["get to the island"]={{path="vo/soldier_sf13_midnight02.mp3",length=1.0971428571429},{path="vo/scout_sf13_midnight05.mp3",length=1.0187755102041}}
+L["get to the island"]={{path="vo/soldier_sf13_midnight02.mp3",length=1.0971428571429}}
 L["get with the program"]={{path="vo/soldier_jeers09.mp3",length=1.0390929705215}}
 L["give em hell boys"]={{path="vo/soldier_battlecry03.mp3",length=1.4280272108844}}
 L["go back go calgary you cowherding canadian"]={{path="vo/soldier_dominationengineer06.mp3",length=3.0559637546539}}
@@ -221,12 +221,12 @@ L["im tired of looking"]={{path="vo/soldier_sf12_seeking05.mp3",length=1.5412244
 L["in this mans unicorn army you clomp your hooves when a superior officer addresses you"]={{path="vo/soldier_item_unicorn_round_start01.mp3",length=5.3812244897959}}
 L["incoming"]={{path="vo/soldier_incoming01.mp3",length=0.97233560090703}}
 L["it is a full moon i have turned into a robot again awoooooooooooooo"]={{path="vo/soldier_robot29.mp3",length=6.0249659863946}}
-L["its perfect"]={{path="vo/spy_mvm_loot_godlike02.mp3",length=2.2465306122449},{path="vo/soldier_mvm_loot_godlike02.mp3",length=1.2538775510204},{path="vo/scout_mvm_loot_godlike02.mp3",length=2.2465306122449},{path="vo/heavy_mvm_loot_godlike02.mp3",length=1.7240816326531},{path="vo/engineer_mvm_loot_godlike02.mp3",length=1.0971428571429}}
+L["its perfect"]={{path="vo/soldier_mvm_loot_godlike02.mp3",length=1.2538775510204}}
 L["ive got a good feeling about this"]={{path="vo/soldier_sf12_spinning03.mp3",length=2.2726530612245}}
 L["just me and you ladybots"]={{path="vo/soldier_mvm_stand_alone01.mp3",length=2.2692290249433}}
 L["ka ribbed"]={{path="vo/soldier_specialcompleted01.mp3",length=0.89977324263039}}
 L["kaboom"]={{path="vo/soldier_specialcompleted03.mp3",length=0.89396825396825}}
-L["keep pushing"]={{path="vo/soldier_cartgoingforwardoffense14.mp3",length=1.3061224489796},{path="vo/heavy_cartmovingforwardoffense01.mp3",length=1.2786848545074}}
+L["keep pushing"]={{path="vo/soldier_cartgoingforwardoffense14.mp3",length=1.3061224489796}}
 L["keep this dead man moving maggots"]={{path="vo/soldier_sf13_cart_forward01.mp3",length=1.9591836734694}}
 L["ladies lets get this cart moving"]={{path="vo/soldier_cartgoingforwardoffense10.mp3",length=1.985306122449}}
 L["last one alive lock the door"]={{path="vo/soldier_battlecry04.mp3",length=2.252335600907}}
@@ -237,7 +237,7 @@ L["less talk more fight"]={{path="vo/soldier_dominationscout04.mp3",length=1.495
 L["lets get to the island"]={{path="vo/soldier_sf13_midnight03.mp3",length=1.2277551020408}}
 L["lets give em hell brain maggot"]={{path="vo/soldier_item_maggot_round_start01.mp3",length=2.0897959183673}}
 L["lets give this soup can hell"]={{path="vo/soldier_mvm_giant_robot02.mp3",length=2.0133333333333}}
-L["lets go"]={{path="vo/soldier_go03.mp3",length=0.76045351473923},{path="vo/scout_go02.mp3",length=0.9404081632653}}
+L["lets go"]={{path="vo/soldier_go03.mp3",length=0.76045351473923}}
 L["lets go doc"]={{path="vo/soldier_activatecharge02.mp3",length=0.93170068027211}}
 L["lets kick this robots ass back to the bronze age"]={{path="vo/soldier_mvm_tank_shooting03.mp3",length=3.714716553288}}
 L["lets see them try that twice"]={{path="vo/soldier_mvm_wave_end09.mp3",length=2.0432653061224}}
@@ -245,7 +245,7 @@ L["look at you maggot even your weapon needs a haircut"]={{path="vo/soldier_weap
 L["maaa"]={{path="vo/soldier_laughlong03.mp3",length=4.0867120181406}}
 L["maggots"]={{path="vo/taunts/soldier_taunts01.mp3",length=1.015873015873}}
 L["man up ladies"]={{path="vo/soldier_mvm_ask_ready03.mp3",length=1.7532199546485}}
-L["medic"]={{path="vo/soldier_medic03.mp3",length=0.57179138321995},{path="vo/soldier_medic02.mp3",length=0.9404081632653},{path="vo/soldier_medic01.mp3",length=0.8881632653061},{path="vo/sniper_medic02.mp3",length=0.7314285714286},{path="vo/scout_medic02.mp3",length=0.64435374736786},{path="vo/scout_medic01.mp3",length=0.63564628362656},{path="vo/pyro_medic01.mp3",length=0.68000000715256},{path="vo/medic_medic03.mp3",length=1.5238095521927},{path="vo/medic_medic02.mp3",length=0.72852605581284},{path="vo/medic2.mp3",length=0.8620408163265},{path="vo/medic1.mp3",length=1.0971428571429},{path="vo/heavy_medic01.mp3",length=0.84462583065033},{path="vo/engineer_medic03.mp3",length=0.91428571939468},{path="vo/engineer_medic02.mp3",length=0.67047619819641},{path="vo/demoman_medic03.mp3",length=0.90557825565338},{path="vo/demoman_medic02.mp3",length=0.90557825565338},{path="vo/demoman_medic01.mp3",length=0.91718822717667}}
+L["medic"]={{path="vo/soldier_medic03.mp3",length=0.57179138321995},{path="vo/soldier_medic02.mp3",length=0.9404081632653},{path="vo/soldier_medic01.mp3",length=0.8881632653061}}
 L["medic down"]={{path="vo/soldier_mvm_class_is_dead05.mp3",length=1.1212244897959}}
 L["men get to the upgrade stations"]={{path="vo/soldier_mvm_encourage_upgrade01.mp3",length=1.9702721088435}}
 L["men these are the facts as i understand them one i am the prettiest unicorn two my mane is lustrous and fragrant and it catches the wind perfectly dismissed"]={{path="vo/soldier_item_unicorn_round_start03.mp3",length=10.89306122449}}
@@ -271,7 +271,7 @@ L["never bring a bat to a battlefield war is not a game"]={{path="vo/soldier_dom
 L["never forget always remember pepper fi"]={{path="vo/soldier_mvm_wave_end06.mp3",length=2.8987528344671}}
 L["never send a boy to fight a mans war"]={{path="vo/soldier_dominationscout10.mp3",length=2.3980045351474}}
 L["ng"]={{path="vo/soldier_painsevere03.mp3",length=1.7734240362812}}
-L["nice shot"]={{path="vo/spy_niceshot01.mp3",length=0.86204081773758},{path="vo/soldier_niceshot01.mp3",length=0.83591836734694},{path="vo/sniper_niceshot01.mp3",length=0.61242628097534},{path="vo/scout_niceshot01.mp3",length=1.0013605356216},{path="vo/pyro_niceshot01.mp3",length=0.8359183673469},{path="vo/heavy_niceshot03.mp3",length=1.1697052717209},{path="vo/engineer_niceshot02.mp3",length=0.8591383099556}}
+L["nice shot"]={{path="vo/soldier_niceshot01.mp3",length=0.83591836734694}}
 L["nice work"]={{path="vo/soldier_goodjob03.mp3",length=0.81269841269841}}
 L["no"]={{path="vo/soldier_no03.mp3",length=0.48471655328798}}
 L["no guts no glory robots"]={{path="vo/soldier_mvm_wave_end02.mp3",length=2.8721541950113}}
@@ -295,14 +295,14 @@ L["outstanding"]={{path="vo/soldier_goodjob02.mp3",length=1.0710204081633}}
 L["outstanding shot"]={{path="vo/soldier_niceshot03.mp3",length=1.2045351473923}}
 L["pa pow"]={{path="vo/soldier_kaboomalts03.mp3",length=1.2658503401361}}
 L["pain is weakness leaving the body"]={{path="vo/soldier_jeers07.mp3",length=2.252335600907}}
-L["paincriticaldeath"]={{path="vo/spy_painsevere05.mp3",length=0.6791836734694},{path="vo/spy_painsevere04.mp3",length=0.7575510204082},{path="vo/spy_paincrticialdeath03.mp3",length=1.7763265306122},{path="vo/soldier_paincrticialdeath04.mp3",length=2.429387755102},{path="vo/soldier_paincrticialdeath03.mp3",length=2.7167346938776},{path="vo/soldier_paincrticialdeath02.mp3",length=2.6122448979592},{path="vo/soldier_paincrticialdeath01.mp3",length=2.2987755102041},{path="vo/pyro_paincrticialdeath03.mp3",length=2.6122448979592},{path="vo/pyro_paincrticialdeath02.mp3",length=1.6718367346939},{path="vo/medic_paincrticialdeath04.mp3",length=2.9518367346939},{path="vo/medic_paincrticialdeath03.mp3",length=2.0375510204082},{path="vo/medic_paincrticialdeath02.mp3",length=1.9069387755102},{path="vo/medic_paincrticialdeath01.mp3",length=1.4628571428571},{path="vo/heavy_paincrticialdeath02.mp3",length=2.2726530612245},{path="vo/heavy_paincrticialdeath01.mp3",length=2.1942857142857},{path="vo/engineer_paincrticialdeath04.mp3",length=1.28},{path="vo/engineer_paincrticialdeath03.mp3",length=1.3844897959184},{path="vo/engineer_paincrticialdeath02.mp3",length=1.7502040816327},{path="vo/demoman_paincrticialdeath05.mp3",length=2.429387755102},{path="vo/demoman_paincrticialdeath04.mp3",length=1.6979591836735},{path="vo/demoman_paincrticialdeath03.mp3",length=1.9069387755102},{path="vo/demoman_paincrticialdeath02.mp3",length=2.1942857142857},{path="vo/demoman_paincrticialdeath01.mp3",length=2.1420408163265}}
-L["painsevere"]={{path="vo/soldier_painsevere04.mp3",length=1.0187755102041},{path="vo/pyro_painsevere06.mp3",length=0.8359183673469},{path="vo/pyro_painsevere05.mp3",length=1.0710204081633},{path="vo/pyro_painsevere04.mp3",length=1.0187755102041},{path="vo/pyro_painsevere03.mp3",length=0.9404081632653},{path="vo/pyro_painsevere02.mp3",length=1.0710204081633},{path="vo/pyro_painsevere01.mp3",length=0.9665306122449},{path="vo/medic_painsevere03.mp3",length=0.705306122449},{path="vo/medic_painsevere02.mp3",length=0.6530612244898},{path="vo/medic_painsevere01.mp3",length=0.7575510204082},{path="vo/heavy_painsevere03.mp3",length=0.8881632653061},{path="vo/heavy_painsevere02.mp3",length=0.9142857142857},{path="vo/engineer_painsevere07.mp3",length=1.7763265306122},{path="vo/engineer_painsevere06.mp3",length=1.28},{path="vo/engineer_painsevere05.mp3",length=0.8620408163265},{path="vo/engineer_painsevere03.mp3",length=1.0187755102041},{path="vo/engineer_painsevere01.mp3",length=1.8285714285714},{path="vo/demoman_painsevere04.mp3",length=0.8881632653061},{path="vo/demoman_painsevere03.mp3",length=0.8881632653061},{path="vo/demoman_painsevere02.mp3",length=0.8620408163265}}
-L["painsharp"]={{path="vo/spy_painsharp03.mp3",length=0.4702040816327},{path="vo/spy_painsharp02.mp3",length=0.5485714285714},{path="vo/soldier_painsharp06.mp3",length=0.3395918367347},{path="vo/soldier_painsharp02.mp3",length=0.3657142857143},{path="vo/sniper_painsharp01.mp3",length=0.3918367346939},{path="vo/pyro_painsharp07.mp3",length=0.4179591836735},{path="vo/pyro_painsharp06.mp3",length=0.4702040816327},{path="vo/pyro_painsharp05.mp3",length=0.4440816326531},{path="vo/pyro_painsharp04.mp3",length=0.3134693877551},{path="vo/pyro_painsharp03.mp3",length=0.5485714285714},{path="vo/pyro_painsharp02.mp3",length=0.3134693877551},{path="vo/pyro_painsharp01.mp3",length=0.3657142857143},{path="vo/medic_painsharp08.mp3",length=0.4440816326531},{path="vo/medic_painsharp07.mp3",length=0.574693877551},{path="vo/medic_painsharp06.mp3",length=0.4440816326531},{path="vo/medic_painsharp05.mp3",length=0.4702040816327},{path="vo/medic_painsharp03.mp3",length=0.3134693877551},{path="vo/medic_painsharp02.mp3",length=0.4702040816327},{path="vo/medic_painsharp01.mp3",length=0.4440816326531},{path="vo/heavy_painsharp05.mp3",length=0.7575510204082},{path="vo/heavy_painsharp03.mp3",length=0.6530612244898},{path="vo/heavy_painsharp02.mp3",length=0.6008163265306},{path="vo/heavy_painsharp01.mp3",length=0.4179591836735},{path="vo/engineer_painsharp07.mp3",length=0.4440816326531},{path="vo/engineer_painsharp06.mp3",length=0.6008163265306},{path="vo/engineer_painsharp05.mp3",length=0.4702040816327},{path="vo/engineer_painsharp04.mp3",length=0.574693877551},{path="vo/engineer_painsharp03.mp3",length=0.3657142857143},{path="vo/engineer_painsharp02.mp3",length=0.6269387755102},{path="vo/demoman_painsharp05.mp3",length=0.6269387755102},{path="vo/demoman_painsharp04.mp3",length=0.6008163265306},{path="vo/demoman_painsharp02.mp3",length=0.5224489795918},{path="vo/demoman_painsharp01.mp3",length=0.4963265306122}}
+L["paincriticaldeath"]={{path="vo/soldier_paincrticialdeath04.mp3",length=2.429387755102},{path="vo/soldier_paincrticialdeath03.mp3",length=2.7167346938776},{path="vo/soldier_paincrticialdeath02.mp3",length=2.6122448979592},{path="vo/soldier_paincrticialdeath01.mp3",length=2.2987755102041}}
+L["painsevere"]={{path="vo/soldier_painsevere04.mp3",length=1.0187755102041}}
+L["painsharp"]={{path="vo/soldier_painsharp06.mp3",length=0.3395918367347},{path="vo/soldier_painsharp02.mp3",length=0.3657142857143}}
 L["papow"]={{path="vo/soldier_kaboomalts03.mp3",length=1.2658503055573}}
-L["push"]={{path="vo/spy_cartgoingforwardoffense02.mp3",length=1.0971428571429},{path="vo/soldier_cartgoingforwardoffense13.mp3",length=1.2277551020408},{path="vo/soldier_cartgoingforwardoffense02.mp3",length=0.705306122449},{path="vo/medic_cartgoingforwardoffense01.mp3",length=0.8359183673469},{path="vo/heavy_cartmovingforwardoffense14.mp3",length=1.7599999904633}}
+L["push"]={{path="vo/soldier_cartgoingforwardoffense13.mp3",length=1.2277551020408},{path="vo/soldier_cartgoingforwardoffense02.mp3",length=0.705306122449}}
 L["push creampuffs"]={{path="vo/soldier_cartgoingforwardoffense07.mp3",length=1.5151020408163}}
 L["push like you mean it"]={{path="vo/soldier_cartgoingforwardoffense15.mp3",length=1.5412244897959}}
-L["push that cart"]={{path="vo/soldier_cartgoingforwardoffense05.mp3",length=0.9404081632653},{path="vo/sniper_cartmovingforwardoffensesoft05.mp3",length=1.6457142857143},{path="vo/sniper_cartmovingforwardoffense05.mp3",length=1.6195918367347}}
+L["push that cart"]={{path="vo/soldier_cartgoingforwardoffense05.mp3",length=0.9404081632653}}
 L["push that cart forward"]={{path="vo/soldier_cartgoingforwardoffense06.mp3",length=1.3583673469388}}
 L["push that is an order"]={{path="vo/soldier_cartgoingforwardoffense04.mp3",length=1.5673469387755}}
 L["push you apple blossums"]={{path="vo/soldier_cartgoingforwardoffense08.mp3",length=2.0897959183673}}
@@ -353,7 +353,7 @@ L["stars and stripes beats hammer and sickle look it up"]={{path="vo/soldier_dom
 L["stars stripes beats hammer sickle look it up"]={{path="vo/soldier_dominationheavy02.mp3",length=3.3142176870748}}
 L["stick to that cart like glue that is an order"]={{path="vo/soldier_cartstaycloseoffense05.mp3",length=2.9257142857143}}
 L["stop hiding behind your little toys and fight like a man"]={{path="vo/soldier_dominationengineer03.mp3",length=3.1851020408163}}
-L["stop that cart"]={{path="vo/spy_cartgoingforwarddefense02.mp3",length=1.5412244897959},{path="vo/soldier_cartgoingforwarddefense03.mp3",length=1.2016326530612}}
+L["stop that cart"]={{path="vo/soldier_cartgoingforwarddefense03.mp3",length=1.2016326530612}}
 L["surrender now maggots and you will not be harmed"]={{path="vo/taunts/soldier_taunts15.mp3",length=3.047619047619}}
 L["sweet land of liberty"]={{path="vo/soldier_mvm_loot_rare03.mp3",length=1.8024489795918}}
 L["take your lumps like a man private twinkle toes"]={{path="vo/taunts/soldier_taunts09.mp3",length=3.4597732426304}}
@@ -366,8 +366,8 @@ L["ten hut"]={{path="vo/soldier_mvm_resurrect01.mp3",length=0.9404081632653}}
 L["ten hut bomb is clear"]={{path="vo/soldier_mvm_bomb_destroyed02.mp3",length=2.0827891156463}}
 L["ten hut company trade"]={{path="vo/soldier_trade_taunts01.mp3",length=3.3697959183673}}
 L["ten hut you too brain maggot"]={{path="vo/soldier_item_maggot_round_start02.mp3",length=3.0563265306122}}
-L["tf2cheer"]={{path="vo/soldier_cheers06.mp3",length=1.1232652664185},{path="vo/soldier_cheers05.mp3",length=1.1116553544998},{path="vo/sniper_cheers08.mp3",length=1.381587266922},{path="vo/sniper_cheers07.mp3",length=1.149387717247},{path="vo/sniper_cheers05.mp3",length=1.5325169563293},{path="vo/sniper_cheers01.mp3",length=0.98684805631638},{path="vo/scout_cheers06.mp3",length=0.88235825300217},{path="vo/scout_cheers03.mp3",length=0.92879819869995},{path="vo/scout_cheers01.mp3",length=0.79528343677521},{path="vo/pyro_cheers01.mp3",length=1.0133333206177},{path="vo/medic_cheers01.mp3",length=1.0216779708862},{path="vo/heavy_cheers08.mp3",length=6.7105669975281},{path="vo/heavy_cheers07.mp3",length=4.4001812934875},{path="vo/heavy_cheers04.mp3",length=1.9562811851501},{path="vo/heavy_cheers02.mp3",length=1.6428117752075},{path="vo/heavy_cheers01.mp3",length=1.3438549041748},{path="vo/engineer_cheers07.mp3",length=3.3320634365082},{path="vo/engineer_cheers02.mp3",length=1.8808163404465},{path="vo/engineer_cheers01.mp3",length=1.387392282486},{path="misc/happy_birthday.wav",length=7.5639002267574}}
-L["thanks"]={{path="vo/soldier_thanksfortheteleporter01.mp3",length=0.705306122449},{path="vo/soldier_thanks02.mp3",length=0.71401360544218},{path="vo/soldier_thanks01.mp3",length=0.62693876028061},{path="vo/sniper_thanks01.mp3",length=0.5659863948822},{path="vo/scout_thanks01.mp3",length=0.81560093164444},{path="vo/medic_thanks01.mp3",length=0.90557825565338},{path="vo/heavy_thanks03.mp3",length=0.96027213335037},{path="vo/heavy_thanks01.mp3",length=1.0071655511856},{path="vo/demoman_thanks01.mp3",length=0.92299318313599}}
+L["tf2cheer"]={{path="vo/soldier_cheers06.mp3",length=1.1232652664185},{path="vo/soldier_cheers05.mp3",length=1.1116553544998}}
+L["thanks"]={{path="vo/soldier_thanksfortheteleporter01.mp3",length=0.705306122449},{path="vo/soldier_thanks02.mp3",length=0.71401360544218},{path="vo/soldier_thanks01.mp3",length=0.62693876028061}}
 L["thanks doc"]={{path="vo/soldier_thanksfortheheal03.mp3",length=0.81269841269841}}
 L["thanks engie"]={{path="vo/soldier_thanksfortheteleporter03.mp3",length=1.0158730745316}}
 L["thanks engy"]={{path="vo/soldier_thanksfortheteleporter03.mp3",length=1.015873015873}}
@@ -405,8 +405,8 @@ L["the carts falling back"]={{path="vo/soldier_cartgoingbackdefense01.mp3",lengt
 L["the last word out of your sorry mouth will be sir and it will be loud"]={{path="vo/taunts/soldier_taunts16.mp3",length=4.3189115646259}}
 L["the natural enemy of the robot is hippies"]={{path="vo/soldier_robot14.mp3",length=3.2038775510204}}
 L["the next time you want to kill a man look him in the eyes"]={{path="vo/soldier_dominationsniper06.mp3",length=3.7195918367347}}
-L["the robots are attacking the gate"]={{path="vo/soldier_mvm_mannhattan_gate_atk01.mp3",length=1.7763265306122},{path="vo/medic_mvm_mannhattan_gate_atk02.mp3",length=2.1942857142857}}
-L["the robots took the gate"]={{path="vo/soldier_mvm_mannhattan_gate_take01.mp3",length=1.6195918367347},{path="vo/sniper_mvm_mannhattan_gate_take01.mp3",length=1.3844897959184}}
+L["the robots are attacking the gate"]={{path="vo/soldier_mvm_mannhattan_gate_atk01.mp3",length=1.7763265306122}}
+L["the robots took the gate"]={{path="vo/soldier_mvm_mannhattan_gate_take01.mp3",length=1.6195918367347}}
 L["the spoils of war"]={{path="vo/soldier_mvm_collect_credits02.mp3",length=2.1487074829932}}
 L["the tank is dropping a bomb"]={{path="vo/soldier_mvm_tank_deploy01.mp3",length=1.9763945578231}}
 L["the worm has turned gentlemen"]={{path="vo/soldier_cheers04.mp3",length=2.1072108843537}}

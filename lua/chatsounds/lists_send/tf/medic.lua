@@ -38,14 +38,14 @@ L["everybody attack the wizard"]={{path="vo/medic_sf12_attack01.mp3",length=2.27
 L["everyone behind me"]={{path="vo/medic_mvm_heal_shield01.mp3",length=1.854693877551}}
 L["everyone freee money"]={{path="vo/medic_mvm_collect_credits03.mp3",length=2.9257142857143}}
 L["everyone i am on fire"]={{path="vo/medic_autoonfire04.mp3",length=2.8676643371582}}
-L["everyone push"]={{path="vo/spy_cartgoingforwardoffense04.mp3",length=1.7502040816327},{path="vo/medic_cartgoingforwardoffense03.mp3",length=1.9591836734694},{path="vo/heavy_cartmovingforwardoffense05.mp3",length=1.714671254158}}
+L["everyone push"]={{path="vo/medic_cartgoingforwardoffense03.mp3",length=1.9591836734694}}
 L["everyone push the cart"]={{path="vo/medic_cartgoingforwardoffense05.mp3",length=1.854693877551}}
 L["everyone stay close to the cart"]={{path="vo/medic_cartstaycloseoffense01.mp3",length=2.6122448979592}}
 L["everyone we must stop that bomb"]={{path="vo/medic_cartstopitdefense01.mp3",length=2.0897959183673}}
 L["fess"]={{path="vo/medic_jeers01.mp3",length=1.0187754631042}}
-L["fire"]={{path="vo/pyro_autoonfire02.mp3",length=0.99868482351303},{path="vo/medic_autoonfire02.mp3",length=0.9665306122449},{path="vo/demoman_autoonfire03.mp3",length=2.1826758384705}}
-L["fire fire fire"]={{path="vo/spy_autoonfire02.mp3",length=1.3554648160934},{path="vo/sniper_autoonfire01.mp3",length=1.8692063093185},{path="vo/medic_autoonfire01.mp3",length=2.1420407295227},{path="vo/heavy_autoonfire01.mp3",length=2.9199092388153}}
-L["forward"]={{path="vo/soldier_battlecry02.mp3",length=0.68498867750168},{path="vo/medic_battlecry02.mp3",length=0.8620408163265}}
+L["fire"]={{path="vo/medic_autoonfire02.mp3",length=0.9665306122449}}
+L["fire fire fire"]={{path="vo/medic_autoonfire01.mp3",length=2.1420407295227}}
+L["forward"]={{path="vo/medic_battlecry02.mp3",length=0.8620408163265}}
 L["forward push the cart forward"]={{path="vo/medic_cartgoingbackoffense01.mp3",length=2.7689795918367}}
 L["free money free money"]={{path="vo/medic_mvm_collect_credits02.mp3",length=1}}
 L["from now on losing is verboten"]={{path="vo/medic_jeers11.mp3",length=2.832834482193}}
@@ -56,8 +56,8 @@ L["get behind me"]={{path="vo/medic_mvm_heal_shield04.mp3",length=1.306122448979
 L["get on the point dummkopf"]={{path="vo/medic_standonthepoint01.mp3",length=2.374240398407}}
 L["get them raus raus"]={{path="vo/medic_specialcompleted05.mp3",length=2.1246259212494}}
 L["get to an upgrade station schnell"]={{path="vo/medic_mvm_encourage_upgrade02.mp3",length=2.429387755102}}
-L["go left"]={{path="vo/medic_headleft02.mp3",length=0.8359183673469},{path="vo/demoman_headleft02.mp3",length=0.64435374736786}}
-L["go right"]={{path="vo/sniper_headright02.mp3",length=0.57179141044617},{path="vo/medic_headright02.mp3",length=0.8881632653061}}
+L["go left"]={{path="vo/medic_headleft02.mp3",length=0.8359183673469}}
+L["go right"]={{path="vo/medic_headright02.mp3",length=0.8881632653061}}
 L["good shooting"]={{path="vo/medic_niceshot02.mp3",length=1.0536054372787}}
 L["good to go"]={{path="vo/medic_specialcompleted07.mp3",length=1.1639002561569}}
 L["good verk"]={{path="vo/medic_goodjob01.mp3",length=0.8359183673469}}
@@ -69,7 +69,7 @@ L["haha your silly clown weapon is making a mockery of this war"]={{path="vo/med
 L["hawww"]={{path="vo/medic_autodejectedtie07.mp3",length=0.7575510204082}}
 L["heavy is dead"]={{path="vo/medic_mvm_class_is_dead03.mp3",length=1.5151020408163}}
 L["heil us"]={{path="vo/medic_battlecry03.mp3",length=1.1261677742004}}
-L["help"]={{path="vo/medic_helpme01.mp3",length=0.705306122449},{path="vo/demoman_helpme01.mp3",length=0.74739229679108}}
+L["help"]={{path="vo/medic_helpme01.mp3",length=0.705306122449}}
 L["help me secure this point"]={{path="vo/medic_helpmecapture01.mp3",length=1.840181350708}}
 L["help mee hahahaha"]={{path="vo/medic_item_birdhead_round_start06.mp3",length=3.8922448979592}}
 L["hes healing himself"]={{path="vo/medic_sf12_healing01.mp3",length=1.9330612244898}}
@@ -95,12 +95,12 @@ L["i will heal you attack the wizard"]={{path="vo/medic_sf12_attack03.mp3",lengt
 L["idiot get on the point"]={{path="vo/medic_standonthepoint03.mp3",length=2.6586847305298}}
 L["idiot stand on the point"]={{path="vo/medic_standonthepoint04.mp3",length=2.6935148239136}}
 L["im alive alive"]={{path="vo/medic_mvm_resurrect01.mp3",length=2.4555102040816}}
-L["im back"]={{path="vo/spy_mvm_resurrect03.mp3",length=1.0710204081633},{path="vo/medic_mvm_resurrect03.mp3",length=1.7502040816327},{path="vo/heavy_mvm_resurrect04.mp3",length=1.7502040816327},{path="vo/demoman_mvm_resurrect01.mp3",length=1.4367346938776}}
+L["im back"]={{path="vo/medic_mvm_resurrect03.mp3",length=1.7502040816327}}
 L["im of two minds about this both are pretty good with it"]={{path="vo/medic_item_secop_domination01.mp3",length=5.6424489795918}}
 L["im ready kill them all also i must kill you all"]={{path="vo/medic_item_secop_round_start03.mp3",length=4.6497959183673}}
 L["im ready my friends kill all your friends oh good idea"]={{path="vo/medic_item_secop_round_start02.mp3",length=4.2579591836735}}
 L["in my medical opinion that hat looks ridiculous heres a second opinion youre dead"]={{path="vo/medic_hat_taunts02.mp3",length=6.5567346938776}}
-L["incoming"]={{path="vo/spy_incoming03.mp3",length=0.7836734693878},{path="vo/spy_incoming02.mp3",length=0.6008163265306},{path="vo/sniper_incoming04.mp3",length=0.7314285714286},{path="vo/sniper_incoming03.mp3",length=1.28},{path="vo/sniper_incoming01.mp3",length=1.3844897959184},{path="vo/scout_incoming03.mp3",length=0.8359183673469},{path="vo/pyro_incoming01.mp3",length=1.5151020408163},{path="vo/medic_incoming03.mp3",length=0.7836734693878},{path="vo/medic_incoming02.mp3",length=1.2016326530612},{path="vo/medic_incoming01.mp3",length=0.9142857142857},{path="vo/heavy_incoming03.mp3",length=2.5338775510204},{path="vo/heavy_incoming02.mp3",length=1.3235374689102},{path="vo/heavy_incoming01.mp3",length=1.0971428571429},{path="vo/engineer_incoming03.mp3",length=0.7836734693878},{path="vo/engineer_incoming02.mp3",length=0.7575510204082},{path="vo/demoman_incoming02.mp3",length=1.0187755102041},{path="vo/demoman_incoming01.mp3",length=0.9404081632653}}
+L["incoming"]={{path="vo/medic_incoming03.mp3",length=0.7836734693878},{path="vo/medic_incoming02.mp3",length=1.2016326530612},{path="vo/medic_incoming01.mp3",length=0.9142857142857}}
 L["is there a point to your lives"]={{path="vo/medic_jeers02.mp3",length=1.9678910970688}}
 L["ja"]={{path="vo/medic_yes01.mp3",length=0.53551018238068}}
 L["jawohl"]={{path="vo/medic_yes02.mp3",length=0.59501135349274}}
@@ -115,7 +115,7 @@ L["laughing i am a god"]={{path="vo/medic_mvm_get_upgrade03.mp3",length=2.455510
 L["laughing im im sorry im sorry im im not laughing at you its just youre youre weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
 L["laughing its just you and me robots"]={{path="vo/medic_mvm_stand_alone01.mp3",length=4.2579591836735}}
 L["laughing this wall is robot death"]={{path="vo/medic_mvm_heal_shield05.mp3",length=3.3175510204082}}
-L["left"]={{path="vo/medic_headleft01.mp3",length=0.58630383014679},{path="vo/heavy_meleeing08.mp3",length=0.705306122449}}
+L["left"]={{path="vo/medic_headleft01.mp3",length=0.58630383014679}}
 L["left left"]={{path="vo/medic_headleft03.mp3",length=1.1958277225494}}
 L["let us trade schnell"]={{path="vo/medic_trade_taunts04.mp3",length=1.8024489795918}}
 L["lets do this my friends kill them all shh thats enough"]={{path="vo/medic_item_secop_round_start01.mp3",length=4.7281632653061}}
@@ -138,7 +138,7 @@ L["nein"]={{path="vo/medic_no01.mp3",length=0.53115648031235}}
 L["nice shot camarade"]={{path="vo/medic_niceshot01.mp3",length=1.8634014129639}}
 L["nichts da"]={{path="vo/medic_no03.mp3",length=0.64435374736786}}
 L["nix da"]={{path="vo/medic_no03.mp3",length=0.64435374736786}}
-L["no"]={{path="vo/spy_no02.mp3",length=0.42376416921616},{path="vo/sniper_no01.mp3",length=0.51954650878906},{path="vo/scout_no02.mp3",length=0.52680271863937},{path="vo/pyro_no01.mp3",length=0.4963265306122},{path="vo/medic_no02.mp3",length=0.39328798651695}}
+L["no"]={{path="vo/medic_no02.mp3",length=0.39328798651695}}
 L["no robot shall pass"]={{path="vo/medic_mvm_heal_shield03.mp3",length=2.0636734693878}}
 L["now go"]={{path="vo/medic_specialcompleted04.mp3",length=0.89977324008942}}
 L["now is the time herr doctor"]={{path="vo/medic_activatecharge03.mp3",length=1.8026757240295}}
@@ -160,18 +160,18 @@ L["ooh what is that book doing"]={{path="vo/medic_sf12_bombinomicon05.mp3",lengt
 L["ooh wunderbar"]={{path="vo/medic_mvm_loot_common02.mp3",length=2.0897959183673}}
 L["oooh i see you looking"]={{path="vo/medic_trade_taunts02.mp3",length=1.9330612244898}}
 L["oops that was not medicine"]={{path="vo/medic_specialcompleted10.mp3",length=2.5774149894714}}
-L["paincriticaldeath"]={{path="vo/spy_painsevere05.mp3",length=0.6791836734694},{path="vo/spy_painsevere04.mp3",length=0.7575510204082},{path="vo/spy_paincrticialdeath03.mp3",length=1.7763265306122},{path="vo/soldier_paincrticialdeath04.mp3",length=2.429387755102},{path="vo/soldier_paincrticialdeath03.mp3",length=2.7167346938776},{path="vo/soldier_paincrticialdeath02.mp3",length=2.6122448979592},{path="vo/soldier_paincrticialdeath01.mp3",length=2.2987755102041},{path="vo/pyro_paincrticialdeath03.mp3",length=2.6122448979592},{path="vo/pyro_paincrticialdeath02.mp3",length=1.6718367346939},{path="vo/medic_paincrticialdeath04.mp3",length=2.9518367346939},{path="vo/medic_paincrticialdeath03.mp3",length=2.0375510204082},{path="vo/medic_paincrticialdeath02.mp3",length=1.9069387755102},{path="vo/medic_paincrticialdeath01.mp3",length=1.4628571428571},{path="vo/heavy_paincrticialdeath02.mp3",length=2.2726530612245},{path="vo/heavy_paincrticialdeath01.mp3",length=2.1942857142857},{path="vo/engineer_paincrticialdeath04.mp3",length=1.28},{path="vo/engineer_paincrticialdeath03.mp3",length=1.3844897959184},{path="vo/engineer_paincrticialdeath02.mp3",length=1.7502040816327},{path="vo/demoman_paincrticialdeath05.mp3",length=2.429387755102},{path="vo/demoman_paincrticialdeath04.mp3",length=1.6979591836735},{path="vo/demoman_paincrticialdeath03.mp3",length=1.9069387755102},{path="vo/demoman_paincrticialdeath02.mp3",length=2.1942857142857},{path="vo/demoman_paincrticialdeath01.mp3",length=2.1420408163265}}
-L["painsevere"]={{path="vo/soldier_painsevere04.mp3",length=1.0187755102041},{path="vo/pyro_painsevere06.mp3",length=0.8359183673469},{path="vo/pyro_painsevere05.mp3",length=1.0710204081633},{path="vo/pyro_painsevere04.mp3",length=1.0187755102041},{path="vo/pyro_painsevere03.mp3",length=0.9404081632653},{path="vo/pyro_painsevere02.mp3",length=1.0710204081633},{path="vo/pyro_painsevere01.mp3",length=0.9665306122449},{path="vo/medic_painsevere03.mp3",length=0.705306122449},{path="vo/medic_painsevere02.mp3",length=0.6530612244898},{path="vo/medic_painsevere01.mp3",length=0.7575510204082},{path="vo/heavy_painsevere03.mp3",length=0.8881632653061},{path="vo/heavy_painsevere02.mp3",length=0.9142857142857},{path="vo/engineer_painsevere07.mp3",length=1.7763265306122},{path="vo/engineer_painsevere06.mp3",length=1.28},{path="vo/engineer_painsevere05.mp3",length=0.8620408163265},{path="vo/engineer_painsevere03.mp3",length=1.0187755102041},{path="vo/engineer_painsevere01.mp3",length=1.8285714285714},{path="vo/demoman_painsevere04.mp3",length=0.8881632653061},{path="vo/demoman_painsevere03.mp3",length=0.8881632653061},{path="vo/demoman_painsevere02.mp3",length=0.8620408163265}}
-L["painsharp"]={{path="vo/spy_painsharp03.mp3",length=0.4702040816327},{path="vo/spy_painsharp02.mp3",length=0.5485714285714},{path="vo/soldier_painsharp06.mp3",length=0.3395918367347},{path="vo/soldier_painsharp02.mp3",length=0.3657142857143},{path="vo/sniper_painsharp01.mp3",length=0.3918367346939},{path="vo/pyro_painsharp07.mp3",length=0.4179591836735},{path="vo/pyro_painsharp06.mp3",length=0.4702040816327},{path="vo/pyro_painsharp05.mp3",length=0.4440816326531},{path="vo/pyro_painsharp04.mp3",length=0.3134693877551},{path="vo/pyro_painsharp03.mp3",length=0.5485714285714},{path="vo/pyro_painsharp02.mp3",length=0.3134693877551},{path="vo/pyro_painsharp01.mp3",length=0.3657142857143},{path="vo/medic_painsharp08.mp3",length=0.4440816326531},{path="vo/medic_painsharp07.mp3",length=0.574693877551},{path="vo/medic_painsharp06.mp3",length=0.4440816326531},{path="vo/medic_painsharp05.mp3",length=0.4702040816327},{path="vo/medic_painsharp03.mp3",length=0.3134693877551},{path="vo/medic_painsharp02.mp3",length=0.4702040816327},{path="vo/medic_painsharp01.mp3",length=0.4440816326531},{path="vo/heavy_painsharp05.mp3",length=0.7575510204082},{path="vo/heavy_painsharp03.mp3",length=0.6530612244898},{path="vo/heavy_painsharp02.mp3",length=0.6008163265306},{path="vo/heavy_painsharp01.mp3",length=0.4179591836735},{path="vo/engineer_painsharp07.mp3",length=0.4440816326531},{path="vo/engineer_painsharp06.mp3",length=0.6008163265306},{path="vo/engineer_painsharp05.mp3",length=0.4702040816327},{path="vo/engineer_painsharp04.mp3",length=0.574693877551},{path="vo/engineer_painsharp03.mp3",length=0.3657142857143},{path="vo/engineer_painsharp02.mp3",length=0.6269387755102},{path="vo/demoman_painsharp05.mp3",length=0.6269387755102},{path="vo/demoman_painsharp04.mp3",length=0.6008163265306},{path="vo/demoman_painsharp02.mp3",length=0.5224489795918},{path="vo/demoman_painsharp01.mp3",length=0.4963265306122}}
+L["paincriticaldeath"]={{path="vo/medic_paincrticialdeath04.mp3",length=2.9518367346939},{path="vo/medic_paincrticialdeath03.mp3",length=2.0375510204082},{path="vo/medic_paincrticialdeath02.mp3",length=1.9069387755102},{path="vo/medic_paincrticialdeath01.mp3",length=1.4628571428571}}
+L["painsevere"]={{path="vo/medic_painsevere03.mp3",length=0.705306122449},{path="vo/medic_painsevere02.mp3",length=0.6530612244898},{path="vo/medic_painsevere01.mp3",length=0.7575510204082}}
+L["painsharp"]={{path="vo/medic_painsharp08.mp3",length=0.4440816326531},{path="vo/medic_painsharp07.mp3",length=0.574693877551},{path="vo/medic_painsharp06.mp3",length=0.4440816326531},{path="vo/medic_painsharp05.mp3",length=0.4702040816327},{path="vo/medic_painsharp03.mp3",length=0.3134693877551},{path="vo/medic_painsharp02.mp3",length=0.4702040816327},{path="vo/medic_painsharp01.mp3",length=0.4440816326531}}
 L["papers please"]={{path="vo/medic_autocappedintelligence02.mp3",length=0.92589569091797}}
-L["push"]={{path="vo/spy_cartgoingforwardoffense02.mp3",length=1.0971428571429},{path="vo/soldier_cartgoingforwardoffense13.mp3",length=1.2277551020408},{path="vo/soldier_cartgoingforwardoffense02.mp3",length=0.705306122449},{path="vo/medic_cartgoingforwardoffense01.mp3",length=0.8359183673469},{path="vo/heavy_cartmovingforwardoffense14.mp3",length=1.7599999904633}}
+L["push"]={{path="vo/medic_cartgoingforwardoffense01.mp3",length=0.8359183673469}}
 L["push damn you push"]={{path="vo/medic_cartgoingforwardoffense08.mp3",length=1.3844897959184}}
 L["push harder oh shut up"]={{path="vo/medic_item_secop_cart_push03.mp3",length=2.8212244897959}}
 L["push schnell"]={{path="vo/medic_cartgoingforwardoffense07.mp3",length=1.2277551020408}}
 L["push that old man to hell"]={{path="vo/medic_sf13_cart_forward02.mp3",length=2.0636734693878}}
-L["push the cart"]={{path="vo/spy_cartgoingforwardoffense05.mp3",length=1.2538775510204},{path="vo/medic_cartgoingforwardoffense04.mp3",length=1.1755102040816}}
+L["push the cart"]={{path="vo/medic_cartgoingforwardoffense04.mp3",length=1.1755102040816}}
 L["push the dead man"]={{path="vo/medic_sf13_cart_forward03.mp3",length=2.0897959183673}}
-L["puush"]={{path="vo/medic_cartgoingforwardoffense02.mp3",length=1.3061224489796},{path="vo/demoman_cartgoingforwardoffense03.mp3",length=1.0710204081633}}
+L["puush"]={{path="vo/medic_cartgoingforwardoffense02.mp3",length=1.3061224489796}}
 L["pyro is dead"]={{path="vo/medic_mvm_class_is_dead07.mp3",length=1.3844897959184}}
 L["raaagh"]={{path="vo/medic_negativevocalization04.mp3",length=0.92879819869995}}
 L["raus raus"]={{path="vo/medic_cartgoingforwardoffense06.mp3",length=1.4628571428571},{path="vo/medic_battlecry01.mp3",length=1.3090249300003}}
@@ -181,7 +181,7 @@ L["ready for the charge herr doctor"]={{path="vo/medic_activatecharge02.mp3",len
 L["ready to charge"]={{path="vo/medic_autochargeready01.mp3",length=1.1929252147675}}
 L["ready were both ready"]={{path="vo/medic_item_secop_round_start08.mp3",length=3.0040816326531}}
 L["red rum red rum red oh i just got that very clever"]={{path="vo/medic_item_secop_idle03.mp3",length=7.6277551020408}}
-L["right"]={{path="vo/spy_headright01.mp3",length=0.49342402815819},{path="vo/medic_headright01.mp3",length=0.7575510204082},{path="vo/heavy_headright02.mp3",length=0.7575510204082}}
+L["right"]={{path="vo/medic_headright01.mp3",length=0.7575510204082}}
 L["right right"]={{path="vo/medic_headright03.mp3",length=1.0536054372787}}
 L["robots are our masters"]={{path="vo/medic_mvm_wave_end07.mp3",length=2.1420408163265}}
 L["robots ha ha"]={{path="vo/medic_mvm_wave_end02.mp3",length=2.0375510204082}}
@@ -204,7 +204,7 @@ L["screech stole the briefcase"]={{path="vo/medic_item_zombiebird_got_briefcase0
 L["screech thats jarate yes it is"]={{path="vo/medic_item_zombiebird_jarate01.mp3",length=4.3624489795918}}
 L["screech upgrade station ah yes"]={{path="vo/medic_item_zombiebird_mvm_go_upgrade01.mp3",length=3.7877551020408}}
 L["screech we are on fire yes i know"]={{path="vo/medic_item_zombiebird_on_fire01.mp3",length=2.9779591836735}}
-L["sentry ahead"]={{path="vo/pyro_sentryahead01.mp3",length=1.2538775510204},{path="vo/medic_sentryahead01.mp3",length=1.4889795918367},{path="vo/heavy_sentryahead01.mp3",length=1.0942403078079}}
+L["sentry ahead"]={{path="vo/medic_sentryahead01.mp3",length=1.4889795918367}}
 L["sentry buster"]={{path="vo/medic_mvm_sentry_buster01.mp3",length=1.6457142857143}}
 L["sentry buster is destroyed"]={{path="vo/medic_mvm_sentry_buster02.mp3",length=2.1420408163265}}
 L["severe pain"]={{path="vo/medic_painsevere04.mp3",length=0.6370974779129}}
@@ -220,16 +220,16 @@ L["spy"]={{path="vo/medic_cloakedspy01.mp3",length=0.76045352220535}}
 L["spy is dead"]={{path="vo/medic_mvm_class_is_dead02.mp3",length=1.6195918367347}}
 L["stand on the point schweinhund"]={{path="vo/medic_standonthepoint02.mp3",length=2.4439001083374}}
 L["standing near the point does nothing get on the point dommkopf"]={{path="vo/medic_standonthepoint05.mp3",length=5.5089340209961}}
-L["stay close to the cart"]={{path="vo/spy_cartstaycloseoffense03.mp3",length=1.6718367346939},{path="vo/medic_cartstaycloseoffense03.mp3",length=2.0897959183673}}
+L["stay close to the cart"]={{path="vo/medic_cartstaycloseoffense03.mp3",length=2.0897959183673}}
 L["stupendous"]={{path="vo/medic_goodjob02.mp3",length=1.1145578622818}}
 L["sturm und drang"]={{path="vo/medic_cheers04.mp3",length=1.8692063093185}}
 L["taaank"]={{path="vo/medic_mvm_tank_alert01.mp3",length=1.0448979591837}}
 L["teaaaaaam"]={{path="vo/medic_jeers07.mp3",length=1.5760544538498}}
 L["textless"]={{path="vo/medic_positivevocalization06.mp3",length=2.1014058589935}}
-L["tf2cheer"]={{path="vo/soldier_cheers06.mp3",length=1.1232652664185},{path="vo/soldier_cheers05.mp3",length=1.1116553544998},{path="vo/sniper_cheers08.mp3",length=1.381587266922},{path="vo/sniper_cheers07.mp3",length=1.149387717247},{path="vo/sniper_cheers05.mp3",length=1.5325169563293},{path="vo/sniper_cheers01.mp3",length=0.98684805631638},{path="vo/scout_cheers06.mp3",length=0.88235825300217},{path="vo/scout_cheers03.mp3",length=0.92879819869995},{path="vo/scout_cheers01.mp3",length=0.79528343677521},{path="vo/pyro_cheers01.mp3",length=1.0133333206177},{path="vo/medic_cheers01.mp3",length=1.0216779708862},{path="vo/heavy_cheers08.mp3",length=6.7105669975281},{path="vo/heavy_cheers07.mp3",length=4.4001812934875},{path="vo/heavy_cheers04.mp3",length=1.9562811851501},{path="vo/heavy_cheers02.mp3",length=1.6428117752075},{path="vo/heavy_cheers01.mp3",length=1.3438549041748},{path="vo/engineer_cheers07.mp3",length=3.3320634365082},{path="vo/engineer_cheers02.mp3",length=1.8808163404465},{path="vo/engineer_cheers01.mp3",length=1.387392282486},{path="misc/happy_birthday.wav",length=7.5639002267574}}
+L["tf2cheer"]={{path="vo/medic_cheers01.mp3",length=1.0216779708862}}
 L["thank you engineer"]={{path="vo/medic_thanksfortheteleporter03.mp3",length=1.5557370185852}}
 L["thank you herr doctor"]={{path="vo/medic_thanksfortheheal01.mp3",length=1.607981801033}}
-L["thanks"]={{path="vo/soldier_thanksfortheteleporter01.mp3",length=0.705306122449},{path="vo/soldier_thanks02.mp3",length=0.71401357650757},{path="vo/soldier_thanks01.mp3",length=0.62693876028061},{path="vo/sniper_thanks01.mp3",length=0.5659863948822},{path="vo/scout_thanks01.mp3",length=0.81560093164444},{path="vo/medic_thanks01.mp3",length=0.90557825565338},{path="vo/heavy_thanks03.mp3",length=0.96027213335037},{path="vo/heavy_thanks01.mp3",length=1.0071655511856},{path="vo/demoman_thanks01.mp3",length=0.92299318313599}}
+L["thanks"]={{path="vo/medic_thanks01.mp3",length=0.90557825565338}}
 L["that cart must be shtopped"]={{path="vo/medic_cartgoingforwarddefense01.mp3",length=1.854693877551}}
 L["that was doctorassisted homicide"]={{path="vo/medic_specialcompleted09.mp3",length=3.0766439437866}}
 L["that wizard is hiding somewhere"]={{path="vo/medic_sf12_seeking05.mp3",length=2.6383673469388}}
@@ -241,21 +241,21 @@ L["the bomb is clear"]={{path="vo/medic_mvm_bomb_destroyed01.mp3",length=1.28}}
 L["the cart is not moving"]={{path="vo/medic_cartstoppedoffense01.mp3",length=1.8808163265306}}
 L["the demoman is a spy"]={{path="vo/medic_cloakedspyidentify05.mp3",length=1.8227664232254}}
 L["the dispenser goes here"]={{path="vo/medic_needdispenser01.mp3",length=1.7298866510391}}
-L["the engineer is a spy"]={{path="vo/sniper_cloakedspyidentify07.mp3",length=1.9272562265396},{path="vo/medic_cloakedspyidentify08.mp3",length=1.7763265306122}}
+L["the engineer is a spy"]={{path="vo/medic_cloakedspyidentify08.mp3",length=1.7763265306122}}
 L["the flesh is weak"]={{path="vo/medic_mvm_wave_end06.mp3",length=1.6718367346939}}
 L["the healing is not as rewarding as the hurting"]={{path="vo/medic_specialcompleted02.mp3",length=2.9431293010712}}
 L["the healing leaves little time for the hurting"]={{path="vo/medic_specialcompleted03.mp3",length=2.7109296321869}}
-L["the heavy is a spy"]={{path="vo/sniper_cloakedspyidentify03.mp3",length=1.4686621427536},{path="vo/medic_cloakedspyidentify03.mp3",length=1.4889795918367}}
-L["the medic is a spy"]={{path="vo/sniper_cloakedspyidentify06.mp3",length=1.4164172410965},{path="vo/medic_cloakedspyidentify07.mp3",length=1.5934693877551}}
+L["the heavy is a spy"]={{path="vo/medic_cloakedspyidentify03.mp3",length=1.4889795918367}}
+L["the medic is a spy"]={{path="vo/medic_cloakedspyidentify07.mp3",length=1.5934693877551}}
 L["the patient died but sadly his terrible hat lives on"]={{path="vo/medic_hat_taunts03.mp3",length=4.0751020408163}}
 L["the pyro is a spy"]={{path="vo/medic_cloakedspyidentify04.mp3",length=1.8982312679291}}
 L["the robot is sapped"]={{path="vo/medic_mvm_robot_sapped02.mp3",length=1.5934693877551}}
-L["the robots are attacking the gate"]={{path="vo/soldier_mvm_mannhattan_gate_atk01.mp3",length=1.7763265306122},{path="vo/medic_mvm_mannhattan_gate_atk02.mp3",length=2.1942857142857}}
-L["the robots have taken the gate"]={{path="vo/spy_mvm_mannhattan_gate_take01.mp3",length=2.429387755102},{path="vo/medic_mvm_mannhattan_gate_take01.mp3",length=2.0375510204082}}
+L["the robots are attacking the gate"]={{path="vo/medic_mvm_mannhattan_gate_atk02.mp3",length=2.1942857142857}}
+L["the robots have taken the gate"]={{path="vo/medic_mvm_mannhattan_gate_take01.mp3",length=2.0375510204082}}
 L["the robots have the gate"]={{path="vo/medic_mvm_mannhattan_gate_take02.mp3",length=1.6979591836735}}
-L["the scout is a spy"]={{path="vo/sniper_cloakedspyidentify01.mp3",length=1.4744671583176},{path="vo/medic_cloakedspyidentify01.mp3",length=1.8024489795918}}
+L["the scout is a spy"]={{path="vo/medic_cloakedspyidentify01.mp3",length=1.8024489795918}}
 L["the sentry goes here"]={{path="vo/medic_needsentry01.mp3",length=1.8692063093185}}
-L["the sniper is a spy"]={{path="vo/spy_cloakedspyidentify10.mp3",length=1.387392282486},{path="vo/medic_cloakedspyidentify09.mp3",length=1.8285714285714}}
+L["the sniper is a spy"]={{path="vo/medic_cloakedspyidentify09.mp3",length=1.8285714285714}}
 L["the soldier is a spy"]={{path="vo/medic_cloakedspyidentify02.mp3",length=1.9272562265396}}
 L["the spy is a double agent"]={{path="vo/medic_cloakedspyidentify06.mp3",length=1.8285714387894}}
 L["the tank is dropping a bomb"]={{path="vo/medic_mvm_tank_deploy01.mp3",length=2.0114285714286}}
@@ -281,7 +281,7 @@ L["we have done it"]={{path="vo/medic_mvm_wave_end01.mp3",length=1.5151020408163
 L["we must defend this point"]={{path="vo/medic_helpmedefend01.mp3",length=2.0607709884644}}
 L["we should trade"]={{path="vo/medic_trade_taunts01.mp3",length=1.4367346938776}}
 L["welcome to the we lose once again team"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
-L["well done"]={{path="vo/medic_cheers02.mp3",length=0.94621312618256},{path="vo/announcer_am_killstreak02.mp3",length=2.7167346938776}}
+L["well done"]={{path="vo/medic_cheers02.mp3",length=0.94621312618256}}
 L["where are you wizard"]={{path="vo/medic_sf12_seeking07.mp3",length=1.5934693877551}}
 L["where are your precious papers now dummkopfs"]={{path="vo/medic_autocappedintelligence03.mp3",length=3.3785033226013}}
 L["who is not ready"]={{path="vo/medic_mvm_ask_ready01.mp3",length=1.5412244897959}}
@@ -294,7 +294,7 @@ L["wizard the sooner you come out the sooner we can kill you"]={{path="vo/medic_
 L["wizard where are you"]={{path="vo/medic_sf12_seeking01.mp3",length=3.3436734693878}}
 L["wonderful"]={{path="vo/medic_positivevocalization01.mp3",length=1.1406803131104}}
 L["wunderbar"]={{path="vo/medic_positivevocalization02.mp3",length=1.4193197488785},{path="vo/medic_mvm_loot_godlike01.mp3",length=1.6718367346939}}
-L["yes"]={{path="vo/spy_yes01.mp3",length=0.7836734693878},{path="vo/mvm_general_destruction01.mp3",length=1.9069387755102},{path="vo/medic_yes03.mp3",length=0.7575510204082},{path="vo/heavy_yes02.mp3",length=0.67918366193771},{path="vo/announcer_am_killstreak08.mp3",length=2.6383673469388}}
+L["yes"]={{path="vo/medic_yes03.mp3",length=0.7575510204082}}
 L["you are trying my patience"]={{path="vo/medic_jeers06.mp3",length=2.5832200050354}}
 L["you want this then trade me for it"]={{path="vo/medic_trade_taunts03.mp3",length=3.2914285714286}}
 L["you will go no further"]={{path="vo/medic_mvm_heal_shield02.mp3",length=1.8808163265306}}

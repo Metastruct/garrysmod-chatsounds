@@ -16,7 +16,7 @@ L["apologies"]={{path="vo/spy_specialcompleted01.mp3",length=1.012970521542}}
 L["as if i would get blood on a three thousand dollar suit come on"]={{path="vo/spy_tietaunt09.mp3",length=4.3102040816327}}
 L["at least you died for honor and my amusement"]={{path="vo/spy_dominationsoldier03.mp3",length=3.8506802721088}}
 L["at your pleasure doctor"]={{path="vo/spy_activatecharge02.mp3",length=1.1058503401361}}
-L["augh"]={{path="vo/spy_negativevocalization01.mp3",length=1.2393651008606},{path="vo/sniper_negativevocalization04.mp3",length=0.8620408163265}}
+L["augh"]={{path="vo/spy_negativevocalization01.mp3",length=1.2393651008606}}
 L["augh merde"]={{path="vo/spy_jeers06.mp3",length=1.6253968477249}}
 L["augh the cart has stopped"]={{path="vo/spy_cartstoppedoffense02.mp3",length=2.7951020408163}}
 L["aww too bad this wasnt a pieeating contenst"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
@@ -35,7 +35,7 @@ L["come help me capture this"]={{path="vo/spy_helpmecapture01.mp3",length=1.5092
 L["come stand on the point"]={{path="vo/spy_standonthepoint01.mp3",length=1.2770975056689}}
 L["come stand on the point you idiot"]={{path="vo/spy_standonthepoint02.mp3",length=1.8285714285714}}
 L["come stand on the point you imbecile"]={{path="vo/spy_standonthepoint04.mp3",length=2.0897959183673}}
-L["coward"]={{path="vo/spy_specialcompleted09.mp3",length=0.59501135349274},{path="vo/announcer_am_lastmanforfeit01.mp3",length=3.2914285714286}}
+L["coward"]={{path="vo/spy_specialcompleted09.mp3",length=0.59501135349274}}
 L["coward disgusted"]={{path="vo/spy_specialcompleted09.mp3",length=0.59501133786848}}
 L["damnit we are losing ground"]={{path="vo/spy_cartgoingbackoffense02.mp3",length=2.0636734693878}}
 L["death is but a doorway"]={{path="vo/spy_mvm_resurrect04.mp3",length=2.0897959183673}}
@@ -44,7 +44,7 @@ L["did i throw a wrench into your plans laughs"]={{path="vo/spy_dominationengine
 L["did i throw a wrench into your plans laughter"]={{path="vo/spy_dominationengineer04.mp3",length=3.36}}
 L["did you forget about me"]={{path="vo/spy_revenge03.mp3",length=1.7173469387755}}
 L["do not leave the cart"]={{path="vo/spy_cartstaycloseoffense04.mp3",length=2.0114285714286}}
-L["doctor"]={{path="vo/spy_medic02.mp3",length=0.64435374736786},{path="vo/spy_medic01.mp3",length=0.77206349206349},{path="vo/medic_medic01.mp3",length=1.3061224489796}}
+L["doctor"]={{path="vo/spy_medic02.mp3",length=0.64435374736786},{path="vo/spy_medic01.mp3",length=0.77206349206349}}
 L["doctor if you please"]={{path="vo/spy_activatecharge03.mp3",length=1.190022675737}}
 L["does it hurt when i do that it does doesnt it"]={{path="vo/spy_dominationmedic06.mp3",length=3.7760090702948}}
 L["dominated you fatuous fatheaded fat man"]={{path="vo/spy_dominationheavy04.mp3",length=3.5146712018141}}
@@ -54,19 +54,19 @@ L["don feel bad you did a fine job tossing your little balls around"]={{path="vo
 L["dont feel bad you did a fine job tossing your little balls around"]={{path="vo/spy_dominationdemoman04.mp3",length=4.2506804466248}}
 L["eaugh"]={{path="vo/spy_jaratehit06.mp3",length=1.5466666221619}}
 L["everyone back to the base pardner"]={{path="vo/taunts/spy_taunts08.mp3",length=2.2813605442177}}
-L["everyone push"]={{path="vo/spy_cartgoingforwardoffense04.mp3",length=1.7502040816327},{path="vo/medic_cartgoingforwardoffense03.mp3",length=1.9591836734694},{path="vo/heavy_cartmovingforwardoffense05.mp3",length=1.714671254158}}
+L["everyone push"]={{path="vo/spy_cartgoingforwardoffense04.mp3",length=1.7502040816327}}
 L["evil"]={{path="vo/spy_laughevil02.mp3",length=1.4686621315193}}
-L["excellent"]={{path="vo/spy_rpswin01.mp3",length=1.0971428571429},{path="vo/spy_positivevocalization01.mp3",length=0.91428571428571},{path="vo/spy_cheers06.mp3",length=0.7575510204082},{path="vo/spy_autocappedcontrolpoint03.mp3",length=0.8620408163265},{path="vo/pyro_positivevocalization01.mp3",length=0.83734691143036},{path="vo/mvm_general_destruction02.mp3",length=2.2204081632653}}
+L["excellent"]={{path="vo/spy_rpswin01.mp3",length=1.0971428571429},{path="vo/spy_positivevocalization01.mp3",length=0.91428571428571},{path="vo/spy_cheers06.mp3",length=0.7575510204082},{path="vo/spy_autocappedcontrolpoint03.mp3",length=0.8620408163265}}
 L["excellent the carts moving back"]={{path="vo/spy_cartgoingbackdefense01.mp3",length=2.4816326530612}}
 L["fine job"]={{path="vo/spy_goodjob02.mp3",length=1.0565079365079}}
-L["fire fire fire"]={{path="vo/spy_autoonfire02.mp3",length=1.3554648526077},{path="vo/sniper_autoonfire01.mp3",length=1.8692063093185},{path="vo/medic_autoonfire01.mp3",length=2.1420407295227},{path="vo/heavy_autoonfire01.mp3",length=2.9199092388153}}
+L["fire fire fire"]={{path="vo/spy_autoonfire02.mp3",length=1.3554648526077}}
 L["first rate"]={{path="vo/spy_positivevocalization04.mp3",length=0.82430839002268}}
 L["follow me doctor"]={{path="vo/spy_medicfollow02.mp3",length=1.0160090702948}}
 L["gasps in pain"]={{path="vo/spy_painsharp04.mp3",length=0.42811790108681}}
 L["gentlemen"]={{path="vo/spy_battlecry01.mp3",length=0.72852607709751}}
 L["gentlemen im back"]={{path="vo/spy_mvm_resurrect01.mp3",length=1.9591836734694}}
 L["get to the bomb cart"]={{path="vo/spy_cartstopitdefense04.mp3",length=1.6718367346939}}
-L["get to the cart"]={{path="vo/spy_cartstaycloseoffense02.mp3",length=1.28},{path="vo/spy_cartstaycloseoffense01.mp3",length=1.410612244898},{path="vo/soldier_cartstopitdefense02.mp3",length=1.0187755102041},{path="vo/soldier_cartstaycloseoffense01.mp3",length=1.3322448979592},{path="vo/demoman_cartstaycloseoffense01.mp3",length=1.4889795918367},{path="vo/announcer_am_gamestarting01.mp3",length=2.8995918367347}}
+L["get to the cart"]={{path="vo/spy_cartstaycloseoffense02.mp3",length=1.28},{path="vo/spy_cartstaycloseoffense01.mp3",length=1.410612244898}}
 L["giddy up now to hell"]={{path="vo/spy_dominationengineer06.mp3",length=2.1386847496033}}
 L["giddyup now to hell"]={{path="vo/spy_dominationengineer06.mp3",length=2.1386848072562}}
 L["go left"]={{path="vo/spy_headleft03.mp3",length=0.69369614512472}}
@@ -128,7 +128,7 @@ L["ill take it"]={{path="vo/spy_mvm_loot_common02.mp3",length=0.9926530612245}}
 L["ill tell miss pauling youre occupied"]={{path="vo/spy_paulingkilltaunt01.mp3",length=3.5004081632653}}
 L["ill tell your mother hello"]={{path="vo/spy_paulingkilltaunt03.mp3",length=1.9330612244898}}
 L["im afraid not"]={{path="vo/spy_no03.mp3",length=0.93750566893424}}
-L["im back"]={{path="vo/spy_mvm_resurrect03.mp3",length=1.0710204081633},{path="vo/medic_mvm_resurrect03.mp3",length=1.7502040816327},{path="vo/heavy_mvm_resurrect04.mp3",length=1.7502040816327},{path="vo/demoman_mvm_resurrect01.mp3",length=1.4367346938776}}
+L["im back"]={{path="vo/spy_mvm_resurrect03.mp3",length=1.0710204081633}}
 L["im back you subnormal half wit"]={{path="vo/spy_revenge02.mp3",length=2.8373469387755}}
 L["im back you subnormal halfwit"]={{path="vo/spy_revenge02.mp3",length=2.8373470306396}}
 L["im coming for you"]={{path="vo/taunts/spy_taunts10.mp3",length=1.8750113378685}}
@@ -137,12 +137,12 @@ L["im going to puncture you like an old tire"]={{path="vo/spy_stabtaunt16.mp3",l
 L["im looking at your x ray and i am afraid you suck"]={{path="vo/spy_dominationmedic04.mp3",length=3.8133333333333}}
 L["im looking at your xray and im afraid you suck"]={{path="vo/spy_dominationmedic04.mp3",length=3.813333272934}}
 L["im not going to stab you im not going to stab you ha i stabbed you"]={{path="vo/spy_stabtaunt07.mp3",length=4.989387755102}}
-L["incoming"]={{path="vo/spy_incoming03.mp3",length=0.7836734693878},{path="vo/spy_incoming02.mp3",length=0.6008163265306},{path="vo/spy_incoming01.mp3",length=0.81124716553288},{path="vo/sniper_incoming04.mp3",length=0.7314285714286},{path="vo/sniper_incoming03.mp3",length=1.28},{path="vo/sniper_incoming01.mp3",length=1.3844897959184},{path="vo/scout_incoming03.mp3",length=0.8359183673469},{path="vo/pyro_incoming01.mp3",length=1.5151020408163},{path="vo/medic_incoming03.mp3",length=0.7836734693878},{path="vo/medic_incoming02.mp3",length=1.2016326530612},{path="vo/medic_incoming01.mp3",length=0.9142857142857},{path="vo/heavy_incoming03.mp3",length=2.5338775510204},{path="vo/heavy_incoming02.mp3",length=1.3235374689102},{path="vo/heavy_incoming01.mp3",length=1.0971428571429},{path="vo/engineer_incoming03.mp3",length=0.7836734693878},{path="vo/engineer_incoming02.mp3",length=0.7575510204082},{path="vo/demoman_incoming02.mp3",length=1.0187755102041},{path="vo/demoman_incoming01.mp3",length=0.9404081632653}}
+L["incoming"]={{path="vo/spy_incoming03.mp3",length=0.7836734693878},{path="vo/spy_incoming02.mp3",length=0.6008163265306},{path="vo/spy_incoming01.mp3",length=0.81124716553288}}
 L["is this mon dieu"]={{path="vo/spy_jaratehit01.mp3",length=2.8613378684807}}
 L["it seems i am not the only spy"]={{path="vo/spy_cloakedspy01.mp3",length=2.2581405895692}}
 L["it should be a crime to look this good"]={{path="vo/spy_tietaunt04.mp3",length=2.9257142857143}}
 L["its a privilege to be killed by a man who looks this good"]={{path="vo/spy_tietaunt08.mp3",length=4.2057142857143}}
-L["its perfect"]={{path="vo/spy_mvm_loot_godlike02.mp3",length=2.2465306122449},{path="vo/soldier_mvm_loot_godlike02.mp3",length=1.2538775510204},{path="vo/scout_mvm_loot_godlike02.mp3",length=2.2465306122449},{path="vo/heavy_mvm_loot_godlike02.mp3",length=1.7240816326531},{path="vo/engineer_mvm_loot_godlike02.mp3",length=1.0971428571429}}
+L["its perfect"]={{path="vo/spy_mvm_loot_godlike02.mp3",length=2.2465306122449}}
 L["its the only one of its kind and its mine"]={{path="vo/spy_mvm_loot_godlike03.mp3",length=4.2318367346939}}
 L["ive merely finished what your liver started"]={{path="vo/spy_dominationdemoman06.mp3",length=2.4880045351474}}
 L["jarate"]={{path="vo/spy_jaratehit05.mp3",length=2.2066666666667}}
@@ -174,7 +174,7 @@ L["medic"]={{path="vo/spy_medic03.mp3",length=0.54566893424036}}
 L["medic medic medic laughs"]={{path="vo/spy_dominationmedic02.mp3",length=3.8106803894043}}
 L["merde a tie"]={{path="vo/spy_rpstie01.mp3",length=2.1420408163265}}
 L["more defense required here"]={{path="vo/spy_helpmedefend02.mp3",length=1.6950566893424}}
-L["move"]={{path="vo/spy_go01.mp3",length=0.57759637188209},{path="vo/heavy_go03.mp3",length=0.79238092899323}}
+L["move"]={{path="vo/spy_go01.mp3",length=0.57759637188209}}
 L["move these machines up"]={{path="vo/spy_moveup02.mp3",length=1.3003174603175}}
 L["move these things up"]={{path="vo/spy_moveup01.mp3",length=1.012970521542}}
 L["much appreciated doctor"]={{path="vo/spy_thanksfortheheal03.mp3",length=1.544126984127}}
@@ -183,8 +183,8 @@ L["my god"]={{path="vo/spy_mvm_loot_godlike01.mp3",length=2.2987755102041}}
 L["my pleasure"]={{path="vo/spy_autocappedintelligence02.mp3",length=1.0507029478458}}
 L["naturally"]={{path="vo/spy_cheers05.mp3",length=0.76625850340136}}
 L["naugh"]={{path="vo/spy_negativevocalization08.mp3",length=0.87365078926086}}
-L["nice shot"]={{path="vo/spy_niceshot01.mp3",length=0.86204081632653},{path="vo/soldier_niceshot01.mp3",length=0.83591836690903},{path="vo/sniper_niceshot01.mp3",length=0.61242628097534},{path="vo/scout_niceshot01.mp3",length=1.0013605356216},{path="vo/pyro_niceshot01.mp3",length=0.8359183673469},{path="vo/heavy_niceshot03.mp3",length=1.1697052717209},{path="vo/engineer_niceshot02.mp3",length=0.8591383099556}}
-L["no"]={{path="vo/spy_no02.mp3",length=0.4237641723356},{path="vo/sniper_no01.mp3",length=0.51954650878906},{path="vo/scout_no02.mp3",length=0.52680271863937},{path="vo/pyro_no01.mp3",length=0.4963265306122},{path="vo/medic_no02.mp3",length=0.39328798651695}}
+L["nice shot"]={{path="vo/spy_niceshot01.mp3",length=0.86204081632653}}
+L["no"]={{path="vo/spy_no02.mp3",length=0.4237641723356}}
 L["no coffin can contain me"]={{path="vo/spy_mvm_resurrect07.mp3",length=2.0897959183673}}
 L["no worries mate laughs"]={{path="vo/spy_dominationsniper03.mp3",length=2.9226758480072}}
 L["not much of a quick draw are you pardner"]={{path="vo/spy_dominationengineer05.mp3",length=2.6266666666667}}
@@ -209,8 +209,8 @@ L["oo you were quick as a little bunny weren t you"]={{path="vo/spy_dominationsc
 L["ooh you were quick as a little bunny wernt you"]={{path="vo/spy_dominationscout03.mp3",length=3.7066667079926}}
 L["our influence grows"]={{path="vo/spy_autocappedcontrolpoint02.mp3",length=1.4280272108844}}
 L["pain death scream"]={{path="vo/spy_paincrticialdeath02.mp3",length=1.9040362811791}}
-L["paincriticaldeath"]={{path="vo/spy_painsevere05.mp3",length=0.6791836734694},{path="vo/spy_painsevere04.mp3",length=0.7575510204082},{path="vo/spy_paincrticialdeath03.mp3",length=1.7763265306122},{path="vo/soldier_paincrticialdeath04.mp3",length=2.429387755102},{path="vo/soldier_paincrticialdeath03.mp3",length=2.7167346938776},{path="vo/soldier_paincrticialdeath02.mp3",length=2.6122448979592},{path="vo/soldier_paincrticialdeath01.mp3",length=2.2987755102041},{path="vo/pyro_paincrticialdeath03.mp3",length=2.6122448979592},{path="vo/pyro_paincrticialdeath02.mp3",length=1.6718367346939},{path="vo/medic_paincrticialdeath04.mp3",length=2.9518367346939},{path="vo/medic_paincrticialdeath03.mp3",length=2.0375510204082},{path="vo/medic_paincrticialdeath02.mp3",length=1.9069387755102},{path="vo/medic_paincrticialdeath01.mp3",length=1.4628571428571},{path="vo/heavy_paincrticialdeath02.mp3",length=2.2726530612245},{path="vo/heavy_paincrticialdeath01.mp3",length=2.1942857142857},{path="vo/engineer_paincrticialdeath04.mp3",length=1.28},{path="vo/engineer_paincrticialdeath03.mp3",length=1.3844897959184},{path="vo/engineer_paincrticialdeath02.mp3",length=1.7502040816327},{path="vo/demoman_paincrticialdeath05.mp3",length=2.429387755102},{path="vo/demoman_paincrticialdeath04.mp3",length=1.6979591836735},{path="vo/demoman_paincrticialdeath03.mp3",length=1.9069387755102},{path="vo/demoman_paincrticialdeath02.mp3",length=2.1942857142857},{path="vo/demoman_paincrticialdeath01.mp3",length=2.1420408163265}}
-L["painsharp"]={{path="vo/spy_painsharp03.mp3",length=0.4702040816327},{path="vo/spy_painsharp02.mp3",length=0.5485714285714},{path="vo/soldier_painsharp06.mp3",length=0.3395918367347},{path="vo/soldier_painsharp02.mp3",length=0.3657142857143},{path="vo/sniper_painsharp01.mp3",length=0.3918367346939},{path="vo/pyro_painsharp07.mp3",length=0.4179591836735},{path="vo/pyro_painsharp06.mp3",length=0.4702040816327},{path="vo/pyro_painsharp05.mp3",length=0.4440816326531},{path="vo/pyro_painsharp04.mp3",length=0.3134693877551},{path="vo/pyro_painsharp03.mp3",length=0.5485714285714},{path="vo/pyro_painsharp02.mp3",length=0.3134693877551},{path="vo/pyro_painsharp01.mp3",length=0.3657142857143},{path="vo/medic_painsharp08.mp3",length=0.4440816326531},{path="vo/medic_painsharp07.mp3",length=0.574693877551},{path="vo/medic_painsharp06.mp3",length=0.4440816326531},{path="vo/medic_painsharp05.mp3",length=0.4702040816327},{path="vo/medic_painsharp03.mp3",length=0.3134693877551},{path="vo/medic_painsharp02.mp3",length=0.4702040816327},{path="vo/medic_painsharp01.mp3",length=0.4440816326531},{path="vo/heavy_painsharp05.mp3",length=0.7575510204082},{path="vo/heavy_painsharp03.mp3",length=0.6530612244898},{path="vo/heavy_painsharp02.mp3",length=0.6008163265306},{path="vo/heavy_painsharp01.mp3",length=0.4179591836735},{path="vo/engineer_painsharp07.mp3",length=0.4440816326531},{path="vo/engineer_painsharp06.mp3",length=0.6008163265306},{path="vo/engineer_painsharp05.mp3",length=0.4702040816327},{path="vo/engineer_painsharp04.mp3",length=0.574693877551},{path="vo/engineer_painsharp03.mp3",length=0.3657142857143},{path="vo/engineer_painsharp02.mp3",length=0.6269387755102},{path="vo/demoman_painsharp05.mp3",length=0.6269387755102},{path="vo/demoman_painsharp04.mp3",length=0.6008163265306},{path="vo/demoman_painsharp02.mp3",length=0.5224489795918},{path="vo/demoman_painsharp01.mp3",length=0.4963265306122}}
+L["paincriticaldeath"]={{path="vo/spy_painsevere05.mp3",length=0.6791836734694},{path="vo/spy_painsevere04.mp3",length=0.7575510204082},{path="vo/spy_paincrticialdeath03.mp3",length=1.7763265306122}}
+L["painsharp"]={{path="vo/spy_painsharp03.mp3",length=0.4702040816327},{path="vo/spy_painsharp02.mp3",length=0.5485714285714}}
 L["paper"]={{path="vo/spy_rpscountpaper02.mp3",length=0.705306122449},{path="vo/spy_rpscountpaper01.mp3",length=0.4963265306122}}
 L["paper envelopes rock"]={{path="vo/spy_rpspaperwin02.mp3",length=1.985306122449}}
 L["paper i should have chosen paper"]={{path="vo/spy_rpsregretpaper01.mp3",length=2.2204081632653}}
@@ -227,16 +227,16 @@ L["prego"]={{path="vo/spy_thanks01.mp3",length=0.58920633792877}}
 L["preposterous"]={{path="vo/spy_negativevocalization03.mp3",length=0.98975056689342}}
 L["proceed"]={{path="vo/spy_go03.mp3",length=0.63274376417234}}
 L["promise not to bleed on my suit and ill kill you quickly"]={{path="vo/taunts/spy_taunts01.mp3",length=2.7863945578231}}
-L["push"]={{path="vo/spy_cartgoingforwardoffense02.mp3",length=1.0971428571429},{path="vo/soldier_cartgoingforwardoffense13.mp3",length=1.2277551020408},{path="vo/soldier_cartgoingforwardoffense02.mp3",length=0.705306122449},{path="vo/medic_cartgoingforwardoffense01.mp3",length=0.8359183673469},{path="vo/heavy_cartmovingforwardoffense14.mp3",length=1.7599999904633}}
+L["push"]={{path="vo/spy_cartgoingforwardoffense02.mp3",length=1.0971428571429}}
 L["push damn you"]={{path="vo/spy_cartgoingforwardoffense08.mp3",length=1.4628571428571}}
 L["push everyone"]={{path="vo/spy_cartgoingforwardoffense03.mp3",length=1.6457142857143}}
 L["push push"]={{path="vo/spy_cartgoingforwardoffense01.mp3",length=2.0114285714286}}
-L["push the cart"]={{path="vo/spy_cartgoingforwardoffense05.mp3",length=1.2538775510204},{path="vo/medic_cartgoingforwardoffense04.mp3",length=1.1755102040816}}
+L["push the cart"]={{path="vo/spy_cartgoingforwardoffense05.mp3",length=1.2538775510204}}
 L["push you idiots"]={{path="vo/spy_cartgoingforwardoffense07.mp3",length=1.9069387755102}}
 L["puuush"]={{path="vo/spy_cartgoingforwardoffense06.mp3",length=1.3583673469388}}
 L["queens rules"]={{path="vo/spy_meleedare02.mp3",length=1.1586848072562}}
 L["quickly get to the island"]={{path="vo/spy_sf13_midnight08.mp3",length=1.985306122449}}
-L["right"]={{path="vo/spy_headright01.mp3",length=0.49342403628118},{path="vo/medic_headright01.mp3",length=0.7575510204082},{path="vo/heavy_headright02.mp3",length=0.7575510204082}}
+L["right"]={{path="vo/spy_headright01.mp3",length=0.49342403628118}}
 L["rock"]={{path="vo/spy_rpscountrock02.mp3",length=0.6269387755102},{path="vo/spy_rpscountrock01.mp3",length=0.574693877551}}
 L["rock i should have chosen rock"]={{path="vo/spy_rpsregretrock01.mp3",length=2.3248979591837}}
 L["rock obliterates scissors"]={{path="vo/spy_rpsrockwin01.mp3",length=2.0375510204082}}
@@ -267,8 +267,8 @@ L["spy gentlemen"]={{path="vo/spy_cloakedspy03.mp3",length=1.0042630385488}}
 L["spy in our midst"]={{path="vo/spy_cloakedspy02.mp3",length=1.0332879818594}}
 L["spylaugh"]={{path="vo/spy_laughshort06.mp3",length=0.63854873180389},{path="vo/spy_laughshort05.mp3",length=0.7778685092926},{path="vo/spy_laughshort04.mp3",length=0.88816326856613},{path="vo/spy_laughshort03.mp3",length=0.87074828147888},{path="vo/spy_laughshort02.mp3",length=1.2596825361252},{path="vo/spy_laughshort01.mp3",length=0.77496600151062},{path="vo/spy_laughlong01.mp3",length=6.4667572975159},{path="vo/spy_laughhappy03.mp3",length=1.6660317182541},{path="vo/spy_laughhappy02.mp3",length=1.1290702819824},{path="vo/spy_laughhappy01.mp3",length=1.8634014129639},{path="vo/spy_laughevil02.mp3",length=1.4686621427536},{path="vo/spy_laughevil01.mp3",length=2.0027210712433}}
 L["stand next to the bomb"]={{path="vo/spy_cartstopitdefense02.mp3",length=1.854693877551}}
-L["stay close to the cart"]={{path="vo/spy_cartstaycloseoffense03.mp3",length=1.6718367346939},{path="vo/medic_cartstaycloseoffense03.mp3",length=2.0897959183673}}
-L["stop that cart"]={{path="vo/spy_cartgoingforwarddefense02.mp3",length=1.5412244897959},{path="vo/soldier_cartgoingforwarddefense03.mp3",length=1.2016326530612}}
+L["stay close to the cart"]={{path="vo/spy_cartstaycloseoffense03.mp3",length=1.6718367346939}}
+L["stop that cart"]={{path="vo/spy_cartgoingforwarddefense02.mp3",length=1.5412244897959}}
 L["stop that cart you idiots"]={{path="vo/spy_cartgoingforwarddefense03.mp3",length=2.4816326530612}}
 L["superior shot"]={{path="vo/spy_niceshot03.mp3",length=1.3061224489796}}
 L["suprise"]={{path="vo/spy_specialcompleted12.mp3",length=0.98975056409836}}
@@ -294,8 +294,8 @@ L["the medic is a spy"]={{path="vo/spy_cloakedspyidentify08.mp3",length=1.338049
 L["the outcome was never really in doubt"]={{path="vo/spy_cheers07.mp3",length=1.9330612244898}}
 L["the pyro is a spy"]={{path="vo/spy_cloakedspyidentify04.mp3",length=1.3728798185941}}
 L["the robots are at the gate"]={{path="vo/spy_mvm_mannhattan_gate_atk01.mp3",length=1.9330612244898}}
-L["the robots are taking the gate"]={{path="vo/spy_mvm_mannhattan_gate_atk02.mp3",length=2.4816326530612},{path="vo/scout_mvm_mannhattan_gate_atk02.mp3",length=1.4889795918367},{path="vo/engineer_mvm_mannhattan_gate_atk01.mp3",length=1.5673469387755}}
-L["the robots have taken the gate"]={{path="vo/spy_mvm_mannhattan_gate_take01.mp3",length=2.429387755102},{path="vo/medic_mvm_mannhattan_gate_take01.mp3",length=2.0375510204082}}
+L["the robots are taking the gate"]={{path="vo/spy_mvm_mannhattan_gate_atk02.mp3",length=2.4816326530612}}
+L["the robots have taken the gate"]={{path="vo/spy_mvm_mannhattan_gate_take01.mp3",length=2.429387755102}}
 L["the scout is a spy"]={{path="vo/spy_cloakedspyidentify01.mp3",length=1.2480725623583}}
 L["the sniper is a spy"]={{path="vo/spy_cloakedspyidentify10.mp3",length=1.3873922902494},{path="vo/medic_cloakedspyidentify09.mp3",length=1.8285714285714}}
 L["the soldier is a spy"]={{path="vo/spy_cloakedspyidentify02.mp3",length=1.2074376417234}}
@@ -312,7 +312,7 @@ L["to the right"]={{path="vo/spy_headright02.mp3",length=0.75174603174603}}
 L["top shelf"]={{path="vo/spy_positivevocalization05.mp3",length=0.91138321995465}}
 L["trois"]={{path="vo/spy_rpscountthree01.mp3",length=0.6269387755102}}
 L["un"]={{path="vo/spy_rpscountone01.mp3",length=0.5485714285714}}
-L["very nice"]={{path="vo/spy_mvm_loot_common01.mp3",length=1.410612244898},{path="vo/heavy_mvm_loot_rare01.mp3",length=1.9591836734694}}
+L["very nice"]={{path="vo/spy_mvm_loot_common01.mp3",length=1.410612244898}}
 L["visit your mother"]={{path="vo/spy_dominationscout01.mp3",length=2.2106802463531}}
 L["voila"]={{path="vo/spy_mvm_resurrect05.mp3",length=0.8097959183673}}
 L["was there ever any doubt"]={{path="vo/spy_autocappedintelligence01.mp3",length=1.3148299319728}}
@@ -329,7 +329,7 @@ L["weren t you supposed to be good at dodging"]={{path="vo/spy_dominationscout05
 L["wernt you supposed to be good at dodging"]={{path="vo/spy_dominationscout05.mp3",length=2.5546712875366}}
 L["weve got to stop that bomb"]={{path="vo/spy_cartstopitdefense01.mp3",length=2.1681632653061}}
 L["what a disaster"]={{path="vo/spy_jeers04.mp3",length=1.4686621315193}}
-L["what did i miss"]={{path="vo/spy_mvm_resurrect08.mp3",length=1.1755102040816},{path="vo/demoman_mvm_resurrect02.mp3",length=1.0448979591837}}
+L["what did i miss"]={{path="vo/spy_mvm_resurrect08.mp3",length=1.1755102040816}}
 L["what did they expect"]={{path="vo/spy_cheers04.mp3",length=1.3061224489796}}
 L["what s the matter fat got your tongue laughter"]={{path="vo/spy_dominationheavy08.mp3",length=4.2933333333333}}
 L["whats the matter fat got your tongue laughs"]={{path="vo/spy_dominationheavy08.mp3",length=4.293333530426}}
@@ -338,7 +338,7 @@ L["why dont we just give up pardner"]={{path="vo/taunts/spy_taunts07.mp3",length
 L["why is the cart not moving"]={{path="vo/spy_cartstoppedoffense03.mp3",length=2.6122448979592}}
 L["with my apologies"]={{path="vo/spy_specialcompleted02.mp3",length=1.4280272108844}}
 L["would someone care to help me capture this"]={{path="vo/spy_helpmecapture03.mp3",length=2.1710657596372}}
-L["yes"]={{path="vo/taunts/spy_highfive_success02.mp3",length=1.0989115646259},{path="vo/spy_yes01.mp3",length=0.7836734693878},{path="vo/mvm_general_destruction01.mp3",length=1.9069387755102},{path="vo/medic_yes03.mp3",length=0.7575510204082},{path="vo/heavy_yes02.mp3",length=0.67918366193771},{path="vo/announcer_am_killstreak08.mp3",length=2.6383673469388}}
+L["yes"]={{path="vo/taunts/spy_highfive_success02.mp3",length=1.0989115646259},{path="vo/spy_yes01.mp3",length=0.7836734693878}}
 L["yes the carts moving back"]={{path="vo/spy_cartgoingbackdefense02.mp3",length=2.3248979591837}}
 L["yippie kie yay my dead illiterate friend"]={{path="vo/spy_dominationengineer01.mp3",length=3.4506802721088}}
 L["yippiekiyay my illiterate friend"]={{path="vo/spy_dominationengineer01.mp3",length=3.4506802558899}}
@@ -350,7 +350,7 @@ L["you died as you lived morbidly obese"]={{path="vo/spy_dominationheavy05.mp3",
 L["you died as you lived running away"]={{path="vo/spy_dominationscout02.mp3",length=3.1520181405896}}
 L["you digust me fat man"]={{path="vo/spy_dominationheavy02.mp3",length=2.5040135383606}}
 L["you digust me filthy jar man"]={{path="vo/spy_dominationsniper02.mp3",length=3.0186848072562}}
-L["you disgust me"]={{path="vo/spy_specialcompleted10.mp3",length=1.2016326530612},{path="vo/announcer_am_lastmanforfeit04.mp3",length=4.0751020408163}}
+L["you disgust me"]={{path="vo/spy_specialcompleted10.mp3",length=1.2016326530612}}
 L["you disgust me fat man"]={{path="vo/spy_dominationheavy02.mp3",length=2.5040136054422}}
 L["you disgust me filthy jar man"]={{path="vo/spy_dominationsniper02.mp3",length=3.0186848640442}}
 L["you got blood on my suit"]={{path="vo/spy_specialcompleted11.mp3",length=1.4918820861678}}
