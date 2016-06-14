@@ -78,7 +78,7 @@ L["go go go"]={{path="vo/engineer_go03.mp3",length=0.50068027210884}}
 L["go on git"]={{path="vo/engineer_sentrymoving03.mp3",length=0.83526077097506}}
 L["go right"]={{path="vo/engineer_headright02.mp3",length=0.59791383219955}}
 L["good work"]={{path="vo/engineer_goodjob02.mp3",length=0.56308390022676}}
-L["gotcha chuck wagon"]={{path="vo/engineer_dominationheavy05.mp3",length=1.5795918367347}}
+L["gotcha chuckwagon"]={{path="vo/engineer_dominationheavy05.mp3",length=1.5795918367347}}
 L["gotcha eyehole"]={{path="vo/engineer_dominationdemoman06.mp3",length=1.503537414966}}
 L["gotcha fatboy"]={{path="vo/engineer_dominationheavy15.mp3",length=1.3553741496599}}
 L["gotcha mumbles"]={{path="vo/engineer_dominationpyro04.mp3",length=1.283537414966}}
