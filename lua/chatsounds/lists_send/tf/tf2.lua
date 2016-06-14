@@ -46,7 +46,6 @@ L["ahhh thats apples mate"]={{path="vo/sniper_award14.mp3",length=1.618639469146
 L["ahhyhas the way to do it"]={{path="vo/demoman_battlecry06.mp3",length=2.7167346477509}}
 L["aint so hard now are you fatcakes"]={{path="vo/scout_dominationhvy06.mp3",length=1.8720180988312}}
 L["aint that a cute little gun"]={{path="vo/engineer_littlesentry02.mp3",length=1.5375056266785}}
-L["ajksldfjaklsdjflksdfkjalksdfjklasjdklaksdksf"]={{path="vo/announcer_mvm_engbots_dead_tele01.mp3",length=5.0416326530612}}
 L["alert"]={{path="vo/announcer_alert.mp3",length=1.3508616685867}}
 L["alert a bomb has entered the area"]={{path="vo/mvm_bomb_alerts02.mp3",length=3.4742857142857},{path="vo/mvm_bomb_alerts01.mp3",length=3.8922448979592}}
 L["alert a friendship has been detected and will be eliminated"]={{path="vo/announcer_dec_missionbegins60s01.mp3",length=6.530612244898}}
@@ -687,7 +686,7 @@ L["go to the right"]={{path="vo/pyro_headright01.mp3",length=1.2106802463531}}
 L["god save the queen"]={{path="vo/sniper_battlecry05.mp3",length=1.9736961126328}}
 L["godspeed you magnificent bastard"]={{path="vo/soldier_hatoverhearttaunt05.mp3",length=1.8687528371811}}
 L["good"]={{path="vo/heavy_goodjob02.mp3",length=1.149387717247}}
-L["good catch buddy"]={{path="vo/scout_stunballhit10.mp3",length=1.1799999475479}}
+L["good catch dummy"]={{path="vo/scout_stunballhit10.mp3",length=1.1799999475479}}
 L["good day to you mate laughs"]={{path="vo/spy_dominationsniper07.mp3",length=3.1840136051178}}
 L["good good never forget you work for me"]={{path="vo/announcer_dec_kill10.mp3",length=6.1387755102041}}
 L["good hands buddy"]={{path="vo/scout_stunballhit09.mp3",length=0.96401357650757}}
@@ -1516,7 +1515,6 @@ L["now go"]={{path="vo/medic_specialcompleted04.mp3",length=0.89977324008942}}
 L["now head to an upgrade station"]={{path="vo/mvm_get_to_upgrade07.mp3",length=2.7428571428571}}
 L["now hear this camper you are not wanted on my beloved battlefield"]={{path="vo/soldier_dominationsniper03.mp3",length=4.8491835594177}}
 L["now i am king of team"]={{path="vo/heavy_award16.mp3",length=3.6373469829559}}
-L["now i gotta make a neckless out of your teeth bushman rules"]={{path="vo/sniper_domination14.mp3",length=3.6048979591837}}
 L["now is coward killing time"]={{path="vo/heavy_specialcompleted05.mp3",length=3.0476191043854}}
 L["now is the time herr doctor"]={{path="vo/medic_activatecharge03.mp3",length=1.8026757240295}}
 L["now its our flippin point hehheh"]={{path="vo/demoman_autocappedcontrolpoint03.mp3",length=3.0069842338562}}

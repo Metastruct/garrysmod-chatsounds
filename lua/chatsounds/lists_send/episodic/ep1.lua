@@ -1417,11 +1417,11 @@ L["see that barricade up ahead"]={{path="vo/episode_1/c17/al_snipe_runforit01.wa
 L["see ya when i see ya"]={{path="vo/episode_1/c17/ba_seeya.wav",length=1.6499773263931}}
 L["seething"]={{path="vo/episode_1/citadel/al_traitor01.wav",length=0.41496598720551}}
 L["send out the first group"]={{path="vo/episode_1/c17/al_evac_soundsgood02.wav",length=1.1261677742004}}
-L["sh"]={{path="vo/episode_1/npc/alyx/al_dark_noises06.wav",length=0.9737868480726}}
 L["shall we"]={{path="vo/episode_1/npc/alyx/al_lead_start07.wav",length=0.5138095238095},{path="vo/episode_1/citadel/al_shallwe.wav",length=0.5035827755928}}
 L["shall we go"]={{path="vo/episode_1/c17/al_hospital_shallwego.wav",length=0.74811792373657}}
 L["shes in serious trouble"]={{path="vo/episode_1/citadel/al_postcore_trouble01.wav",length=1.5099319219589}}
 L["shes waiting for you"]={{path="vo/episode_1/c17/ba_sheswaiting.wav",length=1.0637642145157}}
+L["shh"]={{path="vo/episode_1/npc/alyx/al_dark_noises06.wav",length=0.9737868480726}}
 L["shine your flashlight on the powerbox so i can work on it"]={{path="vo/episode_1/c17/al_dark_needlight_02.wav",length=2.8675284385681}}
 L["shine your light on that barnacle"]={{path="vo/episode_1/npc/alyx/al_light_barnacle01.wav",length=1.5455782312925}}
 L["shine your light on that thing"]={{path="vo/episode_1/npc/alyx/al_light_generic02.wav",length=1.4541496598639}}
