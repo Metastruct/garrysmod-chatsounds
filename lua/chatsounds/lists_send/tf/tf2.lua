@@ -1185,7 +1185,7 @@ L["its me or him and i pay your salary make your choice"]={{path="vo/announcer_d
 L["its neck and neck"]={{path="vo/announcer_plr_racegeneral05.mp3",length=3.709387755102}}
 L["its not a race its a war"]={{path="vo/announcer_plr_racegeneral08.mp3",length=3.9444897959184}}
 L["its not too late to repent kill your friends now and end this listen to your conscience"]={{path="vo/announcer_dec_missionbegins30s05.mp3",length=7.4971428571429}}
-L["its only going to get worst mate"]={{path="vo/sniper_domination10.mp3",length=2.1942857142857}}
+L["its only going to get worse mate"]={{path="vo/sniper_domination10.mp3",length=2.1942857142857}}
 L["its perfect"]={{path="vo/spy_mvm_loot_godlike02.mp3",length=2.2465306122449},{path="vo/soldier_mvm_loot_godlike02.mp3",length=1.2538775510204},{path="vo/scout_mvm_loot_godlike02.mp3",length=2.2465306122449},{path="vo/heavy_mvm_loot_godlike02.mp3",length=1.7240816326531},{path="vo/engineer_mvm_loot_godlike02.mp3",length=1.0971428571429}}
 L["its rollin back"]={{path="vo/demoman_cartgoingbackdefense03.mp3",length=2.4032653061224}}
 L["its rollin bloody back"]={{path="vo/demoman_cartgoingbackoffense02.mp3",length=2.7689795918367}}
@@ -2960,7 +2960,7 @@ L["youre like a car crash in slow motion its like im watching you fly through a 
 L["youre like a little bunny scurrying around eatin your lettuce and berries"]={{path="vo/demoman_dominationscout05.mp3",length=4.859682559967}}
 L["youre like the cyclops of greek myth except you are scottish and i hate you"]={{path="vo/soldier_dominationdemoman06.mp3",length=5.1794104576111}}
 L["youre making me very cross"]={{path="vo/taunts/demoman_taunts07.mp3",length=3.7848525047302}}
-L["youre making this so easy im actually getting worst"]={{path="vo/sniper_domination16.mp3",length=2.8473469387755}}
+L["youre making this so easy im actually getting worse"]={{path="vo/sniper_domination16.mp3",length=2.8473469387755}}
 L["youre so bloody tiny youre like a toysized version of a man"]={{path="vo/demoman_dominationscout06.mp3",length=5.4801812171936}}
 L["youre weak im strong and i win toymaker"]={{path="vo/demoman_dominationengineer02.mp3",length=4.6641721725464}}
 L["youre with me doctor"]={{path="vo/sniper_medicfollow02.mp3",length=0.9306349158287}}

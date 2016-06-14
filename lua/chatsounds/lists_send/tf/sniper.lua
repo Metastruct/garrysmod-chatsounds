@@ -187,7 +187,7 @@ L["im rich im rich im filthy bloody stinking rich"]={{path="vo/sniper_mvm_loot_g
 L["im running out of places to put holes in you"]={{path="vo/sniper_domination04.mp3",length=2.5077551020408}}
 L["incoming"]={{path="vo/spy_incoming03.mp3",length=0.7836734693878},{path="vo/spy_incoming02.mp3",length=0.6008163265306},{path="vo/sniper_incoming04.mp3",length=0.7314285714286},{path="vo/sniper_incoming03.mp3",length=1.28},{path="vo/sniper_incoming02.mp3",length=0.89977324263039},{path="vo/sniper_incoming01.mp3",length=1.3844897959184},{path="vo/scout_incoming03.mp3",length=0.8359183673469},{path="vo/pyro_incoming01.mp3",length=1.5151020408163},{path="vo/medic_incoming03.mp3",length=0.7836734693878},{path="vo/medic_incoming02.mp3",length=1.2016326530612},{path="vo/medic_incoming01.mp3",length=0.9142857142857},{path="vo/heavy_incoming03.mp3",length=2.5338775510204},{path="vo/heavy_incoming02.mp3",length=1.3235374689102},{path="vo/heavy_incoming01.mp3",length=1.0971428571429},{path="vo/engineer_incoming03.mp3",length=0.7836734693878},{path="vo/engineer_incoming02.mp3",length=0.7575510204082},{path="vo/demoman_incoming02.mp3",length=1.0187755102041},{path="vo/demoman_incoming01.mp3",length=0.9404081632653}}
 L["its a miracle its an austrailian christmas bloody miracle"]={{path="vo/sniper_mvm_loot_godlike01.mp3",length=4.9371428571429}}
-L["its only going to get worst mate"]={{path="vo/sniper_domination10.mp3",length=2.1942857142857}}
+L["its only going to get worse mate"]={{path="vo/sniper_domination10.mp3",length=2.1942857142857}}
 L["ive slept in the corpse of water buffalo tougher than you"]={{path="vo/taunts/sniper_taunts04.mp3",length=3.1463038548753}}
 L["jarate"]={{path="vo/sniper_jaratetoss01.mp3",length=1.0613378684807}}
 L["keep pushing lads"]={{path="vo/sniper_cartmovingforwardoffensesoft06.mp3",length=1.0971428571429},{path="vo/sniper_cartmovingforwardoffense06.mp3",length=1.0710204081633}}
@@ -481,7 +481,7 @@ L["youll be needin another use for that neck"]={{path="vo/sniper_specialcomplete
 L["youre a mirical worker doc"]={{path="vo/sniper_mvm_resurrect04.mp3",length=1.6979591836735}}
 L["youre all a buncha no hopers"]={{path="vo/taunts/sniper_taunts09.mp3",length=1.8343764172336}}
 L["youre gonna keep finding yourself belly up"]={{path="vo/sniper_domination02.mp3",length=2.6644897959184}}
-L["youre making this so easy im actually getting worst"]={{path="vo/sniper_domination16.mp3",length=2.8473469387755}}
+L["youre making this so easy im actually getting worse"]={{path="vo/sniper_domination16.mp3",length=2.8473469387755}}
 L["youre with me doctor"]={{path="vo/sniper_medicfollow02.mp3",length=0.9306349158287}}
 L["youve been killed by the best cyclops"]={{path="vo/sniper_dominationdemoman04.mp3",length=2.0586848258972}}
 c.EndList()
