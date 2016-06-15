@@ -186,7 +186,7 @@ L["im not done yet mate not by a long shot"]={{path="vo/sniper_domination17.mp3"
 L["im rich im rich im filthy bloody stinking rich"]={{path="vo/sniper_mvm_loot_godlike02.mp3",length=4.5975510204082}}
 L["im running out of places to put holes in you"]={{path="vo/sniper_domination04.mp3",length=2.5077551020408}}
 L["incoming"]={{path="vo/sniper_incoming04.mp3",length=0.7314285714286},{path="vo/sniper_incoming03.mp3",length=1.28},{path="vo/sniper_incoming02.mp3",length=0.89977324263039},{path="vo/sniper_incoming01.mp3",length=1.3844897959184}}
-L["its a miracle its an austrailian christmas bloody miracle"]={{path="vo/sniper_mvm_loot_godlike01.mp3",length=4.9371428571429}}
+L["its a miracle its an australian christmas bloody miracle"]={{path="vo/sniper_mvm_loot_godlike01.mp3",length=4.9371428571429}}
 L["its only going to get worse mate"]={{path="vo/sniper_domination10.mp3",length=2.1942857142857}}
 L["ive slept in the corpse of water buffalo tougher than you"]={{path="vo/taunts/sniper_taunts04.mp3",length=3.1463038548753}}
 L["jarate"]={{path="vo/sniper_jaratetoss01.mp3",length=1.0613378684807}}

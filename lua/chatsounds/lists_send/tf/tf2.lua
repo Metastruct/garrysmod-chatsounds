@@ -1176,7 +1176,7 @@ L["it seems i am not the only spy"]={{path="vo/spy_cloakedspy01.mp3",length=2.25
 L["it should be a crime to look this good"]={{path="vo/spy_tietaunt04.mp3",length=2.9257142857143}}
 L["it was a mercy killing you live in a camper van"]={{path="vo/scout_dominationsnp04.mp3",length=2.677346944809}}
 L["its a fine thing lads"]={{path="vo/demoman_cheers08.mp3",length=2.1884806156158}}
-L["its a miracle its an austrailian christmas bloody miracle"]={{path="vo/sniper_mvm_loot_godlike01.mp3",length=4.9371428571429}}
+L["its a miracle its an australian christmas bloody miracle"]={{path="vo/sniper_mvm_loot_godlike01.mp3",length=4.9371428571429}}
 L["its a privilege to be killed by a man who looks this good"]={{path="vo/spy_tietaunt08.mp3",length=4.2057142857143}}
 L["its all up to you now"]={{path="vo/announcer_am_lastmanalive03.mp3",length=4.2057142857143}}
 L["its beautiful"]={{path="vo/engineer_mvm_loot_godlike03.mp3",length=1.4628571428571}}
