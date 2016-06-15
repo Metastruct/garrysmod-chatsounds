@@ -15,6 +15,7 @@ L["are all the accomplishments of humanity fated to be nothing more than a layer
 L["are you still with us doctor freeman not for much longer i think"]={{path="vo/citadel/br_mock01.wav",length=5.2786167800454}}
 L["at the moment i fear they have begun to look upon even me with suspicion so much for serving as humanitys representative"]={{path="vo/breencast/br_tofreeman08.wav",length=8.0604535147392}}
 L["be wise be safe be aware"]={{path="vo/breencast/br_disruptor08.wav",length=6.9689115646259}}
+L["brinstinct10tv"]={{path="vo/breencast/br_instinct10.wav",length=9.7137641723356}}
 L["but inseparable from instinct is its dark twin superstition"]={{path="vo/breencast/br_instinct12.wav",length=4.6430612244898}}
 L["carbon stars with ancient satellites colonized by sentient fungi"]={{path="vo/citadel/br_oheli07.wav",length=5.3558276643991}}
 L["choosing instead to embark on a path of ignorance and decay make no mistake dr freeman this is not a scientific revolution you have sparked this is death and finality"]={{path="vo/breencast/br_tofreeman05.wav",length=10.753764172336}}
@@ -24,7 +25,9 @@ L["did you realize your contract was open to the highest bidder"]={{path="vo/cit
 L["do what is right dr freeman"]={{path="vo/breencast/br_tofreeman11.wav",length=1.6901360544218}}
 L["doctor freeman you really shouldnt be out there at the moment of synapse as i teleport this chamber will be bathed in deadly particles that have yet to be named by human science perhaps when i have the leisure to do the work myself ill name one after you that way you wont be completely forgotten"]={{path="vo/citadel/br_synapse.wav",length=19.27179138322}}
 L["eli"]={{path="vo/citadel/br_playgame_a.wav",length=0.80764172335601}}
+L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979593276978}}
 L["even if you offered your surrender now i cannot guarantee that would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
+L["even if you offered your surrunder now"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979593276978}}
 L["first let us consider the fact that for the first time ever as a species immortality is in our reach"]={{path="vo/breencast/br_instinct05.wav",length=10.758299319728}}
 L["first you lead me straight to the doorstep of my oldest friend"]={{path="vo/citadel/br_guest_c.wav",length=4.2051927437642}}
 L["fortunately the resistance has shown it is willing to accept a new leader"]={{path="vo/citadel/br_newleader_b.wav",length=4.8170975056689}}
@@ -50,9 +53,11 @@ L["i could have told you that was pointless doctor freeman"]={{path="vo/citadel/
 L["i dont know what you can possibly hope to achieve apart from your own annihilation"]={{path="vo/citadel/br_mock05.wav",length=5.806485260771}}
 L["i find it helpful at times like these to remind myself that our true enemy is instinct"]={{path="vo/breencast/br_instinct08.wav",length=7.2728798185941}}
 L["i have been asked to say a few words to the transhuman arm of sector seventeen overwatch concerning recent successes in containing members of the resistance science team"]={{path="vo/breencast/br_overwatch01.wav",length=12.762108843537}}
+L["i have been proud to call city 17 my home and so whether you are here to stay or passing through on your way to parts unknown"]={{path="vo/breencast/br_welcome05.wav",length=10.141134262085}}
 L["i have known doctor vance far longer than you my dear im afraid your feelings for him may have blinded you"]={{path="vo/novaprospekt/br_blinded.wav",length=7.9791156462585}}
 L["i have laid the foundation for humanitys survival and not as we have narrowly defined ourselves but as something greater than we could ever imagine something we can only now begin to glimpse"]={{path="vo/citadel/br_foundation.wav",length=12.585124716553}}
 L["i hope you said your farewells"]={{path="vo/citadel/br_mock09.wav",length=2.9032426303855}}
+L["i thought so much of city 17 that i elected to establish my administration here"]={{path="vo/breencast/br_welcome03.wav",length=7.4454193115234}}
 L["i understand if you dont wish to discuss this in front of your friends"]={{path="vo/citadel/br_nothingtosay_a.wav",length=2.8195918367347}}
 L["i warned you this was futile"]={{path="vo/citadel/br_mock06.wav",length=2.6392970521542}}
 L["id like to take a moment to address you directly dr freeman"]={{path="vo/breencast/br_tofreeman01.wav",length=2.9051020408163}}
@@ -61,6 +66,7 @@ L["if only you had harnessed your boundless energy for a useful purpose"]={{path
 L["if you see this so called free man report him"]={{path="vo/breencast/br_disruptor06.wav",length=4.1174603174603}}
 L["if you wont do the right thing for the good of all people"]={{path="vo/citadel/br_playgame_b.wav",length=3.4583219954649}}
 L["ill send them on their way and then we can talk openly"]={{path="vo/citadel/br_nothingtosay_b.wav",length=2.6757369614512}}
+L["im talking to you"]={{path="vo/breencast/br_tofreeman02.wav",length=2.1296372413635}}
 L["in order to be true to our nature and our destiny we must aspire to greater things we have outgrown our cradle it is futile to cry for mothers milk when our true sustenance awaits us among the stars"]={{path="vo/breencast/br_collaboration08.wav",length=15.06022675737}}
 L["in our current unparalleled enterprise refusal to collaborate is simply a refusal to grow an insistence on suicide if you will"]={{path="vo/breencast/br_collaboration03.wav",length=8.8460317460317}}
 L["in the citadel so thoughtfully provided by our benefactors"]={{path="vo/breencast/br_welcome04.wav",length=4.3940816326531}}
@@ -72,6 +78,22 @@ L["instinct tells us that the unknown is a threat rather than an opportunity"]={
 L["instinct therefore must be expunged"]={{path="vo/breencast/br_instinct18.wav",length=3.3809750566893}}
 L["instinct was our mother when we were an infant species"]={{path="vo/breencast/br_instinct09.wav",length=3.6755102040816}}
 L["instinct would inflict a fatal injury on our species"]={{path="vo/breencast/br_instinct14.wav",length=4.1544444444444}}
+L["instinct1"]={{path="vo/breencast/br_instinct01.wav",length=15.012902259827}}
+L["instinct10"]={{path="vo/breencast/br_instinct18.wav",length=3.3809750080109}}
+L["instinct11"]={{path="vo/breencast/br_instinct19.wav",length=8.3834238052368}}
+L["instinct12"]={{path="vo/breencast/br_instinct20.wav",length=5.9003176689148}}
+L["instinct13"]={{path="vo/breencast/br_instinct21.wav",length=4.0643992424011}}
+L["instinct14"]={{path="vo/breencast/br_instinct22.wav",length=4.7631974220276}}
+L["instinct15"]={{path="vo/breencast/br_instinct23.wav",length=4.664671421051}}
+L["instinct16"]={{path="vo/breencast/br_instinct25.wav",length=6.2886848449707}}
+L["instinct2"]={{path="vo/breencast/br_instinct03.wav",length=18.366847991943}}
+L["instinct3"]={{path="vo/breencast/br_instinct08.wav",length=7.2728796005249}}
+L["instinct4"]={{path="vo/breencast/br_instinct09.wav",length=3.6755101680756}}
+L["instinct5"]={{path="vo/breencast/br_instinct12.wav",length=4.6430611610413}}
+L["instinct6"]={{path="vo/breencast/br_instinct14.wav",length=4.1544442176819}}
+L["instinct7"]={{path="vo/breencast/br_instinct15.wav",length=5.0178685188293}}
+L["instinct8"]={{path="vo/breencast/br_instinct16.wav",length=4.9862356185913}}
+L["instinct9"]={{path="vo/breencast/br_instinct17.wav",length=5.9844446182251}}
 L["intersect impossible to describe with out limited vocabulary"]={{path="vo/citadel/br_oheli09.wav",length=4.7560317460317}}
 L["it also requires planning and forethought that run in direct opposition to our neural pre sets"]={{path="vo/breencast/br_instinct07.wav",length=7.1260997732426}}
 L["it cannot have gone unnoticed by all resistance members that doctor vances capture coincided with the act of giving shelter to gordon freeman this might cause other resistance members to think twice before harboring doctor freeman it might cause them to question his allegiance even prompt some to turn him out or turn him over to our cause"]={{path="vo/breencast/br_overwatch04.wav",length=27.154784580499}}
@@ -105,13 +127,16 @@ L["the capture of eli vance is an event of major significance make no mistake an
 L["the man i saw im all but certain it was"]={{path="vo/k_lab/br_significant.wav",length=3.3909750566893}}
 L["the portal destination is untenable surely you can set the relay elsewhere theres no way i can survive in that environment"]={{path="vo/citadel/br_untenable.wav",length=6.6028571428571}}
 L["the so called one free man i have a question for you how could you have thrown it all away it staggers the mind"]={{path="vo/breencast/br_tofreeman03.wav",length=7.0090929705215}}
+L["the socalled one free man i have a question for you how could you have thrown it all away it staggers the mind"]={{path="vo/breencast/br_tofreeman03.wav",length=7.0090929705215}}
 L["the soldiers were a bit overzealous i admit but he was too tempting a prize to simply turn loose especially in the absence of gordon freeman"]={{path="vo/novaprospekt/br_overzealous.wav",length=9.5760317460317}}
+L["the urge to reproduce"]={{path="vo/breencast/br_instinct19.wav",length=8.3834238052368}}
 L["therefore i say yes i am a collaborator we must all collaborate willingly eagerly if we expect to reap the benefits of unification"]={{path="vo/breencast/br_collaboration10.wav",length=10.479909297052}}
 L["they have given us purpose they have turned our eyes toward the stars"]={{path="vo/breencast/br_instinct23.wav",length=4.6646712018141}}
 L["they have given us the strength we never could have summoned to overcome this compulsion"]={{path="vo/breencast/br_instinct22.wav",length=4.7631972789116}}
 L["they have thrown a switch and exorcised our demons in a single stroke"]={{path="vo/breencast/br_instinct21.wav",length=4.0643990929705}}
 L["they know you betrayed them theyll turn on you judith doctor mossman please"]={{path="vo/citadel/br_betrayed.wav",length=5.194126984127}}
 L["this brings me to the one note of disappointment i must echo from our benefactors obviously i am not on the ground to closely command or second guess the dedicated forces of the overwatch but this does not mean i can shirk responsibility for recent lapses and even outright failures on their part i have been severely questioned about these shortcomings and now must put the question to you"]={{path="vo/breencast/br_overwatch06.wav",length=28.881927437642}}
+L["this brings me to the one note of disappointment i must echo from our benefactors obviously i am not on the ground to closely command or secondguess the dedicated forces of the overwatch but this does not mean i can shirk responsibility for recent lapses and even outright failures on their part i have been severely questioned about these shortcomings and now must put the question to you"]={{path="vo/breencast/br_overwatch06.wav",length=28.881927437642}}
 L["this is not open to debate dr mossman"]={{path="vo/novaprospekt/br_leeway01.wav",length=2.990022675737}}
 L["this simple fact has far reaching implications it requires radical rethinking and revision of our genetic imperatives"]={{path="vo/breencast/br_instinct06.wav",length=8.7304081632653}}
 L["unknown parts to way your i have been proud to call city my so whether you here to stay or passing through on"]={{path="vo/breencast/br_welcome05.wav",length=10.141133786848}}
@@ -119,8 +144,10 @@ L["we have scarcely begun to climb from the dark pit of our species evolution le
 L["we now have direct confirmation of a disruptor in our midst one who has acquired an almost messianic reputation in the minds of certain citizens"]={{path="vo/breencast/br_disruptor01.wav",length=10.447845804989}}
 L["we should thank our benefactors for giving us respite from this overpowering force"]={{path="vo/breencast/br_instinct20.wav",length=5.9003174603175}}
 L["we werent entirely sure you were ever going to get around to that human loyalties being what they are"]={{path="vo/novaprospekt/br_loyalties.wav",length=6.6550793650794}}
+L["welcome to city 17"]={{path="vo/breencast/br_welcome06.wav",length=2.8814740180969},{path="vo/breencast/br_welcome01.wav",length=3.8682765960693}}
 L["welcome to city seventeen"]={{path="vo/breencast/br_welcome06.wav",length=2.8814739229025}}
 L["welcome welcome to city"]={{path="vo/breencast/br_welcome01.wav",length=3.8682766439909}}
+L["welcome welcome to city 17"]={{path="vo/breencast/br_welcome01.wav",length=3.8682765960693}}
 L["well dr freeman under other circumstances i like to think we might have been able to work together in an atmosphere of mutual trust and respect certainly judging from your brief tenure at black mesa while i was its administrator you showed every promise of becoming a valuable and productive contributor to the scientific process and yet im not sure what spurred you to it but there is really no place in this enterprise for a rogue physicist"]={{path="vo/citadel/br_circum.wav",length=27.624149659864}}
 L["well i will leave the upbraiding for another time to the extent it proves necessary now is the moment to redeem yourselves if the transhuman forces are to prove themselves an indispensable augmentation to the combine overwatch they will have to earn the privilege im sure i dont have to remind you that the alternative if you can call it that is total extinction in union with all the other unworthy branches of the species"]={{path="vo/breencast/br_overwatch08.wav",length=35.214829931973}}
 L["well if it isnt gordon freeman at last"]={{path="vo/citadel/br_guest_a.wav",length=2.7622222222222}}
@@ -139,6 +166,7 @@ L["you dont know what youll unleash you could bring down this whole citadel thin
 L["you fool"]={{path="vo/citadel/br_youfool.wav",length=0.92446712018141}}
 L["you have chosen or been chosen to relocate to one of our finest remaining urban centers"]={{path="vo/breencast/br_welcome02.wav",length=6.1429024943311}}
 L["you have my gratitude doctor"]={{path="vo/citadel/br_guest_b.wav",length=3.0920408163265}}
+L["you have plunged humanity in to free fall"]={{path="vo/breencast/br_tofreeman06.wav",length=2.7232880592346}}
 L["you have plunged humanity into freefall"]={{path="vo/breencast/br_tofreeman06.wav",length=2.7232879818594}}
 L["you need me"]={{path="vo/citadel/br_youneedme.wav",length=1.5195918367347}}
 L["your mentors are partly to blame of course my disappointment in eli vance and isaac kleiner is far greater than my sorrow over your unfortunate choice of career path in a way i suppose you could not have done otherwise who knows what seeds of iconoclasm they planted when you were young and gullible but while they certainly share a great part of the responsibility for the recent troubles it is you alone who have chosen to act with such willful disregard for humanitys future"]={{path="vo/citadel/br_mentors.wav",length=26.795986394558}}
