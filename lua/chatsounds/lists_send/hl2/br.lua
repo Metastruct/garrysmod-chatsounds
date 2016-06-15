@@ -15,7 +15,6 @@ L["are all the accomplishments of humanity fated to be nothing more than a layer
 L["are you still with us doctor freeman not for much longer i think"]={{path="vo/citadel/br_mock01.wav",length=5.2786167800454}}
 L["at the moment i fear they have begun to look upon even me with suspicion so much for serving as humanitys representative"]={{path="vo/breencast/br_tofreeman08.wav",length=8.0604535147392}}
 L["be wise be safe be aware"]={{path="vo/breencast/br_disruptor08.wav",length=6.9689115646259}}
-L["brinstinct10tv"]={{path="vo/breencast/br_instinct10.wav",length=9.7137641723356}}
 L["but inseparable from instinct is its dark twin superstition"]={{path="vo/breencast/br_instinct12.wav",length=4.6430612244898}}
 L["carbon stars with ancient satellites colonized by sentient fungi"]={{path="vo/citadel/br_oheli07.wav",length=5.3558276643991}}
 L["choosing instead to embark on a path of ignorance and decay make no mistake dr freeman this is not a scientific revolution you have sparked this is death and finality"]={{path="vo/breencast/br_tofreeman05.wav",length=10.753764172336}}
@@ -78,22 +77,6 @@ L["instinct tells us that the unknown is a threat rather than an opportunity"]={
 L["instinct therefore must be expunged"]={{path="vo/breencast/br_instinct18.wav",length=3.3809750566893}}
 L["instinct was our mother when we were an infant species"]={{path="vo/breencast/br_instinct09.wav",length=3.6755102040816}}
 L["instinct would inflict a fatal injury on our species"]={{path="vo/breencast/br_instinct14.wav",length=4.1544444444444}}
-L["instinct1"]={{path="vo/breencast/br_instinct01.wav",length=15.012902259827}}
-L["instinct10"]={{path="vo/breencast/br_instinct18.wav",length=3.3809750080109}}
-L["instinct11"]={{path="vo/breencast/br_instinct19.wav",length=8.3834238052368}}
-L["instinct12"]={{path="vo/breencast/br_instinct20.wav",length=5.9003176689148}}
-L["instinct13"]={{path="vo/breencast/br_instinct21.wav",length=4.0643992424011}}
-L["instinct14"]={{path="vo/breencast/br_instinct22.wav",length=4.7631974220276}}
-L["instinct15"]={{path="vo/breencast/br_instinct23.wav",length=4.664671421051}}
-L["instinct16"]={{path="vo/breencast/br_instinct25.wav",length=6.2886848449707}}
-L["instinct2"]={{path="vo/breencast/br_instinct03.wav",length=18.366847991943}}
-L["instinct3"]={{path="vo/breencast/br_instinct08.wav",length=7.2728796005249}}
-L["instinct4"]={{path="vo/breencast/br_instinct09.wav",length=3.6755101680756}}
-L["instinct5"]={{path="vo/breencast/br_instinct12.wav",length=4.6430611610413}}
-L["instinct6"]={{path="vo/breencast/br_instinct14.wav",length=4.1544442176819}}
-L["instinct7"]={{path="vo/breencast/br_instinct15.wav",length=5.0178685188293}}
-L["instinct8"]={{path="vo/breencast/br_instinct16.wav",length=4.9862356185913}}
-L["instinct9"]={{path="vo/breencast/br_instinct17.wav",length=5.9844446182251}}
 L["intersect impossible to describe with out limited vocabulary"]={{path="vo/citadel/br_oheli09.wav",length=4.7560317460317}}
 L["it also requires planning and forethought that run in direct opposition to our neural pre sets"]={{path="vo/breencast/br_instinct07.wav",length=7.1260997732426}}
 L["it cannot have gone unnoticed by all resistance members that doctor vances capture coincided with the act of giving shelter to gordon freeman this might cause other resistance members to think twice before harboring doctor freeman it might cause them to question his allegiance even prompt some to turn him out or turn him over to our cause"]={{path="vo/breencast/br_overwatch04.wav",length=27.154784580499}}
