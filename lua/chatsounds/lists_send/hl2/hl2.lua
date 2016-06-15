@@ -236,7 +236,6 @@ L["brguestd"]={{path="vo/citadel/br_guest_d.wav",length=2.3499546485261}}
 L["brguestf"]={{path="vo/citadel/br_guest_f.wav",length=6.5963945578231}}
 L["bring it on"]={{path="vo/npc/barney/ba_bringiton.wav",length=1.2486394643784}}
 L["bring your car up here and ill open the gate for you"]={{path="vo/coast/odessa/male01/nlo_citizen_bringcar.wav",length=2.8115192743764},{path="vo/coast/odessa/female01/nlo_citizen_bringcar.wav",length=2.1021315192744}}
-L["brinstinct10tv"]={{path="vo/breencast/br_instinct10.wav",length=9.7137641723356}}
 L["brnewleadera"]={{path="vo/citadel/br_newleader_a.wav",length=1.9964399092971}}
 L["brnewleaderb"]={{path="vo/citadel/br_newleader_b.wav",length=4.8170975056689}}
 L["brnewleaderc"]={{path="vo/citadel/br_newleader_c.wav",length=5.2749886621315}}
