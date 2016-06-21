@@ -10,10 +10,10 @@ cultpan3; huargh; replace
 
 cultspt1; marana pallex; replace
 cultspt2; manamax and spear books; replace
-cultspt3; geroshay cruo; replace
+#cultspt3; geroshay cruo; replace
 cultspt4; crudux cruo; replace
 
-cultrom3; geroshay cruo; replace
+#cultrom3; geroshay cruo; replace
 
 
 # DONT WORK - PREPROCESSOR CANT HANDLE MORE THAN ONE ALIAS. AWAITING FIX
