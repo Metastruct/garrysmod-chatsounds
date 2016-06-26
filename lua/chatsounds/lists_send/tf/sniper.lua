@@ -172,7 +172,7 @@ L["i was never on your side either wanker"]={{path="vo/sniper_dominationspy07.mp
 L["i win ya bloody backstabbin fraud"]={{path="vo/sniper_dominationspy06.mp3",length=3.8720181405896}}
 L["i win you bloody backstabbin fraud"]={{path="vo/sniper_dominationspy06.mp3",length=3.8720180988312}}
 L["id suspect youll keep your big mouth shut now"]={{path="vo/sniper_revenge15.mp3",length=3.2391836734694}}
-L["if your strategy is to build your confidence its working"]={{path="vo/sniper_domination07.mp3",length=3.7877551020408}}
+L["if your strategy is to build me confidence its working"]={{path="vo/sniper_domination07.mp3",length=3.7877551020408}}
 L["im a dinkum aussie not some bloody cartoon"]={{path="vo/taunts/sniper_taunts03.mp3",length=2.8328344671202}}
 L["im gonna blow the insides of yer head all over four counties"]={{path="vo/taunts/sniper_taunts35.mp3",length=3.3204535147392}}
 L["im gonna carve you a new cakehole"]={{path="vo/sniper_meleedare04.mp3",length=2.1786394119263}}

@@ -50,7 +50,6 @@ L["does it hurt when i do that it does doesnt it"]={{path="vo/spy_dominationmedi
 L["dominated you fatuous fatheaded fat man"]={{path="vo/spy_dominationheavy04.mp3",length=3.5146712018141}}
 L["dominated you mush mouthed freak"]={{path="vo/spy_dominationpyro01.mp3",length=2.9653514739229}}
 L["dominated you mushedmouth freak"]={{path="vo/spy_dominationpyro01.mp3",length=2.9653515815735}}
-L["don feel bad you did a fine job tossing your little balls around"]={{path="vo/spy_dominationdemoman04.mp3",length=4.2506802721088}}
 L["dont feel bad you did a fine job tossing your little balls around"]={{path="vo/spy_dominationdemoman04.mp3",length=4.2506804466248}}
 L["eaugh"]={{path="vo/spy_jaratehit06.mp3",length=1.5466666221619}}
 L["everyone back to the base pardner"]={{path="vo/taunts/spy_taunts08.mp3",length=2.2813605442177}}
@@ -341,7 +340,6 @@ L["would someone care to help me capture this"]={{path="vo/spy_helpmecapture03.m
 L["yes"]={{path="vo/taunts/spy_highfive_success02.mp3",length=1.0989115646259},{path="vo/spy_yes01.mp3",length=0.7836734693878}}
 L["yes the carts moving back"]={{path="vo/spy_cartgoingbackdefense02.mp3",length=2.3248979591837}}
 L["yippie kie yay my dead illiterate friend"]={{path="vo/spy_dominationengineer01.mp3",length=3.4506802721088}}
-L["yippiekiyay my illiterate friend"]={{path="vo/spy_dominationengineer01.mp3",length=3.4506802558899}}
 L["you are all incompetent cowards"]={{path="vo/taunts/spy_taunts03.mp3",length=2.0607709750567}}
 L["you are an amateur and a fool"]={{path="vo/spy_dominationspy03.mp3",length=2.2480045351474}}
 L["you are an embarrassment to spies everywhere"]={{path="vo/spy_dominationspy05.mp3",length=2.7813378684807}}

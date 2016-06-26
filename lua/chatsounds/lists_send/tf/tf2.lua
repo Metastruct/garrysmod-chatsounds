@@ -2732,7 +2732,7 @@ L["yes yes weve launched the rocket"]={{path="vo/announcer_sd_rocket_launch06.mp
 L["yes yes yes"]={{path="vo/announcer_am_killstreak01.mp3",length=4.3102040816327}}
 L["yes youve driven the bomb carrier back"]={{path="vo/mvm_bomb_back01.mp3",length=3.5265306122449}}
 L["yipeekeeyaiheehayheeaieykaio"]={{path="vo/engineer_cheers07.mp3",length=3.3320634365082}}
-L["yippiekiyay my illiterate friend"]={{path="vo/spy_dominationengineer01.mp3",length=3.4506802558899}}
+L["yippiekiyay my dead illiterate friend"]={{path="vo/spy_dominationengineer01.mp3",length=3.4506802558899}}
 L["yippy"]={{path="vo/engineer_cheers07.mp3",length=3.3320634365082}}
 L["yo a little help here"]={{path="vo/scout_helpme02.mp3",length=1.146485209465}}
 L["yo batter up"]={{path="vo/scout_specialcompleted04.mp3",length=0.9113832116127}}
