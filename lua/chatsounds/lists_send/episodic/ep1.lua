@@ -1687,13 +1687,13 @@ L["uh oh"]={{path="vo/episode_1/npc/alyx/al_combat_sudden05.wav",length=0.608049
 L["uh oh charging your flashlight again"]={{path="vo/episode_1/npc/alyx/al_light_recharge03.wav",length=1.8343764172336}}
 L["uh oh look at that the gravity gun is settling down"]={{path="vo/episode_1/citadel/al_gravgunpowerdown.wav",length=3.9138321876526}}
 L["uh oh that was the only thing holding the antlions back"]={{path="vo/episode_1/c17/al_holdingback.wav",length=3.5073924064636}}
+L["uh oh the antlions are coming up here"]={{path="vo/episode_1/c17/al_antlions_cominguphere.wav",length=2.301677942276}}
 L["uh oh theyve got the street fortified up ahead"]={{path="vo/episode_1/c17/al_sniper_fort.wav",length=3.2682085037231}}
 L["uh oh this ones a mess could take a bit longer"]={{path="vo/episode_1/c17/al_pb_messtakelonger.wav",length=4.7839908599854}}
 L["uh oh we missed that one"]={{path="vo/episode_1/c17/al_lasttrain_missedthatone.wav",length=1.6456916332245}}
 L["uh oh wed better get out of here"]={{path="vo/episode_1/intro/al_bettergetoutofhere.wav",length=1.9042630195618}}
 L["uh oh what now"]={{path="vo/episode_1/intro/al_whatnow.wav",length=2.5919275283813}}
 L["uh oh what was that"]={{path="vo/episode_1/npc/alyx/al_dark_noises01.wav",length=1.7966439909297}}
-L["uh ohthe antlions are coming up here"]={{path="vo/episode_1/c17/al_antlions_cominguphere.wav",length=2.301677942276}}
 L["uh right can we keep moving please"]={{path="vo/episode_1/npc/alyx/al_greet_cit02.wav",length=2.8908843537415}}
 L["uhm brace yourself gordon"]={{path="vo/episode_1/intro/al_noseatbelts.wav",length=2.6664853096008}}
 L["uhm havent we been this way before"]={{path="vo/episode_1/citadel/al_beenthisway.wav",length=2.6395919322968}}
