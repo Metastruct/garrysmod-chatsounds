@@ -24,7 +24,8 @@ for _, list in pairs(files) do
 end
 
 
-chatsounds = {} local c = chatsounds
+chatsounds = {}
+local chatsounds = chatsounds
 -- Initial Seed
 chatsounds.Seed = os.time()
 
@@ -48,11 +49,11 @@ function chatsounds.GenerateNewSeed()
 		Matt: More stable seed,
 		last one was almost predictable without calculating
 	]]
-	c.Seed = (c.Seed * CurTime()) + 1
-  c.Seed = (c.Seed + lshift(c.Seed , 3)) % 1024
-	c.Seed = math.ceil(c.Seed)
+	chatsounds.Seed = (chatsounds.Seed * CurTime()) + 1
+  chatsounds.Seed = (chatsounds.Seed + lshift(chatsounds.Seed , 3)) % 1024
+	chatsounds.Seed = math.ceil(chatsounds.Seed)
 
-	-- print(c.Seed)
+	-- print(chatsounds.Seed)
 end
 
 local plys = {}
@@ -113,7 +114,7 @@ function chatsounds.Say(ply, text)
 	
 	if hook.Call("PreChatSoundsSay", nil, ply, text) == false then return end
 
-	local seed = c.Seed - 127
+	local seed = chatsounds.Seed - 127
 	--if( #text > 220 ) then
 		net.Start("chatsounds")
 			net.WriteEntity(ply)
@@ -138,7 +139,7 @@ end
 function chatsounds.PlayerSay(ply, text)
 	if chatsounds.IsLuaCommand(text) then return end
 	
-	c.Say(ply, text)
+	chatsounds.Say(ply, text)
 end
 hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
 
