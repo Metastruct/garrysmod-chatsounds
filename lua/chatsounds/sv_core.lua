@@ -139,7 +139,15 @@ end
 function chatsounds.PlayerSay(ply, text)
 	if chatsounds.IsLuaCommand(text) then return end
 	
-	chatsounds.Say(ply, text)
+	if string.sub(text, 1, 2) == "##" then
+		text = string.sub(text, 3)
+		chatsounds.Say(ply, text)
+		return text
+	elseif string.sub(text, 1, 1) == "#" then
+		text = string.sub(text, 2)
+		chatsounds.Say(ply, text)
+		return ""
+	end
 end
 hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
 
