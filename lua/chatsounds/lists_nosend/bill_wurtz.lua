@@ -6,6 +6,7 @@ L["a billion"]={{path="chatsounds/autoadd/bill_wurtz/a billion.ogg",length=1.204
 L["a little bit later"]={{path="chatsounds/autoadd/bill_wurtz/a little bit later.ogg",length=1.5510657596371882}}
 L["a question i get asked a lot is"]={{path="chatsounds/autoadd/bill_wurtz/a question i get asked a lot is.ogg",length=1.03562358276644}}
 L["abcdefghijk"]={{path="chatsounds/autoadd/bill_wurtz/abcdefghijk.ogg",length=5.8231292517006805}}
+L["actually nomaybe"]={{path="chatsounds/autoadd/bill_wurtz/actually nomaybe.ogg",length=0.74240362811791383}}
 L["actually two benches thanks"]={{path="chatsounds/autoadd/bill_wurtz/actually two benches thanks.ogg",length=1.6358503401360545}}
 L["advantages to living in the future"]={{path="chatsounds/autoadd/bill_wurtz/advantages to living in the future.ogg",length=1.3519501133786849}}
 L["advantages to living in the future now you can comb your hair by satellite"]={{path="chatsounds/autoadd/bill_wurtz/advantages to living in the future now you can comb your hair by satellite.ogg",length=5.7084807256235823}}
@@ -15,6 +16,7 @@ L["and before you know it itll be tuesday itll be tuesday and thats ok"]={{path=
 L["and destroying the entire world"]={{path="chatsounds/autoadd/bill_wurtz/and destroying the entire world.ogg",length=2.6931972789115646}}
 L["and dont die"]={{path="chatsounds/autoadd/bill_wurtz/and dont die.ogg",length=1.3725396825396825}}
 L["and i watch them all day"]={{path="chatsounds/autoadd/bill_wurtz/and i watch them all day.ogg",length=1.845827664399093}}
+L["and it exploded"]={{path="chatsounds/autoadd/bill_wurtz/and it exploded.ogg",length=3.9125623582766438}}
 L["and my keys"]={{path="chatsounds/autoadd/bill_wurtz/and my keys.ogg",length=1.4960544217687075}}
 L["and my phone"]={{path="chatsounds/autoadd/bill_wurtz/and my phone.ogg",length=1.2702267573696144}}
 L["and my shoes"]={{path="chatsounds/autoadd/bill_wurtz/and my shoes.ogg",length=1.4366893424036282}}
@@ -44,8 +46,9 @@ L["black"]={{path="chatsounds/autoadd/bill_wurtz/black.ogg",length=0.16238095238
 L["blawhite"]={{path="chatsounds/autoadd/bill_wurtz/blawhite.ogg",length=0.29294784580498867}}
 L["blok"]={{path="chatsounds/autoadd/bill_wurtz/blok.ogg",length=0.3775736961451247}}
 L["boxes taste like mush"]={{path="chatsounds/autoadd/bill_wurtz/boxes taste like mush.ogg",length=1.5167573696145125}}
-L["bread"]={{path="chatsounds/autoadd/bill_wurtz/bread.ogg",length=0.53371882086167799}}
+L["bread"]={{path="chatsounds/autoadd/bill_wurtz/bread/bread 1.ogg",length=0.53371882086167799},{path="chatsounds/autoadd/bill_wurtz/bread/bread 2.ogg",length=0.23909297052154194}}
 L["buy great products"]={{path="chatsounds/autoadd/bill_wurtz/buy great products.ogg",length=2.0142403628117913}}
+L["buzzer"]={{path="chatsounds/autoadd/bill_wurtz/buzzer.ogg",length=0.41346938775510206}}
 L["cable television song"]={{path="chatsounds/autoadd/bill_wurtz/cable television song.ogg",length=7.0346712018140591}}
 L["can i put apples in a video"]={{path="chatsounds/autoadd/bill_wurtz/can i put apples in a video.ogg",length=1.1116553287981858}}
 L["can i reach for the stars no i cant"]={{path="chatsounds/autoadd/bill_wurtz/can i reach for the stars no i cant.ogg",length=4.2582766439909294}}
@@ -60,6 +63,8 @@ L["cmajorharmony"]={{path="chatsounds/autoadd/bill_wurtz/cmajorharmony.ogg",leng
 L["colonization"]={{path="chatsounds/autoadd/bill_wurtz/colonization.ogg",length=2.0695238095238095}}
 L["conflict"]={{path="chatsounds/autoadd/bill_wurtz/conflict.ogg",length=27.078639455782312}}
 L["confused"]={{path="chatsounds/autoadd/bill_wurtz/confused.ogg",length=0.63496598639455781}}
+L["content"]={{path="chatsounds/autoadd/bill_wurtz/content.ogg",length=1.2649886621315192}}
+L["conversation"]={{path="chatsounds/autoadd/bill_wurtz/conversation.ogg",length=1.5565306122448979}}
 L["conversations with a pizza pie"]={{path="chatsounds/autoadd/bill_wurtz/conversations with a pizza pie.ogg",length=3.2992290249433105}}
 L["cool facts survey"]={{path="chatsounds/autoadd/bill_wurtz/cool facts survey.ogg",length=12.640340136054421}}
 L["cool sports"]={{path="chatsounds/autoadd/bill_wurtz/cool sports.ogg",length=1.4206349206349207}}
@@ -99,6 +104,9 @@ L["fillin"]={{path="chatsounds/autoadd/bill_wurtz/fillin.ogg",length=1.181814058
 L["find out how it always was"]={{path="chatsounds/autoadd/bill_wurtz/find out how it always was.ogg",length=4.6368480725623584}}
 L["flunk the world"]={{path="chatsounds/autoadd/bill_wurtz/flunk the world.ogg",length=2.1677551020408163}}
 L["french toast"]={{path="chatsounds/autoadd/bill_wurtz/french toast.ogg",length=0.88356009070294783}}
+L["fruit"]={{path="chatsounds/autoadd/bill_wurtz/fruit.ogg",length=0.27077097505668934}}
+L["fruit and bread"]={{path="chatsounds/autoadd/bill_wurtz/fruit and bread.ogg",length=0.53766439909297048}}
+L["fruit no bread no fruit and bread probably not"]={{path="chatsounds/autoadd/bill_wurtz/fruit no bread no fruit and bread probably not.ogg",length=2.0832653061224491}}
 L["fucking"]={{path="chatsounds/autoadd/bill_wurtz/fucking.ogg",length=0.44240362811791384}}
 L["fucktheschedule"]={{path="chatsounds/autoadd/bill_wurtz/fucktheschedule.ogg",length=1.7463718820861678}}
 L["funny dolphin"]={{path="chatsounds/autoadd/bill_wurtz/funny dolphin.ogg",length=54.734512471655329}}
@@ -149,6 +157,7 @@ L["happy birthday to a moose"]={{path="chatsounds/autoadd/bill_wurtz/happy birth
 L["happyhit"]={{path="chatsounds/autoadd/bill_wurtz/happyhit.ogg",length=1.4976643990929706}}
 L["hatsarebad"]={{path="chatsounds/autoadd/bill_wurtz/hatsarebad.ogg",length=1.530657596371882}}
 L["having a bad day"]={{path="chatsounds/autoadd/bill_wurtz/having a bad day.ogg",length=2.1042857142857141}}
+L["hell yeah"]={{path="chatsounds/autoadd/bill_wurtz/hell yeah.ogg",length=3.0476417233560089}}
 L["hellambience"]={{path="chatsounds/autoadd/bill_wurtz/hellambience.ogg",length=1.239795918367347}}
 L["hello im a piece of garbage"]={{path="chatsounds/autoadd/bill_wurtz/hello im a piece of garbage.ogg",length=2.8852607709750568}}
 L["helloooo"]={{path="chatsounds/autoadd/bill_wurtz/helloooo.ogg",length=0.45201814058956918}}
@@ -182,11 +191,13 @@ L["i am the mailman"]={{path="chatsounds/autoadd/bill_wurtz/i am the mailman.ogg
 L["i couldnt succeed at what im doin"]={{path="chatsounds/autoadd/bill_wurtz/i couldnt succeed at what im doin.ogg",length=4.7333333333333334}}
 L["i dont like teddy bears"]={{path="chatsounds/autoadd/bill_wurtz/i dont like teddy bears.ogg",length=7.8765759637188211}}
 L["i dont understand anything"]={{path="chatsounds/autoadd/bill_wurtz/i dont understand anything.ogg",length=2.9884807256235826}}
+L["i feel like a bad person"]={{path="chatsounds/autoadd/bill_wurtz/i feel like a bad person.ogg",length=2.3579591836734695}}
 L["i forgot"]={{path="chatsounds/autoadd/bill_wurtz/i forgot.ogg",length=0.44170068027210885}}
 L["i forgot the"]={{path="chatsounds/autoadd/bill_wurtz/i forgot the.ogg",length=0.76428571428571423}}
 L["i forgot the my name"]={{path="chatsounds/autoadd/bill_wurtz/i forgot the my name.ogg",length=1.6876643990929705}}
 L["i hate myself"]={{path="chatsounds/autoadd/bill_wurtz/i hate myself.ogg",length=4.7958276643990931}}
 L["i have the heebity deebity deebity deebity deebitys"]={{path="chatsounds/autoadd/bill_wurtz/i have the heebity deebity deebity deebity deebitys.ogg",length=2.7983900226757368}}
+L["i just want to pause for a minute and analyze this content"]={{path="chatsounds/autoadd/bill_wurtz/i just want to pause for a minute and analyze this content.ogg",length=2.1791609977324264}}
 L["i know but i cant say"]={{path="chatsounds/autoadd/bill_wurtz/i know but i cant say.ogg",length=5.5182993197278911}}
 L["i know of a cool place to go"]={{path="chatsounds/autoadd/bill_wurtz/i know of a cool place to go.ogg",length=3.9981859410430838}}
 L["i like salad"]={{path="chatsounds/autoadd/bill_wurtz/i like salad.ogg",length=1.0022222222222221}}
@@ -224,6 +235,10 @@ L["im the same"]={{path="chatsounds/autoadd/bill_wurtz/im the same.ogg",length=2
 L["im writing a letter to you on my floor"]={{path="chatsounds/autoadd/bill_wurtz/im writing a letter to you on my floor.ogg",length=8.2295464852607711}}
 L["imonmyfloor"]={{path="chatsounds/autoadd/bill_wurtz/imonmyfloor.ogg",length=2.6600000000000001}}
 L["in looooooove"]={{path="chatsounds/autoadd/bill_wurtz/in looooooove.ogg",length=2.2973242630385489}}
+L["is it a conversation"]={{path="chatsounds/autoadd/bill_wurtz/is it a conversation.ogg",length=1.9969841269841271}}
+L["is it a four letter word that you can use in various ways that are mostly positive"]={{path="chatsounds/autoadd/bill_wurtz/is it a four letter word that you can use in various ways that are mostly positive.ogg",length=6.2758276643990927}}
+L["is it a fruitful sales deal"]={{path="chatsounds/autoadd/bill_wurtz/is it a fruitful sales deal.ogg",length=2.1108843537414965}}
+L["is it a hearty breakfast"]={{path="chatsounds/autoadd/bill_wurtz/is it a hearty breakfast.ogg",length=1.8163038548752835}}
 L["is it legal to make laws"]={{path="chatsounds/autoadd/bill_wurtz/is it legal to make laws.ogg",length=1.0279138321995465}}
 L["is that your new chevrolet"]={{path="chatsounds/autoadd/bill_wurtz/is that your new chevrolet.ogg",length=2.4734693877551019}}
 L["it tastes really good and its real special"]={{path="chatsounds/autoadd/bill_wurtz/it tastes really good and its real special.ogg",length=4.0002721088435376}}
@@ -266,6 +281,7 @@ L["lowstring"]={{path="chatsounds/autoadd/bill_wurtz/lowstring.ogg",length=7.105
 L["make a silly thing"]={{path="chatsounds/autoadd/bill_wurtz/make a silly thing.ogg",length=4.5587301587301585}}
 L["math"]={{path="chatsounds/autoadd/bill_wurtz/math.ogg",length=1.2744444444444445}}
 L["maybe"]={{path="chatsounds/autoadd/bill_wurtz/maybe.ogg",length=1.2587301587301587}}
+L["mm my favorite brand"]={{path="chatsounds/autoadd/bill_wurtz/mm my favorite brand.ogg",length=1.2827437641723356}}
 L["monday accordion bowling"]={{path="chatsounds/autoadd/bill_wurtz/monday accordion bowling.ogg",length=5.0011791383219952}}
 L["monday annoying thing"]={{path="chatsounds/autoadd/bill_wurtz/monday annoying thing.ogg",length=26.443401360544218}}
 L["monday candle trivia"]={{path="chatsounds/autoadd/bill_wurtz/monday candle trivia.ogg",length=19.282403628117915}}
@@ -298,6 +314,7 @@ L["my name"]={{path="chatsounds/autoadd/bill_wurtz/my name.ogg",length=0.4651927
 L["mysteryappear"]={{path="chatsounds/autoadd/bill_wurtz/mysteryappear.ogg",length=1.133015873015873}}
 L["nah im the same"]={{path="chatsounds/autoadd/bill_wurtz/nah im the same.ogg",length=0.73337868480725621}}
 L["napkins"]={{path="chatsounds/autoadd/bill_wurtz/napkins.ogg",length=0.83843537414965985}}
+L["no"]={{path="chatsounds/autoadd/bill_wurtz/no.ogg",length=0.27179138321995466}}
 L["no seriously how do you find love"]={{path="chatsounds/autoadd/bill_wurtz/no seriously how do you find love.ogg",length=2.6607709750566895}}
 L["non dog octet"]={{path="chatsounds/autoadd/bill_wurtz/non dog octet.ogg",length=2.4218820861678005}}
 L["notification message"]={{path="chatsounds/autoadd/bill_wurtz/notification message.ogg",length=23.781972789115645}}
@@ -309,6 +326,7 @@ L["oh hi"]={{path="chatsounds/autoadd/bill_wurtz/oh hi.ogg",length=0.31126984126
 L["oh hi thanks for checking in"]={{path="chatsounds/autoadd/bill_wurtz/oh hi thanks for checking in.ogg",length=1.154172335600907}}
 L["oh nothing i was just shaving my piano"]={{path="chatsounds/autoadd/bill_wurtz/oh nothing i was just shaving my piano.ogg",length=5.5407256235827669}}
 L["ok"]={{path="chatsounds/autoadd/bill_wurtz/ok.ogg",length=0.26263038548752832}}
+L["old mcdonald had a farm"]={{path="chatsounds/autoadd/bill_wurtz/old mcdonald had a farm.ogg",length=1.5348072562358277}}
 L["once upon a time we were lost in space we still are"]={{path="chatsounds/autoadd/bill_wurtz/once upon a time we were lost in space we still are.ogg",length=1.9694557823129251}}
 L["origin of the earth"]={{path="chatsounds/autoadd/bill_wurtz/origin of the earth.ogg",length=8.8876190476190473}}
 L["out there doing stuff like"]={{path="chatsounds/autoadd/bill_wurtz/out there doing stuff like.ogg",length=0.98691609977324268}}
@@ -322,8 +340,10 @@ L["physics lesson"]={{path="chatsounds/autoadd/bill_wurtz/physics lesson.ogg",le
 L["pick a carad"]={{path="chatsounds/autoadd/bill_wurtz/pick a carad.ogg",length=0.48848072562358275}}
 L["pizzahi"]={{path="chatsounds/autoadd/bill_wurtz/pizzahi.ogg",length=0.94131519274376418}}
 L["pop music is the classical music of now"]={{path="chatsounds/autoadd/bill_wurtz/pop music is the classical music of now.ogg",length=2.8859410430839003}}
+L["positive"]={{path="chatsounds/autoadd/bill_wurtz/positive.ogg",length=2.1619501133786847}}
 L["possibilities"]={{path="chatsounds/autoadd/bill_wurtz/possibilities.ogg",length=3.234875283446712}}
 L["probably"]={{path="chatsounds/autoadd/bill_wurtz/probably.ogg",length=0.27229024943310659}}
+L["probably not"]={{path="chatsounds/autoadd/bill_wurtz/probably not.ogg",length=0.46285714285714286}}
 L["q and a"]={{path="chatsounds/autoadd/bill_wurtz/q and a.ogg",length=0.35394557823129252}}
 L["quick question"]={{path="chatsounds/autoadd/bill_wurtz/quick question.ogg",length=0.52843537414965991}}
 L["quit"]={{path="chatsounds/autoadd/bill_wurtz/quit.ogg",length=1.8987755102040815}}
@@ -374,6 +394,7 @@ L["then im gonna show you how to make it cool"]={{path="chatsounds/autoadd/bill_
 L["theres not much to eat"]={{path="chatsounds/autoadd/bill_wurtz/theres not much to eat.ogg",length=2.5944217687074831}}
 L["theyre dark and bad"]={{path="chatsounds/autoadd/bill_wurtz/theyre dark and bad.ogg",length=1.7811791383219955}}
 L["think in the street"]={{path="chatsounds/autoadd/bill_wurtz/think in the street.ogg",length=0.88462585034013608}}
+L["thinking about doing some content"]={{path="chatsounds/autoadd/bill_wurtz/thinking about doing some content.ogg",length=3.1640362811791385}}
 L["this is my door"]={{path="chatsounds/autoadd/bill_wurtz/this is my door.ogg",length=2.8587755102040817}}
 L["this is the way we"]={{path="chatsounds/autoadd/bill_wurtz/this is the way we.ogg",length=1.1823356009070294}}
 L["this is the way we open up a lot of possibilities"]={{path="chatsounds/autoadd/bill_wurtz/this is the way we open up a lot of possibilities.ogg",length=5.3189342403628119}}
@@ -404,6 +425,7 @@ L["what about cardboard is that funny"]={{path="chatsounds/autoadd/bill_wurtz/wh
 L["what am i gonna do"]={{path="chatsounds/autoadd/bill_wurtz/what am i gonna do/what am i gonna do 1.ogg",length=3.7686621315192745},{path="chatsounds/autoadd/bill_wurtz/what am i gonna do/what am i gonna do 2.ogg",length=3.9774829931972788}}
 L["what are you waiting for you dumb stupid fuck"]={{path="chatsounds/autoadd/bill_wurtz/what are you waiting for you dumb stupid fuck.ogg",length=4.7904308390022674}}
 L["what if spain was in greece"]={{path="chatsounds/autoadd/bill_wurtz/what if spain was in greece.ogg",length=1.4270521541950114}}
+L["what is love"]={{path="chatsounds/autoadd/bill_wurtz/what is love.ogg",length=1.6839909297052154}}
 L["what the fuck"]={{path="chatsounds/autoadd/bill_wurtz/what the fuck.ogg",length=1.1151927437641724}}
 L["what time is it"]={{path="chatsounds/autoadd/bill_wurtz/what time is it.ogg",length=0.42877551020408161}}
 L["whatever"]={{path="chatsounds/autoadd/bill_wurtz/whatever.ogg",length=0.90226757369614508}}
@@ -432,6 +454,7 @@ L["yeeees"]={{path="chatsounds/autoadd/bill_wurtz/yeeees.ogg",length=2.096213151
 L["yep still a loser"]={{path="chatsounds/autoadd/bill_wurtz/yep still a loser.ogg",length=1.7459410430839002}}
 L["yes"]={{path="chatsounds/autoadd/bill_wurtz/yes/yes 1.ogg",length=0.84222222222222221},{path="chatsounds/autoadd/bill_wurtz/yes/yes 2.ogg",length=0.35752834467120181},{path="chatsounds/autoadd/bill_wurtz/yes/yes 3.ogg",length=0.36809523809523809}}
 L["yes i like muuusiiiiiiiic"]={{path="chatsounds/autoadd/bill_wurtz/yes i like muuusiiiiiiiic.ogg",length=5.4781632653061223}}
+L["yesno"]={{path="chatsounds/autoadd/bill_wurtz/yesno.ogg",length=0.35501133786848071}}
 L["you can keep it"]={{path="chatsounds/autoadd/bill_wurtz/you can keep it.ogg",length=0.48657596371882084}}
 L["you can use descriptive words in a poem about your best qualities"]={{path="chatsounds/autoadd/bill_wurtz/you can use descriptive words in a poem about your best qualities.ogg",length=4.385170068027211}}
 L["you know sometimes i think to myself"]={{path="chatsounds/autoadd/bill_wurtz/you know sometimes i think to myself.ogg",length=1.2251020408163265}}
