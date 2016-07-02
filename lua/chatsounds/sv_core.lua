@@ -108,10 +108,10 @@ end
 
 local offground=Vector(0,0,16)
 function chatsounds.Say(ply, text)
-	if hook.Call("PreChatSoundsSay", nil, ply, text) == false then return end
 	if not IsValid(ply) then return end
 	if text:Trim() == "" then return end
-	if chatsounds.IsLuaCommand(text) then return end
+	
+	if hook.Call("PreChatSoundsSay", nil, ply, text) == false then return end
 
 	local seed = c.Seed - 127
 	--if( #text > 220 ) then
@@ -136,6 +136,8 @@ function chatsounds.Say(ply, text)
 end
 
 function chatsounds.PlayerSay(ply, text)
+	if chatsounds.IsLuaCommand(text) then return end
+	
 	c.Say(ply, text)
 end
 hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
