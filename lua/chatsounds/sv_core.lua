@@ -99,7 +99,12 @@ function chatsounds.Say(ply, text)
 	chatsounds.GenerateNewSeed()
 end
 
+local chatsounds_PrefixEnabled = CreateConVar("chatsounds_enable_prefix", "0", bit.bor(FCVAR_ARCHIVE))
+
 function chatsounds.PlayerSay(ply, text)
+	if not chatsounds_PrefixEnabled:GetBool() then 
+		chatsounds.Say(ply, text)
+	return end
 	if string.sub(text, 1, 2) == "##" then
 		text = string.sub(text, 3)
 		chatsounds.Say(ply, text)
@@ -111,6 +116,11 @@ function chatsounds.PlayerSay(ply, text)
 	end
 end
 hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
+
+--- i've had to hack this, anyone who can find a better solution feel free to commit
+hook.Add("Tick", "chatsounds_ReplicatePrefixValue", function()
+	SetGlobalBool("chatsounds_PrefixEnabled", chatsounds_PrefixEnabled:GetBool())
+end)
 
 function chatsounds.SaySound(ply, _, args,line)
 	if not IsValid(ply) then return end
