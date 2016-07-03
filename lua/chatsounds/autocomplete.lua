@@ -173,12 +173,17 @@ function ac.isbad(text)
 	return bad[(text or ""):sub(1,1)]
 end
 
+
 hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
 	
-	local prefix = string.match(text, "^(#?#?)(.*)$")
-	if prefix == "" then
-		prefix = "#"
+	local prefix = ""
+	local chatsounds_PrefixEnabled = GetGlobalBool("chatsounds_PrefixEnabled")
+	if chatsounds_PrefixEnabled then
+		prefix = string.match(text, "^(#?#?)(.*)$")
+		if prefix == "" then
+			prefix = "#"
+		end
 	end
 	
 	local nopeek = peek~=true
