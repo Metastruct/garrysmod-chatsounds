@@ -173,16 +173,21 @@ function ac.isbad(text)
 	return bad[(text or ""):sub(1,1)]
 end
 
-hook.Add("OnChatTab", "chatsounds_autocomplete", function(text,peek)
+hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
+	
+	local prefix = string.match(text, "^(#?#?)(.*)$")
+	if prefix == "" then
+		prefix = "#"
+	end
 	
 	local nopeek = peek~=true
 	
 	if ac.randommode then
 		ac.ignore = ac.sounds[math.random(#ac.sounds)]
-		return ac.ignore
+		return prefix .. ac.ignore
 	end
-
+	
 		
 	local reverse = input.IsKeyDown(KEY_LSHIFT) or input.IsKeyDown(KEY_RSHIFT) or input.IsKeyDown(KEY_LCONTROL)
 	local prevmode = ac.tabbed
@@ -214,12 +219,12 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text,peek)
 		ac.tabbed = prevmode
 		ac.ignore = prevignore
 		
-		return ret
+		return ret and (prefix .. ret)
 	end
 
 	--WorldSound("garrysmod/balloon_pop_cute.wav", LocalPlayer():GetPos(), 50, 255)
 
-	return ac.ignore
+	return prefix .. ac.ignore
 end)
 
 hook.Add("StartChat", "chatsounds_autocomplete", function()
@@ -232,9 +237,11 @@ hook.Add("FinishChat", "chatsounds_autocomplete", function()
 	ac.chatting = false
 end)
 
-hook.Add("ChatTextChanged", "chatsounds_autocomplete", function(text,lua_tab_change)
+hook.Add("ChatTextChanged", "chatsounds_autocomplete", function(text, lua_tab_change)
 	if not chatsounds_autocomplete:GetBool() then return end
-		
+	
+	local _, text = string.match(text, "^(#?#?)(.*)$")
+	
 	-- this may cause future compatibility issues
 	if lua_tab_change == true and string.find(text,"\n",1,true) then return end
 	
