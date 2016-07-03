@@ -185,7 +185,7 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	
 	if ac.randommode then
 		ac.ignore = ac.sounds[math.random(#ac.sounds)]
-		return prefix .. ac.ignore
+		return ac.ignore and (prefix .. ac.ignore)
 	end
 	
 		
@@ -224,7 +224,7 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 
 	--WorldSound("garrysmod/balloon_pop_cute.wav", LocalPlayer():GetPos(), 50, 255)
 
-	return prefix .. ac.ignore
+	return ac.ignore and (prefix .. ac.ignore)
 end)
 
 hook.Add("StartChat", "chatsounds_autocomplete", function()
