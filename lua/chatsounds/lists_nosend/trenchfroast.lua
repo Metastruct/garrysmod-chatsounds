@@ -38,6 +38,7 @@ L["go to the church and ask god to fug you"]={{path="chatsounds/autoadd/trenchfr
 L["great"]={{path="chatsounds/autoadd/trenchfroast/great.ogg",length=0.80308390022675735}}
 L["great under a"]={{path="chatsounds/autoadd/trenchfroast/great under a.ogg",length=1.9446938775510203}}
 L["haaaaah"]={{path="chatsounds/autoadd/trenchfroast/haaaaah.ogg",length=3.7846485260770977}}
+L["hack the mainframe"]={{path="chatsounds/autoadd/trenchfroast/hack the mainframe.ogg",length=1.4689342403628118}}
 L["hah"]={{path="chatsounds/autoadd/trenchfroast/hah/hah 1.ogg",length=0.18954648526077097},{path="chatsounds/autoadd/trenchfroast/hah/hah 2.ogg",length=0.39852607709750565},{path="chatsounds/autoadd/trenchfroast/hah/hah 3.ogg",length=0.32190476190476192},{path="chatsounds/autoadd/trenchfroast/hah/hah 4.ogg",length=0.50392290249433103}}
 L["hhh"]={{path="chatsounds/autoadd/trenchfroast/hhh.ogg",length=0.38328798185941043}}
 L["hitlereltih"]={{path="chatsounds/autoadd/trenchfroast/hitlereltih.ogg",length=0.57804988662131518}}
