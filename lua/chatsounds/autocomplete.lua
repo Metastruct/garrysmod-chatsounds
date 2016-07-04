@@ -82,7 +82,7 @@ function ac.search(text)
 		ac.last_search = ">>>>ERROR<<<"
 		return
 	end
-	
+
 	local count = 0
 	local candidates = 0
 	text = ac.clean(text)
@@ -176,7 +176,7 @@ end
 
 hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
-	
+
 	local prefix = ""
 	local chatsounds_PrefixEnabled = GetGlobalBool("chatsounds_PrefixEnabled")
 	if chatsounds_PrefixEnabled then
@@ -185,19 +185,19 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 			prefix = "#"
 		end
 	end
-	
+
 	local nopeek = peek~=true
-	
+
 	if ac.randommode then
 		ac.ignore = ac.sounds[math.random(#ac.sounds)]
 		return ac.ignore and (prefix .. ac.ignore)
 	end
-	
-		
+
+
 	local reverse = input.IsKeyDown(KEY_LSHIFT) or input.IsKeyDown(KEY_RSHIFT) or input.IsKeyDown(KEY_LCONTROL)
 	local prevmode = ac.tabbed
 	local prevignore = ac.ignore
-	
+
 	if not ac.tabbed then
 		if reverse then
 			ac.tabbed = #ac.found
@@ -211,19 +211,19 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 			ac.tabbed = ac.tabbed + 1
 		end
 	end
-	
+
 	ac.tabbed = (ac.tabbed - 1) % #ac.found + 1
 
-	
+
 	ac.ignore = ac.sounds[ac.found[ac.tabbed]]
-		
+
 	--hack: revert to previous
 	if not nopeek then
 		local ret = ac.ignore
-		
+
 		ac.tabbed = prevmode
 		ac.ignore = prevignore
-		
+
 		return ret and (prefix .. ret)
 	end
 
@@ -244,12 +244,12 @@ end)
 
 hook.Add("ChatTextChanged", "chatsounds_autocomplete", function(text, lua_tab_change)
 	if not chatsounds_autocomplete:GetBool() then return end
-	
+
 	local _, text = string.match(text, "^(#?#?)(.*)$")
-	
+
 	-- this may cause future compatibility issues
 	if lua_tab_change == true and string.find(text,"\n",1,true) then return end
-	
+
 	if text ~= "" and text ~= ac.ignore then
 		ac.randommode = nil
 	end
@@ -272,7 +272,7 @@ else
 	end)
 end]]
 
-hook.Add("HUDPaintBackground", "chatsounds_autocomplete", function()
+hook.Add("PostRenderVGUI", "chatsounds_autocomplete", function()
 	if ac.visible() then
 		local x, y, w, h
 
