@@ -118,7 +118,7 @@ end
 hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
 
 --- i've had to hack this, anyone who can find a better solution feel free to commit
-hook.Add("Tick", "chatsounds_ReplicatePrefixValue", function()
+hook.Add("Think", "chatsounds_ReplicatePrefixValue", function()
 	SetGlobalBool("chatsounds_PrefixEnabled", chatsounds_PrefixEnabled:GetBool())
 end)
 
