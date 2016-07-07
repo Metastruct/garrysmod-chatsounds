@@ -1,4 +1,4 @@
-c.StartList("table: 0x65aa1898")
+c.StartList("hostage")
 L["comeback"]={{path="hostage/hunuse/comeback.wav",length=1.6268480725624}}
 L["dontleaveme"]={{path="hostage/hunuse/dontleaveme.wav",length=1.1524716553288}}
 L["getouttahere"]={{path="hostage/huse/getouttahere.wav",length=1.6393197278912}}

@@ -1,4 +1,4 @@
-c.StartList("table: 0x1babca80")
+c.StartList("mvm")
 L["arrowimpactrobo"]={{path="mvm/melee_impacts/arrow_impact_robo03.wav",length=0.68825396825397},{path="mvm/melee_impacts/arrow_impact_robo02.wav",length=0.5908843537415},{path="mvm/melee_impacts/arrow_impact_robo01.wav",length=0.53662131519274}}
 L["batbaseballhitrobo"]={{path="mvm/melee_impacts/bat_baseball_hit_robo01.wav",length=0.87269841269841}}
 L["bladehitrobo"]={{path="mvm/melee_impacts/blade_hit_robo04.wav",length=0.17},{path="mvm/melee_impacts/blade_hit_robo03.wav",length=0.2991156462585},{path="mvm/melee_impacts/blade_hit_robo02.wav",length=0.31646258503401},{path="mvm/melee_impacts/blade_hit_robo01.wav",length=0.23412698412698}}

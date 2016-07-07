@@ -1,4 +1,4 @@
-c.StartList("table: 0x432c8f38")
+c.StartList("player")
 L["ammopackuse"]={{path="player/ammo_pack_use.wav",length=3.7115192743764}}
 L["attachcolabottles"]={{path="player/items/attach_cola_bottles_01.wav",length=3.8221315192744}}
 L["bandaging"]={{path="player/survivor/heal/bandaging_1.wav",length=10.01873015873}}
