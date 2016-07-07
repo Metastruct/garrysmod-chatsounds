@@ -1,4 +1,4 @@
-c.StartList("table: 0x38ab7e08")
+c.StartList("plats")
 L["bigmove"]={{path="plats/bigmove2.wav",length=2.1438548752834},{path="plats/bigmove1.wav",length=2.5163718820862}}
 L["bigstop"]={{path="plats/bigstop2.wav",length=1.8799092970522},{path="plats/bigstop1.wav",length=2.1438548752834}}
 L["churchbellbeginloop"]={{path="plats/churchbell_begin_loop.wav",length=16.317936507937}}

@@ -1,4 +1,4 @@
-c.StartList("table: 0x452c9c38")
+c.StartList("bot")
 L["a"]={{path="bot/a.wav",length=0.38036281179138}}
 L["aah"]={{path="bot/aah.wav",length=0.47918367346939}}
 L["abunchofthem"]={{path="bot/a_bunch_of_them.wav",length=0.65732426303855}}

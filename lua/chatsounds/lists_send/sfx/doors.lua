@@ -1,4 +1,4 @@
-c.StartList("table: 0x4779cd88")
+c.StartList("doors")
 L["aliendoor"]={{path="doors/aliendoor5.wav",length=0.7449433106576},{path="doors/aliendoor4.wav",length=0.7449433106576},{path="doors/aliendoor3.wav",length=2.4714739229025},{path="doors/aliendoor2.wav",length=3.198820861678},{path="doors/aliendoor1.wav",length=1.7392290249433}}
 L["checkpoint bar remove"]={{path="doors/checkpointbarremove.wav",length=1.3666666666667}}
 L["defaultlocked"]={{path="doors/default_locked.wav",length=0.33591836734694}}

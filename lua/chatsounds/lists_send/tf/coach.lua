@@ -1,4 +1,4 @@
-c.StartList("table: 0x3ce7cbe8")
+c.StartList("tfcoach")
 L["coachattackhere"]={{path="coach/coach_attack_here.wav",length=2.141156462585}}
 L["coachdefendhere"]={{path="coach/coach_defend_here.wav",length=1.9590022675737}}
 L["coachgohere"]={{path="coach/coach_go_here.wav",length=0.6208843537415}}

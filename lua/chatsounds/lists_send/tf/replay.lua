@@ -1,4 +1,4 @@
-c.StartList("table: 0x548de208")
+c.StartList("replay")
 L["cameracontrolerror"]={{path="replay/cameracontrolerror.wav",length=0.4053514739229}}
 L["cameracontrolmodeentered"]={{path="replay/cameracontrolmodeentered.wav",length=0.32}}
 L["cameracontrolmodeexited"]={{path="replay/cameracontrolmodeexited.wav",length=0.32}}

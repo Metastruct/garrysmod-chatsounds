@@ -1,4 +1,4 @@
-c.StartList("table: 0x4c0bd920")
+c.StartList("buttons")
 L["arenaswitchpress"]={{path="buttons/arena_switch_press_02.wav",length=0.3665306122449},{path="buttons/arena_switch_press_01.wav",length=0.42387755102041}}
 L["bell"]={{path="buttons/bell1.wav",length=0.69160997732426}}
 L["blip"]={{path="buttons/blip2.wav",length=0.2756462585034},{path="buttons/blip1.wav",length=0.1092970521542}}
