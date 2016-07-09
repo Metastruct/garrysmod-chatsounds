@@ -3,7 +3,6 @@ L["1800 contacts"]={{path="chatsounds/autoadd/verbalsilence/1800 contacts.ogg",l
 L["20thcenturyfoxflute"]={{path="chatsounds/autoadd/verbalsilence/20thcenturyfoxflute.ogg",length=21.106938775510205}}
 L["3gi pokemon loop"]={{path="chatsounds/autoadd/verbalsilence/3gi pokemon loop.ogg",length=10.969206349206349}}
 L["60 percent of the time it works everytime"]={{path="chatsounds/autoadd/verbalsilence/60 percent of the time it works everytime.ogg",length=5.9345124716553288}}
-L["? clashing of the swords ?"]={{path="chatsounds/autoadd/verbalsilence/? clashing of the swords ?.ogg",length=14.894852607709751}}
 L["adweedture time"]={{path="chatsounds/autoadd/verbalsilence/adweedture time.ogg",length=11.841609977324262}}
 L["adweedture time 2"]={{path="chatsounds/autoadd/verbalsilence/adweedture time 2.ogg",length=12.321655328798187}}
 L["afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/afternoon delight.ogg",length=3.6778911564625849}}
@@ -37,6 +36,7 @@ L["but python why"]={{path="chatsounds/autoadd/verbalsilence/but python why.ogg"
 L["can you smell what the rock is cooking"]={{path="chatsounds/autoadd/verbalsilence/can you smell what the rock is cooking.ogg",length=16.014807256235827}}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708}}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022}}
+L["clashing of the swords"]={{path="chatsounds/autoadd/verbalsilence/clashing of the swords.ogg",length=14.894852607709751}}
 L["click noice"]={{path="chatsounds/autoadd/verbalsilence/click noice.ogg",length=1.5234013605442176}}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042}}
 L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.ogg",length=1.9720861678004535}}
