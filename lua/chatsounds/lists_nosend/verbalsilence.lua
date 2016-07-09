@@ -3,6 +3,7 @@ L["1800 contacts"]={{path="chatsounds/autoadd/verbalsilence/1800 contacts.ogg",l
 L["20thcenturyfoxflute"]={{path="chatsounds/autoadd/verbalsilence/20thcenturyfoxflute.ogg",length=21.106938775510205}}
 L["3gi pokemon loop"]={{path="chatsounds/autoadd/verbalsilence/3gi pokemon loop.ogg",length=10.969206349206349}}
 L["60 percent of the time it works everytime"]={{path="chatsounds/autoadd/verbalsilence/60 percent of the time it works everytime.ogg",length=5.9345124716553288}}
+L["? clashing of the swords ?"]={{path="chatsounds/autoadd/verbalsilence/? clashing of the swords ?.ogg",length=14.894852607709751}}
 L["adweedture time"]={{path="chatsounds/autoadd/verbalsilence/adweedture time.ogg",length=11.841609977324262}}
 L["adweedture time 2"]={{path="chatsounds/autoadd/verbalsilence/adweedture time 2.ogg",length=12.321655328798187}}
 L["afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/afternoon delight.ogg",length=3.6778911564625849}}
@@ -25,6 +26,7 @@ L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612
 L["bee seventeen ballmer"]={{path="chatsounds/autoadd/verbalsilence/bee seventeen ballmer.ogg",length=3.0818367346938778}}
 L["behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren"]={{path="chatsounds/autoadd/verbalsilence/behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren.ogg",length=12.460408163265306}}
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952}}
+L["binaural knocking"]={{path="chatsounds/autoadd/verbalsilence/binaural knocking.ogg",length=4.83265306122449}}
 L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292517006804}}
 L["bomb squad"]={{path="chatsounds/autoadd/verbalsilence/bomb squad.ogg",length=1.2729251700680273}}
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428}}
@@ -214,6 +216,7 @@ L["this castle is in unacceptable condition"]={{path="chatsounds/autoadd/verbals
 L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/this is giving me a dragonboner.ogg",length=1.7013605442176871}}
 L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.11965986394557823}}
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907}}
+L["truck reverse"]={{path="chatsounds/autoadd/verbalsilence/truck reverse.ogg",length=4.9275736961451244}}
 L["twentyone"]={{path="chatsounds/autoadd/verbalsilence/twentyone.ogg",length=0.79594104308390023}}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/verbalsilence/vaporwave loop.ogg",length=21.865555555555556}}
@@ -238,6 +241,7 @@ L["why cool guy whyyyyyy"]={{path="chatsounds/autoadd/verbalsilence/why cool guy
 L["why is everyone so fucking stupid"]={{path="chatsounds/autoadd/verbalsilence/why is everyone so fucking stupid.ogg",length=2.3206575963718823}}
 L["wolf whistle"]={{path="chatsounds/autoadd/verbalsilence/wolf whistle.ogg",length=1.2444671201814059}}
 L["would you like to play again"]={{path="chatsounds/autoadd/verbalsilence/would you like to play again.ogg",length=2.003265306122449}}
+L["wow ethan great moves keep it up proud of you"]={{path="chatsounds/autoadd/verbalsilence/wow ethan great moves keep it up proud of you.ogg",length=3.7437188208616781}}
 L["wow wow wee wa"]={{path="chatsounds/autoadd/verbalsilence/wow wow wee wa.ogg",length=1.2266439909297051}}
 L["wrong sir wrong"]={{path="chatsounds/autoadd/verbalsilence/wrong sir wrong.ogg",length=2.3951473922902493}}
 L["wtf man"]={{path="chatsounds/autoadd/verbalsilence/wtf man.ogg",length=2.1071882086167801}}
