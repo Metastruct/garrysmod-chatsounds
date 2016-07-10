@@ -288,8 +288,7 @@ L["short laugh"]={{path="vo/sniper_laughshort02.mp3",length=0.74303854875283}}
 L["short quiet laugh"]={{path="vo/sniper_laughshort03.mp3",length=0.42086167800454}}
 L["should have saved a bullet for some of you blokes"]={{path="vo/sniper_jeers07.mp3",length=2.2407256235828}}
 L["shouldve saved a bullet for some of you blokes"]={{path="vo/sniper_jeers07.mp3",length=2.2407255172729}}
-L["shut your cakehole and stop that cart"]={{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
-L["shut your cakehole and stop the cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163}}
+L["shut your cakeholes and stop that cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163},{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
 L["simple simple one for me"]={{path="vo/sniper_autocappedintelligence01.mp3",length=2.7051247165533}}
 L["skill always beats luck you weasel"]={{path="vo/sniper_revenge04.mp3",length=3.4481632653061}}
 L["skill always beats luck you wheasle"]={{path="vo/sniper_revenge04.mp3",length=3.4481632653061}}

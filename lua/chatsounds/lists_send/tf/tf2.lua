@@ -1872,8 +1872,7 @@ L["shoot the tank"]={{path="vo/medic_mvm_tank_shooting01.mp3",length=1.384489795
 L["short laugh"]={{path="vo/heavy_laughshort01.mp3",length=0.9113832116127}}
 L["shouldve saved a bullet for some of you blokes"]={{path="vo/sniper_jeers07.mp3",length=2.2407255172729}}
 L["shtop that cart"]={{path="vo/medic_cartgoingforwarddefense02.mp3",length=1.3844897959184}}
-L["shut your cakehole and stop that cart"]={{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
-L["shut your cakehole and stop the cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163}}
+L["shut your cakeholes and stop that cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163},{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
 L["sigh doctor doctor doctor"]={{path="vo/scout_dominationmed06.mp3",length=2.4000000953674}}
 L["sigh it was long trip"]={{path="vo/heavy_autocappedintelligence01.mp3",length=2.3974602222443}}
 L["simple simple one for me"]={{path="vo/sniper_autocappedintelligence01.mp3",length=2.7051246166229}}
