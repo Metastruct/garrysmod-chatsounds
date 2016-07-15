@@ -178,8 +178,8 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
 
 	local prefix = ""
-	local chatsounds_PrefixEnabled = GetGlobalBool("chatsounds_PrefixEnabled")
-	if chatsounds_PrefixEnabled then
+	local chatsounds_enable_prefix = GetGlobalBool("chatsounds_enable_prefix")
+	if chatsounds_enable_prefix then
 		prefix = string.match(text, "^(#?#?)(.*)$")
 		if prefix == "" then
 			prefix = "#"
