@@ -61,6 +61,7 @@ L["shagudadigash shagudadigash"]={{path="chatsounds/autoadd/beauty_bomber/shagud
 L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.5571428571428572}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.96}}
 L["soda machine that doesnt work send them to the moon"]={{path="chatsounds/autoadd/beauty_bomber/soda machine that doesnt work send them to the moon.ogg",length=2.8549886621315195}}
+L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.1078458049886621}}
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.085850340136055}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.1699999999999999},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.15140589569161},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.1100000000000001}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.9000000000000004}}
@@ -68,6 +69,7 @@ L["thats enough"]={{path="chatsounds/autoadd/beauty_bomber/thats enough.ogg",len
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813242630385488}}
 L["wake me up inside"]={{path="chatsounds/autoadd/beauty_bomber/wake me up inside.ogg",length=21.981995464852609}}
 L["watch this"]={{path="chatsounds/autoadd/beauty_bomber/watch this.ogg",length=1.1139229024943311}}
+L["we are off"]={{path="chatsounds/autoadd/beauty_bomber/we are off.ogg",length=0.8372562358276644}}
 L["wha you cant do this to me"]={{path="chatsounds/autoadd/beauty_bomber/wha you cant do this to me.ogg",length=1.8403854875283447}}
 L["who put you on the planet"]={{path="chatsounds/autoadd/beauty_bomber/who put you on the planet/1.ogg",length=2.4715873015873018},{path="chatsounds/autoadd/beauty_bomber/who put you on the planet/2.ogg",length=2.8089569160997732}}
 L["wilsooooon"]={{path="chatsounds/autoadd/beauty_bomber/wilsooooon/1.ogg",length=4.2000000000000002},{path="chatsounds/autoadd/beauty_bomber/wilsooooon/2.ogg",length=1.5248526077097506}}
