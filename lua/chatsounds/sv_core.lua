@@ -99,7 +99,15 @@ function chatsounds.Say(ply, text)
 	chatsounds.GenerateNewSeed()
 end
 
+cvars.AddChangeCallback("chatsounds_enable_prefix", function(name, old, new)
+	SetGlobalBool("chatsounds_enable_prefix", tobool(new))
+end, "SetGlobalBool")
+local chatsounds_enable_prefix = CreateConVar("chatsounds_enable_prefix", "0", bit.bor(FCVAR_ARCHIVE))
+
 function chatsounds.PlayerSay(ply, text)
+	if not chatsounds_enable_prefix:GetBool() then 
+		chatsounds.Say(ply, text)
+	return end
 	if string.sub(text, 1, 2) == "##" then
 		text = string.sub(text, 3)
 		chatsounds.Say(ply, text)

@@ -1,4 +1,4 @@
-c.StartList("table: 0x646f1d38")
+c.StartList("ambient")
 L["advisor attack"]={{path="ambient/outro/advisorattack03.wav",length=2.7721088435374},{path="ambient/outro/advisorattack02.wav",length=3.7439455782313},{path="ambient/outro/advisorattack01.wav",length=4.3283900226757}}
 L["advisor enter loop"]={{path="ambient/levels/citadel/advisor_enter_loop.wav",length=2.1594557823129}}
 L["advisor leave"]={{path="ambient/levels/citadel/advisor_leave.wav",length=5.149387755102}}

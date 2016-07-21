@@ -25,6 +25,7 @@ L["bedtime"]={{path="chatsounds/autoadd/verbalsilence/bedtime.ogg",length=1.0612
 L["bee seventeen ballmer"]={{path="chatsounds/autoadd/verbalsilence/bee seventeen ballmer.ogg",length=3.0818367346938778}}
 L["behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren"]={{path="chatsounds/autoadd/verbalsilence/behold the field in which i grow my fucks lay thine eyes upon it and see that it is barren.ogg",length=12.460408163265306}}
 L["bender honey we love you"]={{path="chatsounds/autoadd/verbalsilence/bender honey we love you.ogg",length=1.4052380952380952}}
+L["binaural knocking"]={{path="chatsounds/autoadd/verbalsilence/binaural knocking.ogg",length=4.83265306122449}}
 L["bleep"]={{path="chatsounds/autoadd/verbalsilence/bleep.ogg",length=0.25231292517006804}}
 L["bomb squad"]={{path="chatsounds/autoadd/verbalsilence/bomb squad.ogg",length=1.2729251700680273}}
 L["boo you whore"]={{path="chatsounds/autoadd/verbalsilence/boo you whore.ogg",length=1.2028571428571428}}
@@ -35,6 +36,7 @@ L["but python why"]={{path="chatsounds/autoadd/verbalsilence/but python why.ogg"
 L["can you smell what the rock is cooking"]={{path="chatsounds/autoadd/verbalsilence/can you smell what the rock is cooking.ogg",length=16.014807256235827}}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.92276643990929708}}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.50453514739229022}}
+L["clashing of the swords"]={{path="chatsounds/autoadd/verbalsilence/clashing of the swords.ogg",length=14.894852607709751}}
 L["click noice"]={{path="chatsounds/autoadd/verbalsilence/click noice.ogg",length=1.5234013605442176}}
 L["come on caps get out of the trash youre coming with me"]={{path="chatsounds/autoadd/verbalsilence/come on caps get out of the trash youre coming with me.ogg",length=4.5688208616780042}}
 L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.ogg",length=1.9720861678004535}}
@@ -214,6 +216,7 @@ L["this castle is in unacceptable condition"]={{path="chatsounds/autoadd/verbals
 L["this is giving me a dragonboner"]={{path="chatsounds/autoadd/verbalsilence/this is giving me a dragonboner.ogg",length=1.7013605442176871}}
 L["tip"]={{path="chatsounds/autoadd/verbalsilence/tip.ogg",length=0.11965986394557823}}
 L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too funny it was your idea.ogg",length=5.10172335600907}}
+L["truck reverse"]={{path="chatsounds/autoadd/verbalsilence/truck reverse.ogg",length=4.9275736961451244}}
 L["twentyone"]={{path="chatsounds/autoadd/verbalsilence/twentyone.ogg",length=0.79594104308390023}}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/verbalsilence/vaporwave loop.ogg",length=21.865555555555556}}
@@ -238,6 +241,7 @@ L["why cool guy whyyyyyy"]={{path="chatsounds/autoadd/verbalsilence/why cool guy
 L["why is everyone so fucking stupid"]={{path="chatsounds/autoadd/verbalsilence/why is everyone so fucking stupid.ogg",length=2.3206575963718823}}
 L["wolf whistle"]={{path="chatsounds/autoadd/verbalsilence/wolf whistle.ogg",length=1.2444671201814059}}
 L["would you like to play again"]={{path="chatsounds/autoadd/verbalsilence/would you like to play again.ogg",length=2.003265306122449}}
+L["wow ethan great moves keep it up proud of you"]={{path="chatsounds/autoadd/verbalsilence/wow ethan great moves keep it up proud of you.ogg",length=3.7437188208616781}}
 L["wow wow wee wa"]={{path="chatsounds/autoadd/verbalsilence/wow wow wee wa.ogg",length=1.2266439909297051}}
 L["wrong sir wrong"]={{path="chatsounds/autoadd/verbalsilence/wrong sir wrong.ogg",length=2.3951473922902493}}
 L["wtf man"]={{path="chatsounds/autoadd/verbalsilence/wtf man.ogg",length=2.1071882086167801}}

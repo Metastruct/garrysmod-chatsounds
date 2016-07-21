@@ -1,4 +1,4 @@
-c.StartList("table: 0x45503cc8")
+c.StartList("ui")
 L["alertclink"]={{path="ui/alert_clink.wav",length=0.1392970521542}}
 L["beep"]={{path="ui/beep23.wav",length=0.4259410430839},{path="ui/beep22.wav",length=0.85680272108844},{path="ui/beep07.wav",length=0.081224489795918}}
 L["beep clear"]={{path="ui/beepclear.wav",length=0.14172335600907}}

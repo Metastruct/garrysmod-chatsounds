@@ -1,4 +1,4 @@
-c.StartList("table: 0x45536688")
+c.StartList("music")
 L["a glimpse of hell"]={{path="music/glimpse/aglimpseofhell_03.wav",length=10},{path="music/glimpse/aglimpseofhell_02.wav",length=10},{path="music/glimpse/aglimpseofhell_01.wav",length=10}}
 L["aglimpseofdeath"]={{path="music/glimpse/aglimpseofdeath_03.wav",length=6},{path="music/glimpse/aglimpseofdeath_02.wav",length=6},{path="music/glimpse/aglimpseofdeath_01.wav",length=6}}
 L["alliwantforxmas"]={{path="music/flu/jukebox/all_i_want_for_xmas.wav",length=211.2}}
