@@ -1,4 +1,4 @@
-c.StartList("table: 0x3e9eb020")
+c.StartList("npc")
 L["active"]={{path="npc/turret_floor/active.wav",length=0.64430839002268}}
 L["advisor head vx"]={{path="npc/advisor/advisorheadvx06.wav",length=1.8702494331066},{path="npc/advisor/advisorheadvx05.wav",length=2.5977097505669},{path="npc/advisor/advisorheadvx04.wav",length=2.3452154195011},{path="npc/advisor/advisorheadvx03.wav",length=1.9736961451247},{path="npc/advisor/advisorheadvx02.wav",length=2.5541950113379},{path="npc/advisor/advisorheadvx01.wav",length=2.7530839002268}}
 L["advisor screen vx"]={{path="npc/advisor/advisorscreenvx08.wav",length=1.4001587301587},{path="npc/advisor/advisorscreenvx07.wav",length=1.7357142857143},{path="npc/advisor/advisorscreenvx06.wav",length=1.9992517006803},{path="npc/advisor/advisorscreenvx05.wav",length=1.6631972789116},{path="npc/advisor/advisorscreenvx04.wav",length=1.7625623582766},{path="npc/advisor/advisorscreenvx03.wav",length=2.0536507936508},{path="npc/advisor/advisorscreenvx02.wav",length=1.5663265306122},{path="npc/advisor/advisorscreenvx01.wav",length=0.77984126984127}}

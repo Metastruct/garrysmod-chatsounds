@@ -1,4 +1,4 @@
-c.StartList("table: 0x270c0d30")
+c.StartList("radio")
 L["blow"]={{path="radio/blow.wav",length=1.9051247165533}}
 L["bombdef"]={{path="radio/bombdef.wav",length=1.7756009070295}}
 L["bombpl"]={{path="radio/bombpl.wav",length=1.5089795918367}}

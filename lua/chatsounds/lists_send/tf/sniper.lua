@@ -288,8 +288,7 @@ L["short laugh"]={{path="vo/sniper_laughshort02.mp3",length=0.74303854875283}}
 L["short quiet laugh"]={{path="vo/sniper_laughshort03.mp3",length=0.42086167800454}}
 L["should have saved a bullet for some of you blokes"]={{path="vo/sniper_jeers07.mp3",length=2.2407256235828}}
 L["shouldve saved a bullet for some of you blokes"]={{path="vo/sniper_jeers07.mp3",length=2.2407255172729}}
-L["shut your cakehole and stop that cart"]={{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
-L["shut your cakehole and stop the cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163}}
+L["shut your cakeholes and stop that cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163},{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
 L["simple simple one for me"]={{path="vo/sniper_autocappedintelligence01.mp3",length=2.7051247165533}}
 L["skill always beats luck you weasel"]={{path="vo/sniper_revenge04.mp3",length=3.4481632653061}}
 L["skill always beats luck you wheasle"]={{path="vo/sniper_revenge04.mp3",length=3.4481632653061}}
@@ -462,6 +461,7 @@ L["you are a bloody disgrace"]={{path="vo/sniper_revenge18.mp3",length=5.3028571
 L["you are a creepy mute little bugger aint ya"]={{path="vo/sniper_dominationpyro01.mp3",length=2.717346906662}}
 L["you are a creepy mute little bugger aintcha"]={{path="vo/sniper_dominationpyro01.mp3",length=2.7173469387755}}
 L["you are inventin loads a new ways ta get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.1920181405896}}
+L["you are inventin loads of new ways to get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.192018032074}}
 L["you best keep lyin down"]={{path="vo/sniper_specialcompleted29.mp3",length=1.3467574119568}}
 L["you best keep lying down"]={{path="vo/sniper_specialcompleted29.mp3",length=1.3467573696145},{path="vo/sniper_specialcompleted07.mp3",length=1.5934693877551}}
 L["you better hold onto your head mate"]={{path="vo/taunts/sniper_taunts34.mp3",length=1.4338321995465}}
@@ -471,7 +471,6 @@ L["you dont see a lot of these"]={{path="vo/sniper_mvm_loot_rare08.mp3",length=3
 L["you got a forehead on you like a coffee table"]={{path="vo/sniper_domination13.mp3",length=2.4555102040816}}
 L["you got blood on my knife mate"]={{path="vo/sniper_specialcompleted28.mp3",length=1.5615419501134},{path="vo/sniper_specialcompleted06.mp3",length=1.8285714285714}}
 L["you had a good run you mongrel"]={{path="vo/sniper_revenge02.mp3",length=2.4555102040816}}
-L["you inventin loads of new ways to get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.192018032074}}
 L["you know what dominated means you bloody whackjob"]={{path="vo/sniper_dominationpyro05.mp3",length=3.4773468971252}}
 L["you know what you and jane austin have in common youre both dead women"]={{path="vo/sniper_revenge14.mp3",length=4.9371428571429}}
 L["you know what youre dominating now bleeding"]={{path="vo/sniper_revenge08.mp3",length=3.1085714285714}}

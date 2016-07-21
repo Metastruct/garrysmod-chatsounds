@@ -1,4 +1,4 @@
-c.StartList("table: 0x3b0e59c8")
+c.StartList("weapons")
 L["adrenalinecapoff"]={{path="weapons/adrenaline/adrenaline_cap_off.wav",length=0.28562358276644}}
 L["adrenalinedeploy"]={{path="weapons/adrenaline/adrenaline_deploy_1.wav",length=0.67952380952381}}
 L["adrenalineneedlein"]={{path="weapons/adrenaline/adrenaline_needle_in.wav",length=0.30102040816327}}

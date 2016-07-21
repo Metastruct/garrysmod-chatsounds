@@ -1,4 +1,4 @@
-c.StartList("table: 0x10948d68")
+c.StartList("items")
 L["airtank"]={{path="items/airtank1.wav",length=0.76448979591837}}
 L["ammocrateclose"]={{path="items/ammocrate_close.wav",length=0.49981859410431}}
 L["ammocrateopen"]={{path="items/ammocrate_open.wav",length=0.33183673469388}}

@@ -1,4 +1,4 @@
-c.StartList("table: 0x4c708f18")
+c.StartList("misc")
 L["achievementearned"]={{path="misc/achievement_earned.wav",length=10.120272108844}}
 L["blank"]={{path="misc/blank.wav",length=60}}
 L["bookexit"]={{path="misc/halloween_eyeball/book_exit.wav",length=3.3333560090703}}

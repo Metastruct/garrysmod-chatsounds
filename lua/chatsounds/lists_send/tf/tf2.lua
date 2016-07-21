@@ -1872,8 +1872,7 @@ L["shoot the tank"]={{path="vo/medic_mvm_tank_shooting01.mp3",length=1.384489795
 L["short laugh"]={{path="vo/heavy_laughshort01.mp3",length=0.9113832116127}}
 L["shouldve saved a bullet for some of you blokes"]={{path="vo/sniper_jeers07.mp3",length=2.2407255172729}}
 L["shtop that cart"]={{path="vo/medic_cartgoingforwarddefense02.mp3",length=1.3844897959184}}
-L["shut your cakehole and stop that cart"]={{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
-L["shut your cakehole and stop the cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163}}
+L["shut your cakeholes and stop that cart"]={{path="vo/sniper_cartmovingforwarddefensesoft04.mp3",length=2.7951020408163},{path="vo/sniper_cartmovingforwarddefense04.mp3",length=2.7167346938776}}
 L["sigh doctor doctor doctor"]={{path="vo/scout_dominationmed06.mp3",length=2.4000000953674}}
 L["sigh it was long trip"]={{path="vo/heavy_autocappedintelligence01.mp3",length=2.3974602222443}}
 L["simple simple one for me"]={{path="vo/sniper_autocappedintelligence01.mp3",length=2.7051246166229}}
@@ -2768,6 +2767,7 @@ L["you are dead not big suprise"]={{path="vo/heavy_domination17.mp3",length=2.72
 L["you are going down you spell casting maggot"]={{path="vo/soldier_sf12_taunts09.mp3",length=3.6571428571429}}
 L["you are going to need much bigger guns"]={{path="vo/taunts/heavy_taunts15.mp3",length=3.7035827636719}}
 L["you are great doctor"]={{path="vo/heavy_thanksfortheheal02.mp3",length=1.4744671583176}}
+L["you are inventin loads of new ways to get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.192018032074}}
 L["you are losing ground"]={{path="vo/announcer_plr_racegeneral15.mp3",length=4.0228571428571}}
 L["you are no match for me"]={{path="vo/heavy_domination02.mp3",length=2.1813378334045}}
 L["you are not his friend you are a killer"]={{path="vo/announcer_dec_kill12.mp3",length=4.2318367346939}}
@@ -2852,7 +2852,6 @@ L["you have killed all the spies"]={{path="vo/mvm_spybot_death05.mp3",length=2.8
 L["you have the australium get to the lift"]={{path="vo/announcer_sd_misc_nags05.mp3",length=3.8922448979592}}
 L["you have the australium get to the rocket"]={{path="vo/announcer_sd_misc_nags04.mp3",length=3.8661224489796}}
 L["you imbeciles youve dropped the enemy reactor core"]={{path="vo/announcer_captureflag_teamdropped_04.mp3",length=5.1461224489796}}
-L["you inventin loads of new ways to get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.192018032074}}
 L["you just aint doin it right"]={{path="vo/engineer_dominationengineer01.mp3",length=1.5244897603989}}
 L["you just got dominated bablo brabbins"]={{path="vo/soldier_dominationsniper09.mp3",length=2.6087982654572}}
 L["you just got dominated balbo biggins"]={{path="vo/soldier_dominationsniper08.mp3",length=2.5032427310944}}

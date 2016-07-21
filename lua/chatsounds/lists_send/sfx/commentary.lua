@@ -1,4 +1,4 @@
-c.StartList("table: 0x36dd87c0")
+c.StartList("commentary")
 L["commentaryadvisorsighting"]={{path="commentary/advisorsighting.wav",length=53.416145124717}}
 L["commentaryairventcollapse"]={{path="commentary/airventcollapse.wav",length=26.454149659864}}
 L["commentaryal gstrategy"]={{path="commentary/alg_strategy.wav",length=30.793922902494}}
