@@ -91,7 +91,6 @@ L["downtown"]={{path="vo/scout_stunballhit05.mp3",length=1.0760090702948}}
 L["drink it in pal thats how failure tastes"]={{path="vo/scout_domination08.mp3",length=2.5546712018141}}
 L["drop dead and gimme twenty"]={{path="vo/scout_dominationsol03.mp3",length=1.3813378684807}}
 L["drop dead and give me twenty"]={{path="vo/scout_dominationsol03.mp3",length=1.3813378810883}}
-L["dude were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.155192732811}}
 L["dude you get a closed casket at the ugly cemetary"]={{path="vo/scout_misc08.mp3",length=2.5040135383606}}
 L["dude youd get a closed casket at the ugly cemetery"]={{path="vo/scout_misc08.mp3",length=2.5040136054422}}
 L["dumbass"]={{path="vo/scout_beingshotinvincible33.mp3",length=0.62267573696145}}
@@ -560,7 +559,7 @@ L["yo im owning you ya fat bald bastid"]={{path="vo/scout_dominationhvy01.mp3",l
 L["yo incoming"]={{path="vo/scout_incoming02.mp3",length=0.99265306122449}}
 L["yo it should be goin dat way"]={{path="vo/scout_cartgoingbackdefense06.mp3",length=1.1893424036281}}
 L["yo it should be goin that way"]={{path="vo/scout_cartgoingbackdefense06.mp3",length=1.18934237957}}
-L["yo were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.1551927437642}}
+L["yo were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.155192732811}}
 L["yoick"]={{path="vo/scout_invinciblechgunderfire01.mp3",length=0.574693877551}}
 L["yoink"]={{path="vo/scout_invinciblechgunderfire03.mp3",length=0.37068027210884}}
 L["you and me"]={{path="vo/scout_meleedare04.mp3",length=0.72401360544218}}

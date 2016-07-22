@@ -25,7 +25,7 @@ L["but were ready for them"]={{path="vo/outland_11a/silo/eli_silo_raceclock03.wa
 L["but weve got plenty to celebrate"]={{path="vo/outland_12a/launch/eli_launch_gotthatright02.wav",length=2.3066666666667}}
 L["but where will you go"]={{path="vo/novaprospekt/eli_wherewillyougo01.wav",length=1.7917006802721}}
 L["can you blame an old man for wanting grandkids"]={{path="vo/outland_11a/silo/eli_silo_blame.wav",length=2.6186848072562}}
-L["close your eye honey"]={{path="vo/outland_12a/launch/eli_launch_closeeyes.wav",length=1.4}}
+L["close your eyes honey"]={{path="vo/outland_12a/launch/eli_launch_closeeyes.wav",length=1.4}}
 L["dear god this has to work"]={{path="vo/outland_12a/launch/eli_launch_hastowork.wav",length=2.8586848072562}}
 L["destroy it"]={{path="vo/outland_12a/launch/eli_launch_promiseme.wav",length=1.2654421768707}}
 L["destroy that ship"]={{path="vo/outland_12a/launch/eli_launch_remember01.wav",length=1.5507029478458}}
