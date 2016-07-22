@@ -19,6 +19,7 @@ L["keyboardrape oh my god"]={{path="chatsounds/autoadd/recurracy/keyboardrape oh
 L["ngggggg"]={{path="chatsounds/autoadd/recurracy/ngggggg.ogg",length=0.99845804988662135}}
 L["now fucking disappear now"]={{path="chatsounds/autoadd/recurracy/now fucking disappear now.ogg",length=2.1710657596371883}}
 L["oh my god"]={{path="chatsounds/autoadd/recurracy/oh my god.ogg",length=1.7182766439909296}}
+L["vote daniels"]={{path="chatsounds/autoadd/recurracy/vote daniels.ogg",length=15.47609977324263}}
 L["you are the most ignorant soab ive ever met in my life"]={{path="chatsounds/autoadd/recurracy/you are the most ignorant soab ive ever met in my life.ogg",length=4.4001814058956912}}
 L["you fucking insulted me"]={{path="chatsounds/autoadd/recurracy/you fucking insulted me.ogg",length=1.8808163265306121}}
 L["you stupid fuck"]={{path="chatsounds/autoadd/recurracy/you stupid fuck.ogg",length=1.6486167800453515}}
