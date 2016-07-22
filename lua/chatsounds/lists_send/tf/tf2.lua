@@ -166,7 +166,7 @@ L["aw shucks"]={{path="vo/engineer_negativevocalization02.mp3",length=1.17260766
 L["aw theres a new angel in heaven in hell"]={{path="vo/demoman_dominationheavy04.mp3",length=4.2712697982788}}
 L["aw what are you gonna cry you gonna cry now"]={{path="vo/scout_domination20.mp3",length=2.1040136814117}}
 L["aww did i get blood on your suit"]={{path="vo/sniper_dominationspy04.mp3",length=1.9813379049301}}
-L["aww too bad this wasnt a pieeating contenst"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
+L["aww too bad this wasnt a pie eating contest"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
 L["aww too violent for you cupcake"]={{path="vo/soldier_dominationsniper12.mp3",length=2.7121315002441}}
 L["aww you almost healde me to death that time"]={{path="vo/spy_dominationmedic03.mp3",length=4.0106801986694}}
 L["awwww"]={{path="vo/spy_rpslose01.mp3",length=1.2016326530612}}
@@ -477,7 +477,6 @@ L["downtown"]={{path="vo/scout_stunballhit05.mp3",length=1.0760090351105}}
 L["drink it in pal thats how failure tastes"]={{path="vo/scout_domination08.mp3",length=2.5546712875366}}
 L["drop dead and give me twenty"]={{path="vo/scout_dominationsol03.mp3",length=1.3813378810883}}
 L["drunk on the battlefield aint no way to be son"]={{path="vo/engineer_dominationdemoman02.mp3",length=3.0898640155792}}
-L["dude were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.155192732811}}
 L["dude you get a closed casket at the ugly cemetary"]={{path="vo/scout_misc08.mp3",length=2.5040135383606}}
 L["dumbass"]={{path="vo/scout_beingshotinvincible33.mp3",length=0.62267571687698}}
 L["dumber than dirt aint ya"]={{path="vo/engineer_dominationheavy10.mp3",length=1.7816326618195}}
@@ -2743,6 +2742,7 @@ L["yo if ya didnt want me to kill ya you shoulda said somethin"]={{path="vo/scou
 L["yo im not even wearin a helmet"]={{path="vo/scout_dominationsol01.mp3",length=1.2720181941986}}
 L["yo incoming"]={{path="vo/scout_incoming02.mp3",length=0.99265307188034}}
 L["yo it should be goin that way"]={{path="vo/scout_cartgoingbackdefense06.mp3",length=1.18934237957}}
+L["yo were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.155192732811}}
 L["yoick"]={{path="vo/scout_invinciblechgunderfire01.mp3",length=0.574693877551}}
 L["yoink"]={{path="vo/scout_invinciblechgunderfire03.mp3",length=0.37068027257919}}
 L["you and me"]={{path="vo/scout_meleedare04.mp3",length=0.72401362657547}}
