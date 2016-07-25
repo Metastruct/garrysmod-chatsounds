@@ -71,6 +71,7 @@ L["theyll make you healthy"]={{path="chatsounds/autoadd/vapecon/theyll make you 
 L["theyll make your feet small"]={{path="chatsounds/autoadd/vapecon/theyll make your feet small.ogg",length=1.3003174603174603}}
 L["vape for life"]={{path="chatsounds/autoadd/vapecon/vape for life.ogg",length=0.91718820861678008}}
 L["vape for your life"]={{path="chatsounds/autoadd/vapecon/vape for your life.ogg",length=1.4280272108843537}}
+L["vape inhale"]={{path="chatsounds/autoadd/vapecon/vape inhale.ogg",length=1.6718367346938776}}
 L["vape nation"]={{path="chatsounds/autoadd/vapecon/vape nation.ogg",length=1.3235374149659864}}
 L["vape nation is great"]={{path="chatsounds/autoadd/vapecon/vape nation is great.ogg",length=2.2639455782312927}}
 L["vape on brothers"]={{path="chatsounds/autoadd/vapecon/vape on brothers.ogg",length=1.6137868480725623}}
