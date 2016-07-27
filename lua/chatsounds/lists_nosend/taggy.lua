@@ -1,5 +1,4 @@
 c.StartList("taggy")
-L["careful not to get doodoo on your finger"]={{path="chatsounds/autoadd/taggy/careful not to get doodoo on your finger.ogg",length=2.1465759637188206}}
 L["congratulations"]={{path="chatsounds/autoadd/taggy/congratulations.ogg",length=1.373015873015873}}
 L["crab battle"]={{path="chatsounds/autoadd/taggy/crab battle.ogg",length=1.2883219954648526}}
 L["destroy us all"]={{path="chatsounds/autoadd/taggy/destroy us all.ogg",length=1.5983219954648527}}
@@ -8,7 +7,6 @@ L["e me cha"]={{path="chatsounds/autoadd/taggy/e me cha.ogg",length=1.3180045351
 L["elevmusic"]={{path="chatsounds/autoadd/taggy/elevmusic.ogg",length=3.852018140589569}}
 L["hai wa sa"]={{path="chatsounds/autoadd/taggy/hai wa sa.ogg",length=0.97700680272108842}}
 L["have you ever had a dream like this"]={{path="chatsounds/autoadd/taggy/have you ever had a dream like this.ogg",length=17.46439909297052}}
-L["hello little boy"]={{path="chatsounds/autoadd/taggy/hello little boy.ogg",length=1.3860544217687074}}
 L["hello there"]={{path="chatsounds/autoadd/taggy/hello there.ogg",length=0.80156462585034016}}
 L["here is a present for you"]={{path="chatsounds/autoadd/taggy/here is a present for you.ogg",length=1.1842630385487529}}
 L["im the coolest"]={{path="chatsounds/autoadd/taggy/im the coolest.ogg",length=1.310045351473923}}
@@ -18,8 +16,6 @@ L["maida e"]={{path="chatsounds/autoadd/taggy/maida e.ogg",length=1.355011337868
 L["mnn"]={{path="chatsounds/autoadd/taggy/mnn.ogg",length=1.1390022675736962}}
 L["mno"]={{path="chatsounds/autoadd/taggy/mno.ogg",length=0.85099773242630383}}
 L["my cabbages"]={{path="chatsounds/autoadd/taggy/my cabbages.ogg",length=2.4520861678004535}}
-L["my plump juicy breasts are none of your goddamn business and youre one to talk you chubby little queer"]={{path="chatsounds/autoadd/taggy/my plump juicy breasts are none of your goddamn business and youre one to talk you chubby little queer.ogg",length=7.0060317460317458}}
-L["nigga youre crazy i cant afford an xbox"]={{path="chatsounds/autoadd/taggy/nigga youre crazy i cant afford an xbox.ogg",length=2.6733560090702948}}
 L["no wait come back"]={{path="chatsounds/autoadd/taggy/no wait come back.ogg",length=1.6718367346938776}}
 L["off with their heads one for each head of cabbage"]={{path="chatsounds/autoadd/taggy/off with their heads one for each head of cabbage.ogg",length=3.05875283446712}}
 L["oh"]={{path="chatsounds/autoadd/taggy/oh.ogg",length=0.48612244897959184}}
@@ -29,13 +25,11 @@ L["peace out"]={{path="chatsounds/autoadd/taggy/peace out.ogg",length=0.49582766
 L["perfect"]={{path="chatsounds/autoadd/taggy/perfect.ogg",length=0.64124716553287986}}
 L["see you"]={{path="chatsounds/autoadd/taggy/see you.ogg",length=0.64124716553287986}}
 L["soiled it"]={{path="chatsounds/autoadd/taggy/soiled it.ogg",length=0.9294784580498866}}
-L["taggy"]={{path="chatsounds/autoadd/taggy/taggy.ogg",length=0.68630385487528345}}
 L["thats hot"]={{path="chatsounds/autoadd/taggy/thats hot.ogg",length=0.61900226757369614}}
 L["to oi cha"]={{path="chatsounds/autoadd/taggy/to oi cha.ogg",length=1.3490022675736961}}
 L["wait"]={{path="chatsounds/autoadd/taggy/wait.ogg",length=0.53265306122448974}}
 L["welcome back"]={{path="chatsounds/autoadd/taggy/welcome back.ogg",length=1.000657596371882}}
 L["well done"]={{path="chatsounds/autoadd/taggy/well done.ogg",length=0.70589569160997734}}
-L["why do you have boobs"]={{path="chatsounds/autoadd/taggy/why do you have boobs.ogg",length=2.3309523809523811}}
 L["wonderful"]={{path="chatsounds/autoadd/taggy/wonderful.ogg",length=0.93344671201814056}}
 L["wow"]={{path="chatsounds/autoadd/taggy/wow/wow.ogg",length=4.4912244897959184},{path="chatsounds/autoadd/taggy/wow/wowoak.ogg",length=0.41628117913832202}}
 L["yeah"]={{path="chatsounds/autoadd/taggy/yeah.ogg",length=0.6826303854875283}}
