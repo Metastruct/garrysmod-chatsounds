@@ -14,7 +14,6 @@ L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/beauty_bomber/dontloseyourway.ogg",length=35.899999999999999}}
 L["eeeeeeeeeuuuuuuuuuuggggggggghhhhhhhhhhh"]={{path="chatsounds/autoadd/beauty_bomber/eeeeeeeeeuuuuuuuuuuggggggggghhhhhhhhhhh.ogg",length=70.95269841269841}}
 L["eeeuuuggghhh"]={{path="chatsounds/autoadd/beauty_bomber/eeeuuuggghhh.ogg",length=6.1204761904761904}}
-L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.2948526077097506}}
 L["gordon you must get out of here runrunrunrunrunrunrunrun"]={{path="chatsounds/autoadd/beauty_bomber/gordon you must get out of here runrunrunrunrunrunrunrun.ogg",length=5.2999999999999998}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.30725623582766443}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.3748299319727892}}
