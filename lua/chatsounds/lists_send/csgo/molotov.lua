@@ -1,7 +1,7 @@
 c.StartList("molotov")
 L["molotov bomb planted"]={{path="music/kitheory_01/bombplanted.mp3",length=16.674999237061}}
 L["molotov bomb ten second countdown"]={{path="music/kitheory_01/bombtenseccount.mp3",length=7.3174724578857}}
-L["molotov choose tewam"]={{path="music/kitheory_01/chooseteam.mp3",length=9.871527671814}}
+L["molotov choose team"]={{path="music/kitheory_01/chooseteam.mp3",length=9.871527671814}}
 L["molotov death cam"]={{path="music/kitheory_01/deathcam.mp3",length=2.5339722633362}}
 L["molotov lost round"]={{path="music/kitheory_01/lostround.mp3",length=3.1957499980927}}
 L["molotov main menu"]={{path="music/kitheory_01/mainmenu.mp3",length=69.895057678223}}
