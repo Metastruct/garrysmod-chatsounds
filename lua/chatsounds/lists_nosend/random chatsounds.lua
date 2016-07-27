@@ -18,4 +18,5 @@ L["oh shit"]={{path="chatsounds/autoadd/random chatsounds/oh shit.ogg",length=0.
 L["we do this you know one on one"]={{path="chatsounds/autoadd/random chatsounds/we do this you know one on one.ogg",length=1.9620861678004535}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random chatsounds/why the hell so expensive.ogg",length=1.5905668934240362}}
 L["you fuck you bitch"]={{path="chatsounds/autoadd/random chatsounds/you fuck you bitch.ogg",length=1.4396371882086167}}
+L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random chatsounds/flbfllflfllahflbflblfflflfl.ogg",length=1.9362811791383221}}
 c.EndList()
