@@ -2,6 +2,7 @@ c.StartList("random chatsounds")
 L["are you stupid"]={{path="chatsounds/autoadd/random chatsounds/are you stupid.ogg",length=1.0332879818594105}}
 L["can not stop will not stop"]={{path="chatsounds/autoadd/random chatsounds/can not stop will not stop.ogg",length=1.9272562358276644}}
 L["deep dark fantasies"]={{path="chatsounds/autoadd/random chatsounds/deep dark fantasies.ogg",length=2.4380952380952383}}
+L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random chatsounds/flbfllflfllahflbflblfflflfl.ogg",length=1.9362811791383221}}
 L["fucking degenerate"]={{path="chatsounds/autoadd/random chatsounds/fucking degenerate.ogg",length=1.2190476190476192}}
 L["get over it"]={{path="chatsounds/autoadd/random chatsounds/get over it.ogg",length=1.2596825396825397}}
 L["i come to you right now"]={{path="chatsounds/autoadd/random chatsounds/i come to you right now.ogg",length=1.5441269841269842}}
@@ -18,5 +19,4 @@ L["oh shit"]={{path="chatsounds/autoadd/random chatsounds/oh shit.ogg",length=0.
 L["we do this you know one on one"]={{path="chatsounds/autoadd/random chatsounds/we do this you know one on one.ogg",length=1.9620861678004535}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random chatsounds/why the hell so expensive.ogg",length=1.5905668934240362}}
 L["you fuck you bitch"]={{path="chatsounds/autoadd/random chatsounds/you fuck you bitch.ogg",length=1.4396371882086167}}
-L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random chatsounds/flbfllflfllahflbflblfflflfl.ogg",length=1.9362811791383221}}
 c.EndList()

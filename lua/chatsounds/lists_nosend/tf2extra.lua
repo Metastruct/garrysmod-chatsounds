@@ -16,6 +16,7 @@ L["cupcake"]={{path="chatsounds/autoadd/tf2extra/cupcake.ogg",length=0.537755102
 L["ded"]={{path="chatsounds/autoadd/tf2extra/ded.ogg",length=0.43870748299319728}}
 L["doctor"]={{path="chatsounds/autoadd/tf2extra/doctor.ogg",length=0.91997732426303858}}
 L["dont be such a baby"]={{path="chatsounds/autoadd/tf2extra/dont be such a baby.ogg",length=1.3279591836734694}}
+L["dreughhh"]={{path="chatsounds/autoadd/tf2extra/dreughhh.ogg",length=1.6465532879818594}}
 L["drinking intensifies"]={{path="chatsounds/autoadd/tf2extra/drinking intensifies.ogg",length=2.2326303854875285}}
 L["eheh well no"]={{path="chatsounds/autoadd/tf2extra/eheh well no.ogg",length=1.4719727891156462}}
 L["espresso"]={{path="chatsounds/autoadd/tf2extra/espresso.ogg",length=0.77233560090702946}}
@@ -24,6 +25,7 @@ L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.1512925
 L["gasp"]={{path="chatsounds/autoadd/tf2extra/gasp.ogg",length=1.0855328798185941}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.91448979591836732}}
 L["gottam"]={{path="chatsounds/autoadd/tf2extra/gottam.ogg",length=0.22666666666666666}}
+L["haaaii"]={{path="chatsounds/autoadd/tf2extra/haaaii.ogg",length=0.75755102040816324}}
 L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.1173015873015873}}
 L["hello i am prepared to do nothing"]={{path="chatsounds/autoadd/tf2extra/hello i am prepared to do nothing.ogg",length=2.7951020408163267}}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2extra/hhoooott.ogg",length=1.7173696145124717}}
@@ -47,6 +49,7 @@ L["mine"]={{path="chatsounds/autoadd/tf2extra/mine.ogg",length=0.428004535147392
 L["mrprprpm"]={{path="chatsounds/autoadd/tf2extra/mrprprpm.ogg",length=0.65306122448979587}}
 L["no they dont"]={{path="chatsounds/autoadd/tf2extra/no they dont.ogg",length=0.56795918367346943}}
 L["noon"]={{path="chatsounds/autoadd/tf2extra/noon.ogg",length=0.54383219954648521}}
+L["noooon"]={{path="chatsounds/autoadd/tf2extra/noooon.ogg",length=1.6526984126984128}}
 L["now"]={{path="chatsounds/autoadd/tf2extra/now.ogg",length=0.52795918367346939}}
 L["oh"]={{path="chatsounds/autoadd/tf2extra/oh.ogg",length=0.2959637188208617}}
 L["oh my god"]={{path="chatsounds/autoadd/tf2extra/oh my god.ogg",length=2.5440136054421769}}
@@ -57,7 +60,7 @@ L["ppoottiiss"]={{path="chatsounds/autoadd/tf2extra/ppoottiiss.ogg",length=3.134
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2extra/ribs grow back.ogg",length=0.71197278911564621}}
 L["sees"]={{path="chatsounds/autoadd/tf2extra/sees/1.ogg",length=0.84390022675736964},{path="chatsounds/autoadd/tf2extra/sees/2.ogg",length=0.71208616780045353}}
 L["sexellent"]={{path="chatsounds/autoadd/tf2extra/sexellent.ogg",length=0.99303854875283448}}
-L["sey"]={{path="chatsounds/autoadd/tf2extra/sey/1.ogg",length=0.7168934240362812},{path="chatsounds/autoadd/tf2extra/2.ogg",length=0.73142857142857143}}
+L["sey"]={{path="chatsounds/autoadd/tf2extra/sey/1.ogg",length=0.7168934240362812},{path="chatsounds/autoadd/tf2extra/sey/2.ogg",length=0.73142857142857143}}
 L["should i be awake for this"]={{path="chatsounds/autoadd/tf2extra/should i be awake for this.ogg",length=1.7679591836734694}}
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2extra/sniperlaughfast.ogg",length=1.3285714285714285}}
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.75138321995464852},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.1733106575963719}}
@@ -70,6 +73,7 @@ L["surprise big not"]={{path="chatsounds/autoadd/tf2extra/surprise big not.ogg",
 L["that background is a bloody crap"]={{path="chatsounds/autoadd/tf2extra/that background is a bloody crap.ogg",length=3.07546485260771}}
 L["that looks good"]={{path="chatsounds/autoadd/tf2extra/that looks good.ogg",length=0.80795918367346942}}
 L["the sound of progress"]={{path="chatsounds/autoadd/tf2extra/the sound of progress.ogg",length=1.3599773242630386}}
+L["this is a huge waste of my time"]={{path="chatsounds/autoadd/tf2extra/this is a huge waste of my time.ogg",length=3.4784807256235828}}
 L["trying"]={{path="chatsounds/autoadd/tf2extra/trying.ogg",length=0.55727891156462583}}
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.90866213151927433}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.5388662131519274}}
@@ -81,8 +85,4 @@ L["wuuuub"]={{path="chatsounds/autoadd/tf2extra/wuuuub.ogg",length=1.37501133786
 L["yeey"]={{path="chatsounds/autoadd/tf2extra/yeey/1.ogg",length=0.33054421768707481},{path="chatsounds/autoadd/tf2extra/yeey/2.ogg",length=0.45022675736961454},{path="chatsounds/autoadd/tf2extra/yeey/3.ogg",length=0.44176870748299318},{path="chatsounds/autoadd/tf2extra/yeey/4.ogg",length=0.23224489795918368},{path="chatsounds/autoadd/tf2extra/yeey/5.ogg",length=0.48149659863945576},{path="chatsounds/autoadd/tf2extra/yeey/6.ogg",length=0.5130385487528345},{path="chatsounds/autoadd/tf2extra/yeey/7.ogg",length=0.42741496598639456}}
 L["your team lost"]={{path="chatsounds/autoadd/tf2extra/your team lost.ogg",length=9.1768707482993204}}
 L["youre invincible"]={{path="chatsounds/autoadd/tf2extra/youre invincible.ogg",length=2.461315192743764}}
-L["this is a huge waste of my time"]={{path="chatsounds/autoadd/tf2extra/this is a huge waste of my time.ogg",length=3.4784807256235828}}
-L["noooon"]={{path="chatsounds/autoadd/tf2extra/noooon.ogg",length=1.6526984126984128}}
-L["haaaii"]={{path="chatsounds/autoadd/tf2extra/haaaii.ogg",length=0.75755102040816324}}
-L["dreughhh"]={{path="chatsounds/autoadd/tf2extra/dreughhh.ogg",length=1.6465532879818594}}
 c.EndList()

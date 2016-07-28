@@ -18,7 +18,7 @@ L["pasholnahuy"]={{path="chatsounds/autoadd/unpleasant/pasholnahuy.ogg",length=2
 L["piiizdet"]={{path="chatsounds/autoadd/unpleasant/piiizdet.ogg",length=1.4396371882086167}}
 L["pizd"]={{path="chatsounds/autoadd/unpleasant/pizd.ogg",length=0.89396825396825397}}
 L["pizdet"]={{path="chatsounds/autoadd/unpleasant/pizdet/pizdet 1.ogg",length=0.71981859410430837},{path="chatsounds/autoadd/unpleasant/pizdet/pizdet 2.ogg",length=0.87655328798185939}}
+L["pulse jet"]={{path="chatsounds/autoadd/unpleasant/pulse jet.ogg",length=30.04111111111111}}
 L["you have been ip bann aaaiiiiiiiiiiieeeaaa"]={{path="chatsounds/autoadd/unpleasant/you have been ip bann aaaiiiiiiiiiiieeeaaa.ogg",length=4.8892517006802718}}
 L["yourmomscreams"]={{path="chatsounds/autoadd/unpleasant/yourmomscreams.ogg",length=2.0448072562358277}}
-L["pulse jet"]={{path="chatsounds/autoadd/unpleasant/pulse jet.ogg",length=30.04111111111111}}
 c.EndList()

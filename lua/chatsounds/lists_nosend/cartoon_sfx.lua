@@ -10,6 +10,7 @@ L["blink1"]={{path="chatsounds/autoadd/cartoon_sfx/blink1.ogg",length=0.29417233
 L["blink2"]={{path="chatsounds/autoadd/cartoon_sfx/blink2.ogg",length=0.30083900226757371}}
 L["blinking"]={{path="chatsounds/autoadd/cartoon_sfx/blinking.ogg",length=5.7730385487528348}}
 L["boing"]={{path="chatsounds/autoadd/cartoon_sfx/boing.ogg",length=0.95224489795918366}}
+L["bowlingpins"]={{path="chatsounds/autoadd/cartoon_sfx/bowlingpins.ogg",length=1.1070748299319728}}
 L["carbreak"]={{path="chatsounds/autoadd/cartoon_sfx/carbreak.ogg",length=3.676485260770975}}
 L["carrpass"]={{path="chatsounds/autoadd/cartoon_sfx/carrpass.ogg",length=1.9634693877551019}}
 L["cartoonloop"]={{path="chatsounds/autoadd/cartoon_sfx/cartoonloop.ogg",length=12.81530612244898}}
@@ -73,5 +74,4 @@ L["whipping"]={{path="chatsounds/autoadd/cartoon_sfx/whipping.ogg",length=7.1510
 L["whiskerpull"]={{path="chatsounds/autoadd/cartoon_sfx/whiskerpull.ogg",length=0.26607709750566894}}
 L["woopwoopwopwopwop"]={{path="chatsounds/autoadd/cartoon_sfx/woopwoopwopwopwop.ogg",length=7.4524716553287984}}
 L["yogiklonk"]={{path="chatsounds/autoadd/cartoon_sfx/yogiklonk/klonk copy.ogg",length=0.4095918367346939},{path="chatsounds/autoadd/cartoon_sfx/yogiklonk/klonk.ogg",length=0.39437641723356009}}
-L["bowlingpins"]={{path="chatsounds/autoadd/cartoon_sfx/bowlingpins.ogg",length=1.1070748299319728}}
 c.EndList()
