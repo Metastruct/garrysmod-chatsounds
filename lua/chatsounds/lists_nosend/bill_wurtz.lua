@@ -322,7 +322,6 @@ L["notification message"]={{path="chatsounds/autoadd/bill_wurtz/notification mes
 L["november"]={{path="chatsounds/autoadd/bill_wurtz/november.ogg",length=2.7973242630385489}}
 L["now"]={{path="chatsounds/autoadd/bill_wurtz/now.ogg",length=3.5839909297052155}}
 L["now you can comb your hair by satellite"]={{path="chatsounds/autoadd/bill_wurtz/now you can comb your hair by satellite.ogg",length=4.3651247165532876}}
-L["now you know"]={{path="chatsounds/autoadd/bill_wurtz/now you know.ogg",length=1.659092970521542}}
 L["nyeh"]={{path="chatsounds/autoadd/bill_wurtz/nyeh.ogg",length=0.99759637188208616}}
 L["oh hi"]={{path="chatsounds/autoadd/bill_wurtz/oh hi.ogg",length=0.31126984126984125}}
 L["oh hi thanks for checking in"]={{path="chatsounds/autoadd/bill_wurtz/oh hi thanks for checking in.ogg",length=1.154172335600907}}
