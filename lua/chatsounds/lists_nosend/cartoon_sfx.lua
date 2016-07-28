@@ -73,4 +73,5 @@ L["whipping"]={{path="chatsounds/autoadd/cartoon_sfx/whipping.ogg",length=7.1510
 L["whiskerpull"]={{path="chatsounds/autoadd/cartoon_sfx/whiskerpull.ogg",length=0.26607709750566894}}
 L["woopwoopwopwopwop"]={{path="chatsounds/autoadd/cartoon_sfx/woopwoopwopwopwop.ogg",length=7.4524716553287984}}
 L["yogiklonk"]={{path="chatsounds/autoadd/cartoon_sfx/yogiklonk/klonk copy.ogg",length=0.4095918367346939},{path="chatsounds/autoadd/cartoon_sfx/yogiklonk/klonk.ogg",length=0.39437641723356009}}
+L["bowlingpins"]={{path="chatsounds/autoadd/cartoon_sfx/bowlingpins.ogg",length=1.1070748299319728}}
 c.EndList()

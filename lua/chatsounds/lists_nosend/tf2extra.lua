@@ -57,7 +57,7 @@ L["ppoottiiss"]={{path="chatsounds/autoadd/tf2extra/ppoottiiss.ogg",length=3.134
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2extra/ribs grow back.ogg",length=0.71197278911564621}}
 L["sees"]={{path="chatsounds/autoadd/tf2extra/sees/1.ogg",length=0.84390022675736964},{path="chatsounds/autoadd/tf2extra/sees/2.ogg",length=0.71208616780045353}}
 L["sexellent"]={{path="chatsounds/autoadd/tf2extra/sexellent.ogg",length=0.99303854875283448}}
-L["sey"]={{path="chatsounds/autoadd/tf2extra/sey.ogg",length=0.7168934240362812}}
+L["sey"]={{path="chatsounds/autoadd/tf2extra/sey/1.ogg",length=0.7168934240362812},{path="chatsounds/autoadd/tf2extra/2.ogg",length=0.73142857142857143}}
 L["should i be awake for this"]={{path="chatsounds/autoadd/tf2extra/should i be awake for this.ogg",length=1.7679591836734694}}
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2extra/sniperlaughfast.ogg",length=1.3285714285714285}}
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.75138321995464852},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.1733106575963719}}
@@ -81,4 +81,8 @@ L["wuuuub"]={{path="chatsounds/autoadd/tf2extra/wuuuub.ogg",length=1.37501133786
 L["yeey"]={{path="chatsounds/autoadd/tf2extra/yeey/1.ogg",length=0.33054421768707481},{path="chatsounds/autoadd/tf2extra/yeey/2.ogg",length=0.45022675736961454},{path="chatsounds/autoadd/tf2extra/yeey/3.ogg",length=0.44176870748299318},{path="chatsounds/autoadd/tf2extra/yeey/4.ogg",length=0.23224489795918368},{path="chatsounds/autoadd/tf2extra/yeey/5.ogg",length=0.48149659863945576},{path="chatsounds/autoadd/tf2extra/yeey/6.ogg",length=0.5130385487528345},{path="chatsounds/autoadd/tf2extra/yeey/7.ogg",length=0.42741496598639456}}
 L["your team lost"]={{path="chatsounds/autoadd/tf2extra/your team lost.ogg",length=9.1768707482993204}}
 L["youre invincible"]={{path="chatsounds/autoadd/tf2extra/youre invincible.ogg",length=2.461315192743764}}
+L["this is a huge waste of my time"]={{path="chatsounds/autoadd/tf2extra/this is a huge waste of my time.ogg",length=3.4784807256235828}}
+L["noooon"]={{path="chatsounds/autoadd/tf2extra/noooon.ogg",length=1.6526984126984128}}
+L["haaaii"]={{path="chatsounds/autoadd/tf2extra/haaaii.ogg",length=0.75755102040816324}}
+L["dreughhh"]={{path="chatsounds/autoadd/tf2extra/dreughhh.ogg",length=1.6465532879818594}}
 c.EndList()
