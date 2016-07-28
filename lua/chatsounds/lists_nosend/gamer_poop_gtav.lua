@@ -1,4 +1,4 @@
--c.StartList("gamer_poop_gtav")
+c.StartList("gamer_poop_gtav")
 L["but hey lets go out and spend two million dollars on a room full of"]={{path="chatsounds/autoadd/gamer_poop_gtav/but hey lets go out and spend two million dollars on a room full of.ogg",length=3.1578911564625849}}
 L["gtav inappropriate"]={{path="chatsounds/autoadd/gamer_poop_gtav/gtav inappropriate.ogg",length=2.7429931972789117}}
 L["how im gonna knock a bad bitch if i aint got a paenus"]={{path="chatsounds/autoadd/gamer_poop_gtav/how im gonna knock a bad bitch if i aint got a paenus.ogg",length=2.5124943310657595}}
