@@ -25,8 +25,6 @@ L["do what is right dr freeman"]={{path="vo/breencast/br_tofreeman11.wav",length
 L["doctor freeman you really shouldnt be out there at the moment of synapse as i teleport this chamber will be bathed in deadly particles that have yet to be named by human science perhaps when i have the leisure to do the work myself ill name one after you that way you wont be completely forgotten"]={{path="vo/citadel/br_synapse.wav",length=19.27179138322}}
 L["eli"]={{path="vo/citadel/br_playgame_a.wav",length=0.80764172335601}}
 L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979593276978}}
-L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
-L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979593276978}}
 L["first let us consider the fact that for the first time ever as a species immortality is in our reach"]={{path="vo/breencast/br_instinct05.wav",length=10.758299319728}}
 L["first you lead me straight to the doorstep of my oldest friend"]={{path="vo/citadel/br_guest_c.wav",length=4.2051927437642}}
 L["fortunately the resistance has shown it is willing to accept a new leader"]={{path="vo/citadel/br_newleader_b.wav",length=4.8170975056689}}
@@ -39,7 +37,6 @@ L["ha ha ha ha eheh huh"]={{path="vo/citadel/br_laugh01.wav",length=3.8755328798
 L["having both of you in my keeping ensures i can dictate the terms of any bargain i care to make with the combine"]={{path="vo/citadel/br_dictate_a.wav",length=6.4607029478458}}
 L["help ensure that humanitys trust in you is not misguided"]={{path="vo/breencast/br_tofreeman10.wav",length=4.2954195011338}}
 L["help me win back their trust dr freeman surrender while you still can"]={{path="vo/breencast/br_tofreeman09.wav",length=4.5869387755102}}
-L["i thought so much of city 17 that i elected to establish my administration here"]={{path="vo/breencast/br_welcome03.wav",length=7.4454195011338}}
 L["his figure is synonymous with the darkest urges of instinct ignorance and decay some of the worst excesses of the black mesa incident have been laid directly at his feet"]={{path="vo/breencast/br_disruptor02.wav",length=12.692630385488}}
 L["how about it doctor freeman"]={{path="vo/citadel/br_bidder_a.wav",length=1.404693877551}}
 L["how could one man have slipped through your forces fingers time and time again how is it possible this is not some agent provocateur or highly trained assassin we are discussing gordon freeman is a theoretical physicist who had hardly earned the distinction of his phd at the time of the black mesa incident i have good reason to believe that in the intervening years he was in a state that precluded further development of covert skills the man you have consistently failed to slow let alone capture is by all standards simply that an ordinary man how can you have failed to apprehend him"]={{path="vo/breencast/br_overwatch07.wav",length=48.456371882086}}
@@ -56,7 +53,7 @@ L["i have been proud to call city 17 my home and so whether you are here to stay
 L["i have known doctor vance far longer than you my dear im afraid your feelings for him may have blinded you"]={{path="vo/novaprospekt/br_blinded.wav",length=7.9791156462585}}
 L["i have laid the foundation for humanitys survival and not as we have narrowly defined ourselves but as something greater than we could ever imagine something we can only now begin to glimpse"]={{path="vo/citadel/br_foundation.wav",length=12.585124716553}}
 L["i hope you said your farewells"]={{path="vo/citadel/br_mock09.wav",length=2.9032426303855}}
-L["i thought so much of city 17 that i elected to establish my administration here"]={{path="vo/breencast/br_welcome03.wav",length=7.4454193115234}}
+L["i thought so much of city 17 that i elected to establish my administration here"]={{path="vo/breencast/br_welcome03.wav",length=7.4454195011338}}
 L["i understand if you dont wish to discuss this in front of your friends"]={{path="vo/citadel/br_nothingtosay_a.wav",length=2.8195918367347}}
 L["i warned you this was futile"]={{path="vo/citadel/br_mock06.wav",length=2.6392970521542}}
 L["id like to take a moment to address you directly dr freeman"]={{path="vo/breencast/br_tofreeman01.wav",length=2.9051020408163}}
