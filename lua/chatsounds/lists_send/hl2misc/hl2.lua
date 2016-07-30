@@ -258,7 +258,7 @@ L["elis hideout is here a stones throw from the apron and nestled in the old hyd
 L["enough of your bullshit"]={{path="vo/novaprospekt/al_enoughbs01.wav",length=2.3707256235828}}
 L["enough of your mumbo jumbo"]={{path="vo/npc/male01/vanswer01.wav",length=1.9092743764172}}
 L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
-L["even if you offered your surrunder now"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
+L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
 L["everythings going to be okay"]={{path="vo/trainyard/husb_okay.wav",length=1.6544444444444}}
 L["excellent"]={{path="vo/k_lab/kl_excellent.wav",length=0.84414965986395},{path="vo/eli_lab/al_excellent01.wav",length=0.74814058956916}}
 L["excellent initializing in three two one"]={{path="combined/k_lab/k_lab_kl_excellent_cc.wav",length=5.147029478458}}
@@ -1471,7 +1471,6 @@ L["why are you telling me"]={{path="vo/npc/male01/answer24.wav",length=1.1542630
 L["why dont you take a spin around the beach until youve got a feel for the car when youre done head for the slope down by the water"]={{path="vo/coast/cr_driveforfeel.wav",length=5.2915646258503}}
 L["will do i just finished mounting an ammo crate on the back"]={{path="vo/coast/cardock/cr_willdo.wav",length=2.8509297052154}}
 L["will you get going"]={{path="vo/trainyard/ba_exitnag04.wav",length=1.0837414965986}}
-L["will you give your child a chance her mother never had"]={{path="vo/citadel/br_gift_c.wav",length=2.8963265306122}}
 L["will you give your child the chance her mother never had"]={{path="vo/citadel/br_gift_c.wav",length=2.8963265306122}}
 L["will you let your stubborn short sightedness doom the entire species or"]={{path="vo/citadel/br_gift_b.wav",length=4.4467120181406}}
 L["winstons been hit"]={{path="vo/coast/cardock/wo_winston.wav",length=1.277029478458}}
