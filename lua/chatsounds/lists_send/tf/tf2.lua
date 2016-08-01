@@ -744,9 +744,9 @@ L["gun sounds laughter"]={{path="vo/heavy_specialcompleted07.mp3",length=6.07201
 L["gutless"]={{path="vo/engineer_specialcompleted03.mp3",length=0.67628115415573}}
 L["guts and glory lads"]={{path="vo/demoman_autocappedcontrolpoint02.mp3",length=2.368435382843}}
 L["guys move up move up"]={{path="vo/pyro_moveup01.mp3",length=1.3626757860184}}
+L["ha"]={{path="vo/medic_positivevocalization03.mp3",length=0.4818140566349}}
 L["ha ha"]={{path="vo/demoman_mvm_resurrect07.mp3",length=1.0971428571429}}
 L["ha you fight like a girl"]={{path="vo/soldier_dominationpyro07.mp3",length=1.9188661575317}}
-L["ha3"]={{path="vo/medic_positivevocalization03.mp3",length=0.4818140566349}}
 L["hah"]={{path="vo/engineer_gunslingertriplepunchfinal02.mp3",length=1.351836681366}}
 L["hah im coming for you wizard"]={{path="vo/soldier_sf12_goodmagic04.mp3",length=2.4032653061224}}
 L["haha im back"]={{path="vo/demoman_mvm_resurrect10.mp3",length=1.3844897959184}}
@@ -1828,7 +1828,7 @@ L["scoutyeah"]={{path="vo/scout_mvm_loot_common01.mp3",length=0.574693877551},{p
 L["screamin eagles"]={{path="vo/soldier_specialcompleted04.mp3",length=1.7356916666031}}
 L["screams"]={{path="vo/spy_paincrticialdeath01.mp3",length=2.2581405639648}}
 L["screams in pain"]={{path="vo/spy_painsevere02.mp3",length=0.51591837406158}}
-L["screech archimedes wants brains"]={{path="vo/medic_item_zombiebird_round_start04.mp3",length=5.6163265306122}}
+L["screech archimedes wants brains thank you archimedes"]={{path="vo/medic_item_zombiebird_round_start04.mp3",length=5.6163265306122}}
 L["screech archimedes wants brains yes archimedes wants all the brains doesnt he"]={{path="vo/medic_item_zombiebird_round_start06.mp3",length=7.1314285714286}}
 L["screech brains screech shush archimedes"]={{path="vo/medic_item_zombiebird_round_start05.mp3",length=4.2318367346939}}
 L["screech dead by dawn shh silence"]={{path="vo/medic_item_zombiebird_round_start03.mp3",length=3.8661224489796}}

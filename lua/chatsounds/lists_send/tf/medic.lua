@@ -62,7 +62,7 @@ L["good shooting"]={{path="vo/medic_niceshot02.mp3",length=1.0536054372787}}
 L["good to go"]={{path="vo/medic_specialcompleted07.mp3",length=1.1639002561569}}
 L["good verk"]={{path="vo/medic_goodjob01.mp3",length=0.8359183673469}}
 L["gott in himmel its wonderful its more than wonderful its its perfect laughs"]={{path="vo/medic_mvm_loot_godlike03.mp3",length=8.0195918367347}}
-L["ha3"]={{path="vo/medic_positivevocalization03.mp3",length=0.4818140566349}}
+L["ha"]={{path="vo/medic_positivevocalization03.mp3",length=0.4818140566349}}
 L["haha what a bloodbath"]={{path="vo/medic_specialcompleted12.mp3",length=3.1579139232635}}
 L["haha what did you think you were going to kill with that"]={{path="vo/medic_weapon_taunts02.mp3",length=3.3697959183673}}
 L["haha your silly clown weapon is making a mockery of this war"]={{path="vo/medic_weapon_taunts01.mp3",length=3.8138775510204}}
@@ -190,7 +190,7 @@ L["schnell go get them"]={{path="vo/medic_specialcompleted06.mp3",length=1.79374
 L["schnell raus raus"]={{path="vo/medic_go02.mp3",length=1.9720635414124}}
 L["schweinhunds"]={{path="vo/medic_negativevocalization06.mp3",length=1.149387755102},{path="vo/medic_negativevocalization02.mp3",length=1.9330612244898},{path="vo/medic_jeers12.mp3",length=1.0681178569794}}
 L["scout is dead"]={{path="vo/medic_mvm_class_is_dead01.mp3",length=1.5673469387755}}
-L["screech archimedes wants brains"]={{path="vo/medic_item_zombiebird_round_start04.mp3",length=5.6163265306122}}
+L["screech archimedes wants brains thank you archimedes"]={{path="vo/medic_item_zombiebird_round_start04.mp3",length=5.6163265306122}}
 L["screech archimedes wants brains yes archimedes wants all the brains doesnt he"]={{path="vo/medic_item_zombiebird_round_start06.mp3",length=7.1314285714286}}
 L["screech brains screech shush archimedes"]={{path="vo/medic_item_zombiebird_round_start05.mp3",length=4.2318367346939}}
 L["screech dead by dawn shh silence"]={{path="vo/medic_item_zombiebird_round_start03.mp3",length=3.8661224489796}}
