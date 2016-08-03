@@ -1442,7 +1442,6 @@ L["why dont you take a spin around the beach until youve got a feel for the car 
 L["why go on"]={{path="vo/npc/male01/gordead_ans13.wav",length=0.7955328798186},{path="vo/npc/female01/gordead_ans13.wav",length=1.0654875283447}}
 L["will do i just finished mounting an ammo crate on the back"]={{path="vo/coast/cardock/cr_willdo.wav",length=2.8509297370911}}
 L["will you get going"]={{path="vo/trainyard/ba_exitnag04.wav",length=1.0837415456772}}
-L["will you give your child a chance her mother never had"]={{path="vo/citadel/br_gift_c.wav",length=2.8963265419006}}
 L["will you give your child the chance her mother never had"]={{path="vo/citadel/br_gift_c.wav",length=2.8963265419006}}
 L["will you let your stubborn short sightedness doom the entire species or"]={{path="vo/citadel/br_gift_b.wav",length=4.4467120170593}}
 L["will you let your stubborn shortsightedness doom the entire species or"]={{path="vo/citadel/br_gift_b.wav",length=4.4467120181406}}
