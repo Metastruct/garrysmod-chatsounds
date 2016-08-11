@@ -22,17 +22,13 @@ L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/beauty_
 L["is this the krusty krab"]={{path="chatsounds/autoadd/beauty_bomber/is this the krusty krab/1.ogg",length=1.3570068027210884},{path="chatsounds/autoadd/beauty_bomber/is this the krusty krab/2.ogg",length=1.1839909297052154},{path="chatsounds/autoadd/beauty_bomber/is this the krusty krab/3.ogg",length=1.3319727891156463}}
 L["its an inanimate fucking object"]={{path="chatsounds/autoadd/beauty_bomber/its an inanimate fucking object.ogg",length=2.0823129251700681}}
 L["its leviosaaaa"]={{path="chatsounds/autoadd/beauty_bomber/its leviosaaaa.ogg",length=2.1000000000000001}}
-L["ive been to china"]={{path="chatsounds/autoadd/beauty_bomber/ive been to china.ogg",length=2.2999999999999998}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/beauty_bomber/jeannecontinueno.ogg",length=4.8476190476190473}}
 L["kaching"]={{path="chatsounds/autoadd/beauty_bomber/kaching.ogg",length=1.5866893424036281}}
-L["keel over and die"]={{path="chatsounds/autoadd/beauty_bomber/keel over and die.ogg",length=3.0563265306122447}}
 L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/beauty_bomber/leedle leedle leedle lee.ogg",length=1.75}}
 L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",length=2.3250113378684807}}
 L["like maybe five or six right now my dude"]={{path="chatsounds/autoadd/beauty_bomber/like maybe five or six right now my dude.ogg",length=2.4985941043083901}}
 L["loud succ"]={{path="chatsounds/autoadd/beauty_bomber/loud succ.ogg",length=2.475374149659864}}
 L["meme school"]={{path="chatsounds/autoadd/beauty_bomber/meme school.ogg",length=1.0669841269841269}}
-L["michaelow"]={{path="chatsounds/autoadd/beauty_bomber/michaelow.ogg",length=1.1839909297052154}}
-L["michaelshutup"]={{path="chatsounds/autoadd/beauty_bomber/michaelshutup.ogg",length=0.77600907029478461}}
 L["mindblown"]={{path="chatsounds/autoadd/beauty_bomber/mindblown.ogg",length=23.797551020408164}}
 L["mmm try again"]={{path="chatsounds/autoadd/beauty_bomber/mmm try again.ogg",length=1.5}}
 L["moar"]={{path="chatsounds/autoadd/beauty_bomber/moar.ogg",length=0.36401360544217687}}
@@ -47,10 +43,8 @@ L["mooneternalmakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmak
 L["moonprismpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeup.ogg",length=37.649999999999999}}
 L["moonprismpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeupfx.ogg",length=40.700000000000003}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",length=36.784920634920638}}
-L["my life is on toast i think"]={{path="chatsounds/autoadd/beauty_bomber/my life is on toast i think.ogg",length=3}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200000000000003}}
 L["no this is patrick"]={{path="chatsounds/autoadd/beauty_bomber/no this is patrick/1.ogg",length=1.46},{path="chatsounds/autoadd/beauty_bomber/no this is patrick/2.ogg",length=2.6146258503401358},{path="chatsounds/autoadd/beauty_bomber/no this is patrick/3.ogg",length=3.0586167800453516}}
-L["oh get out get out look what youve done"]={{path="chatsounds/autoadd/beauty_bomber/oh get out get out look what youve done.ogg",length=3.0429931972789115}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.2739229024943315}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.3609750566893424}}
 L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.90000000000000002}}
@@ -65,7 +59,6 @@ L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.085850340136055}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.1699999999999999},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.15140589569161},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.1100000000000001}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.9000000000000004}}
-L["thats enough"]={{path="chatsounds/autoadd/beauty_bomber/thats enough.ogg",length=0.73099773242630384}}
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813242630385488}}
 L["wake me up inside"]={{path="chatsounds/autoadd/beauty_bomber/wake me up inside.ogg",length=21.981995464852609}}
 L["watch this"]={{path="chatsounds/autoadd/beauty_bomber/watch this.ogg",length=1.1139229024943311}}

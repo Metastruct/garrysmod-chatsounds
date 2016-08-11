@@ -22,10 +22,16 @@ L["i was drinking pizza"]={{path="chatsounds/autoadd/michael rosen/i was drinkin
 L["i wonder who put that there"]={{path="chatsounds/autoadd/michael rosen/i wonder who put that there.ogg",length=1.8}}
 L["im talking im talking i want complete quiet"]={{path="chatsounds/autoadd/michael rosen/im talking im talking i want complete quiet.ogg",length=5.5201587301587303}}
 L["it was then i noticed the woman opposite"]={{path="chatsounds/autoadd/michael rosen/it was then i noticed the woman opposite.ogg",length=3.4375056689342403}}
+L["ive been to china"]={{path="chatsounds/autoadd/michael rosen/ive been to china.ogg",length=2.2999999999999998}}
+L["keel over and die"]={{path="chatsounds/autoadd/michael rosen/keel over and die.ogg",length=1.7161451247165533}}
 L["michaelno"]={{path="chatsounds/autoadd/michael rosen/michaelno.ogg",length=1}}
 L["michaelnothing"]={{path="chatsounds/autoadd/michael rosen/michaelnothing.ogg",length=0.90000000000000002}}
+L["michaelow"]={{path="chatsounds/autoadd/michael rosen/michaelow.ogg",length=1.1839909297052154}}
+L["michaelshutup"]={{path="chatsounds/autoadd/michael rosen/michaelshutup.ogg",length=0.77600907029478461}}
 L["mum hes spitting"]={{path="chatsounds/autoadd/michael rosen/mum hes spitting.ogg",length=1.6180045351473924}}
 L["my hands are sticky"]={{path="chatsounds/autoadd/michael rosen/my hands are sticky.ogg",length=1.2749886621315192}}
+L["my life is on toast i think"]={{path="chatsounds/autoadd/michael rosen/my life is on toast i think.ogg",length=3}}
+L["oh get out get out look what youve done"]={{path="chatsounds/autoadd/michael rosen/oh get out get out look what youve done.ogg",length=3.0429931972789115}}
 L["ok mum ok dont worry about it"]={{path="chatsounds/autoadd/michael rosen/ok mum ok dont worry about it.ogg",length=3.0894784580498866}}
 L["plums"]={{path="chatsounds/autoadd/michael rosen/plums.ogg",length=0.5}}
 L["really good"]={{path="chatsounds/autoadd/michael rosen/really good.ogg",length=1}}
@@ -34,6 +40,7 @@ L["she was watching me"]={{path="chatsounds/autoadd/michael rosen/she was watchi
 L["slap i dont care"]={{path="chatsounds/autoadd/michael rosen/slap i dont care.ogg",length=1.21}}
 L["slippery and sticky"]={{path="chatsounds/autoadd/michael rosen/slippery and sticky.ogg",length=1.3160090702947846}}
 L["stop right there"]={{path="chatsounds/autoadd/michael rosen/stop right there.ogg",length=1.960453514739229}}
+L["thats enough"]={{path="chatsounds/autoadd/michael rosen/thats enough.ogg",length=0.73099773242630384}}
 L["thats my ear"]={{path="chatsounds/autoadd/michael rosen/thats my ear.ogg",length=1.2635147392290249}}
 L["thats really dangerous you know"]={{path="chatsounds/autoadd/michael rosen/thats really dangerous you know.ogg",length=1.7280045351473923}}
 L["thick cooking oil"]={{path="chatsounds/autoadd/michael rosen/thick cooking oil.ogg",length=1.3999999999999999}}
