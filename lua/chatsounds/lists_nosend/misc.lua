@@ -84,6 +84,7 @@ L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.54403628117
 L["red"]={{path="chatsounds/autoadd/misc/red.ogg",length=0.21832199546485262}}
 L["rocketlawnchair"]={{path="chatsounds/autoadd/misc/rocketlawnchair.ogg",length=1.933061224489796}}
 L["rockthecasbah"]={{path="chatsounds/autoadd/misc/rockthecasbah.ogg",length=7.4187755102040818}}
+L["roundabout intro"]={{path="chatsounds/autoadd/misc/roundabout intro.ogg",length=10.77047619047619}}
 L["san andreas"]={{path="chatsounds/autoadd/misc/san andreas.ogg",length=77.18426303854875}}
 L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.7719274376417233}}
 L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.5198412698412707}}

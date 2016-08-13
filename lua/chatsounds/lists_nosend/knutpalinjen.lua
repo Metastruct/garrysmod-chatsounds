@@ -19,22 +19,9 @@ L["jaja"]={{path="chatsounds/autoadd/knutpalinjen/jaja.ogg",length=0.70047619047
 L["jajajajaja"]={{path="chatsounds/autoadd/knutpalinjen/jajajajaja.ogg",length=1.9939909297052154}}
 L["jombada baahaa grandiose musica"]={{path="chatsounds/autoadd/knutpalinjen/jombada baahaa grandiose musica.ogg",length=2.6444217687074829}}
 L["juubadudalaba zehjazuhzugeegee"]={{path="chatsounds/autoadd/knutpalinjen/juubadudalaba zehjazuhzugeegee.ogg",length=2.0495918367346939}}
-L["knut aha1"]={{path="chatsounds/autoadd/knutpalinjen/knut aha1.ogg",length=1.3902947845804989}}
-L["knut aha2"]={{path="chatsounds/autoadd/knutpalinjen/knut aha2.ogg",length=2.3449886621315192}}
-L["knut aha3"]={{path="chatsounds/autoadd/knutpalinjen/knut aha3.ogg",length=0.61473922902494327}}
-L["knut aha4"]={{path="chatsounds/autoadd/knutpalinjen/knut aha4.ogg",length=1.5173015873015874}}
-L["knut aha5"]={{path="chatsounds/autoadd/knutpalinjen/knut aha5.ogg",length=1.2441496598639457}}
-L["knut aha6"]={{path="chatsounds/autoadd/knutpalinjen/knut aha6.ogg",length=1.1704081632653061}}
-L["knut laugh1"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh1.ogg",length=0.93845804988662129}}
-L["knut laugh2"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh2.ogg",length=3.1106122448979594}}
-L["knut laugh3"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh3.ogg",length=1.4285034013605442}}
-L["knut laugh4"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh4.ogg",length=1.3985487528344671}}
-L["knut laugh5"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh5.ogg",length=1.6315873015873017}}
-L["knut pffft1"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft1.ogg",length=1.1002267573696145}}
-L["knut pffft2"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft2.ogg",length=1.7617006802721089}}
-L["knut pffft3"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft3.ogg",length=1.1352607709750566}}
-L["knut pffft4"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft4.ogg",length=1.2715646258503401}}
-L["knut pffft5"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft5.ogg",length=0.76451247165532876}}
+L["knut aha"]={{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha1.ogg",length=1.3902947845804989},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha2.ogg",length=2.3449886621315192},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha3.ogg",length=0.61473922902494327},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha4.ogg",length=1.5173015873015874},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha5.ogg",length=1.2441496598639457},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha6.ogg",length=1.1704081632653061}}
+L["knut laugh"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh1.ogg",length=0.93845804988662129},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh2.ogg",length=3.1106122448979594},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh3.ogg",length=1.4285034013605442},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh4.ogg",length=1.3985487528344671},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh5.ogg",length=1.6315873015873017}}
+L["knut pffft"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft1.ogg",length=1.1002267573696145},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft2.ogg",length=1.7617006802721089},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft3.ogg",length=1.1352607709750566},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft4.ogg",length=1.2715646258503401},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft5.ogg",length=0.76451247165532876}}
 L["knut theme"]={{path="chatsounds/autoadd/knutpalinjen/knut theme.ogg",length=9.4021768707482991}}
 L["lagrande skott i rumpa"]={{path="chatsounds/autoadd/knutpalinjen/lagrande skott i rumpa.ogg",length=1.9898639455782312}}
 L["macho gub budelanaamacho ra bazeezaba yeeee buzokomonzenezerababara buuuu menerabagh"]={{path="chatsounds/autoadd/knutpalinjen/macho gub budelanaamacho ra bazeezaba yeeee buzokomonzenezerababara buuuu menerabagh.ogg",length=6.1216326530612246}}

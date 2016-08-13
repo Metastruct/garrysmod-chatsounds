@@ -258,7 +258,6 @@ L["elis hideout is here a stones throw from the apron and nestled in the old hyd
 L["enough of your bullshit"]={{path="vo/novaprospekt/al_enoughbs01.wav",length=2.3707256235828}}
 L["enough of your mumbo jumbo"]={{path="vo/npc/male01/vanswer01.wav",length=1.9092743764172}}
 L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
-L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979591836735}}
 L["everythings going to be okay"]={{path="vo/trainyard/husb_okay.wav",length=1.6544444444444}}
 L["excellent"]={{path="vo/k_lab/kl_excellent.wav",length=0.84414965986395},{path="vo/eli_lab/al_excellent01.wav",length=0.74814058956916}}
 L["excellent initializing in three two one"]={{path="combined/k_lab/k_lab_kl_excellent_cc.wav",length=5.147029478458}}
