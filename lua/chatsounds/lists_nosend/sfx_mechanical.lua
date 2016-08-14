@@ -1,11 +1,6 @@
 c.StartList("sfx_mechanical")
 L["b b 1"]={{path="chatsounds/autoadd/sfx_mechanical/b b 1.ogg",length=12.108820861678005}}
-L["bang 1"]={{path="chatsounds/autoadd/sfx_mechanical/bang 1.ogg",length=0.82721088435374146}}
-L["bang 2"]={{path="chatsounds/autoadd/sfx_mechanical/bang 2.ogg",length=0.8008163265306123}}
-L["bang 3"]={{path="chatsounds/autoadd/sfx_mechanical/bang 3.ogg",length=0.8008163265306123}}
-L["bang 4"]={{path="chatsounds/autoadd/sfx_mechanical/bang 4.ogg",length=0.46712018140589567}}
-L["bang 5"]={{path="chatsounds/autoadd/sfx_mechanical/bang 5.ogg",length=1.1010884353741497}}
-L["bang 6"]={{path="chatsounds/autoadd/sfx_mechanical/bang 6.ogg",length=1.6015873015873017}}
+L["bang"]={{path="chatsounds/autoadd/sfx_mechanical/bang/bang 1.ogg",length=0.82721088435374146},{path="chatsounds/autoadd/sfx_mechanical/bang/bang 2.ogg",length=0.8008163265306123},{path="chatsounds/autoadd/sfx_mechanical/bang/bang 3.ogg",length=0.8008163265306123},{path="chatsounds/autoadd/sfx_mechanical/bang/bang 4.ogg",length=0.46712018140589567},{path="chatsounds/autoadd/sfx_mechanical/bang/bang 5.ogg",length=1.1010884353741497},{path="chatsounds/autoadd/sfx_mechanical/bang/bang 6.ogg",length=1.6015873015873017}}
 L["bicycle pump"]={{path="chatsounds/autoadd/sfx_mechanical/bicycle pump.ogg",length=2.4024036281179137}}
 L["bumerang"]={{path="chatsounds/autoadd/sfx_mechanical/bumerang.ogg",length=1.4347845804988661}}
 L["camera click"]={{path="chatsounds/autoadd/sfx_mechanical/camera click.ogg",length=1.0681179138321995}}
@@ -16,16 +11,7 @@ L["cling 1"]={{path="chatsounds/autoadd/sfx_mechanical/cling 1.ogg",length=0.633
 L["cling 2"]={{path="chatsounds/autoadd/sfx_mechanical/cling 2.ogg",length=0.76743764172335605}}
 L["clong 1"]={{path="chatsounds/autoadd/sfx_mechanical/clong 1.ogg",length=2.0516780045351473}}
 L["clong 2"]={{path="chatsounds/autoadd/sfx_mechanical/clong 2.ogg",length=0.76743764172335605}}
-L["coin 1"]={{path="chatsounds/autoadd/sfx_mechanical/coin 1.ogg",length=0.40040816326530615}}
-L["coin 2"]={{path="chatsounds/autoadd/sfx_mechanical/coin 2.ogg",length=0.8008163265306123}}
-L["coin 3"]={{path="chatsounds/autoadd/sfx_mechanical/coin 3.ogg",length=0.90090702947845802}}
-L["coin 4"]={{path="chatsounds/autoadd/sfx_mechanical/coin 4.ogg",length=0.3670294784580499}}
-L["coin 5"]={{path="chatsounds/autoadd/sfx_mechanical/coin 5.ogg",length=0.33365079365079364}}
-L["coin 6"]={{path="chatsounds/autoadd/sfx_mechanical/coin 6.ogg",length=0.48997732426303853}}
-L["coins 2"]={{path="chatsounds/autoadd/sfx_mechanical/coins 2.ogg",length=1.1678458049886622}}
-L["coins 3"]={{path="chatsounds/autoadd/sfx_mechanical/coins 3.ogg",length=1.2679365079365079}}
-L["coins 4"]={{path="chatsounds/autoadd/sfx_mechanical/coins 4.ogg",length=1.5014965986394557}}
-L["coins 5"]={{path="chatsounds/autoadd/sfx_mechanical/coins 5.ogg",length=0.66734693877551021}}
+L["coin"]={{path="chatsounds/autoadd/sfx_mechanical/coin/coin 1.ogg",length=0.40040816326530615},{path="chatsounds/autoadd/sfx_mechanical/coin/coin 2.ogg",length=0.8008163265306123},{path="chatsounds/autoadd/sfx_mechanical/coin/coin 3.ogg",length=0.90090702947845802},{path="chatsounds/autoadd/sfx_mechanical/coin/coin 4.ogg",length=0.3670294784580499},{path="chatsounds/autoadd/sfx_mechanical/coin/coin 5.ogg",length=0.33365079365079364},{path="chatsounds/autoadd/sfx_mechanical/coin/coin 6.ogg",length=0.48997732426303853},{path="chatsounds/autoadd/sfx_mechanical/coin/coins 2.ogg",length=1.1678458049886622},{path="chatsounds/autoadd/sfx_mechanical/coin/coins 3.ogg",length=1.2679365079365079},{path="chatsounds/autoadd/sfx_mechanical/coin/coins 4.ogg",length=1.5014965986394557},{path="chatsounds/autoadd/sfx_mechanical/coin/coins 5.ogg",length=0.66734693877551021}}
 L["dropping 1"]={{path="chatsounds/autoadd/sfx_mechanical/dropping 1.ogg",length=1.1000000000000001}}
 L["dropping 2"]={{path="chatsounds/autoadd/sfx_mechanical/dropping 2.ogg",length=1.2}}
 L["dropping 3"]={{path="chatsounds/autoadd/sfx_mechanical/dropping 3.ogg",length=1.2333333333333334}}

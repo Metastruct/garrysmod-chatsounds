@@ -25,7 +25,6 @@ L["snayyyk"]={{path="chatsounds/autoadd/tga/snayyyk.ogg",length=2.04}}
 L["spotted"]={{path="chatsounds/autoadd/tga/spotted.ogg",length=1.3336054421768708}}
 L["sssss"]={{path="chatsounds/autoadd/tga/sssss.ogg",length=2.8307709750566894}}
 L["stfu"]={{path="chatsounds/autoadd/tga/stfu.ogg",length=2.1494784580498867}}
-L["stomachram"]={{path="chatsounds/autoadd/tga/stomachram.ogg",length=5.9986394557823131}}
 L["whyyes"]={{path="chatsounds/autoadd/tga/whyyes.ogg",length=0.77596371882086168}}
 L["woof"]={{path="chatsounds/autoadd/tga/woof.ogg",length=0.1980045351473923}}
 L["wubububu"]={{path="chatsounds/autoadd/tga/wubububu.ogg",length=1.0806349206349206}}

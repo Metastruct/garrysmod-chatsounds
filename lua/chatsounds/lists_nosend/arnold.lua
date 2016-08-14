@@ -8,6 +8,7 @@ L["asshole on t v"]={{path="chatsounds/autoadd/arnold/asshole on t v.ogg",length
 L["battle cry"]={{path="chatsounds/autoadd/arnold/battle cry.ogg",length=10.524172335600907}}
 L["because you told me to"]={{path="chatsounds/autoadd/arnold/because you told me to.ogg",length=1.1626303854875284}}
 L["better be miles away"]={{path="chatsounds/autoadd/arnold/better be miles away.ogg",length=2.4863038548752834}}
+L["but i hope youve left enough room for my fist because"]={{path="chatsounds/autoadd/arnold/but i hope youve left enough room for my fist because.ogg",length=5.9986394557823131}}
 L["but this is mine"]={{path="chatsounds/autoadd/arnold/but this is mine.ogg",length=2.286077097505669}}
 L["c s m101"]={{path="chatsounds/autoadd/arnold/c s m101.ogg",length=2.3433560090702947}}
 L["can strangle you"]={{path="chatsounds/autoadd/arnold/can strangle you.ogg",length=3.9947392290249435}}

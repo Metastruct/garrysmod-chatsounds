@@ -2,7 +2,6 @@ c.StartList("enderbro")
 L["a rhetorical question"]={{path="chatsounds/autoadd/enderbro/a rhetorical question.ogg",length=1.3049433106575963}}
 L["and thats what ya get for touching dicks fuckhead"]={{path="chatsounds/autoadd/enderbro/and thats what ya get for touching dicks fuckhead.ogg",length=4.3990476190476189}}
 L["as i fight"]={{path="chatsounds/autoadd/enderbro/as i fight.ogg",length=1.5179591836734694}}
-L["back to dinosaur island for me"]={{path="chatsounds/autoadd/enderbro/back to dinosaur island for me.ogg",length=2.3141269841269843}}
 L["being meguca is suffering"]={{path="chatsounds/autoadd/enderbro/being meguca is suffering.ogg",length=2.5420861678004534}}
 L["bullet bitch"]={{path="chatsounds/autoadd/enderbro/bullet bitch.ogg",length=1.8513151927437641}}
 L["can you say comeback"]={{path="chatsounds/autoadd/enderbro/can you say comeback.ogg",length=2.7769614512471654}}
