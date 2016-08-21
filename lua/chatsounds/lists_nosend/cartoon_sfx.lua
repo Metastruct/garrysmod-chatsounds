@@ -24,6 +24,7 @@ L["drowning"]={{path="chatsounds/autoadd/cartoon_sfx/drowning.ogg",length=2.2000
 L["eaten"]={{path="chatsounds/autoadd/cartoon_sfx/eaten.ogg",length=0.3640589569160998}}
 L["evil laugh"]={{path="chatsounds/autoadd/cartoon_sfx/evil laugh.ogg",length=2.7196145124716553}}
 L["falling"]={{path="chatsounds/autoadd/cartoon_sfx/falling.ogg",length=1.3921768707482993}}
+L["fart"]={{path="chatsounds/autoadd/cartoon_sfx/fart/fart.ogg",length=1.2},{path="chatsounds/autoadd/cartoon_sfx/fart/fart2.ogg",length=0.69999999999999996},{path="chatsounds/autoadd/cartoon_sfx/fart/fart3.ogg",length=0.97886621315192746},{path="chatsounds/autoadd/cartoon_sfx/fart/fart4.ogg",length=1.3},{path="chatsounds/autoadd/cartoon_sfx/fart/fart5.ogg",length=0.69999999999999996}}
 L["guitarhit"]={{path="chatsounds/autoadd/cartoon_sfx/guitarhit.ogg",length=2.8498412698412698}}
 L["hawaii"]={{path="chatsounds/autoadd/cartoon_sfx/hawaii/hawai.ogg",length=0.92773242630385488},{path="chatsounds/autoadd/cartoon_sfx/hawaii/hawaii1.ogg",length=1.1354648526077098},{path="chatsounds/autoadd/cartoon_sfx/hawaii/hawaii2.ogg",length=6.2206349206349207}}
 L["heeheeheehehehe"]={{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/kiss copy.ogg",length=1.2251020408163265},{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/kiss copy1.ogg",length=1.8807936507936507},{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/kiss.ogg",length=1.9670521541950114}}

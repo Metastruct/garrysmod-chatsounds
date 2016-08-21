@@ -12,5 +12,6 @@ L["now that ive got you right where i want you id like to buy all your chocolate
 L["sb chocolate"]={{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate1.ogg",length=1.6384353741496598},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate2.ogg",length=1.3902040816326531},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate3.ogg",length=1.4522675736961452},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate4.ogg",length=2.2839002267573698},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate5.ogg",length=2.3583673469387754},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate6.ogg",length=2.4328571428571428}}
 L["sb finally"]={{path="chatsounds/autoadd/spongebob/sb finally.ogg",length=1.0923129251700681}}
 L["sb laugh"]={{path="chatsounds/autoadd/spongebob/sb laugh.ogg",length=2.1597732426303855}}
+L["six and a half"]={{path="chatsounds/autoadd/spongebob/six and a half.ogg",length=1.5292290249433107}}
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.8618820861678005}}
 c.EndList()

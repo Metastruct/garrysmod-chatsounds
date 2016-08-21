@@ -1,6 +1,7 @@
 c.StartList("tf2extra")
 L["aaany second now"]={{path="chatsounds/autoadd/tf2extra/aaany second now.ogg",length=2.2878911564625852}}
 L["ahyooyha"]={{path="chatsounds/autoadd/tf2extra/ahyooyha.ogg",length=1.3844897959183673}}
+L["and thats what ya get for touching dicks fuckhead"]={{path="chatsounds/autoadd/tf2extra/and thats what ya get for touching dicks fuckhead.ogg",length=4.3990476190476189}}
 L["are you sure this will work"]={{path="chatsounds/autoadd/tf2extra/are you sure this will work.ogg",length=1.8799773242630387}}
 L["big surprise"]={{path="chatsounds/autoadd/tf2extra/big surprise.ogg",length=0.98374149659863941}}
 L["birds"]={{path="chatsounds/autoadd/tf2extra/birds.ogg",length=0.62396825396825395}}
@@ -24,6 +25,7 @@ L["eheh well no"]={{path="chatsounds/autoadd/tf2extra/eheh well no.ogg",length=1
 L["enernes"]={{path="chatsounds/autoadd/tf2extra/enernes.ogg",length=0.78839002267573699}}
 L["espresso"]={{path="chatsounds/autoadd/tf2extra/espresso.ogg",length=0.77233560090702946}}
 L["faggots"]={{path="chatsounds/autoadd/tf2extra/faggots.ogg",length=0.78004535147392295}}
+L["ffuckhead"]={{path="chatsounds/autoadd/tf2extra/ffuckhead.ogg",length=1.0528798185941044}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.1512925170068027}}
 L["gasp"]={{path="chatsounds/autoadd/tf2extra/gasp.ogg",length=1.0855328798185941}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.91448979591836732}}

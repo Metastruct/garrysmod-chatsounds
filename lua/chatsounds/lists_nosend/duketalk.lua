@@ -2,6 +2,7 @@ c.StartList("duketalk")
 L["after a few days of rnr ill be ready for more action"]={{path="chatsounds/autoadd/duketalk/after a few days of rnr ill be ready for more action.ogg",length=4.620770975056689}}
 L["ahh"]={{path="chatsounds/autoadd/duketalk/ahh.ogg",length=1.4048072562358276}}
 L["ass"]={{path="chatsounds/autoadd/duketalk/ass/1.ogg",length=0.36392290249433107},{path="chatsounds/autoadd/duketalk/ass/2.ogg",length=0.68775510204081636},{path="chatsounds/autoadd/duketalk/ass/3.ogg",length=0.51873015873015871},{path="chatsounds/autoadd/duketalk/ass/4.ogg",length=0.70691609977324266}}
+L["balls"]={{path="chatsounds/autoadd/duketalk/balls.ogg",length=0.52458049886621316}}
 L["bitchin"]={{path="chatsounds/autoadd/duketalk/bitchin.ogg",length=0.98684807256235829}}
 L["blow it out your ass"]={{path="chatsounds/autoadd/duketalk/blow it out your ass.ogg",length=1.6602267573696146}}
 L["book em denno"]={{path="chatsounds/autoadd/duketalk/book em denno.ogg",length=1.9272562358276644}}
@@ -57,6 +58,7 @@ L["im not crying over this"]={{path="chatsounds/autoadd/duketalk/im not crying o
 L["its down to you and me you one eyed freak"]={{path="chatsounds/autoadd/duketalk/its down to you and me you one eyed freak.ogg",length=3.3204535147392291}}
 L["its time to abort your whole freaking species"]={{path="chatsounds/autoadd/duketalk/its time to abort your whole freaking species.ogg",length=3.6107029478458048}}
 L["its time to kick ass and chew bubblegum and im all outta gum"]={{path="chatsounds/autoadd/duketalk/its time to kick ass and chew bubblegum and im all outta gum.ogg",length=4.8413605442176868}}
+L["ive got"]={{path="chatsounds/autoadd/duketalk/ive got.ogg",length=0.5573015873015873}}
 L["let god sort em out"]={{path="chatsounds/autoadd/duketalk/let god sort em out.ogg",length=1.5789569160997732}}
 L["lets rock"]={{path="chatsounds/autoadd/duketalk/lets rock.ogg",length=1.2190476190476192}}
 L["looks like cleanup on aisle four"]={{path="chatsounds/autoadd/duketalk/looks like cleanup on aisle four.ogg",length=2.4497052154195011}}
@@ -71,6 +73,7 @@ L["nobody jacks with our independance"]={{path="chatsounds/autoadd/duketalk/nobo
 L["nobody messes with my meat"]={{path="chatsounds/autoadd/duketalk/nobody messes with my meat.ogg",length=2.3045804988662133}}
 L["nobody steals our chicks and lives"]={{path="chatsounds/autoadd/duketalk/nobody steals our chicks and lives.ogg",length=3.4481632653061225}}
 L["now this is a force to be reckoned with"]={{path="chatsounds/autoadd/duketalk/now this is a force to be reckoned with.ogg",length=3.0418140589569163}}
+L["of steel"]={{path="chatsounds/autoadd/duketalk/of steel.ogg",length=1.177641723356009}}
 L["piece of cake"]={{path="chatsounds/autoadd/duketalk/piece of cake.ogg",length=1.6602267573696146}}
 L["postal"]={{path="chatsounds/autoadd/duketalk/postal.ogg",length=1.0216780045351475}}
 L["ready for action"]={{path="chatsounds/autoadd/duketalk/ready for action.ogg",length=1.7066666666666668}}

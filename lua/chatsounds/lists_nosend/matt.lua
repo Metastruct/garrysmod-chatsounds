@@ -50,10 +50,6 @@ L["thats gotta hurt"]={{path="chatsounds/autoadd/matt/thats gotta hurt.ogg",leng
 L["thats why"]={{path="chatsounds/autoadd/matt/thats why.ogg",length=1.051201814058957}}
 L["toasted"]={{path="chatsounds/autoadd/matt/toasted.ogg",length=1.5681632653061224}}
 L["wasted"]={{path="chatsounds/autoadd/matt/wasted.ogg",length=2.1677551020408163}}
-L["what you gonna do"]={{path="chatsounds/autoadd/matt/what you gonna do.ogg",length=3.9938548752834468}}
-L["whats good nigga"]={{path="chatsounds/autoadd/matt/whats good nigga.ogg",length=2.310408163265306}}
-L["whats my name nigga"]={{path="chatsounds/autoadd/matt/whats my name nigga.ogg",length=2.0056462585034014}}
-L["whats really good"]={{path="chatsounds/autoadd/matt/whats really good.ogg",length=1.5673696145124716}}
 L["wipeout"]={{path="chatsounds/autoadd/matt/wipeout.ogg",length=4.4738775510204079}}
 L["you dont remember me"]={{path="chatsounds/autoadd/matt/you dont remember me.ogg",length=1.2277551020408164}}
 L["you dont remember my name"]={{path="chatsounds/autoadd/matt/you dont remember my name.ogg",length=1.8373015873015872}}

@@ -9,6 +9,7 @@ L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.o
 L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my crawl.ogg",length=20.637414965986395}}
 L["dont listen to the old fucker"]={{path="chatsounds/autoadd/randomshit/dont listen to the old fucker.ogg",length=1.74281179138322}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.5958956916099769}}
+L["fuck you"]={{path="chatsounds/autoadd/randomshit/fuck you.ogg",length=0.8990476190476191}}
 L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa.ogg",length=1.8741269841269841}}
 L["fucking comic sans"]={{path="chatsounds/autoadd/randomshit/fucking comic sans.ogg",length=6.9757823129251699}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.8404308390022672}}

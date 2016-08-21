@@ -25,5 +25,6 @@ L["pizd"]={{path="chatsounds/autoadd/unpleasant/pizd.ogg",length=0.8939682539682
 L["pizdet"]={{path="chatsounds/autoadd/unpleasant/pizdet/pizdet 1.ogg",length=0.71981859410430837},{path="chatsounds/autoadd/unpleasant/pizdet/pizdet 2.ogg",length=0.87655328798185939}}
 L["pulse jet"]={{path="chatsounds/autoadd/unpleasant/pulse jet.ogg",length=30.04111111111111}}
 L["you have been ip bann aaaiiiiiiiiiiieeeaaa"]={{path="chatsounds/autoadd/unpleasant/you have been ip bann aaaiiiiiiiiiiieeeaaa.ogg",length=4.8892517006802718}}
+L["you have been ip bann aaaiiiiiiiiiiieeeaaa distorted"]={{path="chatsounds/autoadd/unpleasant/you have been ip bann aaaiiiiiiiiiiieeeaaa distorted.ogg",length=8.4593877551020409}}
 L["yourmomscreams"]={{path="chatsounds/autoadd/unpleasant/yourmomscreams.ogg",length=2.0448072562358277}}
 c.EndList()
