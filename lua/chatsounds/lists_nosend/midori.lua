@@ -14,6 +14,9 @@ L["no i dont want that"]={{path="chatsounds/autoadd/midori/no i dont want that.o
 L["no it is not a cookie no its not a cookie"]={{path="chatsounds/autoadd/midori/no it is not a cookie no its not a cookie.ogg",length=5.5838321995464852}}
 L["no its not a cookie"]={{path="chatsounds/autoadd/midori/no its not a cookie.ogg",length=1.873514739229025}}
 L["no its not a cookie 2"]={{path="chatsounds/autoadd/midori/no its not a cookie 2.ogg",length=2.9021315192743766}}
+L["of course its an orange i just told you it was an orange"]={{path="chatsounds/autoadd/midori/of course its an orange i just told you it was an orange.ogg",length=6.8695691609977327}}
+L["okay the first clue is that it is something to eat"]={{path="chatsounds/autoadd/midori/okay the first clue is that it is something to eat.ogg",length=7.494081632653061}}
+L["okay the second clue is that it is something round"]={{path="chatsounds/autoadd/midori/okay the second clue is that it is something round.ogg",length=8.4124716553287975}}
 L["that was terrible"]={{path="chatsounds/autoadd/midori/that was terrible.ogg",length=2.0287755102040816}}
 L["that wasnt bad"]={{path="chatsounds/autoadd/midori/that wasnt bad.ogg",length=2.8711791383219953}}
 L["third clue the color of this thing is orange"]={{path="chatsounds/autoadd/midori/third clue the color of this thing is orange.ogg",length=6.8695691609977327}}
