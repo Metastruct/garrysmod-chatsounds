@@ -112,7 +112,7 @@ L["kill them all hm are you sure yes well im convinced"]={{path="vo/medic_item_s
 L["kill them kill them all mm that does sound like fun"]={{path="vo/medic_item_secop_round_start05.mp3",length=6.2955102040816}}
 L["laughing death to robots"]={{path="vo/medic_mvm_wave_end03.mp3",length=3.4481632653061}}
 L["laughing i am a god"]={{path="vo/medic_mvm_get_upgrade03.mp3",length=2.4555102040816}}
-L["laughing im im sorry im sorry im im not laughing at you its just youre youre weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
+L["laughing im im sorry im sorry im im not laughing at you its just your your weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
 L["laughing its just you and me robots"]={{path="vo/medic_mvm_stand_alone01.mp3",length=4.2579591836735}}
 L["laughing this wall is robot death"]={{path="vo/medic_mvm_heal_shield05.mp3",length=3.3175510204082}}
 L["left"]={{path="vo/medic_headleft01.mp3",length=0.58630383014679}}
@@ -280,7 +280,7 @@ L["we did it i did it well whatever"]={{path="vo/medic_item_secop_kill_assist01.
 L["we have done it"]={{path="vo/medic_mvm_wave_end01.mp3",length=1.5151020408163}}
 L["we must defend this point"]={{path="vo/medic_helpmedefend01.mp3",length=2.0607709884644}}
 L["we should trade"]={{path="vo/medic_trade_taunts01.mp3",length=1.4367346938776}}
-L["welcome to the we lose once again team"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
+L["welcome to the we lose once again fest"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
 L["well done"]={{path="vo/medic_cheers02.mp3",length=0.94621312618256}}
 L["where are you wizard"]={{path="vo/medic_sf12_seeking07.mp3",length=1.5934693877551}}
 L["where are your precious papers now dummkopfs"]={{path="vo/medic_autocappedintelligence03.mp3",length=3.3785033226013}}

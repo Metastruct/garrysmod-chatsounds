@@ -1247,7 +1247,7 @@ L["laughhappy"]={{path="vo/pyro_laughhappy01.mp3",length=2.429387755102}}
 L["laughing death to robots"]={{path="vo/medic_mvm_wave_end03.mp3",length=3.4481632653061}}
 L["laughing heavy is back babies"]={{path="vo/heavy_mvm_resurrect02.mp3",length=5.9820408163265}}
 L["laughing i am a god"]={{path="vo/medic_mvm_get_upgrade03.mp3",length=2.4555102040816}}
-L["laughing im im sorry im sorry im im not laughing at you its just youre youre weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
+L["laughing im im sorry im sorry im im not laughing at you its just your your weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
 L["laughing its just you and me robots"]={{path="vo/medic_mvm_stand_alone01.mp3",length=4.2579591836735}}
 L["laughing its like christmas morning"]={{path="vo/sniper_specialweapon08.mp3",length=3.3436734693878}}
 L["laughing someones about to have a very bad day"]={{path="vo/sniper_specialweapon04.mp3",length=4.5714285714286}}
@@ -2551,7 +2551,7 @@ L["welcome lambs to the slaughter"]={{path="vo/mvm_mann_up_mode01.mp3",length=4.
 L["welcome to mann up mode"]={{path="vo/mvm_mann_up_mode11.mp3",length=3.970612244898}}
 L["welcome to the dominationing"]={{path="vo/demoman_dominationdemoman04.mp3",length=3.1176416873932}}
 L["welcome to the united states of you just got dominated"]={{path="vo/soldier_dominationmedic05.mp3",length=3.6567800045013}}
-L["welcome to the we lose once again team"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
+L["welcome to the we lose once again fest"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
 L["well alright"]={{path="vo/demoman_positivevocalization02.mp3",length=1.8982312679291}}
 L["well done"]={{path="vo/medic_cheers02.mp3",length=0.94621312618256},{path="vo/announcer_am_killstreak02.mp3",length=2.7167346938776}}
 L["well done us"]={{path="vo/spy_autocappedcontrolpoint01.mp3",length=1.0448979139328}}
