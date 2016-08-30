@@ -7,6 +7,7 @@ L["get over it"]={{path="chatsounds/autoadd/random chatsounds/get over it.ogg",l
 L["i come to you right now"]={{path="chatsounds/autoadd/random chatsounds/i come to you right now.ogg",length=1.5441269841269842}}
 L["i fuck dogs"]={{path="chatsounds/autoadd/random chatsounds/i fuck dogs.ogg",length=1.3604535147392289}}
 L["i fuck dogs get over it"]={{path="chatsounds/autoadd/random chatsounds/i fuck dogs get over it.ogg",length=2.5193650793650795}}
+L["i have crippling depression"]={{path="chatsounds/autoadd/random chatsounds/i have crippling depression.ogg",length=2.5652380952380951}}
 L["i kill you right now"]={{path="chatsounds/autoadd/random chatsounds/i kill you right now.ogg",length=1.9504761904761905}}
 L["i rate the experience a six point five out of ten"]={{path="chatsounds/autoadd/random chatsounds/i rate the experience a six point five out of ten.ogg",length=4.4582312925170067}}
 L["im an artist"]={{path="chatsounds/autoadd/random chatsounds/im an artist.ogg",length=1.2074376417233561}}
