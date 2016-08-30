@@ -22,6 +22,7 @@ L["just what i need more trash in my life"]={{path="chatsounds/autoadd/yagi/just
 L["oh great traps"]={{path="chatsounds/autoadd/yagi/oh great traps.ogg",length=1.4164172335600906}}
 L["oh my god can you just holy shit"]={{path="chatsounds/autoadd/yagi/oh my god can you just holy shit.ogg",length=3.1927891156462587}}
 L["open up its the police"]={{path="chatsounds/autoadd/yagi/open up its the police.ogg",length=1.9156462585034013}}
+L["people make me sick"]={{path="chatsounds/autoadd/yagi/people make me sick.ogg",length=1.1899999999999999}}
 L["thank god i put on my anti explosion cream i got of ebay"]={{path="chatsounds/autoadd/yagi/thank god i put on my anti explosion cream i got of ebay.ogg",length=3.6720634920634923}}
 L["thats better"]={{path="chatsounds/autoadd/yagi/thats better.ogg",length=0.92185941043083897}}
 L["the fuck is wrong with these people"]={{path="chatsounds/autoadd/yagi/the fuck is wrong with these people.ogg",length=2.1130158730158732}}
@@ -31,5 +32,6 @@ L["well sir if you are having problems with our customer support you can call 1-
 L["what the fuck"]={{path="chatsounds/autoadd/yagi/what the fuck.ogg",length=1.5324263038548753}}
 L["when did i turn into indiana jones"]={{path="chatsounds/autoadd/yagi/when did i turn into indiana jones.ogg",length=2.4899092970521544}}
 L["why the fuck is this room randomly filled with lava anyway"]={{path="chatsounds/autoadd/yagi/why the fuck is this room randomly filled with lava anyway.ogg",length=3.8122675736961451}}
+L["you know what they used to call me in highschool bitch hands"]={{path="chatsounds/autoadd/yagi/you know what they used to call me in highschool bitch hands.ogg",length=3.1753061224489798}}
 L["you said you love me"]={{path="chatsounds/autoadd/yagi/you said you love me.ogg",length=1.4628571428571429}}
 c.EndList()
