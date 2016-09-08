@@ -8,8 +8,9 @@ L["get over it"]={{path="chatsounds/autoadd/random chatsounds/get over it.ogg",l
 L["i come to you right now"]={{path="chatsounds/autoadd/random chatsounds/i come to you right now.ogg",length=1.5441269841269842}}
 L["i fuck dogs"]={{path="chatsounds/autoadd/random chatsounds/i fuck dogs.ogg",length=1.3604535147392289}}
 L["i fuck dogs get over it"]={{path="chatsounds/autoadd/random chatsounds/i fuck dogs get over it.ogg",length=2.5193650793650795}}
+L["i have crippling depression"]={{path="chatsounds/autoadd/random chatsounds/i have crippling depression.ogg",length=2.5652380952380951}}
 L["i kill you right now"]={{path="chatsounds/autoadd/random chatsounds/i kill you right now.ogg",length=1.9504761904761905}}
-L["i rate the experience a 6.5 out of 10"]={{path="chatsounds/autoadd/random chatsounds/i rate the experience a 6.5 out of 10.ogg",length=4.4582312925170067}}
+L["i rate the experience a six point five out of ten"]={{path="chatsounds/autoadd/random chatsounds/i rate the experience a six point five out of ten.ogg",length=4.4582312925170067}}
 L["im an artist"]={{path="chatsounds/autoadd/random chatsounds/im an artist.ogg",length=1.2074376417233561}}
 L["jesus christ god"]={{path="chatsounds/autoadd/random chatsounds/jesus christ god.ogg",length=2.6238548752834467}}
 L["just touch my tit before you leave me babe"]={{path="chatsounds/autoadd/random chatsounds/just touch my tit before you leave me babe.ogg",length=6.0148979591836733}}
@@ -17,6 +18,7 @@ L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/r
 L["oh god what the fuck"]={{path="chatsounds/autoadd/random chatsounds/oh god what the fuck.ogg",length=2.0317460317460316}}
 L["oh shit"]={{path="chatsounds/autoadd/random chatsounds/oh shit.ogg",length=0.98684807256235829}}
 L["we do this you know one on one"]={{path="chatsounds/autoadd/random chatsounds/we do this you know one on one.ogg",length=1.9620861678004535}}
+L["what about the negro noodle"]={{path="chatsounds/autoadd/random chatsounds/what about the negro noodle.ogg",length=1.7182766439909296}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random chatsounds/why the hell so expensive.ogg",length=1.5905668934240362}}
 L["you fuck you bitch"]={{path="chatsounds/autoadd/random chatsounds/you fuck you bitch.ogg",length=1.4396371882086167}}
 c.EndList()
