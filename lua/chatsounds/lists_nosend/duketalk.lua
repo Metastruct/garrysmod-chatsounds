@@ -4,7 +4,7 @@ L["ahh"]={{path="chatsounds/autoadd/duketalk/ahh.ogg",length=1.4048072562358276}
 L["ass"]={{path="chatsounds/autoadd/duketalk/ass/1.ogg",length=0.36392290249433107},{path="chatsounds/autoadd/duketalk/ass/2.ogg",length=0.68775510204081636},{path="chatsounds/autoadd/duketalk/ass/3.ogg",length=0.51873015873015871},{path="chatsounds/autoadd/duketalk/ass/4.ogg",length=0.70691609977324266}}
 L["balls"]={{path="chatsounds/autoadd/duketalk/balls.ogg",length=0.52458049886621316}}
 L["bitchin"]={{path="chatsounds/autoadd/duketalk/bitchin.ogg",length=0.98684807256235829}}
-L["blow it out your ass"]={{path="chatsounds/autoadd/duketalk/blow it out your ass.ogg",length=1.6602267573696146}}
+L["blow it out your ass"]={{path="chatsounds/autoadd/duketalk/blow it out your ass/1.ogg",length=1.6602267573696146},{path="chatsounds/autoadd/duketalk/blow it out your ass/2.ogg",length=1.5433560090702947}}
 L["book em denno"]={{path="chatsounds/autoadd/duketalk/book em denno.ogg",length=1.9272562358276644}}
 L["born to be wild"]={{path="chatsounds/autoadd/duketalk/born to be wild.ogg",length=3.8777324263038548}}
 L["christmas"]={{path="chatsounds/autoadd/duketalk/christmas.ogg",length=0.77786848072562353}}
