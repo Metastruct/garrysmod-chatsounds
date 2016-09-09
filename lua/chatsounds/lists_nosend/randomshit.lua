@@ -14,14 +14,11 @@ L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my c
 L["darthvaderbreath"]={{path="chatsounds/autoadd/randomshit/darthvaderbreath.ogg",length=29.989637188208615}}
 L["dont listen to the old fucker"]={{path="chatsounds/autoadd/randomshit/dont listen to the old fucker.ogg",length=1.74281179138322}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.5958956916099769}}
-<<<<<<< HEAD
-L["fuck you"]={{path="chatsounds/autoadd/randomshit/fuck you.ogg",length=0.8990476190476191}}
-=======
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465215419501134}}
 L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.2214739229024945}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.6206575963718821}}
 L["fuck me up inside"]={{path="chatsounds/autoadd/randomshit/fuck me up inside.ogg",length=11.082358276643991}}
->>>>>>> refs/remotes/Metastruct/master
+L["fuck you"]={{path="chatsounds/autoadd/randomshit/fuck you.ogg",length=0.8990476190476191}}
 L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa.ogg",length=1.8741269841269841}}
 L["fucking comic sans"]={{path="chatsounds/autoadd/randomshit/fucking comic sans.ogg",length=6.9757823129251699}}
 L["fucking scrub lord"]={{path="chatsounds/autoadd/randomshit/fucking scrub lord.ogg",length=4.0751020408163265}}
