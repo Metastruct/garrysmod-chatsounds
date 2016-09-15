@@ -1,4 +1,5 @@
 c.StartList("hl2_edits")
+L["aahh"]={{path="chatsounds/autoadd/hl2_edits/aahh.ogg",length=5.8526984126984125}}
 L["butt"]={{path="chatsounds/autoadd/hl2_edits/butt.ogg",length=0.43374149659863948}}
 L["crowbar"]={{path="chatsounds/autoadd/hl2_edits/crowbar.ogg",length=1.2524263038548753}}
 L["doctor breerb"]={{path="chatsounds/autoadd/hl2_edits/doctor breerb.ogg",length=1.1493877551020408}}

@@ -7,7 +7,7 @@ L["american casualtys unnacceptable overkill protocals authorised"]={{path="chat
 L["anchorage will be liberated"]={{path="chatsounds/autoadd/liberty_prime_mk2/anchorage will be liberated.ogg",length=3.5758730158730159}}
 L["area classified as active war zone"]={{path="chatsounds/autoadd/liberty_prime_mk2/area classified as active war zone.ogg",length=10.634739229024943}}
 L["areal incursion by communist forces cannot suceed"]={{path="chatsounds/autoadd/liberty_prime_mk2/areal incursion by communist forces cannot suceed.ogg",length=5.5263492063492068}}
-L["chairmen cheng will fall china will fall"]={{path="chatsounds/autoadd/liberty_prime_mk2/chairmen cheng will fall china will fall.ogg",length=5.6656689342403626}}
+L["chairman cheng will fail china will fall"]={{path="chatsounds/autoadd/liberty_prime_mk2/chairman cheng will fail china will fall.ogg",length=5.6656689342403626}}
 L["commencing tactical assessment red chinese threat detected"]={{path="chatsounds/autoadd/liberty_prime_mk2/commencing tactical assessment red chinese threat detected.ogg",length=5.9907482993197281}}
 L["communism is a lie"]={{path="chatsounds/autoadd/liberty_prime_mk2/communism is a lie.ogg",length=3.3436734693877552}}
 L["communism is the temporary setback on the road to freedom"]={{path="chatsounds/autoadd/liberty_prime_mk2/communism is the temporary setback on the road to freedom.ogg",length=5.9907482993197281}}

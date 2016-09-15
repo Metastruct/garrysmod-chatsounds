@@ -1,6 +1,5 @@
 c.StartList("lumodder")
 L["cosmo uh um"]={{path="chatsounds/autoadd/lumodder/cosmo uh um.ogg",length=6.1765079365079369}}
-L["gta wasted"]={{path="chatsounds/autoadd/lumodder/gta wasted.ogg",length=7.5296825396825398}}
 L["i am the penguin"]={{path="chatsounds/autoadd/lumodder/i am the penguin.ogg",length=1.4512471655328798}}
 L["i planted the thing"]={{path="chatsounds/autoadd/lumodder/i planted the thing/1.ogg",length=1.2252834467120182},{path="chatsounds/autoadd/lumodder/i planted the thing/2.ogg",length=1.2455102040816326},{path="chatsounds/autoadd/lumodder/i planted the thing/3.ogg",length=3.8921088435374149}}
 L["its boshy time"]={{path="chatsounds/autoadd/lumodder/its boshy time.ogg",length=1.9873922902494332}}
@@ -18,8 +17,6 @@ L["there he goes the willy wonga"]={{path="chatsounds/autoadd/lumodder/there he 
 L["there you fn go you cunt bastard"]={{path="chatsounds/autoadd/lumodder/there you fn go you cunt bastard.ogg",length=5.8619501133786844}}
 L["trainrain"]={{path="chatsounds/autoadd/lumodder/trainrain.ogg",length=3.0040816326530613}}
 L["well shit"]={{path="chatsounds/autoadd/lumodder/well shit.ogg",length=1.7531065759637188}}
-L["whos been drawing dicks"]={{path="chatsounds/autoadd/lumodder/whos been drawing dicks.ogg",length=1.5914739229024943}}
 L["why are you nine"]={{path="chatsounds/autoadd/lumodder/why are you nine.ogg",length=1.4790022675736962}}
 L["why you such a fag face"]={{path="chatsounds/autoadd/lumodder/why you such a fag face.ogg",length=2.0114285714285716}}
-L["yo skrill drop it hard"]={{path="chatsounds/autoadd/lumodder/yo skrill drop it hard.ogg",length=1.2926303854875283}}
 c.EndList()

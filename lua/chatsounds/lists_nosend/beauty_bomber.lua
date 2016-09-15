@@ -10,7 +10,6 @@ L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/beauty_bomber/b
 L["beauty bomber"]={{path="chatsounds/autoadd/beauty_bomber/beauty bomber.ogg",length=0.94040816326530607}}
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.84578231292517}}
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26}}
-L["dontloseyourway"]={{path="chatsounds/autoadd/beauty_bomber/dontloseyourway.ogg",length=35.899999999999999}}
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.2948526077097506}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.30725623582766443}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.3748299319727892}}

@@ -1,6 +1,5 @@
 c.StartList("capsadmin")
 L["aaaa"]={{path="chatsounds/autoadd/capsadmin/aaaa.ogg",length=1.9508390022675737}}
-L["aahh"]={{path="chatsounds/autoadd/capsadmin/aahh.ogg",length=5.8526984126984125}}
 L["aahh2"]={{path="chatsounds/autoadd/capsadmin/aahh2.ogg",length=13.382585034013605}}
 L["ah ryo"]={{path="chatsounds/autoadd/capsadmin/ah ryo.ogg",length=2.46421768707483}}
 L["alien"]={{path="chatsounds/autoadd/capsadmin/alien.ogg",length=0.6876643990929705}}
@@ -93,7 +92,6 @@ L["junglebird"]={{path="chatsounds/autoadd/capsadmin/junglebird.ogg",length=1.74
 L["kamehameha"]={{path="chatsounds/autoadd/capsadmin/kamehameha.ogg",length=12.462312925170068}}
 L["knut"]={{path="chatsounds/autoadd/capsadmin/knut.ogg",length=0.29315192743764173}}
 L["laugh"]={{path="chatsounds/autoadd/capsadmin/laugh.ogg",length=7.9129251700680276}}
-L["let the bodies hit the floor"]={{path="chatsounds/autoadd/capsadmin/let the bodies hit the floor.ogg",length=1.837233560090703}}
 L["lets get the fuck out this country motherfucker"]={{path="chatsounds/autoadd/capsadmin/lets get the fuck out this country motherfucker.ogg",length=3}}
 L["lightning bolt"]={{path="chatsounds/autoadd/capsadmin/lightning bolt/1.ogg",length=0.9806575963718821},{path="chatsounds/autoadd/capsadmin/lightning bolt/2.ogg",length=0.79780045351473927},{path="chatsounds/autoadd/capsadmin/lightning bolt/3.ogg",length=1.1896371882086167},{path="chatsounds/autoadd/capsadmin/lightning bolt/4.ogg",length=0.79780045351473927}}
 L["magpies"]={{path="chatsounds/autoadd/capsadmin/magpies/marker 01.ogg",length=2.9628571428571431},{path="chatsounds/autoadd/capsadmin/magpies/marker 02.ogg",length=1.9113605442176871},{path="chatsounds/autoadd/capsadmin/magpies/marker 03.ogg",length=2.0009297052154196},{path="chatsounds/autoadd/capsadmin/magpies/marker 04.ogg",length=2.3118367346938777},{path="chatsounds/autoadd/capsadmin/magpies/marker 05.ogg",length=3.2087755102040818},{path="chatsounds/autoadd/capsadmin/magpies/marker 06.ogg",length=4.7653287981859407}}
@@ -158,12 +156,10 @@ L["thats sabotage"]={{path="chatsounds/autoadd/capsadmin/thats sabotage.ogg",len
 L["the fuck is that"]={{path="chatsounds/autoadd/capsadmin/the fuck is that.ogg",length=1.2079365079365079}}
 L["the pain"]={{path="chatsounds/autoadd/capsadmin/the pain.ogg",length=1.6495464852607711}}
 L["the wecommended amount of"]={{path="chatsounds/autoadd/capsadmin/the wecommended amount of.ogg",length=1.6458049886621315}}
-L["the weirdest"]={{path="chatsounds/autoadd/capsadmin/the weirdest.ogg",length=1.5544897959183674}}
 L["the worlds about to end"]={{path="chatsounds/autoadd/capsadmin/the worlds about to end.ogg",length=33.406621315192744}}
 L["these games are getting really realistic"]={{path="chatsounds/autoadd/capsadmin/these games are getting really realistic.ogg",length=3.5464399092970522}}
 L["thomas"]={{path="chatsounds/autoadd/capsadmin/thomas.ogg",length=0.80000000000000004}}
 L["thomas you no good cat thats sabotage out you go"]={{path="chatsounds/autoadd/capsadmin/thomas you no good cat thats sabotage out you go.ogg",length=4.7637188208616781}}
-L["thomasthetankengine"]={{path="chatsounds/autoadd/capsadmin/thomasthetankengine.ogg",length=29.10358276643991}}
 L["thx2"]={{path="chatsounds/autoadd/capsadmin/thx2.ogg",length=20.055192743764174}}
 L["tomscream"]={{path="chatsounds/autoadd/capsadmin/tomscream.ogg",length=2.1604761904761904}}
 L["tonetta1"]={{path="chatsounds/autoadd/capsadmin/tonetta1.ogg",length=66.5}}
@@ -171,16 +167,10 @@ L["trance"]={{path="chatsounds/autoadd/capsadmin/trance.ogg",length=4.6623129251
 L["trumpet"]={{path="chatsounds/autoadd/capsadmin/trumpet.ogg",length=0.26648526077097506}}
 L["tv2news fanfare"]={{path="chatsounds/autoadd/capsadmin/tv2news fanfare.ogg",length=43.969773242630389}}
 L["ufo sound"]={{path="chatsounds/autoadd/capsadmin/ufo sound.ogg",length=0.37752834467120183}}
-L["um"]={{path="chatsounds/autoadd/capsadmin/um.ogg",length=0.95138321995464847}}
-L["um detotated wam to the server"]={{path="chatsounds/autoadd/capsadmin/um detotated wam to the server.ogg",length=3.0763265306122447}}
 L["uuuuhhh"]={{path="chatsounds/autoadd/capsadmin/uuuuhhh.ogg",length=4.2891156462585034}}
 L["wanna hear the most annoying sound in the world"]={{path="chatsounds/autoadd/capsadmin/wanna hear the most annoying sound in the world.ogg",length=1.7483219954648526}}
 L["wendybday"]={{path="chatsounds/autoadd/capsadmin/wendybday.ogg",length=43.927845804988664}}
-L["what is"]={{path="chatsounds/autoadd/capsadmin/what is.ogg",length=1.6984353741496598}}
 L["what is going on"]={{path="chatsounds/autoadd/capsadmin/what is going on.ogg",length=0.98639455782312924}}
-L["what is the weirdest slash funniest mod you have ever seen"]={{path="chatsounds/autoadd/capsadmin/what is the weirdest slash funniest mod you have ever seen.ogg",length=7.2830839002267576}}
-L["whats the wecommended amount of dededotated wam isooasdasd erver"]={{path="chatsounds/autoadd/capsadmin/whats the wecommended amount of dededotated wam isooasdasd erver.ogg",length=5.6399319727891157}}
-L["whyyy"]={{path="chatsounds/autoadd/capsadmin/whyyy.ogg",length=3.0639909297052155}}
 L["windows 95 is the game platform"]={{path="chatsounds/autoadd/capsadmin/windows 95 is the game platform.ogg",length=3.9356916099773245}}
 L["wo"]={{path="chatsounds/autoadd/capsadmin/wo.ogg",length=0.28095238095238095}}
 L["xbox1startup"]={{path="chatsounds/autoadd/capsadmin/xbox1startup.ogg",length=7.2617233560090702}}
