@@ -1,5 +1,7 @@
 c.StartList("vuth")
 L["agh god damnit this hornet controls like a bag full of dicks fucking hell"]={{path="chatsounds/autoadd/vuth/agh god damnit this hornet controls like a bag full of dicks fucking hell.ogg",length=4.7458956916099773}}
+L["allah snackbar"]={{path="chatsounds/autoadd/vuth/allah snackbar.ogg",length=1.2147619047619047}}
+L["allah snackbar times"]={{path="chatsounds/autoadd/vuth/allah snackbar times.ogg",length=1.6799773242630385}}
 L["allahusnackbar"]={{path="chatsounds/autoadd/vuth/allahusnackbar.ogg",length=6.7875283446712018}}
 L["an exclusive home of the meanest sons a bitches in the state of maryland"]={{path="chatsounds/autoadd/vuth/an exclusive home of the meanest sons a bitches in the state of maryland.ogg",length=3.4618140589569162}}
 L["and all bungie can do is sit back and eat baby carrots"]={{path="chatsounds/autoadd/vuth/and all bungie can do is sit back and eat baby carrots.ogg",length=2.4761451247165533}}
