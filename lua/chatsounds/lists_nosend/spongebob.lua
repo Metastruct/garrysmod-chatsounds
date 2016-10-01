@@ -4,10 +4,14 @@ L["deuueaugh"]={{path="chatsounds/autoadd/spongebob/deuueaugh/deuueaugh.ogg",len
 L["deuuueaughhhhhhh"]={{path="chatsounds/autoadd/spongebob/deuuueaughhhhhhh.ogg",length=3.6411791383219954}}
 L["did you say chocolate"]={{path="chatsounds/autoadd/spongebob/did you say chocolate.ogg",length=2.7307482993197278}}
 L["hahahahahahahahohohohohohohohihihihihihihihahaha"]={{path="chatsounds/autoadd/spongebob/hahahahahahahahohohohohohohohihihihihihihihahaha.ogg",length=8.0453514739229028}}
+L["is this the krusty krab"]={{path="chatsounds/autoadd/spongebob/is this the krusty krab/1.ogg",length=1.3570068027210884},{path="chatsounds/autoadd/spongebob/is this the krusty krab/2.ogg",length=1.1839909297052154},{path="chatsounds/autoadd/spongebob/is this the krusty krab/3.ogg",length=1.3319727891156463}}
 L["ive been trying to catch you boys all day"]={{path="chatsounds/autoadd/spongebob/ive been trying to catch you boys all day.ogg",length=3.8975283446712017}}
+L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/spongebob/leedle leedle leedle lee.ogg",length=1.75}}
+L["no this is patrick"]={{path="chatsounds/autoadd/spongebob/no this is patrick/1.ogg",length=1.46},{path="chatsounds/autoadd/spongebob/no this is patrick/2.ogg",length=2.6146258503401358},{path="chatsounds/autoadd/spongebob/no this is patrick/3.ogg",length=3.0586167800453516}}
 L["now that ive got you right where i want you id like to buy all your chocolate"]={{path="chatsounds/autoadd/spongebob/now that ive got you right where i want you id like to buy all your chocolate.ogg",length=5.4614965986394557}}
 L["sb chocolate"]={{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate1.ogg",length=1.6384353741496598},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate2.ogg",length=1.3902040816326531},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate3.ogg",length=1.4522675736961452},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate4.ogg",length=2.2839002267573698},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate5.ogg",length=2.3583673469387754},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate6.ogg",length=2.4328571428571428}}
 L["sb finally"]={{path="chatsounds/autoadd/spongebob/sb finally.ogg",length=1.0923129251700681}}
 L["sb laugh"]={{path="chatsounds/autoadd/spongebob/sb laugh.ogg",length=2.1597732426303855}}
+L["six and a half"]={{path="chatsounds/autoadd/spongebob/six and a half.ogg",length=1.5292290249433107}}
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.8618820861678005}}
 c.EndList()

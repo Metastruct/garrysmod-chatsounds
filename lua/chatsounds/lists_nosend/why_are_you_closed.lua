@@ -12,4 +12,5 @@ L["why are you lockng your doors to the public"]={{path="chatsounds/autoadd/why_
 L["why are you putting us through this"]={{path="chatsounds/autoadd/why_are_you_closed/why are you putting us through this.ogg",length=1.9459183673469387}}
 L["why why"]={{path="chatsounds/autoadd/why_are_you_closed/why why.ogg",length=1.0201133786848073}}
 L["whyy"]={{path="chatsounds/autoadd/why_are_you_closed/whyy/2.ogg",length=0.98088435374149663},{path="chatsounds/autoadd/why_are_you_closed/whyy/3.ogg",length=0.9648299319727891},{path="chatsounds/autoadd/why_are_you_closed/whyy/whyy.ogg",length=1.5398185941043083}}
+L["whyyy"]={{path="chatsounds/autoadd/why_are_you_closed/whyyy.ogg",length=3.0639909297052155}}
 c.EndList()

@@ -43,10 +43,10 @@ L["oh hell lets just do what we always do hijack some nuclear weapons and hold t
 L["ow you shot me you a hole"]={{path="chatsounds/autoadd/austinpowers/ow you shot me you a hole.ogg",length=4.4582312925170067}}
 L["really"]={{path="chatsounds/autoadd/austinpowers/really.ogg",length=1.2538775510204081}}
 L["right idiot yes"]={{path="chatsounds/autoadd/austinpowers/right idiot yes.ogg",length=2.4380952380952383}}
+L["ritualistically shaved my testicles"]={{path="chatsounds/autoadd/austinpowers/ritualistically shaved my testicles.ogg",length=3.5116780045351472}}
 L["rright"]={{path="chatsounds/autoadd/austinpowers/rright.ogg",length=2.3452154195011339}}
 L["scott you had your chance okay"]={{path="chatsounds/autoadd/austinpowers/scott you had your chance okay.ogg",length=4.363514739229025}}
 L["see you in hell powers"]={{path="chatsounds/autoadd/austinpowers/see you in hell powers.ogg",length=4.1970068027210887}}
-L["shaved my testicles"]={{path="chatsounds/autoadd/austinpowers/shaved my testicles.ogg",length=3.5116780045351472}}
 L["shitt"]={{path="chatsounds/autoadd/austinpowers/shitt.ogg",length=0.93875283446712021}}
 L["sometimes he would accuse chesnuts of being lazy"]={{path="chatsounds/autoadd/austinpowers/sometimes he would accuse chesnuts of being lazy.ogg",length=3.9289115646258503}}
 L["summers in rangoon luge lessons"]={{path="chatsounds/autoadd/austinpowers/summers in rangoon luge lessons.ogg",length=3.8767573696145123}}

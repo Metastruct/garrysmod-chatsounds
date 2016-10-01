@@ -18,6 +18,7 @@ L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length
 L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.2214739229024945}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.6206575963718821}}
 L["fuck me up inside"]={{path="chatsounds/autoadd/randomshit/fuck me up inside.ogg",length=11.082358276643991}}
+L["fuck you"]={{path="chatsounds/autoadd/randomshit/fuck you.ogg",length=0.8990476190476191}}
 L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa.ogg",length=1.8741269841269841}}
 L["fucking comic sans"]={{path="chatsounds/autoadd/randomshit/fucking comic sans.ogg",length=6.9757823129251699}}
 L["fucking scrub lord"]={{path="chatsounds/autoadd/randomshit/fucking scrub lord.ogg",length=4.0751020408163265}}

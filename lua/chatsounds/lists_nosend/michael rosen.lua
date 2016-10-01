@@ -10,6 +10,8 @@ L["can i open my window"]={{path="chatsounds/autoadd/michael rosen/can i open my
 L["chocolate cake"]={{path="chatsounds/autoadd/michael rosen/chocolate cake.ogg",length=0.81600907029478453}}
 L["dont pull my hair"]={{path="chatsounds/autoadd/michael rosen/dont pull my hair.ogg",length=0.92501133786848078}}
 L["dont scratch"]={{path="chatsounds/autoadd/michael rosen/dont scratch.ogg",length=1.1582312925170068}}
+L["dont throw fruit at the computer"]={{path="chatsounds/autoadd/michael rosen/dont throw fruit at the computer.ogg",length=2.019342403628118}}
+L["dont throw fruit at the computer distorted"]={{path="chatsounds/autoadd/michael rosen/dont throw fruit at the computer distorted.ogg",length=9.9635600907029485}}
 L["get off me"]={{path="chatsounds/autoadd/michael rosen/get off me.ogg",length=1.1000000000000001}}
 L["he started it i didnt he started it slap i dont care who started it"]={{path="chatsounds/autoadd/michael rosen/he started it i didnt he started it slap i dont care who started it.ogg",length=3.9049886621315193}}
 L["hes punching me mum"]={{path="chatsounds/autoadd/michael rosen/hes punching me mum.ogg",length=1.0999773242630386}}

@@ -27,6 +27,7 @@ L["property damage"]={{path="chatsounds/autoadd/saxton_hale/property damage.ogg"
 L["reader"]={{path="chatsounds/autoadd/saxton_hale/reader.ogg",length=16.504852607709751}}
 L["reading books wont win you fights fists do"]={{path="chatsounds/autoadd/saxton_hale/reading books wont win you fights fists do.ogg",length=3.7914285714285714}}
 L["real men fight they dont heal"]={{path="chatsounds/autoadd/saxton_hale/real men fight they dont heal.ogg",length=2.5770521541950115}}
+L["saxton haaaaaaaaaaaaaaaaaaaaaale"]={{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaaaaaaaaaaaaaale.ogg",length=48.291655328798186}}
 L["saxton haaaaaaaaaale"]={{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaale/saxton_hale_responce_rage1.ogg",length=2.3485714285714288},{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaale/saxton_hale_responce_rage3.ogg",length=3.866122448979592},{path="chatsounds/autoadd/saxton_hale/saxton haaaaaaaaaale/saxton_hale_responce_rage4.ogg",length=4.013786848072562}}
 L["saxton hale"]={{path="chatsounds/autoadd/saxton_hale/saxton hale.ogg",length=2.3419501133786849}}
 L["screw gravity"]={{path="chatsounds/autoadd/saxton_hale/screw gravity.ogg",length=1.2080725623582766}}

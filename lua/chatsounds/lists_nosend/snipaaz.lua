@@ -1,7 +1,4 @@
 c.StartList("snipaaz")
-L["allahuakbar"]={{path="chatsounds/autoadd/snipaaz/allahuakbar.ogg",length=5.6598639455782314}}
-L["allahuakbar2"]={{path="chatsounds/autoadd/snipaaz/allahuakbar2.ogg",length=2.4200907029478458}}
-L["allahuakbar3"]={{path="chatsounds/autoadd/snipaaz/allahuakbar3.ogg",length=1.2807936507936508}}
 L["click clack the guns comin out you got three seconds"]={{path="chatsounds/autoadd/snipaaz/click clack the guns comin out you got three seconds.ogg",length=5.1664399092970523}}
 L["disgusting"]={{path="chatsounds/autoadd/snipaaz/disgusting.ogg",length=1.6486167800453515}}
 L["djent"]={{path="chatsounds/autoadd/snipaaz/djent.ogg",length=12.265555555555556}}

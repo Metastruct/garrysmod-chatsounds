@@ -1,22 +1,16 @@
 c.StartList("sfx_voice")
 L["ahhh"]={{path="chatsounds/autoadd/sfx_voice/ahhh.ogg",length=1.163514739229025}}
-L["applause 4"]={{path="chatsounds/autoadd/sfx_voice/applause 4.ogg",length=21.225555555555555}}
 L["baby babble 1"]={{path="chatsounds/autoadd/sfx_voice/baby babble 1.ogg",length=7.4851473922902496}}
 L["baby sneezing 1"]={{path="chatsounds/autoadd/sfx_voice/baby sneezing 1.ogg",length=0.73333333333333328}}
 L["burp 1"]={{path="chatsounds/autoadd/sfx_voice/burp 1.ogg",length=1.497687074829932}}
-L["c c 1"]={{path="chatsounds/autoadd/sfx_voice/c c 1.ogg",length=27.730045351473922}}
-L["c c 2"]={{path="chatsounds/autoadd/sfx_voice/c c 2.ogg",length=19.423106575963718}}
 L["c1"]={{path="chatsounds/autoadd/sfx_voice/c1.ogg",length=14.485963718820862}}
-L["clearing throat 1"]={{path="chatsounds/autoadd/sfx_voice/clearing throat 1.ogg",length=0.76743764172335605}}
-L["clearing throat 2"]={{path="chatsounds/autoadd/sfx_voice/clearing throat 2.ogg",length=0.56725623582766438}}
-L["clearing throat 3"]={{path="chatsounds/autoadd/sfx_voice/clearing throat 3.ogg",length=0.8008163265306123}}
+L["clearing throat"]={{path="chatsounds/autoadd/sfx_voice/clearing throat/clearing throat 1.ogg",length=0.76743764172335605},{path="chatsounds/autoadd/sfx_voice/clearing throat/clearing throat 2.ogg",length=0.56725623582766438},{path="chatsounds/autoadd/sfx_voice/clearing throat/clearing throat 3.ogg",length=0.8008163265306123}}
 L["climbing stairs 1"]={{path="chatsounds/autoadd/sfx_voice/climbing stairs 1.ogg",length=9.3659637188208613}}
 L["come on 1"]={{path="chatsounds/autoadd/sfx_voice/come on 1.ogg",length=0.76743764172335605}}
 L["come on 2"]={{path="chatsounds/autoadd/sfx_voice/come on 2.ogg",length=0.43378684807256235}}
+L["croud cheering"]={{path="chatsounds/autoadd/sfx_voice/croud cheering/applause 4.ogg",length=21.225555555555555},{path="chatsounds/autoadd/sfx_voice/croud cheering/c c 1.ogg",length=27.730045351473922},{path="chatsounds/autoadd/sfx_voice/croud cheering/c c 2.ogg",length=19.423106575963718}}
+L["croud laugh"]={{path="chatsounds/autoadd/sfx_voice/croud laugh/crowd laugh 1.ogg",length=2.9362811791383221},{path="chatsounds/autoadd/sfx_voice/croud laugh/crowd laugh 2.ogg",length=2.1355102040816325},{path="chatsounds/autoadd/sfx_voice/croud laugh/crowd laugh 3.ogg",length=2.4957596371882085}}
 L["crowd excited"]={{path="chatsounds/autoadd/sfx_voice/crowd excited.ogg",length=2.9398412698412697}}
-L["crowd laugh 1"]={{path="chatsounds/autoadd/sfx_voice/crowd laugh 1.ogg",length=2.9362811791383221}}
-L["crowd laugh 2"]={{path="chatsounds/autoadd/sfx_voice/crowd laugh 2.ogg",length=2.1355102040816325}}
-L["crowd laugh 3"]={{path="chatsounds/autoadd/sfx_voice/crowd laugh 3.ogg",length=2.4957596371882085}}
 L["footsteps 1"]={{path="chatsounds/autoadd/sfx_voice/footsteps 1.ogg",length=13.754535147392291}}
 L["footsteps 2"]={{path="chatsounds/autoadd/sfx_voice/footsteps 2.ogg",length=21.27780045351474}}
 L["footsteps 3"]={{path="chatsounds/autoadd/sfx_voice/footsteps 3.ogg",length=40.306938775510204}}
@@ -32,16 +26,7 @@ L["hmmmm"]={{path="chatsounds/autoadd/sfx_voice/hmmmm.ogg",length=0.734058956916
 L["huh 1"]={{path="chatsounds/autoadd/sfx_voice/huh 1.ogg",length=0.53387755102040813}}
 L["huh 2"]={{path="chatsounds/autoadd/sfx_voice/huh 2.ogg",length=0.53387755102040813}}
 L["kisses"]={{path="chatsounds/autoadd/sfx_voice/kisses.ogg",length=0.43378684807256235}}
-L["laugh 1"]={{path="chatsounds/autoadd/sfx_voice/laugh 1.ogg",length=2.4024036281179137}}
-L["laugh 10"]={{path="chatsounds/autoadd/sfx_voice/laugh 10.ogg",length=2.3023129251700682}}
-L["laugh 11"]={{path="chatsounds/autoadd/sfx_voice/laugh 11.ogg",length=2.3690249433106576}}
-L["laugh 12"]={{path="chatsounds/autoadd/sfx_voice/laugh 12.ogg",length=1.1678458049886622}}
-L["laugh 2"]={{path="chatsounds/autoadd/sfx_voice/laugh 2.ogg",length=2.4691609977324265}}
-L["laugh 3"]={{path="chatsounds/autoadd/sfx_voice/laugh 3.ogg",length=3.4367800453514739}}
-L["laugh 6"]={{path="chatsounds/autoadd/sfx_voice/laugh 6.ogg",length=1.000997732426304}}
-L["laugh 7"]={{path="chatsounds/autoadd/sfx_voice/laugh 7.ogg",length=3.1698412698412697}}
-L["laugh 8"]={{path="chatsounds/autoadd/sfx_voice/laugh 8.ogg",length=1.0343764172335601}}
-L["laugh 9"]={{path="chatsounds/autoadd/sfx_voice/laugh 9.ogg",length=3.5034920634920637}}
+L["laugh"]={{path="chatsounds/autoadd/sfx_voice/laugh/laugh 1.ogg",length=2.4024036281179137},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 10.ogg",length=2.3023129251700682},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 11.ogg",length=2.3690249433106576},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 12.ogg",length=1.1678458049886622},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 2.ogg",length=2.4691609977324265},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 3.ogg",length=3.4367800453514739},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 6.ogg",length=1.000997732426304},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 7.ogg",length=3.1698412698412697},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 8.ogg",length=1.0343764172335601},{path="chatsounds/autoadd/sfx_voice/laugh/laugh 9.ogg",length=3.5034920634920637}}
 L["people cheering"]={{path="chatsounds/autoadd/sfx_voice/people cheering.ogg",length=7.6941269841269841}}
 L["people laughing 1"]={{path="chatsounds/autoadd/sfx_voice/people laughing 1.ogg",length=2.4957596371882085}}
 L["people laughing 2"]={{path="chatsounds/autoadd/sfx_voice/people laughing 2.ogg",length=2.5218820861678006}}
@@ -56,6 +41,5 @@ L["whistling"]={{path="chatsounds/autoadd/sfx_voice/whistling.ogg",length=1.3346
 L["y1"]={{path="chatsounds/autoadd/sfx_voice/y1.ogg",length=1.3986167800453515}}
 L["yes 1"]={{path="chatsounds/autoadd/sfx_voice/yes 1.ogg",length=0.76743764172335605}}
 L["yes 2"]={{path="chatsounds/autoadd/sfx_voice/yes 2.ogg",length=0.70068027210884354}}
-L["you got it 1"]={{path="chatsounds/autoadd/sfx_voice/you got it 1.ogg",length=0.70068027210884354}}
-L["you got it 2"]={{path="chatsounds/autoadd/sfx_voice/you got it 2.ogg",length=0.66734693877551021}}
+L["you got it"]={{path="chatsounds/autoadd/sfx_voice/you got it/you got it 1.ogg",length=0.70068027210884354},{path="chatsounds/autoadd/sfx_voice/you got it/you got it 2.ogg",length=0.66734693877551021}}
 c.EndList()

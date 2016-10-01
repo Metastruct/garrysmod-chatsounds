@@ -2,7 +2,6 @@ c.StartList("doctorbreen")
 L["apple1"]={{path="chatsounds/autoadd/doctorbreen/apple1.ogg",length=0.66176870748299321}}
 L["apple2"]={{path="chatsounds/autoadd/doctorbreen/apple2.ogg",length=0.87074829931972786}}
 L["apple3"]={{path="chatsounds/autoadd/doctorbreen/apple3.ogg",length=0.89396825396825397}}
-L["capsadmin"]={{path="chatsounds/autoadd/doctorbreen/capsadmin.ogg",length=0.83591836734693881}}
 L["deine schuld"]={{path="chatsounds/autoadd/doctorbreen/deine schuld.ogg",length=9.1731972789115641}}
 L["echt jetz junge"]={{path="chatsounds/autoadd/doctorbreen/echt jetz junge.ogg",length=1.0889342403628117}}
 L["fresse junge"]={{path="chatsounds/autoadd/doctorbreen/fresse junge.ogg",length=0.65886621315192739}}

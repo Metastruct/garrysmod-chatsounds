@@ -5,7 +5,6 @@ L["angry gibberish you stupid fuck"]={{path="chatsounds/autoadd/recurracy/angry 
 L["ask me if i wanna watch you fuck my daughter"]={{path="chatsounds/autoadd/recurracy/ask me if i wanna watch you fuck my daughter.ogg",length=2.426485260770975}}
 L["bitch"]={{path="chatsounds/autoadd/recurracy/bitch.ogg",length=0.58049886621315194}}
 L["cus i am a biker in real life and i dont care"]={{path="chatsounds/autoadd/recurracy/cus i am a biker in real life and i dont care.ogg",length=2.7399546485260773}}
-L["delete this distorted"]={{path="chatsounds/autoadd/recurracy/delete this distorted.ogg",length=4.1474829931972792}}
 L["do i make myself clear you piece of shit"]={{path="chatsounds/autoadd/recurracy/do i make myself clear you piece of shit.ogg",length=2.6470748299319729}}
 L["eehh grah fuck geh"]={{path="chatsounds/autoadd/recurracy/eehh grah fuck geh.ogg",length=2.5541950113378684}}
 L["fuck my daughter"]={{path="chatsounds/autoadd/recurracy/fuck my daughter.ogg",length=1.1609977324263039}}
@@ -23,6 +22,5 @@ L["oh my god"]={{path="chatsounds/autoadd/recurracy/oh my god.ogg",length=1.7182
 L["vote daniels"]={{path="chatsounds/autoadd/recurracy/vote daniels.ogg",length=15.47609977324263}}
 L["you are the most ignorant soab ive ever met in my life"]={{path="chatsounds/autoadd/recurracy/you are the most ignorant soab ive ever met in my life.ogg",length=4.4001814058956912}}
 L["you fucking insulted me"]={{path="chatsounds/autoadd/recurracy/you fucking insulted me.ogg",length=1.8808163265306121}}
-L["you have been ip bann aaaiiiiiiiiiiieeeaaa distorted"]={{path="chatsounds/autoadd/recurracy/you have been ip bann aaaiiiiiiiiiiieeeaaa distorted.ogg",length=8.4593877551020409}}
 L["you stupid fuck"]={{path="chatsounds/autoadd/recurracy/you stupid fuck.ogg",length=1.6486167800453515}}
 c.EndList()

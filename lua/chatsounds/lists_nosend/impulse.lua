@@ -2,8 +2,6 @@ c.StartList("impulse")
 L["alien"]={{path="chatsounds/autoadd/impulse/alien.ogg",length=0.69591836734693879}}
 L["alientaunt"]={{path="chatsounds/autoadd/impulse/alientaunt/alientaunt1.ogg",length=1.4973242630385488},{path="chatsounds/autoadd/impulse/alientaunt/alientaunt2.ogg",length=1.7295238095238095},{path="chatsounds/autoadd/impulse/alientaunt/alientaunt3.ogg",length=1.5669841269841269},{path="chatsounds/autoadd/impulse/alientaunt/alientaunt4.ogg",length=1.4044671201814058},{path="chatsounds/autoadd/impulse/alientaunt/alientaunt5.ogg",length=1.6250340136054422},{path="chatsounds/autoadd/impulse/alientaunt/alientaunt6.ogg",length=1.6250340136054422}}
 L["are you fucking serious"]={{path="chatsounds/autoadd/impulse/are you fucking serious.ogg",length=2.1720181405895693}}
-L["barrelroll"]={{path="chatsounds/autoadd/impulse/barrelroll.ogg",length=13.716802721088435}}
-L["cheekibreekiradio"]={{path="chatsounds/autoadd/impulse/cheekibreekiradio.ogg",length=65.175510204081633}}
 L["chimandolin"]={{path="chatsounds/autoadd/impulse/chimandolin.ogg",length=12.151836734693877}}
 L["do a barrel roll"]={{path="chatsounds/autoadd/impulse/do a barrel roll.ogg",length=1.0158956916099773}}
 L["get outta here"]={{path="chatsounds/autoadd/impulse/get outta here.ogg",length=1.6303628117913833}}
@@ -15,12 +13,10 @@ L["is that wrong slash does that make me a bad person"]={{path="chatsounds/autoa
 L["its the future what are you gonna do about it"]={{path="chatsounds/autoadd/impulse/its the future what are you gonna do about it.ogg",length=1.9698866213151927}}
 L["kid noises"]={{path="chatsounds/autoadd/impulse/kid noises.ogg",length=10.20702947845805}}
 L["kid scream"]={{path="chatsounds/autoadd/impulse/kid scream.ogg",length=1.1798639455782314}}
-L["lord macintosh plus"]={{path="chatsounds/autoadd/impulse/lord macintosh plus/1.ogg",length=64.837732426303859},{path="chatsounds/autoadd/impulse/lord macintosh plus/2.ogg",length=60.147981859410429},{path="chatsounds/autoadd/impulse/lord macintosh plus/3.ogg",length=60.603922902494332},{path="chatsounds/autoadd/impulse/lord macintosh plus/4.ogg",length=60.669047619047618},{path="chatsounds/autoadd/impulse/lord macintosh plus/5.ogg",length=77.831678004535149}}
 L["megaddeth"]={{path="chatsounds/autoadd/impulse/megaddeth.ogg",length=6.1670294784580495}}
 L["mom i want a sandwich"]={{path="chatsounds/autoadd/impulse/mom i want a sandwich.ogg",length=2.0736961451247167}}
 L["my human instinct is telling me to just ruin it and like burn it down"]={{path="chatsounds/autoadd/impulse/my human instinct is telling me to just ruin it and like burn it down.ogg",length=10.206961451247166}}
 L["nomble"]={{path="chatsounds/autoadd/impulse/nomble.ogg",length=7.6039455782312926}}
-L["offlimits"]={{path="chatsounds/autoadd/impulse/offlimits.ogg",length=113.17460317460318}}
 L["pixies"]={{path="chatsounds/autoadd/impulse/pixies.ogg",length=8}}
 L["sandman"]={{path="chatsounds/autoadd/impulse/sandman.ogg",length=15.482267573696145}}
 L["sounds like im in the amazon rainforest"]={{path="chatsounds/autoadd/impulse/sounds like im in the amazon rainforest.ogg",length=2.5797732426303854}}

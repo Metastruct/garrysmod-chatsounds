@@ -1,6 +1,7 @@
 c.StartList("cartoon_sfx")
-L["airplanedeath"]={{path="chatsounds/autoadd/cartoon_sfx/airplanedeath/airplanedeath copy.ogg",length=3.2527437641723358},{path="chatsounds/autoadd/cartoon_sfx/airplanedeath/airplanedeath.ogg",length=3.6816099773242632}}
-L["airplanepass"]={{path="chatsounds/autoadd/cartoon_sfx/airplanepass/airplanepass copy.ogg",length=4.0136961451247162},{path="chatsounds/autoadd/cartoon_sfx/airplanepass/airplanepass.ogg",length=5.0654195011337873}}
+L["airplanedeath"]={{path="chatsounds/autoadd/cartoon_sfx/airplanedeath/1.ogg",length=3.2527437641723358},{path="chatsounds/autoadd/cartoon_sfx/airplanedeath/2.ogg",length=3.6816099773242632}}
+L["airplanepass"]={{path="chatsounds/autoadd/cartoon_sfx/airplanepass/1.ogg",length=4.0136961451247162},{path="chatsounds/autoadd/cartoon_sfx/airplanepass/2.ogg",length=5.0654195011337873}}
+L["audiencelaugh"]={{path="chatsounds/autoadd/cartoon_sfx/audiencelaugh/1.ogg",length=6.0081632653061225},{path="chatsounds/autoadd/cartoon_sfx/audiencelaugh/2.ogg",length=13.008979591836734},{path="chatsounds/autoadd/cartoon_sfx/audiencelaugh/3.ogg",length=9.0122448979591834},{path="chatsounds/autoadd/cartoon_sfx/audiencelaugh/4.ogg",length=11.075918367346938},{path="chatsounds/autoadd/cartoon_sfx/audiencelaugh/5.ogg",length=9.66530612244898},{path="chatsounds/autoadd/cartoon_sfx/audiencelaugh/6.ogg",length=5.3812244897959181}}
 L["bdayhorn"]={{path="chatsounds/autoadd/cartoon_sfx/bdayhorn.ogg",length=0.44904761904761903}}
 L["beakhitwall"]={{path="chatsounds/autoadd/cartoon_sfx/beakhitwall.ogg",length=2.3956916099773244}}
 L["beatenup"]={{path="chatsounds/autoadd/cartoon_sfx/beatenup.ogg",length=2.5558049886621315}}
@@ -10,6 +11,7 @@ L["blink1"]={{path="chatsounds/autoadd/cartoon_sfx/blink1.ogg",length=0.29417233
 L["blink2"]={{path="chatsounds/autoadd/cartoon_sfx/blink2.ogg",length=0.30083900226757371}}
 L["blinking"]={{path="chatsounds/autoadd/cartoon_sfx/blinking.ogg",length=5.7730385487528348}}
 L["boing"]={{path="chatsounds/autoadd/cartoon_sfx/boing.ogg",length=0.95224489795918366}}
+L["bowlingpins"]={{path="chatsounds/autoadd/cartoon_sfx/bowlingpins.ogg",length=1.1070748299319728}}
 L["carbreak"]={{path="chatsounds/autoadd/cartoon_sfx/carbreak.ogg",length=3.676485260770975}}
 L["carrpass"]={{path="chatsounds/autoadd/cartoon_sfx/carrpass.ogg",length=1.9634693877551019}}
 L["cartoonloop"]={{path="chatsounds/autoadd/cartoon_sfx/cartoonloop.ogg",length=12.81530612244898}}
@@ -23,9 +25,10 @@ L["drowning"]={{path="chatsounds/autoadd/cartoon_sfx/drowning.ogg",length=2.2000
 L["eaten"]={{path="chatsounds/autoadd/cartoon_sfx/eaten.ogg",length=0.3640589569160998}}
 L["evil laugh"]={{path="chatsounds/autoadd/cartoon_sfx/evil laugh.ogg",length=2.7196145124716553}}
 L["falling"]={{path="chatsounds/autoadd/cartoon_sfx/falling.ogg",length=1.3921768707482993}}
+L["fart"]={{path="chatsounds/autoadd/cartoon_sfx/fart/fart.ogg",length=1.2},{path="chatsounds/autoadd/cartoon_sfx/fart/fart2.ogg",length=0.69999999999999996},{path="chatsounds/autoadd/cartoon_sfx/fart/fart3.ogg",length=0.97886621315192746},{path="chatsounds/autoadd/cartoon_sfx/fart/fart4.ogg",length=1.3},{path="chatsounds/autoadd/cartoon_sfx/fart/fart5.ogg",length=0.69999999999999996}}
 L["guitarhit"]={{path="chatsounds/autoadd/cartoon_sfx/guitarhit.ogg",length=2.8498412698412698}}
 L["hawaii"]={{path="chatsounds/autoadd/cartoon_sfx/hawaii/hawai.ogg",length=0.92773242630385488},{path="chatsounds/autoadd/cartoon_sfx/hawaii/hawaii1.ogg",length=1.1354648526077098},{path="chatsounds/autoadd/cartoon_sfx/hawaii/hawaii2.ogg",length=6.2206349206349207}}
-L["heeheeheehehehe"]={{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/kiss copy.ogg",length=1.2251020408163265},{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/kiss copy1.ogg",length=1.8807936507936507},{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/kiss.ogg",length=1.9670521541950114}}
+L["heeheeheehehehe"]={{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/1.ogg",length=1.2251020408163265},{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/2.ogg",length=1.8807936507936507},{path="chatsounds/autoadd/cartoon_sfx/heeheeheehehehe/3.ogg",length=1.9670521541950114}}
 L["hitonthehead"]={{path="chatsounds/autoadd/cartoon_sfx/hitonthehead/hit copy.ogg",length=1.1360544217687074},{path="chatsounds/autoadd/cartoon_sfx/hitonthehead/hit copy2.ogg",length=0.59999999999999998},{path="chatsounds/autoadd/cartoon_sfx/hitonthehead/hit copy3.ogg",length=0.95029478458049887},{path="chatsounds/autoadd/cartoon_sfx/hitonthehead/hit copy4.ogg",length=0.85310657596371886},{path="chatsounds/autoadd/cartoon_sfx/hitonthehead/hit.ogg",length=2.3814058956916098}}
 L["hitparalyzed"]={{path="chatsounds/autoadd/cartoon_sfx/hitparalyzed/unnamed marker copy.ogg",length=0.69165532879818592},{path="chatsounds/autoadd/cartoon_sfx/hitparalyzed/unnamed marker copy1.ogg",length=3.1370748299319726},{path="chatsounds/autoadd/cartoon_sfx/hitparalyzed/unnamed marker.ogg",length=1.306077097505669}}
 L["horror"]={{path="chatsounds/autoadd/cartoon_sfx/horror.ogg",length=2.4120861678004535}}

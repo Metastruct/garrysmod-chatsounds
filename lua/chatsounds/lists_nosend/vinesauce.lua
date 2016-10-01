@@ -235,6 +235,7 @@ L["which guy which guy tell me the guy"]={{path="chatsounds/autoadd/vinesauce/wh
 L["who came on the motherboard"]={{path="chatsounds/autoadd/vinesauce/who came on the motherboard.ogg",length=1.6048072562358278}}
 L["who rdm"]={{path="chatsounds/autoadd/vinesauce/who rdm.ogg",length=0.94945578231292516}}
 L["who wants to rp"]={{path="chatsounds/autoadd/vinesauce/who wants to rp.ogg",length=1.4552380952380952}}
+L["whos been drawing dicks"]={{path="chatsounds/autoadd/vinesauce/whos been drawing dicks.ogg",length=1.5914739229024943}}
 L["why am i flying"]={{path="chatsounds/autoadd/vinesauce/why am i flying.ogg",length=1.1031292517006803}}
 L["why in sweet nuclear christ is this on my disk"]={{path="chatsounds/autoadd/vinesauce/why in sweet nuclear christ is this on my disk.ogg",length=4.3721088435374149}}
 L["why was this made"]={{path="chatsounds/autoadd/vinesauce/why was this made.ogg",length=1.2653514739229026}}

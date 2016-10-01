@@ -68,6 +68,8 @@ L["hey what the hell do you want"]={{path="chatsounds/autoadd/filthyfrank/hey wh
 L["hhhoh yeah"]={{path="chatsounds/autoadd/filthyfrank/hhhoh yeah.ogg",length=1.242267573696145}}
 L["hhmpf"]={{path="chatsounds/autoadd/filthyfrank/hhmpf.ogg",length=1.1377777777777778}}
 L["hhoh yeah"]={{path="chatsounds/autoadd/filthyfrank/hhoh yeah.ogg",length=0.91138321995464855}}
+L["hhyyoooooonngghh"]={{path="chatsounds/autoadd/filthyfrank/hhyyoooooonngghh.ogg",length=2.2821088435374151}}
+L["hilarious and original"]={{path="chatsounds/autoadd/filthyfrank/hilarious and original.ogg",length=1.6834467120181407}}
 L["how"]={{path="chatsounds/autoadd/filthyfrank/how.ogg",length=0.81850340136054422}}
 L["i envy death"]={{path="chatsounds/autoadd/filthyfrank/i envy death.ogg",length=1.2982993197278911}}
 L["i got a joke for ya"]={{path="chatsounds/autoadd/filthyfrank/i got a joke for ya.ogg",length=1.2059863945578231}}

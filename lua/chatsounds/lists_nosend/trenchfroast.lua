@@ -46,12 +46,9 @@ L["huyuh"]={{path="chatsounds/autoadd/trenchfroast/huyuh.ogg",length=0.539863945
 L["i can see clearly now the rain is gone"]={{path="chatsounds/autoadd/trenchfroast/i can see clearly now the rain is gone.ogg",length=5.5607256235827665}}
 L["i didnt know how to do that before"]={{path="chatsounds/autoadd/trenchfroast/i didnt know how to do that before.ogg",length=1.8992290249433106}}
 L["i fucking hate you"]={{path="chatsounds/autoadd/trenchfroast/i fucking hate you.ogg",length=1.2323356009070294}}
-L["idi naan idi"]={{path="chatsounds/autoadd/trenchfroast/idi naan idi.ogg",length=0.91210884353741495}}
-L["idi nahui"]={{path="chatsounds/autoadd/trenchfroast/idi nahui.ogg",length=0.81587301587301586}}
 L["if you dont speak russki i will murder you"]={{path="chatsounds/autoadd/trenchfroast/if you dont speak russki i will murder you.ogg",length=2.2403628117913832}}
 L["intruder alert"]={{path="chatsounds/autoadd/trenchfroast/intruder alert.ogg",length=2.4002721088435375}}
 L["ipponmanzoku"]={{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 1.ogg",length=3.294920634920635},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 2.ogg",length=3.3324263038548754},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 3.ogg",length=3.2747392290249433},{path="chatsounds/autoadd/trenchfroast/ipponmanzoku/ippon manzoku song 4.ogg",length=3.2735147392290251}}
-L["jarski on tosi hyvae tyyppi"]={{path="chatsounds/autoadd/trenchfroast/jarski on tosi hyvae tyyppi.ogg",length=2.1195238095238094}}
 L["jej"]={{path="chatsounds/autoadd/trenchfroast/jej.ogg",length=0.22619047619047619}}
 L["joj"]={{path="chatsounds/autoadd/trenchfroast/joj.ogg",length=0.19113378684807256}}
 L["klaxon1"]={{path="chatsounds/autoadd/trenchfroast/klaxon1.ogg",length=0.41097505668934242}}
