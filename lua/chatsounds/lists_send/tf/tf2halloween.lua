@@ -213,7 +213,7 @@ L["hahaha"]={{path="vo/soldier_sf12_goodmagic02.mp3",length=1.4159183673469}}
 L["hahaha i am bulletproof pink pony"]={{path="vo/heavy_item_unicorn_uber01.mp3",length=6.5153741496599}}
 L["hahaha run gravity run"]={{path="vo/heavy_sf12_badmagic05.mp3",length=4.7995918367347}}
 L["hahahaha"]={{path="vo/medic_sf12_taunts03.mp3",length=1.44}}
-L["halloween"]={{path="vo/medic_sf12_taunts05.mp3",length=2.7010204081633}}
+L["i love halloween"]={{path="vo/medic_sf12_taunts05.mp3",length=2.7010204081633}}
 L["halloween mode its the devils business"]={{path="vo/halloween_merasmus/sf13_merasmus_eternaween12.mp3",length=3.33410430839}}
 L["happy halloween mode"]={{path="vo/halloween_merasmus/sf13_merasmus_eternaween02.mp3",length=2.5137188208617}}
 L["he is powering up"]={{path="vo/heavy_sf12_attack01.mp3",length=2.08179138322}}
