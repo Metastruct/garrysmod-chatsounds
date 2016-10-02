@@ -298,7 +298,7 @@ function chatsounds.ParseList(list)
 			local path = STRING(pos_field+8, len_path)
 			
 			out[name] = out[name] or {}
-			table.insert(out[name], {path = path, length = duration})
+			table.insert(out[name], {path = path, length = duration*1e-3})
 			
 			pos_field = pos_field+8+len_path
 		end
