@@ -249,6 +249,69 @@ concommand.Add("chatsounds_list_to_txt", function(_,_,args)
 	end
 end)
 
+local LIST_MAGIC   = "\xBB\x43\x53\x4E\x44\x0D\x0A\x1A"
+local LIST_VERSION = 1
+local LIST_SFTWARE = "\x76"
+
+local SOFTWARE = {
+	[0x74] = "Hex Editor",
+	[0x76] = "chatsounds-preprocessor"
+}
+
+function chatsounds.ParseList(list)
+	local out = {}
+	
+	local function BYTE (b)
+		return list:byte(b+1) or error("File is corrupt.")
+	end
+	local function STRING (pos, len)
+		return list:sub(pos+1, pos+1+len-1) or error("File is corrupt.")
+	end
+
+	for pos = 0, 7 do
+		if BYTE(pos) ~= LIST_MAGIC:byte(pos+1) then return false, "Not a chatsounds lists file." end
+	end
+
+	local file_version = BYTE(0xB)*0x1000000+BYTE(0xA)*0x10000+BYTE(9)*0x100+BYTE(8)
+	
+	if file_version ~= LIST_VERSION then return false, "Invalid chatsounds lists file version (" .. file_version .. ")." end
+	local writer = BYTE(0xC)
+	print("Reading chatsounds lists file, written by " .. (SOFTWARE[writer] or "[unknown]")
+		.. ", v" .. BYTE(0xD) .. "." .. BYTE(0xE) .. "." .. BYTE(0xF))
+	
+	local num_entries = BYTE(0x10)+BYTE(0x11)*0x100+BYTE(0x12)*0x10000+BYTE(0x13)*0x1000000
+	
+	local pos_entry = 0x14 -- pos of first entry, or later entries (this pos will be updated when reading multiple entries)
+	local pos_field = pos_entry -- pos of the next field to read (performance helper, to improve code and performance
+	
+	local num_paths, len_name, len_path
+	
+	for num_entry = 1, num_entries do
+		num_paths = BYTE(pos_entry)+BYTE(pos_entry+1)*0x100+BYTE(pos_entry+2)*0x10000+BYTE(pos_entry+3)*0x1000000
+		len_name = BYTE(pos_entry+4)+BYTE(pos_entry+5)*0x100+BYTE(pos_entry+6)*0x10000+BYTE(pos_entry+7)*0x1000000
+		
+		local name = STRING(pos_entry+8, len_name)
+		print(("Reading chatsounds entry %d of %d: "):format(num_entry, num_entries) .. name)
+		
+		pos_field = pos_entry+8+len_name
+		
+		for num_path = 1, num_paths do
+			local duration = BYTE(pos_field)+BYTE(pos_field+1)*0x100+BYTE(pos_field+2)*0x10000+BYTE(pos_field+3)*0x1000000
+			len_path = BYTE(pos_field+4)+BYTE(pos_field+5)*0x100+BYTE(pos_field+6)*0x10000+BYTE(pos_field+7)*0x1000000
+			local path = STRING(pos_field+8, len_path)
+			
+			out[name] = out[name] or {}
+			table.insert(out[name], {path = path, length = duration})
+			
+			print(("Reading path %d of %d: DURATION=%f PATH="):format(num_path, num_paths, duration*1e-6) .. path)
+			pos_field = pos_field+8+len_path
+		end
+		pos_entry = pos_field
+	end
+	
+	return out
+end
+
 function chatsounds.InitializeLists(force)
 	if not chatsounds.Enabled:GetBool() then
 		
@@ -332,8 +395,20 @@ function chatsounds.InitializeLists(force)
 			end
 		end
 		for _, set in pairs(file.Find("chatsounds/lists_nosend/*.lua", "LUA")) do
-			include("chatsounds/lists_nosend/" .. set)
-			yieldx(inco,10,"3")
+			local f = file.Open("chatsounds/lists_nosend/" .. set, "rb", "LUA")
+			if f then
+				local fdata = f:Read(f:Size())
+				f:Close()
+				if fdata then
+					local ok, err = chatsounds.ParseList(fdata)
+					if ok then
+						c.List[set] = err
+					else
+						print("Error while reading list for " .. set .. ": " .. tostring(err))
+					end
+					yieldx(inco,10,"3")
+				end
+			end
 		end
 
 	_G.c = nil
