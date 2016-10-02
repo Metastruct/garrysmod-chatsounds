@@ -276,8 +276,6 @@ function chatsounds.ParseList(list)
 	
 	if file_version ~= LIST_VERSION then return false, "Invalid chatsounds lists file version (" .. file_version .. ")." end
 	local writer = BYTE(0xC)
-	print("Reading chatsounds lists file, written by " .. (SOFTWARE[writer] or "[unknown]")
-		.. ", v" .. BYTE(0xD) .. "." .. BYTE(0xE) .. "." .. BYTE(0xF))
 	
 	local num_entries = BYTE(0x10)+BYTE(0x11)*0x100+BYTE(0x12)*0x10000+BYTE(0x13)*0x1000000
 	
@@ -291,7 +289,6 @@ function chatsounds.ParseList(list)
 		len_name = BYTE(pos_entry+4)+BYTE(pos_entry+5)*0x100+BYTE(pos_entry+6)*0x10000+BYTE(pos_entry+7)*0x1000000
 		
 		local name = STRING(pos_entry+8, len_name)
-		print(("Reading chatsounds entry %d of %d: "):format(num_entry, num_entries) .. name)
 		
 		pos_field = pos_entry+8+len_name
 		
@@ -303,7 +300,6 @@ function chatsounds.ParseList(list)
 			out[name] = out[name] or {}
 			table.insert(out[name], {path = path, length = duration})
 			
-			print(("Reading path %d of %d: DURATION=%f PATH="):format(num_path, num_paths, duration*1e-6) .. path)
 			pos_field = pos_field+8+len_path
 		end
 		pos_entry = pos_field
