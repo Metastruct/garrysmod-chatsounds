@@ -57,6 +57,7 @@ L["thats the sound of a shotgun"]={{path="chatsounds/autoadd/randomshit/thats th
 L["the true mlgness comes after the 69th cigarette"]={{path="chatsounds/autoadd/randomshit/the true mlgness comes after the 69th cigarette.ogg",length=3.4713832199546486}}
 L["they have twelve penises"]={{path="chatsounds/autoadd/randomshit/they have twelve penises.ogg",length=2.7885034013605443}}
 L["this is ban roulette i love it"]={{path="chatsounds/autoadd/randomshit/this is ban roulette i love it.ogg",length=1.9858276643990929}}
+L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.9225170068027211}}
 L["traif"]={{path="chatsounds/autoadd/randomshit/traif.ogg",length=0.50077097505668933}}
 L["until you are at full health"]={{path="chatsounds/autoadd/randomshit/until you are at full health.ogg",length=1.5761451247165532}}
 L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg",length=2.1826757369614511}}
