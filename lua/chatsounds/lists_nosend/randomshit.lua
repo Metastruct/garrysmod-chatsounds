@@ -46,6 +46,7 @@ L["objection"]={{path="chatsounds/autoadd/randomshit/objection.ogg",length=1.321
 L["oh my god you fucking kids"]={{path="chatsounds/autoadd/randomshit/oh my god you fucking kids.ogg",length=3.5305442176870749}}
 L["or the kit is shit"]={{path="chatsounds/autoadd/randomshit/or the kit is shit.ogg",length=1.4453514739229025}}
 L["own da bitch"]={{path="chatsounds/autoadd/randomshit/own da bitch.ogg",length=4.8065306122448979}}
+L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/randomshit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869002267573697}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.4867120181405902}}
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.1512244897959185}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.1450113378684805}}
@@ -61,6 +62,7 @@ L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.9
 L["traif"]={{path="chatsounds/autoadd/randomshit/traif.ogg",length=0.50077097505668933}}
 L["until you are at full health"]={{path="chatsounds/autoadd/randomshit/until you are at full health.ogg",length=1.5761451247165532}}
 L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg",length=2.1826757369614511}}
+L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585283446712019}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.731746031746031}}
 L["why are you not in a cage you fuckin animal"]={{path="chatsounds/autoadd/randomshit/why are you not in a cage you fuckin animal.ogg",length=2.7885034013605443}}
 L["woody the woodpecker"]={{path="chatsounds/autoadd/randomshit/woody the woodpecker.ogg",length=3.5744897959183675}}
