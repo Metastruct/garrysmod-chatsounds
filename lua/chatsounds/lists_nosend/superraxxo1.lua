@@ -5,9 +5,9 @@ L["explosive aaaaaaaa"]={{path="chatsounds/autoadd/superraxxo1/explosive aaaaaaa
 L["gotcha faggot"]={{path="chatsounds/autoadd/superraxxo1/gotcha faggot.ogg",length=1.0733786848072562}}
 L["haaaaaaaayyyyaaaaaaaah"]={{path="chatsounds/autoadd/superraxxo1/haaaaaaaayyyyaaaaaaaah.ogg",length=2.7290249433106575}}
 L["heavy is 20"]={{path="chatsounds/autoadd/superraxxo1/heavy is 20.ogg",length=2.198140589569161}}
-L["hes actualy retarded"]={{path="chatsounds/autoadd/superraxxo1/hes actualy retarded.ogg",length=1.7699319727891156}}
 L["hmm shit"]={{path="chatsounds/autoadd/superraxxo1/hmm shit.ogg",length=1.2464852607709751}}
 L["hoooooooot"]={{path="chatsounds/autoadd/superraxxo1/hoooooooot.ogg",length=1.1509297052154195}}
+L["is he actualy retarded"]={{path="chatsounds/autoadd/superraxxo1/is he actualy retarded.ogg",length=1.7699319727891156}}
 L["oooaaaah"]={{path="chatsounds/autoadd/superraxxo1/oooaaaah.ogg",length=1.5973015873015872}}
 L["oooaaaooo"]={{path="chatsounds/autoadd/superraxxo1/oooaaaooo.ogg",length=0.92321995464852613}}
 L["oooooogh"]={{path="chatsounds/autoadd/superraxxo1/oooooogh.ogg",length=0.77725623582766445}}
