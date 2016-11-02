@@ -166,7 +166,7 @@ L["aw shucks"]={{path="vo/engineer_negativevocalization02.mp3",length=1.17260766
 L["aw theres a new angel in heaven in hell"]={{path="vo/demoman_dominationheavy04.mp3",length=4.2712697982788}}
 L["aw what are you gonna cry you gonna cry now"]={{path="vo/scout_domination20.mp3",length=2.1040136814117}}
 L["aww did i get blood on your suit"]={{path="vo/sniper_dominationspy04.mp3",length=1.9813379049301}}
-L["aww too bad this wasnt a pieeating contenst"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
+L["aww too bad this wasnt a pie eating contest"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
 L["aww too violent for you cupcake"]={{path="vo/soldier_dominationsniper12.mp3",length=2.7121315002441}}
 L["aww you almost healde me to death that time"]={{path="vo/spy_dominationmedic03.mp3",length=4.0106801986694}}
 L["awwww"]={{path="vo/spy_rpslose01.mp3",length=1.2016326530612}}
@@ -477,7 +477,6 @@ L["downtown"]={{path="vo/scout_stunballhit05.mp3",length=1.0760090351105}}
 L["drink it in pal thats how failure tastes"]={{path="vo/scout_domination08.mp3",length=2.5546712875366}}
 L["drop dead and give me twenty"]={{path="vo/scout_dominationsol03.mp3",length=1.3813378810883}}
 L["drunk on the battlefield aint no way to be son"]={{path="vo/engineer_dominationdemoman02.mp3",length=3.0898640155792}}
-L["dude were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.155192732811}}
 L["dude you get a closed casket at the ugly cemetary"]={{path="vo/scout_misc08.mp3",length=2.5040135383606}}
 L["dumbass"]={{path="vo/scout_beingshotinvincible33.mp3",length=0.62267571687698}}
 L["dumber than dirt aint ya"]={{path="vo/engineer_dominationheavy10.mp3",length=1.7816326618195}}
@@ -745,9 +744,9 @@ L["gun sounds laughter"]={{path="vo/heavy_specialcompleted07.mp3",length=6.07201
 L["gutless"]={{path="vo/engineer_specialcompleted03.mp3",length=0.67628115415573}}
 L["guts and glory lads"]={{path="vo/demoman_autocappedcontrolpoint02.mp3",length=2.368435382843}}
 L["guys move up move up"]={{path="vo/pyro_moveup01.mp3",length=1.3626757860184}}
+L["ha"]={{path="vo/medic_positivevocalization03.mp3",length=0.4818140566349}}
 L["ha ha"]={{path="vo/demoman_mvm_resurrect07.mp3",length=1.0971428571429}}
 L["ha you fight like a girl"]={{path="vo/soldier_dominationpyro07.mp3",length=1.9188661575317}}
-L["ha3"]={{path="vo/medic_positivevocalization03.mp3",length=0.4818140566349}}
 L["hah"]={{path="vo/engineer_gunslingertriplepunchfinal02.mp3",length=1.351836681366}}
 L["hah im coming for you wizard"]={{path="vo/soldier_sf12_goodmagic04.mp3",length=2.4032653061224}}
 L["haha im back"]={{path="vo/demoman_mvm_resurrect10.mp3",length=1.3844897959184}}
@@ -1248,7 +1247,7 @@ L["laughhappy"]={{path="vo/pyro_laughhappy01.mp3",length=2.429387755102}}
 L["laughing death to robots"]={{path="vo/medic_mvm_wave_end03.mp3",length=3.4481632653061}}
 L["laughing heavy is back babies"]={{path="vo/heavy_mvm_resurrect02.mp3",length=5.9820408163265}}
 L["laughing i am a god"]={{path="vo/medic_mvm_get_upgrade03.mp3",length=2.4555102040816}}
-L["laughing im im sorry im sorry im im not laughing at you its just youre youre weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
+L["laughing im im sorry im sorry im im not laughing at you its just your your weapon"]={{path="vo/medic_weapon_taunts03.mp3",length=9.3518367346939}}
 L["laughing its just you and me robots"]={{path="vo/medic_mvm_stand_alone01.mp3",length=4.2579591836735}}
 L["laughing its like christmas morning"]={{path="vo/sniper_specialweapon08.mp3",length=3.3436734693878}}
 L["laughing someones about to have a very bad day"]={{path="vo/sniper_specialweapon04.mp3",length=4.5714285714286}}
@@ -1829,7 +1828,7 @@ L["scoutyeah"]={{path="vo/scout_mvm_loot_common01.mp3",length=0.574693877551},{p
 L["screamin eagles"]={{path="vo/soldier_specialcompleted04.mp3",length=1.7356916666031}}
 L["screams"]={{path="vo/spy_paincrticialdeath01.mp3",length=2.2581405639648}}
 L["screams in pain"]={{path="vo/spy_painsevere02.mp3",length=0.51591837406158}}
-L["screech archimedes wants brains"]={{path="vo/medic_item_zombiebird_round_start04.mp3",length=5.6163265306122}}
+L["screech archimedes wants brains thank you archimedes"]={{path="vo/medic_item_zombiebird_round_start04.mp3",length=5.6163265306122}}
 L["screech archimedes wants brains yes archimedes wants all the brains doesnt he"]={{path="vo/medic_item_zombiebird_round_start06.mp3",length=7.1314285714286}}
 L["screech brains screech shush archimedes"]={{path="vo/medic_item_zombiebird_round_start05.mp3",length=4.2318367346939}}
 L["screech dead by dawn shh silence"]={{path="vo/medic_item_zombiebird_round_start03.mp3",length=3.8661224489796}}
@@ -2552,7 +2551,7 @@ L["welcome lambs to the slaughter"]={{path="vo/mvm_mann_up_mode01.mp3",length=4.
 L["welcome to mann up mode"]={{path="vo/mvm_mann_up_mode11.mp3",length=3.970612244898}}
 L["welcome to the dominationing"]={{path="vo/demoman_dominationdemoman04.mp3",length=3.1176416873932}}
 L["welcome to the united states of you just got dominated"]={{path="vo/soldier_dominationmedic05.mp3",length=3.6567800045013}}
-L["welcome to the we lose once again team"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
+L["welcome to the we lose once again fest"]={{path="vo/medic_jeers08.mp3",length=3.285623550415}}
 L["well alright"]={{path="vo/demoman_positivevocalization02.mp3",length=1.8982312679291}}
 L["well done"]={{path="vo/medic_cheers02.mp3",length=0.94621312618256},{path="vo/announcer_am_killstreak02.mp3",length=2.7167346938776}}
 L["well done us"]={{path="vo/spy_autocappedcontrolpoint01.mp3",length=1.0448979139328}}
@@ -2743,6 +2742,7 @@ L["yo if ya didnt want me to kill ya you shoulda said somethin"]={{path="vo/scou
 L["yo im not even wearin a helmet"]={{path="vo/scout_dominationsol01.mp3",length=1.2720181941986}}
 L["yo incoming"]={{path="vo/scout_incoming02.mp3",length=0.99265307188034}}
 L["yo it should be goin that way"]={{path="vo/scout_cartgoingbackdefense06.mp3",length=1.18934237957}}
+L["yo were on fire"]={{path="vo/scout_positivevocalization03.mp3",length=1.155192732811}}
 L["yoick"]={{path="vo/scout_invinciblechgunderfire01.mp3",length=0.574693877551}}
 L["yoink"]={{path="vo/scout_invinciblechgunderfire03.mp3",length=0.37068027257919}}
 L["you and me"]={{path="vo/scout_meleedare04.mp3",length=0.72401362657547}}
