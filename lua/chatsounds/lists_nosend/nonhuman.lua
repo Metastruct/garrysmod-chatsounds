@@ -24,18 +24,7 @@ L["thats right get noscoped get noscoped"]={{path="chatsounds/autoadd/nonhuman/t
 L["thats right seven hundred freaking points"]={{path="chatsounds/autoadd/nonhuman/thats right seven hundred freaking points.ogg",length=3.6914058956916098}}
 L["theyre coming"]={{path="chatsounds/autoadd/nonhuman/theyre coming.ogg",length=0.67918367346938779}}
 L["trapguncock"]={{path="chatsounds/autoadd/nonhuman/trapguncock.ogg",length=0.72183673469387755}}
-L["trickshot1"]={{path="chatsounds/autoadd/nonhuman/trickshot1.ogg",length=4}}
-L["trickshot10"]={{path="chatsounds/autoadd/nonhuman/trickshot10.ogg",length=8.2674376417233564}}
-L["trickshot11"]={{path="chatsounds/autoadd/nonhuman/trickshot11.ogg",length=6.7404081632653066}}
-L["trickshot12"]={{path="chatsounds/autoadd/nonhuman/trickshot12.ogg",length=15.165918367346938}}
-L["trickshot2"]={{path="chatsounds/autoadd/nonhuman/trickshot2.ogg",length=3.5479138321995465}}
-L["trickshot3"]={{path="chatsounds/autoadd/nonhuman/trickshot3.ogg",length=3.8138775510204082}}
-L["trickshot4"]={{path="chatsounds/autoadd/nonhuman/trickshot4.ogg",length=1.1143990929705216}}
-L["trickshot5"]={{path="chatsounds/autoadd/nonhuman/trickshot5.ogg",length=0.77818594104308392}}
-L["trickshot6"]={{path="chatsounds/autoadd/nonhuman/trickshot6.ogg",length=1.1143990929705216}}
-L["trickshot7"]={{path="chatsounds/autoadd/nonhuman/trickshot7.ogg",length=13.344195011337868}}
-L["trickshot8"]={{path="chatsounds/autoadd/nonhuman/trickshot8.ogg",length=16.491836734693877}}
-L["trickshot9"]={{path="chatsounds/autoadd/nonhuman/trickshot9.ogg",length=12}}
+L["trickshot"]={{path="chatsounds/autoadd/nonhuman/trickshot/trickshot1.ogg",length=4},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot10.ogg",length=8.2674376417233564},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot11.ogg",length=6.7404081632653066},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot12.ogg",length=15.165918367346938},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot2.ogg",length=3.5479138321995465},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot3.ogg",length=3.8138775510204082},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot4.ogg",length=1.1143990929705216},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot5.ogg",length=0.77818594104308392},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot6.ogg",length=1.1143990929705216},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot7.ogg",length=13.344195011337868},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot8.ogg",length=16.491836734693877},{path="chatsounds/autoadd/nonhuman/trickshot/trickshot9.ogg",length=12}}
 L["unfortunately the giant also loves barrys red cola"]={{path="chatsounds/autoadd/nonhuman/unfortunately the giant also loves barrys red cola.ogg",length=3.2006122448979593}}
 L["what would you like to do"]={{path="chatsounds/autoadd/nonhuman/what would you like to do.ogg",length=1.3058956916099773}}
 L["wombocombo"]={{path="chatsounds/autoadd/nonhuman/wombocombo.ogg",length=18}}

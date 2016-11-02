@@ -19,7 +19,7 @@ L["at your pleasure doctor"]={{path="vo/spy_activatecharge02.mp3",length=1.10585
 L["augh"]={{path="vo/spy_negativevocalization01.mp3",length=1.2393651008606}}
 L["augh merde"]={{path="vo/spy_jeers06.mp3",length=1.6253968477249}}
 L["augh the cart has stopped"]={{path="vo/spy_cartstoppedoffense02.mp3",length=2.7951020408163}}
-L["aww too bad this wasnt a pieeating contenst"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
+L["aww too bad this wasnt a pie eating contest"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469829559}}
 L["aww you almost healde me to death that time"]={{path="vo/spy_dominationmedic03.mp3",length=4.0106801986694}}
 L["awwwhhhh"]={{path="vo/spy_negativevocalization09.mp3",length=0.72562358276644}}
 L["awwww"]={{path="vo/spy_rpslose01.mp3",length=1.2016326530612}}

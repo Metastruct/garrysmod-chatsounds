@@ -221,7 +221,6 @@ L["twentyone"]={{path="chatsounds/autoadd/verbalsilence/twentyone.ogg",length=0.
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.9682993197278911}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/verbalsilence/vaporwave loop.ogg",length=21.865555555555556}}
 L["vat did you cool me"]={{path="chatsounds/autoadd/verbalsilence/vat did you cool me.ogg",length=1.5342630385487528}}
-L["verbal"]={{path="chatsounds/autoadd/verbalsilence/verbal.ogg",length=0.80759637188208622}}
 L["watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/watch your profanity.ogg",length=1.3598639455782313}}
 L["welaaaax"]={{path="chatsounds/autoadd/verbalsilence/welaaaax.ogg",length=1.8667573696145126}}
 L["welaax"]={{path="chatsounds/autoadd/verbalsilence/welaax.ogg",length=1.3658503401360544}}

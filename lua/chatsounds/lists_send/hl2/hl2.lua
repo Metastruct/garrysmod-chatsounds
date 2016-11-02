@@ -538,7 +538,6 @@ L["engine stop"]={{path="vehicles/v8/v8_stop1.wav",length=0.9549659863946}}
 L["enough of your bullshit"]={{path="vo/novaprospekt/al_enoughbs01.wav",length=2.3707256317139}}
 L["enough of your mumbo jumbo"]={{path="vo/npc/male01/vanswer01.wav",length=1.9092743396759},{path="vo/npc/female01/vanswer01.wav",length=1.6526077097506}}
 L["even if you offered your surrender now i cannot guarantee that our benefactors would accept it"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979593276978}}
-L["even if you offered your surrunder now"]={{path="vo/breencast/br_tofreeman07.wav",length=4.7979593276978}}
 L["everythings going to be okay"]={{path="vo/trainyard/husb_okay.wav",length=1.6544444561005}}
 L["excellent"]={{path="vo/k_lab/kl_excellent.wav",length=0.84414964914322},{path="vo/eli_lab/al_excellent01.wav",length=0.74814057350159}}
 L["excellent initializing in three two one"]={{path="combined/k_lab/k_lab_kl_excellent_cc.wav",length=5.1470293998718}}

@@ -1,5 +1,4 @@
 c.StartList("madness")
-L["90s music"]={{path="chatsounds/autoadd/madness/90s music.ogg",length=19.148752834467121}}
 L["ahroy"]={{path="chatsounds/autoadd/madness/ahroy.ogg",length=1.0753061224489795}}
 L["alien hum"]={{path="chatsounds/autoadd/madness/alien hum.ogg",length=10.997551020408164}}
 L["alien screaming"]={{path="chatsounds/autoadd/madness/alien screaming.ogg",length=1.0212471655328799}}

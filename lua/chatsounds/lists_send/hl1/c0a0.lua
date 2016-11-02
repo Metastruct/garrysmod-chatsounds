@@ -1,6 +1,6 @@
 c.StartList("c0a0")
 L["a reminder that the black mesa"]={{path="tride/c0a0_tr_tourn.wav",length=24.54485260771}}
-L["asdf"]={{path="tride/c0a0_tr_arrive.wav",length=5.4860770975057}}
+L["now arriving at sector c test labs and control facilities"]={{path="tride/c0a0_tr_arrive.wav",length=5.4860770975057}}
 L["day of defeat powns me"]={{path="tride/c0a0_tr_time.wav",length=21.03873015873}}
 L["do you have a friend or relative who"]={{path="tride/c0a0_tr_jobs.wav",length=37.031972789116}}
 L["due to the high toxicity of material routinely handled by"]={{path="tride/c0a0_tr_noeat.wav",length=12.05514739229}}

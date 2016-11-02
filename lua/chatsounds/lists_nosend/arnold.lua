@@ -8,6 +8,7 @@ L["asshole on t v"]={{path="chatsounds/autoadd/arnold/asshole on t v.ogg",length
 L["battle cry"]={{path="chatsounds/autoadd/arnold/battle cry.ogg",length=10.524172335600907}}
 L["because you told me to"]={{path="chatsounds/autoadd/arnold/because you told me to.ogg",length=1.1626303854875284}}
 L["better be miles away"]={{path="chatsounds/autoadd/arnold/better be miles away.ogg",length=2.4863038548752834}}
+L["but i hope you leave enough room for my fist because im going to ram it into your stomach"]={{path="chatsounds/autoadd/arnold/but i hope you leave enough room for my fist because im going to ram it into your stomach.ogg",length=4.2902494331065757}}
 L["but this is mine"]={{path="chatsounds/autoadd/arnold/but this is mine.ogg",length=2.286077097505669}}
 L["c s m101"]={{path="chatsounds/autoadd/arnold/c s m101.ogg",length=2.3433560090702947}}
 L["can strangle you"]={{path="chatsounds/autoadd/arnold/can strangle you.ogg",length=3.9947392290249435}}
@@ -44,6 +45,8 @@ L["had enough"]={{path="chatsounds/autoadd/arnold/had enough.ogg",length=0.73219
 L["half assed mountain boys"]={{path="chatsounds/autoadd/arnold/half assed mountain boys.ogg",length=2.7810884353741496}}
 L["hasta la vista baby"]={{path="chatsounds/autoadd/arnold/hasta la vista baby/1.ogg",length=2.6086621315192744},{path="chatsounds/autoadd/arnold/hasta la vista baby/2.ogg",length=1.1979365079365079}}
 L["he was a good soldier"]={{path="chatsounds/autoadd/arnold/he was a good soldier.ogg",length=1.4318820861678005}}
+L["hello cutie pie"]={{path="chatsounds/autoadd/arnold/hello cutie pie.ogg",length=1.5675283446712018}}
+L["hey im a police officer"]={{path="chatsounds/autoadd/arnold/hey im a police officer.ogg",length=1.6025396825396825}}
 L["hit me that hard"]={{path="chatsounds/autoadd/arnold/hit me that hard.ogg",length=1.6146938775510205}}
 L["howdy stranger"]={{path="chatsounds/autoadd/arnold/howdy stranger.ogg",length=1.1480725623582766}}
 L["human anatomy"]={{path="chatsounds/autoadd/arnold/human anatomy.ogg",length=2.080408163265306}}
@@ -117,7 +120,7 @@ L["writhing in pain"]={{path="chatsounds/autoadd/arnold/writhing in pain.ogg",le
 L["wrong boom"]={{path="chatsounds/autoadd/arnold/wrong boom.ogg",length=2.2913378684807255}}
 L["yes01"]={{path="chatsounds/autoadd/arnold/yes01.ogg",length=0.4239909297052154}}
 L["you hear the crunch"]={{path="chatsounds/autoadd/arnold/you hear the crunch.ogg",length=1.6899319727891156}}
-L["you s o b"]={{path="chatsounds/autoadd/arnold/you s o b.ogg",length=2.1294331065759637}}
+L["you son of a bitch"]={{path="chatsounds/autoadd/arnold/you son of a bitch.ogg",length=2.1294331065759637}}
 L["your clothes"]={{path="chatsounds/autoadd/arnold/your clothes.ogg",length=3.7019047619047618}}
 L["your shooting sucks"]={{path="chatsounds/autoadd/arnold/your shooting sucks.ogg",length=1.9958276643990929}}
 L["youre luggage"]={{path="chatsounds/autoadd/arnold/youre luggage.ogg",length=1.0784580498866214}}
