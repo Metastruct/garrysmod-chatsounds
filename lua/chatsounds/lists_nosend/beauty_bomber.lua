@@ -12,6 +12,7 @@ L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26}}
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.2948526077097506}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.30725623582766443}}
+L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.02}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.3748299319727892}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/beauty_bomber/ill do this with my hands blargharghargh.ogg",length=4.6404308390022679}}
 L["its an inanimate fucking object"]={{path="chatsounds/autoadd/beauty_bomber/its an inanimate fucking object.ogg",length=2.0823129251700681}}
