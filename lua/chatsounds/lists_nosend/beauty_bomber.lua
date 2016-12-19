@@ -18,6 +18,7 @@ L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/beauty_
 L["its an inanimate fucking object"]={{path="chatsounds/autoadd/beauty_bomber/its an inanimate fucking object.ogg",length=2.0823129251700681}}
 L["its leviosaaaa"]={{path="chatsounds/autoadd/beauty_bomber/its leviosaaaa.ogg",length=2.1000000000000001}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/beauty_bomber/jeannecontinueno.ogg",length=4.8476190476190473}}
+L["jtwhipcrack"]={{path="chatsounds/autoadd/beauty_bomber/jtwhipcrack.ogg",length=0.53564625850340131}}
 L["kaching"]={{path="chatsounds/autoadd/beauty_bomber/kaching.ogg",length=1.5866893424036281}}
 L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",length=2.3250113378684807}}
 L["like maybe five or six right now my dude"]={{path="chatsounds/autoadd/beauty_bomber/like maybe five or six right now my dude.ogg",length=2.4985941043083901}}
