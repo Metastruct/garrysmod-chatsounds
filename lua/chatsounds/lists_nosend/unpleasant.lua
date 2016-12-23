@@ -1,5 +1,6 @@
 c.StartList("unpleasant")
 L["aaaaa aa blyad"]={{path="chatsounds/autoadd/unpleasant/aaaaa aa blyad.ogg",length=1.4512471655328798}}
+L["aaayaaaah"]={{path="chatsounds/autoadd/unpleasant/aaayaaaah.ogg",length=2.5539909297052152}}
 L["aeeee"]={{path="chatsounds/autoadd/unpleasant/aeeee.ogg",length=0.93170068027210884}}
 L["aero chord scream"]={{path="chatsounds/autoadd/unpleasant/aero chord scream.ogg",length=7.2992970521541949}}
 L["aiiiiiiaeea"]={{path="chatsounds/autoadd/unpleasant/aiiiiiiaeea.ogg",length=1.5553287981859409}}
@@ -8,6 +9,7 @@ L["aiiiiiiiiiieah"]={{path="chatsounds/autoadd/unpleasant/aiiiiiiiiiieah.ogg",le
 L["baa"]={{path="chatsounds/autoadd/unpleasant/baa.ogg",length=0.91428571428571426}}
 L["blyad"]={{path="chatsounds/autoadd/unpleasant/blyad.ogg",length=0.62693877551020405}}
 L["caaack"]={{path="chatsounds/autoadd/unpleasant/caaack.ogg",length=0.73142857142857143}}
+L["cyka"]={{path="chatsounds/autoadd/unpleasant/cyka.ogg",length=0.49526077097505666}}
 L["cyyka"]={{path="chatsounds/autoadd/unpleasant/cyyka.ogg",length=1.0565079365079366}}
 L["deathpainscreams"]={{path="chatsounds/autoadd/unpleasant/deathpainscreams.ogg",length=4.3176870748299319}}
 L["decap attack theme really loud"]={{path="chatsounds/autoadd/unpleasant/decap attack theme really loud.ogg",length=3.21}}
