@@ -41,6 +41,7 @@ L["kirby invincibility"]={{path="chatsounds/autoadd/tenrys/kirby invincibility.o
 L["kup teraz"]={{path="chatsounds/autoadd/tenrys/kup teraz/1.ogg",length=1.1256689342403627},{path="chatsounds/autoadd/tenrys/kup teraz/2.ogg",length=0.97736961451247162}}
 L["look at you"]={{path="chatsounds/autoadd/tenrys/look at you.ogg",length=0.96038548752834463}}
 L["meow robotic"]={{path="chatsounds/autoadd/tenrys/meow robotic.ogg",length=0.75097505668934239}}
+L["mission failed well get em next time"]={{path="chatsounds/autoadd/tenrys/mission failed well get em next time/1.ogg",length=3.0194104308390024},{path="chatsounds/autoadd/tenrys/mission failed well get em next time/2.ogg",length=1.8246938775510204}}
 L["my roflcopter goes"]={{path="chatsounds/autoadd/tenrys/my roflcopter goes.ogg",length=1.5407482993197279}}
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/tenrys/nice legs daisy dukes makes a man go.ogg",length=2.6178231292517005}}
 L["ninja combo"]={{path="chatsounds/autoadd/tenrys/ninja combo/swoosh 1.ogg",length=1.0710204081632653},{path="chatsounds/autoadd/tenrys/ninja combo/swoosh 2.ogg",length=0.70530612244897961}}
