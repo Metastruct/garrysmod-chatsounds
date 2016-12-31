@@ -23,6 +23,7 @@ L["pplease"]={{path="chatsounds/autoadd/lemmiesmash/pplease.ogg",length=0.850907
 L["ron im leaving"]={{path="chatsounds/autoadd/lemmiesmash/ron im leaving.ogg",length=1.6173696145124716}}
 L["ron your tail is small"]={{path="chatsounds/autoadd/lemmiesmash/ron your tail is small.ogg",length=1.9161678004535148}}
 L["she doesnt want yellow"]={{path="chatsounds/autoadd/lemmiesmash/she doesnt want yellow.ogg",length=1.7082993197278911}}
+L["smash"]={{path="chatsounds/autoadd/lemmiesmash/smash.ogg",length=0.78405895691609973}}
 L["swiggity swooty"]={{path="chatsounds/autoadd/lemmiesmash/swiggity swooty.ogg",length=1.5589115646258502}}
 L["this is a nice stick"]={{path="chatsounds/autoadd/lemmiesmash/this is a nice stick.ogg",length=2.6436507936507936}}
 L["what has my life come to"]={{path="chatsounds/autoadd/lemmiesmash/what has my life come to.ogg",length=1.6271201814058958}}
