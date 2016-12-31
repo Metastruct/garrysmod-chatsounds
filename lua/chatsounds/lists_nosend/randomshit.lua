@@ -12,6 +12,8 @@ L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.o
 L["cloakerscream"]={{path="chatsounds/autoadd/randomshit/cloakerscream.ogg",length=5.064965986394558}}
 L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my crawl.ogg",length=20.637414965986395}}
 L["darthvaderbreath"]={{path="chatsounds/autoadd/randomshit/darthvaderbreath.ogg",length=29.989637188208615}}
+L["dejavu"]={{path="chatsounds/autoadd/randomshit/dejavu.ogg",length=264.15020408163264}}
+L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.3744444444444444}}
 L["dont listen to the old fucker"]={{path="chatsounds/autoadd/randomshit/dont listen to the old fucker.ogg",length=1.74281179138322}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.5958956916099769}}
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465215419501134}}
@@ -22,6 +24,7 @@ L["fuck you"]={{path="chatsounds/autoadd/randomshit/fuck you.ogg",length=0.89904
 L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa.ogg",length=1.8741269841269841}}
 L["fucking comic sans"]={{path="chatsounds/autoadd/randomshit/fucking comic sans.ogg",length=6.9757823129251699}}
 L["fucking scrub lord"]={{path="chatsounds/autoadd/randomshit/fucking scrub lord.ogg",length=4.0751020408163265}}
+L["gasgasgas"]={{path="chatsounds/autoadd/randomshit/gasgasgas.ogg",length=271.80408163265304}}
 L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power rangers.ogg",length=65.979818594104302}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.8404308390022672}}
 L["hey faggot come here"]={{path="chatsounds/autoadd/randomshit/hey faggot come here.ogg",length=2.0435827664399091}}
@@ -42,6 +45,8 @@ L["meemkit"]={{path="chatsounds/autoadd/randomshit/meemkit/meemkit1.ogg",length=
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/randomshit/mom youre an idiot kappa.ogg",length=2.2340589569160998}}
 L["musicbox"]={{path="chatsounds/autoadd/randomshit/musicbox.ogg",length=23.800453514739228}}
 L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.7446712018140589}}
+L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=300.19918367346941}}
+L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.0458730158730161}}
 L["objection"]={{path="chatsounds/autoadd/randomshit/objection.ogg",length=1.3219954648526078}}
 L["oh my god you fucking kids"]={{path="chatsounds/autoadd/randomshit/oh my god you fucking kids.ogg",length=3.5305442176870749}}
 L["or the kit is shit"]={{path="chatsounds/autoadd/randomshit/or the kit is shit.ogg",length=1.4453514739229025}}
