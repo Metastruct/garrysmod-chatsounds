@@ -770,7 +770,7 @@ L["weve done better"]={{path="player/survivor/voice/namvet/transitionclose02.wav
 L["weve got to stay together"]={{path="player/survivor/voice/namvet/staytogether11.wav",length=2.4393424987793}}
 L["what"]={{path="player/survivor/voice/namvet/genericresponses02.wav",length=0.72761905193329}}
 L["what a crock a shit"]={{path="player/survivor/voice/namvet/swears19.wav",length=1.8011791706085}}
-L["what did you do you just do"]={{path="player/survivor/voice/namvet/teamkillaccident03.wav",length=1.258730173111}}
+L["what did you just do"]={{path="player/survivor/voice/namvet/teamkillaccident03.wav",length=1.258730173111}}
 L["what the hell are you doin francis"]={{path="player/survivor/voice/namvet/namvet_friendlyfirefrancis02.wav",length=2.5386395454407}}
 L["what the hell was that"]={{path="player/survivor/voice/namvet/uncertain01.wav",length=1.7082085609436}}
 L["what was that"]={{path="player/survivor/voice/namvet/uncertain02.wav",length=1.0453515052795}}
