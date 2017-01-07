@@ -4,8 +4,8 @@ L["an ass i wouldnt mind fucking"]={{path="chatsounds/autoadd/gachimuchi/an ass 
 L["another victim"]={{path="chatsounds/autoadd/gachimuchi/another victim.ogg",length=0.75755102040816324}}
 L["ass we can"]={{path="chatsounds/autoadd/gachimuchi/ass we can.ogg",length=1.2009297052154195}}
 L["at least it smells like it"]={{path="chatsounds/autoadd/gachimuchi/at least it smells like it.ogg",length=3.0513151927437643}}
-L["atteeention"]={{path="chatsounds/autoadd/gachimuchi/atteeention.ogg",length=1.216530612244898}}
-L["beat me"]={{path="chatsounds/autoadd/gachimuchi/beat me.ogg",length=5.980952380952381}}
+L["atteeen tion"]={{path="chatsounds/autoadd/gachimuchi/atteeen tion.ogg",length=1.216530612244898}}
+L["beat me 1 2 3"]={{path="chatsounds/autoadd/gachimuchi/beat me 1 2 3.ogg",length=5.980952380952381}}
 L["bet your ass"]={{path="chatsounds/autoadd/gachimuchi/bet your ass.ogg",length=7.5120634920634917}}
 L["big surprise"]={{path="chatsounds/autoadd/gachimuchi/big surprise.ogg",length=4.9584126984126984}}
 L["boss of this gym"]={{path="chatsounds/autoadd/gachimuchi/boss of this gym.ogg",length=2.0612244897959182}}
@@ -16,7 +16,7 @@ L["deep dark fantasies"]={{path="chatsounds/autoadd/gachimuchi/deep dark fantasi
 L["do you like watching me"]={{path="chatsounds/autoadd/gachimuchi/do you like watching me.ogg",length=4.499342403628118}}
 L["do you like what you see"]={{path="chatsounds/autoadd/gachimuchi/do you like what you see.ogg",length=1.6173469387755102}}
 L["dungeon master"]={{path="chatsounds/autoadd/gachimuchi/dungeon master.ogg",length=1.0360317460317461}}
-L["fisting is"]={{path="chatsounds/autoadd/gachimuchi/fisting is.ogg",length=2.9009297052154195}}
+L["fisting is 300"]={{path="chatsounds/autoadd/gachimuchi/fisting is 300.ogg",length=2.9009297052154195}}
 L["fuck you"]={{path="chatsounds/autoadd/gachimuchi/fuck you.ogg",length=1.236734693877551}}
 L["fuck you leather man"]={{path="chatsounds/autoadd/gachimuchi/fuck you leather man.ogg",length=1.8035827664399093}}
 L["fucking cumming"]={{path="chatsounds/autoadd/gachimuchi/fucking cumming.ogg",length=1.9407936507936507}}
@@ -46,7 +46,10 @@ L["oh oh aaah ah"]={{path="chatsounds/autoadd/gachimuchi/oh oh aaah ah.ogg",leng
 L["on the house"]={{path="chatsounds/autoadd/gachimuchi/on the house.ogg",length=0.63884353741496602}}
 L["one more round"]={{path="chatsounds/autoadd/gachimuchi/one more round.ogg",length=7.0335827664399089}}
 L["our daddy told us"]={{path="chatsounds/autoadd/gachimuchi/our daddy told us.ogg",length=2.322517006802721}}
-L["penetration"]={{path="chatsounds/autoadd/gachimuchi/penetration.ogg",length=1.0378004535147392}}
+L["penetration 1"]={{path="chatsounds/autoadd/gachimuchi/penetration 1.ogg",length=1.2264852607709751}}
+L["penetration 2"]={{path="chatsounds/autoadd/gachimuchi/penetration 2.ogg",length=2.6686167800453515}}
+L["penetration 3"]={{path="chatsounds/autoadd/gachimuchi/penetration 3.ogg",length=1.3612471655328797}}
+L["penetration 4"]={{path="chatsounds/autoadd/gachimuchi/penetration 4.ogg",length=1.0378004535147392}}
 L["performance artist"]={{path="chatsounds/autoadd/gachimuchi/performance artist.ogg",length=2.6246485260770975}}
 L["playing with fire"]={{path="chatsounds/autoadd/gachimuchi/playing with fire.ogg",length=4.8985260770975056}}
 L["pull up our pants"]={{path="chatsounds/autoadd/gachimuchi/pull up our pants.ogg",length=3.573514739229025}}
