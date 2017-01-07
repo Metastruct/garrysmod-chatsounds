@@ -1,8 +1,11 @@
 c.StartList("tenrys")
 L["2 ez"]={{path="chatsounds/autoadd/tenrys/2 ez.ogg",length=0.86358276643990928}}
+L["aaaaaaaaaa"]={{path="chatsounds/autoadd/tenrys/aaaaaaaaaa.ogg",length=3.895034013605442}}
 L["aawh"]={{path="chatsounds/autoadd/tenrys/aawh.ogg",length=0.48662131519274376}}
 L["aku aku"]={{path="chatsounds/autoadd/tenrys/aku aku.ogg",length=1.2827437641723356}}
 L["and"]={{path="chatsounds/autoadd/tenrys/and.ogg",length=0.16668934240362812}}
+L["and this"]={{path="chatsounds/autoadd/tenrys/and this.ogg",length=1.7805895691609976}}
+L["and this is to go even further beyond"]={{path="chatsounds/autoadd/tenrys/and this is to go even further beyond.ogg",length=5.8673015873015872}}
 L["atatata"]={{path="chatsounds/autoadd/tenrys/atatata.ogg",length=5.4616780045351474}}
 L["baguette"]={{path="chatsounds/autoadd/tenrys/baguette.ogg",length=0.36369614512471654}}
 L["big sister scream"]={{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis01.ogg",length=2.7220861678004535},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis02.ogg",length=2.3876643990929707},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis03.ogg",length=1.8124943310657597}}
@@ -50,17 +53,23 @@ L["no i dont want that"]={{path="chatsounds/autoadd/tenrys/no i dont want that.o
 L["no nobody can help you"]={{path="chatsounds/autoadd/tenrys/no nobody can help you.ogg",length=2.6101133786848072}}
 L["ogh"]={{path="chatsounds/autoadd/tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.1252607709750566}}
+L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623015873015873}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183673469388}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.49403628117913834},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.66158730158730161},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.44752834467120184}}
 L["thanks for watching"]={{path="chatsounds/autoadd/tenrys/thanks for watching.ogg",length=0.88900226757369616}}
+L["this is a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is a super saiyan.ogg",length=1.910408163265306}}
+L["this is known as a super saiyan that has ascended beyond a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is known as a super saiyan that has ascended beyond a super saiyan.ogg",length=5.1006349206349206}}
 L["this is susans cooking school"]={{path="chatsounds/autoadd/tenrys/this is susans cooking school.ogg",length=1.4334920634920636}}
 L["thwomp"]={{path="chatsounds/autoadd/tenrys/thwomp.ogg",length=0.76256235827664398}}
 L["toasty"]={{path="chatsounds/autoadd/tenrys/toasty.ogg",length=0.8463492063492063}}
 L["too easy"]={{path="chatsounds/autoadd/tenrys/too easy.ogg",length=0.86358276643990928}}
+L["trust me"]={{path="chatsounds/autoadd/tenrys/trust me.ogg",length=1.0510430839002267}}
 L["until double the volume"]={{path="chatsounds/autoadd/tenrys/until double the volume.ogg",length=1.4140589569160997}}
 L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome to susans cooking school.ogg",length=1.6724036281179138}}
 L["what did you say nigga"]={{path="chatsounds/autoadd/tenrys/what did you say nigga.ogg",length=1.7073242630385488}}
 L["what you say nigga"]={{path="chatsounds/autoadd/tenrys/what you say nigga.ogg",length=5.5379591836734692}}
+L["what youre seeing now is my normal state"]={{path="chatsounds/autoadd/tenrys/what youre seeing now is my normal state.ogg",length=2.6708843537414966}}
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.0636734693877552}}
+L["youre going to love this"]={{path="chatsounds/autoadd/tenrys/youre going to love this.ogg",length=1.5580272108843538}}
 c.EndList()
