@@ -6,8 +6,6 @@ L["get that mfer"]={{path="chatsounds/autoadd/gorgeousfreeman/get that mfer.ogg"
 L["have a very safe day"]={{path="chatsounds/autoadd/gorgeousfreeman/have a very safe day.ogg",length=2.8663492063492062}}
 L["i cant have you ruining it blah blah"]={{path="chatsounds/autoadd/gorgeousfreeman/i cant have you ruining it blah blah.ogg",length=3.1318820861678005}}
 L["i require dat ass immediately"]={{path="chatsounds/autoadd/gorgeousfreeman/i require dat ass immediately.ogg",length=3.9286394557823128}}
-L["i require that ass immediately"]={{path="chatsounds/autoadd/gorgeousfreeman/i require dat ass immediately.ogg",length=3.9286394557823128}}
-L["i want that ass and i want it now"]={{path="chatsounds/autoadd/gorgeousfreeman/i want dat ass and i want it now.ogg",length=5.9237414965986392}}
 L["i want dat ass and i want it now"]={{path="chatsounds/autoadd/gorgeousfreeman/i want dat ass and i want it now.ogg",length=5.9237414965986392}}
 L["i was beaten when i was a baby boy blah blah"]={{path="chatsounds/autoadd/gorgeousfreeman/i was beaten when i was a baby boy blah blah.ogg",length=3.5792743764172337}}
 L["ive struggled 20 years to become the earth leader blah blah"]={{path="chatsounds/autoadd/gorgeousfreeman/ive struggled 20 years to become the earth leader blah blah.ogg",length=5.0992517006802718}}
