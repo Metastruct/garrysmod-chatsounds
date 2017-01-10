@@ -51,11 +51,14 @@ L["ninja combo"]={{path="chatsounds/autoadd/tenrys/ninja combo/swoosh 1.ogg",len
 L["no"]={{path="chatsounds/autoadd/tenrys/no.ogg",length=0.29365079365079366}}
 L["no i dont want that"]={{path="chatsounds/autoadd/tenrys/no i dont want that.ogg",length=3.0345578231292518}}
 L["no nobody can help you"]={{path="chatsounds/autoadd/tenrys/no nobody can help you.ogg",length=2.6101133786848072}}
+L["nuke"]={{path="chatsounds/autoadd/tenrys/nuke.ogg",length=4.0784580498866214}}
+L["nuke alarm"]={{path="chatsounds/autoadd/tenrys/nuke alarm.ogg",length=11.108480725623583}}
 L["ogh"]={{path="chatsounds/autoadd/tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.1252607709750566}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623015873015873}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183673469388}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
+L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.5366666666666666}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.49403628117913834},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.66158730158730161},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.44752834467120184}}
 L["thanks for watching"]={{path="chatsounds/autoadd/tenrys/thanks for watching.ogg",length=0.88900226757369616}}
 L["this is a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is a super saiyan.ogg",length=1.910408163265306}}
