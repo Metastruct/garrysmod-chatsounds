@@ -3,6 +3,7 @@ L["better"]={{path="chatsounds/autoadd/weeb/better.ogg",length=0.516598639455782
 L["cheater"]={{path="chatsounds/autoadd/weeb/cheater.ogg",length=0.80818594104308394}}
 L["imagination"]={{path="chatsounds/autoadd/weeb/imagination.ogg",length=1.9399773242630385}}
 L["love revolution"]={{path="chatsounds/autoadd/weeb/love revolution.ogg",length=5.685736961451247}}
+L["no no no"]={{path="chatsounds/autoadd/weeb/no no no.ogg",length=3.6078684807256236}}
 L["ponponpon"]={{path="chatsounds/autoadd/weeb/ponponpon.ogg",length=3.7659183673469387}}
 L["sexy boy"]={{path="chatsounds/autoadd/weeb/sexy boy.ogg",length=1.0754195011337868}}
 L["wagamama ki no mama ai no joke"]={{path="chatsounds/autoadd/weeb/wagamama ki no mama ai no joke.ogg",length=3.0870975056689343}}
