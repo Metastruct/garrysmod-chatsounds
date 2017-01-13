@@ -69,6 +69,7 @@ L["toasty"]={{path="chatsounds/autoadd/tenrys/toasty.ogg",length=0.8463492063492
 L["too easy"]={{path="chatsounds/autoadd/tenrys/too easy.ogg",length=0.86358276643990928}}
 L["trust me"]={{path="chatsounds/autoadd/tenrys/trust me.ogg",length=1.0510430839002267}}
 L["until double the volume"]={{path="chatsounds/autoadd/tenrys/until double the volume.ogg",length=1.4140589569160997}}
+L["victory screech"]={{path="chatsounds/autoadd/tenrys/victory screech.ogg",length=9.1950340136054418}}
 L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome to susans cooking school.ogg",length=1.6724036281179138}}
 L["what did you say nigga"]={{path="chatsounds/autoadd/tenrys/what did you say nigga.ogg",length=1.7073242630385488}}
 L["what you say nigga"]={{path="chatsounds/autoadd/tenrys/what you say nigga.ogg",length=5.5379591836734692}}
