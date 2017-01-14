@@ -35,6 +35,7 @@ L["happy gay bagel making"]={{path="chatsounds/autoadd/tenrys/happy gay bagel ma
 L["heyooo"]={{path="chatsounds/autoadd/tenrys/heyooo.ogg",length=0.86052154195011343}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.9524263038548755}}
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.92179138321995469}}
+L["ill create a gui interface in visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface in visual basic see if i can track an ip address.ogg",length=5.1677097505668934}}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",length=2.0174149659863945}}
 L["in the ainis"]={{path="chatsounds/autoadd/tenrys/in the ainis.ogg",length=0.77714285714285714}}
 L["its time to make"]={{path="chatsounds/autoadd/tenrys/its time to make.ogg",length=0.80009070294784579}}
@@ -61,6 +62,7 @@ L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.192
 L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.5366666666666666}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.49403628117913834},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.66158730158730161},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.44752834467120184}}
 L["thanks for watching"]={{path="chatsounds/autoadd/tenrys/thanks for watching.ogg",length=0.88900226757369616}}
+L["the firewall is encrypted"]={{path="chatsounds/autoadd/tenrys/the firewall is encrypted.ogg",length=6.5216099773242631}}
 L["this is a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is a super saiyan.ogg",length=1.910408163265306}}
 L["this is susans cooking school"]={{path="chatsounds/autoadd/tenrys/this is susans cooking school.ogg",length=1.4334920634920636}}
 L["this is what is known as a super saiyan that has ascended beyond a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is what is known as a super saiyan that has ascended beyond a super saiyan.ogg",length=5.1006349206349206}}
