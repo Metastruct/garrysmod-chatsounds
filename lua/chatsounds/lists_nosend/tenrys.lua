@@ -35,7 +35,7 @@ L["happy gay bagel making"]={{path="chatsounds/autoadd/tenrys/happy gay bagel ma
 L["heyooo"]={{path="chatsounds/autoadd/tenrys/heyooo.ogg",length=0.86052154195011343}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.9524263038548755}}
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.92179138321995469}}
-L["ill create a gui interface in visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface in visual basic see if i can track an ip address.ogg",length=5.1677097505668934}}
+L["ill create a gui interface using visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface using visual basic see if i can track an ip address.ogg",length=5.1677097505668934}}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",length=2.0174149659863945}}
 L["in the ainis"]={{path="chatsounds/autoadd/tenrys/in the ainis.ogg",length=0.77714285714285714}}
 L["its time to make"]={{path="chatsounds/autoadd/tenrys/its time to make.ogg",length=0.80009070294784579}}
