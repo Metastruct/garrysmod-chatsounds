@@ -30,10 +30,12 @@ L["fap sounds"]={{path="chatsounds/autoadd/tenrys/fap sounds.ogg",length=4.71451
 L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.20160997732426303}}
 L["gay bagels"]={{path="chatsounds/autoadd/tenrys/gay bagels.ogg",length=0.93344671201814056}}
 L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.5557369614512471}}
+L["good god man"]={{path="chatsounds/autoadd/tenrys/good god man.ogg",length=1.0163038548752834}}
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.4845578231292516}}
 L["happy gay bagel making"]={{path="chatsounds/autoadd/tenrys/happy gay bagel making.ogg",length=1.3529251700680271}}
 L["heyooo"]={{path="chatsounds/autoadd/tenrys/heyooo.ogg",length=0.86052154195011343}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.9524263038548755}}
+L["i do not associate with niggers"]={{path="chatsounds/autoadd/tenrys/i do not associate with niggers.ogg",length=3.6659410430839001}}
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.92179138321995469}}
 L["ill create a gui interface using visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface using visual basic see if i can track an ip address.ogg",length=5.1677097505668934}}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",length=2.0174149659863945}}
@@ -59,6 +61,7 @@ L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.12526077097
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623015873015873}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183673469388}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
+L["stop"]={{path="chatsounds/autoadd/tenrys/stop.ogg",length=0.6412244897959184}}
 L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.5366666666666666}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.49403628117913834},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.66158730158730161},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.44752834467120184}}
 L["thanks for watching"]={{path="chatsounds/autoadd/tenrys/thanks for watching.ogg",length=0.88900226757369616}}
