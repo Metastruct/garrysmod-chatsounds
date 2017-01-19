@@ -122,7 +122,9 @@ hook.Add("PlayerSay", "chatsounds_PlayerSay", chatsounds.PlayerSay)
 
 function chatsounds.SaySound(ply, _, args,line)
 	if not IsValid(ply) then return end
-
+	
+	line = line and line:gsub('^"',''):gsub('"$','')
+	
 	chatsounds.Say(ply, line)
 
 	chatsounds.GenerateNewSeed()
