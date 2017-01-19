@@ -3,7 +3,7 @@ L["2011"]={{path="chatsounds/autoadd/noiwex/2011.ogg",length=1.0739229024943311}
 L["a distorted"]={{path="chatsounds/autoadd/noiwex/a distorted.ogg",length=0.21777777777777776}}
 L["adventures of gaben"]={{path="chatsounds/autoadd/noiwex/adventures of gaben.ogg",length=34.955238095238094}}
 L["ag"]={{path="chatsounds/autoadd/noiwex/ag.ogg",length=0.21777777777777776}}
-L["ah fuck you letterhead"]={{path="chatsounds/autoadd/noiwex/ah fuck you letterhead.ogg",length=2.5292290249433105}}
+L["ah fuck you leather man"]={{path="chatsounds/autoadd/noiwex/ah fuck you leather man.ogg",length=2.5292290249433105}}
 L["aha"]={{path="chatsounds/autoadd/noiwex/aha.ogg",length=1.3906349206349207}}
 L["ai"]={{path="chatsounds/autoadd/noiwex/ai.ogg",length=0.42961451247165533}}
 L["aii"]={{path="chatsounds/autoadd/noiwex/aii.ogg",length=1.0376190476190477}}

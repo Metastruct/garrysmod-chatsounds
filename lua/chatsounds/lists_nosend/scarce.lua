@@ -1,0 +1,7 @@
+c.StartList("scarce")
+L["hey whats up guys"]={{path="chatsounds/autoadd/scarce/hey whats up guys.ogg",length=0.90780045351473926}}
+L["hey whats up guys its scarce here"]={{path="chatsounds/autoadd/scarce/hey whats up guys its scarce here/hey whats up guys its scarce here1.ogg",length=1.496235827664399},{path="chatsounds/autoadd/scarce/hey whats up guys its scarce here/hey whats up guys its scarce here2.ogg",length=1.1720861678004535},{path="chatsounds/autoadd/scarce/hey whats up guys its scarce here/hey whats up guys its scarce here3.ogg",length=1.3900680272108843},{path="chatsounds/autoadd/scarce/hey whats up guys its scarce here/hey whats up guys its scarce here4.ogg",length=1.6950566893424037}}
+L["its gonna be a double upload"]={{path="chatsounds/autoadd/scarce/its gonna be a double upload/its gonna be a double upload.ogg",length=1.1914965986394557},{path="chatsounds/autoadd/scarce/its gonna be a double upload/its gonna be a double upload1.ogg",length=1.2339909297052154}}
+L["its scarce here"]={{path="chatsounds/autoadd/scarce/its scarce here.ogg",length=0.91283446712018146}}
+L["today we have alotta news"]={{path="chatsounds/autoadd/scarce/today we have alotta news.ogg",length=1.352562358276644}}
+c.EndList()

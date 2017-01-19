@@ -52,6 +52,7 @@ L["peanutbutterbabyah"]={{path="chatsounds/autoadd/camobunny/peanutbutterbabyah.
 L["pewdsgoatrap"]={{path="chatsounds/autoadd/camobunny/pewdsgoatrap.ogg",length=37.37510204081633}}
 L["pinguintro"]={{path="chatsounds/autoadd/camobunny/pinguintro.ogg",length=9.8880272108843545}}
 L["please pass the milk please"]={{path="chatsounds/autoadd/camobunny/please pass the milk please.ogg",length=7.7273015873015876}}
+L["robloxdeath"]={{path="chatsounds/autoadd/camobunny/robloxdeath.ogg",length=0.30111111111111111}}
 L["stop talking"]={{path="chatsounds/autoadd/camobunny/stop talking.ogg",length=1.262108843537415}}
 L["that thing come by my house i kill it"]={{path="chatsounds/autoadd/camobunny/that thing come by my house i kill it.ogg",length=1.7440136054421769}}
 L["thats nasty"]={{path="chatsounds/autoadd/camobunny/thats nasty.ogg",length=1.3273015873015872}}

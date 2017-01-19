@@ -5,7 +5,7 @@ L["extreme sex activated"]={{path="chatsounds/autoadd/gorgeousfreeman/extreme se
 L["get that mfer"]={{path="chatsounds/autoadd/gorgeousfreeman/get that mfer.ogg",length=1.0509750566893423}}
 L["have a very safe day"]={{path="chatsounds/autoadd/gorgeousfreeman/have a very safe day.ogg",length=2.8663492063492062}}
 L["i cant have you ruining it blah blah"]={{path="chatsounds/autoadd/gorgeousfreeman/i cant have you ruining it blah blah.ogg",length=3.1318820861678005}}
-L["i require dat ass immediatley"]={{path="chatsounds/autoadd/gorgeousfreeman/i require dat ass immediatley.ogg",length=3.9286394557823128}}
+L["i require dat ass immediately"]={{path="chatsounds/autoadd/gorgeousfreeman/i require dat ass immediately.ogg",length=3.9286394557823128}}
 L["i want dat ass and i want it now"]={{path="chatsounds/autoadd/gorgeousfreeman/i want dat ass and i want it now.ogg",length=5.9237414965986392}}
 L["i was beaten when i was a baby boy blah blah"]={{path="chatsounds/autoadd/gorgeousfreeman/i was beaten when i was a baby boy blah blah.ogg",length=3.5792743764172337}}
 L["ive struggled 20 years to become the earth leader blah blah"]={{path="chatsounds/autoadd/gorgeousfreeman/ive struggled 20 years to become the earth leader blah blah.ogg",length=5.0992517006802718}}
@@ -19,7 +19,7 @@ L["uh is that shit"]={{path="chatsounds/autoadd/gorgeousfreeman/uh is that shit.
 L["verbal pleasure interest sounds"]={{path="chatsounds/autoadd/gorgeousfreeman/verbal pleasure interest sounds.ogg",length=3.7453514739229026}}
 L["well fuck"]={{path="chatsounds/autoadd/gorgeousfreeman/well fuck.ogg",length=1.7222222222222223}}
 L["well it looks like youre completely surrounded"]={{path="chatsounds/autoadd/gorgeousfreeman/well it looks like youre completely surrounded.ogg",length=3.6528344671201816}}
-L["well well if its isnt gorgeous freeman"]={{path="chatsounds/autoadd/gorgeousfreeman/well well if its isnt gorgeous freeman.ogg",length=5.5405215419501133}}
+L["well well if it isnt gorgeous freeman"]={{path="chatsounds/autoadd/gorgeousfreeman/well well if it isnt gorgeous freeman.ogg",length=5.5405215419501133}}
 L["wilsooon"]={{path="chatsounds/autoadd/gorgeousfreeman/wilsooon.ogg",length=3.7262358276643992}}
 L["wtf"]={{path="chatsounds/autoadd/gorgeousfreeman/wtf.ogg",length=1.0175510204081633}}
 L["you escaping blah what"]={{path="chatsounds/autoadd/gorgeousfreeman/you escaping blah what.ogg",length=2.0654421768707483}}
