@@ -826,7 +826,6 @@ L["moveit"]={{path="chatsounds/autoadd/instagib/moveit.ogg",length=12.0010884353
 L["movin movin movin movin"]={{path="chatsounds/autoadd/instagib/movin movin movin movin.ogg",length=20.7518820861678}}
 L["mpse"]={{path="chatsounds/autoadd/instagib/mpse.ogg",length=1.1967346938775509}}
 L["muffins"]={{path="chatsounds/autoadd/instagib/muffins.ogg",length=5.0004535147392293}}
-L["muh"]={{path="chatsounds/autoadd/instagib/muh.ogg",length=15.667210884353741}}
 L["muha"]={{path="chatsounds/autoadd/instagib/muha.ogg",length=6.4878911564625854}}
 L["muhaha"]={{path="chatsounds/autoadd/instagib/muhaha.ogg",length=4.0825396825396822}}
 L["mulata"]={{path="chatsounds/autoadd/instagib/mulata.ogg",length=9.0958730158730159}}
