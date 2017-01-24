@@ -59,6 +59,7 @@ L["nuke"]={{path="chatsounds/autoadd/tenrys/nuke.ogg",length=4.0784580498866214}
 L["nuke alarm"]={{path="chatsounds/autoadd/tenrys/nuke alarm.ogg",length=11.108480725623583}}
 L["ogh"]={{path="chatsounds/autoadd/tenrys/ogh.ogg",length=0.47943310657596372}}
 L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.1252607709750566}}
+L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.3094784580498868}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623015873015873}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183673469388}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
