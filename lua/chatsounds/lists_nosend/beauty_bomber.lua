@@ -42,6 +42,7 @@ L["mooneternalmakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmak
 L["moonprismpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeup.ogg",length=37.649999999999999}}
 L["moonprismpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeupfx.ogg",length=40.700000000000003}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",length=36.784920634920638}}
+L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.72999999999999998}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200000000000003}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.2739229024943315}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.3609750566893424}}
@@ -52,6 +53,7 @@ L["ronald weasley"]={{path="chatsounds/autoadd/beauty_bomber/ronald weasley.ogg"
 L["shagudadigash shagudadigash"]={{path="chatsounds/autoadd/beauty_bomber/shagudadigash shagudadigash.ogg",length=1.9406575963718822}}
 L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.5571428571428572}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.96}}
+L["sphinx uh wire and negro"]={{path="chatsounds/autoadd/beauty_bomber/sphinx uh wire and negro.ogg",length=2.7000000000000002}}
 L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.1078458049886621}}
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.085850340136055}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.1699999999999999},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.15140589569161},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.1100000000000001}}
