@@ -1,6 +1,7 @@
 c.StartList("randomshit")
 L["10 10 10 10 100 100 best game best game"]={{path="chatsounds/autoadd/randomshit/10 10 10 10 100 100 best game best game.ogg",length=3.1704308390022677}}
 L["a meemkit cannot be reused"]={{path="chatsounds/autoadd/randomshit/a meemkit cannot be reused.ogg",length=2.4203174603174604}}
+L["aid"]={{path="chatsounds/autoadd/randomshit/aid.ogg",length=0.35226757369614514}}
 L["and eat shit"]={{path="chatsounds/autoadd/randomshit/and eat shit.ogg",length=0.76000000000000001}}
 L["are you kidding me"]={{path="chatsounds/autoadd/randomshit/are you kidding me.ogg",length=2.6618140589569159}}
 L["barbra streisand loop"]={{path="chatsounds/autoadd/randomshit/barbra streisand loop.ogg",length=15.238344671201814}}
@@ -19,6 +20,7 @@ L["dumblecunts gonna say a few words to you now so you all better pay some atten
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465215419501134}}
 L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.2214739229024945}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.6206575963718821}}
+L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.56786848072562357}}
 L["fuck me up inside"]={{path="chatsounds/autoadd/randomshit/fuck me up inside.ogg",length=11.082358276643991}}
 L["fuck you"]={{path="chatsounds/autoadd/randomshit/fuck you.ogg",length=0.8990476190476191}}
 L["fuck you mom kappa"]={{path="chatsounds/autoadd/randomshit/fuck you mom kappa.ogg",length=1.8741269841269841}}
@@ -67,6 +69,7 @@ L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.9
 L["traif"]={{path="chatsounds/autoadd/randomshit/traif.ogg",length=0.50077097505668933}}
 L["until you are at full health"]={{path="chatsounds/autoadd/randomshit/until you are at full health.ogg",length=1.5761451247165532}}
 L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg",length=2.1826757369614511}}
+L["what are frogs"]={{path="chatsounds/autoadd/randomshit/what are frogs.ogg",length=0.75238095238095237}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585283446712019}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.731746031746031}}
 L["why are you not in a cage you fuckin animal"]={{path="chatsounds/autoadd/randomshit/why are you not in a cage you fuckin animal.ogg",length=2.7885034013605443}}
