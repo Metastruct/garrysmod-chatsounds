@@ -42,6 +42,7 @@ L["mooneternalmakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmak
 L["moonprismpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeup.ogg",length=37.649999999999999}}
 L["moonprismpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeupfx.ogg",length=40.700000000000003}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",length=36.784920634920638}}
+L["nah i dont really feel like it"]={{path="chatsounds/autoadd/beauty_bomber/nah i dont really feel like it.ogg",length=2.3186848072562358}}
 L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.72999999999999998}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200000000000003}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.2739229024943315}}
