@@ -12,6 +12,7 @@ L["big sister scream"]={{path="chatsounds/autoadd/tenrys/big sister scream/bs2bi
 L["com"]={{path="chatsounds/autoadd/tenrys/com.ogg",length=0.43893424036281181}}
 L["cough hard"]={{path="chatsounds/autoadd/tenrys/cough hard.ogg",length=4.9301360544217685}}
 L["crazybus"]={{path="chatsounds/autoadd/tenrys/crazybus.ogg",length=29.985782312925171}}
+L["cyka blyad bangbangbang"]={{path="chatsounds/autoadd/tenrys/cyka blyad bangbangbang.ogg",length=1.6275510204081634}}
 L["dot"]={{path="chatsounds/autoadd/tenrys/dot.ogg",length=0.19448979591836735}}
 L["dramatic cue"]={{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue01.ogg",length=4.3363265306122445},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue02.ogg",length=4.3885714285714288},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue03.ogg",length=4.7281632653061223},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue04.ogg",length=6.0232199546485257},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue05.ogg",length=9.4112925170068031},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue06.ogg",length=11.795487528344671},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue07.ogg",length=13.928707482993197},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue08.ogg",length=16.255691609977323},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue09.ogg",length=21.332244897959185},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue10.ogg",length=25.717913832199546},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue11.ogg",length=2.0823129251700681},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue12.ogg",length=2.6122448979591835}}
 L["drum roll"]={{path="chatsounds/autoadd/tenrys/drum roll.ogg",length=10.348299319727891}}
@@ -62,6 +63,7 @@ L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.12526077097
 L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.3094784580498868}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623015873015873}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183673469388}}
+L["russian rage"]={{path="chatsounds/autoadd/tenrys/russian rage.ogg",length=3.4650566893424037}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
 L["stop"]={{path="chatsounds/autoadd/tenrys/stop.ogg",length=0.6412244897959184}}
 L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.5366666666666666}}
