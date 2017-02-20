@@ -1,4 +1,3 @@
-AddCSLuaFile()
 if SERVER then return end
 if not chatsounds then return end
 
