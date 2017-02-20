@@ -83,6 +83,8 @@ end
 -- Black Magic
 
 function chatsounds.NeedsUpdate()
+	if not chatsounds.version then return end -- there is no local version (chatsounds is probably not installed)
+	
 	if chatsounds.IsGit() then
 		return chatsounds.live_ver ~= chatsounds.version
 	end
