@@ -19,8 +19,20 @@ function chatsounds.GetLiveVersion()
 	return chatsounds.live_ver
 end
 
-local path = string.match(debug.getinfo(1, "S").short_src, "^(addons/.-/)")
-local gitpath = isstring(path) and path..'.git/refs/heads/master'
+local path
+do
+	local addons = select(2, file.Find("addons/*", "GAME"))
+	for _, addon_name in next, addons do
+		if file.Exists ("addons/" .. addon_name .. "/.git/config", "GAME") then
+			if string.find (file.Read ("addons/" .. addon_name .. "/.git/config", "GAME") or "", "Metastruct/garrysmod-chatsounds", 1, true) then
+				path = "addons/" .. addon_name
+				break
+			end
+		end
+	end
+end
+
+local gitpath = isstring(path) and path..'/.git/refs/heads/master'
 
 function chatsounds.IsGit()
 	return isstring(gitpath) and file.Exists(gitpath, "GAME")
