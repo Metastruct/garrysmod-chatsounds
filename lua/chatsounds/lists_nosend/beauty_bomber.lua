@@ -9,6 +9,7 @@ L["bayonettacontinueyes"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacont
 L["bayonettagameover"]={{path="chatsounds/autoadd/beauty_bomber/bayonettagameover.ogg",length=8.7903174603174605}}
 L["bayonettascarboroughfairequipped"]={{path="chatsounds/autoadd/beauty_bomber/bayonettascarboroughfairequipped.ogg",length=25.102585034013604}}
 L["beauty bomber"]={{path="chatsounds/autoadd/beauty_bomber/beauty bomber.ogg",length=0.94040816326530607}}
+L["bgbosschorus"]={{path="chatsounds/autoadd/beauty_bomber/bgbosschorus.ogg",length=24.571383219954647}}
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.84578231292517}}
 L["come inside and lets fuck around"]={{path="chatsounds/autoadd/beauty_bomber/come inside and lets fuck around.ogg",length=2}}
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26}}
