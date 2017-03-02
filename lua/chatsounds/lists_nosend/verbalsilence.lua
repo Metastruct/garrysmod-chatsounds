@@ -1,5 +1,4 @@
 c.StartList("verbalsilence")
-L["1800 contacts"]={{path="chatsounds/autoadd/verbalsilence/1800 contacts.ogg",length=1.3409297052154194}}
 L["20thcenturyfoxflute"]={{path="chatsounds/autoadd/verbalsilence/20thcenturyfoxflute.ogg",length=21.106938775510205}}
 L["3gi pokemon loop"]={{path="chatsounds/autoadd/verbalsilence/3gi pokemon loop.ogg",length=10.969206349206349}}
 L["60 percent of the time it works everytime"]={{path="chatsounds/autoadd/verbalsilence/60 percent of the time it works everytime.ogg",length=5.9345124716553288}}
@@ -49,7 +48,6 @@ L["damn son whered you find this"]={{path="chatsounds/autoadd/verbalsilence/damn
 L["dats sexy"]={{path="chatsounds/autoadd/verbalsilence/dats sexy.ogg",length=1.3155102040816327}}
 L["der right der wtf is this watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/der right der wtf is this watch your profanity.ogg",length=6.2432653061224492}}
 L["dickgina"]={{path="chatsounds/autoadd/verbalsilence/dickgina.ogg",length=1.7994784580498866}}
-L["ding dong bannu"]={{path="chatsounds/autoadd/verbalsilence/ding dong bannu.ogg",length=0.92897959183673473}}
 L["do i look like i know what a jpeg is i just want a picture of a god dang hot dog"]={{path="chatsounds/autoadd/verbalsilence/do i look like i know what a jpeg is i just want a picture of a god dang hot dog.ogg",length=6.0081632653061225}}
 L["do you believe in a flying spaghetti monster too bubblehead"]={{path="chatsounds/autoadd/verbalsilence/do you believe in a flying spaghetti monster too bubblehead.ogg",length=3.1112698412698414}}
 L["doesnt anyone notice this"]={{path="chatsounds/autoadd/verbalsilence/doesnt anyone notice this.ogg",length=1.5667573696145125}}

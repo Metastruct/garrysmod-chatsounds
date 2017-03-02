@@ -6,6 +6,7 @@ L["because everyone is dancing in the dancing zone and you know what that is fin
 L["bioware does not pay me for this shit"]={{path="chatsounds/autoadd/stanry_roo/bioware does not pay me for this shit.ogg",length=2.2964852607709751}}
 L["brb my niggas"]={{path="chatsounds/autoadd/stanry_roo/brb my niggas.ogg",length=1.9313151927437642}}
 L["cause if they dont dance then they ding dong bannu end of rine"]={{path="chatsounds/autoadd/stanry_roo/cause if they dont dance then they ding dong bannu end of rine.ogg",length=4.8086621315192746}}
+L["ding dong bannu"]={{path="chatsounds/autoadd/stanry_roo/ding dong bannu.ogg",length=0.92897959183673473}}
 L["dis is a shamefur dispray and unacceptaboo so dey ding dong bannu"]={{path="chatsounds/autoadd/stanry_roo/dis is a shamefur dispray and unacceptaboo so dey ding dong bannu.ogg",length=4.0611111111111109}}
 L["end of rine rine end here"]={{path="chatsounds/autoadd/stanry_roo/end of rine rine end here.ogg",length=3.2761678004535146}}
 L["everyone is getting banned except that bitch"]={{path="chatsounds/autoadd/stanry_roo/everyone is getting banned except that bitch.ogg",length=2.3604535147392292}}

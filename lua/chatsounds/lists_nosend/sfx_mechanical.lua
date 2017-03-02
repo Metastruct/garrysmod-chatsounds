@@ -20,6 +20,8 @@ L["glass breaking 2"]={{path="chatsounds/autoadd/sfx_mechanical/glass breaking 2
 L["gun reload 1"]={{path="chatsounds/autoadd/sfx_mechanical/gun reload 1.ogg",length=0.64000000000000001}}
 L["gunshot"]={{path="chatsounds/autoadd/sfx_mechanical/gunshot.ogg",length=1.3649886621315193}}
 L["hammer 1"]={{path="chatsounds/autoadd/sfx_mechanical/hammer 1.ogg",length=2.0778004535147394}}
+L["klaxon1"]={{path="chatsounds/autoadd/sfx_mechanical/klaxon1.ogg",length=0.41097505668934242}}
+L["klaxonloop"]={{path="chatsounds/autoadd/sfx_mechanical/klaxonloop.ogg",length=5.2188662131519274}}
 L["metal button"]={{path="chatsounds/autoadd/sfx_mechanical/metal button.ogg",length=1.1551927437641722}}
 L["spinning coin 1"]={{path="chatsounds/autoadd/sfx_mechanical/spinning coin 1.ogg",length=3.2365532879818595}}
 L["spinning coin 3"]={{path="chatsounds/autoadd/sfx_mechanical/spinning coin 3.ogg",length=1.6015873015873017}}
