@@ -13,7 +13,7 @@ L["even"]={{path="chatsounds/autoadd/billy_madison/even.ogg",length=0.2730158730
 L["ever"]={{path="chatsounds/autoadd/billy_madison/ever.ogg",length=0.27882086167800452}}
 L["everyone"]={{path="chatsounds/autoadd/billy_madison/everyone.ogg",length=0.76911564625850337}}
 L["everyone in this room"]={{path="chatsounds/autoadd/billy_madison/everyone in this room.ogg",length=1.7592290249433107}}
-L["for having listen to it"]={{path="chatsounds/autoadd/billy_madison/for having listen to it.ogg",length=0.93832199546485262}}
+L["for having listened to it"]={{path="chatsounds/autoadd/billy_madison/for having listened to it.ogg",length=0.93832199546485262}}
 L["heard"]={{path="chatsounds/autoadd/billy_madison/heard.ogg",length=0.38263038548752837}}
 L["i award you"]={{path="chatsounds/autoadd/billy_madison/i award you.ogg",length=0.61723356009070296}}
 L["i award you no points"]={{path="chatsounds/autoadd/billy_madison/i award you no points.ogg",length=1.5661678004535147}}
