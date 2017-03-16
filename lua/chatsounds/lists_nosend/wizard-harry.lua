@@ -13,12 +13,12 @@ L["harry youre a wizard"]={{path="chatsounds/autoadd/wizard-harry/harry youre a 
 L["i did that when i was younger it was a bad move you are a wizard"]={{path="chatsounds/autoadd/wizard-harry/i did that when i was younger it was a bad move you are a wizard.ogg",length=5.7704308390022678}}
 L["i dont give a fuck you fat hairy bastard im not a wizard"]={{path="chatsounds/autoadd/wizard-harry/i dont give a fuck you fat hairy bastard im not a wizard.ogg",length=6.3318820861678002}}
 L["i dont want to do your fucking spells your basket case"]={{path="chatsounds/autoadd/wizard-harry/i dont want to do your fucking spells your basket case.ogg",length=4.3356235827664396}}
-L["ill fuckin bust you"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin bust you.ogg",length=2.6512925170068029}}
+L["ill fuckin burst ye"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin burst ye.ogg",length=2.6512925170068029}}
 L["ill fuckin gnaw your arm off hagrid"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin gnaw your arm off hagrid.ogg",length=3.025578231292517}}
 L["ill fuckin set your beard on fire"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin set your beard on fire.ogg",length=2.9631972789115646}}
 L["ill pump ya silly"]={{path="chatsounds/autoadd/wizard-harry/ill pump ya silly.ogg",length=2.152222222222222}}
 L["ill rip yer giant dick off and bash ye across the jaw with it"]={{path="chatsounds/autoadd/wizard-harry/ill rip yer giant dick off and bash ye across the jaw with it.ogg",length=4.7411111111111115}}
-L["ill rupture your fuckin ears with my massive beard cock"]={{path="chatsounds/autoadd/wizard-harry/ill rupture your fuckin ears with my massive beard cock.ogg",length=4.2420408163265302}}
+L["ill rupture your fuckin ears with my massive bear cock"]={{path="chatsounds/autoadd/wizard-harry/ill rupture your fuckin ears with my massive bear cock.ogg",length=4.2420408163265302}}
 L["im a what"]={{path="chatsounds/autoadd/wizard-harry/im a what/1.ogg",length=1.0917006802721088},{path="chatsounds/autoadd/wizard-harry/im a what/2.ogg",length=1.0917006802721088},{path="chatsounds/autoadd/wizard-harry/im a what/3.ogg",length=1.2476643990929706}}
 L["im a wizard"]={{path="chatsounds/autoadd/wizard-harry/im a wizard.ogg",length=0.9981179138321995}}
 L["im gonna fuckin put my dick in the owl"]={{path="chatsounds/autoadd/wizard-harry/im gonna fuckin put my dick in the owl.ogg",length=2.9943764172335601}}
