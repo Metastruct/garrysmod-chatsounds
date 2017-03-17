@@ -31,6 +31,7 @@ L["expand dong"]={{path="chatsounds/autoadd/tenrys/expand dong/1.ogg",length=1.0
 L["fap sounds"]={{path="chatsounds/autoadd/tenrys/fap sounds.ogg",length=4.7145124716553291}}
 L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.20160997732426303}}
 L["gay bagels"]={{path="chatsounds/autoadd/tenrys/gay bagels.ogg",length=0.93344671201814056}}
+L["get some help"]={{path="chatsounds/autoadd/tenrys/get some help.ogg",length=0.78997732426303857}}
 L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.5557369614512471}}
 L["good god man"]={{path="chatsounds/autoadd/tenrys/good god man.ogg",length=1.0163038548752834}}
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.4845578231292516}}
@@ -66,6 +67,7 @@ L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183
 L["russian rage"]={{path="chatsounds/autoadd/tenrys/russian rage.ogg",length=3.4650566893424037}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
 L["stop"]={{path="chatsounds/autoadd/tenrys/stop.ogg",length=0.6412244897959184}}
+L["stop it"]={{path="chatsounds/autoadd/tenrys/stop it.ogg",length=0.50424036281179141}}
 L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.5366666666666666}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.52997732426303856},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.81741496598639451},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.49403628117913834},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.66158730158730161},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.44752834467120184}}
 L["thanks for watching"]={{path="chatsounds/autoadd/tenrys/thanks for watching.ogg",length=0.88900226757369616}}
