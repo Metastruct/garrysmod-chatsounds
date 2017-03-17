@@ -5,6 +5,7 @@ L["battle tits"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/battle tits.o
 L["bust it all over my face and body"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/bust it all over my face and body.ogg",length=2.1349433106575963}}
 L["but damn i gotta shit"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/but damn i gotta shit.ogg",length=2.0089342403628119}}
 L["cant do both"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/cant do both.ogg",length=0.82117913832199552}}
+L["commander throw it out the airlock"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/commander throw it out the airlock.ogg",length=1.6731746031746031}}
 L["damn right damn right im garrus vakarian and this is my rectum"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/damn right damn right im garrus vakarian and this is my rectum.ogg",length=12.540521541950113}}
 L["damn that thing is big"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/damn that thing is big.ogg",length=1.1065306122448979}}
 L["double nice"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/double nice.ogg",length=1.0057142857142858}}
@@ -24,6 +25,7 @@ L["i just wanted to bang you ill come by when youre feeling better"]={{path="cha
 L["i just wanted you to know i always wanted implants"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/i just wanted you to know i always wanted implants.ogg",length=2.698140589569161}}
 L["i want off this planet"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/i want off this planet.ogg",length=1.1345124716553288}}
 L["i wasnt going to ask but"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/i wasnt going to ask but.ogg",length=1.4254875283446713}}
+L["i wish i could unhear that"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/i wish i could unhear that.ogg",length=1.4450340136054423}}
 L["im garrus vakarian and this is my rectum"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/im garrus vakarian and this is my rectum.ogg",length=2.7936054421768706}}
 L["im glad you didnt do it"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/im glad you didnt do it.ogg",length=1.3343990929705216}}
 L["its my cack shepard its freaking huge"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/its my cack shepard its freaking huge.ogg",length=7.3314512471655329}}
@@ -47,6 +49,7 @@ L["shepard stfu"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/shepard stfu
 L["that makes no sense"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/that makes no sense.ogg",length=1.2074149659863946}}
 L["thats nasty"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/thats nasty.ogg",length=0.71598639455782309}}
 L["thats pretty detailed"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/thats pretty detailed.ogg",length=1.155328798185941}}
+L["wat"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/wat.ogg",length=0.43770975056689343}}
 L["well bang ok"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok 2.ogg",length=1.0524263038548753},{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok 3.ogg",length=0.8798185941043084},{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok 4.ogg",length=1.592358276643991},{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok 5.ogg",length=0.77512471655328796},{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok 6.ogg",length=0.80709750566893423},{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok 7.ogg",length=1.0439909297052155},{path="chatsounds/autoadd/gamer_poop_mass_effect/well bang ok/well bang ok.ogg",length=0.71564625850340136}}
 L["what come on this sucks"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/what come on this sucks.ogg",length=2.1609750566893422}}
 L["what sound will you make when my cack destroys your pussie"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/what sound will you make when my cack destroys your pussie.ogg",length=3.4035827664399094}}
