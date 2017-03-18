@@ -15,6 +15,7 @@ L["talino"]={{path="chatsounds/autoadd/mass_effect/talino.ogg",length=0.59020408
 L["tell me again about your immune system"]={{path="chatsounds/autoadd/mass_effect/tell me again about your immune system.ogg",length=1.8426530612244898}}
 L["that is a joke"]={{path="chatsounds/autoadd/mass_effect/that is a joke.ogg",length=0.75600907029478459}}
 L["this conversation is over"]={{path="chatsounds/autoadd/mass_effect/this conversation is over.ogg",length=1.6225850340136054}}
+L["throw it out the airlock"]={{path="chatsounds/autoadd/mass_effect/throw it out the airlock.ogg",length=1.2421995464852609}}
 L["what the shit2"]={{path="chatsounds/autoadd/mass_effect/what the shit2.ogg",length=1.0859183673469388}}
 L["you ever miss those talks we had on the elevators"]={{path="chatsounds/autoadd/mass_effect/you ever miss those talks we had on the elevators.ogg",length=2.5644897959183672}}
 c.EndList()
