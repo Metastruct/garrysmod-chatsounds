@@ -31,11 +31,14 @@ L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power range
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.8404308390022672}}
 L["hey faggot come here"]={{path="chatsounds/autoadd/randomshit/hey faggot come here.ogg",length=2.0435827664399091}}
 L["hey guess what youre a faggot"]={{path="chatsounds/autoadd/randomshit/hey guess what youre a faggot.ogg",length=2.813968253968254}}
+L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.46514739229024943}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.6261904761904762}}
+L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.73945578231292519}}
 L["hotguitarriff"]={{path="chatsounds/autoadd/randomshit/hotguitarriff.ogg",length=14.416439909297052}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.7251927437641723}}
 L["i dunno should it be called fucking comic sans"]={{path="chatsounds/autoadd/randomshit/i dunno should it be called fucking comic sans.ogg",length=6.9757823129251699}}
 L["is it because i turn into a cat youre a fucking cat"]={{path="chatsounds/autoadd/randomshit/is it because i turn into a cat youre a fucking cat.ogg",length=3.4963492063492065}}
+L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/randomshit/is that a man riding a shrimp.ogg",length=2.1190249433106576}}
 L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places to be.ogg",length=2.9733560090702946}}
 L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.1704308390022677}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.88122448979591839},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.7695238095238095}}
@@ -56,6 +59,7 @@ L["own da bitch"]={{path="chatsounds/autoadd/randomshit/own da bitch.ogg",length
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/randomshit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869002267573697}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.4867120181405902}}
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.1512244897959185}}
+L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.1651247165532883}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.1450113378684805}}
 L["srors"]={{path="chatsounds/autoadd/randomshit/srors.ogg",length=0.80843537414965982}}
 L["tactical nuke"]={{path="chatsounds/autoadd/randomshit/tactical nuke.ogg",length=2.426485260770975}}
