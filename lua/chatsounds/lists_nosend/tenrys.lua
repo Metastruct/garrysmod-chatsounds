@@ -31,6 +31,7 @@ L["everybody do the flop"]={{path="chatsounds/autoadd/tenrys/everybody do the fl
 L["expand dong"]={{path="chatsounds/autoadd/tenrys/expand dong/1.ogg",length=1.0245804988662131},{path="chatsounds/autoadd/tenrys/expand dong/2.ogg",length=1.1884126984126984},{path="chatsounds/autoadd/tenrys/expand dong/3.ogg",length=1.0801587301587301}}
 L["fap sounds"]={{path="chatsounds/autoadd/tenrys/fap sounds.ogg",length=4.7145124716553291}}
 L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.20160997732426303}}
+L["fbi"]={{path="chatsounds/autoadd/tenrys/fbi.ogg",length=0.59380952380952379}}
 L["gay bagels"]={{path="chatsounds/autoadd/tenrys/gay bagels.ogg",length=0.93344671201814056}}
 L["get some help"]={{path="chatsounds/autoadd/tenrys/get some help.ogg",length=0.78997732426303857}}
 L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.5557369614512471}}
