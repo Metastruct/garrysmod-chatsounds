@@ -2,7 +2,7 @@ c.StartList("morsh")
 L["a man"]={{path="chatsounds/autoadd/morsh/a man.ogg",length=0.57469387755102042}}
 L["airhorn"]={{path="chatsounds/autoadd/morsh/airhorn.ogg",length=1.7115419501133786}}
 L["airhorn2"]={{path="chatsounds/autoadd/morsh/airhorn2.ogg",length=2.8365306122448981}}
-L["everyday2"]={{path="chatsounds/autoadd/morsh/everyday2.ogg",length=0.83414965986394563}}
+L["everyday"]={{path="chatsounds/autoadd/morsh/everyday.ogg",length=0.83414965986394563}}
 L["for his"]={{path="chatsounds/autoadd/morsh/for his.ogg",length=0.36571428571428571}}
 L["hours later"]={{path="chatsounds/autoadd/morsh/hours later.ogg",length=1.2941269841269842}}
 L["i just"]={{path="chatsounds/autoadd/morsh/i just.ogg",length=0.52244897959183678}}
