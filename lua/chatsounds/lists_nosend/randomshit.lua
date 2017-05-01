@@ -39,6 +39,7 @@ L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739
 L["hotguitarriff"]={{path="chatsounds/autoadd/randomshit/hotguitarriff.ogg",length=14.416439909297052}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.7251927437641723}}
 L["i dunno should it be called fucking comic sans"]={{path="chatsounds/autoadd/randomshit/i dunno should it be called fucking comic sans.ogg",length=6.9757823129251699}}
+L["i have several questions"]={{path="chatsounds/autoadd/randomshit/i have several questions.ogg",length=2.1402040816326529}}
 L["is it because i turn into a cat youre a fucking cat"]={{path="chatsounds/autoadd/randomshit/is it because i turn into a cat youre a fucking cat.ogg",length=3.4963492063492065}}
 L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/randomshit/is that a man riding a shrimp.ogg",length=2.1190249433106576}}
 L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places to be.ogg",length=2.9733560090702946}}
@@ -80,7 +81,9 @@ L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg
 L["what are frogs"]={{path="chatsounds/autoadd/randomshit/what are frogs.ogg",length=0.75238095238095237}}
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/randomshit/what in the name of all thats right are you talking about human.ogg",length=5.6998185941043085}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585283446712019}}
+L["where is the lamb sauce"]={{path="chatsounds/autoadd/randomshit/where is the lamb sauce.ogg",length=2.1675736961451246}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.731746031746031}}
+L["wheres the lamb saauce"]={{path="chatsounds/autoadd/randomshit/wheres the lamb saauce.ogg",length=2.1521768707482991}}
 L["why are you not in a cage you fuckin animal"]={{path="chatsounds/autoadd/randomshit/why are you not in a cage you fuckin animal.ogg",length=2.7885034013605443}}
 L["woody the woodpecker"]={{path="chatsounds/autoadd/randomshit/woody the woodpecker.ogg",length=3.5744897959183675}}
 L["yeah i know im a cat you fucken bastard"]={{path="chatsounds/autoadd/randomshit/yeah i know im a cat you fucken bastard.ogg",length=2.9011111111111112}}
