@@ -20,6 +20,7 @@ L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374
 L["dont listen to the old fucker"]={{path="chatsounds/autoadd/randomshit/dont listen to the old fucker.ogg",length=1.74281179138322}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.5958956916099769}}
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465215419501134}}
+L["except black"]={{path="chatsounds/autoadd/randomshit/except black.ogg",length=1.7179818594104308}}
 L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.2214739229024945}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.6206575963718821}}
 L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.56786848072562357}}
@@ -42,6 +43,8 @@ L["i dunno should it be called fucking comic sans"]={{path="chatsounds/autoadd/r
 L["i have several questions"]={{path="chatsounds/autoadd/randomshit/i have several questions.ogg",length=2.1402040816326529}}
 L["is it because i turn into a cat youre a fucking cat"]={{path="chatsounds/autoadd/randomshit/is it because i turn into a cat youre a fucking cat.ogg",length=3.4963492063492065}}
 L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/randomshit/is that a man riding a shrimp.ogg",length=2.1190249433106576}}
+L["it takes all colors to make a rainbow"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow.ogg",length=2.984875283446712}}
+L["it takes all colors to make a rainbow except black"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow except black.ogg",length=5.9505442176870744}}
 L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places to be.ogg",length=2.9733560090702946}}
 L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.1704308390022677}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.88122448979591839},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.7695238095238095}}
@@ -72,6 +75,7 @@ L["tango down"]={{path="chatsounds/autoadd/randomshit/tango down.ogg",length=2.0
 L["tetrisloop"]={{path="chatsounds/autoadd/randomshit/tetrisloop.ogg",length=25.5921768707483}}
 L["thats the sound of a shotgun"]={{path="chatsounds/autoadd/randomshit/thats the sound of a shotgun.ogg",length=2.8908843537414968}}
 L["the true mlgness comes after the 69th cigarette"]={{path="chatsounds/autoadd/randomshit/the true mlgness comes after the 69th cigarette.ogg",length=3.4713832199546486}}
+L["theres no black in a rainbow"]={{path="chatsounds/autoadd/randomshit/theres no black in a rainbow.ogg",length=2.1114739229024941}}
 L["they have twelve penises"]={{path="chatsounds/autoadd/randomshit/they have twelve penises.ogg",length=2.7885034013605443}}
 L["this is ban roulette i love it"]={{path="chatsounds/autoadd/randomshit/this is ban roulette i love it.ogg",length=1.9858276643990929}}
 L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.9225170068027211}}
