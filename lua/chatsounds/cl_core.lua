@@ -960,7 +960,7 @@ function chatsounds.GetSoundDuration(path)
 	end
 	
 	if GetSoundDuration and c.IsMP3(path) then
-		return (GetSoundDuration("sound/"..path) or 1) - c.SubMP3Duration
+		return (GetSoundDuration(path) or 1) - c.SubMP3Duration
 	elseif false and BASS and c.IsOGG(path) then -- todo: MAKE ASYNC and use sound.PlayFile
 		local len
 		local chan, err = BASS.StreamFile("sound/" .. path, true)
