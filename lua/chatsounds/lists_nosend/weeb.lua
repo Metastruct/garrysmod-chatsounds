@@ -1,4 +1,5 @@
 c.StartList("weeb")
+L["ayaya"]={{path="chatsounds/autoadd/weeb/ayaya/1.ogg",length=1.1603401360544219},{path="chatsounds/autoadd/weeb/ayaya/2.ogg",length=2.2763038548752834}}
 L["better"]={{path="chatsounds/autoadd/weeb/better.ogg",length=0.51659863945578233}}
 L["cheater"]={{path="chatsounds/autoadd/weeb/cheater.ogg",length=0.80818594104308394}}
 L["chu! natsu party"]={{path="chatsounds/autoadd/weeb/chu! natsu party/1.ogg",length=8.5681632653061222}}
@@ -10,6 +11,8 @@ L["koko ni iruzee"]={{path="chatsounds/autoadd/weeb/koko ni iruzee/1.ogg",length
 L["love revolution"]={{path="chatsounds/autoadd/weeb/love revolution.ogg",length=5.685736961451247}}
 L["love revolution remix"]={{path="chatsounds/autoadd/weeb/love revolution remix.ogg",length=7.7492517006802721}}
 L["manpower"]={{path="chatsounds/autoadd/weeb/manpower.ogg",length=7.8599546485260774}}
+L["megumin explosion"]={{path="chatsounds/autoadd/weeb/megumin explosion.ogg",length=4.3885714285714288}}
+L["megumin scream"]={{path="chatsounds/autoadd/weeb/megumin scream.ogg",length=0.76122448979591839}}
 L["no no no"]={{path="chatsounds/autoadd/weeb/no no no.ogg",length=3.6078684807256236}}
 L["otome pasta ni kandou"]={{path="chatsounds/autoadd/weeb/otome pasta ni kandou/1.ogg",length=13.699773242630386}}
 L["ponponpon"]={{path="chatsounds/autoadd/weeb/ponponpon.ogg",length=3.7659183673469387}}
