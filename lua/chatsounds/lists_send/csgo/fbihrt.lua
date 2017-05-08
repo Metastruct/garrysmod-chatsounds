@@ -132,7 +132,7 @@ L["intel says theres one more"]={{path="player/vo/fbihrt/radiobotkillcount11.wav
 L["ive got you"]={{path="player/vo/fbihrt/radiobotreponsecoverrequest02.wav",length=0.68358276643991}}
 L["ive got your back"]={{path="player/vo/fbihrt/radiobotreponsecoverrequest01.wav",length=0.86571428571429}}
 L["kitchen"]={{path="player/vo/fbihrt/ctmap_cs_office20.wav",length=0.52319727891156}}
-L["lead the wya"]={{path="player/vo/fbihrt/radiobotfollowyou02.wav",length=0.70891156462585}}
+L["lead the way"]={{path="player/vo/fbihrt/radiobotfollowyou02.wav",length=0.70891156462585}}
 L["lets go"]={{path="player/vo/fbihrt/radiobotstart01.wav",length=0.60367346938776},{path="player/vo/fbihrt/radiobotgo02.wav",length=0.81424036281179}}
 L["lets go follow me"]={{path="player/vo/fbihrt/radiobotfollowme02.wav",length=1.0617233560091}}
 L["lets make the bureau proud"]={{path="player/vo/fbihrt/radiobotstart11.wav",length=1.3633333333333}}
