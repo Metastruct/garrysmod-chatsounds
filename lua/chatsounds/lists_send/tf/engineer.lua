@@ -440,7 +440,6 @@ L["you know where you oughta hide next time back in france"]={{path="vo/engineer
 L["you ladies shoulda oughta brought some menfolk with ya"]={{path="vo/taunts/engineer_taunts02.mp3",length=3.0302040816327}}
 L["you look a might tonguetied boy"]={{path="vo/engineer_dominationpyro06.mp3",length=2.1218366622925}}
 L["you look a mite tongue tied son"]={{path="vo/engineer_dominationpyro06.mp3",length=2.1218367346939}}
-L["you must be a doctor becasue you just saw the extent of my patience"]={{path="vo/engineer_dominationmedic06.mp3",length=4.6368255615234}}
 L["you must be a doctor cause you just saw the extent of my patience"]={{path="vo/engineer_dominationmedic06.mp3",length=4.6368253968254}}
 L["you outta stand back a little more like for me and my machines"]={{path="vo/engineer_dominationsniper01.mp3",length=3.4913832199546}}
 L["you should oughta stayed back at your little campsite"]={{path="vo/engineer_dominationsniper04.mp3",length=2.9177551020408}}

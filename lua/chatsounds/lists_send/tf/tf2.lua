@@ -2884,7 +2884,6 @@ L["you lost"]={{path="vo/mvm_game_over_loss02.mp3",length=2.2987755102041}}
 L["you lost you lost it all we are doomed"]={{path="vo/mvm_game_over_loss01.mp3",length=7.1314285714286}}
 L["you mean nothing to me now"]={{path="vo/heavy_revenge01.mp3",length=2.1733334064484}}
 L["you morons are about to catch a real beatin"]={{path="vo/taunts/scout_taunts17.mp3",length=2.2465305328369}}
-L["you must be a doctor becasue you just saw the extent of my patience"]={{path="vo/engineer_dominationmedic06.mp3",length=4.6368255615234}}
 L["you must destroy the enemies robots and collect their reactor cores to win retreive stolen power cores by invading the enemy vault"]={{path="vo/announcer_map_intro_02.mp3",length=9.5085714285714}}
 L["you must destroy the enemy robots"]={{path="vo/announcer_captureflag_miscspace_04.mp3",length=3.0040816326531}}
 L["you must protect the reactor to win"]={{path="vo/announcer_captureflag_miscspace_15.mp3",length=3.3436734693878}}
