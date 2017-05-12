@@ -4,6 +4,7 @@ L["cocaine pancakes"]={{path="chatsounds/autoadd/syzygy/cocaine pancakes.ogg",le
 L["everyone"]={{path="chatsounds/autoadd/syzygy/everyone.ogg",length=1.3357596371882086}}
 L["gameboygirl"]={{path="chatsounds/autoadd/syzygy/gameboygirl.ogg",length=3.2222902494331067}}
 L["get the fuck out of my room im playing minecraft"]={{path="chatsounds/autoadd/syzygy/get the fuck out of my room im playing minecraft.ogg",length=3.1319501133786849}}
+L["happy merchant"]={{path="chatsounds/autoadd/syzygy/happy merchant.ogg",length=72.672653061224494}}
 L["hey whats up depressed faggot here"]={{path="chatsounds/autoadd/syzygy/hey whats up depressed faggot here.ogg",length=2.2973242630385489}}
 L["i need"]={{path="chatsounds/autoadd/syzygy/i need.ogg",length=1.3}}
 L["luigi"]={{path="chatsounds/autoadd/syzygy/luigi.ogg",length=0.90482993197278916}}
