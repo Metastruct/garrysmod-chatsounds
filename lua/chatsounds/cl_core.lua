@@ -979,13 +979,13 @@ function chatsounds.GetSoundDuration(path)
 end
 
 function chatsounds.SoundExists(path)
-	if c.ExistsCache[path] then return false end
+	if c.ExistsCache[path] then return true end
 
-	if not file.Exists("sound/" .. path, "GAME") then
+	if file.Exists("sound/" .. path, "GAME") then
 		c.ExistsCache[path] = true
-		return false
+		return true
 	end
-	return true
+	return false
 end
 
 function chatsounds.ClearExistsCache()
