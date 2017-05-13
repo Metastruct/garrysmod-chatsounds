@@ -1,5 +1,5 @@
 c.StartList("syzygy")
-L["123 all the kids bullied me but they're not so cool now i shot up the school"]={{path="chatsounds/autoadd/syzygy/123 all the kids bullied me but they're not so cool now i shot up the school.ogg",length=6.6612244897959183}}
+L["123 all the kids bullied me but theyre not so cool now i shot up the school"]={{path="chatsounds/autoadd/syzygy/123 all the kids bullied me but theyre not so cool now i shot up the school.ogg",length=6.6612244897959183}}
 L["aaaa"]={{path="chatsounds/autoadd/syzygy/aaaa.ogg",length=0.92181405895691615}}
 L["better luck next time darling"]={{path="chatsounds/autoadd/syzygy/better luck next time darling.ogg",length=1.5579591836734694}}
 L["can you like shut up"]={{path="chatsounds/autoadd/syzygy/can you like shut up.ogg",length=1.8404535147392291}}
