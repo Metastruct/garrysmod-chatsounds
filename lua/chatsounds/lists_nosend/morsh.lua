@@ -14,6 +14,6 @@ L["ravioli ravioli give me the formuoli"]={{path="chatsounds/autoadd/morsh/ravio
 L["rupe te"]={{path="chatsounds/autoadd/morsh/rupe te.ogg",length=6.152902494331066}}
 L["smoke2"]={{path="chatsounds/autoadd/morsh/smoke2.ogg",length=0.46712018140589567}}
 L["ssmmookkee2"]={{path="chatsounds/autoadd/morsh/ssmmookkee2.ogg",length=2.4483446712018142}}
-L["weed2"]={{path="chatsounds/autoadd/morsh/weed2.ogg",length=0.40040816326530615}}
+L["weed"]={{path="chatsounds/autoadd/morsh/weed.ogg",length=0.40040816326530615}}
 L["yearh"]={{path="chatsounds/autoadd/morsh/yearh.ogg",length=0.45820861678004537}}
 c.EndList()
