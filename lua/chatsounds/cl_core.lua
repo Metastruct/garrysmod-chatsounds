@@ -900,7 +900,7 @@ end
 
 function chatsounds.ShuffleIterate(tbl, func)
 	local new = {}
-	for key, value in pairs(tbl) do
+	for key, value in pairs(table.Copy(tbl)) do
 		table.insert(new, {key = key, value = value, random = c.CRCRandom(c.Seed .. key, 0, 100)})
 	end
 
