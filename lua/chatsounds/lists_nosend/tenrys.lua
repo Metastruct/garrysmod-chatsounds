@@ -82,6 +82,7 @@ L["this is what is known as a super saiyan that has ascended beyond a super saiy
 L["thwomp"]={{path="chatsounds/autoadd/tenrys/thwomp.ogg",length=0.76256235827664398}}
 L["toasty"]={{path="chatsounds/autoadd/tenrys/toasty.ogg",length=0.8463492063492063}}
 L["too easy"]={{path="chatsounds/autoadd/tenrys/too easy.ogg",length=0.86358276643990928}}
+L["traitor"]={{path="chatsounds/autoadd/tenrys/traitor.ogg",length=0.58074829931972793}}
 L["triggered"]={{path="chatsounds/autoadd/tenrys/triggered.ogg",length=3.4936961451247166}}
 L["trust me"]={{path="chatsounds/autoadd/tenrys/trust me.ogg",length=1.0510430839002267}}
 L["until double the volume"]={{path="chatsounds/autoadd/tenrys/until double the volume.ogg",length=1.4140589569160997}}
