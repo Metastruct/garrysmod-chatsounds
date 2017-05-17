@@ -1,4 +1,5 @@
 c.StartList("goldeneye007")
+L["duyu"]={{path="chatsounds/autoadd/goldeneye007/duyu.ogg",length=0.42097505668934243}}
 L["femalepain"]={{path="chatsounds/autoadd/goldeneye007/femalepain/female0.ogg",length=0.40562358276643989},{path="chatsounds/autoadd/goldeneye007/femalepain/female1.ogg",length=0.16380952380952382},{path="chatsounds/autoadd/goldeneye007/femalepain/female2.ogg",length=0.40074829931972789}}
 L["g64alarm"]={{path="chatsounds/autoadd/goldeneye007/g64alarm/alarm1.ogg",length=0.6683219954648526},{path="chatsounds/autoadd/goldeneye007/g64alarm/alarm2.ogg",length=0.67083900226757365},{path="chatsounds/autoadd/goldeneye007/g64alarm/alarm3.ogg",length=0.94641723356009066}}
 L["g64hurt"]={{path="chatsounds/autoadd/goldeneye007/g64hurt.ogg",length=0.65818594104308392}}
