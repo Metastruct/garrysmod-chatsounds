@@ -32,7 +32,7 @@ L["fraera povalili"]={{path="chatsounds/autoadd/noiwex/fraera povalili.ogg",leng
 L["frustata"]={{path="chatsounds/autoadd/noiwex/frustata.ogg",length=0.61117913832199544}}
 L["fuck you"]={{path="chatsounds/autoadd/noiwex/fuck you.ogg",length=1.6405668934240363}}
 L["garry"]={{path="chatsounds/autoadd/noiwex/garry/garry-2.ogg",length=0.79954648526077099},{path="chatsounds/autoadd/noiwex/garry/garry-3.ogg",length=0.88841269841269843},{path="chatsounds/autoadd/noiwex/garry/garry.ogg",length=0.84396825396825392}}
-L["garry help me"]={{path="chatsounds/autoadd/noiwex/garry help me.ogg",length=1.1327210884353742}}
+L["garry come back"]={{path="chatsounds/autoadd/noiwex/garry come back.ogg",length=1.1327210884353742}}
 L["garry please be my waifu"]={{path="chatsounds/autoadd/noiwex/garry please be my waifu.ogg",length=1.6213151927437641}}
 L["god with us"]={{path="chatsounds/autoadd/noiwex/god with us.ogg",length=0.90557823129251702}}
 L["great scott"]={{path="chatsounds/autoadd/noiwex/great scott.ogg",length=1.1493877551020408}}
