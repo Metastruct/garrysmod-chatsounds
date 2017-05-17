@@ -1,6 +1,7 @@
 c.StartList("weeb")
 L["ayaya"]={{path="chatsounds/autoadd/weeb/ayaya/1.ogg",length=1.1603401360544219},{path="chatsounds/autoadd/weeb/ayaya/2.ogg",length=2.2763038548752834}}
 L["better"]={{path="chatsounds/autoadd/weeb/better.ogg",length=0.51659863945578233}}
+L["but i poop from there"]={{path="chatsounds/autoadd/weeb/but i poop from there.ogg",length=1.8629251700680272}}
 L["cheater"]={{path="chatsounds/autoadd/weeb/cheater.ogg",length=0.80818594104308394}}
 L["chu! natsu party"]={{path="chatsounds/autoadd/weeb/chu! natsu party/1.ogg",length=8.5681632653061222}}
 L["dont leave me now"]={{path="chatsounds/autoadd/weeb/dont leave me now.ogg",length=1.5052834467120182}}
@@ -17,7 +18,10 @@ L["megumin explosion"]={{path="chatsounds/autoadd/weeb/megumin explosion.ogg",le
 L["megumin scream"]={{path="chatsounds/autoadd/weeb/megumin scream.ogg",length=0.76122448979591839}}
 L["nep song"]={{path="chatsounds/autoadd/weeb/nep song.ogg",length=5.438979591836735}}
 L["no no no"]={{path="chatsounds/autoadd/weeb/no no no.ogg",length=3.6078684807256236}}
+L["not right now you dont"]={{path="chatsounds/autoadd/weeb/not right now you dont.ogg",length=2.2309297052154196}}
+L["ok im done"]={{path="chatsounds/autoadd/weeb/ok im done.ogg",length=1.5294331065759637}}
 L["otome pasta ni kandou"]={{path="chatsounds/autoadd/weeb/otome pasta ni kandou/1.ogg",length=13.699773242630386}}
+L["pomf pomf"]={{path="chatsounds/autoadd/weeb/pomf pomf.ogg",length=129.19750566893424}}
 L["ponponpon"]={{path="chatsounds/autoadd/weeb/ponponpon.ogg",length=3.7659183673469387}}
 L["repeat after me"]={{path="chatsounds/autoadd/weeb/repeat after me.ogg",length=1.5325170068027212}}
 L["sexy boy"]={{path="chatsounds/autoadd/weeb/sexy boy.ogg",length=1.0754195011337868}}
