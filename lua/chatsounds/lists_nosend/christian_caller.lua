@@ -7,7 +7,7 @@ L["after"]={{path="chatsounds/autoadd/christian_caller/after.ogg",length=0.45052
 L["after 90 years this human life span is how long"]={{path="chatsounds/autoadd/christian_caller/after 90 years this human life span is how long.ogg",length=4.1486621315192744}}
 L["after you pass away"]={{path="chatsounds/autoadd/christian_caller/after you pass away.ogg",length=1.7132426303854875}}
 L["all of life into existence"]={{path="chatsounds/autoadd/christian_caller/all of life into existence.ogg",length=3.3504761904761904}}
-L["and"]={{path="chatsounds/autoadd/christian_caller/and/and.ogg",length=0.60897959183673467}}
+L["and"]={{path="chatsounds/autoadd/christian_caller/and/and copy.ogg",length=0.82743764172335599},{path="chatsounds/autoadd/christian_caller/and/and.ogg",length=0.60897959183673467}}
 L["and how humans"]={{path="chatsounds/autoadd/christian_caller/and how humans.ogg",length=2.5931972789115645}}
 L["animal"]={{path="chatsounds/autoadd/christian_caller/animal.ogg",length=0.57637188208616785}}
 L["atom or nucleus"]={{path="chatsounds/autoadd/christian_caller/atom or nucleus.ogg",length=1.1777324263038549}}
@@ -76,7 +76,7 @@ L["okay"]={{path="chatsounds/autoadd/christian_caller/okay/okay copy.ogg",length
 L["okay but im disagreeing with the reason you say"]={{path="chatsounds/autoadd/christian_caller/okay but im disagreeing with the reason you say.ogg",length=4.8193197278911564}}
 L["okay how the"]={{path="chatsounds/autoadd/christian_caller/okay how the.ogg",length=3.7680725623582765}}
 L["okay it would have to be"]={{path="chatsounds/autoadd/christian_caller/okay it would have to be.ogg",length=2.5415873015873016}}
-L["okay now"]={{path="chatsounds/autoadd/christian_caller/okay now/and copy.ogg",length=0.82743764172335599},{path="chatsounds/autoadd/christian_caller/okay now/okay now copy.ogg",length=0.99469387755102046},{path="chatsounds/autoadd/christian_caller/okay now/okay now.ogg",length=2.7824489795918366}}
+L["okay now"]={{path="chatsounds/autoadd/christian_caller/okay now/okay now copy.ogg",length=0.99469387755102046},{path="chatsounds/autoadd/christian_caller/okay now/okay now.ogg",length=2.7824489795918366}}
 L["okay now youre not"]={{path="chatsounds/autoadd/christian_caller/okay now youre not.ogg",length=1.4783673469387755}}
 L["okay theres a cause and effect for everything"]={{path="chatsounds/autoadd/christian_caller/okay theres a cause and effect for everything.ogg",length=3.2541043083900227}}
 L["okay well i dont believe all of that"]={{path="chatsounds/autoadd/christian_caller/okay well i dont believe all of that.ogg",length=2.649297052154195}}
