@@ -40,7 +40,7 @@ L["show him what for it mean to be super sand legend"]={{path="chatsounds/autoad
 L["stahp it stahp it stahp it"]={{path="chatsounds/autoadd/oney/stahp it stahp it stahp it.ogg",length=2.927482993197279}}
 L["super pooper scoopers are just ler gen der"]={{path="chatsounds/autoadd/oney/super pooper scoopers are just ler gen der.ogg",length=3.0149886621315192}}
 L["ta tata ta ta tatata"]={{path="chatsounds/autoadd/oney/ta tata ta ta tatata.ogg",length=5.2549433106575965}}
-L["take us down the fully fledged pilot"]={{path="chatsounds/autoadd/oney/take us down the fully fledged pilot.ogg",length=2.5343764172335601}}
+L["take us down there fully fledged pilot"]={{path="chatsounds/autoadd/oney/take us down there fully fledged pilot.ogg",length=2.5343764172335601}}
 L["that little pointy thing right there"]={{path="chatsounds/autoadd/oney/that little pointy thing right there.ogg",length=1.9602721088435373}}
 L["that little red thing down there"]={{path="chatsounds/autoadd/oney/that little red thing down there.ogg",length=1.3396145124716554}}
 L["the good lord crippled me with color blindness like the asshole he is"]={{path="chatsounds/autoadd/oney/the good lord crippled me with color blindness like the asshole he is.ogg",length=3.1498639455782311}}
