@@ -12,6 +12,7 @@ L["get the fuck out of my room im playing minecraft"]={{path="chatsounds/autoadd
 L["happy merchant"]={{path="chatsounds/autoadd/syzygy/happy merchant.ogg",length=72.672653061224494}}
 L["hell yeah"]={{path="chatsounds/autoadd/syzygy/hell yeah.ogg",length=1.2482993197278911}}
 L["hey whats up depressed faggot here"]={{path="chatsounds/autoadd/syzygy/hey whats up depressed faggot here.ogg",length=2.2973242630385489}}
+L["holy crap this goes on forever"]={{path="chatsounds/autoadd/syzygy/holy crap this goes on forever.ogg",length=6.1549433106575968}}
 L["i have the power of god"]={{path="chatsounds/autoadd/syzygy/i have the power of god.ogg",length=1.965079365079365}}
 L["i need"]={{path="chatsounds/autoadd/syzygy/i need.ogg",length=1.3}}
 L["luigi"]={{path="chatsounds/autoadd/syzygy/luigi.ogg",length=0.90482993197278916}}
@@ -20,11 +21,13 @@ L["miluk"]={{path="chatsounds/autoadd/syzygy/miluk.ogg",length=0.481360544217687
 L["my balls are cook"]={{path="chatsounds/autoadd/syzygy/my balls are cook.ogg",length=1.5703401360544218}}
 L["my breath does not smell of meth"]={{path="chatsounds/autoadd/syzygy/my breath does not smell of meth.ogg",length=2.0578911564625852}}
 L["nice meme"]={{path="chatsounds/autoadd/syzygy/nice meme.ogg",length=0.91696145124716555}}
+L["nut"]={{path="chatsounds/autoadd/syzygy/nut.ogg",length=2.1808616780045353}}
 L["oh not again"]={{path="chatsounds/autoadd/syzygy/oh not again.ogg",length=3.0238548752834467}}
 L["pussy"]={{path="chatsounds/autoadd/syzygy/pussy.ogg",length=0.68287981859410429}}
 L["raaaaaaa"]={{path="chatsounds/autoadd/syzygy/raaaaaaa.ogg",length=1.1823582766439908}}
 L["shut yer fucking face"]={{path="chatsounds/autoadd/syzygy/shut yer fucking face.ogg",length=1.3577097505668934}}
 L["stick some sausages into this frying pan im fucking starving"]={{path="chatsounds/autoadd/syzygy/stick some sausages into this frying pan im fucking starving.ogg",length=3.1840816326530614}}
+L["tardis"]={{path="chatsounds/autoadd/syzygy/tardis.ogg",length=18.788752834467122}}
 L["theres a truck on a truck on a truck"]={{path="chatsounds/autoadd/syzygy/theres a truck on a truck on a truck.ogg",length=4.4834693877551022}}
 L["tongue clicks"]={{path="chatsounds/autoadd/syzygy/tongue clicks.ogg",length=1.0891156462585034}}
 L["what did you say"]={{path="chatsounds/autoadd/syzygy/what did you say.ogg",length=6.7395918367346939}}
@@ -33,5 +36,6 @@ L["wheres my breakfast"]={{path="chatsounds/autoadd/syzygy/wheres my breakfast.o
 L["who are you"]={{path="chatsounds/autoadd/syzygy/who are you.ogg",length=1.3691156462585035}}
 L["wow"]={{path="chatsounds/autoadd/syzygy/wow/1.ogg",length=0.66011337868480724},{path="chatsounds/autoadd/syzygy/wow/2.ogg",length=0.69403628117913829},{path="chatsounds/autoadd/syzygy/wow/3.ogg",length=0.56140589569160992},{path="chatsounds/autoadd/syzygy/wow/4.ogg",length=0.57990929705215422}}
 L["you are not my dad"]={{path="chatsounds/autoadd/syzygy/you are not my dad.ogg",length=0.95147392290249433}}
+L["you cant spell nutrition without nut"]={{path="chatsounds/autoadd/syzygy/you cant spell nutrition without nut.ogg",length=1.9189115646258503}}
 L["you have been banned from the mickey mouse club for inappropriate behaviour"]={{path="chatsounds/autoadd/syzygy/you have been banned from the mickey mouse club for inappropriate behaviour.ogg",length=6.5567346938775506}}
 c.EndList()
