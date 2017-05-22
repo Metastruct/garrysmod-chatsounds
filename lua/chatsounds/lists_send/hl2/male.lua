@@ -376,7 +376,7 @@ L["you vorts arent half bad"]={{path="vo/npc/male01/vquestion06.wav",length=1.50
 L["you waiting for somebody"]={{path="vo/npc/male01/waitingsomebody.wav",length=1.0043990929705}}
 L["you were amazing back there doctor freeman but i feel sorry for anyone who put down a security deposit"]={{path="vo/streetwar/tunnel/male01/d3_c17_07_tenant.wav",length=6.1645351473923}}
 L["youd better reload"]={{path="vo/npc/male01/youdbetterreload01.wav",length=1.0753514739229}}
-L["youll find the launcher for your rockets up in the lighthouse freeman"]={{path="vo/coast/barn/male01/lite_rockets04.wav",length=2.9358049886621}}
+L["youll find the rockets for your launcher up in the lighthouse freeman"]={{path="vo/coast/barn/male01/lite_rockets04.wav",length=2.9358049886621}}
 L["youll have to wait your turn like everybody else"]={{path="vo/trainyard/male01/cit_foodline02.wav",length=2.4438548752834}}
 L["your mind is in the gutter"]={{path="vo/npc/male01/answer20.wav",length=1.3008390022676}}
 L["youre alright vorty"]={{path="vo/npc/male01/vquestion05.wav",length=0.93800453514739}}
