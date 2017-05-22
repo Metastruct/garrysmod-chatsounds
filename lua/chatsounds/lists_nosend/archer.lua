@@ -13,9 +13,7 @@ L["doctor dipshit"]={{path="chatsounds/autoadd/archer/doctor dipshit.ogg",length
 L["i swear to god you could drown a toddler in my panties right now"]={{path="chatsounds/autoadd/archer/i swear to god you could drown a toddler in my panties right now.ogg",length=3.4050113378684808}}
 L["i will end you"]={{path="chatsounds/autoadd/archer/i will end you.ogg",length=1.5103401360544217}}
 L["im sorry what"]={{path="chatsounds/autoadd/archer/im sorry what.ogg",length=0.82258503401360539}}
-L["just the tip1"]={{path="chatsounds/autoadd/archer/just the tip1.ogg",length=0.75126984126984131}}
-L["just the tip2"]={{path="chatsounds/autoadd/archer/just the tip2.ogg",length=0.96390022675736964}}
-L["just the tip3"]={{path="chatsounds/autoadd/archer/just the tip3.ogg",length=1.0489342403628117}}
+L["just the tip"]={{path="chatsounds/autoadd/archer/just the tip/just the tip1.ogg",length=0.75126984126984131},{path="chatsounds/autoadd/archer/just the tip/just the tip2.ogg",length=0.96390022675736964},{path="chatsounds/autoadd/archer/just the tip/just the tip3.ogg",length=1.0489342403628117}}
 L["karate the dane cook of martial arts"]={{path="chatsounds/autoadd/archer/karate the dane cook of martial arts.ogg",length=2.5798185941043084}}
 L["lana lana lana dangerzone"]={{path="chatsounds/autoadd/archer/lana lana lana dangerzone.ogg",length=10.397097505668935}}
 L["lets share the milk of human kindness"]={{path="chatsounds/autoadd/archer/lets share the milk of human kindness.ogg",length=2.3955782312925171}}
