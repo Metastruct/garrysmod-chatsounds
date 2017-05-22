@@ -1549,7 +1549,7 @@ L["youd better get going now"]={{path="vo/canals/matt_go_nag01.wav",length=1.101
 L["youd better reload"]={{path="vo/npc/male01/youdbetterreload01.wav",length=1.0753514766693},{path="vo/npc/female01/youdbetterreload01.wav",length=0.8547845804989},{path="vo/npc/alyx/youreload02.wav",length=0.9354875283447},{path="vo/npc/alyx/youreload01.wav",length=0.8830158730159}}
 L["youd better run theres nothing else you can do here"]={{path="vo/canals/arrest_run.wav",length=2.7756688594818}}
 L["youll find more help up at station 7 just a few bends up the river its the old red barn"]={{path="vo/canals/airboat_redbarn.wav",length=5.2148299217224}}
-L["youll find the launcher for your rockets up in the lighthouse freeman"]={{path="vo/coast/barn/male01/lite_rockets04.wav",length=2.9358049886621},{path="vo/coast/barn/female01/lite_rockets04.wav",length=2.4003628117914}}
+L["youll find the rockets for your launcher up in the lighthouse freeman"]={{path="vo/coast/barn/male01/lite_rockets04.wav",length=2.9358049886621},{path="vo/coast/barn/female01/lite_rockets04.wav",length=2.4003628117914}}
 L["youll have to forgive the scanning process we cant take any chances"]={{path="vo/eli_lab/mo_airlock05.wav",length=3.1895010471344}}
 L["youll have to wait your turn like everybody else"]={{path="vo/trainyard/male01/cit_foodline02.wav",length=2.4438548752834},{path="vo/trainyard/female01/cit_foodline02.wav",length=1.8216553287982}}
 L["youll make it through if anyone can"]={{path="vo/coast/odessa/nlo_cub_youllmakeit.wav",length=1.8376417160034}}
