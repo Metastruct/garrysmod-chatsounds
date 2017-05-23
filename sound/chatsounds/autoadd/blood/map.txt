@@ -1,7 +1,7 @@
 # Do not put them in folders with its "qoute" since we can't add alias for a certain folder path
 #
 # For example we can't add aliases "CULTSPT" and "CULTROM"(louder)
-# for "geroshay cruo" if they both are in the same exact folder. Sorry for any broken english
+# for "geroshay cruo" if they both are in the same exact folder.
 
 # Qoutes
 cultpan1; dargh; replace
@@ -16,7 +16,7 @@ cultspt4; crudux cruo; replace
 #cultrom3; geroshay cruo; replace
 
 
-# DONT WORK - PREPROCESSOR CANT HANDLE MORE THAN ONE ALIAS. AWAITING FIX
+# DONT WORK - PREPROCESSOR CANT HANDLE MORE THAN ONE ALIAS.
 ## Raw sound names for those who wants to play a random sound from category
 #
 ## CULTROM
@@ -43,7 +43,7 @@ cultspt4; crudux cruo; replace
 #it burns it burns; cultfir
 #aah aah aah oaah oaaahhhhh; cultfir
 #
-## CULTDIE - unknown if 4th sound is an actual deathsound
+## CULTDIE - not sure if 4th sound is an actual deathsound
 #aaaaaaaaaah; cultdie
 #aaaaaaaah; cultdie
 #aaaaaah; cultdie
