@@ -12,7 +12,7 @@ L["harry for gods sake you are a wizard"]={{path="chatsounds/autoadd/wizard-harr
 L["harry youre a wizard"]={{path="chatsounds/autoadd/wizard-harry/harry youre a wizard.ogg",length=2.1834013605442175}}
 L["i did that when i was younger it was a bad move you are a wizard"]={{path="chatsounds/autoadd/wizard-harry/i did that when i was younger it was a bad move you are a wizard.ogg",length=5.7704308390022678}}
 L["i dont give a fuck you fat hairy bastard im not a wizard"]={{path="chatsounds/autoadd/wizard-harry/i dont give a fuck you fat hairy bastard im not a wizard.ogg",length=6.3318820861678002}}
-L["i dont want to do your fucking spells your basket case"]={{path="chatsounds/autoadd/wizard-harry/i dont want to do your fucking spells your basket case.ogg",length=4.3356235827664396}}
+L["i dont want to do your fucking spells you basket case"]={{path="chatsounds/autoadd/wizard-harry/i dont want to do your fucking spells you basket case.ogg",length=4.3356235827664396}}
 L["ill fuckin burst ye"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin burst ye.ogg",length=2.6512925170068029}}
 L["ill fuckin gnaw your arm off hagrid"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin gnaw your arm off hagrid.ogg",length=3.025578231292517}}
 L["ill fuckin set your beard on fire"]={{path="chatsounds/autoadd/wizard-harry/ill fuckin set your beard on fire.ogg",length=2.9631972789115646}}
