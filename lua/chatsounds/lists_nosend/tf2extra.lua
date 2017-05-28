@@ -10,6 +10,7 @@ L["box"]={{path="chatsounds/autoadd/tf2extra/box.ogg",length=0.60088435374149662
 L["bububububububububububububu"]={{path="chatsounds/autoadd/tf2extra/bububububububububububububu.ogg",length=1.2895238095238095}}
 L["but im very certain"]={{path="chatsounds/autoadd/tf2extra/but im very certain.ogg",length=1.4959637188208617}}
 L["but it was then"]={{path="chatsounds/autoadd/tf2extra/but it was then.ogg",length=0.7256235827664399}}
+L["but that thing"]={{path="chatsounds/autoadd/tf2extra/but that thing.ogg",length=2.6819047619047618}}
 L["cant seem"]={{path="chatsounds/autoadd/tf2extra/cant seem.ogg",length=1.0799773242630386}}
 L["capdevelopatre"]={{path="chatsounds/autoadd/tf2extra/capdevelopatre.ogg",length=0.74367346938775514}}
 L["capsaicin"]={{path="chatsounds/autoadd/tf2extra/capsaicin.ogg",length=0.96934240362811797}}
@@ -43,6 +44,7 @@ L["im"]={{path="chatsounds/autoadd/tf2extra/im.ogg",length=0.31927437641723355}}
 L["inspiration"]={{path="chatsounds/autoadd/tf2extra/inspiration.ogg",length=0.93315192743764175}}
 L["is not fair"]={{path="chatsounds/autoadd/tf2extra/is not fair.ogg",length=0.86607709750566897}}
 L["it is so tiny"]={{path="chatsounds/autoadd/tf2extra/it is so tiny.ogg",length=1.4510657596371883}}
+L["it scares me"]={{path="chatsounds/autoadd/tf2extra/it scares me.ogg",length=1.3119274376417234}}
 L["kill me"]={{path="chatsounds/autoadd/tf2extra/kill me/kill me.ogg",length=0.39997732426303856},{path="chatsounds/autoadd/tf2extra/kill me/kill me2.ogg",length=0.80399092970521546},{path="chatsounds/autoadd/tf2extra/kill me/kill me3.ogg",length=0.92879818594104313},{path="chatsounds/autoadd/tf2extra/kill me/kill me4.ogg",length=0.95782312925170066}}
 L["later"]={{path="chatsounds/autoadd/tf2extra/later.ogg",length=0.47997732426303857}}
 L["lets go practice medicine"]={{path="chatsounds/autoadd/tf2extra/lets go practice medicine.ogg",length=2.3199773242630384}}
