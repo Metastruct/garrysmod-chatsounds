@@ -64,7 +64,7 @@ L["fuck you"]={{path="chatsounds/autoadd/postal/fuck you.ogg",length=0.854467120
 L["gah i feel like il get hepatitis if i touch anything in this fucking town"]={{path="chatsounds/autoadd/postal/gah i feel like il get hepatitis if i touch anything in this fucking town.ogg",length=4.1912925170068025}}
 L["gee"]={{path="chatsounds/autoadd/postal/gee.ogg",length=0.53047619047619043}}
 L["gee i hope nobody is taping this"]={{path="chatsounds/autoadd/postal/gee i hope nobody is taping this.ogg",length=2.4704308390022676}}
-L["gee that wasnt so awefull"]={{path="chatsounds/autoadd/postal/gee that wasnt so awefull.ogg",length=2.3533333333333335}}
+L["gee that wasnt so awful"]={{path="chatsounds/autoadd/postal/gee that wasnt so awful.ogg",length=2.3533333333333335}}
 L["geez if the sherrif turns out to be don nots il kill everyone and then myself"]={{path="chatsounds/autoadd/postal/geez if the sherrif turns out to be don nots il kill everyone and then myself.ogg",length=4.1765986394557819}}
 L["geeze whoever designed this town was on serious crack"]={{path="chatsounds/autoadd/postal/geeze whoever designed this town was on serious crack.ogg",length=3.1676190476190476}}
 L["get down"]={{path="chatsounds/autoadd/postal/get down.ogg",length=0.8067573696145125}}
@@ -74,7 +74,7 @@ L["give me some money"]={{path="chatsounds/autoadd/postal/give me some money.ogg
 L["glad to see my tax dollars not going to waste"]={{path="chatsounds/autoadd/postal/glad to see my tax dollars not going to waste.ogg",length=2.2926984126984129}}
 L["go long"]={{path="chatsounds/autoadd/postal/go long.ogg",length=0.87233560090702944}}
 L["go see vince"]={{path="chatsounds/autoadd/postal/go see vince.ogg",length=1.1331519274376418}}
-L["god whats that awefull stench"]={{path="chatsounds/autoadd/postal/god whats that awefull stench.ogg",length=2.1024943310657598}}
+L["god whats that awful stench"]={{path="chatsounds/autoadd/postal/god whats that awful stench.ogg",length=2.1024943310657598}}
 L["good thing im a people person"]={{path="chatsounds/autoadd/postal/good thing im a people person.ogg",length=2.318548752834467}}
 L["grandfather of jimmy joe billy bob cousin of johnny joe billy jimbo bob"]={{path="chatsounds/autoadd/postal/grandfather of jimmy joe billy bob cousin of johnny joe billy jimbo bob.ogg",length=5.1044444444444448}}
 L["gues i need to get to the top floor"]={{path="chatsounds/autoadd/postal/gues i need to get to the top floor.ogg",length=1.8265306122448979}}

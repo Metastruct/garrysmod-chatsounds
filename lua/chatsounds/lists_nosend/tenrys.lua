@@ -68,6 +68,14 @@ L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.12526077097
 L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.3094784580498868}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623015873015873}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.75183673469388}}
+L["robloxbass"]={{path="chatsounds/autoadd/tenrys/robloxbass.ogg",length=0.93600907029478453}}
+L["robloxbutton"]={{path="chatsounds/autoadd/tenrys/robloxbutton.ogg",length=0.33024943310657595}}
+L["robloxdeath"]={{path="chatsounds/autoadd/tenrys/robloxdeath.ogg",length=0.34231292517006801}}
+L["robloxhit"]={{path="chatsounds/autoadd/tenrys/robloxhit.ogg",length=0.78367346938775506}}
+L["robloxswoosh"]={{path="chatsounds/autoadd/tenrys/robloxswoosh.ogg",length=0.24337868480725625}}
+L["robloxswordlunge"]={{path="chatsounds/autoadd/tenrys/robloxswordlunge.ogg",length=0.75755102040816324}}
+L["robloxswordslash"]={{path="chatsounds/autoadd/tenrys/robloxswordslash.ogg",length=0.20539682539682538}}
+L["robloxunsheath"]={{path="chatsounds/autoadd/tenrys/robloxunsheath.ogg",length=0.70530612244897961}}
 L["russian rage"]={{path="chatsounds/autoadd/tenrys/russian rage.ogg",length=3.4650566893424037}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.1922448979591838}}
 L["stop"]={{path="chatsounds/autoadd/tenrys/stop.ogg",length=0.6412244897959184}}

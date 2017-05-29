@@ -423,7 +423,7 @@ L["come on gordon lets go find the power switch"]={{path="vo/episode_1/c17/al_la
 L["come on gordon this whole place is crumbling weve got to get to the core"]={{path="vo/episode_1/citadel/al_crumbling.wav",length=3.5671656131744}}
 L["come on gordon watch the drop"]={{path="vo/episode_1/intro/al_watchdrop.wav",length=2.7022221088409}}
 L["come on gordon we need to keep moving"]={{path="vo/episode_1/c17/al_needtokeepmoving.wav",length=2.6906123161316}}
-L["come on gordonget in"]={{path="vo/episode_1/citadel/al_platform_getin.wav",length=1.2315419912338}}
+L["come on gordon get in"]={{path="vo/episode_1/citadel/al_platform_getin.wav",length=1.2315419912338}}
 L["come on i cant do this alone"]={{path="vo/episode_1/intro/al_getinvan_nag04.wav",length=1.8750113248825}}
 L["come on lets get in"]={{path="vo/episode_1/citadel/al_stalk_okclear.wav",length=1.2727438211441}}
 L["come on people head for the train stations get out of the city while you can"]={{path="vo/episode_1/c17/al_citnag_evac04.wav",length=5.2941498756409}}
