@@ -73,6 +73,7 @@ L["robloxbass"]={{path="chatsounds/autoadd/tenrys/robloxbass.ogg",length=0.93600
 L["robloxbutton"]={{path="chatsounds/autoadd/tenrys/robloxbutton.ogg",length=0.33024943310657595}}
 L["robloxdeath"]={{path="chatsounds/autoadd/tenrys/robloxdeath.ogg",length=0.34231292517006801}}
 L["robloxhit"]={{path="chatsounds/autoadd/tenrys/robloxhit.ogg",length=0.78367346938775506}}
+L["robloxsplat"]={{path="chatsounds/autoadd/tenrys/robloxsplat.ogg",length=0.26312925170068024}}
 L["robloxswoosh"]={{path="chatsounds/autoadd/tenrys/robloxswoosh.ogg",length=0.24337868480725625}}
 L["robloxswordlunge"]={{path="chatsounds/autoadd/tenrys/robloxswordlunge.ogg",length=0.75755102040816324}}
 L["robloxswordslash"]={{path="chatsounds/autoadd/tenrys/robloxswordslash.ogg",length=0.20539682539682538}}
