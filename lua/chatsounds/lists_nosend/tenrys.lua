@@ -1,5 +1,6 @@
 c.StartList("tenrys")
 L["2 ez"]={{path="chatsounds/autoadd/tenrys/2 ez.ogg",length=0.86358276643990928}}
+L["a weapon to surpass metal gear"]={{path="chatsounds/autoadd/tenrys/a weapon to surpass metal gear.ogg",length=3.079705215419501}}
 L["aaaaaaaaaa"]={{path="chatsounds/autoadd/tenrys/aaaaaaaaaa.ogg",length=3.895034013605442}}
 L["aawh"]={{path="chatsounds/autoadd/tenrys/aawh.ogg",length=0.48662131519274376}}
 L["aku aku"]={{path="chatsounds/autoadd/tenrys/aku aku.ogg",length=1.2827437641723356}}

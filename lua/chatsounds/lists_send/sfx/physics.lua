@@ -146,4 +146,5 @@ L["woodsolidimpacthard"]={{path="physics/wood/wood_solid_impact_hard3.wav",lengt
 L["woodsolidimpactsoft"]={{path="physics/wood/wood_solid_impact_soft3.wav",length=0.38469387755102},{path="physics/wood/wood_solid_impact_soft2.wav",length=0.36281179138322},{path="physics/wood/wood_solid_impact_soft1.wav",length=0.47315192743764}}
 L["woodsolidscraperoughloop"]={{path="physics/wood/wood_solid_scrape_rough_loop1.wav",length=5.1313378684807}}
 L["woodstrain"]={{path="physics/wood/wood_strain4.wav",length=0.65034013605442},{path="physics/wood/wood_strain3.wav",length=0.76197278911565},{path="physics/wood/wood_strain2.wav",length=0.49358276643991}}
+L["eggrack"]={{path="phx/eggcrack.wav",length=0.4115873015873}}
 c.EndList()
