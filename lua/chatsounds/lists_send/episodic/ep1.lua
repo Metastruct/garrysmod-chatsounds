@@ -173,239 +173,191 @@ L["charge your flashlight now im gonna need some time to get this powered up"]={
 L["check for survivors gordonanyone hiding"]={{path="vo/episode_1/c17/al_survivors.wav",length=2.30748295784}}
 L["check your ammo"]={{path="vo/episode_1/npc/alyx/al_playerreload03.wav",length=1.0017233560091}}
 L["chuckle"]={{path="vo/episode_1/intro/al_chuckle01.wav",length=1.0666667222977}}
-L["citalertantlions01"]={{path="vo/episode_1/npc/male01/cit_alert_antlions01.wav",length=1.4482993197279},{path="vo/episode_1/npc/female01/cit_alert_antlions01.wav",length=1.2636961451247}}
-L["citalertantlions02"]={{path="vo/episode_1/npc/male01/cit_alert_antlions02.wav",length=1.8890476190476},{path="vo/episode_1/npc/female01/cit_alert_antlions02.wav",length=1.4153287981859}}
-L["citalertantlions03"]={{path="vo/episode_1/npc/male01/cit_alert_antlions03.wav",length=1.5742176870748},{path="vo/episode_1/npc/female01/cit_alert_antlions03.wav",length=1.8702494331066}}
-L["citalertantlions04"]={{path="vo/episode_1/npc/male01/cit_alert_antlions04.wav",length=1.7001360544218},{path="vo/episode_1/npc/female01/cit_alert_antlions04.wav",length=1.9208163265306}}
-L["citalertantlions05"]={{path="vo/episode_1/npc/male01/cit_alert_antlions05.wav",length=1.6162131519274},{path="vo/episode_1/npc/female01/cit_alert_antlions05.wav",length=1.6175283446712}}
-L["citalertantlions06"]={{path="vo/episode_1/npc/male01/cit_alert_antlions06.wav",length=0.8185714285714},{path="vo/episode_1/npc/female01/cit_alert_antlions06.wav",length=0.8087528344671}}
-L["citalertantlions07"]={{path="vo/episode_1/npc/male01/cit_alert_antlions07.wav",length=1.7001587301587},{path="vo/episode_1/npc/female01/cit_alert_antlions07.wav",length=2.4768253968254}}
-L["citalertantlions08"]={{path="vo/episode_1/npc/male01/cit_alert_antlions08.wav",length=1.2173922902494},{path="vo/episode_1/npc/female01/cit_alert_antlions08.wav",length=1.0614965986395}}
-L["citalertantlions09"]={{path="vo/episode_1/npc/male01/cit_alert_antlions09.wav",length=0.8185714285714},{path="vo/episode_1/npc/female01/cit_alert_antlions09.wav",length=1.2131519274376}}
-L["citalertantlions10"]={{path="vo/episode_1/npc/male01/cit_alert_antlions10.wav",length=2.4767573696145},{path="vo/episode_1/npc/female01/cit_alert_antlions10.wav",length=2.3757369614512}}
-L["citalertantlions11"]={{path="vo/episode_1/npc/male01/cit_alert_antlions11.wav",length=1.9520181405896},{path="vo/episode_1/npc/female01/cit_alert_antlions11.wav",length=1.8702494331066}}
-L["citalertantlions12"]={{path="vo/episode_1/npc/male01/cit_alert_antlions12.wav",length=2.5537188208617},{path="vo/episode_1/npc/female01/cit_alert_antlions12.wav",length=2.6790249433107}}
-L["citalertantlions13"]={{path="vo/episode_1/npc/male01/cit_alert_antlions13.wav",length=4.2188888888889},{path="vo/episode_1/npc/female01/cit_alert_antlions13.wav",length=4.2460090702948}}
-L["citalertantlions14"]={{path="vo/episode_1/npc/male01/cit_alert_antlions14.wav",length=3.0224943310658},{path="vo/episode_1/npc/female01/cit_alert_antlions14.wav",length=3.0834013605442}}
-L["citalertantlions15"]={{path="vo/episode_1/npc/male01/cit_alert_antlions15.wav",length=2.3298412698413},{path="vo/episode_1/npc/female01/cit_alert_antlions15.wav",length=2.6284580498866}}
-L["citalertantlions16"]={{path="vo/episode_1/npc/male01/cit_alert_antlions16.wav",length=1.5742176870748},{path="vo/episode_1/npc/female01/cit_alert_antlions16.wav",length=1.5164172335601}}
-L["citalertantlions17"]={{path="vo/episode_1/npc/male01/cit_alert_antlions17.wav",length=1.6371655328798},{path="vo/episode_1/npc/female01/cit_alert_antlions17.wav",length=2.0724489795918}}
-L["citalertantlions18"]={{path="vo/episode_1/npc/male01/cit_alert_antlions18.wav",length=1.2593650793651},{path="vo/episode_1/npc/female01/cit_alert_antlions18.wav",length=1.4153287981859}}
-L["citalertgunship01"]={{path="vo/episode_1/npc/male01/cit_alert_gunship01.wav",length=1.9174603174603},{path="vo/episode_1/npc/female01/cit_alert_gunship01.wav",length=2.080589569161}}
-L["citalertgunship02"]={{path="vo/episode_1/npc/male01/cit_alert_gunship02.wav",length=1.3338775510204},{path="vo/episode_1/npc/female01/cit_alert_gunship02.wav",length=1.15589569161}}
-L["citalertgunship03"]={{path="vo/episode_1/npc/male01/cit_alert_gunship03.wav",length=1.3894557823129},{path="vo/episode_1/npc/female01/cit_alert_gunship03.wav",length=1.0402947845805}}
-L["citalertgunship04"]={{path="vo/episode_1/npc/male01/cit_alert_gunship04.wav",length=1.4728344671202},{path="vo/episode_1/npc/female01/cit_alert_gunship04.wav",length=1.3485260770975}}
-L["citalertgunship05"]={{path="vo/episode_1/npc/male01/cit_alert_gunship05.wav",length=2.1675736961451},{path="vo/episode_1/npc/female01/cit_alert_gunship05.wav",length=1.849410430839}}
-L["citalertgunship06"]={{path="vo/episode_1/npc/male01/cit_alert_gunship06.wav",length=1.5561904761905},{path="vo/episode_1/npc/female01/cit_alert_gunship06.wav",length=1.4063265306122}}
-L["citalertgunship07"]={{path="vo/episode_1/npc/male01/cit_alert_gunship07.wav",length=1.5839682539683},{path="vo/episode_1/npc/female01/cit_alert_gunship07.wav",length=1.7338095238095}}
-L["citalertgunship08"]={{path="vo/episode_1/npc/male01/cit_alert_gunship08.wav",length=2.3620861678005},{path="vo/episode_1/npc/female01/cit_alert_gunship08.wav",length=2.3310430839002}}
-L["citalerthead01"]={{path="vo/episode_1/npc/male01/cit_alert_head01.wav",length=1.6081632653061},{path="vo/episode_1/npc/female01/cit_alert_head01.wav",length=1.05179138322}}
-L["citalerthead02"]={{path="vo/episode_1/npc/male01/cit_alert_head02.wav",length=3.1432426303855},{path="vo/episode_1/npc/female01/cit_alert_head02.wav",length=2.0518820861678}}
-L["citalerthead03"]={{path="vo/episode_1/npc/male01/cit_alert_head03.wav",length=1.1695691609977},{path="vo/episode_1/npc/female01/cit_alert_head03.wav",length=2.0863718820862}}
-L["citalerthead04"]={{path="vo/episode_1/npc/male01/cit_alert_head04.wav",length=0.9746485260771},{path="vo/episode_1/npc/female01/cit_alert_head04.wav",length=1.3104535147392}}
-L["citalerthead05"]={{path="vo/episode_1/npc/male01/cit_alert_head05.wav",length=0.9015646258503},{path="vo/episode_1/npc/female01/cit_alert_head05.wav",length=0.7586848072562}}
-L["citalerthead06"]={{path="vo/episode_1/npc/male01/cit_alert_head06.wav",length=0.9502721088435},{path="vo/episode_1/npc/female01/cit_alert_head06.wav",length=0.8966213151927}}
-L["citalerthead07"]={{path="vo/episode_1/npc/male01/cit_alert_head07.wav",length=0.8284580498866},{path="vo/episode_1/npc/female01/cit_alert_head07.wav",length=1.2931972789116}}
-L["citalerthead08"]={{path="vo/episode_1/npc/male01/cit_alert_head08.wav",length=1.6325396825397},{path="vo/episode_1/npc/female01/cit_alert_head08.wav",length=1.6897732426304}}
-L["citalertrollers01"]={{path="vo/episode_1/npc/male01/cit_alert_rollers01.wav",length=1.2783219954649},{path="vo/episode_1/npc/female01/cit_alert_rollers01.wav",length=1.1146712018141}}
-L["citalertrollers02"]={{path="vo/episode_1/npc/male01/cit_alert_rollers02.wav",length=1.1504988662132},{path="vo/episode_1/npc/female01/cit_alert_rollers02.wav",length=1.1146712018141}}
-L["citalertrollers03"]={{path="vo/episode_1/npc/male01/cit_alert_rollers03.wav",length=1.6192063492063},{path="vo/episode_1/npc/female01/cit_alert_rollers03.wav",length=1.4331519274376}}
-L["citalertrollers04"]={{path="vo/episode_1/npc/male01/cit_alert_rollers04.wav",length=0.9374376417234}}
-L["citalertsoldier01"]={{path="vo/episode_1/npc/male01/cit_alert_soldier01.wav",length=2.5001360544218},{path="vo/episode_1/npc/female01/cit_alert_soldier01.wav",length=1.9468934240363}}
-L["citalertsoldier02"]={{path="vo/episode_1/npc/male01/cit_alert_soldier02.wav",length=2.0834467120181},{path="vo/episode_1/npc/female01/cit_alert_soldier02.wav",length=1.8289115646259}}
-L["citalertsoldier03"]={{path="vo/episode_1/npc/male01/cit_alert_soldier03.wav",length=2.9168253968254},{path="vo/episode_1/npc/female01/cit_alert_soldier03.wav",length=2.9498412698413}}
-L["citalertsoldier04"]={{path="vo/episode_1/npc/male01/cit_alert_soldier04.wav",length=0.9028117913832},{path="vo/episode_1/npc/female01/cit_alert_soldier04.wav",length=1.0161904761905}}
-L["citalertsoldier05"]={{path="vo/episode_1/npc/male01/cit_alert_soldier05.wav",length=1.2500680272109},{path="vo/episode_1/npc/female01/cit_alert_soldier05.wav",length=1.4707936507937}}
-L["citalertsoldier06"]={{path="vo/episode_1/npc/male01/cit_alert_soldier06.wav",length=1.8751020408163},{path="vo/episode_1/npc/female01/cit_alert_soldier06.wav",length=1.9521541950113}}
-L["citalertsoldier07"]={{path="vo/episode_1/npc/male01/cit_alert_soldier07.wav",length=0.6481859410431},{path="vo/episode_1/npc/female01/cit_alert_soldier07.wav",length=0.8290022675737}}
-L["citalertsoldierabove"]={{path="vo/episode_1/npc/male01/cit_alert_soldier_above.wav",length=1.4931292517007},{path="vo/episode_1/npc/female01/cit_alert_soldier_above.wav",length=1.4159183673469}}
-L["citalertzombie01"]={{path="vo/episode_1/npc/male01/cit_alert_zombie01.wav",length=0.8653741496599},{path="vo/episode_1/npc/female01/cit_alert_zombie01.wav",length=1.05179138322}}
-L["citalertzombie02"]={{path="vo/episode_1/npc/male01/cit_alert_zombie02.wav",length=1.9200453514739},{path="vo/episode_1/npc/female01/cit_alert_zombie02.wav",length=1.379410430839}}
-L["citalertzombie03"]={{path="vo/episode_1/npc/male01/cit_alert_zombie03.wav",length=1.0546712018141},{path="vo/episode_1/npc/female01/cit_alert_zombie03.wav",length=1.1897505668934}}
-L["citalertzombie04"]={{path="vo/episode_1/npc/male01/cit_alert_zombie04.wav",length=0.5949433106576},{path="vo/episode_1/npc/female01/cit_alert_zombie04.wav",length=0.7931746031746}}
-L["citalertzombie05"]={{path="vo/episode_1/npc/male01/cit_alert_zombie05.wav",length=1.5684807256236},{path="vo/episode_1/npc/female01/cit_alert_zombie05.wav",length=1.8621995464853}}
-L["citalertzombie06"]={{path="vo/episode_1/npc/male01/cit_alert_zombie06.wav",length=0.7301587301587},{path="vo/episode_1/npc/female01/cit_alert_zombie06.wav",length=0.9138548752834}}
-L["citalertzombie07"]={{path="vo/episode_1/npc/male01/cit_alert_zombie07.wav",length=1.1358049886621},{path="vo/episode_1/npc/female01/cit_alert_zombie07.wav",length=0.9656009070295}}
-L["citalertzombie08"]={{path="vo/episode_1/npc/male01/cit_alert_zombie08.wav",length=2.6502040816327},{path="vo/episode_1/npc/female01/cit_alert_zombie08.wav",length=2.0518820861678}}
-L["citalertzombie09"]={{path="vo/episode_1/npc/male01/cit_alert_zombie09.wav",length=0.6760770975057}}
-L["citbehindyousfx01"]={{path="vo/episode_1/npc/male01/cit_behindyousfx01.wav",length=2.3301360544218}}
-L["citbehindyousfx02"]={{path="vo/episode_1/npc/male01/cit_behindyousfx02.wav",length=2.4803854875283}}
-L["citbuddykilled01"]={{path="vo/episode_1/npc/male01/cit_buddykilled01.wav",length=1.0486394557823},{path="vo/episode_1/npc/female01/cit_buddykilled01.wav",length=0.8095464852608}}
-L["citbuddykilled02"]={{path="vo/episode_1/npc/male01/cit_buddykilled02.wav",length=3.791179138322},{path="vo/episode_1/npc/female01/cit_buddykilled02.wav",length=2.708843537415}}
-L["citbuddykilled03"]={{path="vo/episode_1/npc/male01/cit_buddykilled03.wav",length=0.645306122449},{path="vo/episode_1/npc/female01/cit_buddykilled03.wav",length=0.8406575963719}}
-L["citbuddykilled04"]={{path="vo/episode_1/npc/male01/cit_buddykilled04.wav",length=1.6939229024943},{path="vo/episode_1/npc/female01/cit_buddykilled04.wav",length=1.3232879818594}}
-L["citbuddykilled05"]={{path="vo/episode_1/npc/male01/cit_buddykilled05.wav",length=1.2099546485261},{path="vo/episode_1/npc/female01/cit_buddykilled05.wav",length=0.8718140589569}}
-L["citbuddykilled06"]={{path="vo/episode_1/npc/male01/cit_buddykilled06.wav",length=1.6939229024943},{path="vo/episode_1/npc/female01/cit_buddykilled06.wav",length=0.8614285714286}}
-L["citbuddykilled07"]={{path="vo/episode_1/npc/male01/cit_buddykilled07.wav",length=1.4519501133787},{path="vo/episode_1/npc/female01/cit_buddykilled07.wav",length=0.902925170068}}
-L["citbuddykilled08"]={{path="vo/episode_1/npc/male01/cit_buddykilled08.wav",length=1.5326077097506},{path="vo/episode_1/npc/female01/cit_buddykilled08.wav",length=1.0171201814059}}
-L["citbuddykilled09"]={{path="vo/episode_1/npc/male01/cit_buddykilled09.wav",length=1.2099546485261},{path="vo/episode_1/npc/female01/cit_buddykilled09.wav",length=0.6850113378685}}
-L["citbuddykilled10"]={{path="vo/episode_1/npc/male01/cit_buddykilled10.wav",length=2.500566893424},{path="vo/episode_1/npc/female01/cit_buddykilled10.wav",length=1.7021088435374}}
-L["citbuddykilled11"]={{path="vo/episode_1/npc/male01/cit_buddykilled11.wav",length=2.2585714285714},{path="vo/episode_1/npc/female01/cit_buddykilled11.wav",length=1.1935600907029}}
-L["citbuddykilled12"]={{path="vo/episode_1/npc/male01/cit_buddykilled12.wav",length=3.5491836734694},{path="vo/episode_1/npc/female01/cit_buddykilled12.wav",length=1.3180952380952}}
-L["citbuddykilled13"]={{path="vo/episode_1/npc/male01/cit_buddykilled13.wav",length=1.9359410430839},{path="vo/episode_1/npc/female01/cit_buddykilled13.wav",length=1.3492290249433}}
-L["citbuddykilled14"]={{path="vo/episode_1/npc/female01/cit_buddykilled14.wav",length=0.9185034013605}}
-L["citbuddykilled15"]={{path="vo/episode_1/npc/female01/cit_buddykilled15.wav",length=1.1209070294785}}
-L["citcomehere"]={{path="vo/episode_1/npc/male01/cit_comehere.wav",length=0.6697505668934},{path="vo/episode_1/npc/female01/cit_comehere.wav",length=0.7834467120181}}
-L["citdenytrain01"]={{path="vo/episode_1/npc/male01/cit_denytrain01.wav",length=2.9037188208617},{path="vo/episode_1/npc/female01/cit_denytrain01.wav",length=2.5172335600907}}
-L["citdenytrain02"]={{path="vo/episode_1/npc/male01/cit_denytrain02.wav",length=3.9111337868481},{path="vo/episode_1/npc/female01/cit_denytrain02.wav",length=3.4243083900227}}
-L["citdenytrain03"]={{path="vo/episode_1/npc/male01/cit_denytrain03.wav",length=2.9629705215419},{path="vo/episode_1/npc/female01/cit_denytrain03.wav",length=2.5852380952381}}
-L["citdenytrain04"]={{path="vo/episode_1/npc/male01/cit_denytrain04.wav",length=2.4296598639456},{path="vo/episode_1/npc/female01/cit_denytrain04.wav",length=2.0636507936508}}
-L["citevaccasualty01"]={{path="vo/episode_1/npc/male01/cit_evac_casualty01.wav",length=1.7655555555556},{path="vo/episode_1/npc/female01/cit_evac_casualty01.wav",length=1.5197278911565}}
-L["citevaccasualty02"]={{path="vo/episode_1/npc/male01/cit_evac_casualty02.wav",length=2.1186621315193},{path="vo/episode_1/npc/female01/cit_evac_casualty02.wav",length=1.5414285714286}}
-L["citevaccasualty03"]={{path="vo/episode_1/npc/male01/cit_evac_casualty03.wav",length=1.5007256235828},{path="vo/episode_1/npc/female01/cit_evac_casualty03.wav",length=1.4546031746032}}
-L["citevaccasualty04"]={{path="vo/episode_1/npc/male01/cit_evac_casualty04.wav",length=1.9421315192744},{path="vo/episode_1/npc/female01/cit_evac_casualty04.wav",length=1.8236734693878}}
-L["citevaccasualty05"]={{path="vo/episode_1/npc/male01/cit_evac_casualty05.wav",length=1.8538548752834},{path="vo/episode_1/npc/female01/cit_evac_casualty05.wav",length=1.6282766439909}}
-L["citevaccasualty06"]={{path="vo/episode_1/npc/male01/cit_evac_casualty06.wav",length=2.0304081632653},{path="vo/episode_1/npc/female01/cit_evac_casualty06.wav",length=1.8453741496599}}
-L["citevaccasualty07"]={{path="vo/episode_1/npc/male01/cit_evac_casualty07.wav",length=2.47179138322},{path="vo/episode_1/npc/female01/cit_evac_casualty07.wav",length=2.0841950113379}}
-L["citevaccasualty08"]={{path="vo/episode_1/npc/male01/cit_evac_casualty08.wav",length=2.5600680272109},{path="vo/episode_1/npc/female01/cit_evac_casualty08.wav",length=1.6065759637188}}
-L["citevaccasualty09"]={{path="vo/episode_1/npc/male01/cit_evac_casualty09.wav",length=1.5890022675737},{path="vo/episode_1/npc/female01/cit_evac_casualty09.wav",length=1.3460544217687}}
-L["citevaccasualty10"]={{path="vo/episode_1/npc/male01/cit_evac_casualty10.wav",length=1.6772789115646},{path="vo/episode_1/npc/female01/cit_evac_casualty10.wav",length=1.6934013605442}}
-L["citevaccasualty11"]={{path="vo/episode_1/npc/male01/cit_evac_casualty11.wav",length=2.8248979591837},{path="vo/episode_1/npc/female01/cit_evac_casualty11.wav",length=1.8236734693878}}
-L["citevacdefendus01"]={{path="vo/episode_1/npc/male01/cit_evac_defendus01.wav",length=1.8538548752834},{path="vo/episode_1/npc/female01/cit_evac_defendus01.wav",length=1.8019727891156}}
-L["citevacdefendus02"]={{path="vo/episode_1/npc/male01/cit_evac_defendus02.wav",length=1.6773015873016},{path="vo/episode_1/npc/female01/cit_evac_defendus02.wav",length=1.4329024943311}}
-L["citevacdefendus03"]={{path="vo/episode_1/npc/male01/cit_evac_defendus03.wav",length=1.5890022675737},{path="vo/episode_1/npc/female01/cit_evac_defendus03.wav",length=1.3677551020408}}
-L["citevacdefendus04"]={{path="vo/episode_1/npc/male01/cit_evac_defendus04.wav",length=2.2069387755102},{path="vo/episode_1/npc/female01/cit_evac_defendus04.wav",length=1.7368480725624}}
-L["citevacdefendus05"]={{path="vo/episode_1/npc/male01/cit_evac_defendus05.wav",length=1.8538321995465},{path="vo/episode_1/npc/female01/cit_evac_defendus05.wav",length=1.7151473922902}}
-L["citevacdefendus06"]={{path="vo/episode_1/npc/male01/cit_evac_defendus06.wav",length=1.3241723356009},{path="vo/episode_1/npc/female01/cit_evac_defendus06.wav",length=1.5414512471655}}
-L["citevacdefendus07"]={{path="vo/episode_1/npc/male01/cit_evac_defendus07.wav",length=1.6772789115646},{path="vo/episode_1/npc/female01/cit_evac_defendus07.wav",length=1.3677551020408}}
-L["citevacdefendus08"]={{path="vo/episode_1/npc/male01/cit_evac_defendus08.wav",length=3.619410430839},{path="vo/episode_1/npc/female01/cit_evac_defendus08.wav",length=2.3013151927438}}
-L["citevacdefendus09"]={{path="vo/episode_1/npc/male01/cit_evac_defendus09.wav",length=2.1186848072562},{path="vo/episode_1/npc/female01/cit_evac_defendus09.wav",length=1.7802494331066}}
-L["citevacdefendusvance"]={{path="vo/episode_1/npc/male01/cit_evac_defendusvance.wav",length=2.5600680272109},{path="vo/episode_1/npc/female01/cit_evac_defendusvance.wav",length=1.5414285714286}}
-L["citevacenemies01"]={{path="vo/episode_1/npc/male01/cit_evac_enemies01.wav",length=1.5007256235828},{path="vo/episode_1/npc/female01/cit_evac_enemies01.wav",length=0.8466893424036}}
-L["citevacenemies02"]={{path="vo/episode_1/npc/male01/cit_evac_enemies02.wav",length=1.6772789115646},{path="vo/episode_1/npc/female01/cit_evac_enemies02.wav",length=1.2809297052154}}
-L["citevacno01"]={{path="vo/episode_1/npc/male01/cit_evac_no01.wav",length=1.258231292517},{path="vo/episode_1/npc/female01/cit_evac_no01.wav",length=1.5007709750567}}
-L["citevacno02"]={{path="vo/episode_1/npc/male01/cit_evac_no02.wav",length=1.8837188208617},{path="vo/episode_1/npc/female01/cit_evac_no02.wav",length=2.1357142857143}}
-L["citevacno03"]={{path="vo/episode_1/npc/male01/cit_evac_no03.wav",length=2.5861224489796},{path="vo/episode_1/npc/female01/cit_evac_no03.wav",length=2.981768707483}}
-L["citevacno04"]={{path="vo/episode_1/npc/male01/cit_evac_no04.wav",length=2.6093424036281},{path="vo/episode_1/npc/female01/cit_evac_no04.wav",length=2.2839002267574}}
-L["citevacok01"]={{path="vo/episode_1/npc/male01/cit_evac_ok01.wav",length=1.9446712018141},{path="vo/episode_1/npc/female01/cit_evac_ok01.wav",length=1.1736734693878}}
-L["citevacok02"]={{path="vo/episode_1/npc/male01/cit_evac_ok02.wav",length=0.8417233560091},{path="vo/episode_1/npc/female01/cit_evac_ok02.wav",length=0.9516326530612}}
-L["citevacok03"]={{path="vo/episode_1/npc/male01/cit_evac_ok03.wav",length=1.9214512471655},{path="vo/episode_1/npc/female01/cit_evac_ok03.wav",length=1.6177777777778}}
-L["citevacok04"]={{path="vo/episode_1/npc/male01/cit_evac_ok04.wav",length=2.1710657596372},{path="vo/episode_1/npc/female01/cit_evac_ok04.wav",length=1.8398185941043}}
-L["citevacthanks01"]={{path="vo/episode_1/npc/male01/cit_evac_thanks01.wav",length=1.5007482993197},{path="vo/episode_1/npc/female01/cit_evac_thanks01.wav",length=1.1072335600907}}
-L["citevacthanks02"]={{path="vo/episode_1/npc/male01/cit_evac_thanks02.wav",length=3.1780045351474},{path="vo/episode_1/npc/female01/cit_evac_thanks02.wav",length=1.6717006802721}}
-L["citevacthanks03"]={{path="vo/episode_1/npc/male01/cit_evac_thanks03.wav",length=1.4124489795918},{path="vo/episode_1/npc/female01/cit_evac_thanks03.wav",length=1.2375056689342}}
-L["citevacthanks04"]={{path="vo/episode_1/npc/male01/cit_evac_thanks04.wav",length=2.383514739229},{path="vo/episode_1/npc/female01/cit_evac_thanks04.wav",length=1.4980272108844}}
-L["citevacthanks05"]={{path="vo/episode_1/npc/male01/cit_evac_thanks05.wav",length=4.4139229024943},{path="vo/episode_1/npc/female01/cit_evac_thanks05.wav",length=1.7151247165533}}
-L["citevacthanksalyx"]={{path="vo/episode_1/npc/male01/cit_evac_thanksalyx.wav",length=1.5890022675737},{path="vo/episode_1/npc/female01/cit_evac_thanksalyx.wav",length=1.2375056689342}}
-L["citgetaboard01"]={{path="vo/episode_1/npc/male01/cit_getaboard01.wav",length=1.6367800453515},{path="vo/episode_1/npc/female01/cit_getaboard01.wav",length=1.1604761904762}}
-L["citgetaboard02"]={{path="vo/episode_1/npc/male01/cit_getaboard02.wav",length=1.091179138322},{path="vo/episode_1/npc/female01/cit_getaboard02.wav",length=0.994693877551}}
-L["citgetaboard03"]={{path="vo/episode_1/npc/male01/cit_getaboard03.wav",length=1.4185487528345},{path="vo/episode_1/npc/female01/cit_getaboard03.wav",length=1.1052154195011}}
-L["citgetaboard04"]={{path="vo/episode_1/npc/male01/cit_getaboard04.wav",length=1.309433106576},{path="vo/episode_1/npc/female01/cit_getaboard04.wav",length=0.967052154195}}
-L["citgetaboard05"]={{path="vo/episode_1/npc/male01/cit_getaboard05.wav",length=1.091179138322},{path="vo/episode_1/npc/female01/cit_getaboard05.wav",length=1.1604761904762}}
-L["citgetoffstreet"]={{path="vo/episode_1/npc/male01/cit_getoffstreet.wav",length=3.572970521542},{path="vo/episode_1/npc/female01/cit_getoffstreet.wav",length=3.3078004535147}}
-L["citgreatshot"]={{path="vo/episode_1/npc/male01/cit_greatshot.wav",length=1.8538321995465},{path="vo/episode_1/npc/female01/cit_greatshot.wav",length=1.1289342403628}}
-L["citgreetalyx01"]={{path="vo/episode_1/npc/male01/cit_greet_alyx01.wav",length=2.6797052154195},{path="vo/episode_1/npc/female01/cit_greet_alyx01.wav",length=1.8900680272109}}
-L["citgreetalyx02"]={{path="vo/episode_1/npc/male01/cit_greet_alyx02.wav",length=1.176462585034},{path="vo/episode_1/npc/female01/cit_greet_alyx02.wav",length=0.7169387755102}}
-L["citgreetalyx03"]={{path="vo/episode_1/npc/male01/cit_greet_alyx03.wav",length=4.7058503401361},{path="vo/episode_1/npc/female01/cit_greet_alyx03.wav",length=3.8453287981859}}
-L["citgreetalyx04"]={{path="vo/episode_1/npc/male01/cit_greet_alyx04.wav",length=1.3071882086168},{path="vo/episode_1/npc/female01/cit_greet_alyx04.wav",length=1.6744217687075}}
-L["citgreetalyx05"]={{path="vo/episode_1/npc/male01/cit_greet_alyx05.wav",length=2.352925170068},{path="vo/episode_1/npc/female01/cit_greet_alyx05.wav",length=1.6945578231293}}
-L["citgreetalyx06"]={{path="vo/episode_1/npc/male01/cit_greet_alyx06.wav",length=1.6993424036281},{path="vo/episode_1/npc/female01/cit_greet_alyx06.wav",length=1.5642176870748}}
-L["citgreetalyx07"]={{path="vo/episode_1/npc/male01/cit_greet_alyx07.wav",length=2.352925170068},{path="vo/episode_1/npc/female01/cit_greet_alyx07.wav",length=2.7373469387755}}
-L["citgreetalyx08"]={{path="vo/episode_1/npc/male01/cit_greet_alyx08.wav",length=3.3986848072562},{path="vo/episode_1/npc/female01/cit_greet_alyx08.wav",length=3.519433106576}}
-L["citgreetalyx09"]={{path="vo/episode_1/npc/male01/cit_greet_alyx09.wav",length=3.3333106575964},{path="vo/episode_1/npc/female01/cit_greet_alyx09.wav",length=3.2587528344671}}
-L["citgreetalyx10"]={{path="vo/episode_1/npc/male01/cit_greet_alyx10.wav",length=2.8104308390023},{path="vo/episode_1/npc/female01/cit_greet_alyx10.wav",length=2.6070068027211}}
-L["citgreetalyx11"]={{path="vo/episode_1/npc/male01/cit_greet_alyx11.wav",length=3.1372335600907},{path="vo/episode_1/npc/female01/cit_greet_alyx11.wav",length=2.7373469387755}}
-L["citgreetalyx12"]={{path="vo/episode_1/npc/male01/cit_greet_alyx12.wav",length=3.2679591836735},{path="vo/episode_1/npc/female01/cit_greet_alyx12.wav",length=4.0408390022676}}
-L["citgreetalyx13"]={{path="vo/episode_1/npc/male01/cit_greet_alyx13.wav",length=3.6601133786848}}
-L["citgunship"]={{path="vo/episode_1/npc/male01/cit_gunship.wav",length=2.20589569161},{path="vo/episode_1/npc/female01/cit_gunship.wav",length=2.7364172335601}}
-L["citheyoverhere"]={{path="vo/episode_1/npc/male01/cit_heyoverhere.wav",length=1.3975510204082},{path="vo/episode_1/npc/female01/cit_heyoverhere.wav",length=1.2655782312925}}
-L["cithurryup"]={{path="vo/episode_1/npc/male01/cit_hurryup.wav",length=0.7009523809524},{path="vo/episode_1/npc/female01/cit_hurryup.wav",length=0.8437188208617}}
-L["cititsaraid"]={{path="vo/episode_1/npc/male01/cit_itsaraid.wav",length=1.2796371882086},{path="vo/episode_1/npc/female01/cit_itsaraid.wav",length=1.0889795918367}}
-L["citjump"]={{path="vo/episode_1/npc/male01/cit_jump.wav",length=0.5043083900227},{path="vo/episode_1/npc/female01/cit_jump.wav",length=0.9328798185941}}
-L["citkill01"]={{path="vo/episode_1/npc/male01/cit_kill01.wav",length=1.1339455782313},{path="vo/episode_1/npc/female01/cit_kill01.wav",length=1.1327210884354}}
-L["citkill02"]={{path="vo/episode_1/npc/male01/cit_kill02.wav",length=1.2533106575964},{path="vo/episode_1/npc/female01/cit_kill02.wav",length=1.3214965986395}}
-L["citkill03"]={{path="vo/episode_1/npc/male01/cit_kill03.wav",length=1.6673696145125},{path="vo/episode_1/npc/female01/cit_kill03.wav",length=1.6046712018141}}
-L["citkill04"]={{path="vo/episode_1/npc/male01/cit_kill04.wav",length=1.5517233560091},{path="vo/episode_1/npc/female01/cit_kill04.wav",length=1.2270975056689}}
-L["citkill05"]={{path="vo/episode_1/npc/male01/cit_kill05.wav",length=1.9238775510204},{path="vo/episode_1/npc/female01/cit_kill05.wav",length=1.6990476190476}}
-L["citkill06"]={{path="vo/episode_1/npc/male01/cit_kill06.wav",length=1.7956235827664},{path="vo/episode_1/npc/female01/cit_kill06.wav",length=0.9911111111111}}
-L["citkill07"]={{path="vo/episode_1/npc/male01/cit_kill07.wav",length=1.9239002267574},{path="vo/episode_1/npc/female01/cit_kill07.wav",length=1.3214965986395}}
-L["citkill08"]={{path="vo/episode_1/npc/male01/cit_kill08.wav",length=1.6673696145125},{path="vo/episode_1/npc/female01/cit_kill08.wav",length=0.9911337868481}}
-L["citkill09"]={{path="vo/episode_1/npc/male01/cit_kill09.wav",length=2.0521315192744},{path="vo/episode_1/npc/female01/cit_kill09.wav",length=1.1327210884354}}
-L["citkill10"]={{path="vo/episode_1/npc/male01/cit_kill10.wav",length=1.8872108843537},{path="vo/episode_1/npc/female01/cit_kill10.wav",length=1.5065079365079}}
-L["citkill11"]={{path="vo/episode_1/npc/male01/cit_kill11.wav",length=1.1543310657596},{path="vo/episode_1/npc/female01/cit_kill11.wav",length=1.1327210884354}}
-L["citkill12"]={{path="vo/episode_1/npc/male01/cit_kill12.wav",length=1.6355782312925},{path="vo/episode_1/npc/female01/cit_kill12.wav",length=0.9485487528345}}
-L["citkill13"]={{path="vo/episode_1/npc/male01/cit_kill13.wav",length=1.2581405895692},{path="vo/episode_1/npc/female01/cit_kill13.wav",length=0.5191609977324}}
-L["citkill14"]={{path="vo/episode_1/npc/male01/cit_kill14.wav",length=1.1543310657596},{path="vo/episode_1/npc/female01/cit_kill14.wav",length=0.7866213151927}}
-L["citkill15"]={{path="vo/episode_1/npc/male01/cit_kill15.wav",length=1.7194557823129},{path="vo/episode_1/npc/female01/cit_kill15.wav",length=1.3372335600907}}
-L["citkill16"]={{path="vo/episode_1/npc/male01/cit_kill16.wav",length=3.4630158730159},{path="vo/episode_1/npc/female01/cit_kill16.wav",length=2.8475056689342}}
-L["citkill17"]={{path="vo/episode_1/npc/male01/cit_kill17.wav",length=1.432358276644},{path="vo/episode_1/npc/female01/cit_kill17.wav",length=1.1169841269841}}
-L["citkill18"]={{path="vo/episode_1/npc/male01/cit_kill18.wav",length=2.2678911564626},{path="vo/episode_1/npc/female01/cit_kill18.wav",length=1.7297052154195}}
-L["citkill19"]={{path="vo/episode_1/npc/male01/cit_kill19.wav",length=1.3839455782313}}
-L["citkill20"]={{path="vo/episode_1/npc/male01/cit_kill20.wav",length=3.7908390022676}}
-L["citletyouthru"]={{path="vo/episode_1/npc/male01/cit_letyouthru.wav",length=1.3075736961451},{path="vo/episode_1/npc/female01/cit_letyouthru.wav",length=1.6791836734694}}
-L["citnoticegravgunkill01"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill01.wav",length=3.4391383219955},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill01.wav",length=2.6399319727891}}
-L["citnoticegravgunkill02"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill02.wav",length=2.1163945578231},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill02.wav",length=1.8919274376417}}
-L["citnoticegravgunkill03"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill03.wav",length=1.5872789115646},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill03.wav",length=1.5399546485261}}
-L["citnoticegravgunkill04"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill04.wav",length=1.8518367346939},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill04.wav",length=1.730612244898}}
-L["citpain01"]={{path="vo/episode_1/npc/male01/cit_pain01.wav",length=1.2617006802721},{path="vo/episode_1/npc/female01/cit_pain01.wav",length=0.8808616780045}}
-L["citpain02"]={{path="vo/episode_1/npc/male01/cit_pain02.wav",length=1.1565532879819},{path="vo/episode_1/npc/female01/cit_pain02.wav",length=0.6851020408163}}
-L["citpain03"]={{path="vo/episode_1/npc/male01/cit_pain03.wav",length=0.9462811791383},{path="vo/episode_1/npc/female01/cit_pain03.wav",length=0.5872562358277}}
-L["citpain04"]={{path="vo/episode_1/npc/male01/cit_pain04.wav",length=0.9813151927438},{path="vo/episode_1/npc/female01/cit_pain04.wav",length=0.367029478458}}
-L["citpain05"]={{path="vo/episode_1/npc/male01/cit_pain05.wav",length=0.9462811791383},{path="vo/episode_1/npc/female01/cit_pain05.wav",length=0.6361904761905}}
-L["citpain06"]={{path="vo/episode_1/npc/male01/cit_pain06.wav",length=0.8060770975057},{path="vo/episode_1/npc/female01/cit_pain06.wav",length=0.5138548752834}}
-L["citpain07"]={{path="vo/episode_1/npc/male01/cit_pain07.wav",length=0.7360090702948},{path="vo/episode_1/npc/female01/cit_pain07.wav",length=1.4191836734694}}
-L["citpain08"]={{path="vo/episode_1/npc/male01/cit_pain08.wav",length=0.7710430839002},{path="vo/episode_1/npc/female01/cit_pain08.wav",length=1.3212925170068}}
-L["citpain09"]={{path="vo/episode_1/npc/male01/cit_pain09.wav",length=0.8761678004535},{path="vo/episode_1/npc/female01/cit_pain09.wav",length=1.1010884353741}}
-L["citpain10"]={{path="vo/episode_1/npc/male01/cit_pain10.wav",length=0.7710430839002},{path="vo/episode_1/npc/female01/cit_pain10.wav",length=0.6117233560091}}
-L["citpain11"]={{path="vo/episode_1/npc/male01/cit_pain11.wav",length=0.66589569161}}
-L["citpain12"]={{path="vo/episode_1/npc/male01/cit_pain12.wav",length=0.9112244897959}}
-L["citpain13"]={{path="vo/episode_1/npc/male01/cit_pain13.wav",length=0.7009297052154}}
-L["citraidsoldiers"]={{path="vo/episode_1/npc/male01/cit_raidsoldiers.wav",length=0.9785487528345},{path="vo/episode_1/npc/female01/cit_raidsoldiers.wav",length=0.9493424036281}}
-L["citreachtrain01"]={{path="vo/episode_1/npc/male01/cit_reachtrain01.wav",length=1.4788662131519},{path="vo/episode_1/npc/female01/cit_reachtrain01.wav",length=0.91179138322}}
-L["citreachtrain02"]={{path="vo/episode_1/npc/male01/cit_reachtrain02.wav",length=1.0985714285714},{path="vo/episode_1/npc/female01/cit_reachtrain02.wav",length=1.5196598639456}}
-L["citreachtrain03"]={{path="vo/episode_1/npc/male01/cit_reachtrain03.wav",length=2.5774149659864},{path="vo/episode_1/npc/female01/cit_reachtrain03.wav",length=1.6578004535147}}
-L["citreachtrain04"]={{path="vo/episode_1/npc/male01/cit_reachtrain04.wav",length=2.0281405895692},{path="vo/episode_1/npc/female01/cit_reachtrain04.wav",length=1.6301587301587}}
-L["citreachtrain05"]={{path="vo/episode_1/npc/male01/cit_reachtrain05.wav",length=1.2675963718821},{path="vo/episode_1/npc/female01/cit_reachtrain05.wav",length=1.4367573696145}}
-L["citremarks01"]={{path="vo/episode_1/npc/male01/cit_remarks01.wav",length=2.1718367346939},{path="vo/episode_1/npc/female01/cit_remarks01.wav",length=2.5262358276644}}
-L["citremarks02"]={{path="vo/episode_1/npc/male01/cit_remarks02.wav",length=2.916462585034},{path="vo/episode_1/npc/female01/cit_remarks02.wav",length=2.484126984127}}
-L["citremarks03"]={{path="vo/episode_1/npc/male01/cit_remarks03.wav",length=1.7374603174603},{path="vo/episode_1/npc/female01/cit_remarks03.wav",length=1.7683673469388}}
-L["citremarks04"]={{path="vo/episode_1/npc/male01/cit_remarks04.wav",length=2.0477324263039},{path="vo/episode_1/npc/female01/cit_remarks04.wav",length=2.0209977324263}}
-L["citremarks05"]={{path="vo/episode_1/npc/male01/cit_remarks05.wav",length=3.7231519274376},{path="vo/episode_1/npc/female01/cit_remarks05.wav",length=2.9051700680272}}
-L["citremarks06"]={{path="vo/episode_1/npc/male01/cit_remarks06.wav",length=4.5298185941043},{path="vo/episode_1/npc/female01/cit_remarks06.wav",length=6.062970521542}}
-L["citremarks07"]={{path="vo/episode_1/npc/male01/cit_remarks07.wav",length=3.2267120181406},{path="vo/episode_1/npc/female01/cit_remarks07.wav",length=2.484126984127}}
-L["citremarks08"]={{path="vo/episode_1/npc/male01/cit_remarks08.wav",length=3.7851927437642},{path="vo/episode_1/npc/female01/cit_remarks08.wav",length=4.08410430839}}
-L["citremarks09"]={{path="vo/episode_1/npc/male01/cit_remarks09.wav",length=5.8949886621315},{path="vo/episode_1/npc/female01/cit_remarks09.wav",length=4.5051473922902}}
-L["citremarks10"]={{path="vo/episode_1/npc/male01/cit_remarks10.wav",length=2.1718367346939},{path="vo/episode_1/npc/female01/cit_remarks10.wav",length=2.2736281179138}}
-L["citremarks11"]={{path="vo/episode_1/npc/male01/cit_remarks11.wav",length=1.6753968253968},{path="vo/episode_1/npc/female01/cit_remarks11.wav",length=1.389433106576}}
-L["citremarks12"]={{path="vo/episode_1/npc/male01/cit_remarks12.wav",length=3.4128798185941},{path="vo/episode_1/npc/female01/cit_remarks12.wav",length=3.2279818594104}}
-L["citremarks13"]={{path="vo/episode_1/npc/male01/cit_remarks13.wav",length=1.9236281179138},{path="vo/episode_1/npc/female01/cit_remarks13.wav",length=2.2315192743764}}
-L["citremarks14"]={{path="vo/episode_1/npc/male01/cit_remarks14.wav",length=3.2887755102041},{path="vo/episode_1/npc/female01/cit_remarks14.wav",length=4.5893197278912}}
-L["citremarks15"]={{path="vo/episode_1/npc/male01/cit_remarks15.wav",length=3.5369614512472},{path="vo/episode_1/npc/female01/cit_remarks15.wav",length=2.9472789115646}}
-L["citremarks16"]={{path="vo/episode_1/npc/male01/cit_remarks16.wav",length=5.460612244898},{path="vo/episode_1/npc/female01/cit_remarks16.wav",length=5.8524489795918}}
-L["citremarks17"]={{path="vo/episode_1/npc/male01/cit_remarks17.wav",length=2.8543990929705},{path="vo/episode_1/npc/female01/cit_remarks17.wav",length=3.7893650793651}}
-L["citremarks18"]={{path="vo/episode_1/npc/male01/cit_remarks18.wav",length=1.5513151927438},{path="vo/episode_1/npc/female01/cit_remarks18.wav",length=1.4315192743764}}
-L["citremarks19"]={{path="vo/episode_1/npc/male01/cit_remarks19.wav",length=3.7231292517007},{path="vo/episode_1/npc/female01/cit_remarks19.wav",length=4.1261904761905}}
-L["citremarks20"]={{path="vo/episode_1/npc/male01/cit_remarks20.wav",length=4.4677777777778},{path="vo/episode_1/npc/female01/cit_remarks20.wav",length=3.7472562358277}}
-L["citremarks21"]={{path="vo/episode_1/npc/male01/cit_remarks21.wav",length=2.7302947845805},{path="vo/episode_1/npc/female01/cit_remarks21.wav",length=2.8630612244898}}
-L["citremarks22"]={{path="vo/episode_1/npc/male01/cit_remarks22.wav",length=2.6061904761905},{path="vo/episode_1/npc/female01/cit_remarks22.wav",length=2.3578231292517}}
-L["citremarks23"]={{path="vo/episode_1/npc/male01/cit_remarks23.wav",length=4.6539229024943},{path="vo/episode_1/npc/female01/cit_remarks23.wav",length=4.2946258503401}}
-L["citrunforit"]={{path="vo/episode_1/npc/male01/cit_runforit.wav",length=0.8141496598639},{path="vo/episode_1/npc/female01/cit_runforit.wav",length=1.119433106576}}
-L["citsafehouse"]={{path="vo/episode_1/npc/male01/cit_safehouse.wav",length=7.6045351473923},{path="vo/episode_1/npc/female01/cit_safehouse.wav",length=7.9460770975057}}
-L["citshock01"]={{path="vo/episode_1/npc/male01/cit_shock01.wav",length=0.8761904761905},{path="vo/episode_1/npc/female01/cit_shock01.wav",length=0.4882993197279}}
-L["citshock02"]={{path="vo/episode_1/npc/male01/cit_shock02.wav",length=0.66589569161},{path="vo/episode_1/npc/female01/cit_shock02.wav",length=0.5139909297052}}
-L["citshock03"]={{path="vo/episode_1/npc/male01/cit_shock03.wav",length=0.4556235827664},{path="vo/episode_1/npc/female01/cit_shock03.wav",length=0.4625850340136}}
-L["citshock04"]={{path="vo/episode_1/npc/male01/cit_shock04.wav",length=0.420566893424},{path="vo/episode_1/npc/female01/cit_shock04.wav",length=0.4368934240363}}
-L["citshock05"]={{path="vo/episode_1/npc/male01/cit_shock05.wav",length=0.5958049886621},{path="vo/episode_1/npc/female01/cit_shock05.wav",length=0.6424943310658}}
-L["citshock06"]={{path="vo/episode_1/npc/male01/cit_shock06.wav",length=0.6308616780045}}
-L["citshock07"]={{path="vo/episode_1/npc/male01/cit_shock07.wav",length=0.6113832199546}}
-L["citshock08"]={{path="vo/episode_1/npc/male01/cit_shock08.wav",length=1.1616099773243}}
-L["citshock09"]={{path="vo/episode_1/npc/male01/cit_shock09.wav",length=0.7336507936508}}
-L["citshock10"]={{path="vo/episode_1/npc/male01/cit_shock10.wav",length=1.4061451247166}}
-L["citshock11"]={{path="vo/episode_1/npc/male01/cit_shock11.wav",length=1.1004761904762}}
-L["citsquadflee01"]={{path="vo/episode_1/npc/male01/cit_squad_flee01.wav",length=3.0732426303855},{path="vo/episode_1/npc/female01/cit_squad_flee01.wav",length=2.2891383219955}}
-L["citsquadflee02"]={{path="vo/episode_1/npc/male01/cit_squad_flee02.wav",length=1.7694557823129},{path="vo/episode_1/npc/female01/cit_squad_flee02.wav",length=1.5924263038549}}
-L["citsquadflee03"]={{path="vo/episode_1/npc/male01/cit_squad_flee03.wav",length=3.3526303854875},{path="vo/episode_1/npc/female01/cit_squad_flee03.wav",length=3.1351247165533}}
-L["citsquadflee04"]={{path="vo/episode_1/npc/male01/cit_squad_flee04.wav",length=2.048843537415},{path="vo/episode_1/npc/female01/cit_squad_flee04.wav",length=1.6422222222222}}
-L["citsquadflee05"]={{path="vo/episode_1/npc/male01/cit_squad_flee05.wav",length=2.8869841269841},{path="vo/episode_1/npc/female01/cit_squad_flee05.wav",length=2.4384353741497}}
-L["citstopburrows"]={{path="vo/episode_1/npc/male01/cit_stopburrows.wav",length=3.5236281179138},{path="vo/episode_1/npc/female01/cit_stopburrows.wav",length=3.4205442176871}}
-L["cittellmeaboutit"]={{path="vo/episode_1/npc/male01/cit_tellmeaboutit.wav",length=3.1230839002268},{path="vo/episode_1/npc/female01/cit_tellmeaboutit.wav",length=2.6462585034014}}
-L["citthateverybody"]={{path="vo/episode_1/npc/male01/cit_thateverybody.wav",length=0.6965986394558},{path="vo/episode_1/npc/female01/cit_thateverybody.wav",length=1.2713605442177}}
-L["citthesearesomuchfun"]={{path="vo/episode_1/npc/male01/cit_thesearesomuchfun.wav",length=4.5966893424036}}
-L["cittheyfoundus"]={{path="vo/episode_1/npc/male01/cit_theyfoundus.wav",length=1.0789342403628},{path="vo/episode_1/npc/female01/cit_theyfoundus.wav",length=1.0052154195011}}
-L["citthisway"]={{path="vo/episode_1/npc/male01/cit_thisway.wav",length=0.5572789115646},{path="vo/episode_1/npc/female01/cit_thisway.wav",length=0.7769614512472}}
-L["cittwopeople"]={{path="vo/episode_1/npc/male01/cit_twopeople.wav",length=2.9373242630385},{path="vo/episode_1/npc/female01/cit_twopeople.wav",length=2.931201814059}}
-L["cityoubet"]={{path="vo/episode_1/npc/male01/cit_youbet.wav",length=1.435283446712},{path="vo/episode_1/npc/female01/cit_youbet.wav",length=1.2007256235828}}
-L["cityouknowodessa"]={{path="vo/episode_1/npc/male01/cit_youknowodessa.wav",length=10.797120181406},{path="vo/episode_1/npc/female01/cit_youknowodessa.wav",length=11.24179138322}}
+L["cover the burrows"]={{path="vo/episode_1/npc/male01/cit_alert_antlions01.wav",length=1.4482993197279},{path="vo/episode_1/npc/female01/cit_alert_antlions01.wav",length=1.2636961451247}}
+L["cover up the openings"]={{path="vo/episode_1/npc/male01/cit_alert_antlions02.wav",length=1.8890476190476},{path="vo/episode_1/npc/female01/cit_alert_antlions02.wav",length=1.4153287981859}}
+L["where are these things coming from"]={{path="vo/episode_1/npc/male01/cit_alert_antlions03.wav",length=1.5742176870748},{path="vo/episode_1/npc/female01/cit_alert_antlions03.wav",length=1.8702494331066}}
+L["how are they getting into the city"]={{path="vo/episode_1/npc/male01/cit_alert_antlions04.wav",length=1.7001360544218},{path="vo/episode_1/npc/female01/cit_alert_antlions04.wav",length=1.9208163265306}}
+L["i hate bugs"]={{path="vo/episode_1/npc/male01/cit_alert_antlions05.wav",length=1.6162131519274},{path="vo/episode_1/npc/female01/cit_alert_antlions05.wav",length=1.6175283446712}}
+L["as if regular bugs werent bad enough"]={{path="vo/episode_1/npc/male01/cit_alert_antlions07.wav",length=1.7001587301587},{path="vo/episode_1/npc/female01/cit_alert_antlions07.wav",length=2.4768253968254}}
+L["i can hear em"]={{path="vo/episode_1/npc/male01/cit_alert_antlions09.wav",length=0.8185714285714},{path="vo/episode_1/npc/female01/cit_alert_antlions09.wav",length=1.2131519274376}}
+L["these antlions must be coming from the subways"]={{path="vo/episode_1/npc/male01/cit_alert_antlions10.wav",length=2.4767573696145},{path="vo/episode_1/npc/female01/cit_alert_antlions10.wav",length=2.3757369614512}}
+L["you hear em underground"]={{path="vo/episode_1/npc/male01/cit_alert_antlions11.wav",length=1.9520181405896},{path="vo/episode_1/npc/female01/cit_alert_antlions11.wav",length=1.8702494331066}}
+L["combine defenses used to keep these antlions away"]={{path="vo/episode_1/npc/male01/cit_alert_antlions12.wav",length=2.5537188208617},{path="vo/episode_1/npc/female01/cit_alert_antlions12.wav",length=2.6790249433107}}
+L["antlions never got into the city in the old days i mean last week"]={{path="vo/episode_1/npc/male01/cit_alert_antlions13.wav",length=4.2188888888889},{path="vo/episode_1/npc/female01/cit_alert_antlions13.wav",length=4.2460090702948}}
+L["atleast the antlions hate the combines as much as they hate us"]={{path="vo/episode_1/npc/male01/cit_alert_antlions14.wav",length=3.0224943310658},{path="vo/episode_1/npc/female01/cit_alert_antlions14.wav",length=3.0834013605442}}
+L["first the combine now this"]={{path="vo/episode_1/npc/male01/cit_alert_antlions15.wav",length=2.3298412698413},{path="vo/episode_1/npc/female01/cit_alert_antlions15.wav",length=2.6284580498866}}
+L["plug those holes"]={{path="vo/episode_1/npc/male01/cit_alert_antlions16.wav",length=1.5742176870748},{path="vo/episode_1/npc/female01/cit_alert_antlions16.wav",length=1.5164172335601}}
+L["theyre coming out of those holes"]={{path="vo/episode_1/npc/male01/cit_alert_antlions17.wav",length=1.6371655328798},{path="vo/episode_1/npc/female01/cit_alert_antlions17.wav",length=2.0724489795918}}
+L["damn these things"]={{path="vo/episode_1/npc/male01/cit_alert_antlions18.wav",length=1.2593650793651},{path="vo/episode_1/npc/female01/cit_alert_antlions18.wav",length=1.4153287981859}}
+L["look out its gonna unload"]={{path="vo/episode_1/npc/male01/cit_alert_gunship01.wav",length=1.9174603174603},{path="vo/episode_1/npc/female01/cit_alert_gunship01.wav",length=2.080589569161}}
+L["its coming for us"]={{path="vo/episode_1/npc/male01/cit_alert_gunship02.wav",length=1.3338775510204},{path="vo/episode_1/npc/female01/cit_alert_gunship02.wav",length=1.15589569161}}
+L["take it down"]={{path="vo/episode_1/npc/male01/cit_alert_gunship03.wav",length=1.3894557823129},{path="vo/episode_1/npc/female01/cit_alert_gunship03.wav",length=1.0402947845805}}
+L["we gotta take it down"]={{path="vo/episode_1/npc/male01/cit_alert_gunship04.wav",length=1.4728344671202},{path="vo/episode_1/npc/female01/cit_alert_gunship04.wav",length=1.3485260770975}}
+L["hit it before it makes another pass"]={{path="vo/episode_1/npc/male01/cit_alert_gunship05.wav",length=2.1675736961451},{path="vo/episode_1/npc/female01/cit_alert_gunship05.wav",length=1.849410430839}}
+L["its gonna tear us apart"]={{path="vo/episode_1/npc/male01/cit_alert_gunship06.wav",length=1.5561904761905},{path="vo/episode_1/npc/female01/cit_alert_gunship06.wav",length=1.4063265306122}}
+L["i think its gonna chew us up"]={{path="vo/episode_1/npc/male01/cit_alert_gunship07.wav",length=1.5839682539683},{path="vo/episode_1/npc/female01/cit_alert_gunship07.wav",length=1.7338095238095}}
+L["god that makes you wish we were still fighting headcrabs"]={{path="vo/episode_1/npc/male01/cit_alert_gunship08.wav",length=2.3620861678005},{path="vo/episode_1/npc/female01/cit_alert_gunship08.wav",length=2.3310430839002}}
+L["so thats a headcrab heh"]={{path="vo/episode_1/npc/male01/cit_alert_head02.wav",length=3.1432426303855},{path="vo/episode_1/npc/female01/cit_alert_head02.wav",length=2.0518820861678}}
+L["get it away from me"]={{path="vo/episode_1/npc/male01/cit_alert_head04.wav",length=0.9746485260771},{path="vo/episode_1/npc/female01/cit_alert_head04.wav",length=1.3104535147392}}
+L["yikes"]={{path="vo/episode_1/npc/male01/cit_alert_head05.wav",length=0.9015646258503},{path="vo/episode_1/npc/female01/cit_alert_head05.wav",length=0.7586848072562}}
+L["dont let that thing get a hold of your head"]={{path="vo/episode_1/npc/male01/cit_alert_head08.wav",length=1.6325396825397},{path="vo/episode_1/npc/female01/cit_alert_head08.wav",length=1.6897732426304}}
+L["dont let em near you"]={{path="vo/episode_1/npc/male01/cit_alert_rollers02.wav",length=1.1504988662132},{path="vo/episode_1/npc/female01/cit_alert_rollers02.wav",length=1.1146712018141}}
+L["keep away from those things"]={{path="vo/episode_1/npc/male01/cit_alert_rollers03.wav",length=1.6192063492063},{path="vo/episode_1/npc/female01/cit_alert_rollers03.wav",length=1.4331519274376}}
+L["were all just targets to them now"]={{path="vo/episode_1/npc/male01/cit_alert_soldier01.wav",length=2.5001360544218},{path="vo/episode_1/npc/female01/cit_alert_soldier01.wav",length=1.9468934240363}}
+L["why havent they left already"]={{path="vo/episode_1/npc/male01/cit_alert_soldier02.wav",length=2.0834467120181},{path="vo/episode_1/npc/female01/cit_alert_soldier02.wav",length=1.8289115646259}}
+L["their leaders gone why the hell are they stickin around"]={{path="vo/episode_1/npc/male01/cit_alert_soldier03.wav",length=2.9168253968254},{path="vo/episode_1/npc/female01/cit_alert_soldier03.wav",length=2.9498412698413}}
+L["overwatch soldiers"]={{path="vo/episode_1/npc/male01/cit_alert_soldier05.wav",length=1.2500680272109},{path="vo/episode_1/npc/female01/cit_alert_soldier05.wav",length=1.4707936507937}}
+L["why didnt they leave with the rest of the combine"]={{path="vo/episode_1/npc/male01/cit_alert_soldier06.wav",length=1.8751020408163},{path="vo/episode_1/npc/female01/cit_alert_soldier06.wav",length=1.9521541950113}}
+L["traitors"]={{path="vo/episode_1/npc/male01/cit_alert_soldier07.wav",length=0.6481859410431},{path="vo/episode_1/npc/female01/cit_alert_soldier07.wav",length=0.8290022675737}}
+L["zombies"]={{path="vo/episode_1/npc/male01/cit_alert_zombie01.wav",length=0.8653741496599},{path="vo/episode_1/npc/female01/cit_alert_zombie01.wav",length=1.05179138322}}
+L["what was that a zombie"]={{path="vo/episode_1/npc/male01/cit_alert_zombie02.wav",length=1.9200453514739},{path="vo/episode_1/npc/female01/cit_alert_zombie02.wav",length=1.379410430839}}
+L["kill it"]={{path="vo/episode_1/npc/male01/cit_alert_zombie04.wav",length=0.5949433106576},{path="vo/episode_1/npc/female01/cit_alert_zombie04.wav",length=0.7931746031746}}
+L["what in gods name is that thing"]={{path="vo/episode_1/npc/male01/cit_alert_zombie05.wav",length=1.5684807256236},{path="vo/episode_1/npc/female01/cit_alert_zombie05.wav",length=1.8621995464853}}
+L["shoot em"]={{path="vo/episode_1/npc/male01/cit_alert_zombie06.wav",length=0.7301587301587},{path="vo/episode_1/npc/female01/cit_alert_zombie06.wav",length=0.9138548752834}}
+L["aim for the head"]={{path="vo/episode_1/npc/male01/cit_alert_zombie07.wav",length=1.1358049886621},{path="vo/episode_1/npc/female01/cit_alert_zombie07.wav",length=0.9656009070295}}
+L["holy crap i think i know that guy"]={{path="vo/episode_1/npc/male01/cit_alert_zombie08.wav",length=2.6502040816327},{path="vo/episode_1/npc/female01/cit_alert_zombie08.wav",length=2.0518820861678}}
+L["scared"]={{path="vo/episode_1/npc/male01/cit_behindyousfx01.wav",length=2.3301360544218}, {path="vo/episode_1/npc/male01/cit_behindyousfx02.wav",length=2.4803854875283}}
+L["oh god im next i just know it"]={{path="vo/episode_1/npc/male01/cit_buddykilled02.wav",length=3.791179138322},{path="vo/episode_1/npc/female01/cit_buddykilled02.wav",length=2.708843537415}}
+L["get up"]={{path="vo/episode_1/npc/male01/cit_buddykilled05.wav",length=1.2099546485261},{path="vo/episode_1/npc/female01/cit_buddykilled05.wav",length=0.8718140589569}}
+L["keep moving"]={{path="vo/episode_1/npc/male01/cit_buddykilled06.wav",length=1.6939229024943},{path="vo/episode_1/npc/female01/cit_buddykilled06.wav",length=0.8614285714286},{path="vo/episode_1/npc/female01/cit_buddykilled15.wav",length=1.1209070294785}}
+L["ah shit"]={{path="vo/episode_1/npc/male01/cit_buddykilled07.wav",length=1.4519501133787},{path="vo/episode_1/npc/female01/cit_buddykilled07.wav",length=0.902925170068}}
+L["man down"]={{path="vo/episode_1/npc/male01/cit_buddykilled08.wav",length=1.5326077097506},{path="vo/episode_1/npc/female01/cit_buddykilled08.wav",length=1.0171201814059}}
+L["why"]={{path="vo/episode_1/npc/male01/cit_buddykilled09.wav",length=1.2099546485261},{path="vo/episode_1/npc/female01/cit_buddykilled09.wav",length=0.6850113378685}}
+L["i think weve made a terrible mistake"]={{path="vo/episode_1/npc/male01/cit_buddykilled10.wav",length=2.500566893424},{path="vo/episode_1/npc/female01/cit_buddykilled10.wav",length=1.7021088435374}}
+L["were all gonna die"]={{path="vo/episode_1/npc/male01/cit_buddykilled11.wav",length=2.2585714285714},{path="vo/episode_1/npc/female01/cit_buddykilled11.wav",length=1.1935600907029}}
+L["thats it im pissed"]={{path="vo/episode_1/npc/male01/cit_buddykilled12.wav",length=3.5491836734694},{path="vo/episode_1/npc/female01/cit_buddykilled12.wav",length=1.3180952380952}}
+L["they killed the new guy"]={{path="vo/episode_1/npc/male01/cit_buddykilled13.wav",length=1.9359410430839},{path="vo/episode_1/npc/female01/cit_buddykilled13.wav",length=1.3492290249433}}
+L["keep up"]={{path="vo/episode_1/npc/female01/cit_buddykilled14.wav",length=0.9185034013605}}
+L["come here"]={{path="vo/episode_1/npc/male01/cit_comehere.wav",length=0.6697505668934},{path="vo/episode_1/npc/female01/cit_comehere.wav",length=0.7834467120181}}
+L["not you freeman you got a job to do"]={{path="vo/episode_1/npc/male01/cit_denytrain01.wav",length=2.9037188208617},{path="vo/episode_1/npc/female01/cit_denytrain01.wav",length=2.5172335600907}}
+L["get back down im sure you wanna help everyone else get to safety first"]={{path="vo/episode_1/npc/male01/cit_denytrain02.wav",length=3.9111337868481},{path="vo/episode_1/npc/female01/cit_denytrain02.wav",length=3.4243083900227}}
+L["youre supposed to wait until everybody else is on board first"]={{path="vo/episode_1/npc/male01/cit_denytrain03.wav",length=2.9629705215419},{path="vo/episode_1/npc/female01/cit_denytrain03.wav",length=2.5852380952381}}
+L["hey freeman get back out there and help"]={{path="vo/episode_1/npc/male01/cit_denytrain04.wav",length=2.4296598639456},{path="vo/episode_1/npc/female01/cit_denytrain04.wav",length=2.0636507936508}}
+L["you can do better than that"]={{path="vo/episode_1/npc/male01/cit_evac_casualty01.wav",length=1.7655555555556},{path="vo/episode_1/npc/female01/cit_evac_casualty01.wav",length=1.5197278911565}}
+L["theyre dying all around me"]={{path="vo/episode_1/npc/male01/cit_evac_casualty02.wav",length=2.1186621315193},{path="vo/episode_1/npc/female01/cit_evac_casualty02.wav",length=1.5414285714286}}
+L["lost another one"]={{path="vo/episode_1/npc/male01/cit_evac_casualty03.wav",length=1.5007256235828},{path="vo/episode_1/npc/female01/cit_evac_casualty03.wav",length=1.4546031746032}}
+L["dont lose another one freeman"]={{path="vo/episode_1/npc/male01/cit_evac_casualty04.wav",length=1.9421315192744},{path="vo/episode_1/npc/female01/cit_evac_casualty04.wav",length=1.8236734693878}}
+L["well never make it at this rate"]={{path="vo/episode_1/npc/male01/cit_evac_casualty05.wav",length=1.8538548752834},{path="vo/episode_1/npc/female01/cit_evac_casualty05.wav",length=1.6282766439909}}
+L["oh god that was close"]={{path="vo/episode_1/npc/male01/cit_evac_casualty06.wav",length=2.0304081632653},{path="vo/episode_1/npc/female01/cit_evac_casualty06.wav",length=1.8453741496599}}
+L["i thought you were supposed to help us"]={{path="vo/episode_1/npc/male01/cit_evac_casualty07.wav",length=2.47179138322},{path="vo/episode_1/npc/female01/cit_evac_casualty07.wav",length=2.0841950113379}}
+L["heeeelp"]={{path="vo/episode_1/npc/male01/cit_evac_casualty08.wav",length=2.5600680272109},{path="vo/episode_1/npc/female01/cit_evac_casualty08.wav",length=1.6065759637188}}
+L["its hopeless"]={{path="vo/episode_1/npc/male01/cit_evac_casualty09.wav",length=1.5890022675737},{path="vo/episode_1/npc/female01/cit_evac_casualty09.wav",length=1.3460544217687}}
+L["lets just give up now"]={{path="vo/episode_1/npc/male01/cit_evac_casualty10.wav",length=1.6772789115646},{path="vo/episode_1/npc/female01/cit_evac_casualty10.wav",length=1.6934013605442}}
+L["holy crap help"]={{path="vo/episode_1/npc/male01/cit_evac_casualty11.wav",length=2.8248979591837},{path="vo/episode_1/npc/female01/cit_evac_casualty11.wav",length=1.8236734693878}}
+L["youre supposed to protect us"]={{path="vo/episode_1/npc/male01/cit_evac_defendus01.wav",length=1.8538548752834},{path="vo/episode_1/npc/female01/cit_evac_defendus01.wav",length=1.8019727891156}}
+L["defend us freeman"]={{path="vo/episode_1/npc/male01/cit_evac_defendus02.wav",length=1.6773015873016},{path="vo/episode_1/npc/female01/cit_evac_defendus02.wav",length=1.4329024943311}}
+L["keep us covered freeman"]={{path="vo/episode_1/npc/male01/cit_evac_defendus03.wav",length=1.5890022675737},{path="vo/episode_1/npc/female01/cit_evac_defendus03.wav",length=1.3677551020408}}
+L["were in your care doctor freeman"]={{path="vo/episode_1/npc/male01/cit_evac_defendus04.wav",length=2.2069387755102},{path="vo/episode_1/npc/female01/cit_evac_defendus04.wav",length=1.7368480725624}}
+L["eh where are we supposed to go again"]={{path="vo/episode_1/npc/male01/cit_evac_defendus05.wav",length=1.8538321995465},{path="vo/episode_1/npc/female01/cit_evac_defendus05.wav",length=1.7151473922902}}
+L["we gotta get outta here"]={{path="vo/episode_1/npc/male01/cit_evac_defendus06.wav",length=1.3241723356009},{path="vo/episode_1/npc/female01/cit_evac_defendus06.wav",length=1.5414512471655}}
+L["make for the trains"]={{path="vo/episode_1/npc/male01/cit_evac_defendus07.wav",length=1.6772789115646},{path="vo/episode_1/npc/female01/cit_evac_defendus07.wav",length=1.3677551020408}}
+L["never thought id be happy to see those trains again"]={{path="vo/episode_1/npc/male01/cit_evac_defendus08.wav",length=3.619410430839},{path="vo/episode_1/npc/female01/cit_evac_defendus08.wav",length=2.3013151927438}}
+L["how about a little help here freeman"]={{path="vo/episode_1/npc/male01/cit_evac_defendus09.wav",length=2.1186848072562},{path="vo/episode_1/npc/female01/cit_evac_defendus09.wav",length=1.7802494331066}}
+L["how about a little help here vance"]={{path="vo/episode_1/npc/male01/cit_evac_defendusvance.wav",length=2.5600680272109},{path="vo/episode_1/npc/female01/cit_evac_defendusvance.wav",length=1.5414285714286}}
+L["theyre coming"]={{path="vo/episode_1/npc/male01/cit_evac_enemies01.wav",length=1.5007256235828},{path="vo/episode_1/npc/female01/cit_evac_enemies01.wav",length=0.8466893424036}}
+L["well follow when we can"]={{path="vo/episode_1/npc/male01/cit_evac_no01.wav",length=1.258231292517},{path="vo/episode_1/npc/female01/cit_evac_no01.wav",length=1.5007709750567}}
+L["were gonna see if we can help anyone else get out"]={{path="vo/episode_1/npc/male01/cit_evac_no02.wav",length=1.8837188208617},{path="vo/episode_1/npc/female01/cit_evac_no02.wav",length=2.1357142857143}}
+L["if theres anyone else in the city well try and help em out"]={{path="vo/episode_1/npc/male01/cit_evac_no03.wav",length=2.5861224489796},{path="vo/episode_1/npc/female01/cit_evac_no03.wav",length=2.981768707483}}
+L["go on without us we got stuff to do"]={{path="vo/episode_1/npc/male01/cit_evac_no04.wav",length=2.6093424036281},{path="vo/episode_1/npc/female01/cit_evac_no04.wav",length=2.2839002267574}}
+L["hell yeah were with ya"]={{path="vo/episode_1/npc/male01/cit_evac_ok01.wav",length=1.9446712018141},{path="vo/episode_1/npc/female01/cit_evac_ok01.wav",length=1.1736734693878}}
+L["well come with you"]={{path="vo/episode_1/npc/male01/cit_evac_ok02.wav",length=0.8417233560091},{path="vo/episode_1/npc/female01/cit_evac_ok02.wav",length=0.9516326530612}}
+L["were getting out as fast as we can"]={{path="vo/episode_1/npc/male01/cit_evac_ok03.wav",length=1.9214512471655},{path="vo/episode_1/npc/female01/cit_evac_ok03.wav",length=1.6177777777778}}
+L["you dont have to ask me twice lets go"]={{path="vo/episode_1/npc/male01/cit_evac_ok04.wav",length=2.1710657596372},{path="vo/episode_1/npc/female01/cit_evac_ok04.wav",length=1.8398185941043}}
+L["thanks freeman"]={{path="vo/episode_1/npc/male01/cit_evac_thanks01.wav",length=1.5007482993197},{path="vo/episode_1/npc/female01/cit_evac_thanks01.wav",length=1.1072335600907}}
+L["we made it thanks to you"]={{path="vo/episode_1/npc/male01/cit_evac_thanks02.wav",length=3.1780045351474},{path="vo/episode_1/npc/female01/cit_evac_thanks02.wav",length=1.6717006802721}}
+L["that was a close one"]={{path="vo/episode_1/npc/male01/cit_evac_thanks03.wav",length=1.4124489795918},{path="vo/episode_1/npc/female01/cit_evac_thanks03.wav",length=1.2375056689342}}
+L["heh i thought wed never make it"]={{path="vo/episode_1/npc/male01/cit_evac_thanks04.wav",length=2.383514739229},{path="vo/episode_1/npc/female01/cit_evac_thanks04.wav",length=1.4980272108844}}
+L["it was touch and go for a minute there"]={{path="vo/episode_1/npc/male01/cit_evac_thanks05.wav",length=4.4139229024943},{path="vo/episode_1/npc/female01/cit_evac_thanks05.wav",length=1.7151247165533}}
+L["thanks alyx"]={{path="vo/episode_1/npc/male01/cit_evac_thanksalyx.wav",length=1.5890022675737},{path="vo/episode_1/npc/female01/cit_evac_thanksalyx.wav",length=1.2375056689342}}
+L["come on people"]={{path="vo/episode_1/npc/male01/cit_getaboard01.wav",length=1.6367800453515},{path="vo/episode_1/npc/female01/cit_getaboard01.wav",length=1.1604761904762}}
+L["get aboard"]={{path="vo/episode_1/npc/male01/cit_getaboard02.wav",length=1.091179138322},{path="vo/episode_1/npc/female01/cit_getaboard02.wav",length=0.994693877551}}
+L["haul ass"]={{path="vo/episode_1/npc/male01/cit_getaboard03.wav",length=1.4185487528345},{path="vo/episode_1/npc/female01/cit_getaboard03.wav",length=1.1052154195011}}
+L["get on here"]={{path="vo/episode_1/npc/male01/cit_getaboard04.wav",length=1.309433106576},{path="vo/episode_1/npc/female01/cit_getaboard04.wav",length=0.967052154195}}
+L["get in quick"]={{path="vo/episode_1/npc/male01/cit_getaboard05.wav",length=1.091179138322},{path="vo/episode_1/npc/female01/cit_getaboard05.wav",length=1.1604761904762}}
+L["come on get off the street the combines moving into this area"]={{path="vo/episode_1/npc/male01/cit_getoffstreet.wav",length=3.572970521542},{path="vo/episode_1/npc/female01/cit_getoffstreet.wav",length=3.3078004535147}}
+L["great shot doc"]={{path="vo/episode_1/npc/male01/cit_greatshot.wav",length=1.8538321995465},{path="vo/episode_1/npc/female01/cit_greatshot.wav",length=1.1289342403628}}
+L["hey youre alyx vance"]={{path="vo/episode_1/npc/male01/cit_greet_alyx01.wav",length=2.6797052154195},{path="vo/episode_1/npc/female01/cit_greet_alyx01.wav",length=1.8900680272109}}
+L["i know you"]={{path="vo/episode_1/npc/male01/cit_greet_alyx02.wav",length=1.176462585034},{path="vo/episode_1/npc/female01/cit_greet_alyx02.wav",length=0.7169387755102}}
+L["alyx vance and gordon freeman you stayed behind to look after us didnt ya"]={{path="vo/episode_1/npc/male01/cit_greet_alyx03.wav",length=4.7058503401361},{path="vo/episode_1/npc/female01/cit_greet_alyx03.wav",length=3.8453287981859}}
+L["who were you again"]={{path="vo/episode_1/npc/male01/cit_greet_alyx04.wav",length=1.3071882086168},{path="vo/episode_1/npc/female01/cit_greet_alyx04.wav",length=1.6744217687075}}
+L["i hope you two are here to help"]={{path="vo/episode_1/npc/male01/cit_greet_alyx05.wav",length=2.352925170068},{path="vo/episode_1/npc/female01/cit_greet_alyx05.wav",length=1.6945578231293}}
+L["youre kleiners daughter right"]={{path="vo/episode_1/npc/male01/cit_greet_alyx06.wav",length=1.6993424036281},{path="vo/episode_1/npc/female01/cit_greet_alyx06.wav",length=1.5642176870748}}
+L["yeah yeah good to see you eh now wheres dog"]={{path="vo/episode_1/npc/male01/cit_greet_alyx07.wav",length=2.352925170068},{path="vo/episode_1/npc/female01/cit_greet_alyx07.wav",length=2.7373469387755}}
+L["alyx oh my god wheres freeman oh oh here he is"]={{path="vo/episode_1/npc/male01/cit_greet_alyx08.wav",length=3.3986848072562},{path="vo/episode_1/npc/female01/cit_greet_alyx08.wav",length=3.519433106576}}
+L["oh hey freeman and this is the misses i presume"]={{path="vo/episode_1/npc/male01/cit_greet_alyx09.wav",length=3.3333106575964},{path="vo/episode_1/npc/female01/cit_greet_alyx09.wav",length=3.2587528344671}}
+L["alyx gordon thank god you made it"]={{path="vo/episode_1/npc/male01/cit_greet_alyx10.wav",length=2.8104308390023},{path="vo/episode_1/npc/female01/cit_greet_alyx10.wav",length=2.6070068027211}}
+L["alyx honestly you think we have any chances"]={{path="vo/episode_1/npc/male01/cit_greet_alyx11.wav",length=3.1372335600907},{path="vo/episode_1/npc/female01/cit_greet_alyx11.wav",length=2.7373469387755}}
+L["yep yep yep why dont you let freeman get a word in for once"]={{path="vo/episode_1/npc/male01/cit_greet_alyx12.wav",length=3.2679591836735},{path="vo/episode_1/npc/female01/cit_greet_alyx12.wav",length=4.0408390022676}}
+L["oh hey freeman and this must be the little lady"]={{path="vo/episode_1/npc/male01/cit_greet_alyx13.wav",length=3.6601133786848}}
+L["oh no gunship run"]={{path="vo/episode_1/npc/male01/cit_gunship.wav",length=2.20589569161},{path="vo/episode_1/npc/female01/cit_gunship.wav",length=2.7364172335601}}
+L["hey over here"]={{path="vo/episode_1/npc/male01/cit_heyoverhere.wav",length=1.3975510204082},{path="vo/episode_1/npc/female01/cit_heyoverhere.wav",length=1.2655782312925}}
+L["its a raid"]={{path="vo/episode_1/npc/male01/cit_itsaraid.wav",length=1.2796371882086},{path="vo/episode_1/npc/female01/cit_itsaraid.wav",length=1.0889795918367}}
+L["one down"]={{path="vo/episode_1/npc/male01/cit_kill02.wav",length=1.2533106575964},{path="vo/episode_1/npc/female01/cit_kill02.wav",length=1.3214965986395}}
+L["one more for me"]={{path="vo/episode_1/npc/male01/cit_kill03.wav",length=1.6673696145125},{path="vo/episode_1/npc/female01/cit_kill03.wav",length=1.6046712018141}}
+L["thats how its done"]={{path="vo/episode_1/npc/male01/cit_kill04.wav",length=1.5517233560091},{path="vo/episode_1/npc/female01/cit_kill04.wav",length=1.2270975056689}}
+L["somebody shed a tear"]={{path="vo/episode_1/npc/male01/cit_kill05.wav",length=1.9238775510204},{path="vo/episode_1/npc/female01/cit_kill05.wav",length=1.6990476190476}}
+L["im getting the hand of this"]={{path="vo/episode_1/npc/male01/cit_kill07.wav",length=1.9239002267574},{path="vo/episode_1/npc/female01/cit_kill07.wav",length=1.3214965986395}}
+L["bingo"]={{path="vo/episode_1/npc/male01/cit_kill08.wav",length=1.6673696145125},{path="vo/episode_1/npc/female01/cit_kill08.wav",length=0.9911337868481}}
+L["take that"]={{path="vo/episode_1/npc/male01/cit_kill09.wav",length=2.0521315192744},{path="vo/episode_1/npc/female01/cit_kill09.wav",length=1.1327210884354},{path="vo/episode_1/npc/male01/cit_kill10.wav",length=1.8872108843537},{path="vo/episode_1/npc/female01/cit_kill10.wav",length=1.5065079365079}}
+L["eat it"]={{path="vo/episode_1/npc/male01/cit_kill13.wav",length=1.2581405895692},{path="vo/episode_1/npc/female01/cit_kill13.wav",length=0.5191609977324}}
+L["die"]={{path="vo/episode_1/npc/male01/cit_kill14.wav",length=1.1543310657596},{path="vo/episode_1/npc/female01/cit_kill14.wav",length=0.7866213151927}}
+L["one for the resistance"]={{path="vo/episode_1/npc/male01/cit_kill15.wav",length=1.7194557823129},{path="vo/episode_1/npc/female01/cit_kill15.wav",length=1.3372335600907}}
+L["rot in hell if you believe in that sort of thing"]={{path="vo/episode_1/npc/male01/cit_kill16.wav",length=3.4630158730159},{path="vo/episode_1/npc/female01/cit_kill16.wav",length=2.8475056689342}}
+L["rot in hell"]={{path="vo/episode_1/npc/male01/cit_kill17.wav",length=1.432358276644},{path="vo/episode_1/npc/female01/cit_kill17.wav",length=1.1169841269841}}
+L["thats how you do it ey freeman"]={{path="vo/episode_1/npc/male01/cit_kill18.wav",length=2.2678911564626},{path="vo/episode_1/npc/female01/cit_kill18.wav",length=1.7297052154195}}
+L["see what i just did there"]={{path="vo/episode_1/npc/male01/cit_kill19.wav",length=1.3839455782313}}
+L["chuckles and giggles"]={{path="vo/episode_1/npc/male01/cit_kill20.wav",length=3.7908390022676}}
+L["ok well let you through"]={{path="vo/episode_1/npc/male01/cit_letyouthru.wav",length=1.3075736961451},{path="vo/episode_1/npc/female01/cit_letyouthru.wav",length=1.6791836734694}}
+L["wow nice trick doctor freeman"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill01.wav",length=3.4391383219955},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill01.wav",length=2.6399319727891}}
+L["that was really somethin doc"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill02.wav",length=2.1163945578231},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill02.wav",length=1.8919274376417}}
+L["what the hell did you just do"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill03.wav",length=1.5872789115646},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill03.wav",length=1.5399546485261}}
+L["sometime you gotta show me how to do that"]={{path="vo/episode_1/npc/male01/cit_notice_gravgunkill04.wav",length=1.8518367346939},{path="vo/episode_1/npc/female01/cit_notice_gravgunkill04.wav",length=1.730612244898}}
+L["pain"]={{path="vo/episode_1/npc/male01/cit_pain01.wav",length=1.2617006802721},{path="vo/episode_1/npc/female01/cit_pain01.wav",length=0.8808616780045},{path="vo/episode_1/npc/male01/cit_pain02.wav",length=1.1565532879819},{path="vo/episode_1/npc/female01/cit_pain02.wav",length=0.6851020408163},{path="vo/episode_1/npc/male01/cit_pain03.wav",length=0.9462811791383},{path="vo/episode_1/npc/female01/cit_pain03.wav",length=0.5872562358277},{path="vo/episode_1/npc/male01/cit_pain04.wav",length=0.9813151927438},{path="vo/episode_1/npc/female01/cit_pain04.wav",length=0.367029478458},{path="vo/episode_1/npc/male01/cit_pain05.wav",length=0.9462811791383},{path="vo/episode_1/npc/female01/cit_pain05.wav",length=0.6361904761905},{path="vo/episode_1/npc/male01/cit_pain06.wav",length=0.8060770975057},{path="vo/episode_1/npc/female01/cit_pain06.wav",length=0.5138548752834},{path="vo/episode_1/npc/male01/cit_pain07.wav",length=0.7360090702948},{path="vo/episode_1/npc/female01/cit_pain07.wav",length=1.4191836734694},{path="vo/episode_1/npc/male01/cit_pain08.wav",length=0.7710430839002},{path="vo/episode_1/npc/female01/cit_pain08.wav",length=1.3212925170068},{path="vo/episode_1/npc/male01/cit_pain09.wav",length=0.8761678004535},{path="vo/episode_1/npc/female01/cit_pain09.wav",length=1.1010884353741},{path="vo/episode_1/npc/male01/cit_pain10.wav",length=0.7710430839002},{path="vo/episode_1/npc/female01/cit_pain10.wav",length=0.6117233560091},{path="vo/episode_1/npc/male01/cit_pain11.wav",length=0.66589569161},{path="vo/episode_1/npc/male01/cit_pain12.wav",length=0.9112244897959},{path="vo/episode_1/npc/male01/cit_pain13.wav",length=0.7009297052154}}
+L["get this thing moving"]={{path="vo/episode_1/npc/male01/cit_reachtrain02.wav",length=1.0985714285714},{path="vo/episode_1/npc/female01/cit_reachtrain02.wav",length=1.5196598639456}}
+L["i made it we can leave now"]={{path="vo/episode_1/npc/male01/cit_reachtrain03.wav",length=2.5774149659864},{path="vo/episode_1/npc/female01/cit_reachtrain03.wav",length=1.6578004535147}}
+L["hurry and lets get out of here"]={{path="vo/episode_1/npc/male01/cit_reachtrain04.wav",length=2.0281405895692},{path="vo/episode_1/npc/female01/cit_reachtrain04.wav",length=1.6301587301587}}
+L["get the hell out of here"]={{path="vo/episode_1/npc/male01/cit_reachtrain05.wav",length=1.2675963718821},{path="vo/episode_1/npc/female01/cit_reachtrain05.wav",length=1.4367573696145}}
+L["i hear its a lot better out in the country"]={{path="vo/episode_1/npc/male01/cit_remarks01.wav",length=2.1718367346939},{path="vo/episode_1/npc/female01/cit_remarks01.wav",length=2.5262358276644}}
+L["everything we do seems to make things worse"]={{path="vo/episode_1/npc/male01/cit_remarks02.wav",length=2.916462585034},{path="vo/episode_1/npc/female01/cit_remarks02.wav",length=2.484126984127}}
+L["it used to be safer here"]={{path="vo/episode_1/npc/male01/cit_remarks03.wav",length=1.7374603174603},{path="vo/episode_1/npc/female01/cit_remarks03.wav",length=1.7683673469388}}
+L["this was such a nice neighborhood too"]={{path="vo/episode_1/npc/male01/cit_remarks04.wav",length=2.0477324263039},{path="vo/episode_1/npc/female01/cit_remarks04.wav",length=2.0209977324263}}
+L["somehow i thought things would be better by now"]={{path="vo/episode_1/npc/male01/cit_remarks05.wav",length=3.7231519274376},{path="vo/episode_1/npc/female01/cit_remarks05.wav",length=2.9051700680272}}
+L["were sitting ducks in here er maybe fish in a barrel anyway its not good"]={{path="vo/episode_1/npc/male01/cit_remarks06.wav",length=4.5298185941043},{path="vo/episode_1/npc/female01/cit_remarks06.wav",length=6.062970521542}}
+L["so much for better living through science"]={{path="vo/episode_1/npc/male01/cit_remarks07.wav",length=3.2267120181406},{path="vo/episode_1/npc/female01/cit_remarks07.wav",length=2.484126984127}}
+L["doctor kleiner says we can mate now not that i needed his permission"]={{path="vo/episode_1/npc/male01/cit_remarks08.wav",length=3.7851927437642},{path="vo/episode_1/npc/female01/cit_remarks08.wav",length=4.08410430839}}
+L["i dont miss doctor breen but i do miss the show remember when he had the jugglers on"]={{path="vo/episode_1/npc/male01/cit_remarks09.wav",length=5.8949886621315},{path="vo/episode_1/npc/female01/cit_remarks09.wav",length=4.5051473922902}}
+L["i hear they put babies in those striders"]={{path="vo/episode_1/npc/male01/cit_remarks10.wav",length=2.1718367346939},{path="vo/episode_1/npc/female01/cit_remarks10.wav",length=2.2736281179138}}
+L["i blame black mesa"]={{path="vo/episode_1/npc/male01/cit_remarks11.wav",length=1.6753968253968},{path="vo/episode_1/npc/female01/cit_remarks11.wav",length=1.389433106576}}
+L["i met odessa cabbage one time sigh what an idiot"]={{path="vo/episode_1/npc/male01/cit_remarks12.wav",length=3.4128798185941},{path="vo/episode_1/npc/female01/cit_remarks12.wav",length=3.2279818594104}}
+L["i blame odessa cabbage"]={{path="vo/episode_1/npc/male01/cit_remarks13.wav",length=1.9236281179138},{path="vo/episode_1/npc/female01/cit_remarks13.wav",length=2.2315192743764}}
+L["theyre always saying somethings about to blow i aint buyin it this time"]={{path="vo/episode_1/npc/male01/cit_remarks14.wav",length=3.2887755102041},{path="vo/episode_1/npc/female01/cit_remarks14.wav",length=4.5893197278912}}
+L["im not going nowhere no sir"]={{path="vo/episode_1/npc/male01/cit_remarks15.wav",length=3.5369614512472},{path="vo/episode_1/npc/female01/cit_remarks15.wav",length=2.9472789115646}}
+L["oh no the kleiner speech is starting again cant someone make it stop"]={{path="vo/episode_1/npc/male01/cit_remarks16.wav",length=5.460612244898},{path="vo/episode_1/npc/female01/cit_remarks16.wav",length=5.8524489795918}}
+L["between you and me i dont trust those vortigaunts"]={{path="vo/episode_1/npc/male01/cit_remarks17.wav",length=2.8543990929705},{path="vo/episode_1/npc/female01/cit_remarks17.wav",length=3.7893650793651}}
+L["how about this weather"]={{path="vo/episode_1/npc/male01/cit_remarks18.wav",length=1.5513151927438},{path="vo/episode_1/npc/female01/cit_remarks18.wav",length=1.4315192743764}}
+L["they might call em crabs but i tell you what they dont taste like crab"]={{path="vo/episode_1/npc/male01/cit_remarks19.wav",length=3.7231292517007},{path="vo/episode_1/npc/female01/cit_remarks19.wav",length=4.1261904761905}}
+L["this is gonna sound crazy but i kinda miss the combine"]={{path="vo/episode_1/npc/male01/cit_remarks20.wav",length=4.4677777777778},{path="vo/episode_1/npc/female01/cit_remarks20.wav",length=3.7472562358277}}
+L["sometimes i think everybodys a doctor but me"]={{path="vo/episode_1/npc/male01/cit_remarks21.wav",length=2.7302947845805},{path="vo/episode_1/npc/female01/cit_remarks21.wav",length=2.8630612244898}}
+L["what idiot put kleiner in charge"]={{path="vo/episode_1/npc/male01/cit_remarks22.wav",length=2.6061904761905},{path="vo/episode_1/npc/female01/cit_remarks22.wav",length=2.3578231292517}}
+L["were all starving and kleiners headcrabs probably eating grade a head"]={{path="vo/episode_1/npc/male01/cit_remarks23.wav",length=4.6539229024943},{path="vo/episode_1/npc/female01/cit_remarks23.wav",length=4.2946258503401}}
+L["run for it"]={{path="vo/episode_1/npc/male01/cit_runforit.wav",length=0.8141496598639},{path="vo/episode_1/npc/female01/cit_runforit.wav",length=1.119433106576}}
+L["the combines not making it easy were trying to get enough people together to force our way through to the train station people are meeting up in a safehouse nearby"]={{path="vo/episode_1/npc/male01/cit_safehouse.wav",length=7.6045351473923},{path="vo/episode_1/npc/female01/cit_safehouse.wav",length=7.9460770975057}}
+L["shock"]={{path="vo/episode_1/npc/male01/cit_shock01.wav",length=0.8761904761905},{path="vo/episode_1/npc/female01/cit_shock01.wav",length=0.4882993197279},{path="vo/episode_1/npc/male01/cit_shock11.wav",length=1.1004761904762},{path="vo/episode_1/npc/male01/cit_shock02.wav",length=0.66589569161},{path="vo/episode_1/npc/female01/cit_shock02.wav",length=0.5139909297052},{path="vo/episode_1/npc/male01/cit_shock03.wav",length=0.4556235827664},{path="vo/episode_1/npc/female01/cit_shock03.wav",length=0.4625850340136},{path="vo/episode_1/npc/male01/cit_shock04.wav",length=0.420566893424},{path="vo/episode_1/npc/female01/cit_shock04.wav",length=0.4368934240363},{path="vo/episode_1/npc/male01/cit_shock05.wav",length=0.5958049886621},{path="vo/episode_1/npc/female01/cit_shock05.wav",length=0.6424943310658},{path="vo/episode_1/npc/male01/cit_shock06.wav",length=0.6308616780045},{path="vo/episode_1/npc/male01/cit_shock07.wav",length=0.6113832199546},{path="vo/episode_1/npc/male01/cit_shock08.wav",length=1.1616099773243}}
+L["whatthehell"]={{path="vo/episode_1/npc/male01/cit_shock09.wav",length=0.7336507936508}}
+L["hholy sh"]={{path="vo/episode_1/npc/male01/cit_shock10.wav",length=1.4061451247166}}
+L["you heard the old egghead get out of that city"]={{path="vo/episode_1/npc/male01/cit_squad_flee01.wav",length=3.0732426303855},{path="vo/episode_1/npc/female01/cit_squad_flee01.wav",length=2.2891383219955}}
+L["everybody keep moving"]={{path="vo/episode_1/npc/male01/cit_squad_flee02.wav",length=1.7694557823129},{path="vo/episode_1/npc/female01/cit_squad_flee02.wav",length=1.5924263038549}}
+L["dont get held up we gotta get to the train station"]={{path="vo/episode_1/npc/male01/cit_squad_flee03.wav",length=3.3526303854875},{path="vo/episode_1/npc/female01/cit_squad_flee03.wav",length=3.1351247165533}}
+L["come on to the stations"]={{path="vo/episode_1/npc/male01/cit_squad_flee04.wav",length=2.048843537415},{path="vo/episode_1/npc/female01/cit_squad_flee04.wav",length=1.6422222222222}}
+L["those last trains are leaving we gotta keep moving"]={{path="vo/episode_1/npc/male01/cit_squad_flee05.wav",length=2.8869841269841},{path="vo/episode_1/npc/female01/cit_squad_flee05.wav",length=2.4384353741497}}
+L["hey down there stop up those burrows well let you through"]={{path="vo/episode_1/npc/male01/cit_stopburrows.wav",length=3.5236281179138},{path="vo/episode_1/npc/female01/cit_stopburrows.wav",length=3.4205442176871}}
+L["tell me about it theyre doing their best to trap us here"]={{path="vo/episode_1/npc/male01/cit_tellmeaboutit.wav",length=3.1230839002268},{path="vo/episode_1/npc/female01/cit_tellmeaboutit.wav",length=2.6462585034014}}
+L["is that everybody"]={{path="vo/episode_1/npc/male01/cit_thateverybody.wav",length=0.6965986394558},{path="vo/episode_1/npc/female01/cit_thateverybody.wav",length=1.2713605442177}}
+L["laugh these are so much fun yeah"]={{path="vo/episode_1/npc/male01/cit_thesearesomuchfun.wav",length=4.5966893424036}}
+L["they found us"]={{path="vo/episode_1/npc/male01/cit_theyfoundus.wav",length=1.0789342403628},{path="vo/episode_1/npc/female01/cit_theyfoundus.wav",length=1.0052154195011}}
+L["i heard two people were coming up im gonna wait until youre both here"]={{path="vo/episode_1/npc/male01/cit_twopeople.wav",length=2.9373242630385},{path="vo/episode_1/npc/female01/cit_twopeople.wav",length=2.931201814059}}
+L["you bet lets go"]={{path="vo/episode_1/npc/male01/cit_youbet.wav",length=1.435283446712},{path="vo/episode_1/npc/female01/cit_youbet.wav",length=1.2007256235828}}
+L["hey doctor freeman i heard you were there when odessa cubbage took down the first gunship that mustve been a real honor for you i am proud to say i met someone who knew odessa cubbage"]={{path="vo/episode_1/npc/male01/cit_youknowodessa.wav",length=10.797120181406},{path="vo/episode_1/npc/female01/cit_youknowodessa.wav",length=11.24179138322}}
 L["clear the path here dog"]={{path="vo/episode_1/intro/al_clearapath.wav",length=1.445442199707}}
 L["climb on gordon"]={{path="vo/episode_1/c17/al_train_climbon.wav",length=1.1595464944839}}
 L["coast is clear"]={{path="vo/episode_1/citadel/al_platform_coast.wav",length=1.2291836738586}}
@@ -470,7 +422,7 @@ L["defend the citizens"]={{path="vo/episode_1/c17/ba_defendcitizens06.wav",lengt
 L["did i just see that"]={{path="vo/episode_1/npc/alyx/al_combat_didiseethat.wav",length=1.0025396825397}}
 L["did you hear something"]={{path="vo/episode_1/npc/alyx/al_dark_noises03.wav",length=1.1827664399093}}
 L["did you say something"]={{path="vo/episode_1/npc/alyx/al_deaf_saysomething.wav",length=1.1418594104308}}
-L["did you see that"]={{path="vo/episode_1/citadel/al_dropship_didyouseethat.wav",length=1.0457142591476},{path="vo/episode_1/c17/al_evac_advisor02.wav",length=0.91718822717667}}
+L["did you see that"]={{path="vo/episode_1/npc/male01/cit_kill06.wav",length=1.7956235827664},{path="vo/episode_1/npc/female01/cit_kill06.wav",length=0.9911111111111},{path="vo/episode_1/citadel/al_dropship_didyouseethat.wav",length=1.0457142591476},{path="vo/episode_1/c17/al_evac_advisor02.wav",length=0.91718822717667}}
 L["direct intervention"]={{path="vo/episode_1/intro/al_backintocitadel01.wav",length=1.584580540657}}
 L["do you see light somewhere up there gordon"]={{path="vo/episode_1/c17/al_elev_youseelight.wav",length=2.1849660873413}}
 L["doctor breen ugh i hope weve seen the last of him"]={{path="vo/episode_1/c17/al_breenbust.wav",length=4.5801134109497}}
@@ -528,7 +480,7 @@ L["get in the passenger side gordon"]={{path="vo/episode_1/intro/al_getinvan_nag
 L["get it off"]={{path="vo/episode_1/citadel/al_stalk_getemoff10.wav",length=1.2974150180817}}
 L["get it off get it off"]={{path="vo/episode_1/npc/alyx/al_dark_attack04.wav",length=1.4338321995465}}
 L["get it off me"]={{path="vo/episode_1/citadel/al_stalk_getemoff05.wav",length=1.5020408630371}}
-L["get it off me get it off"]={{path="vo/episode_1/citadel/al_stalk_getemoff09.wav",length=1.7966439723969}}
+L["get it off me get it off"]={{path="vo/episode_1/npc/male01/cit_alert_head03.wav",length=1.1695691609977},{path="vo/episode_1/npc/female01/cit_alert_head03.wav",length=2.0863718820862},{path="vo/episode_1/citadel/al_stalk_getemoff09.wav",length=1.7966439723969}}
 L["get on"]={{path="vo/episode_1/c17/al_elev_geton.wav",length=0.68498867750168}}
 L["get on the back of the train"]={{path="vo/episode_1/c17/al_lasttrain_prompt03.wav",length=1.3307709693909}}
 L["get on the train hurry"]={{path="vo/episode_1/c17/al_nag_station01.wav",length=1.4265760183334}}
@@ -644,7 +596,7 @@ L["he must be worried sick about us"]={{path="vo/episode_1/intro/al_dogmonitorse
 L["he says he took me on it once but i dont remember"]={{path="vo/episode_1/c17/al_train_ride02.wav",length=2.9257142543793}}
 L["he was so sure i wouldnt find you here"]={{path="vo/episode_1/intro/al_dadwassure.wav",length=2.1645350456238}}
 L["head for the trains people im putting you in the care of my old friend gordon freeman"]={{path="vo/episode_1/c17/ba_head4trains.wav",length=5.2048072814941}}
-L["headcrabs"]={{path="vo/episode_1/npc/alyx/al_alert_headcrabs01.wav",length=1.0115192743764}}
+L["headcrabs"]={{path="vo/episode_1/npc/male01/cit_alert_head01.wav",length=1.6081632653061},{path="vo/episode_1/npc/female01/cit_alert_head01.wav",length=1.05179138322},{path="vo/episode_1/npc/alyx/al_alert_headcrabs01.wav",length=1.0115192743764}}
 L["heads up"]={{path="vo/episode_1/npc/alyx/al_grenade_warn_new_04.wav",length=0.7095011337868},{path="vo/episode_1/citadel/al_lift_warns08.wav",length=0.60517007112503}}
 L["hear that"]={{path="vo/episode_1/c17/al_rappel_hearthat_loud.wav",length=0.6378231048584},{path="vo/episode_1/c17/al_rappel_hearthat.wav",length=0.58267575502396}}
 L["hear that sounds like the elevators moving again"]={{path="vo/episode_1/c17/al_elev_hearthat.wav",length=2.905396938324}}
@@ -661,7 +613,7 @@ L["heh yup"]={{path="vo/episode_1/npc/alyx/al_affirm_sarc02.wav",length=1.930181
 L["hell be here later"]={{path="vo/episode_1/npc/alyx/al_greet_cit18.wav",length=2.0433560090703}}
 L["hell know what to do with it"]={{path="vo/episode_1/citadel/al_postcore_trouble03.wav",length=1.0970294475555}}
 L["hell yeah"]={{path="vo/episode_1/c17/ba_hellyeah.wav",length=0.99371880292892}}
-L["help"]={{path="vo/episode_1/npc/alyx/al_dark_worriedest05.wav",length=1.2306575963719},{path="vo/episode_1/npc/alyx/al_dark_attack02.wav",length=0.8359183673469},{path="vo/episode_1/npc/alyx/al_combat_mob04.wav",length=0.7132199546485},{path="vo/episode_1/citadel/al_stalk_getemoff03.wav",length=1.1624490022659},{path="vo/episode_1/citadel/al_stalk_getemoff02.wav",length=0.88671201467514}}
+L["help"]={{path="vo/episode_1/npc/male01/cit_alert_antlions06.wav",length=0.8185714285714},{path="vo/episode_1/npc/female01/cit_alert_antlions06.wav",length=0.8087528344671},{path="vo/episode_1/npc/alyx/al_dark_worriedest05.wav",length=1.2306575963719},{path="vo/episode_1/npc/male01/cit_alert_rollers04.wav",length=0.9374376417234},{path="vo/episode_1/npc/alyx/al_dark_attack02.wav",length=0.8359183673469},{path="vo/episode_1/npc/alyx/al_combat_mob04.wav",length=0.7132199546485},{path="vo/episode_1/citadel/al_stalk_getemoff03.wav",length=1.1624490022659},{path="vo/episode_1/citadel/al_stalk_getemoff02.wav",length=0.88671201467514}}
 L["help please"]={{path="vo/episode_1/citadel/al_stalk_getemoff08.wav",length=2.6731972694397}}
 L["here"]={{path="vo/episode_1/citadel/al_getthruhere02.wav",length=0.71387755870819}}
 L["here bring it closer"]={{path="vo/episode_1/npc/alyx/al_hack_train01.wav",length=1.0361904761905}}
@@ -674,7 +626,7 @@ L["here have a medkit"]={{path="vo/episode_1/npc/alyx/al_healplayer02.wav",lengt
 L["here it goes"]={{path="vo/episode_1/c17/al_train_hereitgoes.wav",length=0.78004533052444}}
 L["here lets open up this next track"]={{path="vo/episode_1/c17/al_evac_nexttrack.wav",length=1.8575963973999}}
 L["here she comes"]={{path="vo/episode_1/c17/al_elev_herecomes.wav",length=0.96011340618134}}
-L["here they come"]={{path="vo/episode_1/npc/alyx/al_combat_gradual_quiet_02.wav",length=0.7197959183673},{path="vo/episode_1/npc/alyx/al_combat_gradual_quiet_01.wav",length=1.0184126984127},{path="vo/episode_1/npc/alyx/al_combat_gradual01.wav",length=0.7880952380952},{path="vo/episode_1/citadel/al_platform_heretheycome.wav",length=0.78734695911407},{path="vo/episode_1/c17/al_hospital_heretheycome.wav",length=0.70022678375244},{path="vo/episode_1/c17/al_heretheycome.wav",length=0.98517006635666}}
+L["here they come"]={{path="vo/episode_1/npc/male01/cit_alert_antlions08.wav",length=1.2173922902494},{path="vo/episode_1/npc/female01/cit_alert_antlions08.wav",length=1.0614965986395},{path="vo/episode_1/npc/alyx/al_combat_gradual_quiet_02.wav",length=0.7197959183673},{path="vo/episode_1/npc/alyx/al_combat_gradual_quiet_01.wav",length=1.0184126984127},{path="vo/episode_1/npc/alyx/al_combat_gradual01.wav",length=0.7880952380952},{path="vo/episode_1/citadel/al_platform_heretheycome.wav",length=0.78734695911407},{path="vo/episode_1/c17/al_hospital_heretheycome.wav",length=0.70022678375244},{path="vo/episode_1/c17/al_heretheycome.wav",length=0.98517006635666}}
 L["here we go"]={{path="vo/episode_1/npc/alyx/al_seemanyfoe03.wav",length=0.7268934240363},{path="vo/episode_1/citadel/al_lift_herewego.wav",length=0.72489798069},{path="vo/episode_1/c17/ba_herewego.wav",length=0.73548752069473},{path="vo/episode_1/c17/al_pb_herewego.wav",length=0.58340138196945},{path="vo/episode_1/c17/al_lasttrain_herewego.wav",length=0.95925170183182},{path="vo/episode_1/c17/al_finale_wediditg01.wav",length=0.74739229679108},{path="vo/episode_1/c17/al_finale_herewego_alt.wav",length=0.82575964927673},{path="vo/episode_1/c17/al_finale_herewego.wav",length=0.69224488735199}}
 L["here we go again"]={{path="vo/episode_1/npc/alyx/al_startcombat01.wav",length=0.9371201814059},{path="vo/episode_1/c17/al_pb_startagain03.wav",length=1.2808617353439}}
 L["here we go again again"]={{path="vo/episode_1/c17/al_gship_againagain.wav",length=2.8763718605042}}
@@ -787,7 +739,7 @@ L["hurry back"]={{path="vo/episode_1/citadel/al_core_parting.wav",length=0.95201
 L["hurry gordon"]={{path="vo/episode_1/citadel/al_postcore_hurry01.wav",length=0.86131519079208},{path="vo/episode_1/citadel/al_hurrygord01.wav",length=0.94185942411423}}
 L["hurry gordon im"]={{path="vo/episode_1/citadel/al_stalk_crushed01.wav",length=1.4352834224701}}
 L["hurry theyre not going to let us alone"]={{path="vo/episode_1/citadel/al_platform_hurry.wav",length=1.8802493810654}}
-L["hurry up"]={{path="vo/episode_1/npc/alyx/al_lead_catchup01.wav",length=0.7990476190476}}
+L["hurry up"]={{path="vo/episode_1/npc/male01/cit_hurryup.wav",length=0.7009523809524},{path="vo/episode_1/npc/female01/cit_hurryup.wav",length=0.8437188208617},{path="vo/episode_1/npc/alyx/al_lead_catchup01.wav",length=0.7990476190476}}
 L["hurry up before i lose my nerve"]={{path="vo/episode_1/intro/al_getinvan_nag03.wav",length=1.9446711540222}}
 L["hurry up gordon weve gotta keep moving"]={{path="vo/episode_1/intro/al_hurrygordon01.wav",length=2.0897958278656}}
 L["hurry up people"]={{path="vo/episode_1/c17/al_evac_cits01.wav",length=1.1585034132004}}
@@ -1038,7 +990,7 @@ L["ive worked with electricity a time or two and im pretty sure this sparking wi
 L["izzy"]={{path="vo/episode_1/intro/eli_uhizzy05.wav",length=1.1305215358734},{path="vo/episode_1/intro/eli_uhizzy04.wav",length=0.72780042886734},{path="vo/episode_1/intro/eli_uhizzy03.wav",length=1.0724716186523},{path="vo/episode_1/intro/eli_uhizzy02.wav",length=0.99845802783966},{path="vo/episode_1/intro/eli_uhizzy01.wav",length=0.77931970357895},{path="vo/episode_1/intro/eli_uhizzy.wav",length=0.64943313598633}}
 L["izzy talk some sense into her"]={{path="vo/episode_1/intro/eli_izzytalk.wav",length=2.4555101394653}}
 L["jesus gordon"]={{path="vo/episode_1/c17/al_gship_holyterror04.wav",length=0.71691608428955}}
-L["jump"]={{path="vo/episode_1/c17/al_train_jump.wav",length=0.48979592323303}}
+L["jump"]={{path="vo/episode_1/npc/male01/cit_jump.wav",length=0.5043083900227},{path="vo/episode_1/npc/female01/cit_jump.wav",length=0.9328798185941},{path="vo/episode_1/c17/al_train_jump.wav",length=0.48979592323303}}
 L["jump on gordon"]={{path="vo/episode_1/c17/al_train_jumpon.wav",length=0.94911563396454}}
 L["jump on gordon im right behind you"]={{path="vo/episode_1/c17/al_finale_jumpon.wav",length=1.9591836929321}}
 L["just another few seconds"]={{path="vo/episode_1/c17/al_elev_fewsec.wav",length=1.6614059209824}}
@@ -1225,7 +1177,7 @@ L["nice work"]={{path="vo/episode_1/c17/ba_nicework.wav",length=1.1592063903809}
 L["nice work blocking those burrows"]={{path="vo/episode_1/c17/al_holesblocked_getoffstreet01.wav",length=2.2265305519104}}
 L["nicely done"]={{path="vo/episode_1/c17/al_crank2_done01.wav",length=1.1769387722015}}
 L["no"]={{path="vo/episode_1/c17/al_whystickaround01.wav",length=0.66829931735992}}
-L["no eye contact with combine soldiers"]={{path="vo/episode_1/c17/al_50list01.wav",length=2.0810885429382}}
+L["no eye contact with combine soldiers"]={{path="vo/episode_1/c17/al_50list01.wav",length=2.0810885429382},{path="vo/episode_1/npc/male01/cit_buddykilled03.wav",length=0.645306122449},{path="vo/episode_1/npc/female01/cit_buddykilled03.wav",length=0.8406575963719}}
 L["no loud noises after six oclock"]={{path="vo/episode_1/c17/al_50list05.wav",length=2.1768708229065}}
 L["no make it stop"]={{path="vo/episode_1/citadel/al_stalk_makestop01.wav",length=1.5466439723969}}
 L["no more no more weve gotta get out of here"]={{path="vo/episode_1/c17/al_elev_nomore.wav",length=2.4384353160858}}
@@ -1256,7 +1208,7 @@ L["oh boy theyre onto us"]={{path="vo/episode_1/c17/al_evac_ontous01.wav",length
 L["oh crap"]={{path="vo/episode_1/npc/alyx/al_swamped12.wav",length=1.0388889312744}}
 L["oh crap no power"]={{path="vo/episode_1/c17/al_elev_crapnopower.wav",length=1.837256193161}}
 L["oh dear eli im sorry but surely theres no need for undue alarm"]={{path="vo/episode_1/intro/kl_citadelabove01.wav",length=4.3131065368652}}
-L["oh god"]={{path="vo/episode_1/c17/al_meltdown01.wav",length=1.1014965772629}}
+L["oh god"]={{path="vo/episode_1/c17/al_meltdown01.wav",length=1.1014965772629},{path="vo/episode_1/npc/male01/cit_buddykilled04.wav",length=1.6939229024943},{path="vo/episode_1/npc/female01/cit_buddykilled04.wav",length=1.3232879818594}}
 L["oh god help"]={{path="vo/episode_1/citadel/al_stalk_getemoff06.wav",length=1.2858049869537}}
 L["oh god i hate zombies"]={{path="vo/episode_1/c17/al_alert_zombies01.wav",length=2.3232653141022}}
 L["oh god more zombies"]={{path="vo/episode_1/c17/al_hospital_morezombies.wav",length=2.3132879734039}}
@@ -1403,7 +1355,7 @@ L["remember to reload"]={{path="vo/episode_1/npc/alyx/al_playerreload02.wav",len
 L["right"]={{path="vo/episode_1/citadel/al_right.wav",length=0.66104310750961}}
 L["right one dead strider coming up"]={{path="vo/episode_1/c17/al_onedeadstrider.wav",length=2.1850340366364}}
 L["right there"]={{path="vo/episode_1/npc/alyx/al_light_found07.wav",length=0.5912925170068},{path="vo/episode_1/npc/alyx/al_light_found06.wav",length=0.7121768707483}}
-L["rollermines"]={{path="vo/episode_1/citadel/al_stalkers_hm01.wav",length=1.1087528467178},{path="vo/episode_1/citadel/al_platform_rollers.wav",length=1.057460308075}}
+L["rollermines"]={{path="vo/episode_1/npc/male01/cit_alert_rollers01.wav",length=1.2783219954649},{path="vo/episode_1/npc/female01/cit_alert_rollers01.wav",length=1.1146712018141},{path="vo/episode_1/citadel/al_stalkers_hm01.wav",length=1.1087528467178},{path="vo/episode_1/citadel/al_platform_rollers.wav",length=1.057460308075}}
 L["run"]={{path="vo/episode_1/npc/alyx/al_grenade_warn_new_01.wav",length=0.7273922902494},{path="vo/episode_1/citadel/al_postcore_hurry04.wav",length=0.76501131057739},{path="vo/episode_1/citadel/al_lift_last_upthere02.wav",length=0.77374148368835},{path="vo/episode_1/citadel/al_lift_last_lookup02.wav",length=1.0716099739075},{path="vo/episode_1/citadel/al_lift_last_lookout02.wav",length=1.1043083667755}}
 L["run for the trains dr freemans gonna make sure you dont come to any harm"]={{path="vo/episode_1/c17/ba_runfortrains.wav",length=4.4625396728516}}
 L["run hurry"]={{path="vo/episode_1/citadel/al_lift_run.wav",length=1.1276190280914}}
@@ -1426,7 +1378,7 @@ L["shine your flashlight on the powerbox so i can work on it"]={{path="vo/episod
 L["shine your light on that barnacle"]={{path="vo/episode_1/npc/alyx/al_light_barnacle01.wav",length=1.5455782312925}}
 L["shine your light on that thing"]={{path="vo/episode_1/npc/alyx/al_light_generic02.wav",length=1.4541496598639}}
 L["shine your light over here"]={{path="vo/episode_1/npc/alyx/al_light_turnon02.wav",length=1.2094557823129}}
-L["shit"]={{path="vo/episode_1/npc/alyx/al_swamped09.wav",length=0.6997505668934},{path="vo/episode_1/citadel/al_lift_nearmiss05.wav",length=0.9549206495285}}
+L["shit"]={{path="vo/episode_1/npc/male01/cit_alert_head06.wav",length=0.9502721088435},{path="vo/episode_1/npc/female01/cit_alert_head06.wav",length=0.8966213151927},{path="vo/episode_1/npc/alyx/al_swamped09.wav",length=0.6997505668934},{path="vo/episode_1/citadel/al_lift_nearmiss05.wav",length=0.9549206495285}}
 L["should be safe for me to come in now"]={{path="vo/episode_1/citadel/al_safeforme02.wav",length=1.6092063188553}}
 L["shriek"]={{path="vo/episode_1/npc/alyx/al_headcrabsurprise03.wav",length=1.2277551020408}}
 L["sigh"]={{path="vo/episode_1/citadel/al_stalk_story01.wav",length=1.8574149608612}}
@@ -1435,7 +1387,7 @@ L["sigh that was close"]={{path="vo/episode_1/c17/al_snipe_close01.wav",length=1
 L["since we took out breens reactor this is the only way they have to send a transmission packet back to wherever they came from"]={{path="vo/episode_1/citadel/al_postcore_sideeffect04.wav",length=5.6347846984863}}
 L["so much for medical supplies"]={{path="vo/episode_1/c17/al_hospital_foundshotgun01.wav",length=1.8256689310074}}
 L["so much for sneaking in"]={{path="vo/episode_1/citadel/al_bridge_sneak.wav",length=1.7646938562393}}
-L["soldiers"]={{path="vo/episode_1/npc/alyx/al_alert_soldiers.wav",length=0.8567346938776},{path="vo/episode_1/citadel/al_bridge_soldiers.wav",length=0.96941041946411}}
+L["soldiers"]={{path="vo/episode_1/npc/alyx/al_alert_soldiers.wav",length=0.8567346938776},{path="vo/episode_1/citadel/al_bridge_soldiers.wav",length=0.96941041946411},{path="vo/episode_1/npc/male01/cit_alert_soldier04.wav",length=0.9028117913832},{path="vo/episode_1/npc/female01/cit_alert_soldier04.wav",length=1.0161904761905},{path="vo/episode_1/npc/male01/cit_raidsoldiers.wav",length=0.9785487528345},{path="vo/episode_1/npc/female01/cit_raidsoldiers.wav",length=0.9493424036281}}
 L["someone must have been keeping a secret museum here gordon these are treasures of human history"]={{path="vo/episode_1/c17/al_museum01.wav",length=6.054603099823}}
 L["someones firing"]={{path="vo/episode_1/c17/al_someonefiring.wav",length=1.2553287744522}}
 L["someones gotta get rid of that apc"]={{path="vo/episode_1/c17/ba_killapc01.wav",length=2.4636962413788}}
@@ -1609,11 +1561,11 @@ L["theyd have been coming through years ago otherwise"]={{path="vo/episode_1/c17
 L["theyll have it on the other side soon"]={{path="vo/episode_1/c17/al_finale_otherside_loud02.wav",length=2.0375509262085},{path="vo/episode_1/c17/al_finale_otherside02.wav",length=2.3161904811859}}
 L["theyre all aboard now"]={{path="vo/episode_1/c17/al_evac_allaboard.wav",length=1.1124716997147}}
 L["theyre all over"]={{path="vo/episode_1/npc/alyx/al_combat_sudden12.wav",length=1.1325396825397},{path="vo/episode_1/npc/alyx/al_combat_sudden11.wav",length=1.003537414966}}
-L["theyre coming from above"]={{path="vo/episode_1/c17/al_rappel_alert01.wav",length=1.2074376344681}}
+L["theyre coming from above"]={{path="vo/episode_1/npc/male01/cit_alert_soldier_above.wav",length=1.4931292517007},{path="vo/episode_1/npc/female01/cit_alert_soldier_above.wav",length=1.4159183673469},{path="vo/episode_1/c17/al_rappel_alert01.wav",length=1.2074376344681}}
 L["theyre coming from the rooftops"]={{path="vo/episode_1/c17/al_rappel_alert02.wav",length=1.7443537712097}}
 L["theyre coming out of the woodwork"]={{path="vo/episode_1/npc/alyx/al_seemanyfoe09.wav",length=1.4488662131519}}
 L["theyre counting on you"]={{path="vo/episode_1/c17/ba_defendcitizens02.wav",length=1.1175737380981}}
-L["theyre everywhere"]={{path="vo/episode_1/npc/alyx/al_swamped02.wav",length=0.8934467120181},{path="vo/episode_1/npc/alyx/al_surround02.wav",length=1.0724716553288}}
+L["theyre everywhere"]={{path="vo/episode_1/npc/male01/cit_evac_enemies02.wav",length=1.6772789115646},{path="vo/episode_1/npc/female01/cit_evac_enemies02.wav",length=1.2809297052154},{path="vo/episode_1/npc/alyx/al_swamped02.wav",length=0.8934467120181},{path="vo/episode_1/npc/alyx/al_surround02.wav",length=1.0724716553288}}
 L["theyre getting aboard good work"]={{path="vo/episode_1/c17/ba_gettingaboard01.wav",length=1.4270521402359}}
 L["theyre getting aboard lets keep it up"]={{path="vo/episode_1/c17/al_evac_trainfilling01.wav",length=2.8944897651672}}
 L["theyre looking for something"]={{path="vo/episode_1/c17/al_rappel_looking01.wav",length=1.4817233085632}}
@@ -1646,7 +1598,7 @@ L["this place is coming apart at the seams"]={{path="vo/episode_1/citadel/al_apa
 L["this trains not going anywhere until we get the power on"]={{path="vo/episode_1/c17/al_lasttrain_notgoing.wav",length=2.7979819774628}}
 L["this was the only path i could find"]={{path="vo/episode_1/citadel/al_block_onlypath.wav",length=1.7473015785217}}
 L["this waters nasty"]={{path="vo/episode_1/c17/al_flood_floodroom03.wav",length=1.7240816354752}}
-L["this way"]={{path="vo/episode_1/npc/alyx/al_lead_catchup02.wav",length=0.5797959183673},{path="vo/episode_1/citadel/al_postcore_hurry03.wav",length=0.7030838727951},{path="vo/episode_1/citadel/al_postcore_follow.wav",length=0.48907029628754},{path="vo/episode_1/c17/al_train_thisway.wav",length=0.55945581197739}}
+L["this way"]={{path="vo/episode_1/npc/male01/cit_thisway.wav",length=0.5572789115646},{path="vo/episode_1/npc/female01/cit_thisway.wav",length=0.7769614512472},{path="vo/episode_1/npc/alyx/al_lead_catchup02.wav",length=0.5797959183673},{path="vo/episode_1/citadel/al_postcore_hurry03.wav",length=0.7030838727951},{path="vo/episode_1/citadel/al_postcore_follow.wav",length=0.48907029628754},{path="vo/episode_1/c17/al_train_thisway.wav",length=0.55945581197739}}
 L["this way damn the doors are stuck see if you can find some way to pull them open"]={{path="vo/episode_1/c17/al_tow_doorstuck.wav",length=6.5248074531555}}
 L["this way gordon"]={{path="vo/episode_1/citadel/al_thisway.wav",length=0.81222224235535}}
 L["those antlions are trapped back there good thing too"]={{path="vo/episode_1/c17/al_antlionstrapped.wav",length=3.3636960983276}}
@@ -1746,7 +1698,7 @@ L["we gotta hurry"]={{path="vo/episode_1/citadel/al_platform_theyknow02.wav",len
 L["we have to get across this is the only way to the core"]={{path="vo/episode_1/citadel/al_onlywaytocore.wav",length=3.2769160270691}}
 L["we have to get this thing moving"]={{path="vo/episode_1/citadel/al_lift_getmoving.wav",length=1.5455782413483}}
 L["we have to protect them"]={{path="vo/episode_1/c17/al_evac_protect05.wav",length=1.5649886131287}}
-L["we made it"]={{path="vo/episode_1/citadel/al_vtex_imadeit.wav",length=1.0013605356216},{path="vo/episode_1/c17/al_train_madeit01.wav",length=0.74956917762756},{path="vo/episode_1/c17/al_evac_wemadeit.wav",length=0.86199545860291},{path="vo/episode_1/c17/al_evac_madeit.wav",length=1.0594104528427}}
+L["we made it"]={{path="vo/episode_1/npc/male01/cit_reachtrain01.wav",length=1.4788662131519},{path="vo/episode_1/npc/female01/cit_reachtrain01.wav",length=0.91179138322},{path="vo/episode_1/citadel/al_vtex_imadeit.wav",length=1.0013605356216},{path="vo/episode_1/c17/al_train_madeit01.wav",length=0.74956917762756},{path="vo/episode_1/c17/al_evac_wemadeit.wav",length=0.86199545860291},{path="vo/episode_1/c17/al_evac_madeit.wav",length=1.0594104528427}}
 L["we missed it gordon"]={{path="vo/episode_1/c17/al_train_missedit.wav",length=1.2350113391876}}
 L["we mustve found the place where they make these things"]={{path="vo/episode_1/c17/al_foundplace.wav",length=2.6325623989105}}
 L["we need to get across here"]={{path="vo/episode_1/citadel/al_bridge_getacross.wav",length=1.4475964307785}}
@@ -1858,7 +1810,7 @@ L["what now"]={{path="vo/episode_1/c17/al_whythisway.wav",length=1.4635601043701
 L["what oh dear but theres really no time the core is exceedingly close to collapse why theres no way to get far enough without first well nothing short of a direct intervention in the core could possibly retard the reaction"]={{path="vo/episode_1/intro/kl_insufficient.wav",length=14.094512939453}}
 L["what the hell"]={{path="vo/episode_1/citadel/al_core_hellitsjudith01.wav",length=0.92444443702698},{path="vo/episode_1/citadel/al_advisor_whathell.wav",length=0.91718822717667},{path="vo/episode_1/c17/al_crabpod_wthell.wav",length=1.0536054372787}}
 L["what the hell are those things"]={{path="vo/episode_1/citadel/al_advisor_podthings.wav",length=1.7995464801788}}
-L["what the hell is that"]={{path="vo/episode_1/citadel/al_gravcharge_thing.wav",length=1.1232652664185},{path="vo/episode_1/c17/al_zombine_wth.wav",length=1.497074842453}}
+L["what the hell is that"]={{path="vo/episode_1/npc/male01/cit_alert_zombie03.wav",length=1.0546712018141},{path="vo/episode_1/npc/female01/cit_alert_zombie03.wav",length=1.1897505668934},{path="vo/episode_1/npc/male01/cit_alert_zombie09.wav",length=0.6760770975057},{path="vo/episode_1/npc/male01/cit_alert_head07.wav",length=0.8284580498866},{path="vo/episode_1/npc/female01/cit_alert_head07.wav",length=1.2931972789116},{path="vo/episode_1/citadel/al_gravcharge_thing.wav",length=1.1232652664185},{path="vo/episode_1/c17/al_zombine_wth.wav",length=1.497074842453}}
 L["what the hell was that thing"]={{path="vo/episode_1/citadel/al_advisor_wasthatthing.wav",length=2.2494330406189}}
 L["what took you so long"]={{path="vo/episode_1/c17/al_tooksolong.wav",length=1.0550566911697}}
 L["what was that"]={{path="vo/episode_1/npc/alyx/al_dark_noises02.wav",length=1.0710204081633},{path="vo/episode_1/c17/al_evac_advisor01.wav",length=1.1842176914215}}
@@ -1925,7 +1877,7 @@ L["wow ive never been so glad to see dr kleiner"]={{path="vo/episode_1/c17/al_kl
 L["wow you really killed the hell out of that padlock"]={{path="vo/episode_1/c17/al_pbox_padlock02.wav",length=3.6280498504639}}
 L["ya burn em"]={{path="vo/episode_1/npc/alyx/al_combat_burnem01.wav",length=1.6743990929705}}
 L["ya well were done with that"]={{path="vo/episode_1/npc/alyx/al_post_combat03.wav",length=1.7293424036281}}
-L["yeah"]={{path="vo/episode_1/npc/alyx/al_positive02.wav",length=1.7707256235828},{path="vo/episode_1/npc/alyx/al_combat_yeah02.wav",length=0.6062131519274},{path="vo/episode_1/npc/alyx/al_combat_yeah01.wav",length=0.6155555555556},{path="vo/episode_1/npc/alyx/al_affirm_sarc03.wav",length=1.8131519274376},{path="vo/episode_1/npc/alyx/al_affirm03.wav",length=0.3809297052154},{path="vo/episode_1/intro/al_yeah.wav",length=0.57730156183243},{path="vo/episode_1/c17/al_safehouse_yeah_new.wav",length=0.38748300075531},{path="vo/episode_1/c17/al_antguard_victory.wav",length=0.89541947841644}}
+L["yeah"]={{path="vo/episode_1/npc/male01/cit_kill01.wav",length=1.1339455782313},{path="vo/episode_1/npc/female01/cit_kill01.wav",length=1.1327210884354},{path="vo/episode_1/npc/male01/cit_kill12.wav",length=1.6355782312925},{path="vo/episode_1/npc/female01/cit_kill12.wav",length=0.9485487528345},{path="vo/episode_1/npc/male01/cit_kill11.wav",length=1.1543310657596},{path="vo/episode_1/npc/female01/cit_kill11.wav",length=1.1327210884354},{path="vo/episode_1/npc/alyx/al_positive02.wav",length=1.7707256235828},{path="vo/episode_1/npc/alyx/al_combat_yeah02.wav",length=0.6062131519274},{path="vo/episode_1/npc/alyx/al_combat_yeah01.wav",length=0.6155555555556},{path="vo/episode_1/npc/alyx/al_affirm_sarc03.wav",length=1.8131519274376},{path="vo/episode_1/npc/alyx/al_affirm03.wav",length=0.3809297052154},{path="vo/episode_1/intro/al_yeah.wav",length=0.57730156183243},{path="vo/episode_1/c17/al_safehouse_yeah_new.wav",length=0.38748300075531},{path="vo/episode_1/c17/al_antguard_victory.wav",length=0.89541947841644}}
 L["yeah and thats doctor freeman in the suit"]={{path="vo/episode_1/npc/alyx/al_greet_cit09.wav",length=2.252335600907}}
 L["yeah better safe than sorry"]={{path="vo/episode_1/intro/al_smashscanner01.wav",length=2.2117006778717}}
 L["yeah ha ha"]={{path="vo/episode_1/npc/alyx/al_positive03.wav",length=1.8033106575964}}
@@ -1961,7 +1913,7 @@ L["you might want to charge your flashlight to full first"]={{path="vo/episode_1
 L["you need something"]={{path="vo/episode_1/npc/alyx/al_playerstare03.wav",length=0.9470068027211}}
 L["you need to find some health kits"]={{path="vo/episode_1/npc/alyx/al_player_healthlow05.wav",length=1.4890476190476}}
 L["you need to go take care of the core ill try and figure this out"]={{path="vo/episode_1/citadel/al_illfigurethisout.wav",length=3.1932880878448}}
-L["you ok"]={{path="vo/episode_1/npc/alyx/al_lead_comingback05.wav",length=0.6751020408163}}
+L["you ok"]={{path="vo/episode_1/npc/male01/cit_buddykilled01.wav",length=1.0486394557823},{path="vo/episode_1/npc/female01/cit_buddykilled01.wav",length=0.8095464852608},{path="vo/episode_1/npc/alyx/al_lead_comingback05.wav",length=0.6751020408163}}
 L["you okay"]={{path="vo/episode_1/npc/alyx/al_playerstare04.wav",length=0.643514739229}}
 L["you okay down there"]={{path="vo/episode_1/c17/al_okdownthere.wav",length=1.2451701164246}}
 L["you okay up there dog"]={{path="vo/episode_1/intro/al_youokaydog.wav",length=1.1784126758575}}
