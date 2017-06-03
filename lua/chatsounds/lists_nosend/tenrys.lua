@@ -102,6 +102,7 @@ L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome 
 L["what did you say nigga"]={{path="chatsounds/autoadd/tenrys/what did you say nigga.ogg",length=1.7073242630385488}}
 L["what you say nigga"]={{path="chatsounds/autoadd/tenrys/what you say nigga.ogg",length=5.5379591836734692}}
 L["what youre seeing now is my normal state"]={{path="chatsounds/autoadd/tenrys/what youre seeing now is my normal state.ogg",length=2.6708843537414966}}
+L["why wont you die"]={{path="chatsounds/autoadd/tenrys/why wont you die.ogg",length=1.6739682539682539}}
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.0636734693877552}}
 L["you picked the wrong house fool distorted"]={{path="chatsounds/autoadd/tenrys/you picked the wrong house fool distorted.ogg",length=2.3052380952380953}}
 L["your memes end here"]={{path="chatsounds/autoadd/tenrys/your memes end here.ogg",length=3.1578911564625849}}
