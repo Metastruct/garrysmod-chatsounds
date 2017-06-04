@@ -91,6 +91,7 @@ L["this is a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is a super sa
 L["this is susans cooking school"]={{path="chatsounds/autoadd/tenrys/this is susans cooking school.ogg",length=1.4334920634920636}}
 L["this is what is known as a super saiyan that has ascended beyond a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is what is known as a super saiyan that has ascended beyond a super saiyan.ogg",length=5.1006349206349206}}
 L["thwomp"]={{path="chatsounds/autoadd/tenrys/thwomp.ogg",length=0.76256235827664398}}
+L["time to kill everyone"]={{path="chatsounds/autoadd/tenrys/time to kill everyone.ogg",length=3.0433786848072564}}
 L["toasty"]={{path="chatsounds/autoadd/tenrys/toasty.ogg",length=0.8463492063492063}}
 L["too easy"]={{path="chatsounds/autoadd/tenrys/too easy.ogg",length=0.86358276643990928}}
 L["traitor"]={{path="chatsounds/autoadd/tenrys/traitor.ogg",length=0.58074829931972793}}
