@@ -102,6 +102,7 @@ L["we will find another way"]={{path="chatsounds/autoadd/me2harbinger/we will fi
 L["why do you resist us"]={{path="chatsounds/autoadd/me2harbinger/why do you resist us.ogg",length=1.3740136054421768}}
 L["you are arrogant"]={{path="chatsounds/autoadd/me2harbinger/you are arrogant.ogg",length=1.0719954648526078}}
 L["you are bacteria"]={{path="chatsounds/autoadd/me2harbinger/you are bacteria.ogg",length=1.7158503401360545}}
+L["you are ignorant"]={{path="chatsounds/autoadd/me2harbinger/you are ignorant.ogg",length=1.3119274376417234}}
 L["you are no longer relevant"]={{path="chatsounds/autoadd/me2harbinger/you are no longer relevant.ogg",length=1.9050566893424037}}
 L["you are shortsighted"]={{path="chatsounds/autoadd/me2harbinger/you are shortsighted.ogg",length=1.944875283446712}}
 L["you are the end"]={{path="chatsounds/autoadd/me2harbinger/you are the end.ogg",length=1.5764625850340137}}
@@ -111,7 +112,8 @@ L["you can not stop us"]={{path="chatsounds/autoadd/me2harbinger/you can not sto
 L["you cannot escape your destiny"]={{path="chatsounds/autoadd/me2harbinger/you cannot escape your destiny.ogg",length=1.7357823129251702}}
 L["you cannot hurt me"]={{path="chatsounds/autoadd/me2harbinger/you cannot hurt me.ogg",length=1.5067800453514739}}
 L["you cannot resist"]={{path="chatsounds/autoadd/me2harbinger/you cannot resist.ogg",length=1.5760544217687076}}
-L["you cannot stop us"]={{path="chatsounds/autoadd/me2harbinger/you cannot stop us/you cannot stop us.ogg",length=1.4918820861678004},{path="chatsounds/autoadd/me2harbinger/you cannot stop us/you cannot stop us2.ogg",length=1.5399546485260771},{path="chatsounds/autoadd/me2harbinger/you cannot stop us/you cannot stop us3.ogg",length=1.2810884353741496}}
+L["you cannot stop us"]={{path="chatsounds/autoadd/me2harbinger/you cannot stop us.ogg",length=1.0768253968253969},{path="chatsounds/autoadd/me2harbinger/you cannot stop us/you cannot stop us.ogg",length=1.4918820861678004},{path="chatsounds/autoadd/me2harbinger/you cannot stop us/you cannot stop us2.ogg",length=1.5399546485260771},{path="chatsounds/autoadd/me2harbinger/you cannot stop us/you cannot stop us3.ogg",length=1.2810884353741496}}
+L["you cannot stop us shepard"]={{path="chatsounds/autoadd/me2harbinger/you cannot stop us shepard.ogg",length=1.7589115646258504}}
 L["you cannot sustain your attack"]={{path="chatsounds/autoadd/me2harbinger/you cannot sustain your attack.ogg",length=2.0809297052154196}}
 L["you could have been useful"]={{path="chatsounds/autoadd/me2harbinger/you could have been useful.ogg",length=1.4715646258503401}}
 L["you do not yet comprehend your place in things"]={{path="chatsounds/autoadd/me2harbinger/you do not yet comprehend your place in things.ogg",length=3.0505215419501135}}
@@ -119,6 +121,7 @@ L["you escaped us before"]={{path="chatsounds/autoadd/me2harbinger/you escaped u
 L["you have failed"]={{path="chatsounds/autoadd/me2harbinger/you have failed.ogg",length=1.5432879818594105}}
 L["you have failedhuhh"]={{path="chatsounds/autoadd/me2harbinger/you have failedhuhh.ogg",length=2.2269614512471656}}
 L["you have merely delayed the inevitable"]={{path="chatsounds/autoadd/me2harbinger/you have merely delayed the inevitable.ogg",length=2.3929024943310657}}
+L["you have no one left"]={{path="chatsounds/autoadd/me2harbinger/you have no one left.ogg",length=1.750204081632653}}
 L["you have no one left shepard"]={{path="chatsounds/autoadd/me2harbinger/you have no one left shepard.ogg",length=2.6180498866213151}}
 L["you have only delayed the inevitable"]={{path="chatsounds/autoadd/me2harbinger/you have only delayed the inevitable.ogg",length=2.4227891156462587}}
 L["you only damage the vessel"]={{path="chatsounds/autoadd/me2harbinger/you only damage the vessel.ogg",length=2.031156462585034}}
@@ -129,14 +132,10 @@ L["you will not stop me"]={{path="chatsounds/autoadd/me2harbinger/you will not s
 L["you will regret your resistance"]={{path="chatsounds/autoadd/me2harbinger/you will regret your resistance.ogg",length=1.8851247165532881}}
 L["your allies have fallen"]={{path="chatsounds/autoadd/me2harbinger/your allies have fallen.ogg",length=1.619591836734694}}
 L["your allies have fallen shepard"]={{path="chatsounds/autoadd/me2harbinger/your allies have fallen shepard.ogg",length=2.4003628117913833}}
-L["your are ignorant"]={{path="chatsounds/autoadd/me2harbinger/your are ignorant.ogg",length=1.3119274376417234}}
 L["your attack is an insult"]={{path="chatsounds/autoadd/me2harbinger/your attack is an insult.ogg",length=1.9780498866213152}}
 L["your attacks are primitive"]={{path="chatsounds/autoadd/me2harbinger/your attacks are primitive.ogg",length=1.7191836734693877}}
-L["your cannot stop us"]={{path="chatsounds/autoadd/me2harbinger/your cannot stop us.ogg",length=1.0768253968253969}}
-L["your cannot stop us shepard"]={{path="chatsounds/autoadd/me2harbinger/your cannot stop us shepard.ogg",length=1.7589115646258504}}
 L["your death is assured"]={{path="chatsounds/autoadd/me2harbinger/your death is assured.ogg",length=1.6528117913832199}}
 L["your form is fragile"]={{path="chatsounds/autoadd/me2harbinger/your form is fragile.ogg",length=1.8784807256235827}}
-L["your have no one left"]={{path="chatsounds/autoadd/me2harbinger/your have no one left.ogg",length=1.750204081632653}}
 L["your interference has ended"]={{path="chatsounds/autoadd/me2harbinger/your interference has ended.ogg",length=1.8140589569160999}}
 L["your minions have failed"]={{path="chatsounds/autoadd/me2harbinger/your minions have failed.ogg",length=1.8808163265306121}}
 L["your minions have failed shepard"]={{path="chatsounds/autoadd/me2harbinger/your minions have failed shepard.ogg",length=2.6470748299319729}}
