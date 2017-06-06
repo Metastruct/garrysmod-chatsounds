@@ -422,7 +422,7 @@ L["improv non verbal displeasure frustration sounds"]={{path="player/survivor/vo
 L["incoming"]={{path="player/survivor/voice/manager/incoming03.wav",length=1.6340589523315}}
 L["interesting true story in 1975 the local township"]={{path="player/survivor/voice/manager/worldsmalltown0212.wav",length=6.0731520652771}}
 L["into the elevator"]={{path="player/survivor/voice/manager/worldhospital0406.wav",length=1.4400000572205}}
-L["into the warehosue"]={{path="player/survivor/voice/manager/dlc2m1directional14.wav",length=1.1491156462585}}
+L["into the warehouse"]={{path="player/survivor/voice/manager/dlc2m1directional14.wav",length=1.1491156462585}}
 L["is anyone there"]={{path="player/survivor/voice/manager/lostcall04.wav",length=1.4902267456055}}
 L["it doesnt look bad"]={{path="player/survivor/voice/manager/revivefriendb08.wav",length=1.312131524086}}
 L["its a long way down here you gotta pull me up"]={{path="player/survivor/voice/manager/ledgehangmiddle04.wav",length=3.6692969799042}}
