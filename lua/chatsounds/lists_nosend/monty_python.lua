@@ -17,4 +17,5 @@ L["well dont make a fuss dear ill have your spam i love it im having spam spam s
 L["what do you mean uuu i dont like spam"]={{path="chatsounds/autoadd/monty_python/what do you mean uuu i dont like spam.ogg",length=2.5483900226757368}}
 L["whatcha got then"]={{path="chatsounds/autoadd/monty_python/whatcha got then.ogg",length=0.74303854875283448}}
 L["why not"]={{path="chatsounds/autoadd/monty_python/why not.ogg",length=0.83591836734693881}}
+L["your mother was a hamster and your father smelt of elderberries"]={{path="chatsounds/autoadd/monty_python/your mother was a hamster and your father smelt of elderberries.ogg",length=5.9036734693877548}}
 c.EndList()
