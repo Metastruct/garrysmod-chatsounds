@@ -21,8 +21,8 @@ https://github.com/Metastruct/garrysmod-chatsounds
 	bit depth   : 16 bit
 	=============================================
 	
-	Name your folders properly or you'll make !cake angry. D:<
-	Ensure that you can spell  or you'll make !cake angry. D:<
+	Name your folders properly
+	Ensure that you can spell
 
 4.	Make sure you remove left over files that aren't ogg files
 5.	Run "chatsounds-preprocessor.exe" in the root of the repo ( this will generate the list files for you )
