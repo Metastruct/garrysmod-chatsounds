@@ -29,7 +29,7 @@ L["i sense your weakness"]={{path="chatsounds/autoadd/me2harbinger/i sense your 
 L["i will direct this personally"]={{path="chatsounds/autoadd/me2harbinger/i will direct this personally.ogg",length=1.9514965986394557}}
 L["i will find you again"]={{path="chatsounds/autoadd/me2harbinger/i will find you again.ogg",length=1.9813832199546486}}
 L["i will show you true power"]={{path="chatsounds/autoadd/me2harbinger/i will show you true power.ogg",length=2.3033106575963718}}
-L["if i must tear your apart shepard i will"]={{path="chatsounds/autoadd/me2harbinger/if i must tear your apart shepard i will.ogg",length=3.0998639455782313}}
+L["if i must tear you apart shepard i will"]={{path="chatsounds/autoadd/me2harbinger/if i must tear you apart shepard i will.ogg",length=3.0998639455782313}}
 L["ignore the fallen"]={{path="chatsounds/autoadd/me2harbinger/ignore the fallen.ogg",length=1.3224036281179139}}
 L["impressive"]={{path="chatsounds/autoadd/me2harbinger/impressive.ogg",length=0.78326530612244893}}
 L["insufficient"]={{path="chatsounds/autoadd/me2harbinger/insufficient.ogg",length=0.83882086167800451}}
