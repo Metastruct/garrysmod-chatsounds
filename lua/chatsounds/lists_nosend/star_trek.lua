@@ -4,6 +4,7 @@ L["captain we have encountered an unusual phenomenom phenomenom phenomenom pheno
 L["cardassian transporter"]={{path="chatsounds/autoadd/star_trek/cardassian transporter.ogg",length=4.7942403628117916}}
 L["dominion beam in"]={{path="chatsounds/autoadd/star_trek/dominion beam in.ogg",length=3.030204081632653}}
 L["dominion beam out"]={{path="chatsounds/autoadd/star_trek/dominion beam out.ogg",length=3.3697959183673469}}
+L["ent transporter"]={{path="chatsounds/autoadd/star_trek/ent transporter.ogg",length=3.2986394557823129}}
 L["klingon beam in"]={{path="chatsounds/autoadd/star_trek/klingon beam in.ogg",length=4.6759183673469389}}
 L["klingon beam out"]={{path="chatsounds/autoadd/star_trek/klingon beam out.ogg",length=3.3697959183673469}}
 L["romulan beam in"]={{path="chatsounds/autoadd/star_trek/romulan beam in.ogg",length=3.5787755102040815}}
