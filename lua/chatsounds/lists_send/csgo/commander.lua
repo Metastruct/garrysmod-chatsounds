@@ -70,7 +70,7 @@ L["my 7 year old can do this in under 40 seconds blindfolded"]={{path="commander
 L["nice headshot"]={{path="commander/train_bodydamageheadshot_01b.wav",length=1.3226757369615},{path="commander/train_bodydamageheadshot_01.wav",length=1.4080045351474}}
 L["nice job"]={{path="commander/commander_comment_09.wav",length=1.1840136054422}}
 L["nice job on the course youre in feel free to try it again or you can report for active duty"]={{path="commander/new_course04.wav",length=6.0191609977324}}
-L["nice job your time was fast enough to qualify you you  can either try the course again to improve your time or we can say our goodbyes and you can report for active duty"]={{path="commander/train_activetestingcomplete_01.wav",length=9.4846712018141}}
+L["nice job your time was fast enough to qualify you you can either try the course again to improve your time or we can say our goodbyes and you can report for active duty"]={{path="commander/train_activetestingcomplete_01.wav",length=9.4846712018141}}
 L["nice work you ran out of ammo incase you cant tell i am being ironic"]={{path="commander/train_bodydamageoutofammo_02.wav",length=6.1013378684807}}
 L["nice you just beat the course record"]={{path="commander/train_activetestingcomplete_04.wav",length=2.9859183673469}}
 L["nice you just ran your best time"]={{path="commander/train_activetestingcomplete_08.wav",length=2.647074829932}}
