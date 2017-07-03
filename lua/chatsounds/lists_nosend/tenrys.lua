@@ -106,6 +106,7 @@ L["what you say nigga"]={{path="chatsounds/autoadd/tenrys/what you say nigga.ogg
 L["what youre seeing now is my normal state"]={{path="chatsounds/autoadd/tenrys/what youre seeing now is my normal state.ogg",length=2.6708843537414966}}
 L["why wont you die"]={{path="chatsounds/autoadd/tenrys/why wont you die.ogg",length=1.6739682539682539}}
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.0636734693877552}}
+L["woah"]={{path="chatsounds/autoadd/tenrys/woah.ogg",length=0.48945578231292519}}
 L["you picked the wrong house fool distorted"]={{path="chatsounds/autoadd/tenrys/you picked the wrong house fool distorted.ogg",length=2.3052380952380953}}
 L["your memes end here"]={{path="chatsounds/autoadd/tenrys/your memes end here.ogg",length=3.1578911564625849}}
 L["youre going to love this"]={{path="chatsounds/autoadd/tenrys/youre going to love this.ogg",length=1.5580272108843538}}
