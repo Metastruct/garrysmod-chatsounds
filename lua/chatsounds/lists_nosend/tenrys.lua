@@ -30,6 +30,7 @@ L["dun dun dun vroom"]={{path="chatsounds/autoadd/tenrys/dun dun dun vroom.ogg",
 L["emulator dying"]={{path="chatsounds/autoadd/tenrys/emulator dying.ogg",length=36.334716553287983}}
 L["everybody do the flop"]={{path="chatsounds/autoadd/tenrys/everybody do the flop.ogg",length=2.554829931972789}}
 L["expand dong"]={{path="chatsounds/autoadd/tenrys/expand dong/1.ogg",length=1.0245804988662131},{path="chatsounds/autoadd/tenrys/expand dong/2.ogg",length=1.1884126984126984},{path="chatsounds/autoadd/tenrys/expand dong/3.ogg",length=1.0801587301587301}}
+L["fak u krusti"]={{path="chatsounds/autoadd/tenrys/fak u krusti.ogg",length=1.4697505668934241}}
 L["fap sounds"]={{path="chatsounds/autoadd/tenrys/fap sounds.ogg",length=4.7145124716553291}}
 L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.20160997732426303}}
 L["fbi"]={{path="chatsounds/autoadd/tenrys/fbi.ogg",length=0.59380952380952379}}
