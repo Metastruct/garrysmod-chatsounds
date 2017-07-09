@@ -1,9 +1,9 @@
 c.StartList("geeitsureisboringaroundhere")
-L["around"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/around.ogg",length=0.5573015873015873}}
-L["boring"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/boring.ogg",length=0.5573015873015873}}
-L["gee"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/gee.ogg",length=0.92882086167800448}}
-L["here"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/here.ogg",length=0.5573015873015873}}
-L["is"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/is.ogg",length=0.44621315192743766}}
-L["it"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/it.ogg",length=0.094875283446712019}}
-L["sure"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/sure.ogg",length=0.43845804988662129}}
+L["around"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/around.ogg",length=0.557}}
+L["boring"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/boring.ogg",length=0.557}}
+L["gee"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/gee.ogg",length=0.929}}
+L["here"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/here.ogg",length=0.557}}
+L["is"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/is.ogg",length=0.446}}
+L["it"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/it.ogg",length=0.095}}
+L["sure"]={{path="chatsounds/autoadd/geeitsureisboringaroundhere/sure.ogg",length=0.438}}
 c.EndList()
