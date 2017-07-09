@@ -177,7 +177,7 @@ end
 hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
 	
-	local isupper = (#text > 0) and (text[1] == text[1]:upper()) and (text[#text] == text[#text]:upper())
+	local isupper = (#text > 0) and (text[#text] == text[#text]:upper())
 	local keepCase = function(txt)
 		if isupper and txt then return txt:upper() end
 		return txt
