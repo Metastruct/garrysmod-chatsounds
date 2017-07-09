@@ -176,7 +176,13 @@ end
 
 hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
-
+	
+	local isupper = (#text > 0) and (text[1] == text[1]:upper()) and (text[#text] == text[#text]:upper())
+	local keepCase = function(txt)
+		if isupper and txt then return txt:upper() end
+		return txt
+	end
+	
 	local prefix = ""
 	local chatsounds_enable_prefix = GetGlobalBool("chatsounds_enable_prefix")
 	if chatsounds_enable_prefix then
@@ -190,7 +196,7 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 
 	if ac.randommode then
 		ac.ignore = ac.sounds[math.random(#ac.sounds)]
-		return ac.ignore and (prefix .. ac.ignore)
+		return ac.ignore and keepCase(prefix .. ac.ignore)
 	end
 
 
@@ -224,12 +230,12 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 		ac.tabbed = prevmode
 		ac.ignore = prevignore
 
-		return ret and (prefix .. ret)
+		return ret and keepCase(prefix .. ret)
 	end
 
 	--WorldSound("garrysmod/balloon_pop_cute.wav", LocalPlayer():GetPos(), 50, 255)
 
-	return ac.ignore and (prefix .. ac.ignore)
+	return ac.ignore and keepCase(prefix .. ac.ignore)
 end)
 
 hook.Add("StartChat", "chatsounds_autocomplete", function()
