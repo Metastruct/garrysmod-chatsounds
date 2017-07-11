@@ -177,7 +177,7 @@ end
 hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
 	
-	local isupper = (#text > 0) and (text[#text] == text[#text]:upper())
+	local isupper = (#text >= 5) and (text[#text] == text[#text]:upper())
 	local keepCase = function(txt)
 		if isupper and txt then return txt:upper() end
 		return txt
@@ -186,7 +186,7 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	local prefix = ""
 	local chatsounds_enable_prefix = GetGlobalBool("chatsounds_enable_prefix")
 	if chatsounds_enable_prefix then
-		prefix = string.match(text, "^(#?#?)(.*)$")
+		prefix = string.match(text:lower(), "^(#?#?)(.*)$")
 		if prefix == "" then
 			prefix = "#"
 		end
@@ -251,7 +251,7 @@ end)
 hook.Add("ChatTextChanged", "chatsounds_autocomplete", function(text, lua_tab_change)
 	if not chatsounds_autocomplete:GetBool() then return end
 
-	local _, text = string.match(text, "^(#?#?)(.*)$")
+	local _, text = string.match(text:lower(), "^(#?#?)(.*)$")
 
 	-- this may cause future compatibility issues
 	if lua_tab_change == true and string.find(text,"\n",1,true) then return end
