@@ -36,6 +36,7 @@ L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.20160997732426303
 L["fbi"]={{path="chatsounds/autoadd/tenrys/fbi.ogg",length=0.59380952380952379}}
 L["gay bagels"]={{path="chatsounds/autoadd/tenrys/gay bagels.ogg",length=0.93344671201814056}}
 L["get some help"]={{path="chatsounds/autoadd/tenrys/get some help.ogg",length=0.78997732426303857}}
+L["gives me conniptions"]={{path="chatsounds/autoadd/tenrys/gives me conniptions.ogg",length=1.8927664399092972}}
 L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.5557369614512471}}
 L["good god man"]={{path="chatsounds/autoadd/tenrys/good god man.ogg",length=1.0163038548752834}}
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.4845578231292516}}
