@@ -7,6 +7,7 @@ L["chances are"]={{path="chatsounds/autoadd/wicopee/chances are.ogg",length=1.43
 L["do you ever feel angry"]={{path="chatsounds/autoadd/wicopee/do you ever feel angry.ogg",length=1.7150566893424035}}
 L["do you ever get to the point where you gonna blow up"]={{path="chatsounds/autoadd/wicopee/do you ever get to the point where you gonna blow up.ogg",length=2.80281179138322}}
 L["do you feel yourself with butterflies in your stomach a lot"]={{path="chatsounds/autoadd/wicopee/do you feel yourself with butterflies in your stomach a lot.ogg",length=3.7036734693877551}}
+L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.5017233560090704}}
 L["we can certainly express our anger if we handle our anger assertivley"]={{path="chatsounds/autoadd/wicopee/we can certainly express our anger if we handle our anger assertivley.ogg",length=5.9726303854875287}}
 L["you get headaches"]={{path="chatsounds/autoadd/wicopee/you get headaches.ogg",length=1.3680272108843536}}
 c.EndList()
