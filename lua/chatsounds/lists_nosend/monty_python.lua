@@ -7,6 +7,7 @@ L["great boobies honeybun my lower intestine is full of spam"]={{path="chatsound
 L["have you got anything without spam in it"]={{path="chatsounds/autoadd/monty_python/have you got anything without spam in it.ogg",length=2.2465306122448978}}
 L["i dont like spam"]={{path="chatsounds/autoadd/monty_python/i dont like spam/i dont like spam1.ogg",length=1.4512471655328798},{path="chatsounds/autoadd/monty_python/i dont like spam/i dont like spam2.ogg",length=1.811156462585034}}
 L["i dont want any spam"]={{path="chatsounds/autoadd/monty_python/i dont want any spam.ogg",length=1.497687074829932}}
+L["iittss"]={{path="chatsounds/autoadd/monty_python/iittss.ogg",length=1.231156462585034}}
 L["mornin"]={{path="chatsounds/autoadd/monty_python/mornin/mornin1.ogg",length=0.54566893424036278},{path="chatsounds/autoadd/monty_python/mornin/mornin2.ogg",length=0.62693877551020405}}
 L["naaaa"]={{path="chatsounds/autoadd/monty_python/naaaa.ogg",length=0.82430839002267575}}
 L["spammityspam"]={{path="chatsounds/autoadd/monty_python/spammityspam.ogg",length=0.76625850340136059}}
