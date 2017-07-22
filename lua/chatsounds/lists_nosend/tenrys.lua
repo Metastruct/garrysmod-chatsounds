@@ -115,6 +115,7 @@ L["what youre seeing now is my normal state"]={{path="chatsounds/autoadd/tenrys/
 L["why wont you die"]={{path="chatsounds/autoadd/tenrys/why wont you die.ogg",length=1.6739682539682539}}
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.0636734693877552}}
 L["woah"]={{path="chatsounds/autoadd/tenrys/woah.ogg",length=0.48945578231292519}}
+L["woah woah woah woah woahwoahwoahwoahwoahwoah"]={{path="chatsounds/autoadd/tenrys/woah woah woah woah woahwoahwoahwoahwoahwoah.ogg",length=7.5232653061224486}}
 L["you a rightie or a leftie"]={{path="chatsounds/autoadd/tenrys/you a rightie or a leftie.ogg",length=2.1139909297052153}}
 L["you cant fight nature jack"]={{path="chatsounds/autoadd/tenrys/you cant fight nature jack.ogg",length=2.23}}
 L["you picked the wrong house fool distorted"]={{path="chatsounds/autoadd/tenrys/you picked the wrong house fool distorted.ogg",length=2.3052380952380953}}
