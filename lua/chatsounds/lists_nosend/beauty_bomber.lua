@@ -52,6 +52,7 @@ L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.90000000
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.3238775510204084}}
 L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/beauty_bomber/robotic yeeaaahhhh.ogg",length=1.0303854875283447}}
 L["ronald weasley"]={{path="chatsounds/autoadd/beauty_bomber/ronald weasley.ogg",length=2}}
+L["seize them"]={{path="chatsounds/autoadd/beauty_bomber/seize them.ogg",length=0.98913832199546481}}
 L["shagudadigash shagudadigash"]={{path="chatsounds/autoadd/beauty_bomber/shagudadigash shagudadigash.ogg",length=1.9406575963718822}}
 L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.5571428571428572}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.96}}
