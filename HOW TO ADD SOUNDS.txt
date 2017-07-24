@@ -1,6 +1,6 @@
 https://github.com/Metastruct/garrysmod-chatsounds
 
-1.	Make a fork: https://help.github.com/articles/fork-a-repo/
+1.	Fork the repository: https://help.github.com/articles/fork-a-repo/
 
 === using GitHub for Windows: https://windows.github.com/ ===
 2.	Click the "Clone in Desktop" button on https://github.com/Metastruct/garrysmod-chatsounds
