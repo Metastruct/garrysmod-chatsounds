@@ -1,4 +1,5 @@
 c.StartList("beauty_bomber")
+L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh somebody help me.ogg",length=2.8490022675736961}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.6200000000000001},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.9129931972789116}}
 L["am i glad hes frozen in there"]={{path="chatsounds/autoadd/beauty_bomber/am i glad hes frozen in there.ogg",length=9}}
@@ -49,7 +50,9 @@ L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg"
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.2739229024943315}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.3609750566893424}}
 L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.90000000000000002}}
+L["please pass the egg salad"]={{path="chatsounds/autoadd/beauty_bomber/please pass the egg salad.ogg",length=1.6000000000000001}}
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.3238775510204084}}
+L["raggle fraggle"]={{path="chatsounds/autoadd/beauty_bomber/raggle fraggle.ogg",length=0.99700680272108844}}
 L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/beauty_bomber/robotic yeeaaahhhh.ogg",length=1.0303854875283447}}
 L["ronald weasley"]={{path="chatsounds/autoadd/beauty_bomber/ronald weasley.ogg",length=2}}
 L["seize them"]={{path="chatsounds/autoadd/beauty_bomber/seize them.ogg",length=0.98913832199546481}}
