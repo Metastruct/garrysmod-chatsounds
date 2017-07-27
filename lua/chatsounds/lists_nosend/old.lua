@@ -1,3 +1,3 @@
 c.StartList("old")
-L["wryyy"]={{path="chatsounds/autoadd/old/wryyy.ogg",length=1.5716099773242631}}
+L["wryyy"]={{path="chatsounds/autoadd/old/wryyy.ogg",length=1.572}}
 c.EndList()
