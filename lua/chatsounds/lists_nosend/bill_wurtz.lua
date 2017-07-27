@@ -385,6 +385,7 @@ L["tape"]={{path="chatsounds/autoadd/bill_wurtz/tape.ogg",length=0.778}}
 L["taxes"]={{path="chatsounds/autoadd/bill_wurtz/taxes.ogg",length=0.552}}
 L["thank you thank you so much"]={{path="chatsounds/autoadd/bill_wurtz/thank you thank you so much.ogg",length=1.757}}
 L["thats magic"]={{path="chatsounds/autoadd/bill_wurtz/thats magic.ogg",length=1.148}}
+L["thats the way i like to live my life"]={{path="chatsounds/autoadd/bill_wurtz/thats the way i like to live my life.ogg",length=8.642}}
 L["thats too many turkeys"]={{path="chatsounds/autoadd/bill_wurtz/thats too many turkeys.ogg",length=2.163}}
 L["the first thing ill do just came to me"]={{path="chatsounds/autoadd/bill_wurtz/the first thing ill do just came to me.ogg",length=2.935}}
 L["the history of the world"]={{path="chatsounds/autoadd/bill_wurtz/the history of the world.ogg",length=1.329}}

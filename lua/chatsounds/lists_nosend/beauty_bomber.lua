@@ -1,4 +1,5 @@
 c.StartList("beauty_bomber")
+L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh somebody help me.ogg",length=2.849}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
 L["am i glad hes frozen in there"]={{path="chatsounds/autoadd/beauty_bomber/am i glad hes frozen in there.ogg",length=9.000}}
@@ -49,9 +50,12 @@ L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg"
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.274}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.361}}
 L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.900}}
+L["please pass the egg salad"]={{path="chatsounds/autoadd/beauty_bomber/please pass the egg salad.ogg",length=1.600}}
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.324}}
+L["raggle fraggle"]={{path="chatsounds/autoadd/beauty_bomber/raggle fraggle.ogg",length=0.997}}
 L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/beauty_bomber/robotic yeeaaahhhh.ogg",length=1.030}}
 L["ronald weasley"]={{path="chatsounds/autoadd/beauty_bomber/ronald weasley.ogg",length=2.000}}
+L["seize them"]={{path="chatsounds/autoadd/beauty_bomber/seize them.ogg",length=0.989}}
 L["shagudadigash shagudadigash"]={{path="chatsounds/autoadd/beauty_bomber/shagudadigash shagudadigash.ogg",length=1.941}}
 L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.557}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.960}}

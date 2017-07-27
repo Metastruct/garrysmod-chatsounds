@@ -8,7 +8,7 @@ L["who gave you the rights"]={{path="chatsounds/autoadd/why_are_you_closed/who g
 L["why"]={{path="chatsounds/autoadd/why_are_you_closed/why/1.ogg",length=0.504},{path="chatsounds/autoadd/why_are_you_closed/why/22.ogg",length=0.454},{path="chatsounds/autoadd/why_are_you_closed/why/3.ogg",length=1.189},{path="chatsounds/autoadd/why_are_you_closed/why/4.ogg",length=0.981},{path="chatsounds/autoadd/why_are_you_closed/why/5.ogg",length=0.969}}
 L["why are you closed"]={{path="chatsounds/autoadd/why_are_you_closed/why are you closed/2.ogg",length=1.973},{path="chatsounds/autoadd/why_are_you_closed/why are you closed/why are you closed.ogg",length=1.392}}
 L["why are you closing your doors"]={{path="chatsounds/autoadd/why_are_you_closed/why are you closing your doors.ogg",length=2.449}}
-L["why are you lockng your doors to the public"]={{path="chatsounds/autoadd/why_are_you_closed/why are you lockng your doors to the public.ogg",length=2.784}}
+L["why are you locking your doors to the public"]={{path="chatsounds/autoadd/why_are_you_closed/why are you locking your doors to the public.ogg",length=2.784}}
 L["why are you putting us through this"]={{path="chatsounds/autoadd/why_are_you_closed/why are you putting us through this.ogg",length=1.946}}
 L["why why"]={{path="chatsounds/autoadd/why_are_you_closed/why why.ogg",length=1.020}}
 L["whyy"]={{path="chatsounds/autoadd/why_are_you_closed/whyy/2.ogg",length=0.981},{path="chatsounds/autoadd/why_are_you_closed/whyy/3.ogg",length=0.965},{path="chatsounds/autoadd/why_are_you_closed/whyy/whyy.ogg",length=1.540}}
