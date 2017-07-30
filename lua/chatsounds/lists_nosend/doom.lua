@@ -2,7 +2,9 @@ c.StartList("doom")
 L["authorization denied"]={{path="chatsounds/autoadd/doom/authorization denied.ogg",length=7.104}}
 L["auxiliary neural security network offline"]={{path="chatsounds/autoadd/doom/auxiliary neural security network offline.ogg",length=8.277}}
 L["bfg testing sequence initiated"]={{path="chatsounds/autoadd/doom/bfg testing sequence initiated.ogg",length=11.819}}
-L["biometric mismatch"]={{path="chatsounds/autoadd/doom/biometric mismatch.ogg",length=19.669}}
+L["bfg testing sequence initiated thank you for your devotion through science we shall cleanse"]={{path="chatsounds/autoadd/doom/bfg testing sequence initiated.ogg",length=11.819}}
+L["biometric mismatch detected"]={{path="chatsounds/autoadd/doom/biometric mismatch detected.ogg",length=19.669}}
+L["biometric mismatch detected scanning unauthorized personnel confirmed expulsion to commence in 5"]={{path="chatsounds/autoadd/doom/biometric mismatch detected.ogg",length=19.669}}
 L["cannot determine the cause of the demonic invasion"]={{path="chatsounds/autoadd/doom/cannot determine the cause of the demonic invasion.ogg",length=10.923}}
 L["category 3 dimensional event"]={{path="chatsounds/autoadd/doom/category 3 dimensional event.ogg",length=17.067}}
 L["category 4 dimensional event"]={{path="chatsounds/autoadd/doom/category 4 dimensional event.ogg",length=17.728}}
@@ -44,6 +46,7 @@ L["warning core temperature reaching critical levels"]={{path="chatsounds/autoad
 L["warning core temperature rising"]={{path="chatsounds/autoadd/doom/warning core temperature rising.ogg",length=7.616}}
 L["warning energy contamination at critical levels"]={{path="chatsounds/autoadd/doom/warning energy contamination at critical levels.ogg",length=9.429}}
 L["warning terminal breach detected"]={{path="chatsounds/autoadd/doom/warning terminal breach detected.ogg",length=10.944}}
+L["warning terminal breach detected the reactor core is approaching dangerous levels"]={{path="chatsounds/autoadd/doom/warning terminal breach detected.ogg",length=10.944}}
 L["well thats it then theres nothing else to be done"]={{path="chatsounds/autoadd/doom/well thats it then theres nothing else to be done.ogg",length=6.421}}
 L["what you are destroying is more valuable than you can possibly imagine"]={{path="chatsounds/autoadd/doom/what you are destroying is more valuable than you can possibly imagine.ogg",length=11.477}}
 L["what you are destroying is more valuable than you can possibly imagine it is a perfect and unlimited energy resource"]={{path="chatsounds/autoadd/doom/what you are destroying is more valuable than you can possibly imagine.ogg",length=11.477}}

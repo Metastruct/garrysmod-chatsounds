@@ -64,7 +64,7 @@ L["mission failed well get em next time"]={{path="chatsounds/autoadd/tenrys/miss
 L["my roflcopter goes"]={{path="chatsounds/autoadd/tenrys/my roflcopter goes.ogg",length=1.541}}
 L["nice"]={{path="chatsounds/autoadd/tenrys/nice/1.ogg",length=0.376},{path="chatsounds/autoadd/tenrys/nice/10.ogg",length=0.508},{path="chatsounds/autoadd/tenrys/nice/11.ogg",length=0.783},{path="chatsounds/autoadd/tenrys/nice/12.ogg",length=0.596},{path="chatsounds/autoadd/tenrys/nice/13.ogg",length=0.394},{path="chatsounds/autoadd/tenrys/nice/14.ogg",length=0.554},{path="chatsounds/autoadd/tenrys/nice/15.ogg",length=0.466},{path="chatsounds/autoadd/tenrys/nice/16.ogg",length=0.359},{path="chatsounds/autoadd/tenrys/nice/2.ogg",length=0.445},{path="chatsounds/autoadd/tenrys/nice/3.ogg",length=0.392},{path="chatsounds/autoadd/tenrys/nice/4.ogg",length=0.321},{path="chatsounds/autoadd/tenrys/nice/5.ogg",length=0.394},{path="chatsounds/autoadd/tenrys/nice/6.ogg",length=0.271},{path="chatsounds/autoadd/tenrys/nice/7.ogg",length=0.394},{path="chatsounds/autoadd/tenrys/nice/8.ogg",length=0.378},{path="chatsounds/autoadd/tenrys/nice/9.ogg",length=0.440}}
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/tenrys/nice legs daisy dukes makes a man go.ogg",length=2.618}}
-L["ninja combo"]={{path="chatsounds/autoadd/tenrys/ninja combo/swoosh 1.ogg",length=1.071},{path="chatsounds/autoadd/tenrys/ninja combo/swoosh 2.ogg",length=0.705}}
+L["ninja combo"]={{path="chatsounds/autoadd/tenrys/ninja combo/1.ogg",length=1.071},{path="chatsounds/autoadd/tenrys/ninja combo/2.ogg",length=0.705}}
 L["no"]={{path="chatsounds/autoadd/tenrys/no.ogg",length=0.294}}
 L["no i dont want that"]={{path="chatsounds/autoadd/tenrys/no i dont want that.ogg",length=3.035}}
 L["no nobody can help you"]={{path="chatsounds/autoadd/tenrys/no nobody can help you.ogg",length=2.610}}
@@ -87,7 +87,7 @@ L["robloxswordslash"]={{path="chatsounds/autoadd/tenrys/robloxswordslash.ogg",le
 L["robloxunsheath"]={{path="chatsounds/autoadd/tenrys/robloxunsheath.ogg",length=0.705}}
 L["russian rage"]={{path="chatsounds/autoadd/tenrys/russian rage.ogg",length=3.465}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.192}}
-L["stop"]={{path="chatsounds/autoadd/tenrys/stop.ogg",length=0.641}}
+L["stop"]={{path="chatsounds/autoadd/tenrys/stop/1.ogg",length=0.641},{path="chatsounds/autoadd/tenrys/stop/2.ogg",length=0.548}}
 L["stop it"]={{path="chatsounds/autoadd/tenrys/stop it.ogg",length=0.504}}
 L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.537}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.530},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.817},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.494},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.662},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.448}}
