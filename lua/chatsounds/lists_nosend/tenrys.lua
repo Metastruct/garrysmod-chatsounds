@@ -42,6 +42,8 @@ L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.556}}
 L["good god man"]={{path="chatsounds/autoadd/tenrys/good god man.ogg",length=1.016}}
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.485}}
 L["happy gay bagel making"]={{path="chatsounds/autoadd/tenrys/happy gay bagel making.ogg",length=1.353}}
+L["hello"]={{path="chatsounds/autoadd/tenrys/hello.ogg",length=2.052}}
+L["help me"]={{path="chatsounds/autoadd/tenrys/help me.ogg",length=1.476}}
 L["heyooo"]={{path="chatsounds/autoadd/tenrys/heyooo.ogg",length=0.861}}
 L["how about full of shit"]={{path="chatsounds/autoadd/tenrys/how about full of shit.ogg",length=1.505}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.952}}
@@ -49,6 +51,7 @@ L["i do not associate with niggers"]={{path="chatsounds/autoadd/tenrys/i do not 
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.922}}
 L["ill create a gui interface using visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface using visual basic see if i can track an ip address.ogg",length=5.168}}
 L["im fucking invincible"]={{path="chatsounds/autoadd/tenrys/im fucking invincible.ogg",length=2.321}}
+L["im sorry"]={{path="chatsounds/autoadd/tenrys/im sorry.ogg",length=2.340}}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",length=2.017}}
 L["in the ainis"]={{path="chatsounds/autoadd/tenrys/in the ainis.ogg",length=0.777}}
 L["is that a meme"]={{path="chatsounds/autoadd/tenrys/is that a meme.ogg",length=1.013}}
@@ -91,6 +94,7 @@ L["stop"]={{path="chatsounds/autoadd/tenrys/stop/1.ogg",length=0.641},{path="cha
 L["stop it"]={{path="chatsounds/autoadd/tenrys/stop it.ogg",length=0.504}}
 L["tactical nuke incoming"]={{path="chatsounds/autoadd/tenrys/tactical nuke incoming.ogg",length=2.537}}
 L["tenrys"]={{path="chatsounds/autoadd/tenrys/tenrys/1.ogg",length=0.530},{path="chatsounds/autoadd/tenrys/tenrys/2.ogg",length=0.817},{path="chatsounds/autoadd/tenrys/tenrys/3.ogg",length=0.494},{path="chatsounds/autoadd/tenrys/tenrys/4.ogg",length=0.662},{path="chatsounds/autoadd/tenrys/tenrys/5.ogg",length=0.448}}
+L["thank you"]={{path="chatsounds/autoadd/tenrys/thank you.ogg",length=1.692}}
 L["thanks for watching"]={{path="chatsounds/autoadd/tenrys/thanks for watching.ogg",length=0.889}}
 L["the dna of the soul"]={{path="chatsounds/autoadd/tenrys/the dna of the soul.ogg",length=1.591}}
 L["the firewall is encrypted"]={{path="chatsounds/autoadd/tenrys/the firewall is encrypted.ogg",length=6.522}}
@@ -107,6 +111,7 @@ L["traitor"]={{path="chatsounds/autoadd/tenrys/traitor.ogg",length=0.581}}
 L["triggered"]={{path="chatsounds/autoadd/tenrys/triggered.ogg",length=3.494}}
 L["trust me"]={{path="chatsounds/autoadd/tenrys/trust me.ogg",length=1.051}}
 L["until double the volume"]={{path="chatsounds/autoadd/tenrys/until double the volume.ogg",length=1.414}}
+L["very good"]={{path="chatsounds/autoadd/tenrys/very good.ogg",length=2.268}}
 L["victory screech"]={{path="chatsounds/autoadd/tenrys/victory screech.ogg",length=9.195}}
 L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome to susans cooking school.ogg",length=1.672}}
 L["what did you say nigga"]={{path="chatsounds/autoadd/tenrys/what did you say nigga.ogg",length=1.707}}
