@@ -7,6 +7,7 @@ L["aku aku"]={{path="chatsounds/autoadd/tenrys/aku aku.ogg",length=1.283}}
 L["and"]={{path="chatsounds/autoadd/tenrys/and.ogg",length=0.167}}
 L["and this"]={{path="chatsounds/autoadd/tenrys/and this.ogg",length=1.781}}
 L["and this is to go even further beyond"]={{path="chatsounds/autoadd/tenrys/and this is to go even further beyond.ogg",length=5.867}}
+L["are you sure about that"]={{path="chatsounds/autoadd/tenrys/are you sure about that.ogg",length=1.093}}
 L["atatata"]={{path="chatsounds/autoadd/tenrys/atatata.ogg",length=5.462}}
 L["baguette"]={{path="chatsounds/autoadd/tenrys/baguette.ogg",length=0.364}}
 L["big sister scream"]={{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis01.ogg",length=2.722},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis02.ogg",length=2.388},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis03.ogg",length=1.812}}
