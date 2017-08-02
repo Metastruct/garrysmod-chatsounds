@@ -20,6 +20,7 @@ L["do not be alarmed by the system update"]={{path="chatsounds/autoadd/doom/do n
 L["do not be alarmed by the system update it is a prototype of our interdimensional tether a means to pull you back from hell im sorry for the jolt but i didnt think youd allow its installation voluntarily"]={{path="chatsounds/autoadd/doom/do not be alarmed by the system update.ogg",length=17.941}}
 L["entry denied"]={{path="chatsounds/autoadd/doom/entry denied.ogg",length=6.933}}
 L["hey this is for your benefit"]={{path="chatsounds/autoadd/doom/hey this is for your benefit.ogg",length=3.179}}
+L["holy fucking shit"]={{path="chatsounds/autoadd/doom/holy fucking shit.ogg",length=1.555}}
 L["holy shit"]={{path="chatsounds/autoadd/doom/holy shit.ogg",length=1.047}}
 L["i am not the villain in this story i do what i do because there is no choice"]={{path="chatsounds/autoadd/doom/i am not the villain in this story i do what i do because there is no choice.ogg",length=9.813}}
 L["i cant kill you but i wont have you standing in our way"]={{path="chatsounds/autoadd/doom/i cant kill you but i wont have you standing in our way.ogg",length=6.101}}
