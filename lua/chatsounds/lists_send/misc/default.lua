@@ -2880,7 +2880,7 @@ c.StartList("default")
 		},
 
 		pre = function(chtsnd)
-			if chtsnd:GetPlayer() == LocalPlayer() then
+			if chatsounds.AllowStopSounds:GetBool() or chtsnd:GetPlayer() == LocalPlayer() then
 				chatsounds.StopAllSounds()
 			end
 		end,
