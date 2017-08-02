@@ -407,7 +407,7 @@ L["this korhal outfits a mess"]={{path="chatsounds/autoadd/starcraft/this korhal
 L["this should be good"]={{path="chatsounds/autoadd/starcraft/this should be good.ogg",length=2.229}}
 L["thorasohcahp"]={{path="chatsounds/autoadd/starcraft/thorasohcahp.ogg",length=1.978}}
 L["thoughts in chaos"]={{path="chatsounds/autoadd/starcraft/thoughts in chaos.ogg",length=2.927}}
-L["to curl chunks please use the vomit bag in front of you"]={{path="chatsounds/autoadd/starcraft/to curl chunks please use the vomit bag in front of you.ogg",length=2.926}}
+L["to hurl chunks please use the vomit bag in front of you"]={{path="chatsounds/autoadd/starcraft/to hurl chunks please use the vomit bag in front of you.ogg",length=2.926}}
 L["transmission"]={{path="chatsounds/autoadd/starcraft/transmission.ogg",length=0.180}}
 L["transmit"]={{path="chatsounds/autoadd/starcraft/transmit.ogg",length=0.801}}
 L["transmit coordinates"]={{path="chatsounds/autoadd/starcraft/transmit coordinates.ogg",length=1.416}}
