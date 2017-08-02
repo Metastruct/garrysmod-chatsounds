@@ -1187,7 +1187,8 @@ function chatsounds.Say(ply, text, seed)
 	
 	chatsounds.Profile"Say"
 	if not c.Enabled:GetBool() then return end
-
+	if ply:IsMuted() then return end
+	
 	text = text:lower()
 	text = text:gsub("[^%w%a%s" .. c.SKIP .. "]", ""):gsub("%s+", " ")
 

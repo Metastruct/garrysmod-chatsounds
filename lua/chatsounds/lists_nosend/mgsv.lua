@@ -1,6 +1,6 @@
 c.StartList("mgsv")
-L["idroid function unavailable"]={{path="chatsounds/autoadd/mgsv/idroid function unavailable.ogg",length=1.5400907029478459}}
-L["phantomcigar"]={{path="chatsounds/autoadd/mgsv/phantomcigar.ogg",length=9.6407482993197284}}
-L["such a lust for revenge"]={{path="chatsounds/autoadd/mgsv/such a lust for revenge.ogg",length=1.7651020408163265}}
-L["whooooo"]={{path="chatsounds/autoadd/mgsv/whooooo.ogg",length=1.7078684807256235}}
+L["idroid function unavailable"]={{path="chatsounds/autoadd/mgsv/idroid function unavailable.ogg",length=1.540}}
+L["phantomcigar"]={{path="chatsounds/autoadd/mgsv/phantomcigar.ogg",length=9.641}}
+L["such a lust for revenge"]={{path="chatsounds/autoadd/mgsv/such a lust for revenge.ogg",length=1.765}}
+L["whooooo"]={{path="chatsounds/autoadd/mgsv/whooooo.ogg",length=1.708}}
 c.EndList()
