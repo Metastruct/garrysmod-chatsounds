@@ -23,7 +23,7 @@ after_success:
         - openssl aes-256-cbc -K $encrypted_74e4c327100e_key -iv $encrypted_74e4c327100e_iv -in .deploy_key.enc -out .deploy_key -d
           && eval "$(ssh-agent -s)" && chmod 600 .deploy_key && ssh-add .deploy_key
         - git config user.name "Meta Automator" && git config user.email MetaAutomator@users.noreply.github.com
-        - git remote remove origin && git remote add origin git@github.com:Metastruct/test-chatsounds-ci.git && git fetch --unshallow
+        - git remote remove origin && git remote add origin git@github.com:Metastruct/garrysmod-chatsounds.git && git fetch --unshallow
         - if [ "$(git rev-parse origin/master)" == "$TRAVIS_COMMIT" ]; then
                 git checkout master && git add lua && git commit -m "chatsounds preprocessor ($TRAVIS_COMMIT)" -m "[ci skip]";
                 git push --set-upstream origin master;
