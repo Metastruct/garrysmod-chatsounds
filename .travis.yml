@@ -11,14 +11,14 @@ addons:
                         - yasm
 
 install:
-        - git clone https://github.com/PotcFdk/chatsounds-preprocessor --depth 1 --branch v1.1.0
-        - cd chatsounds-preprocessor
+        - git clone https://github.com/PotcFdk/chatsounds-preprocessor chatsounds-preprocessor.repo --depth 1 --branch v1.1.0
+        - cd chatsounds-preprocessor.repo
         - cd libs && ./setup-ffmpeg.sh
         - cd .. && mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Release ..
-        - make && mv chatsounds-preprocessor ../../proc && cd ../..
+        - make && mv chatsounds-preprocessor ../../ && cd ../.. && rm -rf chatsounds-preprocessor.repo
 
-before_script: ./proc --version
-script: ./proc --full --non-interactive
+before_script: ./chatsounds-preprocessor --version
+script: ./chatsounds-preprocessor --full --non-interactive
 
 after_success:
         - openssl aes-256-cbc -K $encrypted_74e4c327100e_key -iv $encrypted_74e4c327100e_iv -in .deploy_key.enc -out .deploy_key -d
