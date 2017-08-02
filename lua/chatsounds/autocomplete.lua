@@ -256,12 +256,22 @@ hook.Add("FinishChat", "chatsounds_autocomplete", function()
 end)
 
 hook.Add("ChatTextChanged", "chatsounds_autocomplete", function(text, lua_tab_change)
-	if not chatsounds_autocomplete:GetBool() then return end
+	if not chatsounds_autocomplete:GetBool() then 		
+		table.Empty(ac.found)
+		ac.highlighted = 0
+		ac.last_search = ">>>>ERROR<<<"
+		return
+	end
 
 	local _, text = string.match(text:lower(), "^(#?#?)(.*)$")
 
 	-- this may cause future compatibility issues
-	if lua_tab_change == true and string.find(text,"\n",1,true) then return end
+	if lua_tab_change == true and string.find(text,"\n",1,true) then
+		table.Empty(ac.found)
+		ac.highlighted = 0
+		ac.last_search = ">>>>ERROR<<<"
+		return
+	end
 
 	if text ~= "" and text ~= ac.ignore then
 		ac.randommode = nil
