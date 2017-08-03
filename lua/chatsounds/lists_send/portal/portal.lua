@@ -357,7 +357,7 @@ L["you euthanized your faithful companion cube more quickly than any test subjec
 L["you havent escaped you know"]={{path="vo/aperture_ai/escape_00_part1_nag05-1.wav",length=2.4318140589569}}
 L["you on the other hand are going to find its deadliness a lot less funny"]={{path="vo/aperture_ai/escape_02_miscbabble-13.wav",length=4.3413378684807}}
 L["you should have turned left before"]={{path="vo/aperture_ai/escape_01_part1_nag08-1.wav",length=2.5263945578231}}
-L["you shouldnt be here this isnt safe for you"]={{path="vo/aperture_ai/escape_00_part1_nag11-1.wav",length=4.5850793650794}}
+L["you really shouldnt be here this isnt safe for you"]={{path="vo/aperture_ai/escape_00_part1_nag11-1.wav",length=4.5850793650794}}
 L["your business is appreciated"]={{path="ambient/machines/usetoilet_thank.wav",length=2.6296371882086}}
 L["your entire life has been a mathematical error a mathematical error im about to correct"]={{path="vo/aperture_ai/escape_02_spheredestroy4-11.wav",length=8.6760997732426}}
 L["your specimen has been processed and we are now ready to begin the test proper"]={{path="vo/aperture_ai/00_part1_entry-3.wav",length=4.888253968254}}
