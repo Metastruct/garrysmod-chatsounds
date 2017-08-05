@@ -12,8 +12,8 @@ L["for the next generation"]={{path="chatsounds/autoadd/xbox_one/for the next ge
 L["go home"]={{path="chatsounds/autoadd/xbox_one/go home.ogg",length=0.672}}
 L["halo"]={{path="chatsounds/autoadd/xbox_one/halo.ogg",length=0.457}}
 L["halo television"]={{path="chatsounds/autoadd/xbox_one/halo television.ogg",length=1.057}}
-L["im proud to announce a live action halo television series"]={{path="chatsounds/autoadd/xbox_one/im proud to announce a live action halo television series.ogg",length=4.287}}
-L["im prout to announce"]={{path="chatsounds/autoadd/xbox_one/im prout to announce.ogg",length=1.372}}
+L["im thrilled to announce"]={{path="chatsounds/autoadd/xbox_one/im thrilled to announce.ogg",length=1.372}}
+L["im thrilled to announce a live action halo television series"]={{path="chatsounds/autoadd/xbox_one/im thrilled to announce a live action halo television series.ogg",length=4.287}}
 L["introducing"]={{path="chatsounds/autoadd/xbox_one/introducing.ogg",length=1.043}}
 L["is a"]={{path="chatsounds/autoadd/xbox_one/is a.ogg",length=0.286}}
 L["is a dog"]={{path="chatsounds/autoadd/xbox_one/is a dog.ogg",length=0.614}}
