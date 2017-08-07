@@ -51,7 +51,7 @@ end
 chatsounds.Initialized = false
 chatsounds.AutoPrecacheAll = CreateClientConVar("chatsounds_autoprecache_all", 0, true, true)
 chatsounds.AllowDSP = CreateClientConVar("chatsounds_dsp", 1, true, true):GetBool()
-chatsounds.AllowStopSounds = CreateClientConVar("chatsounds_allow_stopsounds", 0, true, true)
+chatsounds.AllowStopSounds = CreateClientConVar("chatsounds_allow_stopsounds", 1, true, true)
 
 chatsounds.CSoundPatches = {}
 chatsounds.Timers = {}
