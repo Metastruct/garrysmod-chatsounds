@@ -11,6 +11,8 @@ L["ap"]={{path="chatsounds/autoadd/feshpince/ap.ogg",length=0.453}}
 L["awawaw"]={{path="chatsounds/autoadd/feshpince/awawaw.ogg",length=0.793}}
 L["banks residence"]={{path="chatsounds/autoadd/feshpince/banks residence.ogg",length=1.164}}
 L["banks wants to empty the banks fill all our streets with banks"]={{path="chatsounds/autoadd/feshpince/banks wants to empty the banks fill all our streets with banks.ogg",length=3.100}}
+L["banksgibberish"]={{path="chatsounds/autoadd/feshpince/banksgibberish.ogg",length=1.875}}
+L["banksscream"]={{path="chatsounds/autoadd/feshpince/banksscream.ogg",length=1.489}}
 L["bbbbbbbb"]={{path="chatsounds/autoadd/feshpince/bbbbbbbb.ogg",length=0.435}}
 L["because the nasty dude had a twoheaded coc"]={{path="chatsounds/autoadd/feshpince/because the nasty dude had a twoheaded coc.ogg",length=2.233}}
 L["brerb"]={{path="chatsounds/autoadd/feshpince/brerb.ogg",length=0.378}}
@@ -45,6 +47,7 @@ L["fuck philip banks"]={{path="chatsounds/autoadd/feshpince/fuck philip banks.og
 L["fuck you nigga"]={{path="chatsounds/autoadd/feshpince/fuck you nigga.ogg",length=0.787}}
 L["fuck your father fuck you nigga your phone"]={{path="chatsounds/autoadd/feshpince/fuck your father fuck you nigga your phone.ogg",length=2.662}}
 L["geoffery"]={{path="chatsounds/autoadd/feshpince/geoffery.ogg",length=0.655}}
+L["geofferygibberish"]={{path="chatsounds/autoadd/feshpince/geofferygibberish.ogg",length=2.382}}
 L["geofferykiss"]={{path="chatsounds/autoadd/feshpince/geofferykiss.ogg",length=1.271}}
 L["geofferyno"]={{path="chatsounds/autoadd/feshpince/geofferyno.ogg",length=0.714}}
 L["geofferysound"]={{path="chatsounds/autoadd/feshpince/geofferysound.ogg",length=0.576}}
@@ -57,6 +60,7 @@ L["he may be an unreasonable dickhead"]={{path="chatsounds/autoadd/feshpince/he 
 L["heheheh"]={{path="chatsounds/autoadd/feshpince/heheheh.ogg",length=0.980}}
 L["helloh"]={{path="chatsounds/autoadd/feshpince/helloh.ogg",length=0.422}}
 L["hey g would you make me a sandwich"]={{path="chatsounds/autoadd/feshpince/hey g would you make me a sandwich.ogg",length=1.353}}
+L["hhaahh"]={{path="chatsounds/autoadd/feshpince/hhaahh.ogg",length=1.360}}
 L["hhhh robotic"]={{path="chatsounds/autoadd/feshpince/hhhh robotic.ogg",length=0.566}}
 L["hoh noh"]={{path="chatsounds/autoadd/feshpince/hoh noh.ogg",length=1.527}}
 L["huledilehuledile"]={{path="chatsounds/autoadd/feshpince/huledilehuledile.ogg",length=1.625}}
@@ -76,6 +80,8 @@ L["i was planning to use that money on pot"]={{path="chatsounds/autoadd/feshpinc
 L["ididit"]={{path="chatsounds/autoadd/feshpince/ididit.ogg",length=0.491}}
 L["if you were me what would you do"]={{path="chatsounds/autoadd/feshpince/if you were me what would you do.ogg",length=2.260}}
 L["if youre so confident in my lack of ability"]={{path="chatsounds/autoadd/feshpince/if youre so confident in my lack of ability.ogg",length=2.914}}
+L["im a black man with a short black man"]={{path="chatsounds/autoadd/feshpince/im a black man with a short black man.ogg",length=5.378}}
+L["im gonna zip my pants up"]={{path="chatsounds/autoadd/feshpince/im gonna zip my pants up.ogg",length=1.162}}
 L["im not gonna fight back"]={{path="chatsounds/autoadd/feshpince/im not gonna fight back.ogg",length=1.051}}
 L["im retarded"]={{path="chatsounds/autoadd/feshpince/im retarded.ogg",length=0.717}}
 L["im riich"]={{path="chatsounds/autoadd/feshpince/im riich.ogg",length=1.177}}
@@ -93,6 +99,7 @@ L["lllllook"]={{path="chatsounds/autoadd/feshpince/lllllook.ogg",length=1.325}}
 L["look you big eared frerf"]={{path="chatsounds/autoadd/feshpince/look you big eared frerf.ogg",length=2.127}}
 L["make a little wager"]={{path="chatsounds/autoadd/feshpince/make a little wager.ogg",length=1.662}}
 L["me eh eh"]={{path="chatsounds/autoadd/feshpince/me eh eh.ogg",length=0.938}}
+L["mooom"]={{path="chatsounds/autoadd/feshpince/mooom.ogg",length=1.551}}
 L["more after this"]={{path="chatsounds/autoadd/feshpince/more after this.ogg",length=1.236}}
 L["mum"]={{path="chatsounds/autoadd/feshpince/mum.ogg",length=0.544}}
 L["my mum my mum"]={{path="chatsounds/autoadd/feshpince/my mum my mum.ogg",length=2.257}}
@@ -139,6 +146,8 @@ L["snits"]={{path="chatsounds/autoadd/feshpince/snits.ogg",length=0.680}}
 L["so this story is about you isnt it will"]={{path="chatsounds/autoadd/feshpince/so this story is about you isnt it will.ogg",length=3.103}}
 L["splebs"]={{path="chatsounds/autoadd/feshpince/splebs.ogg",length=1.303}}
 L["spoops"]={{path="chatsounds/autoadd/feshpince/spoops.ogg",length=0.778}}
+L["ssey"]={{path="chatsounds/autoadd/feshpince/ssey.ogg",length=0.863}}
+L["sshow them to the table"]={{path="chatsounds/autoadd/feshpince/sshow them to the table.ogg",length=2.224}}
 L["sssssssss"]={{path="chatsounds/autoadd/feshpince/sssssssss.ogg",length=0.927}}
 L["that goes against everything i stand for"]={{path="chatsounds/autoadd/feshpince/that goes against everything i stand for.ogg",length=1.907}}
 L["that was a joke maam"]={{path="chatsounds/autoadd/feshpince/that was a joke maam.ogg",length=1.894}}
@@ -148,10 +157,13 @@ L["the correct answer is"]={{path="chatsounds/autoadd/feshpince/the correct answ
 L["the phones dead"]={{path="chatsounds/autoadd/feshpince/the phones dead.ogg",length=1.385}}
 L["the world can profit from a mans dick"]={{path="chatsounds/autoadd/feshpince/the world can profit from a mans dick.ogg",length=2.200}}
 L["this is a black thing isnt it"]={{path="chatsounds/autoadd/feshpince/this is a black thing isnt it.ogg",length=1.154}}
+L["this is edible"]={{path="chatsounds/autoadd/feshpince/this is edible.ogg",length=1.005}}
 L["too giddy from rubbing my coc"]={{path="chatsounds/autoadd/feshpince/too giddy from rubbing my coc.ogg",length=1.863}}
 L["tutututu"]={{path="chatsounds/autoadd/feshpince/tutututu.ogg",length=0.879}}
 L["uncle phil we give you your jooj back"]={{path="chatsounds/autoadd/feshpince/uncle phil we give you your jooj back.ogg",length=1.853}}
+L["uuu are you"]={{path="chatsounds/autoadd/feshpince/uuu are you.ogg",length=1.972}}
 L["uuuuuu"]={{path="chatsounds/autoadd/feshpince/uuuuuu.ogg",length=1.239}}
+L["uuuuuuamiuuamiuu am i"]={{path="chatsounds/autoadd/feshpince/uuuuuuamiuuamiuu am i.ogg",length=3.171}}
 L["wat de fack"]={{path="chatsounds/autoadd/feshpince/wat de fack.ogg",length=0.736}}
 L["watch and learn"]={{path="chatsounds/autoadd/feshpince/watch and learn.ogg",length=0.994}}
 L["we call them words"]={{path="chatsounds/autoadd/feshpince/we call them words.ogg",length=1.460}}
@@ -189,6 +201,7 @@ L["you owe me"]={{path="chatsounds/autoadd/feshpince/you owe me.ogg",length=1.04
 L["you selfish"]={{path="chatsounds/autoadd/feshpince/you selfish.ogg",length=0.777}}
 L["you should get in on this"]={{path="chatsounds/autoadd/feshpince/you should get in on this.ogg",length=1.466}}
 L["you swindled me"]={{path="chatsounds/autoadd/feshpince/you swindled me.ogg",length=0.900}}
+L["you take that horny little ass and you find geoffery and you find geoffery"]={{path="chatsounds/autoadd/feshpince/you take that horny little ass and you find geoffery and you find geoffery.ogg",length=9.041}}
 L["your grandchildren are going to need grandchildren lawyers"]={{path="chatsounds/autoadd/feshpince/your grandchildren are going to need grandchildren lawyers.ogg",length=2.441}}
 L["your phone"]={{path="chatsounds/autoadd/feshpince/your phone.ogg",length=0.895}}
 L["youre kidding"]={{path="chatsounds/autoadd/feshpince/youre kidding.ogg",length=0.642}}
