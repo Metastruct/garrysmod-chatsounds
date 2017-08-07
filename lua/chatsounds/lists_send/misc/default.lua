@@ -2880,7 +2880,9 @@ c.StartList("default")
 		},
 
 		pre = function(chtsnd)
-			chatsounds.StopAllSounds()
+			if chatsounds.AllowStopSounds:GetBool() or chtsnd:GetPlayer() == LocalPlayer() then
+				chatsounds.StopAllSounds()
+			end
 		end,
 	}
 
