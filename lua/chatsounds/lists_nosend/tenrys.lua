@@ -59,6 +59,7 @@ L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",
 L["in the ainis"]={{path="chatsounds/autoadd/tenrys/in the ainis.ogg",length=0.777}}
 L["is that a meme"]={{path="chatsounds/autoadd/tenrys/is that a meme.ogg",length=1.013}}
 L["its time to make"]={{path="chatsounds/autoadd/tenrys/its time to make.ogg",length=0.800}}
+L["just to suffer"]={{path="chatsounds/autoadd/tenrys/just to suffer.ogg",length=1.804}}
 L["kebab"]={{path="chatsounds/autoadd/tenrys/kebab.ogg",length=18.061}}
 L["killbill"]={{path="chatsounds/autoadd/tenrys/killbill.ogg",length=14.811}}
 L["kirby invincibility"]={{path="chatsounds/autoadd/tenrys/kirby invincibility.ogg",length=5.455}}
@@ -120,6 +121,7 @@ L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome 
 L["what did you say nigga"]={{path="chatsounds/autoadd/tenrys/what did you say nigga.ogg",length=1.707}}
 L["what you say nigga"]={{path="chatsounds/autoadd/tenrys/what you say nigga.ogg",length=5.538}}
 L["what youre seeing now is my normal state"]={{path="chatsounds/autoadd/tenrys/what youre seeing now is my normal state.ogg",length=2.671}}
+L["why are we still here"]={{path="chatsounds/autoadd/tenrys/why are we still here.ogg",length=3.620}}
 L["why wont you die"]={{path="chatsounds/autoadd/tenrys/why wont you die.ogg",length=1.674}}
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.064}}
 L["woah"]={{path="chatsounds/autoadd/tenrys/woah.ogg",length=0.489}}
