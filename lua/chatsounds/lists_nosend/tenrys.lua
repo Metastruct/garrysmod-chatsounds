@@ -37,7 +37,7 @@ L["fak u krusti"]={{path="chatsounds/autoadd/tenrys/fak u krusti.ogg",length=1.4
 L["fap sounds"]={{path="chatsounds/autoadd/tenrys/fap sounds.ogg",length=4.715}}
 L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.202}}
 L["fbi"]={{path="chatsounds/autoadd/tenrys/fbi.ogg",length=0.594}}
-L["game over"]={{path="chatsounds/autoadd/tenrys/game over.ogg",length=6.269}}
+L["game over"]={{path="chatsounds/autoadd/tenrys/game over.ogg",length=5.692}}
 L["gay bagels"]={{path="chatsounds/autoadd/tenrys/gay bagels.ogg",length=0.933}}
 L["get some help"]={{path="chatsounds/autoadd/tenrys/get some help.ogg",length=0.790}}
 L["gives me conniptions"]={{path="chatsounds/autoadd/tenrys/gives me conniptions.ogg",length=1.893}}
