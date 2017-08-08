@@ -15,7 +15,7 @@ L["jealousy much"]={{path="chatsounds/autoadd/jessislaughter/jealousy much.ogg",
 L["just shut your mouths before you make a fool out of yourselves"]={{path="chatsounds/autoadd/jessislaughter/just shut your mouths before you make a fool out of yourselves.ogg",length=2.168}}
 L["you dun goofed"]={{path="chatsounds/autoadd/jessislaughter/you dun goofed.ogg",length=2.377}}
 L["you guys are bitches"]={{path="chatsounds/autoadd/jessislaughter/you guys are bitches.ogg",length=1.358}}
-L["you just jealous because im perfrect and youre not"]={{path="chatsounds/autoadd/jessislaughter/you just jealous because im perfrect and youre not.ogg",length=3.448}}
+L["you just jealous because im perfect and youre not"]={{path="chatsounds/autoadd/jessislaughter/you just jealous because im perfect and youre not.ogg",length=3.448}}
 L["youll be arrested"]={{path="chatsounds/autoadd/jessislaughter/youll be arrested.ogg",length=1.698}}
 L["youre jealous of me because one im more pretty than you i have more friends"]={{path="chatsounds/autoadd/jessislaughter/youre jealous of me because one im more pretty than you i have more friends.ogg",length=8.490}}
 L["youre just like jealous of me"]={{path="chatsounds/autoadd/jessislaughter/youre just like jealous of me.ogg",length=2.220}}
