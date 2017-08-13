@@ -38,6 +38,7 @@ L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739}}
 L["hotguitarriff"]={{path="chatsounds/autoadd/randomshit/hotguitarriff.ogg",length=14.416}}
+L["how many cigorettes have you got lad"]={{path="chatsounds/autoadd/randomshit/how many cigorettes have you got lad.ogg",length=3.878}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.725}}
 L["i dunno should it be called fucking comic sans"]={{path="chatsounds/autoadd/randomshit/i dunno should it be called fucking comic sans.ogg",length=6.976}}
 L["i have several questions"]={{path="chatsounds/autoadd/randomshit/i have several questions.ogg",length=2.140}}
