@@ -14,7 +14,9 @@ L["bgbosschorus"]={{path="chatsounds/autoadd/beauty_bomber/bgbosschorus.ogg",len
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.846}}
 L["come inside and lets fuck around"]={{path="chatsounds/autoadd/beauty_bomber/come inside and lets fuck around.ogg",length=2.000}}
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26.000}}
+L["fiestatime"]={{path="chatsounds/autoadd/beauty_bomber/fiestatime.ogg",length=35.527}}
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
+L["getsmart"]={{path="chatsounds/autoadd/beauty_bomber/getsmart.ogg",length=21.579}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.375}}
@@ -47,18 +49,22 @@ L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",l
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/beauty_bomber/nah i dont really feel like it.ogg",length=2.319}}
 L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.730}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200}}
+L["ominousambience"]={{path="chatsounds/autoadd/beauty_bomber/ominousambience.ogg",length=12.322}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.274}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.361}}
 L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.900}}
 L["please pass the egg salad"]={{path="chatsounds/autoadd/beauty_bomber/please pass the egg salad.ogg",length=1.600}}
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.324}}
 L["raggle fraggle"]={{path="chatsounds/autoadd/beauty_bomber/raggle fraggle.ogg",length=0.997}}
+L["robofunk"]={{path="chatsounds/autoadd/beauty_bomber/robofunk.ogg",length=23.014}}
 L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/beauty_bomber/robotic yeeaaahhhh.ogg",length=1.030}}
 L["ronald weasley"]={{path="chatsounds/autoadd/beauty_bomber/ronald weasley.ogg",length=2.000}}
 L["seize them"]={{path="chatsounds/autoadd/beauty_bomber/seize them.ogg",length=0.989}}
 L["shagudadigash shagudadigash"]={{path="chatsounds/autoadd/beauty_bomber/shagudadigash shagudadigash.ogg",length=1.941}}
+L["sleeptime"]={{path="chatsounds/autoadd/beauty_bomber/sleeptime.ogg",length=5.291}}
 L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.557}}
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.960}}
+L["spacealarm"]={{path="chatsounds/autoadd/beauty_bomber/spacealarm.ogg",length=3.001}}
 L["sphinx uh wire and negro"]={{path="chatsounds/autoadd/beauty_bomber/sphinx uh wire and negro.ogg",length=2.700}}
 L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.108}}
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.086}}
