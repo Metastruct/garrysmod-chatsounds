@@ -54,6 +54,7 @@ L["i do not associate with niggers"]={{path="chatsounds/autoadd/tenrys/i do not 
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.922}}
 L["ill create a gui interface using visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface using visual basic see if i can track an ip address.ogg",length=5.168}}
 L["im fucking invincible"]={{path="chatsounds/autoadd/tenrys/im fucking invincible.ogg",length=2.321}}
+L["im pickin the lock"]={{path="chatsounds/autoadd/tenrys/im pickin the lock.ogg",length=1.218}}
 L["im sorry"]={{path="chatsounds/autoadd/tenrys/im sorry.ogg",length=2.340}}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",length=2.017}}
 L["in the ainis"]={{path="chatsounds/autoadd/tenrys/in the ainis.ogg",length=0.777}}
@@ -82,6 +83,7 @@ L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.125}}
 L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.309}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.752}}
+L["pickinpickinpickinpickin"]={{path="chatsounds/autoadd/tenrys/pickinpickinpickinpickin.ogg",length=2.448}}
 L["rest in pieces"]={{path="chatsounds/autoadd/tenrys/rest in pieces.ogg",length=1.818}}
 L["robloxbass"]={{path="chatsounds/autoadd/tenrys/robloxbass.ogg",length=0.936}}
 L["robloxbutton"]={{path="chatsounds/autoadd/tenrys/robloxbutton.ogg",length=0.330}}
