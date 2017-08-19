@@ -141,7 +141,7 @@ L["too easy"]={{path="chatsounds/autoadd/tenrys/too easy.ogg",length=0.864}}
 L["traitor"]={{path="chatsounds/autoadd/tenrys/traitor.ogg",length=0.581}}
 L["triggered"]={{path="chatsounds/autoadd/tenrys/triggered.ogg",length=3.494}}
 L["trust me"]={{path="chatsounds/autoadd/tenrys/trust me.ogg",length=1.051}}
-L["try and shut me up"]={{path="chatsounds/autoadd/tenrys/try and shut me up.ogg",length=3.046}}
+L["try and shut me up youll fail like the others"]={{path="chatsounds/autoadd/tenrys/try and shut me up youll fail like the others.ogg",length=3.046}}
 L["until double the volume"]={{path="chatsounds/autoadd/tenrys/until double the volume.ogg",length=1.414}}
 L["very good"]={{path="chatsounds/autoadd/tenrys/very good.ogg",length=2.268}}
 L["victory screech"]={{path="chatsounds/autoadd/tenrys/victory screech.ogg",length=9.195}}
