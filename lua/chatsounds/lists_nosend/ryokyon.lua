@@ -27,7 +27,6 @@ L["doc"]={{path="chatsounds/autoadd/ryokyon/doc.ogg",length=0.395}}
 L["doctor list"]={{path="chatsounds/autoadd/ryokyon/doctor list.ogg",length=6.165}}
 L["doctor who"]={{path="chatsounds/autoadd/ryokyon/doctor who.ogg",length=1.402}}
 L["doctor whoo"]={{path="chatsounds/autoadd/ryokyon/doctor whoo.ogg",length=1.527}}
-L["dont fuck with this senator"]={{path="chatsounds/autoadd/ryokyon/dont fuck with this senator.ogg",length=1.643}}
 L["dont shoot"]={{path="chatsounds/autoadd/ryokyon/dont shoot.ogg",length=0.622}}
 L["drag on forever"]={{path="chatsounds/autoadd/ryokyon/drag on forever.ogg",length=1.483}}
 L["extremely very not good"]={{path="chatsounds/autoadd/ryokyon/extremely very not good.ogg",length=4.519}}
