@@ -1,0 +1,3 @@
+Don't merge this into master until chatsounds-preprocessor v1.2.0
+is released, as this map.txt relies on a future change to the
+list generation logic.
