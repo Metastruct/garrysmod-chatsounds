@@ -15,7 +15,7 @@ L["maybe you should stop trying to socialize everyone hates you"]={{path="chatso
 L["nazi dinosaurs"]={{path="chatsounds/autoadd/tomska/nazi dinosaurs.ogg",length=1.588}}
 L["oh oh no"]={{path="chatsounds/autoadd/tomska/oh oh no.ogg",length=2.606}}
 L["stop it"]={{path="chatsounds/autoadd/tomska/stop it.ogg",length=1.387}}
-L["that's my socializing quota for my month up cya"]={{path="chatsounds/autoadd/tomska/that's my socializing quota for my month up cya.ogg",length=2.908}}
+L["thats my socializing quota for my month up cya"]={{path="chatsounds/autoadd/tomska/thats my socializing quota for my month up cya.ogg",length=2.908}}
 L["the dinosaurs are back"]={{path="chatsounds/autoadd/tomska/the dinosaurs are back.ogg",length=1.383}}
 L["the nazis are back"]={{path="chatsounds/autoadd/tomska/the nazis are back.ogg",length=1.101}}
 L["well now that ive broken the ice"]={{path="chatsounds/autoadd/tomska/well now that ive broken the ice.ogg",length=5.923}}
