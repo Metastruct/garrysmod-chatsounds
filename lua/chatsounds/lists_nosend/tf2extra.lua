@@ -2,6 +2,8 @@ c.StartList("tf2extra")
 L["aaany second now"]={{path="chatsounds/autoadd/tf2extra/aaany second now.ogg",length=2.288}}
 L["ahyooyha"]={{path="chatsounds/autoadd/tf2extra/ahyooyha.ogg",length=1.384}}
 L["and thats what ya get for touching dicks fuckhead"]={{path="chatsounds/autoadd/tf2extra/and thats what ya get for touching dicks fuckhead.ogg",length=4.399}}
+L["and the doctor was never heard from again"]={{path="chatsounds/autoadd/tf2extra/and the doctor was never heard from again.ogg",length=2.565}}
+L["archimedes no"]={{path="chatsounds/autoadd/tf2extra/archimedes no.ogg",length=2.007}}
 L["are you sure this will work"]={{path="chatsounds/autoadd/tf2extra/are you sure this will work.ogg",length=1.880}}
 L["big surprise"]={{path="chatsounds/autoadd/tf2extra/big surprise.ogg",length=0.984}}
 L["birds"]={{path="chatsounds/autoadd/tf2extra/birds.ogg",length=0.624}}
@@ -91,6 +93,8 @@ L["trying"]={{path="chatsounds/autoadd/tf2extra/trying.ogg",length=0.557}}
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.909}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.539}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
+L["what was noise"]={{path="chatsounds/autoadd/tf2extra/what was noise.ogg",length=2.012}}
+L["when the patient woke up his skeleton was missing"]={{path="chatsounds/autoadd/tf2extra/when the patient woke up his skeleton was missing.ogg",length=3.195}}
 L["where was i"]={{path="chatsounds/autoadd/tf2extra/where was i.ogg",length=0.576}}
 L["won"]={{path="chatsounds/autoadd/tf2extra/won.ogg",length=0.528}}
 L["wot"]={{path="chatsounds/autoadd/tf2extra/wot/1.ogg",length=0.168},{path="chatsounds/autoadd/tf2extra/wot/2.ogg",length=0.176},{path="chatsounds/autoadd/tf2extra/wot/3.ogg",length=0.305},{path="chatsounds/autoadd/tf2extra/wot/4.ogg",length=0.174}}
