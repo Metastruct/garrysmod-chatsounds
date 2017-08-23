@@ -1653,6 +1653,8 @@ L["paper obfuscates rock"]={{path="vo/spy_rpspaperwin01.mp3",length=1.8024489795
 L["paper smothers rock"]={{path="vo/spy_rpspaperwin03.mp3",length=1.8808163265306}}
 L["papers please"]={{path="vo/medic_autocappedintelligence02.mp3",length=0.92589569091797}}
 L["papow"]={{path="vo/soldier_kaboomalts03.mp3",length=1.2658503055573}}
+L["paraopen"]={{path="items/para_open.wav",length=0.80000001192093}}
+L["paraclose"]={{path="items/para_close.wav",length=0.53333336114883}}
 L["pardon me"]={{path="vo/spy_specialcompleted06.mp3",length=0.55437642335892}}
 L["peekabo"]={{path="vo/taunts/spy_taunts06.mp3",length=0.62693876028061}}
 L["peekaboo"]={{path="vo/taunts/spy_taunts06.mp3",length=0.62693876028061}}
