@@ -1,5 +1,9 @@
 c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
+L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
+L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
+L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}
+L["huh huh huh huh huh we was robbed"]={{path="chatsounds/autoadd/mad_matrix/huh huh huh huh huh we was robbed.ogg",length=2.815}}
 L["nani"]={{path="chatsounds/autoadd/mad_matrix/nani.ogg",length=0.538}}
 L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
 L["slimespawn"]={{path="chatsounds/autoadd/mad_matrix/slimespawn/1.ogg",length=0.379},{path="chatsounds/autoadd/mad_matrix/slimespawn/2.ogg",length=0.488},{path="chatsounds/autoadd/mad_matrix/slimespawn/3.ogg",length=0.508},{path="chatsounds/autoadd/mad_matrix/slimespawn/4.ogg",length=0.564}}
