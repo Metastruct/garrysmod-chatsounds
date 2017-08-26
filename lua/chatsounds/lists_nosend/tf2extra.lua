@@ -35,6 +35,7 @@ L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.914
 L["gottam"]={{path="chatsounds/autoadd/tf2extra/gottam.ogg",length=0.227}}
 L["haaaii"]={{path="chatsounds/autoadd/tf2extra/haaaii.ogg",length=0.758}}
 L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.117}}
+L["heavydeathloud"]={{path="chatsounds/autoadd/tf2extra/heavydeathloud.ogg",length=1.268}}
 L["hello i am prepared to do nothing"]={{path="chatsounds/autoadd/tf2extra/hello i am prepared to do nothing.ogg",length=2.795}}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2extra/hhoooott.ogg",length=1.717}}
 L["how embarassing"]={{path="chatsounds/autoadd/tf2extra/how embarassing.ogg",length=1.032}}
@@ -52,6 +53,7 @@ L["later"]={{path="chatsounds/autoadd/tf2extra/later.ogg",length=0.480}}
 L["lets go practice medicine"]={{path="chatsounds/autoadd/tf2extra/lets go practice medicine.ogg",length=2.320}}
 L["lul"]={{path="chatsounds/autoadd/tf2extra/lul.ogg",length=0.302}}
 L["lwoa"]={{path="chatsounds/autoadd/tf2extra/lwoa/1.ogg",length=1.240},{path="chatsounds/autoadd/tf2extra/lwoa/2.ogg",length=1.863},{path="chatsounds/autoadd/tf2extra/lwoa/lwoa3.ogg",length=2.409}}
+L["medicdeathloud"]={{path="chatsounds/autoadd/tf2extra/medicdeathloud.ogg",length=3.881}}
 L["medicmadlaugh"]={{path="chatsounds/autoadd/tf2extra/medicmadlaugh.ogg",length=11.018}}
 L["meem"]={{path="chatsounds/autoadd/tf2extra/meem/meem01.ogg",length=0.446},{path="chatsounds/autoadd/tf2extra/meem/meem02.ogg",length=0.367},{path="chatsounds/autoadd/tf2extra/meem/meem03.ogg",length=0.921},{path="chatsounds/autoadd/tf2extra/meem/meem04.ogg",length=0.779},{path="chatsounds/autoadd/tf2extra/meem/meem05.ogg",length=0.582},{path="chatsounds/autoadd/tf2extra/meem/meem06.ogg",length=0.518},{path="chatsounds/autoadd/tf2extra/meem/meem07.ogg",length=0.779},{path="chatsounds/autoadd/tf2extra/meem/meem08.ogg",length=0.361},{path="chatsounds/autoadd/tf2extra/meem/meem09.ogg",length=0.361}}
 L["mine"]={{path="chatsounds/autoadd/tf2extra/mine.ogg",length=0.428}}
@@ -90,6 +92,7 @@ L["the sound of progress"]={{path="chatsounds/autoadd/tf2extra/the sound of prog
 L["this bucket is hell"]={{path="chatsounds/autoadd/tf2extra/this bucket is hell.ogg",length=2.011}}
 L["this is a huge waste of my time"]={{path="chatsounds/autoadd/tf2extra/this is a huge waste of my time.ogg",length=3.478}}
 L["trying"]={{path="chatsounds/autoadd/tf2extra/trying.ogg",length=0.557}}
+L["tweet tweet tweet loud"]={{path="chatsounds/autoadd/tf2extra/tweet tweet tweet loud.ogg",length=1.717}}
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.909}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.539}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
