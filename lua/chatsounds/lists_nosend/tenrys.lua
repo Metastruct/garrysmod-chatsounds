@@ -99,6 +99,7 @@ L["ogh"]={{path="chatsounds/autoadd/tenrys/ogh.ogg",length=0.479}}
 L["oh whos a good little doggie"]={{path="chatsounds/autoadd/tenrys/oh whos a good little doggie.ogg",length=2.538}}
 L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.125}}
 L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.309}}
+L["okaeri onii chan"]={{path="chatsounds/autoadd/tenrys/okaeri onii chan.ogg",length=2.014}}
 L["okay now im mad"]={{path="chatsounds/autoadd/tenrys/okay now im mad.ogg",length=2.570}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru.ogg",length=1.584}}
 L["ooh what happened to those fiery words of yours"]={{path="chatsounds/autoadd/tenrys/ooh what happened to those fiery words of yours.ogg",length=3.486}}
