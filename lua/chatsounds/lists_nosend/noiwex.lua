@@ -27,7 +27,6 @@ L["come on"]={{path="chatsounds/autoadd/noiwex/come on.ogg",length=0.957}}
 L["cyka"]={{path="chatsounds/autoadd/noiwex/cyka.ogg",length=0.478}}
 L["eeh fuck"]={{path="chatsounds/autoadd/noiwex/eeh fuck.ogg",length=1.067}}
 L["eiisas"]={{path="chatsounds/autoadd/noiwex/eiisas.ogg",length=1.417}}
-L["fegelein"]={{path="chatsounds/autoadd/noiwex/fegelein/fegelein1.ogg",length=1.086},{path="chatsounds/autoadd/noiwex/fegelein/fegelein2.ogg",length=0.910},{path="chatsounds/autoadd/noiwex/fegelein/fegelein3.ogg",length=1.077}}
 L["fraera povalili"]={{path="chatsounds/autoadd/noiwex/fraera povalili.ogg",length=1.560}}
 L["frustata"]={{path="chatsounds/autoadd/noiwex/frustata.ogg",length=0.611}}
 L["fuck you"]={{path="chatsounds/autoadd/noiwex/fuck you.ogg",length=1.641}}
@@ -42,7 +41,6 @@ L["heavy arrrr"]={{path="chatsounds/autoadd/noiwex/heavy arrrr.ogg",length=1.443
 L["heemna himnuy"]={{path="chatsounds/autoadd/noiwex/heemna himnuy.ogg",length=1.375}}
 L["hentai"]={{path="chatsounds/autoadd/noiwex/hentai.ogg",length=0.737}}
 L["hit a wall"]={{path="chatsounds/autoadd/noiwex/hit a wall.ogg",length=0.568}}
-L["hitler"]={{path="chatsounds/autoadd/noiwex/hitler/hitler-1.ogg",length=2.145},{path="chatsounds/autoadd/noiwex/hitler/hitler-2.ogg",length=1.188},{path="chatsounds/autoadd/noiwex/hitler/hitler-3.ogg",length=2.265},{path="chatsounds/autoadd/noiwex/hitler/hitler-4.ogg",length=3.092},{path="chatsounds/autoadd/noiwex/hitler/hitler-5.ogg",length=0.854}}
 L["huhuhuhu"]={{path="chatsounds/autoadd/noiwex/huhuhuhu.ogg",length=1.050}}
 L["huy"]={{path="chatsounds/autoadd/noiwex/huy.ogg",length=0.417}}
 L["i must break you"]={{path="chatsounds/autoadd/noiwex/i must break you.ogg",length=4.272}}

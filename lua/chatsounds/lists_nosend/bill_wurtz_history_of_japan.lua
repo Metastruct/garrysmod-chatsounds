@@ -275,6 +275,7 @@ L["like what said china"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan
 L["loudno"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/loudno.ogg",length=0.509}}
 L["meanwhile"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/meanwhile.ogg",length=0.363}}
 L["meanwhile japan has been enjoying conquering stuff and wants more"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/meanwhile japan has been enjoying conquering stuff and wants more.ogg",length=3.077}}
+L["moar"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/more.ogg",length=0.731}}
 L["mongols"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/mongols.ogg",length=0.377}}
 L["monkey fun"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/monkey fun.ogg",length=0.668}}
 L["moore"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/more.ogg",length=0.731}}
@@ -296,6 +297,8 @@ L["now theres more art"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/
 L["now with guns"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/now with guns.ogg",length=0.967}}
 L["now you can make a lot of rice really really quickly"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/now you can make a lot of rice really really quickly.ogg",length=2.389}}
 L["of soldiers"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/of soldiers.ogg",length=0.631}}
+L["ok said japan"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/okay said japan.ogg",length=1.197}}
+L["ok such a pan"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/okay said japan.ogg",length=1.197}}
 L["okay said japan"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/okay said japan.ogg",length=1.197}}
 L["okay such a pan"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/okay said japan.ogg",length=1.197}}
 L["open the country"]={{path="chatsounds/autoadd/bill_wurtz_history_of_japan/open the country.ogg",length=1.489}}
