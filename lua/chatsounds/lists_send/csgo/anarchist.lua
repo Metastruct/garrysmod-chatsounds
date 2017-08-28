@@ -30,7 +30,7 @@ L["chekcing that snipers nest"]={{path="player/vo/anarchist/tmap_cs_source88.wav
 L["chekcing the side yard"]={{path="player/vo/anarchist/tmap_cs_source86.wav",length=1.1042403628118}}
 L["come back with me little guy"]={{path="player/vo/anarchist/preventescapebrag04.wav",length=1.6348072562358}}
 L["come on come on lets go"]={{path="player/vo/anarchist/radio_letsgo06.wav",length=1.2937188208617}}
-L["come on lets get that nice guy"]={{path="player/vo/anarchist/oneenemyleft10.wav",length=1.3845124716553}}
+L["come on lets get that last guy"]={{path="player/vo/anarchist/oneenemyleft10.wav",length=1.3845124716553}}
 L["come on lets go"]={{path="player/vo/anarchist/radio_letsgo04.wav",length=1.1348526077098},{path="player/vo/anarchist/radio_followme03.wav",length=1.0440589569161}}
 L["come on little girls lets go"]={{path="player/vo/anarchist/peptalk10.wav",length=1.6824489795918}}
 L["comeon this way"]={{path="player/vo/anarchist/radio_followme05.wav",length=1.1712471655329}}

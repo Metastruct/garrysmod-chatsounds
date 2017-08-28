@@ -326,7 +326,7 @@ L["were sitting ducks in here er maybe fish in a barrel anyway its not good"]={{
 L["so much for better living through science"]={{path="vo/episode_1/npc/male01/cit_remarks07.wav",length=3.2267120181406},{path="vo/episode_1/npc/female01/cit_remarks07.wav",length=2.484126984127}}
 L["doctor kleiner says we can mate now not that i needed his permission"]={{path="vo/episode_1/npc/male01/cit_remarks08.wav",length=3.7851927437642},{path="vo/episode_1/npc/female01/cit_remarks08.wav",length=4.08410430839}}
 L["i dont miss doctor breen but i do miss the show remember when he had the jugglers on"]={{path="vo/episode_1/npc/male01/cit_remarks09.wav",length=5.8949886621315},{path="vo/episode_1/npc/female01/cit_remarks09.wav",length=4.5051473922902}}
-L["i heard they put babies in those striders"]={{path="vo/episode_1/npc/male01/cit_remarks10.wav",length=2.1718367346939},{path="vo/episode_1/npc/female01/cit_remarks10.wav",length=2.2736281179138}}
+L["i hear they put babies in those striders"]={{path="vo/episode_1/npc/male01/cit_remarks10.wav",length=2.1718367346939},{path="vo/episode_1/npc/female01/cit_remarks10.wav",length=2.2736281179138}}
 L["i blame black mesa"]={{path="vo/episode_1/npc/male01/cit_remarks11.wav",length=1.6753968253968},{path="vo/episode_1/npc/female01/cit_remarks11.wav",length=1.389433106576}}
 L["i met odessa cabbage one time sigh what an idiot"]={{path="vo/episode_1/npc/male01/cit_remarks12.wav",length=3.4128798185941},{path="vo/episode_1/npc/female01/cit_remarks12.wav",length=3.2279818594104}}
 L["i blame odessa cabbage"]={{path="vo/episode_1/npc/male01/cit_remarks13.wav",length=1.9236281179138},{path="vo/episode_1/npc/female01/cit_remarks13.wav",length=2.2315192743764}}
