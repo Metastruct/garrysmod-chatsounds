@@ -5,7 +5,7 @@ L["2m"]={{path="chatsounds/autoadd/hatintime/2m/1.ogg",length=9.077}}
 L["40s"]={{path="chatsounds/autoadd/hatintime/40s/1.ogg",length=7.676}}
 L["ack"]={{path="chatsounds/autoadd/hatintime/ack/1.ogg",length=0.175},{path="chatsounds/autoadd/hatintime/ack/2.ogg",length=0.348}}
 L["ah"]={{path="chatsounds/autoadd/hatintime/ah/1.ogg",length=0.348},{path="chatsounds/autoadd/hatintime/ah/2.ogg",length=0.335},{path="chatsounds/autoadd/hatintime/ah/3.ogg",length=0.198},{path="chatsounds/autoadd/hatintime/ah/4.ogg",length=0.135}}
-L["all mine"]={{path="chatsounds/autoadd/hatintime/all mine/1.ogg",length=1.180},{path="chatsounds/autoadd/hatintime/all mine/2.ogg",length=1.180}}
+L["all mine"]={{path="chatsounds/autoadd/hatintime/all mine/1.ogg",length=1.180}}
 L["are we playing a game"]={{path="chatsounds/autoadd/hatintime/are we playing a game/1.ogg",length=9.500}}
 L["boop"]={{path="chatsounds/autoadd/hatintime/boop/boop1.ogg",length=0.565},{path="chatsounds/autoadd/hatintime/boop/boop2.ogg",length=0.756}}
 L["come on out"]={{path="chatsounds/autoadd/hatintime/come on out/1.ogg",length=7.000}}
@@ -58,7 +58,6 @@ L["tracking dirt into my home"]={{path="chatsounds/autoadd/hatintime/tracking di
 L["two"]={{path="chatsounds/autoadd/hatintime/two/1.ogg",length=0.769},{path="chatsounds/autoadd/hatintime/two/2.ogg",length=0.571},{path="chatsounds/autoadd/hatintime/two/3.ogg",length=0.854}}
 L["uh oh"]={{path="chatsounds/autoadd/hatintime/uh oh/1.ogg",length=0.892}}
 L["unf"]={{path="chatsounds/autoadd/hatintime/unf/1.ogg",length=0.347},{path="chatsounds/autoadd/hatintime/unf/2.ogg",length=0.283}}
-L["vanessa in here"]={{path="chatsounds/autoadd/hatintime/vanessa in here/1.ogg",length=8.875}}
 L["vanessaattic"]={{path="chatsounds/autoadd/hatintime/vanessaattic/1.ogg",length=76.878}}
 L["vanessacalling"]={{path="chatsounds/autoadd/hatintime/vanessacalling/1.ogg",length=4.750}}
 L["vanessacaught"]={{path="chatsounds/autoadd/hatintime/vanessacaught/1.ogg",length=12.016}}

@@ -449,7 +449,6 @@ L["gotohell"]={{path="chatsounds/autoadd/instagib/gotohell.ogg",length=1.285}}
 L["gotya"]={{path="chatsounds/autoadd/instagib/gotya.ogg",length=4.630}}
 L["gpunkt"]={{path="chatsounds/autoadd/instagib/gpunkt.ogg",length=9.001}}
 L["grademachen"]={{path="chatsounds/autoadd/instagib/grademachen.ogg",length=8.022}}
-L["green1"]={{path="chatsounds/autoadd/instagib/green1.ogg",length=8.400}}
 L["greensong"]={{path="chatsounds/autoadd/instagib/greensong.ogg",length=8.400}}
 L["grinsen"]={{path="chatsounds/autoadd/instagib/grinsen.ogg",length=2.107}}
 L["grr"]={{path="chatsounds/autoadd/instagib/grr.ogg",length=2.275}}

@@ -39,7 +39,7 @@ L["coughing"]={{path="chatsounds/autoadd/jbep3/coughing.ogg",length=1.987}}
 L["cover me performing attack style reload"]={{path="chatsounds/autoadd/jbep3/cover me performing attack style reload.ogg",length=2.897}}
 L["creepy in here"]={{path="chatsounds/autoadd/jbep3/creepy in here.ogg",length=1.057}}
 L["ddeath"]={{path="chatsounds/autoadd/jbep3/ddeath.ogg",length=3.413}}
-L["death"]={{path="chatsounds/autoadd/jbep3/death.ogg",length=3.413}}
+L["death"]={{path="chatsounds/autoadd/jbep3/ddeath.ogg",length=3.413}}
 L["death3"]={{path="chatsounds/autoadd/jbep3/death3.ogg",length=1.432}}
 L["despite my mental handycap we won the day"]={{path="chatsounds/autoadd/jbep3/despite my mental handycap we won the day.ogg",length=3.689}}
 L["did i leave my stove on"]={{path="chatsounds/autoadd/jbep3/did i leave my stove on.ogg",length=1.550}}

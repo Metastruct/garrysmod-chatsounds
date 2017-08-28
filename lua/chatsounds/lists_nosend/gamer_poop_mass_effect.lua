@@ -39,7 +39,7 @@ L["my biggest concern was getting laid"]={{path="chatsounds/autoadd/gamer_poop_m
 L["never thought id spend 20 minutes a few hours ok all day on the internet"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/never thought id spend 20 minutes a few hours ok all day on the internet.ogg",length=5.953}}
 L["nicee"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/nicee.ogg",length=0.547}}
 L["no you cant"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/no you cant.ogg",length=1.331}}
-L["oh my fucking god"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/oh my fucking god.ogg",length=1.077}}
+L["oh my fucking god"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/omfg.ogg",length=1.077}}
 L["oh thats nasty"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/oh thats nasty.ogg",length=1.229}}
 L["omfg"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/omfg.ogg",length=1.077}}
 L["put that crack in a safe place"]={{path="chatsounds/autoadd/gamer_poop_mass_effect/put that crack in a safe place.ogg",length=1.621}}

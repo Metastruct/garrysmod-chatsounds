@@ -34,7 +34,6 @@ L["day"]={{path="chatsounds/autoadd/breakingbad/day.ogg",length=0.416}}
 L["dea"]={{path="chatsounds/autoadd/breakingbad/dea.ogg",length=0.347}}
 L["down here"]={{path="chatsounds/autoadd/breakingbad/down here.ogg",length=0.672}}
 L["dramatic breaking bad"]={{path="chatsounds/autoadd/breakingbad/dramatic breaking bad.ogg",length=12.930}}
-L["dramatic outro"]={{path="chatsounds/autoadd/breakingbad/dramatic outro.ogg",length=12.930}}
 L["dramatic silence"]={{path="chatsounds/autoadd/breakingbad/dramatic silence.ogg",length=4.763}}
 L["eh"]={{path="chatsounds/autoadd/breakingbad/eh.ogg",length=0.611}}
 L["element"]={{path="chatsounds/autoadd/breakingbad/element.ogg",length=0.558}}
@@ -121,7 +120,6 @@ L["matter"]={{path="chatsounds/autoadd/breakingbad/matter.ogg",length=0.605}}
 L["may be"]={{path="chatsounds/autoadd/breakingbad/may be.ogg",length=0.679}}
 L["may be challenging"]={{path="chatsounds/autoadd/breakingbad/may be challenging.ogg",length=1.249}}
 L["me"]={{path="chatsounds/autoadd/breakingbad/me.ogg",length=0.243}}
-L["me out"]={{path="chatsounds/autoadd/breakingbad/me out.ogg",length=1.432}}
 L["methamphetamine"]={{path="chatsounds/autoadd/breakingbad/methamphetamine.ogg",length=1.014}}
 L["millimeter"]={{path="chatsounds/autoadd/breakingbad/millimeter.ogg",length=0.932}}
 L["mister white"]={{path="chatsounds/autoadd/breakingbad/mister white.ogg",length=1.023}}

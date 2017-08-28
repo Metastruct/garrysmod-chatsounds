@@ -40,7 +40,7 @@ L["tv experience"]={{path="chatsounds/autoadd/xbox_one/tv experience.ogg",length
 L["tv remote"]={{path="chatsounds/autoadd/xbox_one/tv remote.ogg",length=0.672}}
 L["tvs"]={{path="chatsounds/autoadd/xbox_one/tvs.ogg",length=0.371}}
 L["v"]={{path="chatsounds/autoadd/xbox_one/v.ogg",length=0.171}}
-L["vee"]={{path="chatsounds/autoadd/xbox_one/vee.ogg",length=0.171}}
+L["vee"]={{path="chatsounds/autoadd/xbox_one/v.ogg",length=0.171}}
 L["watch"]={{path="chatsounds/autoadd/xbox_one/watch.ogg",length=0.572}}
 L["watch tv"]={{path="chatsounds/autoadd/xbox_one/watch tv/watch tv-2.ogg",length=1.000},{path="chatsounds/autoadd/xbox_one/watch tv/watch tv.ogg",length=0.829}}
 L["water cooler"]={{path="chatsounds/autoadd/xbox_one/water cooler.ogg",length=0.857}}
