@@ -1,5 +1,6 @@
 c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
+L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
 L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}

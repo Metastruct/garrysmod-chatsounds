@@ -24,6 +24,8 @@ L["but what was all that"]={{path="chatsounds/autoadd/feshpince/but what was all
 L["butt"]={{path="chatsounds/autoadd/feshpince/butt.ogg",length=0.472}}
 L["cardshuffleextreme"]={{path="chatsounds/autoadd/feshpince/cardshuffleextreme.ogg",length=1.114}}
 L["carl carl carl"]={{path="chatsounds/autoadd/feshpince/carl carl carl.ogg",length=1.780}}
+L["carllaugh"]={{path="chatsounds/autoadd/feshpince/carllaugh.ogg",length=3.394}}
+L["chairmoveextreme"]={{path="chatsounds/autoadd/feshpince/chairmoveextreme.ogg",length=1.317}}
 L["chickeekcich"]={{path="chatsounds/autoadd/feshpince/chickeekcich.ogg",length=0.686}}
 L["children wawa"]={{path="chatsounds/autoadd/feshpince/children wawa.ogg",length=1.523}}
 L["coc"]={{path="chatsounds/autoadd/feshpince/coc.ogg",length=0.354}}
@@ -56,6 +58,7 @@ L["geoffery"]={{path="chatsounds/autoadd/feshpince/geoffery.ogg",length=0.655}}
 L["geofferyclapping"]={{path="chatsounds/autoadd/feshpince/geofferyclapping.ogg",length=1.281}}
 L["geofferygibberish"]={{path="chatsounds/autoadd/feshpince/geofferygibberish.ogg",length=2.382}}
 L["geofferykiss"]={{path="chatsounds/autoadd/feshpince/geofferykiss.ogg",length=1.271}}
+L["geofferylaughquiet"]={{path="chatsounds/autoadd/feshpince/geofferylaughquiet.ogg",length=1.671}}
 L["geofferyno"]={{path="chatsounds/autoadd/feshpince/geofferyno.ogg",length=0.714}}
 L["geofferysound"]={{path="chatsounds/autoadd/feshpince/geofferysound.ogg",length=0.576}}
 L["get out"]={{path="chatsounds/autoadd/feshpince/get out.ogg",length=0.503}}
