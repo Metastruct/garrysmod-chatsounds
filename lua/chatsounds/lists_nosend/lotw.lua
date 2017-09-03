@@ -3,13 +3,13 @@ L["aber wenn wir ganz doll dran glauben"]={{path="chatsounds/autoadd/lotw/aber w
 L["da gibts kein wlan und so"]={{path="chatsounds/autoadd/lotw/da gibts kein wlan und so.ogg",length=2.029}}
 L["da isses dunkel"]={{path="chatsounds/autoadd/lotw/da isses dunkel.ogg",length=1.119}}
 L["da kriegt man richtig angst"]={{path="chatsounds/autoadd/lotw/da kriegt man richtig angst.ogg",length=1.689}}
-L["da muss man sich warme schluebber anziehen"]={{path="chatsounds/autoadd/lotw/da muss man sich warme schluebber anziehen.ogg",length=1.969}}
+L["da muss man sich warme schlübber anziehen"]={{path="chatsounds/autoadd/lotw/da muss man sich warme schlübber anziehen.ogg",length=1.969}}
 L["dann kommt er auch"]={{path="chatsounds/autoadd/lotw/dann kommt er auch.ogg",length=1.539}}
-L["das guckt so boese"]={{path="chatsounds/autoadd/lotw/das guckt so boese.ogg",length=1.459}}
+L["das guckt so böse"]={{path="chatsounds/autoadd/lotw/das guckt so böse.ogg",length=1.459}}
 L["das is echt der mieseste club seit langem ey"]={{path="chatsounds/autoadd/lotw/das is echt der mieseste club seit langem ey.ogg",length=1.899}}
 L["drogen"]={{path="chatsounds/autoadd/lotw/drogen.ogg",length=1.414}}
 L["du auch legolas"]={{path="chatsounds/autoadd/lotw/du auch legolas.ogg",length=0.909}}
-L["ein sturm von kopfnuessen wird auf dich niederhageln"]={{path="chatsounds/autoadd/lotw/ein sturm von kopfnuessen wird auf dich niederhageln.ogg",length=3.748}}
+L["ein sturm von kopfnüssen wird auf dich niederhageln"]={{path="chatsounds/autoadd/lotw/ein sturm von kopfnüssen wird auf dich niederhageln.ogg",length=3.748}}
 L["einfach nich"]={{path="chatsounds/autoadd/lotw/einfach nich.ogg",length=1.049}}
 L["es tut mir leid"]={{path="chatsounds/autoadd/lotw/es tut mir leid.ogg",length=1.279}}
 L["facebook is da"]={{path="chatsounds/autoadd/lotw/facebook is da.ogg",length=1.449}}
@@ -25,7 +25,7 @@ L["ich lass mir von euch jetz hier nich die stimmung versauen"]={{path="chatsoun
 L["ich les mal vor"]={{path="chatsounds/autoadd/lotw/ich les mal vor.ogg",length=1.079}}
 L["ich sags euch jungs"]={{path="chatsounds/autoadd/lotw/ich sags euch jungs.ogg",length=1.289}}
 L["ich will jetz einen drehen"]={{path="chatsounds/autoadd/lotw/ich will jetz einen drehen.ogg",length=5.656}}
-L["jo scheisse wir muessen hier weg"]={{path="chatsounds/autoadd/lotw/jo scheisse wir muessen hier weg.ogg",length=1.749}}
+L["jo scheisse wir müssen hier weg"]={{path="chatsounds/autoadd/lotw/jo scheisse wir müssen hier weg.ogg",length=1.749}}
 L["jungs bringt mir was von mces mit"]={{path="chatsounds/autoadd/lotw/jungs bringt mir was von mces mit.ogg",length=9.194}}
 L["man kann nich einfach nach mordor reinlaufen"]={{path="chatsounds/autoadd/lotw/man kann nich einfach nach mordor reinlaufen.ogg",length=3.548}}
 L["meine staehlerne faust wird dich in tausend stuecke zerreissen"]={{path="chatsounds/autoadd/lotw/meine staehlerne faust wird dich in tausend stuecke zerreissen.ogg",length=5.716}}
@@ -34,7 +34,6 @@ L["nur sonntags"]={{path="chatsounds/autoadd/lotw/nur sonntags.ogg",length=1.009
 L["party1"]={{path="chatsounds/autoadd/lotw/party1.ogg",length=3.833}}
 L["party2"]={{path="chatsounds/autoadd/lotw/party2.ogg",length=3.818}}
 L["schwuchtel ey"]={{path="chatsounds/autoadd/lotw/schwuchtel ey.ogg",length=1.424}}
-L["ueberraschung"]={{path="chatsounds/autoadd/lotw/ueberraschung.ogg",length=2.339}}
 L["und da braucht man taschenlampen"]={{path="chatsounds/autoadd/lotw/und da braucht man taschenlampen.ogg",length=1.679}}
 L["und das auge"]={{path="chatsounds/autoadd/lotw/und das auge.ogg",length=1.289}}
 L["und es is kalt"]={{path="chatsounds/autoadd/lotw/und es is kalt.ogg",length=1.009}}
@@ -42,6 +41,7 @@ L["und guck mal wie das gemacht is"]={{path="chatsounds/autoadd/lotw/und guck ma
 L["und schlager"]={{path="chatsounds/autoadd/lotw/und schlager.ogg",length=1.119}}
 L["warum zieht ihr denn alle so ne fresse"]={{path="chatsounds/autoadd/lotw/warum zieht ihr denn alle so ne fresse.ogg",length=1.564}}
 L["wat dresden"]={{path="chatsounds/autoadd/lotw/wat dresden.ogg",length=1.884}}
-L["wenn wir oben sind gibts party jungs das schwoer ich euch schneeballschlacht"]={{path="chatsounds/autoadd/lotw/wenn wir oben sind gibts party jungs das schwoer ich euch schneeballschlacht.ogg",length=3.243}}
+L["wenn wir oben sind gibts party jungs das schwör ich euch schneeballschlacht"]={{path="chatsounds/autoadd/lotw/wenn wir oben sind gibts party jungs das schwör ich euch schneeballschlacht.ogg",length=3.243}}
 L["wo isn die musik hin"]={{path="chatsounds/autoadd/lotw/wo isn die musik hin.ogg",length=2.498}}
+L["überraschung"]={{path="chatsounds/autoadd/lotw/überraschung.ogg",length=2.339}}
 c.EndList()
