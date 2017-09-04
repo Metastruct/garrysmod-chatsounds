@@ -7,6 +7,8 @@ L["haaaaaaaayyyyaaaaaaaah"]={{path="chatsounds/autoadd/superraxxo1/haaaaaaaayyyy
 L["heavy is 20"]={{path="chatsounds/autoadd/superraxxo1/heavy is 20.ogg",length=2.198}}
 L["hmm shit"]={{path="chatsounds/autoadd/superraxxo1/hmm shit.ogg",length=1.246}}
 L["hoooooooot"]={{path="chatsounds/autoadd/superraxxo1/hoooooooot.ogg",length=1.151}}
+L["i quit"]={{path="chatsounds/autoadd/superraxxo1/i quit.ogg",length=0.776}}
+L["i was told no more cancer"]={{path="chatsounds/autoadd/superraxxo1/i was told no more cancer.ogg",length=2.803}}
 L["is he actualy retarded"]={{path="chatsounds/autoadd/superraxxo1/is he actualy retarded.ogg",length=1.770}}
 L["oooaaaah"]={{path="chatsounds/autoadd/superraxxo1/oooaaaah.ogg",length=1.597}}
 L["oooaaaooo"]={{path="chatsounds/autoadd/superraxxo1/oooaaaooo.ogg",length=0.923}}
