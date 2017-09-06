@@ -8,6 +8,7 @@ L["have you got anything without spam in it"]={{path="chatsounds/autoadd/monty_p
 L["i dont like spam"]={{path="chatsounds/autoadd/monty_python/i dont like spam/i dont like spam1.ogg",length=1.451},{path="chatsounds/autoadd/monty_python/i dont like spam/i dont like spam2.ogg",length=1.811}}
 L["i dont want any spam"]={{path="chatsounds/autoadd/monty_python/i dont want any spam.ogg",length=1.498}}
 L["iittss"]={{path="chatsounds/autoadd/monty_python/iittss.ogg",length=1.231}}
+L["iittss distorted"]={{path="chatsounds/autoadd/monty_python/iittss distorted.ogg",length=5.724}}
 L["mornin"]={{path="chatsounds/autoadd/monty_python/mornin/mornin1.ogg",length=0.546},{path="chatsounds/autoadd/monty_python/mornin/mornin2.ogg",length=0.627}}
 L["naaaa"]={{path="chatsounds/autoadd/monty_python/naaaa.ogg",length=0.824}}
 L["spammityspam"]={{path="chatsounds/autoadd/monty_python/spammityspam.ogg",length=0.766}}
