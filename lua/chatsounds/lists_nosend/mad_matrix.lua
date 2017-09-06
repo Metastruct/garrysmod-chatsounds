@@ -10,6 +10,7 @@ L["huh huh huh huh huh we was robbed"]={{path="chatsounds/autoadd/mad_matrix/huh
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
 L["makes another soos"]={{path="chatsounds/autoadd/mad_matrix/makes another soos.ogg",length=1.211}}
 L["nani"]={{path="chatsounds/autoadd/mad_matrix/nani.ogg",length=0.538}}
+L["nothing is working distorted"]={{path="chatsounds/autoadd/mad_matrix/nothing is working distorted.ogg",length=1.797}}
 L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["slimespawn"]={{path="chatsounds/autoadd/mad_matrix/slimespawn/1.ogg",length=0.379},{path="chatsounds/autoadd/mad_matrix/slimespawn/2.ogg",length=0.488},{path="chatsounds/autoadd/mad_matrix/slimespawn/3.ogg",length=0.508},{path="chatsounds/autoadd/mad_matrix/slimespawn/4.ogg",length=0.564}}
@@ -23,6 +24,7 @@ L["snivyshortyawn"]={{path="chatsounds/autoadd/mad_matrix/snivyshortyawn.ogg",le
 L["snivytalk"]={{path="chatsounds/autoadd/mad_matrix/snivytalk/1.ogg",length=0.783},{path="chatsounds/autoadd/mad_matrix/snivytalk/2.ogg",length=0.431}}
 L["snivytired"]={{path="chatsounds/autoadd/mad_matrix/snivytired/1.ogg",length=1.503},{path="chatsounds/autoadd/mad_matrix/snivytired/2.ogg",length=2.172},{path="chatsounds/autoadd/mad_matrix/snivytired/3.ogg",length=1.453}}
 L["snivytwister"]={{path="chatsounds/autoadd/mad_matrix/snivytwister.ogg",length=1.683}}
+L["toysqueek"]={{path="chatsounds/autoadd/mad_matrix/toysqueek.ogg",length=0.456}}
 L["wweww"]={{path="chatsounds/autoadd/mad_matrix/wweww.ogg",length=0.727}}
 L["you wanna play the game you wanna play the game you wanna play with the big boys"]={{path="chatsounds/autoadd/mad_matrix/you wanna play the game you wanna play the game you wanna play with the big boys.ogg",length=2.604}}
 L["yuuy"]={{path="chatsounds/autoadd/mad_matrix/yuuy.ogg",length=0.880}}
