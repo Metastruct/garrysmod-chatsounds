@@ -17,6 +17,7 @@ L["come on now"]={{path="chatsounds/autoadd/souporsmashbros/come on now.ogg",len
 L["ddddddddddd"]={{path="chatsounds/autoadd/souporsmashbros/ddddddddddd.ogg",length=1.545}}
 L["ds triple"]={{path="chatsounds/autoadd/souporsmashbros/ds triple.ogg",length=1.141}}
 L["for the wiiu version"]={{path="chatsounds/autoadd/souporsmashbros/for the wiiu version.ogg",length=1.379}}
+L["for wiids"]={{path="chatsounds/autoadd/souporsmashbros/for wiids.ogg",length=1.296}}
 L["get help"]={{path="chatsounds/autoadd/souporsmashbros/get help.ogg",length=3.376}}
 L["gethelpextreme"]={{path="chatsounds/autoadd/souporsmashbros/gethelpextreme.ogg",length=4.815}}
 L["gethelpjingle"]={{path="chatsounds/autoadd/souporsmashbros/gethelpjingle.ogg",length=1.612}}
@@ -25,7 +26,7 @@ L["huzzah"]={{path="chatsounds/autoadd/souporsmashbros/huzzah.ogg",length=1.712}
 L["i"]={{path="chatsounds/autoadd/souporsmashbros/i.ogg",length=0.582}}
 L["i aint talking about that wiiu"]={{path="chatsounds/autoadd/souporsmashbros/i aint talking about that wiiu.ogg",length=1.331}}
 L["i dont think this is a game for gamers i think this is a game for posers"]={{path="chatsounds/autoadd/souporsmashbros/i dont think this is a game for gamers i think this is a game for posers.ogg",length=4.886}}
-L["i hope youre exited for team fortess 2"]={{path="chatsounds/autoadd/souporsmashbros/i hope youre exited for team fortess 2.ogg",length=3.281}}
+L["i hope youre excited for team fortress 2"]={{path="chatsounds/autoadd/souporsmashbros/i hope youre excited for team fortress 2.ogg",length=3.281}}
 L["i should mention that the probability of multiplayer is a bit lower than zero"]={{path="chatsounds/autoadd/souporsmashbros/i should mention that the probability of multiplayer is a bit lower than zero.ogg",length=4.006}}
 L["if you or someone you know is in relationship"]={{path="chatsounds/autoadd/souporsmashbros/if you or someone you know is in relationship.ogg",length=2.485}}
 L["if you touch one of these areas with over100 percent damange youll be"]={{path="chatsounds/autoadd/souporsmashbros/if you touch one of these areas with over100 percent damange youll be.ogg",length=4.054}}
@@ -59,7 +60,6 @@ L["super sas brothers for wiiiiuuuu"]={{path="chatsounds/autoadd/souporsmashbros
 L["super soupbrothers for wiiu will never be released in north america ever"]={{path="chatsounds/autoadd/souporsmashbros/super soupbrothers for wiiu will never be released in north america ever.ogg",length=4.250}}
 L["super suicide brothers"]={{path="chatsounds/autoadd/souporsmashbros/super suicide brothers.ogg",length=1.771}}
 L["superdoopertooperbrothers"]={{path="chatsounds/autoadd/souporsmashbros/superdoopertooperbrothers.ogg",length=1.819}}
-L["superdoopertooperbrothers for wiids"]={{path="chatsounds/autoadd/souporsmashbros/superdoopertooperbrothers for wiids.ogg",length=1.296}}
 L["sus"]={{path="chatsounds/autoadd/souporsmashbros/sus.ogg",length=0.499}}
 L["the announcer"]={{path="chatsounds/autoadd/souporsmashbros/the announcer.ogg",length=1.569}}
 L["the best part of the wiiu game is that you have more than 4 unique heroes to choose between"]={{path="chatsounds/autoadd/souporsmashbros/the best part of the wiiu game is that you have more than 4 unique heroes to choose between.ogg",length=4.497}}
