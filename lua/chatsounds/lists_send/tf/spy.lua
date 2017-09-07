@@ -40,7 +40,6 @@ L["coward disgusted"]={{path="vo/spy_specialcompleted09.mp3",length=0.5950113378
 L["damnit we are losing ground"]={{path="vo/spy_cartgoingbackoffense02.mp3",length=2.0636734693878}}
 L["death is but a doorway"]={{path="vo/spy_mvm_resurrect04.mp3",length=2.0897959183673}}
 L["deux"]={{path="vo/spy_rpscounttwo01.mp3",length=0.6269387755102}}
-L["did i throw a wrench into your plans laughs"]={{path="vo/spy_dominationengineer04.mp3",length=3.3599998950958}}
 L["did i throw a wrench into your plans laughter"]={{path="vo/spy_dominationengineer04.mp3",length=3.36}}
 L["did you forget about me"]={{path="vo/spy_revenge03.mp3",length=1.7173469387755}}
 L["do not leave the cart"]={{path="vo/spy_cartstaycloseoffense04.mp3",length=2.0114285714286}}
@@ -49,7 +48,6 @@ L["doctor if you please"]={{path="vo/spy_activatecharge03.mp3",length=1.19002267
 L["does it hurt when i do that it does doesnt it"]={{path="vo/spy_dominationmedic06.mp3",length=3.7760090702948}}
 L["dominated you fatuous fatheaded fat man"]={{path="vo/spy_dominationheavy04.mp3",length=3.5146712018141}}
 L["dominated you mush mouthed freak"]={{path="vo/spy_dominationpyro01.mp3",length=2.9653514739229}}
-L["dominated you mushedmouth freak"]={{path="vo/spy_dominationpyro01.mp3",length=2.9653515815735}}
 L["dont feel bad you did a fine job tossing your little balls around"]={{path="vo/spy_dominationdemoman04.mp3",length=4.2506804466248}}
 L["eaugh"]={{path="vo/spy_jaratehit06.mp3",length=1.5466666221619}}
 L["everyone back to the base pardner"]={{path="vo/taunts/spy_taunts08.mp3",length=2.2813605442177}}
@@ -87,13 +85,11 @@ L["help"]={{path="vo/spy_helpme01.mp3",length=0.4324716553288}}
 L["help me capture the point"]={{path="vo/spy_helpmecapture02.mp3",length=1.3990022675737}}
 L["help me defend"]={{path="vo/spy_helpmedefend01.mp3",length=1.1580952380952}}
 L["here lies scout he ran fast and died a virgin"]={{path="vo/spy_dominationscout04.mp3",length=4.2666666666667}}
-L["here s what i have that you don a functioning liver depth perception and a pulse"]={{path="vo/spy_dominationdemoman07.mp3",length=5.4346712018141}}
 L["heres what i have that you dont a functioning liver depth perception and a pulse"]={{path="vo/spy_dominationdemoman07.mp3",length=5.4346714019775}}
 L["hiss"]={{path="vo/spy_jeers01.mp3",length=0.89687073230743}}
 L["hisss"]={{path="vo/spy_jeers01.mp3",length=0.89687074829932}}
 L["hmm well maybe ill ask miss pauling out"]={{path="vo/spy_paulingkilltaunt02.mp3",length=3.8922448979592}}
 L["hohoho it should be a crime to look this good"]={{path="vo/spy_tietaunt03.mp3",length=3.6048979591837}}
-L["howdy pardner"]={{path="vo/spy_dominationengineer02.mp3",length=1.2133333333333}}
 L["howdy partner"]={{path="vo/spy_dominationengineer02.mp3",length=1.2133333683014}}
 L["hows that bottle of scrumpy now"]={{path="vo/spy_dominationdemoman02.mp3",length=1.9413378684807}}
 L["i am going to butcher you like a pig"]={{path="vo/spy_stabtaunt12.mp3",length=2.5861224489796}}
@@ -108,7 +104,6 @@ L["i appreciate your help"]={{path="vo/spy_specialcompleted-assistedkill01.mp3",
 L["i could use a hand defending here"]={{path="vo/spy_helpmedefend03.mp3",length=1.7705215419501}}
 L["i did all i could"]={{path="vo/spy_jeers03.mp3",length=1.0361904761905}}
 L["i do believe im on fire"]={{path="vo/spy_autoonfire03.mp3",length=1.3612698412698}}
-L["i dominate you you sloggish simpleton"]={{path="vo/spy_dominationsoldier02.mp3",length=2.9706802368164}}
 L["i dominate you you sluggish simpleton"]={{path="vo/spy_dominationsoldier02.mp3",length=2.9706802721088}}
 L["i hate you"]={{path="vo/spy_jaratehit03.mp3",length=2.2240136054422}}
 L["i have been shown who is the boss"]={{path="vo/spy_jaratehit04.mp3",length=3.2533333333333}}
@@ -128,12 +123,10 @@ L["ill tell miss pauling youre occupied"]={{path="vo/spy_paulingkilltaunt01.mp3"
 L["ill tell your mother hello"]={{path="vo/spy_paulingkilltaunt03.mp3",length=1.9330612244898}}
 L["im afraid not"]={{path="vo/spy_no03.mp3",length=0.93750566893424}}
 L["im back"]={{path="vo/spy_mvm_resurrect03.mp3",length=1.0710204081633}}
-L["im back you subnormal half wit"]={{path="vo/spy_revenge02.mp3",length=2.8373469387755}}
 L["im back you subnormal halfwit"]={{path="vo/spy_revenge02.mp3",length=2.8373470306396}}
 L["im coming for you"]={{path="vo/taunts/spy_taunts10.mp3",length=1.8750113378685}}
 L["im going to gut you like a cornish game hen"]={{path="vo/taunts/spy_taunts02.mp3",length=3.1056689342404}}
 L["im going to puncture you like an old tire"]={{path="vo/spy_stabtaunt16.mp3",length=3.3175510204082}}
-L["im looking at your x ray and i am afraid you suck"]={{path="vo/spy_dominationmedic04.mp3",length=3.8133333333333}}
 L["im looking at your xray and im afraid you suck"]={{path="vo/spy_dominationmedic04.mp3",length=3.813333272934}}
 L["im not going to stab you im not going to stab you ha i stabbed you"]={{path="vo/spy_stabtaunt07.mp3",length=4.989387755102}}
 L["incoming"]={{path="vo/spy_incoming03.mp3",length=0.7836734693878},{path="vo/spy_incoming02.mp3",length=0.6008163265306},{path="vo/spy_incoming01.mp3",length=0.81124716553288}}
@@ -146,16 +139,13 @@ L["its the only one of its kind and its mine"]={{path="vo/spy_mvm_loot_godlike03
 L["ive merely finished what your liver started"]={{path="vo/spy_dominationdemoman06.mp3",length=2.4880045351474}}
 L["jarate"]={{path="vo/spy_jaratehit05.mp3",length=2.2066666666667}}
 L["jarate cries"]={{path="vo/spy_jaratehit05.mp3",length=2.2066667079926}}
-L["jarate no"]={{path="vo/spy_jaratehit02.mp3",length=3.0666666030884}}
 L["jarate noooooo"]={{path="vo/spy_jaratehit02.mp3",length=3.0666666666667}}
 L["just lay your weapons down and walk away"]={{path="vo/taunts/spy_taunts09.mp3",length=2.6238548752834}}
 L["kaboom indeed you drunken wretch"]={{path="vo/spy_dominationdemoman01.mp3",length=2.9973469387755}}
 L["kaboom to you sir"]={{path="vo/spy_dominationdemoman03.mp3",length=1.6533333333333}}
 L["laughing you live a van laughing"]={{path="vo/spy_dominationsniper04.mp3",length=3.6}}
 L["laughlong"]={{path="vo/spy_laughlong01.mp3",length=6.4667573696145}}
-L["laughter really is the best medicine"]={{path="vo/spy_dominationmedic01.mp3",length=4.2880045351474}}
 L["laughter really is the best medicine laughs"]={{path="vo/spy_dominationmedic01.mp3",length=4.2880043983459}}
-L["lauging barely you are such a bad doctor"]={{path="vo/spy_dominationmedic05.mp3",length=4.1333333333333}}
 L["left"]={{path="vo/spy_headleft01.mp3",length=0.55437641723356}}
 L["let us move"]={{path="vo/spy_go02.mp3",length=0.92879818594104}}
 L["let us play"]={{path="vo/spy_rpsstart01.mp3",length=1.0448979591837}}
@@ -168,7 +158,6 @@ L["many thanks"]={{path="vo/spy_thanks02.mp3",length=0.76916099773243}}
 L["may i borrow your earpiece this is scout rainbows make me cry over"]={{path="vo/spy_dominationscout06.mp3",length=5.5260317460317}}
 L["may i make a suggestion run"]={{path="vo/taunts/spy_taunts11.mp3",length=2.3742403628118}}
 L["maybe your colleagues will send a man next time"]={{path="vo/spy_dominationsoldier01.mp3",length=3.4080045351474}}
-L["medeeec medeec medeec"]={{path="vo/spy_dominationmedic02.mp3",length=3.8106802721088}}
 L["medic"]={{path="vo/spy_medic03.mp3",length=0.54566893424036}}
 L["medic medic medic laughs"]={{path="vo/spy_dominationmedic02.mp3",length=3.8106803894043}}
 L["merde a tie"]={{path="vo/spy_rpstie01.mp3",length=2.1420408163265}}
@@ -186,7 +175,6 @@ L["nice shot"]={{path="vo/spy_niceshot01.mp3",length=0.86204081632653}}
 L["no"]={{path="vo/spy_no02.mp3",length=0.4237641723356}}
 L["no coffin can contain me"]={{path="vo/spy_mvm_resurrect07.mp3",length=2.0897959183673}}
 L["no worries mate laughs"]={{path="vo/spy_dominationsniper03.mp3",length=2.9226758480072}}
-L["not much of a quick draw are you pardner"]={{path="vo/spy_dominationengineer05.mp3",length=2.6266666666667}}
 L["not much of a quick draw are you partner"]={{path="vo/spy_dominationengineer05.mp3",length=2.6266667842865}}
 L["not our finest moment"]={{path="vo/spy_jeers05.mp3",length=1.590566893424}}
 L["nothing personal i just had to shut you up"]={{path="vo/spy_dominationscout07.mp3",length=3.1040136054422}}
@@ -200,11 +188,9 @@ L["oh no"]={{path="vo/spy_negativevocalization06.mp3",length=1.1058503401361}}
 L["oh please"]={{path="vo/spy_negativevocalization05.mp3",length=1.012970521542},{path="vo/spy_negativevocalization04.mp3",length=1.3583673469388}}
 L["oh please just stay down"]={{path="vo/spy_dominationsniper05.mp3",length=2.4266666666667}}
 L["oh soldier who will they ever find to replace you anyone laughs"]={{path="vo/spy_dominationsoldier04.mp3",length=5.8826757369615}}
-L["oh soldier who will they find to replace you anyone"]={{path="vo/spy_dominationsoldier04.mp3",length=5.8826756477356}}
 L["ohaea"]={{path="vo/spy_paincrticialdeath01.mp3",length=2.2581405895692}}
 L["ohhh too bad this wasnt a pie eating contest"]={{path="vo/spy_dominationheavy07.mp3",length=3.6373469387755}}
 L["ohhh you almost healed me to death that time"]={{path="vo/spy_dominationmedic03.mp3",length=4.0106802721088}}
-L["oo you were quick as a little bunny weren t you"]={{path="vo/spy_dominationscout03.mp3",length=3.7066666666667}}
 L["ooh you were quick as a little bunny wernt you"]={{path="vo/spy_dominationscout03.mp3",length=3.7066667079926}}
 L["our influence grows"]={{path="vo/spy_autocappedcontrolpoint02.mp3",length=1.4280272108844}}
 L["pain death scream"]={{path="vo/spy_paincrticialdeath02.mp3",length=1.9040362811791}}
@@ -218,7 +204,6 @@ L["paper smothers rock"]={{path="vo/spy_rpspaperwin03.mp3",length=1.880816326530
 L["pardon me"]={{path="vo/spy_specialcompleted06.mp3",length=0.55437641723356}}
 L["peek a boo"]={{path="vo/taunts/spy_taunts06.mp3",length=0.6269387755102}}
 L["perhaps they can bury you in that van you call home"]={{path="vo/spy_dominationsniper06.mp3",length=3.8720180988312}}
-L["perhaps they can bury you in the van you called home"]={{path="vo/spy_dominationsniper06.mp3",length=3.8720181405896}}
 L["place a dispenser here"]={{path="vo/spy_needdispenser01.mp3",length=1.2625850340136}}
 L["place a sentry here"]={{path="vo/spy_needsentry01.mp3",length=1.0565079365079}}
 L["place a teleporter here"]={{path="vo/spy_needteleporter01.mp3",length=1.3525623582766}}
@@ -259,7 +244,6 @@ L["some are born great others have greatness thrust into their sternums"]={{path
 L["some assistance please"]={{path="vo/spy_helpme02.mp3",length=1.2770975056689}}
 L["somebody stop that cart"]={{path="vo/spy_cartgoingforwarddefense01.mp3",length=2.1159183673469}}
 L["sorry to pop in unannounced"]={{path="vo/spy_specialcompleted04.mp3",length=1.985306122449}}
-L["splended"]={{path="vo/spy_positivevocalization02.mp3",length=0.7430385351181}}
 L["splendid"]={{path="vo/spy_positivevocalization02.mp3",length=0.74303854875283}}
 L["spy among us"]={{path="vo/spy_cloakedspy04.mp3",length=1.3583673469388}}
 L["spy gentlemen"]={{path="vo/spy_cloakedspy03.mp3",length=1.0042630385488}}
@@ -270,7 +254,6 @@ L["stay close to the cart"]={{path="vo/spy_cartstaycloseoffense03.mp3",length=1.
 L["stop that cart"]={{path="vo/spy_cartgoingforwarddefense02.mp3",length=1.5412244897959}}
 L["stop that cart you idiots"]={{path="vo/spy_cartgoingforwarddefense03.mp3",length=2.4816326530612}}
 L["superior shot"]={{path="vo/spy_niceshot03.mp3",length=1.3061224489796}}
-L["suprise"]={{path="vo/spy_specialcompleted12.mp3",length=0.98975056409836}}
 L["surprise"]={{path="vo/spy_specialcompleted12.mp3",length=0.98975056689342}}
 L["textless"]={{path="vo/spy_painsharp01.mp3",length=0.48834467120181}}
 L["thank you"]={{path="vo/spy_thanks03.mp3",length=0.58920634920635}}
@@ -323,14 +306,12 @@ L["well off to visit your mother"]={{path="vo/spy_dominationscout01.mp3",length=
 L["well played"]={{path="vo/spy_goodjob01.mp3",length=1.1580952380952}}
 L["well the moment has passed back to work"]={{path="vo/taunts/spy_highfive_success05.mp3",length=2.2138321995465}}
 L["well this was a disappointment"]={{path="vo/spy_jeers02.mp3",length=1.5789569160998}}
-L["well this was a dissapointment"]={{path="vo/spy_jeers02.mp3",length=1.5789569616318}}
 L["weren t you supposed to be good at dodging"]={{path="vo/spy_dominationscout05.mp3",length=2.5546712018141}}
 L["wernt you supposed to be good at dodging"]={{path="vo/spy_dominationscout05.mp3",length=2.5546712875366}}
 L["weve got to stop that bomb"]={{path="vo/spy_cartstopitdefense01.mp3",length=2.1681632653061}}
 L["what a disaster"]={{path="vo/spy_jeers04.mp3",length=1.4686621315193}}
 L["what did i miss"]={{path="vo/spy_mvm_resurrect08.mp3",length=1.1755102040816}}
 L["what did they expect"]={{path="vo/spy_cheers04.mp3",length=1.3061224489796}}
-L["what s the matter fat got your tongue laughter"]={{path="vo/spy_dominationheavy08.mp3",length=4.2933333333333}}
 L["whats the matter fat got your tongue laughs"]={{path="vo/spy_dominationheavy08.mp3",length=4.293333530426}}
 L["whistle"]={{path="vo/taunts/spy_taunts05.mp3",length=1.7298866213152}}
 L["why dont we just give up pardner"]={{path="vo/taunts/spy_taunts07.mp3",length=1.8924263038549}}
@@ -357,9 +338,7 @@ L["you have done well"]={{path="vo/spy_goodjob03.mp3",length=0.89977324263039}}
 L["you know hiding wont save you"]={{path="vo/taunts/spy_taunts13.mp3",length=2.252335600907}}
 L["you live in a van laughs"]={{path="vo/spy_dominationsniper04.mp3",length=3.5999999046326}}
 L["you look like death warmed over"]={{path="vo/spy_dominationpyro05.mp3",length=3.9786848072562}}
-L["you look like death warn over"]={{path="vo/spy_dominationpyro05.mp3",length=3.9786849021912}}
 L["you suck"]={{path="vo/taunts/spy_taunts15.mp3",length=1.1203628117914}}
-L["your precious sandvich wont save you now fatty"]={{path="vo/spy_dominationheavy06.mp3",length=3.3653514385223}}
 L["your precious sandwich wont save you now fatty"]={{path="vo/spy_dominationheavy06.mp3",length=3.3653514739229}}
 L["youre all of you quite out of your depth"]={{path="vo/taunts/spy_taunts12.mp3",length=2.3278004535147}}
 c.EndList()
