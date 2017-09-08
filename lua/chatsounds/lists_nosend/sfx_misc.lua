@@ -19,6 +19,7 @@ L["record scratch"]={{path="chatsounds/autoadd/sfx_misc/record scratch/record sc
 L["shuffle cards"]={{path="chatsounds/autoadd/sfx_misc/shuffle cards/shuffle cards 1.ogg",length=1.193},{path="chatsounds/autoadd/sfx_misc/shuffle cards/shuffle cards 2.ogg",length=1.108}}
 L["spraying"]={{path="chatsounds/autoadd/sfx_misc/spraying/spraying 1.ogg",length=3.437},{path="chatsounds/autoadd/sfx_misc/spraying/spraying 2.ogg",length=1.235}}
 L["squeeze toy 1"]={{path="chatsounds/autoadd/sfx_misc/squeeze toy 1.ogg",length=0.895}}
+L["squeeze toy 2"]={{path="chatsounds/autoadd/sfx_misc/squeeze toy 2.ogg",length=0.456}}
 L["striking a match 1"]={{path="chatsounds/autoadd/sfx_misc/striking a match 1.ogg",length=1.002}}
 L["two pop"]={{path="chatsounds/autoadd/sfx_misc/two pop.ogg",length=0.100}}
 L["water splash"]={{path="chatsounds/autoadd/sfx_misc/water splash/velcro strap 1.ogg",length=0.682},{path="chatsounds/autoadd/sfx_misc/water splash/water splash 1.ogg",length=1.372},{path="chatsounds/autoadd/sfx_misc/water splash/water splash 2.ogg",length=2.130}}

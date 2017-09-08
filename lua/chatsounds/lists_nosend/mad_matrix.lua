@@ -25,7 +25,6 @@ L["snivyshortyawn"]={{path="chatsounds/autoadd/mad_matrix/snivyshortyawn.ogg",le
 L["snivytalk"]={{path="chatsounds/autoadd/mad_matrix/snivytalk/1.ogg",length=0.783},{path="chatsounds/autoadd/mad_matrix/snivytalk/2.ogg",length=0.431}}
 L["snivytired"]={{path="chatsounds/autoadd/mad_matrix/snivytired/1.ogg",length=1.503},{path="chatsounds/autoadd/mad_matrix/snivytired/2.ogg",length=2.172},{path="chatsounds/autoadd/mad_matrix/snivytired/3.ogg",length=1.453}}
 L["snivytwister"]={{path="chatsounds/autoadd/mad_matrix/snivytwister.ogg",length=1.683}}
-L["toysqueek"]={{path="chatsounds/autoadd/mad_matrix/toysqueek.ogg",length=0.456}}
 L["wweww"]={{path="chatsounds/autoadd/mad_matrix/wweww.ogg",length=0.727}}
 L["you wanna play the game you wanna play the game you wanna play with the big boys"]={{path="chatsounds/autoadd/mad_matrix/you wanna play the game you wanna play the game you wanna play with the big boys.ogg",length=2.604}}
 L["yuuy"]={{path="chatsounds/autoadd/mad_matrix/yuuy.ogg",length=0.880}}
