@@ -6,7 +6,7 @@ L["2persons"]={{path="chatsounds/autoadd/instagib/2persons.ogg",length=2.657}}
 L["3chinesen"]={{path="chatsounds/autoadd/instagib/3chinesen.ogg",length=11.853}}
 L["44"]={{path="chatsounds/autoadd/instagib/44.ogg",length=7.261}}
 L["4weiber"]={{path="chatsounds/autoadd/instagib/4weiber.ogg",length=12.501}}
-L["aaa fuck fuck fuck fuck fuuuck"]={{path="chatsounds/autoadd/instagib/aaa fuck fuck fuck fuck fuuuck.ogg",length=4.315}}
+L["aaa fuck fuck fuck fuuuck"]={{path="chatsounds/autoadd/instagib/aaa fuck fuck fuck fuuuck.ogg",length=4.315}}
 L["aaa1"]={{path="chatsounds/autoadd/instagib/aaa1.ogg",length=3.565}}
 L["aaa3"]={{path="chatsounds/autoadd/instagib/aaa3.ogg",length=1.796}}
 L["aaaaa"]={{path="chatsounds/autoadd/instagib/aaaaa.ogg",length=10.974}}
