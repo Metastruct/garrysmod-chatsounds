@@ -5,9 +5,11 @@ L["are you paralyzed by your anger"]={{path="chatsounds/autoadd/wicopee/are you 
 L["are you really frustrated"]={{path="chatsounds/autoadd/wicopee/are you really frustrated.ogg",length=2.035}}
 L["avgnasakid"]={{path="chatsounds/autoadd/wicopee/avgnasakid.ogg",length=11.945}}
 L["chances are"]={{path="chatsounds/autoadd/wicopee/chances are.ogg",length=1.435}}
+L["content cop intro"]={{path="chatsounds/autoadd/wicopee/content cop intro.ogg",length=14.681}}
 L["do you ever feel angry"]={{path="chatsounds/autoadd/wicopee/do you ever feel angry.ogg",length=1.715}}
 L["do you ever get to the point where you gonna blow up"]={{path="chatsounds/autoadd/wicopee/do you ever get to the point where you gonna blow up.ogg",length=2.803}}
 L["do you feel yourself with butterflies in your stomach a lot"]={{path="chatsounds/autoadd/wicopee/do you feel yourself with butterflies in your stomach a lot.ogg",length=3.704}}
+L["furious7ending"]={{path="chatsounds/autoadd/wicopee/furious7ending.ogg",length=12.733}}
 L["polishing intensifies"]={{path="chatsounds/autoadd/wicopee/polishing intensifies.ogg",length=2.593}}
 L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.502}}
 L["we can certainly express our anger if we handle our anger assertivley"]={{path="chatsounds/autoadd/wicopee/we can certainly express our anger if we handle our anger assertivley.ogg",length=5.973}}
