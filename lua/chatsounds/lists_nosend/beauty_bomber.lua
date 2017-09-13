@@ -73,6 +73,7 @@ L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.0
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.170},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.151},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.110}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.900}}
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813}}
+L["theres two of them"]={{path="chatsounds/autoadd/beauty_bomber/theres two of them.ogg",length=1.896}}
 L["two million year old"]={{path="chatsounds/autoadd/beauty_bomber/two million year old.ogg",length=1.037}}
 L["watch this"]={{path="chatsounds/autoadd/beauty_bomber/watch this.ogg",length=1.114}}
 L["we are off"]={{path="chatsounds/autoadd/beauty_bomber/we are off.ogg",length=0.837}}
