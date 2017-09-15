@@ -33,7 +33,9 @@ function ac.visible()
 end
 
 function ac.clean(text)
-	text = text:gsub("æ", "ae"):gsub("ø", "oe"):gsub("å", "aa")
+	text = text
+		:gsub("æ", "ae"):gsub("ø", "oe"):gsub("å", "aa")
+		:gsub("ä", "ae"):gsub("ö", "oe"):gsub("ü", "ue"):gsub("ß", "ss")
 	return text:lower():gsub("[^%w ]+", ""):gsub("  +", " "):Trim()
 end
 
