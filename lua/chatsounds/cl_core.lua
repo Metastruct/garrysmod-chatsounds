@@ -1191,7 +1191,11 @@ function chatsounds.Say(ply, text, seed)
 	if ply:IsMuted() then return end
 	
 	text = text:lower()
-	text = text:gsub("[^%w%a%s" .. c.SKIP .. "]", ""):gsub("%s+", " ")
+	text = text
+		:gsub("æ", "ae"):gsub("ø", "oe"):gsub("å", "aa")
+		:gsub("ä", "ae"):gsub("ö", "oe"):gsub("ü", "ue"):gsub("ß", "ss")
+		:gsub("[^%w%a%s" .. c.SKIP .. "]", "")
+		:gsub("%s+", " ")
 
 	c.Seed = seed
 
