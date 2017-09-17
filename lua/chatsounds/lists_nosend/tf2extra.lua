@@ -32,7 +32,9 @@ L["ffuckhead"]={{path="chatsounds/autoadd/tf2extra/ffuckhead.ogg",length=1.053}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.151}}
 L["gasp"]={{path="chatsounds/autoadd/tf2extra/gasp.ogg",length=1.086}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.914}}
+L["give me my cum back you fuckhead"]={{path="chatsounds/autoadd/tf2extra/give me my cum back you fuckhead.ogg",length=3.001}}
 L["gottam"]={{path="chatsounds/autoadd/tf2extra/gottam.ogg",length=0.227}}
+L["grow some hair on your dick"]={{path="chatsounds/autoadd/tf2extra/grow some hair on your dick.ogg",length=1.516}}
 L["haaaii"]={{path="chatsounds/autoadd/tf2extra/haaaii.ogg",length=0.758}}
 L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.117}}
 L["heavydeathloud"]={{path="chatsounds/autoadd/tf2extra/heavydeathloud.ogg",length=1.268}}
