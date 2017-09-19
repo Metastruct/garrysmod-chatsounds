@@ -12,6 +12,7 @@ L["i must experience a crowbar in the butt"]={{path="chatsounds/autoadd/hl2_edit
 L["i realize that im not cumming"]={{path="chatsounds/autoadd/hl2_edits/i realize that im not cumming.ogg",length=1.938}}
 L["ile"]={{path="chatsounds/autoadd/hl2_edits/ile.ogg",length=0.808}}
 L["luul"]={{path="chatsounds/autoadd/hl2_edits/luul.ogg",length=0.943}}
+L["luul loud"]={{path="chatsounds/autoadd/hl2_edits/luul loud.ogg",length=0.936}}
 L["no one is more deserving of a sex"]={{path="chatsounds/autoadd/hl2_edits/no one is more deserving of a sex.ogg",length=3.065}}
 L["ohh sees cumcumcum"]={{path="chatsounds/autoadd/hl2_edits/ohh sees cumcumcum.ogg",length=1.859}}
 L["pick up the trash can"]={{path="chatsounds/autoadd/hl2_edits/pick up the trash can/1.ogg",length=2.059},{path="chatsounds/autoadd/hl2_edits/pick up the trash can/2.ogg",length=1.560}}
@@ -19,5 +20,6 @@ L["raar and shaash mister raar"]={{path="chatsounds/autoadd/hl2_edits/raar and s
 L["the boreaerob"]={{path="chatsounds/autoadd/hl2_edits/the boreaerob.ogg",length=3.170}}
 L["the raar manmanma"]={{path="chatsounds/autoadd/hl2_edits/the raar manmanma.ogg",length=1.595}}
 L["the right lays in the wrong place can make soos"]={{path="chatsounds/autoadd/hl2_edits/the right lays in the wrong place can make soos.ogg",length=3.306}}
+L["thot"]={{path="chatsounds/autoadd/hl2_edits/thot.ogg",length=0.465}}
 L["well sees about that"]={{path="chatsounds/autoadd/hl2_edits/well sees about that.ogg",length=2.729}}
 c.EndList()
