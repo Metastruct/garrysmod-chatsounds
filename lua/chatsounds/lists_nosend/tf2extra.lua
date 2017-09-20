@@ -37,11 +37,15 @@ L["gottam"]={{path="chatsounds/autoadd/tf2extra/gottam.ogg",length=0.227}}
 L["grow some hair on your dick"]={{path="chatsounds/autoadd/tf2extra/grow some hair on your dick.ogg",length=1.516}}
 L["haaaii"]={{path="chatsounds/autoadd/tf2extra/haaaii.ogg",length=0.758}}
 L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.117}}
+L["heavy is motorbike"]={{path="chatsounds/autoadd/tf2extra/heavy is motorbike.ogg",length=2.961}}
 L["heavydeathloud"]={{path="chatsounds/autoadd/tf2extra/heavydeathloud.ogg",length=1.268}}
+L["heavymotorbike"]={{path="chatsounds/autoadd/tf2extra/heavymotorbike.ogg",length=10.388}}
 L["hello i am prepared to do nothing"]={{path="chatsounds/autoadd/tf2extra/hello i am prepared to do nothing.ogg",length=2.795}}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2extra/hhoooott.ogg",length=1.717}}
 L["how embarassing"]={{path="chatsounds/autoadd/tf2extra/how embarassing.ogg",length=1.032}}
 L["i am full of meem"]={{path="chatsounds/autoadd/tf2extra/i am full of meem.ogg",length=1.829}}
+L["i am full of soda"]={{path="chatsounds/autoadd/tf2extra/i am full of soda.ogg",length=1.584}}
+L["i call ajskldfjalksdjflkasdjfl ses"]={{path="chatsounds/autoadd/tf2extra/i call ajskldfjalksdjflkasdjfl ses.ogg",length=3.358}}
 L["i dare you"]={{path="chatsounds/autoadd/tf2extra/i dare you.ogg",length=0.994}}
 L["i dont give a fuck"]={{path="chatsounds/autoadd/tf2extra/i dont give a fuck.ogg",length=1.172}}
 L["i have no idea"]={{path="chatsounds/autoadd/tf2extra/i have no idea.ogg",length=2.032}}
@@ -70,6 +74,7 @@ L["oh fuck it"]={{path="chatsounds/autoadd/tf2extra/oh fuck it.ogg",length=0.750
 L["oh my god"]={{path="chatsounds/autoadd/tf2extra/oh my god.ogg",length=2.544}}
 L["oh thats a good one"]={{path="chatsounds/autoadd/tf2extra/oh thats a good one.ogg",length=1.920}}
 L["painis"]={{path="chatsounds/autoadd/tf2extra/painis.ogg",length=0.585}}
+L["place a melon here"]={{path="chatsounds/autoadd/tf2extra/place a melon here.ogg",length=1.280}}
 L["pootis"]={{path="chatsounds/autoadd/tf2extra/pootis.ogg",length=0.387}}
 L["ppoottiiss"]={{path="chatsounds/autoadd/tf2extra/ppoottiiss.ogg",length=3.134}}
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2extra/ribs grow back.ogg",length=0.712}}
@@ -81,6 +86,7 @@ L["should i be awake for this"]={{path="chatsounds/autoadd/tf2extra/should i be 
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2extra/sniperlaughfast.ogg",length=1.329}}
 L["so were both busy fucking chickens"]={{path="chatsounds/autoadd/tf2extra/so were both busy fucking chickens.ogg",length=2.495}}
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.751},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.173}}
+L["spysnortextreme"]={{path="chatsounds/autoadd/tf2extra/spysnortextreme.ogg",length=4.599}}
 L["stout shako for 2 refined"]={{path="chatsounds/autoadd/tf2extra/stout shako for 2 refined.ogg",length=2.663}}
 L["stout shako for two refined"]={{path="chatsounds/autoadd/tf2extra/stout shako for two refined.ogg",length=2.663}}
 L["struck"]={{path="chatsounds/autoadd/tf2extra/struck.ogg",length=0.625}}
