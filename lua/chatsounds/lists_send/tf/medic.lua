@@ -83,7 +83,6 @@ L["i am fully charged"]={{path="vo/medic_autochargeready02.mp3",length=1.3786847
 L["i am melting"]={{path="vo/medic_autoonfire05.mp3",length=1.8721088171005}}
 L["i am on fire"]={{path="vo/medic_autoonfire03.mp3",length=1.156643986702}}
 L["i am prepared to do whatever it takes"]={{path="vo/medic_autocappedcontrolpoint03.mp3",length=2.5716099739075}}
-L["i am the ubermensch"]={{path="vo/medic_cheers05.mp3",length=1.7414965629578}}
 L["i am ze ubermensch"]={{path="vo/medic_cheers05.mp3",length=1.7414965629578}}
 L["i cannot wait"]={{path="vo/medic_mvm_say_ready02.mp3",length=1.8285714285714}}
 L["i cannot wait and neither can i"]={{path="vo/medic_item_secop_round_start04.mp3",length=4.6497959183673}}
@@ -137,18 +136,14 @@ L["my skill is wasted on this team"]={{path="vo/medic_jeers03.mp3",length=2.7283
 L["nein"]={{path="vo/medic_no01.mp3",length=0.53115648031235}}
 L["nice shot camarade"]={{path="vo/medic_niceshot01.mp3",length=1.8634014129639}}
 L["nichts da"]={{path="vo/medic_no03.mp3",length=0.64435374736786}}
-L["nix da"]={{path="vo/medic_no03.mp3",length=0.64435374736786}}
 L["no"]={{path="vo/medic_no02.mp3",length=0.39328798651695}}
 L["no robot shall pass"]={{path="vo/medic_mvm_heal_shield03.mp3",length=2.0636734693878}}
 L["now go"]={{path="vo/medic_specialcompleted04.mp3",length=0.89977324008942}}
 L["now is the time herr doctor"]={{path="vo/medic_activatecharge03.mp3",length=1.8026757240295}}
 L["now now attack the wizard"]={{path="vo/medic_sf12_attack02.mp3",length=2.9779591836735}}
-L["october fest"]={{path="vo/taunts/medic_taunts16.mp3",length=3.4634921550751},{path="vo/medic_cheers06.mp3",length=1.8750113248825}}
-L["octoberfest"]={{path="vo/taunts/medic_taunts16.mp3",length=3.4634921550751},{path="vo/medic_cheers06.mp3",length=1.8750113248825}}
 L["oh i am going to murder so many robots"]={{path="vo/medic_mvm_get_upgrade04.mp3",length=3.4220408163265}}
 L["oh i will tear you appart bolt by bolt"]={{path="vo/medic_mvm_taunt01.mp3",length=3.3959183673469}}
 L["ohh this is not good"]={{path="vo/medic_mvm_wave_end04.mp3",length=2.4816326530612}}
-L["oktober fest"]={{path="vo/taunts/medic_taunts16.mp3",length=3.4634921550751},{path="vo/medic_cheers06.mp3",length=1.8750113248825}}
 L["oktoberfest"]={{path="vo/taunts/medic_taunts16.mp3",length=3.4634921550751},{path="vo/medic_cheers06.mp3",length=1.8750113248825}}
 L["ooh money"]={{path="vo/medic_mvm_collect_credits04.mp3",length=1}}
 L["ooh much better"]={{path="vo/medic_mvm_get_upgrade01.mp3",length=2.5861224489796}}
