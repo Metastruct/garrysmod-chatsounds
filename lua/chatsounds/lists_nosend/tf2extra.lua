@@ -41,6 +41,7 @@ L["haah"]={{path="chatsounds/autoadd/tf2extra/haah.ogg",length=0.117}}
 L["heavy is motorbike"]={{path="chatsounds/autoadd/tf2extra/heavy is motorbike.ogg",length=2.961}}
 L["heavydeathloud"]={{path="chatsounds/autoadd/tf2extra/heavydeathloud.ogg",length=1.268}}
 L["heavymotorbike"]={{path="chatsounds/autoadd/tf2extra/heavymotorbike.ogg",length=10.388}}
+L["hee distorted"]={{path="chatsounds/autoadd/tf2extra/hee distorted.ogg",length=0.919}}
 L["hello i am prepared to do nothing"]={{path="chatsounds/autoadd/tf2extra/hello i am prepared to do nothing.ogg",length=2.795}}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2extra/hhoooott.ogg",length=1.717}}
 L["how embarassing"]={{path="chatsounds/autoadd/tf2extra/how embarassing.ogg",length=1.032}}
@@ -59,6 +60,7 @@ L["it is so tiny"]={{path="chatsounds/autoadd/tf2extra/it is so tiny.ogg",length
 L["it scares me"]={{path="chatsounds/autoadd/tf2extra/it scares me.ogg",length=1.312}}
 L["kill me"]={{path="chatsounds/autoadd/tf2extra/kill me/kill me.ogg",length=0.400},{path="chatsounds/autoadd/tf2extra/kill me/kill me2.ogg",length=0.804},{path="chatsounds/autoadd/tf2extra/kill me/kill me3.ogg",length=0.929},{path="chatsounds/autoadd/tf2extra/kill me/kill me4.ogg",length=0.958}}
 L["later"]={{path="chatsounds/autoadd/tf2extra/later.ogg",length=0.480}}
+L["left for dead"]={{path="chatsounds/autoadd/tf2extra/left for dead.ogg",length=0.846}}
 L["lets go practice medicine"]={{path="chatsounds/autoadd/tf2extra/lets go practice medicine.ogg",length=2.320}}
 L["lul"]={{path="chatsounds/autoadd/tf2extra/lul.ogg",length=0.302}}
 L["lwoa"]={{path="chatsounds/autoadd/tf2extra/lwoa/1.ogg",length=1.240},{path="chatsounds/autoadd/tf2extra/lwoa/2.ogg",length=1.863},{path="chatsounds/autoadd/tf2extra/lwoa/lwoa3.ogg",length=2.409}}
@@ -92,6 +94,10 @@ L["sey"]={{path="chatsounds/autoadd/tf2extra/sey/1.ogg",length=0.717},{path="cha
 L["should i be awake for this"]={{path="chatsounds/autoadd/tf2extra/should i be awake for this.ogg",length=1.768}}
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2extra/sniperlaughfast.ogg",length=1.329}}
 L["so were both busy fucking chickens"]={{path="chatsounds/autoadd/tf2extra/so were both busy fucking chickens.ogg",length=2.495}}
+L["soldierdeath"]={{path="chatsounds/autoadd/tf2extra/soldierdeath.ogg",length=1.210}}
+L["soldierdeathloud"]={{path="chatsounds/autoadd/tf2extra/soldierdeathloud.ogg",length=1.083}}
+L["soldierexcited"]={{path="chatsounds/autoadd/tf2extra/soldierexcited.ogg",length=3.264}}
+L["soldiersquee"]={{path="chatsounds/autoadd/tf2extra/soldiersquee/1.ogg",length=0.681},{path="chatsounds/autoadd/tf2extra/soldiersquee/2.ogg",length=1.646},{path="chatsounds/autoadd/tf2extra/soldiersquee/3.ogg",length=1.263},{path="chatsounds/autoadd/tf2extra/soldiersquee/4.ogg",length=0.940}}
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.751},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.173}}
 L["spysnortextreme"]={{path="chatsounds/autoadd/tf2extra/spysnortextreme.ogg",length=4.599}}
 L["stout shako for 2 refined"]={{path="chatsounds/autoadd/tf2extra/stout shako for 2 refined.ogg",length=2.663}}
