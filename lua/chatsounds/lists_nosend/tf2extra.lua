@@ -31,6 +31,7 @@ L["everyone there is a mcdonalds ahead"]={{path="chatsounds/autoadd/tf2extra/eve
 L["faggots"]={{path="chatsounds/autoadd/tf2extra/faggots.ogg",length=0.780}}
 L["ffuckhead"]={{path="chatsounds/autoadd/tf2extra/ffuckhead.ogg",length=1.053}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2extra/fuck you.ogg",length=1.151}}
+L["fucking blood clot i hate mcdonalds"]={{path="chatsounds/autoadd/tf2extra/fucking blood clot i hate mcdonalds.ogg",length=3.777}}
 L["gasp"]={{path="chatsounds/autoadd/tf2extra/gasp.ogg",length=1.086}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2extra/ggoottaamm.ogg",length=0.914}}
 L["give me my cum back you fuckhead"]={{path="chatsounds/autoadd/tf2extra/give me my cum back you fuckhead.ogg",length=3.001}}
@@ -48,6 +49,7 @@ L["how embarassing"]={{path="chatsounds/autoadd/tf2extra/how embarassing.ogg",le
 L["i am full of meem"]={{path="chatsounds/autoadd/tf2extra/i am full of meem.ogg",length=1.829}}
 L["i am full of soda"]={{path="chatsounds/autoadd/tf2extra/i am full of soda.ogg",length=1.584}}
 L["i call ajskldfjalksdjflkasdjfl ses"]={{path="chatsounds/autoadd/tf2extra/i call ajskldfjalksdjflkasdjfl ses.ogg",length=3.358}}
+L["i can feel the cocaine coursing through my veins"]={{path="chatsounds/autoadd/tf2extra/i can feel the cocaine coursing through my veins.ogg",length=4.265}}
 L["i dare you"]={{path="chatsounds/autoadd/tf2extra/i dare you.ogg",length=0.994}}
 L["i dont give a fuck"]={{path="chatsounds/autoadd/tf2extra/i dont give a fuck.ogg",length=1.172}}
 L["i feel like a man on cocaine"]={{path="chatsounds/autoadd/tf2extra/i feel like a man on cocaine.ogg",length=3.994}}
@@ -75,6 +77,7 @@ L["mumnumnum"]={{path="chatsounds/autoadd/tf2extra/mumnumnum.ogg",length=0.809}}
 L["no shut the fuck up distorted"]={{path="chatsounds/autoadd/tf2extra/no shut the fuck up distorted.ogg",length=3.193}}
 L["no they dont"]={{path="chatsounds/autoadd/tf2extra/no they dont.ogg",length=0.568}}
 L["noon"]={{path="chatsounds/autoadd/tf2extra/noon.ogg",length=0.544}}
+L["nooon"]={{path="chatsounds/autoadd/tf2extra/nooon.ogg",length=0.730}}
 L["noooon"]={{path="chatsounds/autoadd/tf2extra/noooon.ogg",length=1.653}}
 L["now"]={{path="chatsounds/autoadd/tf2extra/now.ogg",length=0.528}}
 L["oh"]={{path="chatsounds/autoadd/tf2extra/oh.ogg",length=0.296}}
@@ -93,12 +96,14 @@ L["sexellent"]={{path="chatsounds/autoadd/tf2extra/sexellent.ogg",length=0.993}}
 L["sey"]={{path="chatsounds/autoadd/tf2extra/sey/1.ogg",length=0.717},{path="chatsounds/autoadd/tf2extra/sey/2.ogg",length=0.731}}
 L["should i be awake for this"]={{path="chatsounds/autoadd/tf2extra/should i be awake for this.ogg",length=1.768}}
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2extra/sniperlaughfast.ogg",length=1.329}}
+L["snort gentlemen i have bought all the hamburgers"]={{path="chatsounds/autoadd/tf2extra/snort gentlemen i have bought all the hamburgers.ogg",length=5.614}}
 L["so were both busy fucking chickens"]={{path="chatsounds/autoadd/tf2extra/so were both busy fucking chickens.ogg",length=2.495}}
 L["soldierdeath"]={{path="chatsounds/autoadd/tf2extra/soldierdeath.ogg",length=1.210}}
 L["soldierdeathloud"]={{path="chatsounds/autoadd/tf2extra/soldierdeathloud.ogg",length=1.083}}
 L["soldierexcited"]={{path="chatsounds/autoadd/tf2extra/soldierexcited.ogg",length=3.264}}
 L["soldiersquee"]={{path="chatsounds/autoadd/tf2extra/soldiersquee/1.ogg",length=0.681},{path="chatsounds/autoadd/tf2extra/soldiersquee/2.ogg",length=1.646},{path="chatsounds/autoadd/tf2extra/soldiersquee/3.ogg",length=1.263},{path="chatsounds/autoadd/tf2extra/soldiersquee/4.ogg",length=0.940}}
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.751},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.173}}
+L["sorry to snort your precious cocaine"]={{path="chatsounds/autoadd/tf2extra/sorry to snort your precious cocaine.ogg",length=3.842}}
 L["spysnortextreme"]={{path="chatsounds/autoadd/tf2extra/spysnortextreme.ogg",length=4.599}}
 L["stout shako for 2 refined"]={{path="chatsounds/autoadd/tf2extra/stout shako for 2 refined.ogg",length=2.663}}
 L["stout shako for two refined"]={{path="chatsounds/autoadd/tf2extra/stout shako for two refined.ogg",length=2.663}}

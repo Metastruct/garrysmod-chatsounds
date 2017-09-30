@@ -1,10 +1,12 @@
 c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
+L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["comedydramatic"]={{path="chatsounds/autoadd/mad_matrix/comedydramatic.ogg",length=19.128}}
 L["cunt"]={{path="chatsounds/autoadd/mad_matrix/cunt/1.ogg",length=0.746},{path="chatsounds/autoadd/mad_matrix/cunt/2.ogg",length=0.526}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
+L["dude guy going on especially after spending five years in your pen"]={{path="chatsounds/autoadd/mad_matrix/dude guy going on especially after spending five years in your pen.ogg",length=3.163}}
 L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
 L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough of the emails distorted.ogg",length=1.652}}
@@ -36,6 +38,8 @@ L["snivytired"]={{path="chatsounds/autoadd/mad_matrix/snivytired/1.ogg",length=1
 L["snivytwister"]={{path="chatsounds/autoadd/mad_matrix/snivytwister.ogg",length=1.683}}
 L["srpelonoises"]={{path="chatsounds/autoadd/mad_matrix/srpelonoises/1.ogg",length=1.276},{path="chatsounds/autoadd/mad_matrix/srpelonoises/2.ogg",length=1.082}}
 L["tablesmack"]={{path="chatsounds/autoadd/mad_matrix/tablesmack/1.ogg",length=0.917},{path="chatsounds/autoadd/mad_matrix/tablesmack/2.ogg",length=0.751}}
+L["tell me that theres a baseball in this thing"]={{path="chatsounds/autoadd/mad_matrix/tell me that theres a baseball in this thing.ogg",length=1.912}}
+L["theres nnno bbbaseballallall will willwill"]={{path="chatsounds/autoadd/mad_matrix/theres nnno bbbaseballallall will willwill.ogg",length=2.618}}
 L["wweww"]={{path="chatsounds/autoadd/mad_matrix/wweww.ogg",length=0.727}}
 L["you wanna play the game you wanna play the game you wanna play with the big boys"]={{path="chatsounds/autoadd/mad_matrix/you wanna play the game you wanna play the game you wanna play with the big boys.ogg",length=2.604}}
 L["yuuy"]={{path="chatsounds/autoadd/mad_matrix/yuuy.ogg",length=0.880}}

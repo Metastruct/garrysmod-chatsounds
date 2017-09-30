@@ -41,6 +41,7 @@ L["did he not shit"]={{path="chatsounds/autoadd/feshpince/did he not shit.ogg",l
 L["did he not shit did he not dzeugh"]={{path="chatsounds/autoadd/feshpince/did he not shit did he not dzeugh.ogg",length=2.014}}
 L["die a violent death"]={{path="chatsounds/autoadd/feshpince/die a violent death.ogg",length=1.390}}
 L["do you know how humiliating it is to have a son"]={{path="chatsounds/autoadd/feshpince/do you know how humiliating it is to have a son.ogg",length=4.956}}
+L["does it have to sssspiips"]={{path="chatsounds/autoadd/feshpince/does it have to sssspiips.ogg",length=2.120}}
 L["dont nobody call me a cow"]={{path="chatsounds/autoadd/feshpince/dont nobody call me a cow.ogg",length=1.381}}
 L["doorslam"]={{path="chatsounds/autoadd/feshpince/doorslam.ogg",length=0.814}}
 L["drink drink driiiiiinnnnk"]={{path="chatsounds/autoadd/feshpince/drink drink driiiiiinnnnk.ogg",length=3.172}}
