@@ -38,7 +38,7 @@ L["alsogut"]={{path="chatsounds/autoadd/instagib/alsogut.ogg",length=3.366}}
 L["amaze"]={{path="chatsounds/autoadd/instagib/amaze.ogg",length=2.404}}
 L["amsiert"]={{path="chatsounds/autoadd/instagib/amsiert.ogg",length=1.500}}
 L["anders"]={{path="chatsounds/autoadd/instagib/anders.ogg",length=3.700}}
-L["anfnger"]={{path="chatsounds/autoadd/instagib/anfnger.ogg",length=1.823}}
+L["anfaenger"]={{path="chatsounds/autoadd/instagib/anfaenger.ogg",length=1.823}}
 L["angeklagt"]={{path="chatsounds/autoadd/instagib/angeklagt.ogg",length=2.700}}
 L["angriff"]={{path="chatsounds/autoadd/instagib/angriff.ogg",length=2.560}}
 L["anschnallen"]={{path="chatsounds/autoadd/instagib/anschnallen.ogg",length=3.744}}
