@@ -714,6 +714,7 @@ L["laber"]={{path="chatsounds/autoadd/instagib/laber.ogg",length=2.844}}
 L["lacht"]={{path="chatsounds/autoadd/instagib/lacht.ogg",length=1.432}}
 L["lady1"]={{path="chatsounds/autoadd/instagib/lady1.ogg",length=8.751}}
 L["laecherlich"]={{path="chatsounds/autoadd/instagib/laecherlich.ogg",length=1.481}}
+L["laecherlich2"]={{path="chatsounds/autoadd/instagib/laecherlich2.ogg",length=1.715}}
 L["lala"]={{path="chatsounds/autoadd/instagib/lala.ogg",length=11.751}}
 L["lalala"]={{path="chatsounds/autoadd/instagib/lalala.ogg",length=5.141}}
 L["lampe"]={{path="chatsounds/autoadd/instagib/lampe.ogg",length=3.000}}
@@ -723,7 +724,6 @@ L["lappen"]={{path="chatsounds/autoadd/instagib/lappen.ogg",length=2.228}}
 L["lauf"]={{path="chatsounds/autoadd/instagib/lauf.ogg",length=2.637}}
 L["laugh"]={{path="chatsounds/autoadd/instagib/laugh.ogg",length=2.682}}
 L["layla"]={{path="chatsounds/autoadd/instagib/layla.ogg",length=12.318}}
-L["lcherlich2"]={{path="chatsounds/autoadd/instagib/lcherlich2.ogg",length=1.715}}
 L["leben"]={{path="chatsounds/autoadd/instagib/leben.ogg",length=3.105}}
 L["lebendig"]={{path="chatsounds/autoadd/instagib/lebendig.ogg",length=7.104}}
 L["leck mich am arsch"]={{path="chatsounds/autoadd/instagib/leck mich am arsch.ogg",length=1.541}}
