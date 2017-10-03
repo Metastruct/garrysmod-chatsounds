@@ -713,6 +713,7 @@ L["kw"]={{path="chatsounds/autoadd/instagib/kw.ogg",length=3.432}}
 L["laber"]={{path="chatsounds/autoadd/instagib/laber.ogg",length=2.844}}
 L["lacht"]={{path="chatsounds/autoadd/instagib/lacht.ogg",length=1.432}}
 L["lady1"]={{path="chatsounds/autoadd/instagib/lady1.ogg",length=8.751}}
+L["laecherlich"]={{path="chatsounds/autoadd/instagib/laecherlich.ogg",length=1.481}}
 L["lala"]={{path="chatsounds/autoadd/instagib/lala.ogg",length=11.751}}
 L["lalala"]={{path="chatsounds/autoadd/instagib/lalala.ogg",length=5.141}}
 L["lampe"]={{path="chatsounds/autoadd/instagib/lampe.ogg",length=3.000}}
@@ -722,7 +723,6 @@ L["lappen"]={{path="chatsounds/autoadd/instagib/lappen.ogg",length=2.228}}
 L["lauf"]={{path="chatsounds/autoadd/instagib/lauf.ogg",length=2.637}}
 L["laugh"]={{path="chatsounds/autoadd/instagib/laugh.ogg",length=2.682}}
 L["layla"]={{path="chatsounds/autoadd/instagib/layla.ogg",length=12.318}}
-L["lcherlich"]={{path="chatsounds/autoadd/instagib/lcherlich.ogg",length=1.481}}
 L["lcherlich2"]={{path="chatsounds/autoadd/instagib/lcherlich2.ogg",length=1.715}}
 L["leben"]={{path="chatsounds/autoadd/instagib/leben.ogg",length=3.105}}
 L["lebendig"]={{path="chatsounds/autoadd/instagib/lebendig.ogg",length=7.104}}
@@ -811,7 +811,7 @@ L["mkatze"]={{path="chatsounds/autoadd/instagib/mkatze.ogg",length=5.224}}
 L["mm dont have time to play with myself"]={{path="chatsounds/autoadd/instagib/mm dont have time to play with myself.ogg",length=2.834}}
 L["modell"]={{path="chatsounds/autoadd/instagib/modell.ogg",length=2.543}}
 L["moe"]={{path="chatsounds/autoadd/instagib/moe.ogg",length=4.938}}
-L["moepse"]={{path="chatsounds/autoadd/instagib/moepse.ogg",length=1.479}}
+L["moepse"]={{path="chatsounds/autoadd/instagib/moepse.ogg",length=1.197}}
 L["mofo"]={{path="chatsounds/autoadd/instagib/mofo.ogg",length=3.396}}
 L["mogeln"]={{path="chatsounds/autoadd/instagib/mogeln.ogg",length=7.837}}
 L["mohrchen"]={{path="chatsounds/autoadd/instagib/mohrchen.ogg",length=5.538}}
@@ -823,7 +823,6 @@ L["morning"]={{path="chatsounds/autoadd/instagib/morning.ogg",length=3.983}}
 L["morons"]={{path="chatsounds/autoadd/instagib/morons.ogg",length=1.101}}
 L["moveit"]={{path="chatsounds/autoadd/instagib/moveit.ogg",length=12.001}}
 L["movin movin movin movin"]={{path="chatsounds/autoadd/instagib/movin movin movin movin.ogg",length=20.752}}
-L["mpse"]={{path="chatsounds/autoadd/instagib/mpse.ogg",length=1.197}}
 L["muffins"]={{path="chatsounds/autoadd/instagib/muffins.ogg",length=5.000}}
 L["muha"]={{path="chatsounds/autoadd/instagib/muha.ogg",length=6.488}}
 L["muhaha"]={{path="chatsounds/autoadd/instagib/muhaha.ogg",length=4.083}}
