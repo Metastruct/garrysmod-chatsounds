@@ -42,6 +42,7 @@ L["tablesmack"]={{path="chatsounds/autoadd/mad_matrix/tablesmack/1.ogg",length=0
 L["tell me that theres a baseball in this thing"]={{path="chatsounds/autoadd/mad_matrix/tell me that theres a baseball in this thing.ogg",length=1.912}}
 L["theres nnno bbbaseballallall will willwill"]={{path="chatsounds/autoadd/mad_matrix/theres nnno bbbaseballallall will willwill.ogg",length=2.618}}
 L["wweww"]={{path="chatsounds/autoadd/mad_matrix/wweww.ogg",length=0.727}}
+L["you dont even care do you"]={{path="chatsounds/autoadd/mad_matrix/you dont even care do you.ogg",length=1.950}}
 L["you wanna play the game you wanna play the game you wanna play with the big boys"]={{path="chatsounds/autoadd/mad_matrix/you wanna play the game you wanna play the game you wanna play with the big boys.ogg",length=2.604}}
 L["yuuy"]={{path="chatsounds/autoadd/mad_matrix/yuuy.ogg",length=0.880}}
 c.EndList()
