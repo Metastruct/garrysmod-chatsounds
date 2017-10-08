@@ -17,8 +17,8 @@ i have; ppap5
 ppap_uhh; ppap6; replace
 
 # third part
-# <apple pen#2> <pineapple pen#2> <ppap_uuuh> <pen pineapple apple pen>
-#                                   -ppap7-
+# <apple pen#2> <sweep> <pineapple pen#2> <sweep> <ppap_uuuh> <pen pineapple apple pen>
+#                                                   -ppap7-
 
 ppap_uuuh; ppap7; replace
 
