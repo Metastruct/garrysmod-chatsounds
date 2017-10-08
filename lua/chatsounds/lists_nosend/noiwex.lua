@@ -63,6 +63,7 @@ L["next generation"]={{path="chatsounds/autoadd/noiwex/next generation.ogg",leng
 L["nextgen engine"]={{path="chatsounds/autoadd/noiwex/nextgen engine.ogg",length=0.949}}
 L["no russian"]={{path="chatsounds/autoadd/noiwex/no russian.ogg",length=0.569}}
 L["oeoeoeoeoe"]={{path="chatsounds/autoadd/noiwex/oeoeoeoeoe.ogg",length=2.353}}
+L["oh my gah"]={{path="chatsounds/autoadd/noiwex/omg.ogg",length=1.358}}
 L["oh shit im sorry"]={{path="chatsounds/autoadd/noiwex/oh shit im sorry.ogg",length=1.319}}
 L["omg"]={{path="chatsounds/autoadd/noiwex/omg.ogg",length=1.358}}
 L["oooooooooo oh"]={{path="chatsounds/autoadd/noiwex/oooooooooo oh.ogg",length=1.413}}

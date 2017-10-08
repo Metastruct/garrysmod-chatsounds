@@ -17,7 +17,7 @@ L["ppap5"]={{path="chatsounds/autoadd/ppap/i have.ogg",length=0.642}}
 L["ppap6"]={{path="chatsounds/autoadd/ppap/ppap_uhh.ogg",length=1.307}}
 L["ppap7"]={{path="chatsounds/autoadd/ppap/ppap_uuuh.ogg",length=1.733}}
 L["ppap_intro"]={{path="chatsounds/autoadd/ppap/ppap_intro.ogg",length=6.661}}
-L["sweep"]={{path="chatsounds/autoadd/ppap/sweep/ppap_sweep1.ogg",length=0.402},{path="chatsounds/autoadd/ppap/sweep/ppap_sweep2.ogg",length=0.432}}
+L["sweep"]={{path="chatsounds/autoadd/ppap/sweep.ogg",length=0.402}}
 L["uhh"]={{path="chatsounds/autoadd/ppap/uhh.ogg",length=0.432}}
 L["uuh"]={{path="chatsounds/autoadd/ppap/uuh.ogg",length=0.800}}
 L["uuuh"]={{path="chatsounds/autoadd/ppap/uuuh.ogg",length=0.865}}
