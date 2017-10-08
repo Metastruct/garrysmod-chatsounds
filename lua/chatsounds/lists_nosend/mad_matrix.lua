@@ -18,7 +18,9 @@ L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its
 L["just gotta get right out of here"]={{path="chatsounds/autoadd/mad_matrix/just gotta get right out of here.ogg",length=4.494}}
 L["laggyharmonica"]={{path="chatsounds/autoadd/mad_matrix/laggyharmonica.ogg",length=1.498}}
 L["madmatrixdeathloud"]={{path="chatsounds/autoadd/mad_matrix/madmatrixdeathloud.ogg",length=1.401}}
-L["madmatrixnoises"]={{path="chatsounds/autoadd/mad_matrix/madmatrixnoises.ogg",length=6.566}}
+L["madmatrixlaugh"]={{path="chatsounds/autoadd/mad_matrix/madmatrixlaugh.ogg",length=6.566}}
+L["madmatrixnoise"]={{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/1.ogg",length=0.279},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/2.ogg",length=1.674},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/3.ogg",length=0.667},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/4.ogg",length=0.503},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/5.ogg",length=0.569}}
+L["madmatrixscream"]={{path="chatsounds/autoadd/mad_matrix/madmatrixscream.ogg",length=2.297}}
 L["makes another soos"]={{path="chatsounds/autoadd/mad_matrix/makes another soos.ogg",length=1.211}}
 L["nani"]={{path="chatsounds/autoadd/mad_matrix/nani.ogg",length=0.538}}
 L["nothing is working distorted"]={{path="chatsounds/autoadd/mad_matrix/nothing is working distorted.ogg",length=1.797}}
