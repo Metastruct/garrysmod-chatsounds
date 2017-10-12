@@ -13,7 +13,6 @@ L["do you feel yourself with butterflies in your stomach a lot"]={{path="chatsou
 L["furious7ending"]={{path="chatsounds/autoadd/wicopee/furious7ending.ogg",length=12.732653061224489}}
 L["ne vashe delo idite nahuy"]={{path="chatsounds/autoadd/wicopee/ne vashe delo idite nahuy.ogg",length=2.899591836734694}}
 L["polishing intensifies"]={{path="chatsounds/autoadd/wicopee/polishing intensifies.ogg",length=2.5934467120181406}}
-L["sting"]={{path="chatsounds/autoadd/wicopee/sting.ogg",length=5.5055102040816326}}
 L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.5017233560090704}}
 L["vam vsem pizdets"]={{path="chatsounds/autoadd/wicopee/vam vsem pizdets.ogg",length=3.1030839002267574}}
 L["vam vsem pizdets distorted"]={{path="chatsounds/autoadd/wicopee/vam vsem pizdets distorted.ogg",length=4.9382539682539681}}
