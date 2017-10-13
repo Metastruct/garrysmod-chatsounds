@@ -31,3 +31,6 @@ after_success:
           else
                 echo "The commit this build was started for is not the one on master. Not pushing to master.";
           fi
+
+after_failure:
+        - echo "Invalid sound files list:" && cat invalid-soundfiles.txt
