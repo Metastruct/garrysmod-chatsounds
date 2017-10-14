@@ -33,11 +33,6 @@ L["door knock"]={{path="chatsounds/autoadd/tenrys/door knock.ogg",length=0.785}}
 L["dot"]={{path="chatsounds/autoadd/tenrys/dot.ogg",length=0.194}}
 L["dramatic cue"]={{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue01.ogg",length=4.336},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue02.ogg",length=4.389},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue03.ogg",length=4.728},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue04.ogg",length=6.023},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue05.ogg",length=9.411},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue06.ogg",length=11.795},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue07.ogg",length=13.929},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue08.ogg",length=16.256},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue09.ogg",length=21.332},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue10.ogg",length=25.718},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue11.ogg",length=2.082},{path="chatsounds/autoadd/tenrys/dramatic cue/dramatic cue12.ogg",length=2.612}}
 L["drum roll"]={{path="chatsounds/autoadd/tenrys/drum roll.ogg",length=10.348}}
-L["dubstep minigun shoot"]={{path="chatsounds/autoadd/tenrys/dubstep minigun shoot.ogg",length=32.733}}
-L["dubstep minigun shoot crit"]={{path="chatsounds/autoadd/tenrys/dubstep minigun shoot crit.ogg",length=14.982}}
-L["dubstep minigun spin"]={{path="chatsounds/autoadd/tenrys/dubstep minigun spin.ogg",length=45.178}}
-L["dubstep minigun wind down"]={{path="chatsounds/autoadd/tenrys/dubstep minigun wind down.ogg",length=14.982}}
-L["dubstep minigun wind up"]={{path="chatsounds/autoadd/tenrys/dubstep minigun wind up.ogg",length=1.201}}
 L["dun"]={{path="chatsounds/autoadd/tenrys/dun/dun01.ogg",length=1.172},{path="chatsounds/autoadd/tenrys/dun/dun02.ogg",length=3.082},{path="chatsounds/autoadd/tenrys/dun/dun03.ogg",length=1.907}}
 L["dun dun"]={{path="chatsounds/autoadd/tenrys/dun dun.ogg",length=2.168}}
 L["dun dun dun"]={{path="chatsounds/autoadd/tenrys/dun dun dun.ogg",length=2.403}}
