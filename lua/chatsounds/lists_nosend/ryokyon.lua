@@ -9,7 +9,6 @@ L["are you serious"]={{path="chatsounds/autoadd/ryokyon/are you serious.ogg",len
 L["at de jumby lab"]={{path="chatsounds/autoadd/ryokyon/at de jumby lab.ogg",length=1.450}}
 L["attackontitan"]={{path="chatsounds/autoadd/ryokyon/attackontitan.ogg",length=14.565}}
 L["back"]={{path="chatsounds/autoadd/ryokyon/back.ogg",length=0.689}}
-L["batshit insaaane"]={{path="chatsounds/autoadd/ryokyon/batshit insaaane.ogg",length=2.191}}
 L["book"]={{path="chatsounds/autoadd/ryokyon/book.ogg",length=0.645}}
 L["bookworm"]={{path="chatsounds/autoadd/ryokyon/bookworm.ogg",length=1.100}}
 L["bowties are cool"]={{path="chatsounds/autoadd/ryokyon/bowties are cool.ogg",length=1.567}}
@@ -82,7 +81,6 @@ L["mirror mirror on the wall"]={{path="chatsounds/autoadd/ryokyon/mirror mirror 
 L["missed"]={{path="chatsounds/autoadd/ryokyon/missed.ogg",length=0.646}}
 L["my name is dante"]={{path="chatsounds/autoadd/ryokyon/my name is dante.ogg",length=3.158}}
 L["my name is vergil"]={{path="chatsounds/autoadd/ryokyon/my name is vergil.ogg",length=0.888}}
-L["nanomachines son"]={{path="chatsounds/autoadd/ryokyon/nanomachines son.ogg",length=1.482}}
 L["never asked for your help"]={{path="chatsounds/autoadd/ryokyon/never asked for your help.ogg",length=4.115}}
 L["never surrender"]={{path="chatsounds/autoadd/ryokyon/never surrender.ogg",length=23.446}}
 L["not in a million years"]={{path="chatsounds/autoadd/ryokyon/not in a million years.ogg",length=1.268}}
