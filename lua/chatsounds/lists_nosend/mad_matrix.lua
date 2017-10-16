@@ -11,6 +11,7 @@ L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
 L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough of the emails distorted.ogg",length=1.652}}
 L["explosion hot hot hot hot hot"]={{path="chatsounds/autoadd/mad_matrix/explosion hot hot hot hot hot.ogg",length=2.968}}
+L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
 L["hey all you suckers out there"]={{path="chatsounds/autoadd/mad_matrix/hey all you suckers out there.ogg",length=1.232}}
 L["hot distorted"]={{path="chatsounds/autoadd/mad_matrix/hot distorted.ogg",length=0.941}}
 L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}
@@ -28,6 +29,7 @@ L["makes another soos"]={{path="chatsounds/autoadd/mad_matrix/makes another soos
 L["nani"]={{path="chatsounds/autoadd/mad_matrix/nani.ogg",length=0.538}}
 L["nothing is working distorted"]={{path="chatsounds/autoadd/mad_matrix/nothing is working distorted.ogg",length=1.797}}
 L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
+L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length=9.979}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
