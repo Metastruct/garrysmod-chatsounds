@@ -6,6 +6,7 @@ L["5"]={{path="chatsounds/autoadd/techbot/5.ogg",length=0.873}}
 L["5 4 3 1 offblast"]={{path="chatsounds/autoadd/techbot/5 4 3 1 offblast.ogg",length=4.861}}
 L["a genius"]={{path="chatsounds/autoadd/techbot/a genius.ogg",length=0.630}}
 L["aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/aaa aaaahhh.ogg",length=2.866}}
+L["aaaaaa"]={{path="chatsounds/autoadd/techbot/aaaaaa.ogg",length=2.473}}
 L["abcdefjii"]={{path="chatsounds/autoadd/techbot/abcdefjii.ogg",length=2.016}}
 L["able"]={{path="chatsounds/autoadd/techbot/able.ogg",length=0.762}}
 L["ahgarbulagabah"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah.ogg",length=0.549}}
