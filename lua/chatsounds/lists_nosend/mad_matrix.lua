@@ -3,7 +3,6 @@ L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802
 L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
-L["comedydramatic"]={{path="chatsounds/autoadd/mad_matrix/comedydramatic.ogg",length=19.128}}
 L["cunt"]={{path="chatsounds/autoadd/mad_matrix/cunt/1.ogg",length=0.746},{path="chatsounds/autoadd/mad_matrix/cunt/2.ogg",length=0.526}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
 L["dude guy going on especially after spending five years in your pen"]={{path="chatsounds/autoadd/mad_matrix/dude guy going on especially after spending five years in your pen.ogg",length=3.163}}
