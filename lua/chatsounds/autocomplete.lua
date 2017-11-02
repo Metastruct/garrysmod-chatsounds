@@ -158,9 +158,9 @@ function ac.render(x, y, w, h)
 		local text = string.format("%.3d - %s", id, ac.sounds[ac.found[id]] or "ERROR")
 		local alpha = math.max(math.min(math.sin( math.min(math.max((0.5 + (ac.scroll - id - 0.5) / max_lines), 0), 1) * math.pi) * 255.5, 255), 0)
 
-		ac.color.a, ac.color_highlighted.a, ac.color_shadow.a = alpha, alpha, alpha
-
+		surface.SetAlphaMultiplier(math.min(255, math.max(0, alpha / 255)))
 		chatsounds_DrawPrettyText(text, x + ac.margin, y + ac.margin + offset % 1 * -ac.size + ac.size * (i - 1), ac.font, ac.size, id <= ac.highlighted and 700 or 300, ac.shadow, id == ac.tabbed and ac.color_highlighted or ac.color, ac.color_shadow)
+		surface.SetAlphaMultiplier(1)
 	end
 end
 
@@ -178,7 +178,7 @@ end
 
 hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
-	
+
 	local isupper = false
 	if (#text >= 5) then
 		local byte = string.byte(text[#text])
@@ -186,12 +186,12 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 			isupper = true
 		end
 	end
-	
+
 	local keepCase = function(txt)
 		if isupper and txt then return txt:upper() end
 		return txt
 	end
-	
+
 	local prefix = ""
 	local chatsounds_enable_prefix = GetGlobalBool("chatsounds_enable_prefix")
 	if chatsounds_enable_prefix then
@@ -258,7 +258,7 @@ hook.Add("FinishChat", "chatsounds_autocomplete", function()
 end)
 
 hook.Add("ChatTextChanged", "chatsounds_autocomplete", function(text, lua_tab_change)
-	if not chatsounds_autocomplete:GetBool() then 		
+	if not chatsounds_autocomplete:GetBool() then
 		table.Empty(ac.found)
 		ac.highlighted = 0
 		ac.last_search = ">>>>ERROR<<<"
