@@ -140,12 +140,19 @@ function ac.search(text)
 	ac.trace("search for %q took %.3f seconds: %d matches out of %d candidates", text, ac.elapsed, count, candidates)
 end
 
+local function isnan(x)
+	return x ~= x
+end
 function ac.render(x, y, w, h)
 	--chatsounds.DrawPrettyText(string.format("%d in %.3fs", #ac.found, ac.elapsed or 0), x, y, ac.font, ac.size * 1.5)
 
 	if ac.tabbed then
 		ac.scroll = ac.scroll + ac.scroll_velocity
 		ac.scroll_velocity = (ac.scroll_velocity + (ac.tabbed - ac.scroll) * FrameTime() * 8) * 0.5
+	end
+
+	if isnan(ac.scroll) or isnan(ac.scroll_velocity) then
+		ac.scroll, ac.scroll_velocity = 0, 0
 	end
 
 	local max_lines = math.floor((h - ac.margin * 2) / ac.size)
