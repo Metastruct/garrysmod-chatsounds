@@ -183,6 +183,7 @@ L["triggered"]={{path="chatsounds/autoadd/tenrys/triggered.ogg",length=3.494}}
 L["trust me"]={{path="chatsounds/autoadd/tenrys/trust me.ogg",length=1.051}}
 L["try and shut me up youll fail like the others"]={{path="chatsounds/autoadd/tenrys/try and shut me up youll fail like the others.ogg",length=3.046}}
 L["until double the volume"]={{path="chatsounds/autoadd/tenrys/until double the volume.ogg",length=1.414}}
+L["va"]={{path="chatsounds/autoadd/tenrys/va/1.ogg",length=0.179},{path="chatsounds/autoadd/tenrys/va/2.ogg",length=0.341},{path="chatsounds/autoadd/tenrys/va/3.ogg",length=0.328}}
 L["very good"]={{path="chatsounds/autoadd/tenrys/very good.ogg",length=2.268}}
 L["victory screech"]={{path="chatsounds/autoadd/tenrys/victory screech.ogg",length=9.195}}
 L["we dont need them around to filter and foster their memes any longer"]={{path="chatsounds/autoadd/tenrys/we dont need them around to filter and foster their memes any longer.ogg",length=4.138}}
