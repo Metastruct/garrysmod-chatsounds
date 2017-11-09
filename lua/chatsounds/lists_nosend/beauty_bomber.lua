@@ -58,6 +58,7 @@ L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.900}}
 L["please pass the egg salad"]={{path="chatsounds/autoadd/beauty_bomber/please pass the egg salad.ogg",length=1.600}}
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.324}}
 L["raggle fraggle"]={{path="chatsounds/autoadd/beauty_bomber/raggle fraggle.ogg",length=0.997}}
+L["recorder rape"]={{path="chatsounds/autoadd/beauty_bomber/recorder rape.ogg",length=4.752}}
 L["robofunk"]={{path="chatsounds/autoadd/beauty_bomber/robofunk.ogg",length=23.014}}
 L["robotic yeeaaahhhh"]={{path="chatsounds/autoadd/beauty_bomber/robotic yeeaaahhhh.ogg",length=1.030}}
 L["ronald weasley"]={{path="chatsounds/autoadd/beauty_bomber/ronald weasley.ogg",length=2.000}}
