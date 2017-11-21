@@ -36,7 +36,7 @@ function ac.clean(text)
 	text = text
 		:gsub("æ", "ae"):gsub("ø", "oe"):gsub("å", "aa")
 		:gsub("ä", "ae"):gsub("ö", "oe"):gsub("ü", "ue"):gsub("ß", "ss")
-	return text:lower():gsub("[^%w ]+", ""):gsub("  +", " "):Trim()
+	return text:lower():gsub("[^%w%_%s]+", ""):gsub("%s+", " "):Trim()
 end
 
 function ac.update()
@@ -45,7 +45,9 @@ function ac.update()
 
 	for k1, v1 in pairs(chatsounds.List) do
 		for k2, v2 in pairs(v1) do
-			unique[ac.clean(k2)] = true
+			if v2 ~= true then
+				unique[ac.clean(k2)] = true
+			end
 		end
 	end
 

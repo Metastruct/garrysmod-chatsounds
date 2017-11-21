@@ -710,7 +710,7 @@ chatsounds.Modifiers = {
 		end,
 	},
 }
-c.SKIP = "%.%!%;"
+c.SKIP = "%.%!%;%_"
 local skip_tbl = {}
 for key, value in pairs(c.Modifiers) do
 	for char in value.modifier:gmatch(".") do
@@ -869,7 +869,7 @@ end
 function chatsounds.GetSound(key, return_sounds)
 	if key then
 		for trigger, value in pairs(c.SortedListKeys) do
-			if trigger == key then
+			if trigger == key and value.random ~= true then
 
 				local sounds
 
@@ -1111,7 +1111,7 @@ function chatsounds.GetScriptFromText(text)
 		-- no need to search for words if none are left
 		-- could probably be a lot better with a pattern but I suck (capsadmin) at patterns so fuck that
 
-		if #text:gsub("[_%s]+", "") == 0 then stop = true return end
+		if #text:gsub("%s+", "") == 0 then stop = true return end
 
 		local found = false
 		repeat
@@ -1130,7 +1130,7 @@ function chatsounds.GetScriptFromText(text)
 
 				found = true
 
-				text = text:sub(1, fstart - 1) .. ("_"):rep(key:len() + offset) .. text:sub(fend + offset + 1)
+				text = text:sub(1, fstart - 1) .. (" "):rep(key:len() + offset) .. text:sub(fend + offset + 1)
 				--print(key, text, ({text:gsub("[_%s]+", "")})[1])
 			end
 		until not fstart
