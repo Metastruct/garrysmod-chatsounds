@@ -49,10 +49,9 @@ L["apusalute"]={{path="chatsounds/autoadd/instagib/apusalute.ogg",length=3.068}}
 L["are you threatening me"]={{path="chatsounds/autoadd/instagib/are you threatening me.ogg",length=2.193}}
 L["arg"]={{path="chatsounds/autoadd/instagib/arg.ogg",length=1.199}}
 L["arme"]={{path="chatsounds/autoadd/instagib/arme.ogg",length=1.358}}
-L["arsch"]={{path="chatsounds/autoadd/instagib/arsch.ogg",length=2.698}}
-L["arsch2"]={{path="chatsounds/autoadd/instagib/arsch2.ogg",length=4.493}}
 L["arschgesicht"]={{path="chatsounds/autoadd/instagib/arschgesicht.ogg",length=4.937}}
 L["arschlecken"]={{path="chatsounds/autoadd/instagib/arschlecken.ogg",length=2.159}}
+L["arschloch alarm"]={{path="chatsounds/autoadd/instagib/arschloch alarm.ogg",length=2.698}}
 L["arschloch2"]={{path="chatsounds/autoadd/instagib/arschloch2.ogg",length=1.311}}
 L["arschtritt"]={{path="chatsounds/autoadd/instagib/arschtritt.ogg",length=6.000}}
 L["ashole"]={{path="chatsounds/autoadd/instagib/ashole.ogg",length=2.984}}
@@ -284,6 +283,7 @@ L["drecksack"]={{path="chatsounds/autoadd/instagib/drecksack.ogg",length=3.858}}
 L["dreckschwein"]={{path="chatsounds/autoadd/instagib/dreckschwein.ogg",length=5.249}}
 L["drin"]={{path="chatsounds/autoadd/instagib/drin.ogg",length=3.023}}
 L["dsching"]={{path="chatsounds/autoadd/instagib/dsching.ogg",length=6.870}}
+L["du arsch"]={{path="chatsounds/autoadd/instagib/du arsch.ogg",length=4.493}}
 L["duell"]={{path="chatsounds/autoadd/instagib/duell.ogg",length=3.187}}
 L["dumm"]={{path="chatsounds/autoadd/instagib/dumm.ogg",length=11.023}}
 L["dummdidumm"]={{path="chatsounds/autoadd/instagib/dummdidumm.ogg",length=9.776}}
