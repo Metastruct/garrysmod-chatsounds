@@ -3,6 +3,7 @@ L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh someb
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
 L["am i glad hes frozen in there"]={{path="chatsounds/autoadd/beauty_bomber/am i glad hes frozen in there.ogg",length=9.000}}
+L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
 L["bayonettacontinueno"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinueno.ogg",length=5.240}}
 L["bayonettacontinuenodeath"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinuenodeath.ogg",length=4.585}}
@@ -18,12 +19,15 @@ L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscrea
 L["come inside and lets fuck around"]={{path="chatsounds/autoadd/beauty_bomber/come inside and lets fuck around.ogg",length=2.000}}
 L["curbyourenthusiasm"]={{path="chatsounds/autoadd/beauty_bomber/curbyourenthusiasm.ogg",length=67.477}}
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26.000}}
+L["dont you backsass me"]={{path="chatsounds/autoadd/beauty_bomber/dont you backsass me.ogg",length=1.461}}
 L["fiestatime"]={{path="chatsounds/autoadd/beauty_bomber/fiestatime.ogg",length=35.527}}
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
 L["getsmart"]={{path="chatsounds/autoadd/beauty_bomber/getsmart.ogg",length=21.579}}
+L["gimme that hat"]={{path="chatsounds/autoadd/beauty_bomber/gimme that hat.ogg",length=1.301}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.375}}
+L["i said give it to me"]={{path="chatsounds/autoadd/beauty_bomber/i said give it to me.ogg",length=1.903}}
 L["i wonder where this fat fuck floated in from"]={{path="chatsounds/autoadd/beauty_bomber/i wonder where this fat fuck floated in from.ogg",length=2.800}}
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/beauty_bomber/ill do this with my hands blargharghargh.ogg",length=4.640}}
 L["its an inanimate fucking object"]={{path="chatsounds/autoadd/beauty_bomber/its an inanimate fucking object.ogg",length=2.082}}
@@ -53,9 +57,11 @@ L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",l
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/beauty_bomber/nah i dont really feel like it.ogg",length=2.319}}
 L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.730}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200}}
+L["niiiiiick naaaaaaack the pattys baaaaaack"]={{path="chatsounds/autoadd/beauty_bomber/niiiiiick naaaaaaack the pattys baaaaaack.ogg",length=3.199}}
 L["ominousambience"]={{path="chatsounds/autoadd/beauty_bomber/ominousambience.ogg",length=12.322}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.274}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.361}}
+L["patrickhatrackfight"]={{path="chatsounds/autoadd/beauty_bomber/patrickhatrackfight.ogg",length=2.007}}
 L["penis"]={{path="chatsounds/autoadd/beauty_bomber/penis.ogg",length=0.900}}
 L["please pass the egg salad"]={{path="chatsounds/autoadd/beauty_bomber/please pass the egg salad.ogg",length=1.600}}
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.324}}
