@@ -37,6 +37,7 @@ L["jtwhipcrack"]={{path="chatsounds/autoadd/beauty_bomber/jtwhipcrack.ogg",lengt
 L["kaching"]={{path="chatsounds/autoadd/beauty_bomber/kaching.ogg",length=1.587}}
 L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",length=2.325}}
 L["like maybe five or six right now my dude"]={{path="chatsounds/autoadd/beauty_bomber/like maybe five or six right now my dude.ogg",length=2.499}}
+L["lmtai loop"]={{path="chatsounds/autoadd/beauty_bomber/lmtai loop/1.ogg",length=14.900},{path="chatsounds/autoadd/beauty_bomber/lmtai loop/2.ogg",length=7.464}}
 L["loud succ"]={{path="chatsounds/autoadd/beauty_bomber/loud succ.ogg",length=2.475}}
 L["meme school"]={{path="chatsounds/autoadd/beauty_bomber/meme school.ogg",length=1.067}}
 L["mindblown"]={{path="chatsounds/autoadd/beauty_bomber/mindblown.ogg",length=23.798}}
