@@ -11,7 +11,7 @@ L["its a me mario"]={{path="chatsounds/autoadd/sm64/its a me mario.ogg",length=2
 L["lakitucamera"]={{path="chatsounds/autoadd/sm64/lakitucamera.ogg",length=6.337}}
 L["letsa go"]={{path="chatsounds/autoadd/sm64/letsa go.ogg",length=0.818}}
 L["mariodamage"]={{path="chatsounds/autoadd/sm64/mariodamage.ogg",length=0.645}}
-L["painting"]={{path="chatsounds/autoadd/sm64/painting.ogg",length=3.246}}
+L["panting"]={{path="chatsounds/autoadd/sm64/panting.ogg",length=3.246}}
 L["peachletter"]={{path="chatsounds/autoadd/sm64/peachletter.ogg",length=7.480}}
 L["powerstar"]={{path="chatsounds/autoadd/sm64/powerstar.ogg",length=4.842}}
 L["thank you so much for to playing my game"]={{path="chatsounds/autoadd/sm64/thank you so much for to playing my game.ogg",length=2.507}}
