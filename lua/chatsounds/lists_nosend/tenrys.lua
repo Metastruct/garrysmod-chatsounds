@@ -25,6 +25,7 @@ L["com"]={{path="chatsounds/autoadd/tenrys/com.ogg",length=0.439}}
 L["come on"]={{path="chatsounds/autoadd/tenrys/come on.ogg",length=1.085}}
 L["cough hard"]={{path="chatsounds/autoadd/tenrys/cough hard.ogg",length=4.930}}
 L["crazybus"]={{path="chatsounds/autoadd/tenrys/crazybus.ogg",length=29.986}}
+L["cum insanity"]={{path="chatsounds/autoadd/tenrys/cum insanity.ogg",length=3.291}}
 L["cyka blyad bangbangbang"]={{path="chatsounds/autoadd/tenrys/cyka blyad bangbangbang.ogg",length=1.628}}
 L["die you little shit"]={{path="chatsounds/autoadd/tenrys/die you little shit.ogg",length=1.282}}
 L["die you piece of shit"]={{path="chatsounds/autoadd/tenrys/die you piece of shit.ogg",length=2.170}}
@@ -137,7 +138,7 @@ L["oh no"]={{path="chatsounds/autoadd/tenrys/oh no/1.ogg",length=1.680},{path="c
 L["oh no what have you done"]={{path="chatsounds/autoadd/tenrys/oh no what have you done.ogg",length=1.370}}
 L["oh shit"]={{path="chatsounds/autoadd/tenrys/oh shit.ogg",length=2.078}}
 L["oh whos a good little doggie"]={{path="chatsounds/autoadd/tenrys/oh whos a good little doggie.ogg",length=2.538}}
-L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah.ogg",length=1.125}}
+L["oh yeah"]={{path="chatsounds/autoadd/tenrys/oh yeah/1.ogg",length=1.125},{path="chatsounds/autoadd/tenrys/oh yeah/2.ogg",length=1.492}}
 L["oh youve gotta be kidding me"]={{path="chatsounds/autoadd/tenrys/oh youve gotta be kidding me.ogg",length=2.275}}
 L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.309}}
 L["okaeri onii chan"]={{path="chatsounds/autoadd/tenrys/okaeri onii chan.ogg",length=2.014}}
@@ -237,6 +238,7 @@ L["yes yes yes yes yes"]={{path="chatsounds/autoadd/tenrys/yes yes yes yes yes.o
 L["you a rightie or a leftie"]={{path="chatsounds/autoadd/tenrys/you a rightie or a leftie.ogg",length=2.114}}
 L["you cant fight nature jack"]={{path="chatsounds/autoadd/tenrys/you cant fight nature jack.ogg",length=2.230}}
 L["you cant hurt me jack"]={{path="chatsounds/autoadd/tenrys/you cant hurt me jack.ogg",length=2.047}}
+L["you got a problem with that you can suck my diiiiiiiick"]={{path="chatsounds/autoadd/tenrys/you got a problem with that you can suck my diiiiiiiick.ogg",length=6.188}}
 L["you leave me no choice"]={{path="chatsounds/autoadd/tenrys/you leave me no choice.ogg",length=1.618}}
 L["you little fuck"]={{path="chatsounds/autoadd/tenrys/you little fuck.ogg",length=1.540}}
 L["you picked the wrong house fool distorted"]={{path="chatsounds/autoadd/tenrys/you picked the wrong house fool distorted.ogg",length=2.305}}
