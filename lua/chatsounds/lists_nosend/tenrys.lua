@@ -135,6 +135,7 @@ L["oh fuck"]={{path="chatsounds/autoadd/tenrys/oh fuck.ogg",length=0.697}}
 L["oh god"]={{path="chatsounds/autoadd/tenrys/oh god/1.ogg",length=2.310},{path="chatsounds/autoadd/tenrys/oh god/2.ogg",length=1.768}}
 L["oh my god"]={{path="chatsounds/autoadd/tenrys/oh my god/1.ogg",length=1.613},{path="chatsounds/autoadd/tenrys/oh my god/2.ogg",length=2.047},{path="chatsounds/autoadd/tenrys/oh my god/3.ogg",length=1.618},{path="chatsounds/autoadd/tenrys/oh my god/4.ogg",length=1.724}}
 L["oh no"]={{path="chatsounds/autoadd/tenrys/oh no/1.ogg",length=1.680},{path="chatsounds/autoadd/tenrys/oh no/2.ogg",length=1.216},{path="chatsounds/autoadd/tenrys/oh no/3.ogg",length=2.036},{path="chatsounds/autoadd/tenrys/oh no/4.ogg",length=1.537}}
+L["oh no oniichan its going too deeeeeeeeeep"]={{path="chatsounds/autoadd/tenrys/oh no oniichan its going too deeeeeeeeeep.ogg",length=5.202}}
 L["oh no what have you done"]={{path="chatsounds/autoadd/tenrys/oh no what have you done.ogg",length=1.370}}
 L["oh shit"]={{path="chatsounds/autoadd/tenrys/oh shit.ogg",length=2.078}}
 L["oh whos a good little doggie"]={{path="chatsounds/autoadd/tenrys/oh whos a good little doggie.ogg",length=2.538}}
