@@ -157,6 +157,7 @@ L["rerorerorero"]={{path="chatsounds/autoadd/tenrys/rerorerorero.ogg",length=6.2
 L["rest in pieces"]={{path="chatsounds/autoadd/tenrys/rest in pieces.ogg",length=1.818}}
 L["robloxbass"]={{path="chatsounds/autoadd/tenrys/robloxbass.ogg",length=0.936}}
 L["robloxbutton"]={{path="chatsounds/autoadd/tenrys/robloxbutton.ogg",length=0.330}}
+L["robloxddeeaatthh"]={{path="chatsounds/autoadd/tenrys/robloxddeeaatthh.ogg",length=5.027}}
 L["robloxdeath"]={{path="chatsounds/autoadd/tenrys/robloxdeath.ogg",length=0.342}}
 L["robloxhit"]={{path="chatsounds/autoadd/tenrys/robloxhit.ogg",length=0.784}}
 L["robloxsplat"]={{path="chatsounds/autoadd/tenrys/robloxsplat.ogg",length=0.263}}
