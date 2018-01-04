@@ -22,6 +22,7 @@ L["huh huh huh huh huh we was robbed"]={{path="chatsounds/autoadd/mad_matrix/huh
 L["i dont want bobs rotten fucking head"]={{path="chatsounds/autoadd/mad_matrix/i dont want bobs rotten fucking head.ogg",length=4.385}}
 L["iagogibberish"]={{path="chatsounds/autoadd/mad_matrix/iagogibberish/1.ogg",length=1.380},{path="chatsounds/autoadd/mad_matrix/iagogibberish/2.ogg",length=2.105}}
 L["if you smell"]={{path="chatsounds/autoadd/mad_matrix/if you smell.ogg",length=1.940}}
+L["iiiits soup"]={{path="chatsounds/autoadd/mad_matrix/iiiits soup.ogg",length=1.991}}
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
 L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",length=2.697}}
 L["just gotta get right out of here"]={{path="chatsounds/autoadd/mad_matrix/just gotta get right out of here.ogg",length=4.494}}
