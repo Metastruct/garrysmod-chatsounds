@@ -60,6 +60,8 @@ L["snivyshortyawn"]={{path="chatsounds/autoadd/mad_matrix/snivyshortyawn.ogg",le
 L["snivytalk"]={{path="chatsounds/autoadd/mad_matrix/snivytalk/1.ogg",length=0.783},{path="chatsounds/autoadd/mad_matrix/snivytalk/2.ogg",length=0.431}}
 L["snivytired"]={{path="chatsounds/autoadd/mad_matrix/snivytired/1.ogg",length=1.503},{path="chatsounds/autoadd/mad_matrix/snivytired/2.ogg",length=2.172},{path="chatsounds/autoadd/mad_matrix/snivytired/3.ogg",length=1.453}}
 L["snivytwister"]={{path="chatsounds/autoadd/mad_matrix/snivytwister.ogg",length=1.683}}
+L["somebody toucha my spaghet"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet.ogg",length=5.219}}
+L["somebody toucha my spaghet distorted"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet distorted.ogg",length=12.581}}
 L["srpelonoises"]={{path="chatsounds/autoadd/mad_matrix/srpelonoises/1.ogg",length=1.276},{path="chatsounds/autoadd/mad_matrix/srpelonoises/2.ogg",length=1.082}}
 L["tablesmack"]={{path="chatsounds/autoadd/mad_matrix/tablesmack/1.ogg",length=0.917},{path="chatsounds/autoadd/mad_matrix/tablesmack/2.ogg",length=0.751}}
 L["tell me that theres a baseball in this thing"]={{path="chatsounds/autoadd/mad_matrix/tell me that theres a baseball in this thing.ogg",length=1.912}}
