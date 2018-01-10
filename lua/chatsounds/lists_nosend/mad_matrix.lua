@@ -7,12 +7,14 @@ L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_m
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["cunt"]={{path="chatsounds/autoadd/mad_matrix/cunt/1.ogg",length=0.746},{path="chatsounds/autoadd/mad_matrix/cunt/2.ogg",length=0.526}}
+L["doorsounds"]={{path="chatsounds/autoadd/mad_matrix/doorsounds/1.ogg",length=0.782},{path="chatsounds/autoadd/mad_matrix/doorsounds/2.ogg",length=0.446}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
 L["dude guy going on especially after spending five years in your pen"]={{path="chatsounds/autoadd/mad_matrix/dude guy going on especially after spending five years in your pen.ogg",length=3.163}}
 L["ebanyj v tvoj rot blyat"]={{path="chatsounds/autoadd/mad_matrix/ebanyj v tvoj rot blyat.ogg",length=2.044}}
 L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
 L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough of the emails distorted.ogg",length=1.652}}
+L["eto boobs"]={{path="chatsounds/autoadd/mad_matrix/eto boobs.ogg",length=0.887}}
 L["even let you have dudleys second baby"]={{path="chatsounds/autoadd/mad_matrix/even let you have dudleys second baby.ogg",length=1.872}}
 L["explosion hot hot hot hot hot"]={{path="chatsounds/autoadd/mad_matrix/explosion hot hot hot hot hot.ogg",length=2.968}}
 L["fucking muffins"]={{path="chatsounds/autoadd/mad_matrix/fucking muffins.ogg",length=1.113}}
