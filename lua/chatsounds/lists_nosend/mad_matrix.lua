@@ -5,9 +5,11 @@ L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you 
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
+L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["cunt"]={{path="chatsounds/autoadd/mad_matrix/cunt/1.ogg",length=0.746},{path="chatsounds/autoadd/mad_matrix/cunt/2.ogg",length=0.526}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
 L["dude guy going on especially after spending five years in your pen"]={{path="chatsounds/autoadd/mad_matrix/dude guy going on especially after spending five years in your pen.ogg",length=3.163}}
+L["ebanyj v tvoj rot blyat"]={{path="chatsounds/autoadd/mad_matrix/ebanyj v tvoj rot blyat.ogg",length=2.044}}
 L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
 L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough of the emails distorted.ogg",length=1.652}}
@@ -19,7 +21,7 @@ L["hes got a soos"]={{path="chatsounds/autoadd/mad_matrix/hes got a soos.ogg",le
 L["hey all you suckers out there"]={{path="chatsounds/autoadd/mad_matrix/hey all you suckers out there.ogg",length=1.232}}
 L["hot distorted"]={{path="chatsounds/autoadd/mad_matrix/hot distorted.ogg",length=0.941}}
 L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}
-L["huehue"]={{path="chatsounds/autoadd/mad_matrix/huehue.ogg",length=0.434}}
+L["huehue"]={{path="chatsounds/autoadd/mad_matrix/huehue.ogg",length=0.537}}
 L["huh huh huh huh huh we was robbed"]={{path="chatsounds/autoadd/mad_matrix/huh huh huh huh huh we was robbed.ogg",length=2.815}}
 L["i dont want bobs rotten fucking head"]={{path="chatsounds/autoadd/mad_matrix/i dont want bobs rotten fucking head.ogg",length=4.385}}
 L["iagogibberish"]={{path="chatsounds/autoadd/mad_matrix/iagogibberish/1.ogg",length=1.380},{path="chatsounds/autoadd/mad_matrix/iagogibberish/2.ogg",length=2.105}}
@@ -30,6 +32,7 @@ L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its
 L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",length=2.697}}
 L["just gotta get right out of here"]={{path="chatsounds/autoadd/mad_matrix/just gotta get right out of here.ogg",length=4.494}}
 L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_matrix/kakogo djavola ti zdes shumish distorted.ogg",length=2.546}}
+L["knockrape"]={{path="chatsounds/autoadd/mad_matrix/knockrape.ogg",length=10.679}}
 L["laggyharmonica"]={{path="chatsounds/autoadd/mad_matrix/laggyharmonica.ogg",length=1.498}}
 L["madmatrixdeathloud"]={{path="chatsounds/autoadd/mad_matrix/madmatrixdeathloud.ogg",length=1.401}}
 L["madmatrixlaugh"]={{path="chatsounds/autoadd/mad_matrix/madmatrixlaugh.ogg",length=6.566}}
@@ -42,6 +45,9 @@ L["nikogda"]={{path="chatsounds/autoadd/mad_matrix/nikogda.ogg",length=0.676}}
 L["nikogda distorted"]={{path="chatsounds/autoadd/mad_matrix/nikogda distorted.ogg",length=5.113}}
 L["nikogda ne budesh sosat cock svoih potlanih druzej"]={{path="chatsounds/autoadd/mad_matrix/nikogda ne budesh sosat cock svoih potlanih druzej.ogg",length=3.577}}
 L["nothing is working distorted"]={{path="chatsounds/autoadd/mad_matrix/nothing is working distorted.ogg",length=1.797}}
+L["nu kak tam v egypte distorted"]={{path="chatsounds/autoadd/mad_matrix/nu kak tam v egypte distorted.ogg",length=0.967}}
+L["o"]={{path="chatsounds/autoadd/mad_matrix/o.ogg",length=0.136}}
+L["o distorted"]={{path="chatsounds/autoadd/mad_matrix/o distorted.ogg",length=0.202}}
 L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
 L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/autoadd/mad_matrix/oh dont mind that its just my nephew hes very disturbed.ogg",length=3.486}}
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
@@ -52,6 +58,7 @@ L["rule number one i cant kill anybody ayayayaya"]={{path="chatsounds/autoadd/ma
 L["rule number three i cant make anybody fall in love with the dead"]={{path="chatsounds/autoadd/mad_matrix/rule number three i cant make anybody fall in love with the dead.ogg",length=4.124}}
 L["rule number two i cant kill anybody else aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/rule number two i cant kill anybody else aaaaaa.ogg",length=3.132}}
 L["shit"]={{path="chatsounds/autoadd/mad_matrix/shit.ogg",length=0.552}}
+L["shitshitshitshitshit"]={{path="chatsounds/autoadd/mad_matrix/shitshitshitshitshit.ogg",length=2.146}}
 L["somebody toucha my spaghet"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet.ogg",length=5.219}}
 L["somebody toucha my spaghet distorted"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet distorted.ogg",length=12.581}}
 L["srpelonoises"]={{path="chatsounds/autoadd/mad_matrix/srpelonoises/1.ogg",length=1.276},{path="chatsounds/autoadd/mad_matrix/srpelonoises/2.ogg",length=1.082}}
@@ -65,6 +72,7 @@ L["ti ubil etu dvercu"]={{path="chatsounds/autoadd/mad_matrix/ti ubil etu dvercu
 L["ti ubil golfista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil golfista.ogg",length=1.043}}
 L["ti ubil japonskogo onanista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil japonskogo onanista.ogg",length=1.504}}
 L["vernonscreamdistorted"]={{path="chatsounds/autoadd/mad_matrix/vernonscreamdistorted.ogg",length=4.121}}
+L["vstavai"]={{path="chatsounds/autoadd/mad_matrix/vstavai.ogg",length=0.723}}
 L["weve raised you since you were a bedroom"]={{path="chatsounds/autoadd/mad_matrix/weve raised you since you were a bedroom.ogg",length=1.451}}
 L["wheeeeee"]={{path="chatsounds/autoadd/mad_matrix/wheeeeee.ogg",length=2.133}}
 L["whoever has the gogo makes the ruru"]={{path="chatsounds/autoadd/mad_matrix/whoever has the gogo makes the ruru.ogg",length=2.080}}
