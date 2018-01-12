@@ -10,4 +10,5 @@ L["u wot"]={{path="chatsounds/autoadd/vin/u wot.ogg",length=0.844}}
 L["wait wait what"]={{path="chatsounds/autoadd/vin/wait wait what.ogg",length=1.242}}
 L["what the actual fuck"]={{path="chatsounds/autoadd/vin/what the actual fuck.ogg",length=1.762}}
 L["yeeeeeeeee"]={{path="chatsounds/autoadd/vin/yeeeeeeeee.ogg",length=1.310}}
+L["you dont even care do you"]={{path="chatsounds/autoadd/vin/you dont even care do you.ogg",length=1.950}}
 c.EndList()

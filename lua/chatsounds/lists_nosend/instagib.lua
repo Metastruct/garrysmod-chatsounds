@@ -177,7 +177,7 @@ L["byep"]={{path="chatsounds/autoadd/instagib/byep.ogg",length=7.784}}
 L["camp"]={{path="chatsounds/autoadd/instagib/camp.ogg",length=3.396}}
 L["campa"]={{path="chatsounds/autoadd/instagib/campa.ogg",length=6.942}}
 L["camper"]={{path="chatsounds/autoadd/instagib/camper.ogg",length=3.346}}
-L["cant touch this"]={{path="chatsounds/autoadd/instagib/cant touch this.ogg",length=4.989}}
+L["cant touch this"]={{path="chatsounds/autoadd/instagib/cant touch this.ogg",length=4.452}}
 L["canthitme"]={{path="chatsounds/autoadd/instagib/canthitme.ogg",length=1.000}}
 L["champion"]={{path="chatsounds/autoadd/instagib/champion.ogg",length=15.924}}
 L["champions"]={{path="chatsounds/autoadd/instagib/champions.ogg",length=3.753}}
