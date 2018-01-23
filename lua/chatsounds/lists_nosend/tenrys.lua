@@ -133,6 +133,7 @@ L["of course that would have to include you"]={{path="chatsounds/autoadd/tenrys/
 L["ogh"]={{path="chatsounds/autoadd/tenrys/ogh.ogg",length=0.479}}
 L["oh fuck"]={{path="chatsounds/autoadd/tenrys/oh fuck.ogg",length=0.697}}
 L["oh god"]={{path="chatsounds/autoadd/tenrys/oh god/1.ogg",length=2.310},{path="chatsounds/autoadd/tenrys/oh god/2.ogg",length=1.768}}
+L["oh my"]={{path="chatsounds/autoadd/tenrys/oh my.ogg",length=1.697}}
 L["oh my god"]={{path="chatsounds/autoadd/tenrys/oh my god/1.ogg",length=1.613},{path="chatsounds/autoadd/tenrys/oh my god/2.ogg",length=2.047},{path="chatsounds/autoadd/tenrys/oh my god/3.ogg",length=1.618},{path="chatsounds/autoadd/tenrys/oh my god/4.ogg",length=1.724}}
 L["oh no"]={{path="chatsounds/autoadd/tenrys/oh no/1.ogg",length=1.680},{path="chatsounds/autoadd/tenrys/oh no/2.ogg",length=1.216},{path="chatsounds/autoadd/tenrys/oh no/3.ogg",length=2.036},{path="chatsounds/autoadd/tenrys/oh no/4.ogg",length=1.537}}
 L["oh no oniichan its going too deeeeeeeeeep"]={{path="chatsounds/autoadd/tenrys/oh no oniichan its going too deeeeeeeeeep.ogg",length=5.202}}
