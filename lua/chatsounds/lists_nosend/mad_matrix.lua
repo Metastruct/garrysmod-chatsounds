@@ -7,6 +7,7 @@ L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_m
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["cunt"]={{path="chatsounds/autoadd/mad_matrix/cunt/1.ogg",length=0.746},{path="chatsounds/autoadd/mad_matrix/cunt/2.ogg",length=0.526}}
+L["doorsmack loudscream"]={{path="chatsounds/autoadd/mad_matrix/doorsmack loudscream.ogg",length=2.059}}
 L["doorsounds"]={{path="chatsounds/autoadd/mad_matrix/doorsounds/1.ogg",length=0.782},{path="chatsounds/autoadd/mad_matrix/doorsounds/2.ogg",length=0.446}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
 L["dude guy going on especially after spending five years in your pen"]={{path="chatsounds/autoadd/mad_matrix/dude guy going on especially after spending five years in your pen.ogg",length=3.163}}
@@ -65,7 +66,7 @@ L["shit"]={{path="chatsounds/autoadd/mad_matrix/shit.ogg",length=0.552}}
 L["shitshitshitshitshit"]={{path="chatsounds/autoadd/mad_matrix/shitshitshitshitshit.ogg",length=2.146}}
 L["somebody toucha my spaghet"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet.ogg",length=5.219}}
 L["somebody toucha my spaghet distorted"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet distorted.ogg",length=12.581}}
-L["srpelonoises"]={{path="chatsounds/autoadd/mad_matrix/srpelonoises/1.ogg",length=1.276},{path="chatsounds/autoadd/mad_matrix/srpelonoises/2.ogg",length=1.082}}
+L["srpelonoises"]={{path="chatsounds/autoadd/mad_matrix/srpelonoises/1.ogg",length=1.276},{path="chatsounds/autoadd/mad_matrix/srpelonoises/2.ogg",length=1.082},{path="chatsounds/autoadd/mad_matrix/srpelonoises/3.ogg",length=1.256},{path="chatsounds/autoadd/mad_matrix/srpelonoises/4.ogg",length=1.001}}
 L["strangenoises"]={{path="chatsounds/autoadd/mad_matrix/strangenoises.ogg",length=3.776}}
 L["tablesmack"]={{path="chatsounds/autoadd/mad_matrix/tablesmack/1.ogg",length=0.917},{path="chatsounds/autoadd/mad_matrix/tablesmack/2.ogg",length=0.751}}
 L["tell me that theres a baseball in this thing"]={{path="chatsounds/autoadd/mad_matrix/tell me that theres a baseball in this thing.ogg",length=1.912}}
