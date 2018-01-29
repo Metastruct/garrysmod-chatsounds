@@ -38,6 +38,7 @@ L["just gotta get right out of here"]={{path="chatsounds/autoadd/mad_matrix/just
 L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_matrix/kakogo djavola ti zdes shumish distorted.ogg",length=2.546}}
 L["knockrape"]={{path="chatsounds/autoadd/mad_matrix/knockrape.ogg",length=10.679}}
 L["laggyharmonica"]={{path="chatsounds/autoadd/mad_matrix/laggyharmonica.ogg",length=1.498}}
+L["lo loud"]={{path="chatsounds/autoadd/mad_matrix/lo loud.ogg",length=1.594}}
 L["madmatrixdeathloud"]={{path="chatsounds/autoadd/mad_matrix/madmatrixdeathloud.ogg",length=1.401}}
 L["madmatrixlaugh"]={{path="chatsounds/autoadd/mad_matrix/madmatrixlaugh.ogg",length=6.566}}
 L["madmatrixnoise"]={{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/1.ogg",length=0.279},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/2.ogg",length=1.674},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/3.ogg",length=0.667},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/4.ogg",length=0.503},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/5.ogg",length=0.569}}
@@ -56,12 +57,14 @@ L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
 L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/autoadd/mad_matrix/oh dont mind that its just my nephew hes very disturbed.ogg",length=3.486}}
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
+L["pelo its pelo pelo"]={{path="chatsounds/autoadd/mad_matrix/pelo its pelo pelo.ogg",length=2.373}}
 L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length=9.979}}
 L["preduprizhdau u menya samij krupnij cock"]={{path="chatsounds/autoadd/mad_matrix/preduprizhdau u menya samij krupnij cock.ogg",length=2.498}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
 L["rule number one i cant kill anybody ayayayaya"]={{path="chatsounds/autoadd/mad_matrix/rule number one i cant kill anybody ayayayaya.ogg",length=3.882}}
 L["rule number three i cant make anybody fall in love with the dead"]={{path="chatsounds/autoadd/mad_matrix/rule number three i cant make anybody fall in love with the dead.ogg",length=4.124}}
 L["rule number two i cant kill anybody else aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/rule number two i cant kill anybody else aaaaaa.ogg",length=3.132}}
+L["screaming shut up"]={{path="chatsounds/autoadd/mad_matrix/screaming shut up.ogg",length=5.990}}
 L["shit"]={{path="chatsounds/autoadd/mad_matrix/shit.ogg",length=0.552}}
 L["shitshitshitshitshit"]={{path="chatsounds/autoadd/mad_matrix/shitshitshitshitshit.ogg",length=2.146}}
 L["somebody toucha my spaghet"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet.ogg",length=5.219}}
