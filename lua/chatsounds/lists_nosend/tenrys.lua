@@ -233,6 +233,7 @@ L["va"]={{path="chatsounds/autoadd/tenrys/va/1.ogg",length=0.179},{path="chatsou
 L["very good"]={{path="chatsounds/autoadd/tenrys/very good.ogg",length=2.268}}
 L["very nice"]={{path="chatsounds/autoadd/tenrys/very nice.ogg",length=1.161}}
 L["victory screech"]={{path="chatsounds/autoadd/tenrys/victory screech.ogg",length=9.195}}
+L["wake up"]={{path="chatsounds/autoadd/tenrys/wake up.ogg",length=0.446}}
 L["we dont need them around to filter and foster their memes any longer"]={{path="chatsounds/autoadd/tenrys/we dont need them around to filter and foster their memes any longer.ogg",length=4.138}}
 L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome to susans cooking school.ogg",length=1.672}}
 L["well seymour i made it"]={{path="chatsounds/autoadd/tenrys/well seymour i made it.ogg",length=1.590}}
