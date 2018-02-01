@@ -22,9 +22,12 @@ L["i aint havin that shit"]={{path="chatsounds/autoadd/jontron/i aint havin that
 L["i appreciate it"]={{path="chatsounds/autoadd/jontron/i appreciate it.ogg",length=1.276}}
 L["i cant do it jon"]={{path="chatsounds/autoadd/jontron/i cant do it jon.ogg",length=1.233}}
 L["i cant fucking do it"]={{path="chatsounds/autoadd/jontron/i cant fucking do it.ogg",length=1.407}}
+L["i did a pun"]={{path="chatsounds/autoadd/jontron/i did a pun.ogg",length=0.933}}
 L["i dont like where this is going"]={{path="chatsounds/autoadd/jontron/i dont like where this is going.ogg",length=1.507}}
 L["i love you no im fucking done im fucking done this is bullshit"]={{path="chatsounds/autoadd/jontron/i love you no im fucking done im fucking done this is bullshit.ogg",length=9.087}}
 L["i promise ill never do drugs again dad"]={{path="chatsounds/autoadd/jontron/i promise ill never do drugs again dad.ogg",length=2.682}}
+L["i quit"]={{path="chatsounds/autoadd/jontron/i quit/1.ogg",length=0.821},{path="chatsounds/autoadd/jontron/i quit/2.ogg",length=0.425}}
+L["im goin im goin"]={{path="chatsounds/autoadd/jontron/im goin im goin.ogg",length=2.358}}
 L["im just playing with you it doesnt do jack shit why is it here"]={{path="chatsounds/autoadd/jontron/im just playing with you it doesnt do jack shit why is it here.ogg",length=3.298}}
 L["im superman i believe i can fly"]={{path="chatsounds/autoadd/jontron/im superman i believe i can fly.ogg",length=8.024}}
 L["is that a fn poop rat"]={{path="chatsounds/autoadd/jontron/is that a fn poop rat.ogg",length=1.078}}

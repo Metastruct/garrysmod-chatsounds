@@ -12,6 +12,7 @@ L["fuuuck"]={{path="chatsounds/autoadd/tourettes/fuuuck.ogg",length=1.332}}
 L["get out shit"]={{path="chatsounds/autoadd/tourettes/get out shit.ogg",length=2.194}}
 L["god damnit"]={{path="chatsounds/autoadd/tourettes/god damnit.ogg",length=0.940}}
 L["i bought your colgate toothpaste"]={{path="chatsounds/autoadd/tourettes/i bought your colgate toothpaste.ogg",length=8.214}}
+L["i dont give a shit"]={{path="chatsounds/autoadd/tourettes/i dont give a shit.ogg",length=1.487}}
 L["leme tell you about a porcupines balls"]={{path="chatsounds/autoadd/tourettes/leme tell you about a porcupines balls.ogg",length=7.467}}
 L["oh fuck"]={{path="chatsounds/autoadd/tourettes/oh fuck.ogg",length=1.437}}
 L["oh fuck damnit"]={{path="chatsounds/autoadd/tourettes/oh fuck damnit.ogg",length=1.907}}

@@ -27,6 +27,7 @@ L["i cant kill you but i wont have you standing in our way"]={{path="chatsounds/
 L["if stopping our energy production is what you want"]={{path="chatsounds/autoadd/doom/if stopping our energy production is what you want.ogg",length=16.555}}
 L["if stopping our energy production is what you want then you need only to destroy this last filter and argent energy will no longer exist in this solar system we will be back at square one"]={{path="chatsounds/autoadd/doom/if stopping our energy production is what you want.ogg",length=16.555}}
 L["if youre going to win youll need this"]={{path="chatsounds/autoadd/doom/if youre going to win youll need this.ogg",length=3.393}}
+L["im confident youll find something useful there as well"]={{path="chatsounds/autoadd/doom/im confident youll find something useful there as well.ogg",length=3.834}}
 L["kill your enemies and harvest their souls"]={{path="chatsounds/autoadd/doom/kill your enemies and harvest their souls.ogg",length=3.207}}
 L["lost soul scream"]={{path="chatsounds/autoadd/doom/lost soul scream.ogg",length=6.613}}
 L["pay attention im not teaching you this again"]={{path="chatsounds/autoadd/doom/pay attention im not teaching you this again.ogg",length=3.349}}
@@ -53,5 +54,6 @@ L["what you are destroying is more valuable than you can possibly imagine"]={{pa
 L["what you are destroying is more valuable than you can possibly imagine it is a perfect and unlimited energy resource"]={{path="chatsounds/autoadd/doom/what you are destroying is more valuable than you can possibly imagine.ogg",length=11.477}}
 L["you think the only way is to kill them all"]={{path="chatsounds/autoadd/doom/you think the only way is to kill them all.ogg",length=17.365}}
 L["you think the only way is to kill them all leave nothing behind and you may be right but we cant just shut it all down without argent energy it will be worse i dont expect you to agree"]={{path="chatsounds/autoadd/doom/you think the only way is to kill them all.ogg",length=17.365}}
+L["your affinity for guns is apparent"]={{path="chatsounds/autoadd/doom/your affinity for guns is apparent.ogg",length=2.993}}
 L["youre going to have to remove it"]={{path="chatsounds/autoadd/doom/youre going to have to remove it.ogg",length=5.355}}
 c.EndList()

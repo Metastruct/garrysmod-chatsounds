@@ -6,6 +6,7 @@ L["5"]={{path="chatsounds/autoadd/techbot/5.ogg",length=0.873}}
 L["5 4 3 1 offblast"]={{path="chatsounds/autoadd/techbot/5 4 3 1 offblast.ogg",length=4.861}}
 L["a genius"]={{path="chatsounds/autoadd/techbot/a genius.ogg",length=0.630}}
 L["aaa aaaahhh"]={{path="chatsounds/autoadd/techbot/aaa aaaahhh.ogg",length=2.866}}
+L["aaaaaa"]={{path="chatsounds/autoadd/techbot/aaaaaa.ogg",length=2.473}}
 L["abcdefjii"]={{path="chatsounds/autoadd/techbot/abcdefjii.ogg",length=2.016}}
 L["able"]={{path="chatsounds/autoadd/techbot/able.ogg",length=0.762}}
 L["ahgarbulagabah"]={{path="chatsounds/autoadd/techbot/ahgarbulagabah.ogg",length=0.549}}
@@ -79,6 +80,7 @@ L["oh my"]={{path="chatsounds/autoadd/techbot/oh my.ogg",length=1.393}}
 L["oh yeah"]={{path="chatsounds/autoadd/techbot/oh yeah/1.ogg",length=3.018},{path="chatsounds/autoadd/techbot/oh yeah/2.ogg",length=2.038}}
 L["ok google"]={{path="chatsounds/autoadd/techbot/ok google/marker 01.ogg",length=0.656},{path="chatsounds/autoadd/techbot/ok google/marker 02.ogg",length=0.803},{path="chatsounds/autoadd/techbot/ok google/marker 03.ogg",length=0.784},{path="chatsounds/autoadd/techbot/ok google/marker 04.ogg",length=0.836}}
 L["omg"]={{path="chatsounds/autoadd/techbot/omg.ogg",length=2.918}}
+L["oof"]={{path="chatsounds/autoadd/techbot/oof.ogg",length=0.575}}
 L["oooooooooooooooooooooooooooooo"]={{path="chatsounds/autoadd/techbot/oooooooooooooooooooooooooooooo.ogg",length=7.059}}
 L["opqrstusb"]={{path="chatsounds/autoadd/techbot/opqrstusb.ogg",length=2.004}}
 L["pepeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"]={{path="chatsounds/autoadd/techbot/pepeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ogg",length=4.024}}

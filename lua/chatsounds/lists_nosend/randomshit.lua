@@ -1,5 +1,5 @@
 c.StartList("randomshit")
-L["10 10 10 10 100 100 best game best game"]={{path="chatsounds/autoadd/randomshit/10 10 10 10 100 100 best game best game.ogg",length=3.170}}
+L["10 out of 10 10 out of 10 100 out of 100 best game best game"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.170}}
 L["a meemkit cannot be reused"]={{path="chatsounds/autoadd/randomshit/a meemkit cannot be reused.ogg",length=2.420}}
 L["aid"]={{path="chatsounds/autoadd/randomshit/aid.ogg",length=0.352}}
 L["and eat shit"]={{path="chatsounds/autoadd/randomshit/and eat shit.ogg",length=0.760}}

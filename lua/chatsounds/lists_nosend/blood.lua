@@ -10,15 +10,13 @@ L["aahdaayaah aaah aaaaah"]={{path="chatsounds/autoadd/blood/aahdaayaah aaah aaa
 L["crudux cruo"]={{path="chatsounds/autoadd/blood/cultspt4.ogg",length=1.121}}
 L["cruo crunatus durbe"]={{path="chatsounds/autoadd/blood/cruo crunatus durbe.ogg",length=2.269}}
 L["cruo stragarana malachtose"]={{path="chatsounds/autoadd/blood/cruo stragarana malachtose.ogg",length=3.468}}
-L["cultdie"]={{path="chatsounds/autoadd/blood/cultdie/cultdie1.ogg",length=1.256},{path="chatsounds/autoadd/blood/cultdie/cultdie2.ogg",length=0.856},{path="chatsounds/autoadd/blood/cultdie/cultdie3.ogg",length=0.561},{path="chatsounds/autoadd/blood/cultdie/cultdie4.ogg",length=1.544}}
-L["cultfir"]={{path="chatsounds/autoadd/blood/cultfir/cultfir1.ogg",length=3.203},{path="chatsounds/autoadd/blood/cultfir/cultfir2.ogg",length=4.620},{path="chatsounds/autoadd/blood/cultfir/cultfir3.ogg",length=3.621}}
-L["cultglo"]={{path="chatsounds/autoadd/blood/cultglo/cultglo1.ogg",length=3.468},{path="chatsounds/autoadd/blood/cultglo/cultglo2.ogg",length=3.214},{path="chatsounds/autoadd/blood/cultglo/cultglo3.ogg",length=2.277},{path="chatsounds/autoadd/blood/cultglo/cultglo4.ogg",length=2.269}}
-L["cultrom"]={{path="chatsounds/autoadd/blood/cultrom/cultrom1.ogg",length=2.561},{path="chatsounds/autoadd/blood/cultrom/cultrom2.ogg",length=1.983},{path="chatsounds/autoadd/blood/cultrom/cultrom3.ogg",length=1.835},{path="chatsounds/autoadd/blood/cultrom/cultrom4.ogg",length=1.121}}
-L["cultrom3"]={{path="chatsounds/autoadd/blood/cultrom3.ogg",length=1.835}}
-L["cultspt"]={{path="chatsounds/autoadd/blood/cultspt/cultspt1.ogg",length=2.561},{path="chatsounds/autoadd/blood/cultspt/cultspt2.ogg",length=1.983},{path="chatsounds/autoadd/blood/cultspt/cultspt3.ogg",length=2.253},{path="chatsounds/autoadd/blood/cultspt/cultspt4.ogg",length=1.121},{path="chatsounds/autoadd/blood/cultspt/vorox esco marana.ogg",length=1.207}}
-L["cultspt3"]={{path="chatsounds/autoadd/blood/cultspt3.ogg",length=2.253}}
+L["cultdie"]={{path="chatsounds/autoadd/blood/aaaaaaaaaaaah.ogg",length=1.544},{path="chatsounds/autoadd/blood/aaaaaaaaaah.ogg",length=1.256},{path="chatsounds/autoadd/blood/aaaaaaaah.ogg",length=0.856},{path="chatsounds/autoadd/blood/aaaaaah.ogg",length=0.561}}
+L["cultfir"]={{path="chatsounds/autoadd/blood/aah aah aah oaah oaaahhhhh.ogg",length=3.621},{path="chatsounds/autoadd/blood/aahdaayaah aaah aaaaah.ogg",length=3.203},{path="chatsounds/autoadd/blood/it burns it burns.ogg",length=4.620}}
+L["cultglo"]={{path="chatsounds/autoadd/blood/cruo crunatus durbe.ogg",length=2.269},{path="chatsounds/autoadd/blood/cruo stragarana malachtose.ogg",length=3.468},{path="chatsounds/autoadd/blood/in marana domusbhaava crunatus.ogg",length=3.214},{path="chatsounds/autoadd/blood/peroshay bibox malax.ogg",length=2.277}}
+L["cultrom"]={{path="chatsounds/autoadd/blood/cultrom3.ogg",length=1.835},{path="chatsounds/autoadd/blood/cultspt1.ogg",length=2.561},{path="chatsounds/autoadd/blood/cultspt2.ogg",length=1.983},{path="chatsounds/autoadd/blood/cultspt4.ogg",length=1.121}}
+L["cultspt"]={{path="chatsounds/autoadd/blood/cultspt1.ogg",length=2.561},{path="chatsounds/autoadd/blood/cultspt2.ogg",length=1.983},{path="chatsounds/autoadd/blood/cultspt3.ogg",length=2.253},{path="chatsounds/autoadd/blood/cultspt4.ogg",length=1.121},{path="chatsounds/autoadd/blood/vorox esco marana.ogg",length=1.207}}
 L["dargh"]={{path="chatsounds/autoadd/blood/cultpan1.ogg",length=0.383}}
-L["geroshay cruo"]={{path="chatsounds/autoadd/blood/geroshay cruo/cultrom3.ogg",length=1.835},{path="chatsounds/autoadd/blood/geroshay cruo/cultspt3.ogg",length=2.253}}
+L["geroshay cruo"]={{path="chatsounds/autoadd/blood/cultrom3.ogg",length=1.835},{path="chatsounds/autoadd/blood/cultspt3.ogg",length=2.253}}
 L["huargh"]={{path="chatsounds/autoadd/blood/cultpan3.ogg",length=0.406}}
 L["i live again"]={{path="chatsounds/autoadd/blood/i live again.ogg",length=2.656}}
 L["in marana domusbhaava crunatus"]={{path="chatsounds/autoadd/blood/in marana domusbhaava crunatus.ogg",length=3.214}}

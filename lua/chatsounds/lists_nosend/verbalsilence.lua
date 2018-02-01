@@ -42,7 +42,7 @@ L["come on show me"]={{path="chatsounds/autoadd/verbalsilence/come on show me.og
 L["come on you youre going to have to sit in the dunce chair"]={{path="chatsounds/autoadd/verbalsilence/come on you youre going to have to sit in the dunce chair.ogg",length=3.002}}
 L["congratulations bitch"]={{path="chatsounds/autoadd/verbalsilence/congratulations bitch.ogg",length=1.954}}
 L["cool guuy"]={{path="chatsounds/autoadd/verbalsilence/cool guuy.ogg",length=2.505}}
-L["da fuck"]={{path="chatsounds/autoadd/verbalsilence/da fuck.ogg",length=0.544}}
+L["da fuck"]={{path="chatsounds/autoadd/verbalsilence/the fuck.ogg",length=0.544}}
 L["daddy would you like some sausage"]={{path="chatsounds/autoadd/verbalsilence/daddy would you like some sausage.ogg",length=8.556}}
 L["damn son whered you find this"]={{path="chatsounds/autoadd/verbalsilence/damn son whered you find this.ogg",length=2.534}}
 L["dats sexy"]={{path="chatsounds/autoadd/verbalsilence/dats sexy.ogg",length=1.316}}
@@ -174,7 +174,7 @@ L["oh you wonderful bitch"]={{path="chatsounds/autoadd/verbalsilence/oh you wond
 L["omg she is so annoying"]={{path="chatsounds/autoadd/verbalsilence/omg she is so annoying.ogg",length=2.047}}
 L["omg who the hell cares"]={{path="chatsounds/autoadd/verbalsilence/omg who the hell cares.ogg",length=3.709}}
 L["papali papali suka"]={{path="chatsounds/autoadd/verbalsilence/papali papali suka.ogg",length=2.220}}
-L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/pedobear song.ogg",length=19.574}}
+L["pedobear song"]={{path="chatsounds/autoadd/verbalsilence/i love little girls.ogg",length=19.574}}
 L["pizza do a pizza"]={{path="chatsounds/autoadd/verbalsilence/pizza do a pizza.ogg",length=3.292}}
 L["pokemon"]={{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 1.ogg",length=1.041},{path="chatsounds/autoadd/verbalsilence/pokemon/pokemon 2.ogg",length=1.177}}
 L["pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa"]={{path="chatsounds/autoadd/verbalsilence/pokemon with the poke and the mon and thgniinasgycomesoutanddhemkeshsfceflloffahhahaa.ogg",length=9.357}}

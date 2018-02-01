@@ -21,9 +21,9 @@ Chat sounds system for Garry's Mod (with extra sounds)
   - To see if you installed it correctly, you should now have ```garrysmod/addons/chatsounds/lua/autorun/chatsounds.lua``` file.
 
 ## How to add sounds
- - Ask people who have already added sounds
+ - Ask people who have already added sounds to add them for you
  - We accept pull requests
- - Remember to run preprocessor to update the cache files
+ - Running the preprocessor is not mandatory anymore - if you don't run it, lists will be auto-generated about 3 minutes after you commit/push the changes
 
 ## Want to preview or link sounds over the Web?
  - Check out the Web version [here](http://cs.3kv.in/). (updates every 30 mins.)

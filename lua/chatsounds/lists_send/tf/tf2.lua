@@ -1113,11 +1113,7 @@ L["im gonna blow the insides of your head all over four counties"]={{path="vo/ta
 L["im gonna carve you a new cakehole"]={{path="vo/sniper_meleedare04.mp3",length=2.1786394119263}}
 L["im gonna cave your little ghost skull in magic man"]={{path="vo/scout_sf12_seeking11.mp3",length=2.4555102040816}}
 L["im gonna cut a smile into ya"]={{path="vo/sniper_meleedare09.mp3",length=1.8666440248489}}
-L["im gonna headbut ya"]={{path="vo/taunts/scout_taunts05.mp3",length=3.0534241199493}}
-L["im gonna headbut you"]={{path="vo/taunts/scout_taunts05.mp3",length=3.0534241199493}}
-L["im gonna headbutt ya"]={{path="vo/taunts/scout_taunts05.mp3",length=3.0534241199493}}
 L["im gonna headbutt ya im gonna headbutt ya im gonna headbutt ya"]={{path="vo/taunts/scout_taunts05.mp3",length=3.0534241199493}}
-L["im gonna headbutt you"]={{path="vo/taunts/scout_taunts05.mp3",length=3.0534241199493}}
 L["im gonna lay you out"]={{path="vo/taunts/engineer_taunts10.mp3",length=1.3380498886108}}
 L["im gonna mail my boot to the kaiser with your ass around it"]={{path="vo/soldier_dominationmedic06.mp3",length=3.3541722297668}}
 L["im gonna put one right between your eyes you punter"]={{path="vo/taunts/sniper_taunts33.mp3",length=2.4729251861572}}
@@ -1138,10 +1134,7 @@ L["im on fire now"]={{path="vo/taunts/pyro_taunts04.mp3",length=1.3119274377823}
 L["im ready kill them all also i must kill you all"]={{path="vo/medic_item_secop_round_start03.mp3",length=4.6497959183673}}
 L["im ready my friends kill all your friends oh good idea"]={{path="vo/medic_item_secop_round_start02.mp3",length=4.2579591836735}}
 L["im rich im rich im filthy bloody stinking rich"]={{path="vo/sniper_mvm_loot_godlike02.mp3",length=4.5975510204082}}
-L["im runnin in circles around ya"]={{path="vo/taunts/scout_taunts01.mp3",length=1.5557370185852}}
-L["im runnin in circles around you"]={{path="vo/taunts/scout_taunts01.mp3",length=1.5557370185852}}
 L["im running circles around ya"]={{path="vo/taunts/scout_taunts01.mp3",length=1.5557370185852}}
-L["im running in circles around you"]={{path="vo/taunts/scout_taunts01.mp3",length=1.5557370185852}}
 L["im running out of places to put holes in you"]={{path="vo/sniper_domination04.mp3",length=2.5077551020408}}
 L["im scared you maggots"]={{path="vo/soldier_sf12_scared01.mp3",length=1.8808163265306}}
 L["im tired of looking"]={{path="vo/soldier_sf12_seeking05.mp3",length=1.5412244897959}}
@@ -1559,7 +1552,6 @@ L["oh me mother tilly"]={{path="vo/demoman_negativevocalization01.mp3",length=1.
 L["oh my god"]={{path="vo/engineer_mvm_loot_godlike01.mp3",length=1.5673469387755}}
 L["oh my god oh my god oh my god"]={{path="vo/scout_mvm_loot_rare08.mp3",length=1.9591836734694}}
 L["oh my god youve been shot did you get a look at the handsome rogue who did it"]={{path="vo/sniper_revenge10.mp3",length=5.0416326530612}}
-L["oh my god youve been shot did you get a look at the hansome rogue who did it"]={{path="vo/sniper_revenge10.mp3",length=5.0416326530612}}
 L["oh my holy freaking stupid crap"]={{path="vo/scout_mvm_loot_rare07.mp3",length=3.4481632653061}}
 L["oh no"]={{path="vo/heavy_negativevocalization02.mp3",length=1.8227664232254},{path="vo/announcer_sd_monkeynaut_end_crash04.mp3",length=6.4},{path="vo/announcer_sd_monkeynaut_end_crash01.mp3",length=2.3510204081633}}
 L["oh no gentlemen this never happened"]={{path="vo/announcer_sd_monkeynaut_end_crash02.mp3",length=4.7804081632653}}
@@ -1653,6 +1645,8 @@ L["paper obfuscates rock"]={{path="vo/spy_rpspaperwin01.mp3",length=1.8024489795
 L["paper smothers rock"]={{path="vo/spy_rpspaperwin03.mp3",length=1.8808163265306}}
 L["papers please"]={{path="vo/medic_autocappedintelligence02.mp3",length=0.92589569091797}}
 L["papow"]={{path="vo/soldier_kaboomalts03.mp3",length=1.2658503055573}}
+L["paraopen"]={{path="items/para_open.wav",length=0.80000001192093}}
+L["paraclose"]={{path="items/para_close.wav",length=0.53333336114883}}
 L["pardon me"]={{path="vo/spy_specialcompleted06.mp3",length=0.55437642335892}}
 L["peekabo"]={{path="vo/taunts/spy_taunts06.mp3",length=0.62693876028061}}
 L["peekaboo"]={{path="vo/taunts/spy_taunts06.mp3",length=0.62693876028061}}

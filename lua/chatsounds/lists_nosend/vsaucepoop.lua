@@ -22,8 +22,6 @@ L["vsauce overload"]={{path="chatsounds/autoadd/vsaucepoop/vsauce overload.ogg",
 L["vsauce singularity"]={{path="chatsounds/autoadd/vsaucepoop/vsauce singularity.ogg",length=1.266}}
 L["while the english and the rest of the world suck dicks"]={{path="chatsounds/autoadd/vsaucepoop/while the english and the rest of the world suck dicks.ogg",length=3.216}}
 L["why do americans suck cock"]={{path="chatsounds/autoadd/vsaucepoop/why do americans suck cock.ogg",length=2.577}}
-L["wovevow"]={{path="chatsounds/autoadd/vsaucepoop/wovevow.ogg",length=0.594}}
-L["wovevow2"]={{path="chatsounds/autoadd/vsaucepoop/wovevow2.ogg",length=0.594}}
-L["wovevow3"]={{path="chatsounds/autoadd/vsaucepoop/wovevow3.ogg",length=0.639}}
+L["wovevow"]={{path="chatsounds/autoadd/vsaucepoop/wovevow/wovevow.ogg",length=0.594},{path="chatsounds/autoadd/vsaucepoop/wovevow/wovevow2.ogg",length=0.594},{path="chatsounds/autoadd/vsaucepoop/wovevow/wovevow3.ogg",length=0.639}}
 L["wwoovveevvooww"]={{path="chatsounds/autoadd/vsaucepoop/wwoovveevvooww.ogg",length=1.087}}
 c.EndList()

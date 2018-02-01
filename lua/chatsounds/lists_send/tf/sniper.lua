@@ -424,24 +424,19 @@ L["to the cart you wankers"]={{path="vo/sniper_cartstaycloseoffensesoft01.mp3",l
 L["to the left"]={{path="vo/sniper_headleft03.mp3",length=0.67628117913832}}
 L["to the right"]={{path="vo/sniper_headright03.mp3",length=0.59791383219955}}
 L["too slow medicine woman"]={{path="vo/sniper_dominationmedic04.mp3",length=1.8426757369615}}
-L["too slow medicinewoman"]={{path="vo/sniper_dominationmedic04.mp3",length=1.8426756858826}}
 L["very very nice"]={{path="vo/sniper_mvm_loot_rare07.mp3",length=3.0563265306122}}
 L["wave goodbye to yer head wanker"]={{path="vo/sniper_specialcompleted37.mp3",length=1.5412244897959},{path="vo/sniper_specialcompleted15.mp3",length=1.5673469387755}}
 L["wave goodbye to your head wanker"]={{path="vo/sniper_specialcompleted15.mp3",length=1.5673469305038}}
 L["we can get to the island go"]={{path="vo/sniper_sf13_midnight05.mp3",length=1.854693877551}}
 L["we gave em a bloody drubbing"]={{path="vo/sniper_cheers06.mp3",length=2.1246258503401}}
-L["we gave em a bloody drubin"]={{path="vo/sniper_cheers06.mp3",length=2.1246259212494}}
 L["well happy australia day to me"]={{path="vo/sniper_mvm_loot_common04.mp3",length=2.4555102040816}}
 L["well ill be stuffed"]={{path="vo/sniper_award10.mp3",length=1.3839682340622}}
 L["well that was a real bloody rooting"]={{path="vo/sniper_jeers05.mp3",length=2.6238548752834}}
-L["well that was a real bloody routin"]={{path="vo/sniper_jeers05.mp3",length=2.6238548755646}}
 L["well thats nice"]={{path="vo/sniper_mvm_loot_common06.mp3",length=1.8808163265306}}
 L["were not givin it back"]={{path="vo/sniper_autocappedcontrolpoint03.mp3",length=1.3641723356009}}
 L["were not giving it back"]={{path="vo/sniper_autocappedcontrolpoint03.mp3",length=1.3641723394394}}
 L["what goes around comes around you snotty little nance"]={{path="vo/sniper_revenge03.mp3",length=3.5526530612245}}
-L["what goes around comes around you snotty little nants"]={{path="vo/sniper_revenge03.mp3",length=3.5526530612245}}
 L["what happened"]={{path="vo/sniper_mvm_resurrect02.mp3",length=0.705306122449}}
-L["what s up doc hehheh"]={{path="vo/sniper_dominationmedic01.mp3",length=1.9226757369615}}
 L["what the bloody hell just happened"]={{path="vo/sniper_mvm_resurrect01.mp3",length=1.985306122449}}
 L["whats up doc laughs"]={{path="vo/sniper_dominationmedic01.mp3",length=1.9226757287979}}
 L["where did i get you that time the liver the kidney im loosing track"]={{path="vo/sniper_domination15.mp3",length=3.7355102040816}}
@@ -458,9 +453,7 @@ L["yea"]={{path="vo/sniper_yes01.mp3",length=0.3657142857143}}
 L["yeah"]={{path="vo/sniper_cheers01.mp3",length=0.98684807256236}}
 L["yeah that seems about right"]={{path="vo/sniper_award05.mp3",length=1.1506348848343}}
 L["you are a bloody disgrace"]={{path="vo/sniper_revenge18.mp3",length=5.3028571428571}}
-L["you are a creepy mute little bugger aint ya"]={{path="vo/sniper_dominationpyro01.mp3",length=2.717346906662}}
 L["you are a creepy mute little bugger aintcha"]={{path="vo/sniper_dominationpyro01.mp3",length=2.7173469387755}}
-L["you are inventin loads a new ways ta get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.1920181405896}}
 L["you are inventin loads of new ways to get killed by me"]={{path="vo/sniper_dominationengineer06.mp3",length=4.192018032074}}
 L["you best keep lyin down"]={{path="vo/sniper_specialcompleted29.mp3",length=1.3467574119568}}
 L["you best keep lying down"]={{path="vo/sniper_specialcompleted29.mp3",length=1.3467573696145},{path="vo/sniper_specialcompleted07.mp3",length=1.5934693877551}}

@@ -5,7 +5,7 @@ L["4"]={{path="chatsounds/autoadd/markorepairs/4.ogg",length=0.345}}
 L["6000"]={{path="chatsounds/autoadd/markorepairs/6000.ogg",length=1.049}}
 L["9"]={{path="chatsounds/autoadd/markorepairs/9.ogg",length=0.694}}
 L["aah"]={{path="chatsounds/autoadd/markorepairs/aah.ogg",length=0.309}}
-L["and"]={{path="chatsounds/autoadd/markorepairs/and/and.ogg",length=0.781},{path="chatsounds/autoadd/markorepairs/and/and1.ogg",length=0.566},{path="chatsounds/autoadd/markorepairs/and/and2.ogg",length=0.781},{path="chatsounds/autoadd/markorepairs/and/and3.ogg",length=0.566}}
+L["and"]={{path="chatsounds/autoadd/markorepairs/and/and.ogg",length=0.781},{path="chatsounds/autoadd/markorepairs/and/and1.ogg",length=0.566}}
 L["and milk"]={{path="chatsounds/autoadd/markorepairs/and milk.ogg",length=1.387}}
 L["and now i"]={{path="chatsounds/autoadd/markorepairs/and now i.ogg",length=1.501}}
 L["and what is that haheheh"]={{path="chatsounds/autoadd/markorepairs/and what is that haheheh.ogg",length=3.232}}

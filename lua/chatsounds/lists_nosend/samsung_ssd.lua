@@ -13,8 +13,7 @@ L["its annoying and its just a waste of time"]={{path="chatsounds/autoadd/samsun
 L["its so easy to use look at what ive done i feel like an expert"]={{path="chatsounds/autoadd/samsung_ssd/its so easy to use look at what ive done i feel like an expert.ogg",length=8.349}}
 L["its so thin"]={{path="chatsounds/autoadd/samsung_ssd/its so thin.ogg",length=1.640}}
 L["ive heard of it"]={{path="chatsounds/autoadd/samsung_ssd/ive heard of it.ogg",length=1.221}}
-L["jtechsfx"]={{path="chatsounds/autoadd/samsung_ssd/jtechsfx.ogg",length=3.552}}
-L["jtechsfx2"]={{path="chatsounds/autoadd/samsung_ssd/jtechsfx2.ogg",length=3.593}}
+L["jtechsfx"]={{path="chatsounds/autoadd/samsung_ssd/jtechsfx/jtechsfx.ogg",length=3.552},{path="chatsounds/autoadd/samsung_ssd/jtechsfx/jtechsfx2.ogg",length=3.593}}
 L["more importantly it starts up faster"]={{path="chatsounds/autoadd/samsung_ssd/more importantly it starts up faster.ogg",length=4.086}}
 L["my computer can be very slow when i have several programs running"]={{path="chatsounds/autoadd/samsung_ssd/my computer can be very slow when i have several programs running.ogg",length=3.471}}
 L["okay"]={{path="chatsounds/autoadd/samsung_ssd/okay.ogg",length=1.012}}

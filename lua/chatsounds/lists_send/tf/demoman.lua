@@ -10,7 +10,6 @@ L["ahh"]={{path="vo/demoman_painsharp06.mp3",length=0.42303854875283}}
 L["ahh thats the stuff"]={{path="vo/demoman_positivevocalization04.mp3",length=1.5905668735504}}
 L["ahhyhas the way to do it"]={{path="vo/demoman_battlecry06.mp3",length=2.7167346477509}}
 L["all ya dandies prancing about with your heads full of eyeballs"]={{path="vo/taunts/demoman_taunts01.mp3",length=5.4799092970522}}
-L["and that s what ye git fer toochin that"]={{path="vo/demoman_specialcompleted01.mp3",length=3.0185941043084}}
 L["and thats what you get for touchin that"]={{path="vo/demoman_specialcompleted01.mp3",length=3.0185940265656}}
 L["aw theres a new angel in heaven in hell"]={{path="vo/demoman_dominationheavy04.mp3",length=4.2712697982788}}
 L["awww theres a new angel in heaven in hell"]={{path="vo/demoman_dominationheavy04.mp3",length=4.2712698412698}}
@@ -134,32 +133,23 @@ L["head right"]={{path="vo/demoman_headright01.mp3",length=0.63709750566893}}
 L["help"]={{path="vo/demoman_helpme01.mp3",length=0.74739229024943}}
 L["help me"]={{path="vo/demoman_helpme02.mp3",length=0.91718820861678}}
 L["help me capture this bloody thing"]={{path="vo/demoman_helpmecapture02.mp3",length=2.2349206349206}}
-L["hey private haircut i mighta taken a wee bit too much off yer head"]={{path="vo/demoman_dominationsoldier03.mp3",length=5.11820861678}}
 L["hey private haircut i mightve taken a bit too much off your head"]={{path="vo/demoman_dominationsoldier03.mp3",length=5.1182084083557}}
 L["hit it doc"]={{path="vo/demoman_activatecharge01.mp3",length=0.6443537414966}}
 L["how is that doing no harm working out for ya then"]={{path="vo/demoman_dominationmedic02.mp3",length=4.4697504043579}}
 L["hows that doin no harm workin out for ya then"]={{path="vo/demoman_dominationmedic02.mp3",length=4.4697505668934}}
 L["hows that feel ya blockhead"]={{path="vo/demoman_specialcompleted04.mp3",length=2.4787301587302}}
-L["hows that feel you blockhead"]={{path="vo/demoman_specialcompleted04.mp3",length=2.4787302017212}}
-L["hssssss"]={{path="vo/demoman_jeers02.mp3",length=1.3902947845805}}
 L["i almost joined their bloody team"]={{path="vo/demoman_jeers10.mp3",length=2.7399546485261}}
 L["i cant hold em off alone here"]={{path="vo/demoman_helpmedefend01.mp3",length=2.8386394557823}}
 L["i did what i could"]={{path="vo/demoman_jeers05.mp3",length=1.7763265306122}}
-L["i didnt need yah help you know"]={{path="vo/demoman_specialcompleted-assistedkill02.mp3",length=1.85179138322}}
 L["i didnt need your help you know"]={{path="vo/demoman_specialcompleted-assistedkill02.mp3",length=1.8517913818359}}
 L["i dominate ya sawbones"]={{path="vo/demoman_dominationmedic04.mp3",length=2.5837188208617}}
 L["i dominate you sawbones"]={{path="vo/demoman_dominationmedic04.mp3",length=2.5837187767029}}
 L["i dont think they saw that one comin"]={{path="vo/demoman_cheers06.mp3",length=2.5425850340136}}
-L["i dont think they saw that one coming"]={{path="vo/demoman_cheers06.mp3",length=2.5425851345062}}
-L["i feel like every bone in me body is broke"]={{path="vo/demoman_jeers04.mp3",length=3.4249432086945}}
 L["i feel like every bone in me bodys broke"]={{path="vo/demoman_jeers04.mp3",length=3.4249433106576}}
-L["i had ma good eye on ya the whool time"]={{path="vo/demoman_specialcompleted09.mp3",length=2.9199092970522}}
 L["i had me good eye on you the whole time"]={{path="vo/demoman_specialcompleted09.mp3",length=2.9199092388153}}
 L["i hate you campers everybody bloody hates you"]={{path="vo/demoman_dominationsniper03.mp3",length=4.923514739229}}
 L["i hope i didnt scare you with my face to face man fightin"]={{path="vo/demoman_dominationspy03.mp3",length=3.9164172335601}}
-L["i hope i didnt scare you with my facetoface man fighting"]={{path="vo/demoman_dominationspy03.mp3",length=3.9164171218872}}
 L["i love every single one of ya not you"]={{path="vo/demoman_cheers02.mp3",length=5.1083900226757}}
-L["i need some help holdin em off"]={{path="vo/demoman_helpmedefend02.mp3",length=2.1072108843537}}
 L["i need some help holdin them off"]={{path="vo/demoman_helpmedefend02.mp3",length=2.1072108745575}}
 L["if i wasnt the man i was id kiss ya"]={{path="vo/demoman_cheers07.mp3",length=3.8312925170068}}
 L["if you huntin trouble lad you found it"]={{path="vo/demoman_dominationengineer06.mp3",length=3.2131292819977}}
@@ -173,7 +163,7 @@ L["im burnin"]={{path="vo/demoman_autoonfire02.mp3",length=1.3293424036281}}
 L["im drunk you dont have an excuse"]={{path="vo/demoman_jeers03.mp3",length=3.6223129251701}}
 L["im going to strangle you with me bare hands"]={{path="vo/taunts/demoman_taunts14.mp3",length=4.5278911564626}}
 L["im gonna be all over ya like shingles"]={{path="vo/taunts/demoman_taunts06.mp3",length=3.8312925170068}}
-L["im gonna blast ya into thin gruel"]={{path="vo/taunts/demoman_taunts09.mp3",length=3.5990929705215}}
+L["im goin ta blast ya into thin gruel"]={{path="vo/taunts/demoman_taunts09.mp3",length=3.5990929705215}}
 L["im gonna stick me thumbs in yer eyes and hang on til yer dead"]={{path="vo/taunts/demoman_taunts03.mp3",length=4.191201814059}}
 L["imagine if i hadnt been drunk"]={{path="vo/demoman_cheers03.mp3",length=3.4713832199546}}
 L["imagine if id hadnt been drunk hehheh ahhehheh"]={{path="vo/demoman_cheers03.mp3",length=3.4713833332062}}
@@ -182,7 +172,6 @@ L["incoming"]={{path="vo/demoman_incoming03.mp3",length=1.1319727891156},{path="
 L["it is the dominatening"]={{path="vo/demoman_dominationdemoman03.mp3",length=2.8789115646259}}
 L["it is the dominationing"]={{path="vo/demoman_dominationdemoman03.mp3",length=2.8789114952087}}
 L["its a fine thing lads"]={{path="vo/demoman_cheers08.mp3",length=2.1884807256236}}
-L["its lads like you give war bad a name"]={{path="vo/demoman_dominationsniper04.mp3",length=3.3958503401361}}
 L["its lads like you that give war a bad name"]={{path="vo/demoman_dominationsniper04.mp3",length=3.3958504199982}}
 L["its on its on like snoring noise wha"]={{path="vo/demoman_gibberish11.mp3",length=5.6775736961451}}
 L["its rollin back"]={{path="vo/demoman_cartgoingbackdefense03.mp3",length=2.4032653061224}}
@@ -197,13 +186,12 @@ L["lads get to the cart"]={{path="vo/demoman_cartstaycloseoffense03.mp3",length=
 L["let that be a bloody lesson to ya"]={{path="vo/demoman_specialcompleted08.mp3",length=2.693514739229}}
 L["lets do it"]={{path="vo/demoman_battlecry05.mp3",length=2.339410430839}}
 L["lets send that old man to hell"]={{path="vo/demoman_sf13_round_start02.mp3",length=3.709387755102}}
-L["little too much caber tossin pie down yer own throat eh chubby"]={{path="vo/demoman_dominationheavy05.mp3",length=4.3852154195011}}
-L["little too much cabertossing pie down your own throat eh chubby"]={{path="vo/demoman_dominationheavy05.mp3",length=4.3852152824402}}
+L["little too much caber tossing pie down your own throat eh chubby"]={{path="vo/demoman_dominationheavy05.mp3",length=4.3852152824402}}
 L["long laugh"]={{path="vo/demoman_laughlong01.mp3",length=5.2244897959184}}
 L["lot of good that soldier training did ya im drunk"]={{path="vo/demoman_dominationsoldier05.mp3",length=4.5135145187378}}
 L["lotta good that soldier trainin did ya im drunk"]={{path="vo/demoman_dominationsoldier05.mp3",length=4.513514739229}}
 L["medic"]={{path="vo/demoman_medic03.mp3",length=1.7182766439909},{path="vo/demoman_medic02.mp3",length=0.90557825565338},{path="vo/demoman_medic01.mp3",length=0.91718822717667}}
-L["merasmus i got your nickle give me back my i"]={{path="vo/demoman_sf12_seeking06.mp3",length=5.9036734693878}}
+L["merasmus i got your nickle give me back me eye"]={{path="vo/demoman_sf12_seeking06.mp3",length=5.9036734693878}}
 L["merasmus weve got unfinished business you an i and by god ill see it settled"]={{path="vo/demoman_sf12_seeking03.mp3",length=9.9004081632653}}
 L["mind the cart lads"]={{path="vo/demoman_cartgoingbackoffense03.mp3",length=2.0636734693878}}
 L["mother of mercy now that is a bloody domination"]={{path="vo/demoman_dominationsoldier04.mp3",length=4.2419501133787}}
@@ -217,12 +205,10 @@ L["nah"]={{path="vo/demoman_no02.mp3",length=0.64580498866213}}
 L["need a dispenser here"]={{path="vo/demoman_needdispenser01.mp3",length=1.7879365079365}}
 L["need a sentry here"]={{path="vo/demoman_needsentry01.mp3",length=1.5092970521542}}
 L["need a teleporter here"]={{path="vo/demoman_needteleporter01.mp3",length=2.0259410430839}}
-L["next time youll bloody ask before ya stand on my point"]={{path="vo/demoman_specialcompleted06.mp3",length=3.9241723356009}}
 L["next time youll bloody ask before you stand on my point"]={{path="vo/demoman_specialcompleted06.mp3",length=3.9241724014282}}
 L["nice shot man"]={{path="vo/demoman_niceshot03.mp3",length=1.1232653061224}}
 L["no"]={{path="vo/demoman_no01.mp3",length=0.54421768707483}}
 L["not one of yas gonna survive dis"]={{path="vo/taunts/demoman_taunts11.mp3",length=3.2043537414966}}
-L["now its our flippin point"]={{path="vo/demoman_autocappedcontrolpoint03.mp3",length=3.0069841269841}}
 L["now its our flippin point hehheh"]={{path="vo/demoman_autocappedcontrolpoint03.mp3",length=3.0069842338562}}
 L["oh brilliant"]={{path="vo/demoman_mvm_loot_common01.mp3",length=1.0971428571429}}
 L["oh every single one of ya not you"]={{path="vo/demoman_cheers02.mp3",length=5.1083898544312}}
@@ -236,7 +222,6 @@ L["ohh theyre gonna find all a ya dead in an alley wit cats lickin ya"]={{path="
 L["ohhh im gonna beat ya so hard youll have a twitch"]={{path="vo/taunts/demoman_taunts05.mp3",length=3.7268027210884}}
 L["ohhh im gonna liquefy ya"]={{path="vo/taunts/demoman_taunts13.mp3",length=3.8777324263039}}
 L["ohhh ive really hit rock bottom"]={{path="vo/demoman_jeers06.mp3",length=3.4713832199546}}
-L["ohhh ive really hit rockbottom"]={{path="vo/demoman_jeers06.mp3",length=3.4713833332062}}
 L["ooh that smarts"]={{path="vo/demoman_painsharp07.mp3",length=1.4193197278912}}
 L["paincriticaldeath"]={{path="vo/demoman_paincrticialdeath05.mp3",length=2.429387755102},{path="vo/demoman_paincrticialdeath04.mp3",length=1.6979591836735},{path="vo/demoman_paincrticialdeath03.mp3",length=1.9069387755102},{path="vo/demoman_paincrticialdeath02.mp3",length=2.1942857142857},{path="vo/demoman_paincrticialdeath01.mp3",length=2.1420408163265}}
 L["painsevere"]={{path="vo/demoman_painsevere04.mp3",length=0.8881632653061},{path="vo/demoman_painsevere03.mp3",length=0.8881632653061},{path="vo/demoman_painsevere02.mp3",length=0.8620408163265}}
@@ -260,7 +245,6 @@ L["spy"]={{path="vo/demoman_cloakedspy03.mp3",length=1.0100680272109}}
 L["spy round here"]={{path="vo/demoman_cloakedspy02.mp3",length=1.3873922902494}}
 L["stand on tha point ya git"]={{path="vo/demoman_standonthepoint02.mp3",length=2.3045804988662}}
 L["stand on the bloody point ya halfwit"]={{path="vo/demoman_standonthepoint01.mp3",length=2.9837641723356}}
-L["stand on the bloody point you halfwit"]={{path="vo/demoman_standonthepoint01.mp3",length=2.9837641716003}}
 L["stand on the point you git"]={{path="vo/demoman_standonthepoint02.mp3",length=2.304580450058}}
 L["stay close to that bloody cart"]={{path="vo/demoman_cartstaycloseoffense02.mp3",length=2.429387755102}}
 L["stop that bloody cart"]={{path="vo/demoman_cartgoingforwarddefense01.mp3",length=2.3510204081633}}
@@ -283,7 +267,6 @@ L["that sniper is a bloody spy"]={{path="vo/demoman_cloakedspyidentify08.mp3",le
 L["that snipers a bloody spy"]={{path="vo/demoman_cloakedspyidentify08.mp3",length=2.7167346938776}}
 L["that soldiers a bloody spy"]={{path="vo/demoman_cloakedspyidentify02.mp3",length=2.472925170068}}
 L["that spys a bloody traitor"]={{path="vo/demoman_cloakedspyidentify05.mp3",length=2.5483899116516}}
-L["that spys bloody traitor"]={{path="vo/demoman_cloakedspyidentify05.mp3",length=2.5483900226757}}
 L["that was my point you were standin on"]={{path="vo/demoman_specialcompleted05.mp3",length=3.4597733020782}}
 L["that wasnt supposed ta happen"]={{path="vo/demoman_autodejectedtie01.mp3",length=1.8343764172336}}
 L["that wasnt supposed to happen"]={{path="vo/demoman_autodejectedtie01.mp3",length=1.8343764543533}}
@@ -308,7 +291,6 @@ L["theyre gonna bury whats left a ya in a soup can"]={{path="vo/taunts/demoman_t
 L["theyre gonna have ta glue ya back together in hell"]={{path="vo/taunts/demoman_taunts08.mp3",length=4.3073015873016}}
 L["this demoman needs an eye wizard ha yours will do just fine"]={{path="vo/demoman_sf12_seeking09.mp3",length=8.0195918367347}}
 L["thus begins my thousand year reign of blood"]={{path="vo/demoman_dominationdemoman01.mp3",length=5.1357140541077}}
-L["time ta get blootered"]={{path="vo/demoman_autocappedintelligence02.mp3",length=2.1072108843537}}
 L["time to get blottered"]={{path="vo/demoman_autocappedintelligence02.mp3",length=2.1072108745575}}
 L["to the left"]={{path="vo/demoman_headleft03.mp3",length=0.68789115646259}}
 L["to the right"]={{path="vo/demoman_headright03.mp3",length=0.66176870748299}}
@@ -317,13 +299,9 @@ L["we did it"]={{path="vo/demoman_cheers01.mp3",length=2.0897959183673}}
 L["we did it hehheh hahah heagh"]={{path="vo/demoman_cheers04.mp3",length=4.2492518424988}}
 L["we did it hehhhh"]={{path="vo/demoman_cheers04.mp3",length=4.2492517006803}}
 L["we did it mate"]={{path="vo/demoman_specialcompleted-assistedkill01.mp3",length=1.3409523809524}}
-L["we did it mates"]={{path="vo/demoman_specialcompleted-assistedkill01.mp3",length=1.3409523963928}}
 L["welcome to the dominatening"]={{path="vo/demoman_dominationdemoman04.mp3",length=3.117641723356}}
-L["welcome to the dominationing"]={{path="vo/demoman_dominationdemoman04.mp3",length=3.1176416873932}}
-L["well allright"]={{path="vo/demoman_positivevocalization02.mp3",length=1.898231292517}}
 L["well alright"]={{path="vo/demoman_positivevocalization02.mp3",length=1.8982312679291}}
 L["were a sorry bunch a losers"]={{path="vo/demoman_jeers11.mp3",length=3.3436734693878}}
-L["were a sorry bunch of losers"]={{path="vo/demoman_jeers11.mp3",length=3.3436734676361}}
 L["what did i miss"]={{path="vo/demoman_mvm_resurrect02.mp3",length=1.0448979591837}}
 L["wizard ya turn me own eye against me an by god ill kill ya for it"]={{path="vo/demoman_sf12_seeking07.mp3",length=7.4971428571429}}
 L["wuhbluhbluhbluh"]={{path="vo/demoman_mvm_resurrect09.mp3",length=1.2538775510204}}
@@ -340,7 +318,6 @@ L["yer so bloody tiny yer like a toy sized version of a man"]={{path="vo/demoman
 L["yes"]={{path="vo/demoman_yes03.mp3",length=0.65596371882086}}
 L["you appear to have trodden on a mine"]={{path="vo/demoman_specialcompleted03.mp3",length=2.8676643371582}}
 L["you brought shame on your people you mumbling devil"]={{path="vo/demoman_dominationpyro01.mp3",length=3.8795690536499}}
-L["you come wide again with me boy and ill stick that wrench right up your arse"]={{path="vo/demoman_dominationengineer04.mp3",length=4.239682674408}}
 L["you come wide at me again boy ill stick that wrench up yer arse"]={{path="vo/demoman_dominationengineer04.mp3",length=4.2396825396825}}
 L["youre a backpokin snake and by god youll die like one"]={{path="vo/demoman_dominationspy02.mp3",length=4.5405216217041}}
 L["youre doin good lad"]={{path="vo/demoman_goodjob02.mp3",length=1.677641749382}}

@@ -55,6 +55,7 @@ L["kurwa"]={{path="chatsounds/autoadd/misc/kurwa.ogg",length=1.282}}
 L["ldeath"]={{path="chatsounds/autoadd/misc/ldeath.ogg",length=1.007}}
 L["littlegirls"]={{path="chatsounds/autoadd/misc/littlegirls.ogg",length=4.965}}
 L["loud nigra"]={{path="chatsounds/autoadd/misc/loud nigra.ogg",length=13.858}}
+L["lul"]={{path="chatsounds/autoadd/misc/lul.ogg",length=0.358}}
 L["mama"]={{path="chatsounds/autoadd/misc/mama.ogg",length=0.798}}
 L["me a"]={{path="chatsounds/autoadd/misc/me a.ogg",length=0.257}}
 L["mean"]={{path="chatsounds/autoadd/misc/mean.ogg",length=0.331}}
@@ -70,6 +71,7 @@ L["nobody expects the spanish inquisition"]={{path="chatsounds/autoadd/misc/nobo
 L["not in to the"]={{path="chatsounds/autoadd/misc/not in to the.ogg",length=0.615}}
 L["not in to the pit"]={{path="chatsounds/autoadd/misc/not in to the pit.ogg",length=1.137}}
 L["now you fucked up"]={{path="chatsounds/autoadd/misc/now you fucked up.ogg",length=19.069}}
+L["o kaaay"]={{path="chatsounds/autoadd/misc/o kaaay.ogg",length=1.529}}
 L["oh"]={{path="chatsounds/autoadd/misc/oh.ogg",length=0.176}}
 L["oh fine"]={{path="chatsounds/autoadd/misc/oh fine.ogg",length=0.789}}
 L["peace"]={{path="chatsounds/autoadd/misc/peace.ogg",length=0.222}}

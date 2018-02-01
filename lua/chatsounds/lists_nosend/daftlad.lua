@@ -95,7 +95,6 @@ L["you boys quit that whipping"]={{path="chatsounds/autoadd/daftlad/you boys qui
 L["you dont scare me work on it"]={{path="chatsounds/autoadd/daftlad/you dont scare me work on it.ogg",length=1.843}}
 L["you go fuck yourself"]={{path="chatsounds/autoadd/daftlad/you go fuck yourself.ogg",length=1.687}}
 L["you got a warface"]={{path="chatsounds/autoadd/daftlad/you got a warface.ogg",length=1.280}}
-L["you had best unfuck yourself or i will unscrew your head and shit down your neck"]={{path="chatsounds/autoadd/daftlad/you had best unfuck yourself or i will unscrew your head and shit down your neck.ogg",length=4.923}}
 L["you have no reason for this"]={{path="chatsounds/autoadd/daftlad/you have no reason for this.ogg",length=2.494}}
 L["you little scumbag"]={{path="chatsounds/autoadd/daftlad/you little scumbag.ogg",length=1.426}}
 L["you might but i have a better idea"]={{path="chatsounds/autoadd/daftlad/you might but i have a better idea.ogg",length=2.098}}

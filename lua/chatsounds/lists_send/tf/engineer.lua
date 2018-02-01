@@ -1,14 +1,11 @@
 c.StartList("engineer")
 L["a real texan woulda dodged that"]={{path="vo/engineer_dominationengineer03.mp3",length=2.5132199546485}}
-L["a real texan wouldve dodged that"]={{path="vo/engineer_dominationengineer03.mp3",length=2.5132200717926}}
 L["ah good night irene"]={{path="vo/engineer_jeers04.mp3",length=1.9562811851501}}
-L["ah goodnight irene"]={{path="vo/engineer_jeers04.mp3",length=1.9562811791383}}
 L["ah hell the robots took the gate"]={{path="vo/engineer_mvm_mannhattan_gate_take01.mp3",length=2.4816326530612}}
 L["ah its nothin"]={{path="vo/engineer_autocappedintelligence02.mp3",length=0.94331065759637}}
 L["ahhhh"]={{path="vo/engineer_negativevocalization08.mp3",length=0.63419501133787}}
 L["ahhhhhh"]={{path="vo/engineer_gunslingertriplepunchfinal03.mp3",length=0.91945578231293}}
 L["aint that a cute little gun"]={{path="vo/engineer_littlesentry02.mp3",length=1.5375056689342}}
-L["allrighty then"]={{path="vo/engineer_yes03.mp3",length=0.86784580498866}}
 L["alrighty then"]={{path="vo/engineer_yes03.mp3",length=0.86784583330154}}
 L["and another thing youre ugly"]={{path="vo/engineer_dominationheavy09.mp3",length=2.5224489795918}}
 L["another bomb"]={{path="vo/engineer_mvm_bomb_see03.mp3",length=1.4221768707483}}
@@ -33,7 +30,6 @@ L["booo"]={{path="vo/engineer_jeers01.mp3",length=1.3641723356009}}
 L["boy this here is just gonna keep happenin and happenin"]={{path="vo/engineer_dominationscout03.mp3",length=4.0038776397705}}
 L["boy this heres just gonna keep happening and happening"]={{path="vo/engineer_dominationscout03.mp3",length=4.0038775510204}}
 L["buildin a sentry"]={{path="vo/engineer_autobuildingsentry02.mp3",length=0.96943312883377}}
-L["building a sentry"]={{path="vo/engineer_autobuildingsentry02.mp3",length=0.96943310657596}}
 L["charge me doc"]={{path="vo/engineer_activatecharge03.mp3",length=0.75755102040816}}
 L["cmon hit it doc"]={{path="vo/engineer_activatecharge02.mp3",length=1.012970521542}}
 L["come ere sissy"]={{path="vo/taunts/engineer_taunts06.mp3",length=0.9578231292517}}
@@ -42,7 +38,6 @@ L["come on fellas"]={{path="vo/engineer_jeers03.mp3",length=1.2480725623583}}
 L["cowboy up"]={{path="vo/engineer_battlecry03.mp3",length=0.98104308390023}}
 L["cream gravy"]={{path="vo/engineer_cheers06.mp3",length=0.91428571428571}}
 L["daggednaggednabbitdagit"]={{path="vo/engineer_negativevocalization12.mp3",length=1.7937414646149}}
-L["daggit naggit dagget nabit"]={{path="vo/engineer_negativevocalization12.mp3",length=1.7937414965986}}
 L["dagnabbit dammit"]={{path="vo/engineer_negativevocalization10.mp3",length=1.1784126984127}}
 L["dammit"]={{path="vo/engineer_negativevocalization03.mp3",length=0.38893424036281}}
 L["dammit dammit dammit dammit"]={{path="vo/engineer_negativevocalization05.mp3",length=1.9272562358277}}
@@ -109,10 +104,8 @@ L["gotcha"]={{path="vo/engineer_wranglekills04.mp3",length=0.6530612244898}}
 L["gotcha chuckwagon"]={{path="vo/engineer_dominationheavy05.mp3",length=1.5795918367347}}
 L["gotcha eyehole"]={{path="vo/engineer_dominationdemoman06.mp3",length=1.503537414966}}
 L["gotcha fat boy"]={{path="vo/engineer_dominationheavy15.mp3",length=1.3553740978241}}
-L["gotcha fatboy"]={{path="vo/engineer_dominationheavy15.mp3",length=1.3553741496599}}
 L["gotcha mumbles"]={{path="vo/engineer_dominationpyro04.mp3",length=1.283537414966}}
 L["gotcha pork drippins"]={{path="vo/engineer_dominationheavy06.mp3",length=1.7555102040816}}
-L["gotcha porkdrippings"]={{path="vo/engineer_dominationheavy06.mp3",length=1.7555102109909}}
 L["gotcha stretch"]={{path="vo/engineer_dominationscout12.mp3",length=1.3269841269841}}
 L["gotta move that gear up"]={{path="vo/engineer_moveup01.mp3",length=1.2103401360544}}
 L["grab some steel boys theyre comin"]={{path="vo/engineer_mvm_wave_start01.mp3",length=2.3852154195011}}
@@ -122,7 +115,6 @@ L["growl"]={{path="vo/engineer_negativevocalization07.mp3",length=2.827029466629
 L["guess i got the midas touch"]={{path="vo/engineer_goldenwrenchkill02.mp3",length=2.1931972789116}}
 L["guess its up to me now"]={{path="vo/engineer_mvm_stand_alone01.mp3",length=1.6389795918367}}
 L["guess they didnt teach ya to duck in doctor school"]={{path="vo/engineer_dominationmedic02.mp3",length=3.0193197278912}}
-L["guess they didnt teach you to duck in doctor school"]={{path="vo/engineer_dominationmedic02.mp3",length=3.0193197727203}}
 L["gutless"]={{path="vo/engineer_specialcompleted03.mp3",length=0.67628117913832}}
 L["haaa"]={{path="vo/engineer_gunslingertriplepunchfinal02.mp3",length=1.3518367346939}}
 L["hah"]={{path="vo/engineer_gunslingertriplepunchfinal02.mp3",length=1.351836681366}}
@@ -130,11 +122,9 @@ L["happy laugh"]={{path="vo/engineer_laughhappy01.mp3",length=2.0433560090703}}
 L["head left"]={{path="vo/engineer_headleft01.mp3",length=0.74013605442177}}
 L["head right"]={{path="vo/engineer_headright01.mp3",length=0.77206349206349}}
 L["heavy load comin through"]={{path="vo/engineer_sentrymoving01.mp3",length=1.6781178712845}}
-L["heavy load coming through"]={{path="vo/engineer_sentrymoving01.mp3",length=1.6781179138322}}
 L["heavys a goner"]={{path="vo/engineer_mvm_class_is_dead03.mp3",length=1.2437188208617}}
 L["heck no"]={{path="vo/engineer_no03.mp3",length=0.70820861678005}}
 L["heck yes"]={{path="vo/engineer_yes02.mp3",length=0.83011337868481}}
-L["heehee yee haw"]={{path="vo/engineer_battlecry07.mp3",length=2.4961451247166}}
 L["heehee yeehaw"]={{path="vo/engineer_battlecry07.mp3",length=2.4961450099945}}
 L["heeya horse spurring cry"]={{path="vo/engineer_battlecry06.mp3",length=1.9562811791383}}
 L["heeyaw"]={{path="vo/engineer_battlecry06.mp3",length=1.9562811851501}}
@@ -166,7 +156,6 @@ L["i will send every damn one a ya back to robot hell"]={{path="vo/engineer_mvm_
 L["i wish yall could see how bad im kickin your tail"]={{path="vo/engineer_dominationdemoman01.mp3",length=3.5345578193665}}
 L["i wish you all could see how bad im kickin your tail"]={{path="vo/engineer_dominationdemoman01.mp3",length=3.5345578231293}}
 L["if yall had more gadgets for killin you wouldnt need so many for hiding"]={{path="vo/engineer_dominationspy12.mp3",length=3.7307936507937}}
-L["if yall had more gadgets for killing you wouldnt need so many for hiding"]={{path="vo/engineer_dominationspy12.mp3",length=3.7307937145233}}
 L["if youve done it it aint braggin"]={{path="vo/engineer_dominationengineer07.mp3",length=1.9521088435374}}
 L["im a killer of men doc that is the gods honest truth"]={{path="vo/engineer_dominationmedic07.mp3",length=4.5255103111267}}
 L["im burnin up"]={{path="vo/engineer_autoonfire03.mp3",length=0.77786848072562}}
@@ -177,10 +166,8 @@ L["im gonna tear you down junior"]={{path="vo/taunts/engineer_taunts03.mp3",leng
 L["im movin this"]={{path="vo/engineer_sentrypacking03.mp3",length=1.0448979591837}}
 L["im ready"]={{path="vo/engineer_mvm_say_ready01.mp3",length=1.0330839002268}}
 L["im wolverine mean you son of a bitch"]={{path="vo/engineer_dominationengineer06.mp3",length=2.7130612244898}}
-L["im wolverine mean you sonofabitch"]={{path="vo/engineer_dominationengineer06.mp3",length=2.7130613327026}}
 L["incoming"]={{path="vo/engineer_incoming03.mp3",length=0.7836734693878},{path="vo/engineer_incoming02.mp3",length=0.7575510204082},{path="vo/engineer_incoming01.mp3",length=1.1435827664399}}
 L["it aint gettin any harder for me to kill ya"]={{path="vo/engineer_dominationspy02.mp3",length=1.9461224489796}}
-L["it aint getting any harder for me to kill ya"]={{path="vo/engineer_dominationspy02.mp3",length=1.9461224079132}}
 L["its beautiful"]={{path="vo/engineer_mvm_loot_godlike03.mp3",length=1.4628571428571}}
 L["its perfect"]={{path="vo/engineer_mvm_loot_godlike02.mp3",length=1.0971428571429}}
 L["ive seen better sides of beef been run over by a combine"]={{path="vo/engineer_dominationheavy02.mp3",length=3.6310204081633}}
