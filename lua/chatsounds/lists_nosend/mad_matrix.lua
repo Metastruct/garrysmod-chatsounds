@@ -7,6 +7,8 @@ L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_m
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["cunt"]={{path="chatsounds/autoadd/mad_matrix/cunt/1.ogg",length=0.746},{path="chatsounds/autoadd/mad_matrix/cunt/2.ogg",length=0.526}}
+L["dawgs its a nut theres a nut button distorted"]={{path="chatsounds/autoadd/mad_matrix/dawgs its a nut theres a nut button distorted.ogg",length=3.450}}
+L["did he just nut"]={{path="chatsounds/autoadd/mad_matrix/did he just nut.ogg",length=1.166}}
 L["doorsmack loudscream"]={{path="chatsounds/autoadd/mad_matrix/doorsmack loudscream.ogg",length=2.059}}
 L["doorsounds"]={{path="chatsounds/autoadd/mad_matrix/doorsounds/1.ogg",length=0.782},{path="chatsounds/autoadd/mad_matrix/doorsounds/2.ogg",length=0.446}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
