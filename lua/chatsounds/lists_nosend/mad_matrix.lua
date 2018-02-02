@@ -18,6 +18,7 @@ L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough
 L["eto boobs"]={{path="chatsounds/autoadd/mad_matrix/eto boobs.ogg",length=0.887}}
 L["even let you have dudleys second baby"]={{path="chatsounds/autoadd/mad_matrix/even let you have dudleys second baby.ogg",length=1.872}}
 L["explosion hot hot hot hot hot"]={{path="chatsounds/autoadd/mad_matrix/explosion hot hot hot hot hot.ogg",length=2.968}}
+L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fucking muffins"]={{path="chatsounds/autoadd/mad_matrix/fucking muffins.ogg",length=1.113}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
 L["hes got a soos"]={{path="chatsounds/autoadd/mad_matrix/hes got a soos.ogg",length=1.082}}
@@ -83,6 +84,7 @@ L["vernonscreamdistorted"]={{path="chatsounds/autoadd/mad_matrix/vernonscreamdis
 L["vstavai"]={{path="chatsounds/autoadd/mad_matrix/vstavai.ogg",length=0.723}}
 L["weve raised you since you were a bedroom"]={{path="chatsounds/autoadd/mad_matrix/weve raised you since you were a bedroom.ogg",length=1.451}}
 L["wheeeeee"]={{path="chatsounds/autoadd/mad_matrix/wheeeeee.ogg",length=2.133}}
+L["wheezing"]={{path="chatsounds/autoadd/mad_matrix/wheezing/1.ogg",length=2.494},{path="chatsounds/autoadd/mad_matrix/wheezing/2.ogg",length=1.837}}
 L["whoever has the gogo makes the ruru"]={{path="chatsounds/autoadd/mad_matrix/whoever has the gogo makes the ruru.ogg",length=2.080}}
 L["wweww"]={{path="chatsounds/autoadd/mad_matrix/wweww.ogg",length=0.727}}
 L["you idiots weve all got sos"]={{path="chatsounds/autoadd/mad_matrix/you idiots weve all got sos.ogg",length=3.705}}
