@@ -13,6 +13,7 @@ L["i realize that im not cumming"]={{path="chatsounds/autoadd/hl2_edits/i realiz
 L["ile"]={{path="chatsounds/autoadd/hl2_edits/ile.ogg",length=0.808}}
 L["luul"]={{path="chatsounds/autoadd/hl2_edits/luul.ogg",length=0.943}}
 L["luul loud"]={{path="chatsounds/autoadd/hl2_edits/luul loud.ogg",length=0.936}}
+L["magnificent microwave casserole"]={{path="chatsounds/autoadd/hl2_edits/magnificent microwave casserole.ogg",length=3.084}}
 L["no one is more deserving of a sex"]={{path="chatsounds/autoadd/hl2_edits/no one is more deserving of a sex.ogg",length=3.065}}
 L["ohh sees cumcumcum"]={{path="chatsounds/autoadd/hl2_edits/ohh sees cumcumcum.ogg",length=1.859}}
 L["pick up the trash can"]={{path="chatsounds/autoadd/hl2_edits/pick up the trash can/1.ogg",length=2.059},{path="chatsounds/autoadd/hl2_edits/pick up the trash can/2.ogg",length=1.560}}
