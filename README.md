@@ -2,6 +2,7 @@ Chatsounds
 ==========
 
 Chat sounds system for Garry's Mod (with extra sounds)
+<img align="right" src="https://metastruct.net/github/garrysmod-chatsounds/ci-status.svg?branch=master" />
 
 ## How to install
  - Install subversion client: http://tortoisesvn.net/downloads.html
