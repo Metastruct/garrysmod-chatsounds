@@ -28,7 +28,7 @@ L["oh my god"]={{path="chatsounds/autoadd/kaosheaven/oh my god.ogg",length=1.951
 L["oh my god hes got a glass"]={{path="chatsounds/autoadd/kaosheaven/oh my god hes got a glass.ogg",length=3.889}}
 L["ohoh"]={{path="chatsounds/autoadd/kaosheaven/ohoh.ogg",length=1.168}}
 L["ooo helps me concentrate pop"]={{path="chatsounds/autoadd/kaosheaven/ooo helps me concentrate pop.ogg",length=5.500}}
-L["steve-o"]={{path="chatsounds/autoadd/kaosheaven/steve-o.ogg",length=1.240}}
+L["steve o"]={{path="chatsounds/autoadd/kaosheaven/steve o.ogg",length=1.240}}
 L["the more you know"]={{path="chatsounds/autoadd/kaosheaven/the more you know.ogg",length=6.269}}
 L["the part where he kills you"]={{path="chatsounds/autoadd/kaosheaven/the part where he kills you.ogg",length=38.000}}
 L["they are eating children fucking children"]={{path="chatsounds/autoadd/kaosheaven/they are eating children fucking children.ogg",length=4.400}}
