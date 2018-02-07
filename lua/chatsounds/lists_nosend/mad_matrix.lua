@@ -48,7 +48,7 @@ L["kaboom"]={{path="chatsounds/autoadd/mad_matrix/kaboom.ogg",length=1.089}}
 L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_matrix/kakogo djavola ti zdes shumish distorted.ogg",length=2.546}}
 L["knockrape"]={{path="chatsounds/autoadd/mad_matrix/knockrape.ogg",length=10.679}}
 L["laggyharmonica"]={{path="chatsounds/autoadd/mad_matrix/laggyharmonica.ogg",length=1.498}}
-L["laughter"]={{path="chatsounds/autoadd/mad_matrix/laughter/1.ogg",length=1.173},{path="chatsounds/autoadd/mad_matrix/laughter/2.ogg",length=26.794}}
+L["laughter"]={{path="chatsounds/autoadd/mad_matrix/laughter.ogg",length=1.173}}
 L["lo loud"]={{path="chatsounds/autoadd/mad_matrix/lo loud.ogg",length=1.594}}
 L["madmatrixdeathloud"]={{path="chatsounds/autoadd/mad_matrix/madmatrixdeathloud.ogg",length=1.401}}
 L["madmatrixlaugh"]={{path="chatsounds/autoadd/mad_matrix/madmatrixlaugh.ogg",length=6.566}}
