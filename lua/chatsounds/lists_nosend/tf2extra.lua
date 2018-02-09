@@ -56,8 +56,10 @@ L["i can feel the cocaine coursing through my veins"]={{path="chatsounds/autoadd
 L["i dare you"]={{path="chatsounds/autoadd/tf2extra/i dare you.ogg",length=0.994}}
 L["i dont give a fuck"]={{path="chatsounds/autoadd/tf2extra/i dont give a fuck.ogg",length=1.172}}
 L["i feel like a man on cocaine"]={{path="chatsounds/autoadd/tf2extra/i feel like a man on cocaine.ogg",length=3.994}}
+L["i got a manky eye im a black scottish cyclops"]={{path="chatsounds/autoadd/tf2extra/i got a manky eye im a black scottish cyclops.ogg",length=4.606}}
 L["i have no idea"]={{path="chatsounds/autoadd/tf2extra/i have no idea.ogg",length=2.032}}
 L["i love mcdonalds distorted"]={{path="chatsounds/autoadd/tf2extra/i love mcdonalds distorted.ogg",length=2.571}}
+L["if i were a bad demoman i wouldnt be sittin here discussin it with you now would i"]={{path="chatsounds/autoadd/tf2extra/if i were a bad demoman i wouldnt be sittin here discussin it with you now would i.ogg",length=5.242}}
 L["im"]={{path="chatsounds/autoadd/tf2extra/im.ogg",length=0.319}}
 L["inspiration"]={{path="chatsounds/autoadd/tf2extra/inspiration.ogg",length=0.933}}
 L["is not fair"]={{path="chatsounds/autoadd/tf2extra/is not fair.ogg",length=0.866}}
@@ -87,6 +89,7 @@ L["oh"]={{path="chatsounds/autoadd/tf2extra/oh.ogg",length=0.296}}
 L["oh fuck it"]={{path="chatsounds/autoadd/tf2extra/oh fuck it.ogg",length=0.750}}
 L["oh my god"]={{path="chatsounds/autoadd/tf2extra/oh my god.ogg",length=2.544}}
 L["oh thats a good one"]={{path="chatsounds/autoadd/tf2extra/oh thats a good one.ogg",length=1.920}}
+L["one crossed wire one wayward pinch of potassium chlorate one errant twitch and kablooie"]={{path="chatsounds/autoadd/tf2extra/one crossed wire one wayward pinch of potassium chlorate one errant twitch and kablooie.ogg",length=6.786}}
 L["oooooooo im gonna glue my dick on your face"]={{path="chatsounds/autoadd/tf2extra/oooooooo im gonna glue my dick on your face.ogg",length=3.576}}
 L["painis"]={{path="chatsounds/autoadd/tf2extra/painis.ogg",length=0.585}}
 L["place a melon here"]={{path="chatsounds/autoadd/tf2extra/place a melon here.ogg",length=1.280}}
@@ -116,6 +119,7 @@ L["stupid face"]={{path="chatsounds/autoadd/tf2extra/stupid face.ogg",length=1.4
 L["suck my balls doc"]={{path="chatsounds/autoadd/tf2extra/suck my balls doc.ogg",length=1.591}}
 L["surprise"]={{path="chatsounds/autoadd/tf2extra/surprise.ogg",length=0.808}}
 L["surprise big not"]={{path="chatsounds/autoadd/tf2extra/surprise big not.ogg",length=1.354}}
+L["tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs"]={{path="chatsounds/autoadd/tf2extra/tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs.ogg",length=8.951}}
 L["that background is a bloody crap"]={{path="chatsounds/autoadd/tf2extra/that background is a bloody crap.ogg",length=3.075}}
 L["that looks good"]={{path="chatsounds/autoadd/tf2extra/that looks good.ogg",length=0.808}}
 L["the sound of progress"]={{path="chatsounds/autoadd/tf2extra/the sound of progress.ogg",length=1.360}}
@@ -127,6 +131,7 @@ L["tweet tweet tweet loud"]={{path="chatsounds/autoadd/tf2extra/tweet tweet twee
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.909}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.539}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
+L["what makes me a good demoman"]={{path="chatsounds/autoadd/tf2extra/what makes me a good demoman.ogg",length=2.305}}
 L["what was noise"]={{path="chatsounds/autoadd/tf2extra/what was noise.ogg",length=2.012}}
 L["when the patient woke up his skeleton was missing"]={{path="chatsounds/autoadd/tf2extra/when the patient woke up his skeleton was missing.ogg",length=3.195}}
 L["where was i"]={{path="chatsounds/autoadd/tf2extra/where was i.ogg",length=0.576}}
