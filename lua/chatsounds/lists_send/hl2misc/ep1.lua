@@ -710,7 +710,7 @@ L["look at the size of this place"]={{path="vo/episode_1/citadel/al_lookatsize.w
 L["look at them"]={{path="vo/episode_1/citadel/al_stalk_lookatthem01.wav",length=1.0245804988662}}
 L["look at them all"]={{path="vo/episode_1/c17/al_defensedown01.wav",length=1.0913378684807}}
 L["look at them gordon i wonder if theyre trying to escape or if they just dont know whats happening"]={{path="vo/episode_1/citadel/al_lookatthem.wav",length=6.5480272108844}}
-L["look at this gordonthe whole combine war machine is going on as if nothings happened"]={{path="vo/episode_1/citadel/al_warmachine.wav",length=5.868843537415}}
+L["look at this gordon the whole combine war machine is going on as if nothings happened"]={{path="vo/episode_1/citadel/al_warmachine.wav",length=5.868843537415}}
 L["look dog i told you to stop clowning around"]={{path="vo/episode_1/intro/al_stopclowning.wav",length=2.4409977324263}}
 L["look its us"]={{path="vo/episode_1/citadel/al_itsus.wav",length=2.0230385487528}}
 L["look out"]={{path="vo/episode_1/intro/al_lookoutforvan.wav",length=0.6747619047619},{path="vo/episode_1/intro/al_lookout01.wav",length=1.0492517006803},{path="vo/episode_1/citadel/al_pod_lookout.wav",length=0.67399092970522},{path="vo/episode_1/citadel/al_lift_warns06.wav",length=0.60952380952381},{path="vo/episode_1/citadel/al_lift_last_lookout01.wav",length=0.95331065759637},{path="vo/episode_1/citadel/al_dropship_getback02.wav",length=0.58049886621315},{path="vo/episode_1/c17/al_zombieroom_lookout01.wav",length=0.74884353741497},{path="vo/episode_1/c17/al_hospital_zombiefall.wav",length=0.69804988662132}}
