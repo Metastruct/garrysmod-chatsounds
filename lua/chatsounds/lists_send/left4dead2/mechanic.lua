@@ -1133,8 +1133,8 @@ L["oh yeah when i had first holy communion in the second grade i dont think it f
 L["ohh"]={{path="player/survivor/voice/mechanic/goingtodie07.wav",length=0.64630383253098}}
 L["ohh i am gonna bash some heads with this"]={{path="player/survivor/voice/mechanic/takemelee06.wav",length=3.6707935333252}}
 L["ohhh dont you leave me now"]={{path="player/survivor/voice/mechanic/doubledeathresponse04.wav",length=2.5535147190094}}
-L["ohmigod"]={{path="player/survivor/voice/mechanic/worldc2m3b14.wav",length=0.98018139600754}}
-L["ohmigod its christmas"]={{path="player/survivor/voice/mechanic/worldc2m3b15.wav",length=2.0714738368988}}
+L["oh my god"]={{path="player/survivor/voice/mechanic/worldc2m3b14.wav",length=0.98018139600754}}
+L["oh my god its christmas"]={{path="player/survivor/voice/mechanic/worldc2m3b15.wav",length=2.0714738368988}}
 L["okay"]={{path="player/survivor/voice/mechanic/yes04.wav",length=0.52839004993439},{path="player/survivor/voice/mechanic/ellisstoriesinterrupt14.wav",length=0.52090704441071},{path="player/survivor/voice/mechanic/ellisstoriesinterrupt05.wav",length=0.6245351433754}}
 L["okay but i do love goin on bus rides"]={{path="player/survivor/voice/mechanic/world145.wav",length=2.7752833366394}}
 L["okay but there was a goat"]={{path="player/survivor/voice/mechanic/ellisstoriesb02.wav",length=1.7428570985794}}
