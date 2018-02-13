@@ -16,6 +16,7 @@ L["get off me"]={{path="chatsounds/autoadd/michael rosen/get off me.ogg",length=
 L["he started it i didnt he started it slap i dont care who started it"]={{path="chatsounds/autoadd/michael rosen/he started it i didnt he started it slap i dont care who started it.ogg",length=3.905}}
 L["hes punching me mum"]={{path="chatsounds/autoadd/michael rosen/hes punching me mum.ogg",length=1.100}}
 L["hes sitting on me"]={{path="chatsounds/autoadd/michael rosen/hes sitting on me.ogg",length=1.316}}
+L["hi everybody anything happen today"]={{path="chatsounds/autoadd/michael rosen/hi everybody anything happen today.ogg",length=2.949}}
 L["horrible"]={{path="chatsounds/autoadd/michael rosen/horrible.ogg",length=0.899}}
 L["i dunno"]={{path="chatsounds/autoadd/michael rosen/i dunno.ogg",length=1.200}}
 L["i feel a bit sick actually"]={{path="chatsounds/autoadd/michael rosen/i feel a bit sick actually.ogg",length=1.790}}
