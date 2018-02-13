@@ -24,6 +24,7 @@ L["awoop"]={{path="chatsounds/autoadd/tenrys/awoop.ogg",length=0.582}}
 L["baguette"]={{path="chatsounds/autoadd/tenrys/baguette.ogg",length=0.364}}
 L["big sister scream"]={{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis01.ogg",length=2.722},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis02.ogg",length=2.388},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis03.ogg",length=1.812}}
 L["bravo oooh bravo"]={{path="chatsounds/autoadd/tenrys/bravo oooh bravo.ogg",length=3.953}}
+L["bruh"]={{path="chatsounds/autoadd/tenrys/bruh.ogg",length=0.497}}
 L["bullshit"]={{path="chatsounds/autoadd/tenrys/bullshit.ogg",length=0.752}}
 L["but now now im not so sure"]={{path="chatsounds/autoadd/tenrys/but now now im not so sure.ogg",length=3.911}}
 L["com"]={{path="chatsounds/autoadd/tenrys/com.ogg",length=0.439}}
@@ -114,6 +115,8 @@ L["kup teraz"]={{path="chatsounds/autoadd/tenrys/kup teraz/1.ogg",length=1.126},
 L["lets dance"]={{path="chatsounds/autoadd/tenrys/lets dance.ogg",length=1.330}}
 L["lets go"]={{path="chatsounds/autoadd/tenrys/lets go.ogg",length=1.426}}
 L["localized entirely within your kitchen"]={{path="chatsounds/autoadd/tenrys/localized entirely within your kitchen.ogg",length=2.686}}
+L["look at his lips"]={{path="chatsounds/autoadd/tenrys/look at his lips.ogg",length=1.096}}
+L["look at this dude"]={{path="chatsounds/autoadd/tenrys/look at this dude.ogg",length=1.409}}
 L["look at you"]={{path="chatsounds/autoadd/tenrys/look at you.ogg",length=0.960}}
 L["may i see it"]={{path="chatsounds/autoadd/tenrys/may i see it.ogg",length=0.852}}
 L["maybe i misjudged you"]={{path="chatsounds/autoadd/tenrys/maybe i misjudged you.ogg",length=1.618}}
@@ -149,6 +152,7 @@ L["of course that would have to include you"]={{path="chatsounds/autoadd/tenrys/
 L["ogh"]={{path="chatsounds/autoadd/tenrys/ogh.ogg",length=0.479}}
 L["oh fuck"]={{path="chatsounds/autoadd/tenrys/oh fuck.ogg",length=0.697}}
 L["oh god"]={{path="chatsounds/autoadd/tenrys/oh god/1.ogg",length=2.310},{path="chatsounds/autoadd/tenrys/oh god/2.ogg",length=1.768}}
+L["oh look at the top of his head"]={{path="chatsounds/autoadd/tenrys/oh look at the top of his head.ogg",length=2.699}}
 L["oh my"]={{path="chatsounds/autoadd/tenrys/oh my.ogg",length=1.697}}
 L["oh my god"]={{path="chatsounds/autoadd/tenrys/oh my god/1.ogg",length=1.613},{path="chatsounds/autoadd/tenrys/oh my god/2.ogg",length=2.047},{path="chatsounds/autoadd/tenrys/oh my god/3.ogg",length=1.618},{path="chatsounds/autoadd/tenrys/oh my god/4.ogg",length=1.724},{path="chatsounds/autoadd/tenrys/oh my god/5.ogg",length=3.217}}
 L["oh no"]={{path="chatsounds/autoadd/tenrys/oh no/1.ogg",length=1.680},{path="chatsounds/autoadd/tenrys/oh no/2.ogg",length=1.216},{path="chatsounds/autoadd/tenrys/oh no/3.ogg",length=2.036},{path="chatsounds/autoadd/tenrys/oh no/4.ogg",length=1.537}}
@@ -164,8 +168,12 @@ L["okay"]={{path="chatsounds/autoadd/tenrys/okay.ogg",length=0.954}}
 L["okay now im mad"]={{path="chatsounds/autoadd/tenrys/okay now im mad.ogg",length=2.570}}
 L["okoruka"]={{path="chatsounds/autoadd/tenrys/okoruka.ogg",length=0.721}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru.ogg",length=1.584}}
+L["ooh hohohoh nonono ohoho"]={{path="chatsounds/autoadd/tenrys/ooh hohohoh nonono ohoho.ogg",length=6.569}}
 L["ooh what happened to those fiery words of yours"]={{path="chatsounds/autoadd/tenrys/ooh what happened to those fiery words of yours.ogg",length=3.486}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623}}
+L["phhhhhahahahaha"]={{path="chatsounds/autoadd/tenrys/phhhhhahahahaha.ogg",length=3.150}}
+L["phhhhhhhhhhhhahahahahahaha"]={{path="chatsounds/autoadd/tenrys/phhhhhhhhhhhhahahahahahaha.ogg",length=4.481}}
+L["phhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/phhhhhhhhhhhhhhhhhhhhh.ogg",length=4.282}}
 L["pianofuck"]={{path="chatsounds/autoadd/tenrys/pianofuck.ogg",length=175.752}}
 L["pickinpickinpickinpickin"]={{path="chatsounds/autoadd/tenrys/pickinpickinpickinpickin.ogg",length=2.448}}
 L["playtimes over"]={{path="chatsounds/autoadd/tenrys/playtimes over.ogg",length=1.190}}
