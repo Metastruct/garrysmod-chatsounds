@@ -157,7 +157,6 @@ L["brawwrr"]={{path="chatsounds/autoadd/instagib/brawwrr.ogg",length=1.213}}
 L["breathe1"]={{path="chatsounds/autoadd/instagib/breathe1.ogg",length=2.160}}
 L["breitfettarsch"]={{path="chatsounds/autoadd/instagib/breitfettarsch.ogg",length=2.089}}
 L["brille"]={{path="chatsounds/autoadd/instagib/brille.ogg",length=1.306}}
-L["bringmetolife"]={{path="chatsounds/autoadd/instagib/bringmetolife.ogg",length=10.456}}
 L["brit"]={{path="chatsounds/autoadd/instagib/brit.ogg",length=13.251}}
 L["brunzkachel"]={{path="chatsounds/autoadd/instagib/brunzkachel.ogg",length=5.763}}
 L["bud"]={{path="chatsounds/autoadd/instagib/bud.ogg",length=0.382}}
