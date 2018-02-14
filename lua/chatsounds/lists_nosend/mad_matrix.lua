@@ -2,6 +2,9 @@ c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
 L["and then i stuffed the crack down his ass hahahahaha"]={{path="chatsounds/autoadd/mad_matrix/and then i stuffed the crack down his ass hahahahaha.ogg",length=5.048}}
 L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
+L["bitconnaaaaaaaaaaaact"]={{path="chatsounds/autoadd/mad_matrix/bitconnaaaaaaaaaaaact.ogg",length=4.886}}
+L["bitconnect"]={{path="chatsounds/autoadd/mad_matrix/bitconnect.ogg",length=1.709}}
+L["bitconneeeeeeeeeeeect"]={{path="chatsounds/autoadd/mad_matrix/bitconneeeeeeeeeeeect/1.ogg",length=4.585},{path="chatsounds/autoadd/mad_matrix/bitconneeeeeeeeeeeect/2.ogg",length=5.214}}
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
@@ -33,6 +36,7 @@ L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for in
 L["huehue"]={{path="chatsounds/autoadd/mad_matrix/huehue.ogg",length=0.537}}
 L["huh huh huh huh huh we was robbed"]={{path="chatsounds/autoadd/mad_matrix/huh huh huh huh huh we was robbed.ogg",length=2.815}}
 L["i dont want bobs rotten fucking head"]={{path="chatsounds/autoadd/mad_matrix/i dont want bobs rotten fucking head.ogg",length=4.385}}
+L["i loooooooooooooooooove"]={{path="chatsounds/autoadd/mad_matrix/i loooooooooooooooooove.ogg",length=7.687}}
 L["i lost the bomb do you have it"]={{path="chatsounds/autoadd/mad_matrix/i lost the bomb do you have it.ogg",length=2.564}}
 L["iagogibberish"]={{path="chatsounds/autoadd/mad_matrix/iagogibberish/1.ogg",length=1.380},{path="chatsounds/autoadd/mad_matrix/iagogibberish/2.ogg",length=2.105}}
 L["if you smell"]={{path="chatsounds/autoadd/mad_matrix/if you smell.ogg",length=1.940}}
@@ -91,6 +95,7 @@ L["ti ubil djavola"]={{path="chatsounds/autoadd/mad_matrix/ti ubil djavola.ogg",
 L["ti ubil etu dvercu"]={{path="chatsounds/autoadd/mad_matrix/ti ubil etu dvercu.ogg",length=1.338}}
 L["ti ubil golfista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil golfista.ogg",length=1.043}}
 L["ti ubil japonskogo onanista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil japonskogo onanista.ogg",length=1.504}}
+L["tits"]={{path="chatsounds/autoadd/mad_matrix/tits.ogg",length=1.246}}
 L["unintelligible"]={{path="chatsounds/autoadd/mad_matrix/unintelligible.ogg",length=1.865}}
 L["vernonscreamdistorted"]={{path="chatsounds/autoadd/mad_matrix/vernonscreamdistorted.ogg",length=4.121}}
 L["vstavai"]={{path="chatsounds/autoadd/mad_matrix/vstavai.ogg",length=0.723}}

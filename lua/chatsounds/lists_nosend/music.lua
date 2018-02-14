@@ -13,6 +13,7 @@ L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.1
 L["dontloseyourway"]={{path="chatsounds/autoadd/music/dontloseyourway.ogg",length=35.900}}
 L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.ogg",length=20.972}}
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
+L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
 L["fuckbeesremastered"]={{path="chatsounds/autoadd/music/fuckbeesremastered.ogg",length=201.326}}
 L["fuckbeessong"]={{path="chatsounds/autoadd/music/fuckbeessong.ogg",length=73.781}}
 L["hah gay remix"]={{path="chatsounds/autoadd/music/hah gay remix.ogg",length=15.929}}
