@@ -1,5 +1,6 @@
 c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
+L["aladdinsound"]={{path="chatsounds/autoadd/mad_matrix/aladdinsound.ogg",length=1.627}}
 L["and then i stuffed the crack down his ass hahahahaha"]={{path="chatsounds/autoadd/mad_matrix/and then i stuffed the crack down his ass hahahahaha.ogg",length=5.048}}
 L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
 L["bitconnaaaaaaaaaaaact"]={{path="chatsounds/autoadd/mad_matrix/bitconnaaaaaaaaaaaact.ogg",length=4.886}}
@@ -22,6 +23,7 @@ L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough
 L["eto boobs"]={{path="chatsounds/autoadd/mad_matrix/eto boobs.ogg",length=0.887}}
 L["even let you have dudleys second baby"]={{path="chatsounds/autoadd/mad_matrix/even let you have dudleys second baby.ogg",length=1.872}}
 L["explosion hot hot hot hot hot"]={{path="chatsounds/autoadd/mad_matrix/explosion hot hot hot hot hot.ogg",length=2.968}}
+L["fasttalk"]={{path="chatsounds/autoadd/mad_matrix/fasttalk.ogg",length=7.464}}
 L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fucking muffins"]={{path="chatsounds/autoadd/mad_matrix/fucking muffins.ogg",length=1.113}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
