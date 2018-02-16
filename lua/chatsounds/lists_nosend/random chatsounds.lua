@@ -1,7 +1,7 @@
 c.StartList("random chatsounds")
 L["are you stupid"]={{path="chatsounds/autoadd/random chatsounds/are you stupid.ogg",length=1.033}}
 L["can not stop will not stop"]={{path="chatsounds/autoadd/random chatsounds/can not stop will not stop.ogg",length=1.927}}
-L["damn son whered you find this"]={{path="chatsounds/autoadd/random chatsounds/damn son whered you find this.ogg",length=49.871}}
+L["damn son whered you find this"]={{path="chatsounds/autoadd/random chatsounds/damn son whered you find this.ogg",length=49.938}}
 L["deep dark fantasies"]={{path="chatsounds/autoadd/random chatsounds/deep dark fantasies.ogg",length=2.438}}
 L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random chatsounds/flbfllflfllahflbflblfflflfl.ogg",length=1.936}}
 L["fucking degenerate"]={{path="chatsounds/autoadd/random chatsounds/fucking degenerate.ogg",length=1.219}}
