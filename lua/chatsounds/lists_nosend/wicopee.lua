@@ -53,6 +53,7 @@ L["galileotheme loud"]={{path="chatsounds/autoadd/wicopee/galileotheme loud.ogg"
 L["glitch"]={{path="chatsounds/autoadd/wicopee/glitch.ogg",length=3.300}}
 L["gopnicsound"]={{path="chatsounds/autoadd/wicopee/gopnicsound.ogg",length=0.443}}
 L["govno vopros"]={{path="chatsounds/autoadd/wicopee/govno vopros.ogg",length=0.725}}
+L["hey stfu what are you listening to"]={{path="chatsounds/autoadd/wicopee/hey stfu what are you listening to.ogg",length=5.614}}
 L["hihihihihi"]={{path="chatsounds/autoadd/wicopee/hihihihihi.ogg",length=0.963}}
 L["hit"]={{path="chatsounds/autoadd/wicopee/hit/1.ogg",length=1.320},{path="chatsounds/autoadd/wicopee/hit/2.ogg",length=2.772}}
 L["hleb v kota ne prevratilsya"]={{path="chatsounds/autoadd/wicopee/hleb v kota ne prevratilsya.ogg",length=1.922}}
@@ -70,6 +71,7 @@ L["kupili papa i mama po butilke"]={{path="chatsounds/autoadd/wicopee/kupili pap
 L["laugh"]={{path="chatsounds/autoadd/wicopee/laugh.ogg",length=1.026}}
 L["mm"]={{path="chatsounds/autoadd/wicopee/mm.ogg",length=0.601}}
 L["mmm"]={{path="chatsounds/autoadd/wicopee/mmm.ogg",length=0.654}}
+L["my god what are you kids listening to in here"]={{path="chatsounds/autoadd/wicopee/my god what are you kids listening to in here.ogg",length=3.445}}
 L["na ulice to utro ne vidno ne figa"]={{path="chatsounds/autoadd/wicopee/na ulice to utro ne vidno ne figa.ogg",length=2.537}}
 L["nasha kvartira mne zashkvar napominaet"]={{path="chatsounds/autoadd/wicopee/nasha kvartira mne zashkvar napominaet.ogg",length=1.573}}
 L["ne huya ne ponimayu"]={{path="chatsounds/autoadd/wicopee/ne huya ne ponimayu.ogg",length=1.117}}
@@ -121,6 +123,7 @@ L["ubrat vse sasi ne realno"]={{path="chatsounds/autoadd/wicopee/ubrat vse sasi 
 L["vam vsem pizdets"]={{path="chatsounds/autoadd/wicopee/vam vsem pizdets.ogg",length=3.103}}
 L["vam vsem pizdets distorted"]={{path="chatsounds/autoadd/wicopee/vam vsem pizdets distorted.ogg",length=4.938}}
 L["vse yasno"]={{path="chatsounds/autoadd/wicopee/vse yasno.ogg",length=0.926}}
+L["we are fucking neighbours"]={{path="chatsounds/autoadd/wicopee/we are fucking neighbours.ogg",length=1.871}}
 L["we can certainly express our anger if we handle our anger assertivley"]={{path="chatsounds/autoadd/wicopee/we can certainly express our anger if we handle our anger assertivley.ogg",length=5.973}}
 L["who can say where the road goes"]={{path="chatsounds/autoadd/wicopee/who can say where the road goes.ogg",length=4.814}}
 L["ya hochu noticesound"]={{path="chatsounds/autoadd/wicopee/ya hochu noticesound.ogg",length=0.797}}
