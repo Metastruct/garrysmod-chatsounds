@@ -45,7 +45,6 @@ L["whatarethosejurassicpark"]={{path="chatsounds/autoadd/music/whatarethosejuras
 L["why the fuck you lying"]={{path="chatsounds/autoadd/music/why the fuck you lying.ogg",length=2.396}}
 L["why you always lying"]={{path="chatsounds/autoadd/music/why you always lying.ogg",length=2.057}}
 L["worldholdon"]={{path="chatsounds/autoadd/music/worldholdon.ogg",length=15.124}}
-L["yo skrill drop it hard"]={{path="chatsounds/autoadd/music/yo skrill drop it hard.ogg",length=1.293}}
 L["you can feel it everywhere"]={{path="chatsounds/autoadd/music/you can feel it everywhere.ogg",length=2.483}}
 L["you can hear it you can feel it"]={{path="chatsounds/autoadd/music/you can hear it you can feel it.ogg",length=1.966}}
 c.EndList()

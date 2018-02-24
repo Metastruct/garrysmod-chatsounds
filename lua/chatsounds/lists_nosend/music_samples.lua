@@ -36,4 +36,5 @@ L["woo"]={{path="chatsounds/autoadd/music_samples/woo.ogg",length=0.692}}
 L["yeah yeah yeah"]={{path="chatsounds/autoadd/music_samples/yeah yeah yeah.ogg",length=1.980}}
 L["yes go"]={{path="chatsounds/autoadd/music_samples/yes go.ogg",length=0.862}}
 L["yes to make the crowd yes go"]={{path="chatsounds/autoadd/music_samples/yes to make the crowd yes go.ogg",length=1.420}}
+L["yo skrill drop it hard"]={{path="chatsounds/autoadd/music_samples/yo skrill drop it hard.ogg",length=1.293}}
 c.EndList()
