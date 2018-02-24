@@ -251,12 +251,7 @@ L["dinner"]={{path="chatsounds/autoadd/instagib/dinner.ogg",length=7.262}}
 L["dio"]={{path="chatsounds/autoadd/instagib/dio.ogg",length=2.147}}
 L["doedel"]={{path="chatsounds/autoadd/instagib/doedel.ogg",length=32.073}}
 L["doener"]={{path="chatsounds/autoadd/instagib/doener.ogg",length=0.836}}
-L["doh"]={{path="chatsounds/autoadd/instagib/doh.ogg",length=0.500}}
-L["doh2"]={{path="chatsounds/autoadd/instagib/doh2.ogg",length=0.425}}
-L["doh3"]={{path="chatsounds/autoadd/instagib/doh3.ogg",length=0.550}}
-L["doh4"]={{path="chatsounds/autoadd/instagib/doh4.ogg",length=0.543}}
-L["doh5"]={{path="chatsounds/autoadd/instagib/doh5.ogg",length=0.408}}
-L["doh7"]={{path="chatsounds/autoadd/instagib/doh7.ogg",length=0.568}}
+L["doh"]={{path="chatsounds/autoadd/instagib/doh/doh.ogg",length=0.500},{path="chatsounds/autoadd/instagib/doh/doh2.ogg",length=0.425},{path="chatsounds/autoadd/instagib/doh/doh3.ogg",length=0.550},{path="chatsounds/autoadd/instagib/doh/doh4.ogg",length=0.543},{path="chatsounds/autoadd/instagib/doh/doh5.ogg",length=0.408},{path="chatsounds/autoadd/instagib/doh/doh7.ogg",length=0.568}}
 L["dohhey"]={{path="chatsounds/autoadd/instagib/dohhey.ogg",length=2.407}}
 L["dohnuts"]={{path="chatsounds/autoadd/instagib/dohnuts.ogg",length=1.168}}
 L["dohoo"]={{path="chatsounds/autoadd/instagib/dohoo.ogg",length=3.913}}
@@ -792,8 +787,7 @@ L["medic"]={{path="chatsounds/autoadd/instagib/medic.ogg",length=1.020}}
 L["meep meep"]={{path="chatsounds/autoadd/instagib/meep meep.ogg",length=2.931}}
 L["megakill"]={{path="chatsounds/autoadd/instagib/megakill.ogg",length=1.773}}
 L["meiner"]={{path="chatsounds/autoadd/instagib/meiner.ogg",length=0.698}}
-L["meins"]={{path="chatsounds/autoadd/instagib/meins.ogg",length=3.122}}
-L["meins1"]={{path="chatsounds/autoadd/instagib/meins1.ogg",length=3.161}}
+L["meins"]={{path="chatsounds/autoadd/instagib/meins/meins.ogg",length=3.122},{path="chatsounds/autoadd/instagib/meins/meins1.ogg",length=3.161}}
 L["melde"]={{path="chatsounds/autoadd/instagib/melde.ogg",length=2.250}}
 L["menschen"]={{path="chatsounds/autoadd/instagib/menschen.ogg",length=4.300}}
 L["meow"]={{path="chatsounds/autoadd/instagib/meow.ogg",length=1.729}}
