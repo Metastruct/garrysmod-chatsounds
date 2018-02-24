@@ -3,6 +3,7 @@ L["bitconnaaaaaaaaaaaact"]={{path="chatsounds/autoadd/bitconnect/bitconnaaaaaaaa
 L["bitconnect"]={{path="chatsounds/autoadd/bitconnect/bitconnect.ogg",length=1.709}}
 L["bitconneeeeeeeeeeeect"]={{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/1.ogg",length=4.585},{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/2.ogg",length=5.214}}
 L["hahahaha"]={{path="chatsounds/autoadd/bitconnect/hahahaha.ogg",length=1.812}}
+L["heheheeeeyyyyyy"]={{path="chatsounds/autoadd/bitconnect/heheheeeeyyyyyy/1.ogg",length=2.879},{path="chatsounds/autoadd/bitconnect/heheheeeeyyyyyy/2.ogg",length=2.914},{path="chatsounds/autoadd/bitconnect/heheheeeeyyyyyy/3.ogg",length=2.895}}
 L["i loooooooooooooooooove"]={{path="chatsounds/autoadd/bitconnect/i loooooooooooooooooove.ogg",length=7.687}}
 L["nononono thats a scam"]={{path="chatsounds/autoadd/bitconnect/nononono thats a scam.ogg",length=2.672}}
 L["then i said to em i say to them you know what"]={{path="chatsounds/autoadd/bitconnect/then i said to em i say to them you know what.ogg",length=1.801}}
