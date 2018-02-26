@@ -71,6 +71,7 @@ L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["pelo its pelo pelo"]={{path="chatsounds/autoadd/mad_matrix/pelo its pelo pelo.ogg",length=2.373}}
+L["people see him hes hes aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/people see him hes hes aaaaaa.ogg",length=1.966}}
 L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length=9.979}}
 L["preduprizhdau u menya samij krupnij cock"]={{path="chatsounds/autoadd/mad_matrix/preduprizhdau u menya samij krupnij cock.ogg",length=2.498}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
