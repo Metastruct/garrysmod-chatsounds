@@ -2,6 +2,8 @@ c.StartList("music")
 L["90s music"]={{path="chatsounds/autoadd/music/90s music.ogg",length=19.149}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
+L["beat it"]={{path="chatsounds/autoadd/music/beat it.ogg",length=0.440}}
+L["beat it guitar"]={{path="chatsounds/autoadd/music/beat it guitar.ogg",length=6.277}}
 L["bochum ich haeng an dir"]={{path="chatsounds/autoadd/music/bochum ich haeng an dir.ogg",length=3.082}}
 L["bochum ich komm aus dir"]={{path="chatsounds/autoadd/music/bochum ich komm aus dir.ogg",length=3.495}}
 L["but my hope will never die"]={{path="chatsounds/autoadd/music/but my hope will never die.ogg",length=1.558}}
