@@ -3,6 +3,7 @@ L["aaany second now"]={{path="chatsounds/autoadd/tf2extra/aaany second now.ogg",
 L["ahyooyha"]={{path="chatsounds/autoadd/tf2extra/ahyooyha.ogg",length=1.384}}
 L["and thats what ya get for touching dicks fuckhead"]={{path="chatsounds/autoadd/tf2extra/and thats what ya get for touching dicks fuckhead.ogg",length=4.399}}
 L["and the doctor was never heard from again"]={{path="chatsounds/autoadd/tf2extra/and the doctor was never heard from again.ogg",length=2.565}}
+L["archimedes"]={{path="chatsounds/autoadd/tf2extra/archimedes.ogg",length=1.123}}
 L["archimedes no"]={{path="chatsounds/autoadd/tf2extra/archimedes no.ogg",length=2.007}}
 L["are you sure this will work"]={{path="chatsounds/autoadd/tf2extra/are you sure this will work.ogg",length=1.880}}
 L["big surprise"]={{path="chatsounds/autoadd/tf2extra/big surprise.ogg",length=0.984}}
@@ -87,6 +88,7 @@ L["noooon"]={{path="chatsounds/autoadd/tf2extra/noooon.ogg",length=1.653}}
 L["now"]={{path="chatsounds/autoadd/tf2extra/now.ogg",length=0.528}}
 L["oh"]={{path="chatsounds/autoadd/tf2extra/oh.ogg",length=0.296}}
 L["oh fuck it"]={{path="chatsounds/autoadd/tf2extra/oh fuck it.ogg",length=0.750}}
+L["oh man you would not believe how much this hurts"]={{path="chatsounds/autoadd/tf2extra/oh man you would not believe how much this hurts.ogg",length=4.586}}
 L["oh my god"]={{path="chatsounds/autoadd/tf2extra/oh my god.ogg",length=2.544}}
 L["oh thats a good one"]={{path="chatsounds/autoadd/tf2extra/oh thats a good one.ogg",length=1.920}}
 L["one crossed wire one wayward pinch of potassium chlorate one errant twitch and kablooie"]={{path="chatsounds/autoadd/tf2extra/one crossed wire one wayward pinch of potassium chlorate one errant twitch and kablooie.ogg",length=6.786}}
