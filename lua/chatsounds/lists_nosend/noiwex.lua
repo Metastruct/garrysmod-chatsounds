@@ -89,7 +89,6 @@ L["sho kipish poshel"]={{path="chatsounds/autoadd/noiwex/sho kipish poshel.ogg",
 L["shukher"]={{path="chatsounds/autoadd/noiwex/shukher.ogg",length=0.901}}
 L["shzuz shzaaz"]={{path="chatsounds/autoadd/noiwex/shzuz shzaaz.ogg",length=1.510}}
 L["skrillex"]={{path="chatsounds/autoadd/noiwex/skrillex.ogg",length=35.868}}
-L["sniper robotic laugh"]={{path="chatsounds/autoadd/noiwex/sniper robotic laugh.ogg",length=5.023}}
 L["sorry for what"]={{path="chatsounds/autoadd/noiwex/sorry for what.ogg",length=1.126}}
 L["sos"]={{path="chatsounds/autoadd/noiwex/sos.ogg",length=0.354}}
 L["stupid distorted"]={{path="chatsounds/autoadd/noiwex/stupid distorted.ogg",length=1.116}}
