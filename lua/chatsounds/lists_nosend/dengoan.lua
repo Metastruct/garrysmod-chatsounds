@@ -43,9 +43,7 @@ L["no means no"]={{path="chatsounds/autoadd/dengoan/no means no.ogg",length=1.53
 L["oh god"]={{path="chatsounds/autoadd/dengoan/oh god.ogg",length=1.627}}
 L["okai"]={{path="chatsounds/autoadd/dengoan/okai.ogg",length=0.506}}
 L["oraoraoraora"]={{path="chatsounds/autoadd/dengoan/oraoraoraora/oraoraoraora1.ogg",length=6.511},{path="chatsounds/autoadd/dengoan/oraoraoraora/oraoraoraora2.ogg",length=3.201},{path="chatsounds/autoadd/dengoan/oraoraoraora/oraoraoraora3.ogg",length=7.664},{path="chatsounds/autoadd/dengoan/oraoraoraora/oraoraoraora4.ogg",length=7.153}}
-L["ruru"]={{path="chatsounds/autoadd/dengoan/ruru.ogg",length=0.832}}
-L["ruru2"]={{path="chatsounds/autoadd/dengoan/ruru2.ogg",length=1.064}}
-L["ruru3"]={{path="chatsounds/autoadd/dengoan/ruru3.ogg",length=0.783}}
+L["ruru"]={{path="chatsounds/autoadd/dengoan/ruru/ruru.ogg",length=0.832},{path="chatsounds/autoadd/dengoan/ruru/ruru2.ogg",length=1.064},{path="chatsounds/autoadd/dengoan/ruru/ruru3.ogg",length=0.783}}
 L["sadpiano"]={{path="chatsounds/autoadd/dengoan/sadpiano.ogg",length=24.326}}
 L["shinkuu tatsumaki"]={{path="chatsounds/autoadd/dengoan/shinkuu tatsumaki.ogg",length=1.355}}
 L["shoryuken"]={{path="chatsounds/autoadd/dengoan/shoryuken.ogg",length=1.225}}
