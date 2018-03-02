@@ -187,7 +187,7 @@ hook.Add("OnChatTab", "chatsounds_autocomplete", function(text, peek)
 	if not chatsounds_autocomplete:GetBool() or ac.isbad(text) then return end
 
 	local isupper = false
-	if (#text >= 5) then
+	if (#text >= 3) then
 		local byte = string.byte(text[#text])
 		if (65 <= byte and byte <= 90) then
 			isupper = true
