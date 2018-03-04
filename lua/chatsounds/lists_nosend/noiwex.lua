@@ -1,7 +1,7 @@
 c.StartList("noiwex")
 L["2011"]={{path="chatsounds/autoadd/noiwex/2011.ogg",length=1.074}}
-L["a distorted"]={{path="chatsounds/autoadd/noiwex/a distorted.ogg",length=0.218}}
 L["adventures of gaben"]={{path="chatsounds/autoadd/noiwex/adventures of gaben.ogg",length=34.955}}
+L["ag"]={{path="chatsounds/autoadd/noiwex/ag.ogg",length=0.218}}
 L["ah fuck you leather man"]={{path="chatsounds/autoadd/noiwex/ah fuck you leather man.ogg",length=2.529}}
 L["aha"]={{path="chatsounds/autoadd/noiwex/aha.ogg",length=1.391}}
 L["ai"]={{path="chatsounds/autoadd/noiwex/ai.ogg",length=0.430}}
