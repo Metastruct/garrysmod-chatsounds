@@ -9,7 +9,7 @@ L["4weiber"]={{path="chatsounds/autoadd/instagib/4weiber.ogg",length=12.501}}
 L["aaa fuck fuck fuck fuuuck"]={{path="chatsounds/autoadd/instagib/aaa fuck fuck fuck fuuuck.ogg",length=4.315}}
 L["aaa1"]={{path="chatsounds/autoadd/instagib/aaa1.ogg",length=3.565}}
 L["aaa3"]={{path="chatsounds/autoadd/instagib/aaa3.ogg",length=1.796}}
-L["aaaaa"]={{path="chatsounds/autoadd/instagib/aaaaa.ogg",length=10.974}}
+L["aaaaa"]={{path="chatsounds/autoadd/instagib/aaaaa.ogg",length=10.974},{path="chatsounds/autoadd/instagib/aaaaa/aaaaa.ogg",length=10.974},{path="chatsounds/autoadd/instagib/aaaaa/aaaaa2.ogg",length=18.673}}
 L["aaaaa2"]={{path="chatsounds/autoadd/instagib/aaaaa2.ogg",length=18.673}}
 L["aaaaah aaah aaaaaaah"]={{path="chatsounds/autoadd/instagib/aaaaah aaah aaaaaaah.ogg",length=5.471}}
 L["ab"]={{path="chatsounds/autoadd/instagib/ab.ogg",length=1.320}}
@@ -869,6 +869,7 @@ L["no"]={{path="chatsounds/autoadd/instagib/no.ogg",length=0.914}}
 L["no youre going to get in trouble"]={{path="chatsounds/autoadd/instagib/no youre going to get in trouble.ogg",length=1.925}}
 L["no2"]={{path="chatsounds/autoadd/instagib/no2.ogg",length=0.820}}
 L["nodisco"]={{path="chatsounds/autoadd/instagib/nodisco.ogg",length=6.654}}
+L["noobs"]={{path="chatsounds/autoadd/instagib/noobs/noobs1.ogg",length=2.850},{path="chatsounds/autoadd/instagib/noobs/noobs2.ogg",length=2.028}}
 L["noobs1"]={{path="chatsounds/autoadd/instagib/noobs1.ogg",length=2.850}}
 L["noobs2"]={{path="chatsounds/autoadd/instagib/noobs2.ogg",length=2.028}}
 L["nopuedo"]={{path="chatsounds/autoadd/instagib/nopuedo.ogg",length=1.313}}
