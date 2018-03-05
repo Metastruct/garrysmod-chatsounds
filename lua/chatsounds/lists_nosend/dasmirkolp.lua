@@ -1,7 +1,7 @@
 c.StartList("dasmirkolp")
-L["alter falter"]={{path="chatsounds/autoadd/dasmirkolp/alter falter.ogg",length=1.231}}
 L["alter"]={{path="chatsounds/autoadd/dasmirkolp/alter.ogg",length=1.115}}
-L["alterr"]={{path="chatsounds/autoadd/dasmirkolp/alter1.ogg",length=1.416}}
+L["alter falter"]={{path="chatsounds/autoadd/dasmirkolp/alter falter.ogg",length=1.231}}
+L["alter1"]={{path="chatsounds/autoadd/dasmirkolp/alter1.ogg",length=1.416}}
 L["anliebsten aus frischen japanern geschnetzelt"]={{path="chatsounds/autoadd/dasmirkolp/anliebsten aus frischen japanern geschnetzelt.ogg",length=3.638}}
 L["baaaaaaaaaaahhh"]={{path="chatsounds/autoadd/dasmirkolp/baaaaaaaaaaahhh.ogg",length=1.477}}
 L["blub und bla bla"]={{path="chatsounds/autoadd/dasmirkolp/blub und bla bla.ogg",length=2.392}}
@@ -18,12 +18,13 @@ L["ey manno"]={{path="chatsounds/autoadd/dasmirkolp/ey manno.ogg",length=1.974}}
 L["fantastisch boah ich darf nicht bruellen"]={{path="chatsounds/autoadd/dasmirkolp/fantastisch boah ich darf nicht bruellen.ogg",length=7.077}}
 L["fick die huehner"]={{path="chatsounds/autoadd/dasmirkolp/fick die huehner.ogg",length=1.695}}
 L["ficken"]={{path="chatsounds/autoadd/dasmirkolp/ficken.ogg",length=1.207}}
-L["fotze"]={{path="chatsounds/autoadd/dasmirkolp/fotze.ogg",length=0.776}}
+L["fotze"]={{path="chatsounds/autoadd/dasmirkolp/fotze.ogg",length=0.766}}
 L["fuck"]={{path="chatsounds/autoadd/dasmirkolp/fuck.ogg",length=0.836}}
 L["fuuuuuuuck"]={{path="chatsounds/autoadd/dasmirkolp/fuuuuuuuck.ogg",length=1.158}}
 L["genau"]={{path="chatsounds/autoadd/dasmirkolp/genau.ogg",length=1.115}}
-L["gott wie dieses level suckt meine fresse suckt dieses level"]={{path="chatsounds/autoadd/dasmirkolp/gott wie dieses level suckt meine fresse suckt dieses level.ogg",length=4.272}}
 L["gott"]={{path="chatsounds/autoadd/dasmirkolp/gott.ogg",length=1.231}}
+L["gott wie dieses level suckt meine fresse suckt dieses level"]={{path="chatsounds/autoadd/dasmirkolp/gott wie dieses level suckt meine fresse suckt dieses level.ogg",length=4.272}}
+L["h was"]={{path="chatsounds/autoadd/dasmirkolp/h was.ogg",length=0.859}}
 L["herman"]={{path="chatsounds/autoadd/dasmirkolp/herman.ogg",length=1.115}}
 L["hitler"]={{path="chatsounds/autoadd/dasmirkolp/hitler.ogg",length=1.416}}
 L["ihr verfickten hurensoehne"]={{path="chatsounds/autoadd/dasmirkolp/ihr verfickten hurensoehne.ogg",length=11.378}}
@@ -31,10 +32,10 @@ L["ja da blueht meine kindheit auf"]={{path="chatsounds/autoadd/dasmirkolp/ja da
 L["jaaa nie wieder dieses scheiss level"]={{path="chatsounds/autoadd/dasmirkolp/jaaa nie wieder dieses scheiss level.ogg",length=14.526}}
 L["leck mich"]={{path="chatsounds/autoadd/dasmirkolp/leck mich.ogg",length=1.416}}
 L["man"]={{path="chatsounds/autoadd/dasmirkolp/man.ogg",length=0.766}}
+L["neiiin"]={{path="chatsounds/autoadd/dasmirkolp/neiiin.ogg",length=1.416}}
 L["nein du nutte"]={{path="chatsounds/autoadd/dasmirkolp/nein du nutte.ogg",length=1.878}}
 L["nein ich reg mich doch nicht auf"]={{path="chatsounds/autoadd/dasmirkolp/nein ich reg mich doch nicht auf.ogg",length=4.347}}
 L["nein what the fuck da ist auch einer"]={{path="chatsounds/autoadd/dasmirkolp/nein what the fuck da ist auch einer.ogg",length=3.557}}
-L["neiiin"]={{path="chatsounds/autoadd/dasmirkolp/neiiin.ogg",length=1.416}}
 L["nnneeeiiinnn"]={{path="chatsounds/autoadd/dasmirkolp/nnneeeiiinnn.ogg",length=1.565}}
 L["oh du verdammter japaner"]={{path="chatsounds/autoadd/dasmirkolp/oh du verdammter japaner.ogg",length=3.204}}
 L["oh mein gott ist das ein scheiss level"]={{path="chatsounds/autoadd/dasmirkolp/oh mein gott ist das ein scheiss level.ogg",length=3.576}}
@@ -47,5 +48,4 @@ L["was ist denn das"]={{path="chatsounds/autoadd/dasmirkolp/was ist denn das.ogg
 L["was war das denn oh mein gott"]={{path="chatsounds/autoadd/dasmirkolp/was war das denn oh mein gott.ogg",length=4.707}}
 L["was zum"]={{path="chatsounds/autoadd/dasmirkolp/was zum.ogg",length=1.024}}
 L["what the fuck"]={{path="chatsounds/autoadd/dasmirkolp/what the fuck.ogg",length=1.695}}
-L["h was"]={{path="chatsounds/autoadd/dasmirkolp/h was.ogg",length=0.859}}
 c.EndList()
