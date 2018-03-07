@@ -18,6 +18,7 @@ L["blolb"]={{path="chatsounds/autoadd/tf2extra/blolb.ogg",length=0.579}}
 L["booing"]={{path="chatsounds/autoadd/tf2extra/booing.ogg",length=5.954}}
 L["box"]={{path="chatsounds/autoadd/tf2extra/box.ogg",length=0.601}}
 L["bububububububububububububu"]={{path="chatsounds/autoadd/tf2extra/bububububububububububububu.ogg",length=1.290}}
+L["bullshit"]={{path="chatsounds/autoadd/tf2extra/bullshit.ogg",length=0.594}}
 L["burp distorted"]={{path="chatsounds/autoadd/tf2extra/burp distorted.ogg",length=0.423}}
 L["but im very certain"]={{path="chatsounds/autoadd/tf2extra/but im very certain.ogg",length=1.496}}
 L["but it was then"]={{path="chatsounds/autoadd/tf2extra/but it was then.ogg",length=0.726}}
@@ -75,6 +76,7 @@ L["i have no idea"]={{path="chatsounds/autoadd/tf2extra/i have no idea.ogg",leng
 L["i love mcdonalds distorted"]={{path="chatsounds/autoadd/tf2extra/i love mcdonalds distorted.ogg",length=2.571}}
 L["if i were a bad demoman i wouldnt be sittin here discussin it with you now would i"]={{path="chatsounds/autoadd/tf2extra/if i were a bad demoman i wouldnt be sittin here discussin it with you now would i.ogg",length=5.242}}
 L["im"]={{path="chatsounds/autoadd/tf2extra/im.ogg",length=0.319}}
+L["im watchin porno"]={{path="chatsounds/autoadd/tf2extra/im watchin porno.ogg",length=1.880}}
 L["inspiration"]={{path="chatsounds/autoadd/tf2extra/inspiration.ogg",length=0.933}}
 L["is my weapon"]={{path="chatsounds/autoadd/tf2extra/is my weapon.ogg",length=1.343}}
 L["is not fair"]={{path="chatsounds/autoadd/tf2extra/is not fair.ogg",length=0.866}}
