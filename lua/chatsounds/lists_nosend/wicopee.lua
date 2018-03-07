@@ -106,6 +106,7 @@ L["sees"]={{path="chatsounds/autoadd/wicopee/sees.ogg",length=0.463}}
 L["segodnya denj ili nochj"]={{path="chatsounds/autoadd/wicopee/segodnya denj ili nochj.ogg",length=1.239}}
 L["serbiastrong8bit"]={{path="chatsounds/autoadd/wicopee/serbiastrong8bit.ogg",length=8.289}}
 L["sharik ti idiot"]={{path="chatsounds/autoadd/wicopee/sharik ti idiot.ogg",length=2.751}}
+L["shout"]={{path="chatsounds/autoadd/wicopee/shout.ogg",length=2.504}}
 L["shto"]={{path="chatsounds/autoadd/wicopee/shto.ogg",length=0.873}}
 L["sir ne stuchite"]={{path="chatsounds/autoadd/wicopee/sir ne stuchite.ogg",length=1.431}}
 L["sis"]={{path="chatsounds/autoadd/wicopee/sis.ogg",length=0.342}}
