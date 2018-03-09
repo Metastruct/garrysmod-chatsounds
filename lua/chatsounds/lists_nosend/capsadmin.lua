@@ -134,18 +134,7 @@ L["scream3"]={{path="chatsounds/autoadd/capsadmin/scream3.ogg",length=15.005}}
 L["scream4"]={{path="chatsounds/autoadd/capsadmin/scream4.ogg",length=3.023}}
 L["shit"]={{path="chatsounds/autoadd/capsadmin/shit.ogg",length=0.958}}
 L["shit flyin in my mouth"]={{path="chatsounds/autoadd/capsadmin/shit flyin in my mouth.ogg",length=2.208}}
-L["skatepain1"]={{path="chatsounds/autoadd/capsadmin/skatepain1.ogg",length=4.199}}
-L["skatepain10"]={{path="chatsounds/autoadd/capsadmin/skatepain10.ogg",length=7.534}}
-L["skatepain11"]={{path="chatsounds/autoadd/capsadmin/skatepain11.ogg",length=6.630}}
-L["skatepain2"]={{path="chatsounds/autoadd/capsadmin/skatepain2.ogg",length=3.766}}
-L["skatepain3"]={{path="chatsounds/autoadd/capsadmin/skatepain3.ogg",length=3.520}}
-L["skatepain4"]={{path="chatsounds/autoadd/capsadmin/skatepain4.ogg",length=5.561}}
-L["skatepain5"]={{path="chatsounds/autoadd/capsadmin/skatepain5.ogg",length=5.571}}
-L["skatepain6"]={{path="chatsounds/autoadd/capsadmin/skatepain6.ogg",length=3.703}}
-L["skatepain7"]={{path="chatsounds/autoadd/capsadmin/skatepain7.ogg",length=3.511}}
-L["skatepain8"]={{path="chatsounds/autoadd/capsadmin/skatepain8.ogg",length=11.403}}
-L["skatepain8v2"]={{path="chatsounds/autoadd/capsadmin/skatepain8v2.ogg",length=7.005}}
-L["skatepain9"]={{path="chatsounds/autoadd/capsadmin/skatepain9.ogg",length=3.920}}
+L["skatepain"]={{path="chatsounds/autoadd/capsadmin/skatepain/skatepain1.ogg",length=4.199},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain10.ogg",length=7.534},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain11.ogg",length=6.630},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain2.ogg",length=3.766},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain3.ogg",length=3.520},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain4.ogg",length=5.561},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain5.ogg",length=5.571},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain6.ogg",length=3.703},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain7.ogg",length=3.511},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain8.ogg",length=11.403},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain8v2.ogg",length=7.005},{path="chatsounds/autoadd/capsadmin/skatepain/skatepain9.ogg",length=3.920}}
 L["slapslapslapslapslap"]={{path="chatsounds/autoadd/capsadmin/slapslapslapslapslap.ogg",length=0.211}}
 L["slash"]={{path="chatsounds/autoadd/capsadmin/slash.ogg",length=0.739}}
 L["stop it stop stop stop stop stop ah aah stop it you fucker stop"]={{path="chatsounds/autoadd/capsadmin/stop it stop stop stop stop stop ah aah stop it you fucker stop.ogg",length=8.144}}
