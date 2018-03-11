@@ -100,6 +100,7 @@ L["meem"]={{path="chatsounds/autoadd/tf2extra/meem/meem01.ogg",length=0.446},{pa
 L["mine"]={{path="chatsounds/autoadd/tf2extra/mine.ogg",length=0.428}}
 L["mrprprpm"]={{path="chatsounds/autoadd/tf2extra/mrprprpm.ogg",length=0.653}}
 L["mumnumnum"]={{path="chatsounds/autoadd/tf2extra/mumnumnum.ogg",length=0.809}}
+L["needas"]={{path="chatsounds/autoadd/tf2extra/needas.ogg",length=0.472}}
 L["nneeiinn"]={{path="chatsounds/autoadd/tf2extra/nneeiinn.ogg",length=1.878}}
 L["no shut the fuck up distorted"]={{path="chatsounds/autoadd/tf2extra/no shut the fuck up distorted.ogg",length=3.193}}
 L["no they dont"]={{path="chatsounds/autoadd/tf2extra/no they dont.ogg",length=0.568}}
