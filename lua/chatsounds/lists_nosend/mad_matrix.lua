@@ -11,6 +11,7 @@ L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
+L["dead insect"]={{path="chatsounds/autoadd/mad_matrix/dead insect.ogg",length=2.298}}
 L["dont play with matches"]={{path="chatsounds/autoadd/mad_matrix/dont play with matches.ogg",length=1.831}}
 L["doorsmack loudscream"]={{path="chatsounds/autoadd/mad_matrix/doorsmack loudscream.ogg",length=2.059}}
 L["doorsounds"]={{path="chatsounds/autoadd/mad_matrix/doorsounds/1.ogg",length=0.782},{path="chatsounds/autoadd/mad_matrix/doorsounds/2.ogg",length=0.446}}
@@ -62,6 +63,11 @@ L["madmatrixlaugh"]={{path="chatsounds/autoadd/mad_matrix/madmatrixlaugh.ogg",le
 L["madmatrixnoise"]={{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/1.ogg",length=0.279},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/2.ogg",length=1.674},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/3.ogg",length=0.667},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/4.ogg",length=0.503},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/5.ogg",length=0.569}}
 L["madmatrixscream"]={{path="chatsounds/autoadd/mad_matrix/madmatrixscream.ogg",length=2.297}}
 L["makes another soos"]={{path="chatsounds/autoadd/mad_matrix/makes another soos.ogg",length=1.211}}
+L["man getting a bright idea"]={{path="chatsounds/autoadd/mad_matrix/man getting a bright idea.ogg",length=3.402}}
+L["man reading"]={{path="chatsounds/autoadd/mad_matrix/man reading.ogg",length=1.496}}
+L["man relaxing"]={{path="chatsounds/autoadd/mad_matrix/man relaxing.ogg",length=2.506}}
+L["man watching silent movie"]={{path="chatsounds/autoadd/mad_matrix/man watching silent movie.ogg",length=2.398}}
+L["man watching television with volume at zero"]={{path="chatsounds/autoadd/mad_matrix/man watching television with volume at zero.ogg",length=4.513}}
 L["nani"]={{path="chatsounds/autoadd/mad_matrix/nani.ogg",length=0.538}}
 L["niet distorted"]={{path="chatsounds/autoadd/mad_matrix/niet distorted.ogg",length=3.638}}
 L["nikogda"]={{path="chatsounds/autoadd/mad_matrix/nikogda.ogg",length=0.676}}
@@ -104,6 +110,7 @@ L["ti ubil etu dvercu"]={{path="chatsounds/autoadd/mad_matrix/ti ubil etu dvercu
 L["ti ubil golfista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil golfista.ogg",length=1.043}}
 L["ti ubil japonskogo onanista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil japonskogo onanista.ogg",length=1.504}}
 L["tits"]={{path="chatsounds/autoadd/mad_matrix/tits.ogg",length=1.246}}
+L["twang"]={{path="chatsounds/autoadd/mad_matrix/twang.ogg",length=1.538}}
 L["unintelligible"]={{path="chatsounds/autoadd/mad_matrix/unintelligible.ogg",length=1.865}}
 L["vernonscreamdistorted"]={{path="chatsounds/autoadd/mad_matrix/vernonscreamdistorted.ogg",length=4.121}}
 L["vstavai"]={{path="chatsounds/autoadd/mad_matrix/vstavai.ogg",length=0.723}}
