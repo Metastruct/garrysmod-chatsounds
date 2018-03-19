@@ -25,6 +25,10 @@ L["laugh"]={{path="chatsounds/autoadd/monty_python/laugh.ogg",length=1.890}}
 L["mooing"]={{path="chatsounds/autoadd/monty_python/mooing.ogg",length=2.148}}
 L["mornin"]={{path="chatsounds/autoadd/monty_python/mornin/mornin1.ogg",length=0.546},{path="chatsounds/autoadd/monty_python/mornin/mornin2.ogg",length=0.627}}
 L["naaaa"]={{path="chatsounds/autoadd/monty_python/naaaa.ogg",length=0.824}}
+L["ni"]={{path="chatsounds/autoadd/monty_python/ni/1.ogg",length=0.393},{path="chatsounds/autoadd/monty_python/ni/2.ogg",length=0.524},{path="chatsounds/autoadd/monty_python/ni/3.ogg",length=0.349},{path="chatsounds/autoadd/monty_python/ni/4.ogg",length=0.546}}
+L["ni ni ni ni ni ni who are you"]={{path="chatsounds/autoadd/monty_python/ni ni ni ni ni ni who are you.ogg",length=2.938}}
+L["ni ni ni ni ow ow ow"]={{path="chatsounds/autoadd/monty_python/ni ni ni ni ow ow ow.ogg",length=6.739}}
+L["nnni"]={{path="chatsounds/autoadd/monty_python/nnni.ogg",length=0.826}}
 L["quick otto ze typewriter"]={{path="chatsounds/autoadd/monty_python/quick otto ze typewriter.ogg",length=1.874}}
 L["razzing"]={{path="chatsounds/autoadd/monty_python/razzing.ogg",length=5.741}}
 L["shes called"]={{path="chatsounds/autoadd/monty_python/shes called.ogg",length=1.308}}
@@ -33,8 +37,12 @@ L["spammityspam"]={{path="chatsounds/autoadd/monty_python/spammityspam.ogg",leng
 L["spamsong"]={{path="chatsounds/autoadd/monty_python/spamsong/spamsong1.ogg",length=13.531},{path="chatsounds/autoadd/monty_python/spamsong/spamsong2.ogg",length=16.184}}
 L["thats got spam in it"]={{path="chatsounds/autoadd/monty_python/thats got spam in it.ogg",length=1.126}}
 L["thats not funny"]={{path="chatsounds/autoadd/monty_python/thats not funny.ogg",length=1.499}}
+L["the knights who say ni demand a sacrifice"]={{path="chatsounds/autoadd/monty_python/the knights who say ni demand a sacrifice.ogg",length=4.435}}
 L["tread on his corns"]={{path="chatsounds/autoadd/monty_python/tread on his corns.ogg",length=1.143}}
 L["wait till biggus dickus hears of this"]={{path="chatsounds/autoadd/monty_python/wait till biggus dickus hears of this.ogg",length=1.407}}
+L["we are the knights who say"]={{path="chatsounds/autoadd/monty_python/we are the knights who say.ogg",length=2.130}}
+L["we shall say ni again to you if you do not appease us"]={{path="chatsounds/autoadd/monty_python/we shall say ni again to you if you do not appease us.ogg",length=4.652}}
+L["we want a shrubbery"]={{path="chatsounds/autoadd/monty_python/we want a shrubbery.ogg",length=5.384}}
 L["well dont make a fuss dear ill have your spam i love it"]={{path="chatsounds/autoadd/monty_python/well dont make a fuss dear ill have your spam i love it.ogg",length=3.111}}
 L["well dont make a fuss dear ill have your spam i love it im having spam spam spam spam spam"]={{path="chatsounds/autoadd/monty_python/well dont make a fuss dear ill have your spam i love it im having spam spam spam spam spam.ogg",length=5.515}}
 L["what a strange person"]={{path="chatsounds/autoadd/monty_python/what a strange person.ogg",length=1.470}}
