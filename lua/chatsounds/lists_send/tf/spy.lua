@@ -239,7 +239,7 @@ L["shoot"]={{path="vo/spy_rpscountgo03.mp3",length=0.9142857142857},{path="vo/sp
 L["short"]={{path="vo/spy_laughshort05.mp3",length=0.77786848072562}}
 L["short laugh"]={{path="vo/spy_laughshort06.mp3",length=0.63854875283447}}
 L["slap my hand"]={{path="vo/taunts/spy_highfive01.mp3",length=0.95809523809524}}
-L["slap it now "]={{path="vo/taunts/spy_highfive02.mp3",length=0.3115000128746}}
+L["slap it now"]={{path="vo/taunts/spy_highfive02.mp3",length=0.3115000128746}}
 L["so your deadly skill is jogging mine is murdering people"]={{path="vo/spy_dominationscout08.mp3",length=4.9066666666667}}
 L["some are born great others have greatness thrust into their sternums"]={{path="vo/spy_stabtaunt05.mp3",length=4.9371428571429}}
 L["some assistance please"]={{path="vo/spy_helpme02.mp3",length=1.2770975056689}}
