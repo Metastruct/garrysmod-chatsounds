@@ -1,4 +1,5 @@
 c.StartList("bitconnect")
+L["bit con neeeect"]={{path="chatsounds/autoadd/bitconnect/bit con neeeect.ogg",length=5.563}}
 L["bitconnaaaaaaaaaaaact"]={{path="chatsounds/autoadd/bitconnect/bitconnaaaaaaaaaaaact.ogg",length=4.886}}
 L["bitconnect"]={{path="chatsounds/autoadd/bitconnect/bitconnect.ogg",length=1.709}}
 L["bitconneeeeeeeeeeeect"]={{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/1.ogg",length=4.585},{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/2.ogg",length=5.214},{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/3.ogg",length=17.043}}
