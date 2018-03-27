@@ -30,7 +30,6 @@ L["great keep it up"]={{path="chatsounds/autoadd/cooking_mama/great keep it up.o
 L["had it"]={{path="chatsounds/autoadd/cooking_mama/had it.ogg",length=0.824}}
 L["help you"]={{path="chatsounds/autoadd/cooking_mama/help you.ogg",length=0.719}}
 L["impressed"]={{path="chatsounds/autoadd/cooking_mama/impressed.ogg",length=0.928}}
-L["it"]={{path="chatsounds/autoadd/cooking_mama/it.ogg",length=0.249}}
 L["its ok"]={{path="chatsounds/autoadd/cooking_mama/its ok.ogg",length=1.007}}
 L["its perfect"]={{path="chatsounds/autoadd/cooking_mama/its perfect.ogg",length=1.268}}
 L["job"]={{path="chatsounds/autoadd/cooking_mama/job.ogg",length=0.406}}
