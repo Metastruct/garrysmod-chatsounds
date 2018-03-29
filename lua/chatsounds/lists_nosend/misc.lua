@@ -53,6 +53,7 @@ L["jeers2"]={{path="chatsounds/autoadd/misc/jeers2.ogg",length=7.496}}
 L["klopfolo"]={{path="chatsounds/autoadd/misc/klopfolo.ogg",length=0.313}}
 L["kurwa"]={{path="chatsounds/autoadd/misc/kurwa.ogg",length=1.282}}
 L["ldeath"]={{path="chatsounds/autoadd/misc/ldeath.ogg",length=1.007}}
+L["life is pain i hate"]={{path="chatsounds/autoadd/misc/life is pain i hate.ogg",length=2.099}}
 L["littlegirls"]={{path="chatsounds/autoadd/misc/littlegirls.ogg",length=4.965}}
 L["loud nigra"]={{path="chatsounds/autoadd/misc/loud nigra.ogg",length=13.858}}
 L["lul"]={{path="chatsounds/autoadd/misc/lul.ogg",length=0.358}}
