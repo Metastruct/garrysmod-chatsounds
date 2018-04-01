@@ -172,6 +172,7 @@ L["taat yooy fiif dannad soos prouuorp"]={{path="chatsounds/autoadd/tf2extra/taa
 L["tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs"]={{path="chatsounds/autoadd/tf2extra/tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs.ogg",length=8.951}}
 L["that background is a bloody crap"]={{path="chatsounds/autoadd/tf2extra/that background is a bloody crap.ogg",length=3.075}}
 L["that looks good"]={{path="chatsounds/autoadd/tf2extra/that looks good.ogg",length=0.808}}
+L["that pony is a bloody paintraingineer soup can gun scrumpy pussy wii teleporter"]={{path="chatsounds/autoadd/tf2extra/that pony is a bloody paintraingineer soup can gun scrumpy pussy wii teleporter.ogg",length=12.725}}
 L["the sound of progress"]={{path="chatsounds/autoadd/tf2extra/the sound of progress.ogg",length=1.360}}
 L["theeht goog moom"]={{path="chatsounds/autoadd/tf2extra/theeht goog moom.ogg",length=0.746}}
 L["this bucket is hell"]={{path="chatsounds/autoadd/tf2extra/this bucket is hell.ogg",length=2.011}}
@@ -182,11 +183,13 @@ L["turn your head and snort this"]={{path="chatsounds/autoadd/tf2extra/turn your
 L["tweet tweet tweet loud"]={{path="chatsounds/autoadd/tf2extra/tweet tweet tweet loud.ogg",length=1.717}}
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.909}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.539}}
+L["we are going to need that stupid cartoon horse"]={{path="chatsounds/autoadd/tf2extra/we are going to need that stupid cartoon horse.ogg",length=3.017}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
 L["what makes me a good demoman"]={{path="chatsounds/autoadd/tf2extra/what makes me a good demoman.ogg",length=2.305}}
 L["what was noise"]={{path="chatsounds/autoadd/tf2extra/what was noise.ogg",length=2.012}}
 L["when the patient woke up his skeleton was missing"]={{path="chatsounds/autoadd/tf2extra/when the patient woke up his skeleton was missing.ogg",length=3.195}}
 L["where was i"]={{path="chatsounds/autoadd/tf2extra/where was i.ogg",length=0.576}}
+L["which idiot made this"]={{path="chatsounds/autoadd/tf2extra/which idiot made this.ogg",length=1.489}}
 L["who touched my gun"]={{path="chatsounds/autoadd/tf2extra/who touched my gun.ogg",length=1.780}}
 L["won"]={{path="chatsounds/autoadd/tf2extra/won.ogg",length=0.528}}
 L["wooooohhhhh"]={{path="chatsounds/autoadd/tf2extra/wooooohhhhh.ogg",length=2.499}}
