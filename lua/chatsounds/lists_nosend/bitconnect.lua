@@ -1,8 +1,12 @@
 c.StartList("bitconnect")
+L["37 days ago"]={{path="chatsounds/autoadd/bitconnect/37 days ago.ogg",length=1.565}}
+L["around one hun i mean around 1000 and 400 dollars on an everyday basis 7 days a week"]={{path="chatsounds/autoadd/bitconnect/around one hun i mean around 1000 and 400 dollars on an everyday basis 7 days a week.ogg",length=6.823}}
+L["bit con neeeect"]={{path="chatsounds/autoadd/bitconnect/bit con neeeect.ogg",length=5.563}}
 L["bitconnaaaaaaaaaaaact"]={{path="chatsounds/autoadd/bitconnect/bitconnaaaaaaaaaaaact.ogg",length=4.886}}
 L["bitconnect"]={{path="chatsounds/autoadd/bitconnect/bitconnect.ogg",length=1.709}}
 L["bitconneeeeeeeeeeeect"]={{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/1.ogg",length=4.585},{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/2.ogg",length=5.214},{path="chatsounds/autoadd/bitconnect/bitconneeeeeeeeeeeect/3.ogg",length=17.043}}
 L["hahahaha"]={{path="chatsounds/autoadd/bitconnect/hahahaha.ogg",length=1.812}}
+L["hahahahahaha"]={{path="chatsounds/autoadd/bitconnect/hahahahahaha.ogg",length=1.301}}
 L["heheheeeeyyyyyy"]={{path="chatsounds/autoadd/bitconnect/heheheeeeyyyyyy/1.ogg",length=2.879},{path="chatsounds/autoadd/bitconnect/heheheeeeyyyyyy/2.ogg",length=2.914},{path="chatsounds/autoadd/bitconnect/heheheeeeyyyyyy/3.ogg",length=2.895}}
 L["hey you gonna lose all your mone"]={{path="chatsounds/autoadd/bitconnect/hey you gonna lose all your mone.ogg",length=1.737}}
 L["heyheyhey everybody my name is carlos matos and i am coming from new york city new york"]={{path="chatsounds/autoadd/bitconnect/heyheyhey everybody my name is carlos matos and i am coming from new york city new york.ogg",length=6.124}}

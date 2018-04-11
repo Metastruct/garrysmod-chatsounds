@@ -95,7 +95,7 @@ L["idiot"]={{path="chatsounds/autoadd/tenrys/idiot.ogg",length=0.700}}
 L["if americas gone to shit"]={{path="chatsounds/autoadd/tenrys/if americas gone to shit.ogg",length=1.925}}
 L["ill create a gui interface using visual basic see if i can track an ip address"]={{path="chatsounds/autoadd/tenrys/ill create a gui interface using visual basic see if i can track an ip address.ogg",length=5.168}}
 L["ill just let myself in then"]={{path="chatsounds/autoadd/tenrys/ill just let myself in then.ogg",length=2.406}}
-L["im fucking invincible"]={{path="chatsounds/autoadd/tenrys/im fucking invincible.ogg",length=2.321}}
+L["im fucking invincible"]={{path="chatsounds/autoadd/tenrys/im fucking invincible.ogg",length=2.241}}
 L["im pickin the lock"]={{path="chatsounds/autoadd/tenrys/im pickin the lock.ogg",length=1.218}}
 L["im sorry"]={{path="chatsounds/autoadd/tenrys/im sorry.ogg",length=2.340}}
 L["im that nigga ayy"]={{path="chatsounds/autoadd/tenrys/im that nigga ayy.ogg",length=2.017}}

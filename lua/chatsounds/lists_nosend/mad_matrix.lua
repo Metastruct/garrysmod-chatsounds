@@ -31,6 +31,7 @@ L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
 L["gotcha"]={{path="chatsounds/autoadd/mad_matrix/gotcha.ogg",length=0.401}}
 L["happy birthday"]={{path="chatsounds/autoadd/mad_matrix/happy birthday.ogg",length=1.760}}
+L["hashtag craefulgang"]={{path="chatsounds/autoadd/mad_matrix/hashtag craefulgang.ogg",length=1.883}}
 L["hehehehe"]={{path="chatsounds/autoadd/mad_matrix/hehehehe.ogg",length=0.940}}
 L["here hold this"]={{path="chatsounds/autoadd/mad_matrix/here hold this.ogg",length=1.429}}
 L["hes got a soos"]={{path="chatsounds/autoadd/mad_matrix/hes got a soos.ogg",length=1.082}}
@@ -91,6 +92,7 @@ L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length
 L["preduprizhdau u menya samij krupnij cock"]={{path="chatsounds/autoadd/mad_matrix/preduprizhdau u menya samij krupnij cock.ogg",length=2.498}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
 L["remember that"]={{path="chatsounds/autoadd/mad_matrix/remember that.ogg",length=0.684}}
+L["responsibilityyy"]={{path="chatsounds/autoadd/mad_matrix/responsibilityyy.ogg",length=1.346}}
 L["rule number one i cant kill anybody ayayayaya"]={{path="chatsounds/autoadd/mad_matrix/rule number one i cant kill anybody ayayayaya.ogg",length=3.882}}
 L["rule number three i cant make anybody fall in love with the dead"]={{path="chatsounds/autoadd/mad_matrix/rule number three i cant make anybody fall in love with the dead.ogg",length=4.124}}
 L["rule number two i cant kill anybody else aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/rule number two i cant kill anybody else aaaaaa.ogg",length=3.132}}
@@ -113,6 +115,7 @@ L["ti ubil golfista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil golfista.ogg
 L["ti ubil japonskogo onanista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil japonskogo onanista.ogg",length=1.504}}
 L["tits"]={{path="chatsounds/autoadd/mad_matrix/tits.ogg",length=1.246}}
 L["twang"]={{path="chatsounds/autoadd/mad_matrix/twang.ogg",length=1.538}}
+L["u hav to be extremely craeful"]={{path="chatsounds/autoadd/mad_matrix/u hav to be extremely craeful.ogg",length=3.402}}
 L["unintelligible"]={{path="chatsounds/autoadd/mad_matrix/unintelligible.ogg",length=1.865}}
 L["vernonscreamdistorted"]={{path="chatsounds/autoadd/mad_matrix/vernonscreamdistorted.ogg",length=4.121}}
 L["vstavai"]={{path="chatsounds/autoadd/mad_matrix/vstavai.ogg",length=0.723}}
