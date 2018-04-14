@@ -42,8 +42,7 @@ L["it was a smashing success"]={{path="chatsounds/autoadd/dirty_potter/it was a 
 L["ive just been cumming on my dead mum and im just off to do a bit more"]={{path="chatsounds/autoadd/dirty_potter/ive just been cumming on my dead mum and im just off to do a bit more.ogg",length=4.498}}
 L["jim dale adjusted his dick in his trouser before continuing"]={{path="chatsounds/autoadd/dirty_potter/jim dale adjusted his dick in his trouser before continuing.ogg",length=3.796}}
 L["jim dale cum sound"]={{path="chatsounds/autoadd/dirty_potter/jim dale cum sound.ogg",length=0.281}}
-L["jim dale rap 1"]={{path="chatsounds/autoadd/dirty_potter/jim dale rap 1.ogg",length=26.289}}
-L["jim dale rap 2"]={{path="chatsounds/autoadd/dirty_potter/jim dale rap 2.ogg",length=28.574}}
+L["jim dale rap"]={{path="chatsounds/autoadd/dirty_potter/jim dale rap/jim dale rap 1.ogg",length=26.289},{path="chatsounds/autoadd/dirty_potter/jim dale rap/jim dale rap 2.ogg",length=28.574}}
 L["listener perversion is advised"]={{path="chatsounds/autoadd/dirty_potter/listener perversion is advised.ogg",length=2.202}}
 L["mmm blood my favourite"]={{path="chatsounds/autoadd/dirty_potter/mmm blood my favourite.ogg",length=7.324}}
 L["niggers should be put down said hagrid"]={{path="chatsounds/autoadd/dirty_potter/niggers should be put down said hagrid.ogg",length=2.965}}

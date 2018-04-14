@@ -3,7 +3,7 @@ L["ayaya"]={{path="chatsounds/autoadd/weeb/ayaya/1.ogg",length=1.160},{path="cha
 L["better"]={{path="chatsounds/autoadd/weeb/better.ogg",length=0.517}}
 L["but i poop from there"]={{path="chatsounds/autoadd/weeb/but i poop from there.ogg",length=1.863}}
 L["cheater"]={{path="chatsounds/autoadd/weeb/cheater.ogg",length=0.808}}
-L["chu! natsu party"]={{path="chatsounds/autoadd/weeb/chu! natsu party/1.ogg",length=8.568}}
+L["chu natsu party"]={{path="chatsounds/autoadd/weeb/chu natsu party/1.ogg",length=8.568}}
 L["dont leave me now"]={{path="chatsounds/autoadd/weeb/dont leave me now.ogg",length=1.505}}
 L["fuck you this is america"]={{path="chatsounds/autoadd/weeb/fuck you this is america.ogg",length=18.587}}
 L["good"]={{path="chatsounds/autoadd/weeb/good.ogg",length=0.824}}

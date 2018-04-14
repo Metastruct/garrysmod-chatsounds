@@ -10,6 +10,10 @@ addons:
                         - libmp3lame-dev
                         - yasm
 
+before_install:
+        - rm -f invalid-soundfiles.txt
+        - if [ -f chatsounds-preprocessor-cache ]; then >&2 echo -e "Precondition failed\x3A Preprocessor cache file exists in the repo."; false; fi
+
 install:
         - git clone https://github.com/PotcFdk/chatsounds-preprocessor chatsounds-preprocessor.repo --depth 1 --branch v1.2.0
         - cd chatsounds-preprocessor.repo
@@ -32,5 +36,4 @@ after_success:
                 echo "The commit this build was started for is not the one on master. Not pushing to master.";
           fi
 
-after_failure:
-        - echo "Invalid sound files list:" && cat invalid-soundfiles.txt
+after_failure: if [ -f invalid-soundfiles.txt ]; then >&2 echo "Invalid sound files list:" | cat - invalid-soundfiles.txt; fi

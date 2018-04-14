@@ -2,6 +2,8 @@ c.StartList("music")
 L["90s music"]={{path="chatsounds/autoadd/music/90s music.ogg",length=19.149}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
+L["beat it"]={{path="chatsounds/autoadd/music/beat it.ogg",length=0.440}}
+L["beat it guitar"]={{path="chatsounds/autoadd/music/beat it guitar.ogg",length=6.277}}
 L["bochum ich haeng an dir"]={{path="chatsounds/autoadd/music/bochum ich haeng an dir.ogg",length=3.082}}
 L["bochum ich komm aus dir"]={{path="chatsounds/autoadd/music/bochum ich komm aus dir.ogg",length=3.495}}
 L["but my hope will never die"]={{path="chatsounds/autoadd/music/but my hope will never die.ogg",length=1.558}}
@@ -13,6 +15,7 @@ L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.1
 L["dontloseyourway"]={{path="chatsounds/autoadd/music/dontloseyourway.ogg",length=35.900}}
 L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.ogg",length=20.972}}
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
+L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
 L["fuckbeesremastered"]={{path="chatsounds/autoadd/music/fuckbeesremastered.ogg",length=201.326}}
 L["fuckbeessong"]={{path="chatsounds/autoadd/music/fuckbeessong.ogg",length=73.781}}
 L["hah gay remix"]={{path="chatsounds/autoadd/music/hah gay remix.ogg",length=15.929}}
@@ -44,7 +47,6 @@ L["whatarethosejurassicpark"]={{path="chatsounds/autoadd/music/whatarethosejuras
 L["why the fuck you lying"]={{path="chatsounds/autoadd/music/why the fuck you lying.ogg",length=2.396}}
 L["why you always lying"]={{path="chatsounds/autoadd/music/why you always lying.ogg",length=2.057}}
 L["worldholdon"]={{path="chatsounds/autoadd/music/worldholdon.ogg",length=15.124}}
-L["yo skrill drop it hard"]={{path="chatsounds/autoadd/music/yo skrill drop it hard.ogg",length=1.293}}
 L["you can feel it everywhere"]={{path="chatsounds/autoadd/music/you can feel it everywhere.ogg",length=2.483}}
 L["you can hear it you can feel it"]={{path="chatsounds/autoadd/music/you can hear it you can feel it.ogg",length=1.966}}
 c.EndList()

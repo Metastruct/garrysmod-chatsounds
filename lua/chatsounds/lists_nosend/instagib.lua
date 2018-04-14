@@ -9,8 +9,7 @@ L["4weiber"]={{path="chatsounds/autoadd/instagib/4weiber.ogg",length=12.501}}
 L["aaa fuck fuck fuck fuuuck"]={{path="chatsounds/autoadd/instagib/aaa fuck fuck fuck fuuuck.ogg",length=4.315}}
 L["aaa1"]={{path="chatsounds/autoadd/instagib/aaa1.ogg",length=3.565}}
 L["aaa3"]={{path="chatsounds/autoadd/instagib/aaa3.ogg",length=1.796}}
-L["aaaaa"]={{path="chatsounds/autoadd/instagib/aaaaa.ogg",length=10.974}}
-L["aaaaa2"]={{path="chatsounds/autoadd/instagib/aaaaa2.ogg",length=18.673}}
+L["aaaaa"]={{path="chatsounds/autoadd/instagib/aaaaa/aaaaa.ogg",length=10.974},{path="chatsounds/autoadd/instagib/aaaaa/aaaaa2.ogg",length=18.673}}
 L["aaaaah aaah aaaaaaah"]={{path="chatsounds/autoadd/instagib/aaaaah aaah aaaaaaah.ogg",length=5.471}}
 L["ab"]={{path="chatsounds/autoadd/instagib/ab.ogg",length=1.320}}
 L["abhaun"]={{path="chatsounds/autoadd/instagib/abhaun.ogg",length=2.994}}
@@ -157,7 +156,6 @@ L["brawwrr"]={{path="chatsounds/autoadd/instagib/brawwrr.ogg",length=1.213}}
 L["breathe1"]={{path="chatsounds/autoadd/instagib/breathe1.ogg",length=2.160}}
 L["breitfettarsch"]={{path="chatsounds/autoadd/instagib/breitfettarsch.ogg",length=2.089}}
 L["brille"]={{path="chatsounds/autoadd/instagib/brille.ogg",length=1.306}}
-L["bringmetolife"]={{path="chatsounds/autoadd/instagib/bringmetolife.ogg",length=10.456}}
 L["brit"]={{path="chatsounds/autoadd/instagib/brit.ogg",length=13.251}}
 L["brunzkachel"]={{path="chatsounds/autoadd/instagib/brunzkachel.ogg",length=5.763}}
 L["bud"]={{path="chatsounds/autoadd/instagib/bud.ogg",length=0.382}}
@@ -252,12 +250,7 @@ L["dinner"]={{path="chatsounds/autoadd/instagib/dinner.ogg",length=7.262}}
 L["dio"]={{path="chatsounds/autoadd/instagib/dio.ogg",length=2.147}}
 L["doedel"]={{path="chatsounds/autoadd/instagib/doedel.ogg",length=32.073}}
 L["doener"]={{path="chatsounds/autoadd/instagib/doener.ogg",length=0.836}}
-L["doh"]={{path="chatsounds/autoadd/instagib/doh.ogg",length=0.500}}
-L["doh2"]={{path="chatsounds/autoadd/instagib/doh2.ogg",length=0.425}}
-L["doh3"]={{path="chatsounds/autoadd/instagib/doh3.ogg",length=0.550}}
-L["doh4"]={{path="chatsounds/autoadd/instagib/doh4.ogg",length=0.543}}
-L["doh5"]={{path="chatsounds/autoadd/instagib/doh5.ogg",length=0.408}}
-L["doh7"]={{path="chatsounds/autoadd/instagib/doh7.ogg",length=0.568}}
+L["doh"]={{path="chatsounds/autoadd/instagib/doh/doh.ogg",length=0.500},{path="chatsounds/autoadd/instagib/doh/doh2.ogg",length=0.425},{path="chatsounds/autoadd/instagib/doh/doh3.ogg",length=0.550},{path="chatsounds/autoadd/instagib/doh/doh4.ogg",length=0.543},{path="chatsounds/autoadd/instagib/doh/doh5.ogg",length=0.408},{path="chatsounds/autoadd/instagib/doh/doh7.ogg",length=0.568}}
 L["dohhey"]={{path="chatsounds/autoadd/instagib/dohhey.ogg",length=2.407}}
 L["dohnuts"]={{path="chatsounds/autoadd/instagib/dohnuts.ogg",length=1.168}}
 L["dohoo"]={{path="chatsounds/autoadd/instagib/dohoo.ogg",length=3.913}}
@@ -793,8 +786,7 @@ L["medic"]={{path="chatsounds/autoadd/instagib/medic.ogg",length=1.020}}
 L["meep meep"]={{path="chatsounds/autoadd/instagib/meep meep.ogg",length=2.931}}
 L["megakill"]={{path="chatsounds/autoadd/instagib/megakill.ogg",length=1.773}}
 L["meiner"]={{path="chatsounds/autoadd/instagib/meiner.ogg",length=0.698}}
-L["meins"]={{path="chatsounds/autoadd/instagib/meins.ogg",length=3.122}}
-L["meins1"]={{path="chatsounds/autoadd/instagib/meins1.ogg",length=3.161}}
+L["meins"]={{path="chatsounds/autoadd/instagib/meins/meins.ogg",length=3.122},{path="chatsounds/autoadd/instagib/meins/meins1.ogg",length=3.161}}
 L["melde"]={{path="chatsounds/autoadd/instagib/melde.ogg",length=2.250}}
 L["menschen"]={{path="chatsounds/autoadd/instagib/menschen.ogg",length=4.300}}
 L["meow"]={{path="chatsounds/autoadd/instagib/meow.ogg",length=1.729}}
@@ -876,8 +868,7 @@ L["no"]={{path="chatsounds/autoadd/instagib/no.ogg",length=0.914}}
 L["no youre going to get in trouble"]={{path="chatsounds/autoadd/instagib/no youre going to get in trouble.ogg",length=1.925}}
 L["no2"]={{path="chatsounds/autoadd/instagib/no2.ogg",length=0.820}}
 L["nodisco"]={{path="chatsounds/autoadd/instagib/nodisco.ogg",length=6.654}}
-L["noobs1"]={{path="chatsounds/autoadd/instagib/noobs1.ogg",length=2.850}}
-L["noobs2"]={{path="chatsounds/autoadd/instagib/noobs2.ogg",length=2.028}}
+L["noobs"]={{path="chatsounds/autoadd/instagib/noobs/noobs1.ogg",length=2.850},{path="chatsounds/autoadd/instagib/noobs/noobs2.ogg",length=2.028}}
 L["nopuedo"]={{path="chatsounds/autoadd/instagib/nopuedo.ogg",length=1.313}}
 L["notcool"]={{path="chatsounds/autoadd/instagib/notcool.ogg",length=1.778}}
 L["notgood"]={{path="chatsounds/autoadd/instagib/notgood.ogg",length=1.701}}

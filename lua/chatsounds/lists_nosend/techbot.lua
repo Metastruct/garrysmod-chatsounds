@@ -47,12 +47,14 @@ L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.779}}
 L["hello darkness my old friend"]={{path="chatsounds/autoadd/techbot/hello darkness my old friend.ogg",length=4.168}}
 L["hey baby wake up from your asleep"]={{path="chatsounds/autoadd/techbot/hey baby wake up from your asleep.ogg",length=2.639}}
 L["hey shutup"]={{path="chatsounds/autoadd/techbot/hey shutup.ogg",length=2.318}}
+L["hey there demons"]={{path="chatsounds/autoadd/techbot/hey there demons.ogg",length=0.999}}
 L["holy"]={{path="chatsounds/autoadd/techbot/holy/holy-2.ogg",length=0.765},{path="chatsounds/autoadd/techbot/holy/holy.ogg",length=1.477}}
 L["holy fuck is this wrong but holy hell is it erotic"]={{path="chatsounds/autoadd/techbot/holy fuck is this wrong but holy hell is it erotic.ogg",length=8.499}}
 L["i is more stronger than darth vapor"]={{path="chatsounds/autoadd/techbot/i is more stronger than darth vapor.ogg",length=2.772}}
 L["i want to be your space invader"]={{path="chatsounds/autoadd/techbot/i want to be your space invader.ogg",length=2.335}}
 L["is"]={{path="chatsounds/autoadd/techbot/is.ogg",length=0.293}}
 L["is it"]={{path="chatsounds/autoadd/techbot/is it.ogg",length=0.545}}
+L["its me"]={{path="chatsounds/autoadd/techbot/its me.ogg",length=0.708}}
 L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=3.441}}
 L["kek"]={{path="chatsounds/autoadd/techbot/kek.ogg",length=0.383}}
 L["kiinni"]={{path="chatsounds/autoadd/techbot/kiinni.ogg",length=0.629}}
@@ -66,6 +68,10 @@ L["moon theme"]={{path="chatsounds/autoadd/techbot/moon theme.ogg",length=4.557}
 L["my"]={{path="chatsounds/autoadd/techbot/my.ogg",length=0.885}}
 L["my eyes"]={{path="chatsounds/autoadd/techbot/my eyes.ogg",length=1.395}}
 L["my razil begins to shoosh"]={{path="chatsounds/autoadd/techbot/my razil begins to shoosh.ogg",length=1.660}}
+L["ne dumay"]={{path="chatsounds/autoadd/techbot/ne dumay.ogg",length=0.954}}
+L["ne dumay distorted"]={{path="chatsounds/autoadd/techbot/ne dumay distorted.ogg",length=0.909}}
+L["ne dumay loop"]={{path="chatsounds/autoadd/techbot/ne dumay loop.ogg",length=2.679}}
+L["ne dumay song"]={{path="chatsounds/autoadd/techbot/ne dumay song.ogg",length=2.628}}
 L["nnoice"]={{path="chatsounds/autoadd/techbot/nnoice.ogg",length=0.675}}
 L["no"]={{path="chatsounds/autoadd/techbot/no.ogg",length=0.898}}
 L["no nyt"]={{path="chatsounds/autoadd/techbot/no nyt.ogg",length=0.427}}
@@ -114,6 +120,7 @@ L["warpzone"]={{path="chatsounds/autoadd/techbot/warpzone.ogg",length=2.007}}
 L["why you heff to be med"]={{path="chatsounds/autoadd/techbot/why you heff to be med.ogg",length=3.448}}
 L["wow"]={{path="chatsounds/autoadd/techbot/wow.ogg",length=0.919}}
 L["wrong"]={{path="chatsounds/autoadd/techbot/wrong.ogg",length=0.863}}
+L["ya boi"]={{path="chatsounds/autoadd/techbot/ya boi.ogg",length=0.539}}
 L["yo momma"]={{path="chatsounds/autoadd/techbot/yo momma.ogg",length=0.742}}
 L["you get noon"]={{path="chatsounds/autoadd/techbot/you get noon.ogg",length=1.620}}
 c.EndList()
