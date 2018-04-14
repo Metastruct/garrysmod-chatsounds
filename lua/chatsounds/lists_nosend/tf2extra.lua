@@ -110,6 +110,7 @@ L["medicmadlaugh"]={{path="chatsounds/autoadd/tf2extra/medicmadlaugh.ogg",length
 L["meem"]={{path="chatsounds/autoadd/tf2extra/meem/meem01.ogg",length=0.446},{path="chatsounds/autoadd/tf2extra/meem/meem02.ogg",length=0.367},{path="chatsounds/autoadd/tf2extra/meem/meem03.ogg",length=0.921},{path="chatsounds/autoadd/tf2extra/meem/meem04.ogg",length=0.779},{path="chatsounds/autoadd/tf2extra/meem/meem05.ogg",length=0.582},{path="chatsounds/autoadd/tf2extra/meem/meem06.ogg",length=0.518},{path="chatsounds/autoadd/tf2extra/meem/meem07.ogg",length=0.779},{path="chatsounds/autoadd/tf2extra/meem/meem08.ogg",length=0.361},{path="chatsounds/autoadd/tf2extra/meem/meem09.ogg",length=0.361}}
 L["meme"]={{path="chatsounds/autoadd/tf2extra/meme.ogg",length=0.349}}
 L["mine"]={{path="chatsounds/autoadd/tf2extra/mine.ogg",length=0.428}}
+L["mmoney"]={{path="chatsounds/autoadd/tf2extra/mmoney.ogg",length=0.776}}
 L["mrprprpm"]={{path="chatsounds/autoadd/tf2extra/mrprprpm.ogg",length=0.653}}
 L["mumnumnum"]={{path="chatsounds/autoadd/tf2extra/mumnumnum.ogg",length=0.809}}
 L["needas"]={{path="chatsounds/autoadd/tf2extra/needas.ogg",length=0.472}}
