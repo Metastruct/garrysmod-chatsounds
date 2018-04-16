@@ -7,6 +7,7 @@ L["and then you all just got up and moved on to the next day"]={{path="chatsound
 L["and we can count on fox news to terrify old white people with some nonsense"]={{path="chatsounds/autoadd/mad_matrix/and we can count on fox news to terrify old white people with some nonsense.ogg",length=4.096}}
 L["and why am i required to come to it"]={{path="chatsounds/autoadd/mad_matrix/and why am i required to come to it.ogg",length=2.345}}
 L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
+L["babycry"]={{path="chatsounds/autoadd/mad_matrix/babycry.ogg",length=1.233}}
 L["begone thot"]={{path="chatsounds/autoadd/mad_matrix/begone thot.ogg",length=2.793}}
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
