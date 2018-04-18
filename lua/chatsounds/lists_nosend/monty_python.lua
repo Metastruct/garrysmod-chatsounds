@@ -1,4 +1,6 @@
 c.StartList("monty_python")
+L["and now for something completely different"]={{path="chatsounds/autoadd/monty_python/and now for something completely different/1.ogg",length=1.706},{path="chatsounds/autoadd/monty_python/and now for something completely different/2.ogg",length=1.464},{path="chatsounds/autoadd/monty_python/and now for something completely different/3.ogg",length=1.924},{path="chatsounds/autoadd/monty_python/and now for something completely different/4.ogg",length=1.771},{path="chatsounds/autoadd/monty_python/and now for something completely different/5.ogg",length=5.925}}
+L["and now for something more completely different"]={{path="chatsounds/autoadd/monty_python/and now for something more completely different.ogg",length=2.970}}
 L["and spam selecting a spam particular spam item from the spam menu"]={{path="chatsounds/autoadd/monty_python/and spam selecting a spam particular spam item from the spam menu.ogg",length=3.204}}
 L["another great viking victory was at the green midget cafe in bromley"]={{path="chatsounds/autoadd/monty_python/another great viking victory was at the green midget cafe in bromley.ogg",length=3.471}}
 L["biggus dickus"]={{path="chatsounds/autoadd/monty_python/biggus dickus/1.ogg",length=3.205},{path="chatsounds/autoadd/monty_python/biggus dickus/2.ogg",length=2.404}}
@@ -16,11 +18,13 @@ L["i fart in your general direction"]={{path="chatsounds/autoadd/monty_python/i 
 L["i have a very great friend in rome called biggus dickus"]={{path="chatsounds/autoadd/monty_python/i have a very great friend in rome called biggus dickus.ogg",length=2.987}}
 L["i told him weve already got one"]={{path="chatsounds/autoadd/monty_python/i told him weve already got one.ogg",length=1.539}}
 L["i vant to know ze joke"]={{path="chatsounds/autoadd/monty_python/i vant to know ze joke.ogg",length=3.085}}
-L["iittss"]={{path="chatsounds/autoadd/monty_python/iittss.ogg",length=1.231}}
+L["iittss"]={{path="chatsounds/autoadd/monty_python/iittss/1.ogg",length=1.231},{path="chatsounds/autoadd/monty_python/iittss/2.ogg",length=0.702},{path="chatsounds/autoadd/monty_python/iittss/3.ogg",length=1.213},{path="chatsounds/autoadd/monty_python/iittss/4.ogg",length=1.289},{path="chatsounds/autoadd/monty_python/iittss/5.ogg",length=0.814},{path="chatsounds/autoadd/monty_python/iittss/6.ogg",length=0.912},{path="chatsounds/autoadd/monty_python/iittss/7.ogg",length=1.095},{path="chatsounds/autoadd/monty_python/iittss/8.ogg",length=0.963},{path="chatsounds/autoadd/monty_python/iittss/9.ogg",length=0.822}}
 L["iittss distorted"]={{path="chatsounds/autoadd/monty_python/iittss distorted.ogg",length=5.724}}
 L["ill blow my nose at you so called arthur king"]={{path="chatsounds/autoadd/monty_python/ill blow my nose at you so called arthur king.ogg",length=4.037}}
 L["incontinentia"]={{path="chatsounds/autoadd/monty_python/incontinentia.ogg",length=1.471}}
 L["incontinentia buttocks shut up"]={{path="chatsounds/autoadd/monty_python/incontinentia buttocks shut up.ogg",length=2.432}}
+L["its"]={{path="chatsounds/autoadd/monty_python/its/1.ogg",length=0.981},{path="chatsounds/autoadd/monty_python/its/2.ogg",length=1.437},{path="chatsounds/autoadd/monty_python/its/3.ogg",length=1.214},{path="chatsounds/autoadd/monty_python/its/4.ogg",length=0.899},{path="chatsounds/autoadd/monty_python/its/5.ogg",length=0.619},{path="chatsounds/autoadd/monty_python/its/6.ogg",length=1.079},{path="chatsounds/autoadd/monty_python/its/7.ogg",length=0.218}}
+L["itssss"]={{path="chatsounds/autoadd/monty_python/itssss.ogg",length=1.275}}
 L["laugh"]={{path="chatsounds/autoadd/monty_python/laugh.ogg",length=1.890}}
 L["mooing"]={{path="chatsounds/autoadd/monty_python/mooing.ogg",length=2.148}}
 L["mornin"]={{path="chatsounds/autoadd/monty_python/mornin/mornin1.ogg",length=0.546},{path="chatsounds/autoadd/monty_python/mornin/mornin2.ogg",length=0.627}}
@@ -29,6 +33,7 @@ L["ni"]={{path="chatsounds/autoadd/monty_python/ni/1.ogg",length=0.393},{path="c
 L["ni ni ni ni ni ni who are you"]={{path="chatsounds/autoadd/monty_python/ni ni ni ni ni ni who are you.ogg",length=2.938}}
 L["ni ni ni ni ow ow ow"]={{path="chatsounds/autoadd/monty_python/ni ni ni ni ow ow ow.ogg",length=6.739}}
 L["nnni"]={{path="chatsounds/autoadd/monty_python/nnni.ogg",length=0.826}}
+L["no no"]={{path="chatsounds/autoadd/monty_python/no no.ogg",length=0.944}}
 L["quick otto ze typewriter"]={{path="chatsounds/autoadd/monty_python/quick otto ze typewriter.ogg",length=1.874}}
 L["razzing"]={{path="chatsounds/autoadd/monty_python/razzing.ogg",length=5.741}}
 L["shes called"]={{path="chatsounds/autoadd/monty_python/shes called.ogg",length=1.308}}
