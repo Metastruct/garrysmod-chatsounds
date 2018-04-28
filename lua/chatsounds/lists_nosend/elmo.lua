@@ -17,9 +17,7 @@ L["elmo hopes so too"]={{path="chatsounds/autoadd/elmo/elmo hopes so too.ogg",le
 L["elmo hum"]={{path="chatsounds/autoadd/elmo/elmo hum.ogg",length=1.642}}
 L["elmo kiss"]={{path="chatsounds/autoadd/elmo/elmo kiss.ogg",length=1.435}}
 L["elmo kisses"]={{path="chatsounds/autoadd/elmo/elmo kisses/elmo kisses 1.ogg",length=4.023},{path="chatsounds/autoadd/elmo/elmo kisses/elmo kisses 2.ogg",length=3.910}}
-L["elmo laugh"]={{path="chatsounds/autoadd/elmo/elmo laugh.ogg",length=1.079}}
-L["elmo laugh 2"]={{path="chatsounds/autoadd/elmo/elmo laugh 2.ogg",length=1.040}}
-L["elmo laugh 3"]={{path="chatsounds/autoadd/elmo/elmo laugh 3.ogg",length=1.521}}
+L["elmo laugh"]={{path="chatsounds/autoadd/elmo/elmo laugh/elmo laugh 2.ogg",length=1.040},{path="chatsounds/autoadd/elmo/elmo laugh/elmo laugh 3.ogg",length=1.521},{path="chatsounds/autoadd/elmo/elmo laugh/elmo laugh.ogg",length=1.079}}
 L["elmo likes being red"]={{path="chatsounds/autoadd/elmo/elmo likes being red.ogg",length=1.568}}
 L["elmo likes cookies"]={{path="chatsounds/autoadd/elmo/elmo likes cookies.ogg",length=1.127}}
 L["elmo lmfao"]={{path="chatsounds/autoadd/elmo/elmo lmfao.ogg",length=2.850}}
