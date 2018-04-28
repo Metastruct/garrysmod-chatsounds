@@ -7,7 +7,7 @@ L["lifes hard enough as it is you dont want to cry anymore"]={{path="chatsounds/
 L["now youre going to have a nice tuna"]={{path="chatsounds/autoadd/vince_offer/now youre going to have a nice tuna.ogg",length=3.840}}
 L["shamwow youll be saying wow everytime"]={{path="chatsounds/autoadd/vince_offer/shamwow youll be saying wow everytime.ogg",length=2.743}}
 L["the skin comes right off"]={{path="chatsounds/autoadd/vince_offer/the skin comes right off.ogg",length=3.213}}
-L["this tuna is boring"]={{path="chatsounds/autoadd/vince_offer/this tuna is boring.ogg",length=3.631}}
+L["this tuna looks boring"]={{path="chatsounds/autoadd/vince_offer/this tuna looks boring.ogg",length=3.631}}
 L["this works wet or dry"]={{path="chatsounds/autoadd/vince_offer/this works wet or dry.ogg",length=2.429}}
 L["were going to make america skinny again one slap at a time"]={{path="chatsounds/autoadd/vince_offer/were going to make america skinny again one slap at a time.ogg",length=6.661}}
 L["you know we cant do this all day"]={{path="chatsounds/autoadd/vince_offer/you know we cant do this all day.ogg",length=2.847}}
