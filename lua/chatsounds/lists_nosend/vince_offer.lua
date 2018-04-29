@@ -12,7 +12,7 @@ L["this works wet or dry"]={{path="chatsounds/autoadd/vince_offer/this works wet
 L["were going to make america skinny again one slap at a time"]={{path="chatsounds/autoadd/vince_offer/were going to make america skinny again one slap at a time.ogg",length=6.661}}
 L["you know we cant do this all day"]={{path="chatsounds/autoadd/vince_offer/you know we cant do this all day.ogg",length=2.847}}
 L["you know you hate making salad thats why you dont have any salad in your diet"]={{path="chatsounds/autoadd/vince_offer/you know you hate making salad thats why you dont have any salad in your diet.ogg",length=4.101}}
-L["youre going to be a great mood all day"]={{path="chatsounds/autoadd/vince_offer/youre going to be a great mood all day.ogg",length=2.638}}
+L["youre going to be in a great mood all day"]={{path="chatsounds/autoadd/vince_offer/youre going to be in a great mood all day.ogg",length=2.638}}
 L["youre going to have an exciting life now"]={{path="chatsounds/autoadd/vince_offer/youre going to have an exciting life now.ogg",length=2.482}}
 L["youre going to love my nuts"]={{path="chatsounds/autoadd/vince_offer/youre going to love my nuts.ogg",length=2.194}}
 c.EndList()
