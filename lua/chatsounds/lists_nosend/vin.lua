@@ -13,6 +13,7 @@ L["mortis longdick"]={{path="chatsounds/autoadd/vin/mortis longdick.ogg",length=
 L["notbigsusgibton"]={{path="chatsounds/autoadd/vin/notbigsusgibton.ogg",length=1.414}}
 L["now you can do the dishes"]={{path="chatsounds/autoadd/vin/now you can do the dishes.ogg",length=2.205}}
 L["oh"]={{path="chatsounds/autoadd/vin/oh.ogg",length=0.763}}
+L["pills here pppppppppppppppppills here"]={{path="chatsounds/autoadd/vin/pills here pppppppppppppppppills here.ogg",length=9.919}}
 L["steamed hams"]={{path="chatsounds/autoadd/vin/steamed hams.ogg",length=1.202}}
 L["u wot"]={{path="chatsounds/autoadd/vin/u wot.ogg",length=0.844}}
 L["wait wait what"]={{path="chatsounds/autoadd/vin/wait wait what.ogg",length=1.242}}
