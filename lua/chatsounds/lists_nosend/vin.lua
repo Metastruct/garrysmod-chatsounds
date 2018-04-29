@@ -1,8 +1,10 @@
 c.StartList("vin")
 L["fleelf"]={{path="chatsounds/autoadd/vin/fleelf.ogg",length=0.358}}
 L["flextapeglitch"]={{path="chatsounds/autoadd/vin/flextapeglitch.ogg",length=1.606}}
+L["gotcha bitch"]={{path="chatsounds/autoadd/vin/gotcha bitch.ogg",length=0.656}}
 L["i soos"]={{path="chatsounds/autoadd/vin/i soos.ogg",length=0.857}}
 L["kaboom distorted"]={{path="chatsounds/autoadd/vin/kaboom distorted.ogg",length=15.479}}
+L["left channel"]={{path="chatsounds/autoadd/vin/left channel.ogg",length=0.832}}
 L["mariogibberish"]={{path="chatsounds/autoadd/vin/mariogibberish.ogg",length=2.377}}
 L["marx1"]={{path="chatsounds/autoadd/vin/marx1.ogg",length=3.286}}
 L["marx2"]={{path="chatsounds/autoadd/vin/marx2.ogg",length=2.264}}
@@ -14,6 +16,8 @@ L["notbigsusgibton"]={{path="chatsounds/autoadd/vin/notbigsusgibton.ogg",length=
 L["now you can do the dishes"]={{path="chatsounds/autoadd/vin/now you can do the dishes.ogg",length=2.205}}
 L["oh"]={{path="chatsounds/autoadd/vin/oh.ogg",length=0.763}}
 L["pills here pppppppppppppppppills here"]={{path="chatsounds/autoadd/vin/pills here pppppppppppppppppills here.ogg",length=9.919}}
+L["snans"]={{path="chatsounds/autoadd/vin/snans.ogg",length=0.696}}
+L["soup time"]={{path="chatsounds/autoadd/vin/soup time.ogg",length=6.010}}
 L["steamed hams"]={{path="chatsounds/autoadd/vin/steamed hams.ogg",length=1.202}}
 L["u wot"]={{path="chatsounds/autoadd/vin/u wot.ogg",length=0.844}}
 L["wait wait what"]={{path="chatsounds/autoadd/vin/wait wait what.ogg",length=1.242}}
