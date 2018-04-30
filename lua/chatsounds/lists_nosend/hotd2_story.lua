@@ -123,9 +123,8 @@ L["its finally over"]={{path="chatsounds/autoadd/hotd2_story/its finally over.og
 L["its like theyre inviting me in"]={{path="chatsounds/autoadd/hotd2_story/its like theyre inviting me in.ogg",length=1.385},{path="chatsounds/autoadd/hotd2_story/its like theyre inviting me in/363_j.ogg",length=2.304},{path="chatsounds/autoadd/hotd2_story/its like theyre inviting me in/its like theyre inviting me in.ogg",length=1.385}}
 L["its like theyre inviting us in"]={{path="chatsounds/autoadd/hotd2_story/its like theyre inviting us in.ogg",length=1.434},{path="chatsounds/autoadd/hotd2_story/its like theyre inviting us in/362_j_2.ogg",length=2.389},{path="chatsounds/autoadd/hotd2_story/its like theyre inviting us in/its like theyre inviting us in.ogg",length=1.434}}
 L["its me gary"]={{path="chatsounds/autoadd/hotd2_story/its me gary.ogg",length=0.904}}
-L["its too dark"]={{path="chatsounds/autoadd/hotd2_story/its too dark.ogg",length=1.053},{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark 2.ogg",length=0.759},{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark.ogg",length=1.053}}
+L["its too dark"]={{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark 2.ogg",length=0.759},{path="chatsounds/autoadd/hotd2_story/its too dark/its too dark.ogg",length=1.053}}
 L["its too quiet"]={{path="chatsounds/autoadd/hotd2_story/its too quiet.ogg",length=0.898},{path="chatsounds/autoadd/hotd2_story/its too quiet/356_ga.ogg",length=1.639},{path="chatsounds/autoadd/hotd2_story/its too quiet/its too quiet.ogg",length=0.898}}
-L["its tood ark"]={{path="chatsounds/autoadd/hotd2_story/its tood ark.ogg",length=0.759}}
 L["ive been waiting for this time to come"]={{path="chatsounds/autoadd/hotd2_story/ive been waiting for this time to come.ogg",length=3.022}}
 L["ive been waiting for you friends"]={{path="chatsounds/autoadd/hotd2_story/ive been waiting for you friends.ogg",length=2.972}}
 L["ive had it"]={{path="chatsounds/autoadd/hotd2_story/ive had it.ogg",length=0.593}}
