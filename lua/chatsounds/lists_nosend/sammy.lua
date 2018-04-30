@@ -7,9 +7,7 @@ L["go away go away go away go away"]={{path="chatsounds/autoadd/sammy/go away go
 L["i hate all you fricken sonic haters"]={{path="chatsounds/autoadd/sammy/i hate all you fricken sonic haters.ogg",length=2.867}}
 L["idiots"]={{path="chatsounds/autoadd/sammy/idiots.ogg",length=1.027}}
 L["it makes me so mad grr"]={{path="chatsounds/autoadd/sammy/it makes me so mad grr.ogg",length=3.567}}
-L["kidscream1"]={{path="chatsounds/autoadd/sammy/kidscream1.ogg",length=5.461}}
-L["kidscream2"]={{path="chatsounds/autoadd/sammy/kidscream2.ogg",length=3.414}}
-L["kidscream3"]={{path="chatsounds/autoadd/sammy/kidscream3.ogg",length=9.252}}
+L["kidscream"]={{path="chatsounds/autoadd/sammy/kidscream/kidscream1.ogg",length=5.461},{path="chatsounds/autoadd/sammy/kidscream/kidscream2.ogg",length=3.414},{path="chatsounds/autoadd/sammy/kidscream/kidscream3.ogg",length=9.252}}
 L["leave him alone"]={{path="chatsounds/autoadd/sammy/leave him alone.ogg",length=1.652}}
 L["leave sonic alone"]={{path="chatsounds/autoadd/sammy/leave sonic alone/leave sonic alone 2.ogg",length=2.153},{path="chatsounds/autoadd/sammy/leave sonic alone/leave sonic alone 3.ogg",length=2.327},{path="chatsounds/autoadd/sammy/leave sonic alone/leave sonic alone 4.ogg",length=1.581},{path="chatsounds/autoadd/sammy/leave sonic alone/leave sonic alone 5.ogg",length=2.780},{path="chatsounds/autoadd/sammy/leave sonic alone/leave sonic alone.ogg",length=1.685}}
 L["like sonic like sonic like sonic like sonic like sonic like"]={{path="chatsounds/autoadd/sammy/like sonic like sonic like sonic like sonic like sonic like.ogg",length=3.356}}
