@@ -13,7 +13,7 @@ L["i hate you"]={{path="chatsounds/autoadd/bfb/i hate you.ogg",length=0.771}}
 L["i honestly think it might be impossible"]={{path="chatsounds/autoadd/bfb/i honestly think it might be impossible.ogg",length=2.365}}
 L["i want to stop"]={{path="chatsounds/autoadd/bfb/i want to stop.ogg",length=1.041}}
 L["ive done some research and i believe it means that the person cares so little that the last droplets of care spirit are being sucked out of their body through their arms and out of the tips of their fingers and into the outer reaches of interstellar space to be lost forever a true indicator that person doesnt give a fluff"]={{path="chatsounds/autoadd/bfb/someresearch.ogg",length=16.214}}
-L["just wanted  to let you know i dont have a favorite number"]={{path="chatsounds/autoadd/bfb/just wanted  to let you know i dont have a favorite number.ogg",length=2.910}}
+L["just wanted to let you know i dont have a favorite number"]={{path="chatsounds/autoadd/bfb/just wanted to let you know i dont have a favorite number.ogg",length=2.910}}
 L["lets play a game"]={{path="chatsounds/autoadd/bfb/lets play a game.ogg",length=1.239}}
 L["liars must be punished"]={{path="chatsounds/autoadd/bfb/liars must be punished.ogg",length=1.148}}
 L["look the fluttery arms she does not care"]={{path="chatsounds/autoadd/bfb/look the fluttery arms she does not care.ogg",length=2.547}}
