@@ -5,12 +5,15 @@ L["and spam selecting a spam particular spam item from the spam menu"]={{path="c
 L["another great viking victory was at the green midget cafe in bromley"]={{path="chatsounds/autoadd/monty_python/another great viking victory was at the green midget cafe in bromley.ogg",length=3.471}}
 L["biggus dickus"]={{path="chatsounds/autoadd/monty_python/biggus dickus/1.ogg",length=3.205},{path="chatsounds/autoadd/monty_python/biggus dickus/2.ogg",length=2.404}}
 L["cant have egg bacon spam and sausage without the spam"]={{path="chatsounds/autoadd/monty_python/cant have egg bacon spam and sausage without the spam.ogg",length=3.181}}
+L["carry on with your execution"]={{path="chatsounds/autoadd/monty_python/carry on with your execution.ogg",length=1.344}}
+L["drumroll niet niet niet niet niet niet nieeet niet"]={{path="chatsounds/autoadd/monty_python/drumroll niet niet niet niet niet niet nieeet niet.ogg",length=11.589}}
 L["ewwww"]={{path="chatsounds/autoadd/monty_python/ewwww.ogg",length=0.888}}
 L["go and boil your bottoms son of a silly person"]={{path="chatsounds/autoadd/monty_python/go and boil your bottoms son of a silly person.ogg",length=4.087}}
 L["gott im himmel"]={{path="chatsounds/autoadd/monty_python/gott im himmel.ogg",length=1.632}}
 L["great boobies honeybun my lower intestine is full of spam"]={{path="chatsounds/autoadd/monty_python/great boobies honeybun my lower intestine is full of spam.ogg",length=5.259}}
 L["have you got anything without spam in it"]={{path="chatsounds/autoadd/monty_python/have you got anything without spam in it.ogg",length=2.247}}
 L["he has a wife you know"]={{path="chatsounds/autoadd/monty_python/he has a wife you know.ogg",length=1.765}}
+L["how could you miss"]={{path="chatsounds/autoadd/monty_python/how could you miss.ogg",length=0.985}}
 L["i dont like spam"]={{path="chatsounds/autoadd/monty_python/i dont like spam/i dont like spam1.ogg",length=1.451},{path="chatsounds/autoadd/monty_python/i dont like spam/i dont like spam2.ogg",length=1.811}}
 L["i dont wanna talk to you no more you empty headed animal food trough wiper"]={{path="chatsounds/autoadd/monty_python/i dont wanna talk to you no more you empty headed animal food trough wiper.ogg",length=5.929}}
 L["i dont want any spam"]={{path="chatsounds/autoadd/monty_python/i dont want any spam.ogg",length=1.498}}
