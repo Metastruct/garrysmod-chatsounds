@@ -37,6 +37,7 @@ L["ni ni ni ni ni ni who are you"]={{path="chatsounds/autoadd/monty_python/ni ni
 L["ni ni ni ni ow ow ow"]={{path="chatsounds/autoadd/monty_python/ni ni ni ni ow ow ow.ogg",length=6.739}}
 L["nnni"]={{path="chatsounds/autoadd/monty_python/nnni.ogg",length=0.826}}
 L["no no"]={{path="chatsounds/autoadd/monty_python/no no.ogg",length=0.944}}
+L["nobody expects the spanish inquisition"]={{path="chatsounds/autoadd/monty_python/nobody expects the spanish inquisition.ogg",length=6.165}}
 L["quick otto ze typewriter"]={{path="chatsounds/autoadd/monty_python/quick otto ze typewriter.ogg",length=1.874}}
 L["razzing"]={{path="chatsounds/autoadd/monty_python/razzing.ogg",length=5.741}}
 L["shes called"]={{path="chatsounds/autoadd/monty_python/shes called.ogg",length=1.308}}

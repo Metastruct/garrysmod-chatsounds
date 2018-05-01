@@ -68,7 +68,6 @@ L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.624}}
 L["namomed"]={{path="chatsounds/autoadd/misc/namomed.ogg",length=0.700}}
 L["nein nein nein"]={{path="chatsounds/autoadd/misc/nein nein nein.ogg",length=3.109}}
 L["no one"]={{path="chatsounds/autoadd/misc/no one.ogg",length=0.366}}
-L["nobody expects the spanish inquisition"]={{path="chatsounds/autoadd/misc/nobody expects the spanish inquisition.ogg",length=6.165}}
 L["not in to the"]={{path="chatsounds/autoadd/misc/not in to the.ogg",length=0.615}}
 L["not in to the pit"]={{path="chatsounds/autoadd/misc/not in to the pit.ogg",length=1.137}}
 L["now you fucked up"]={{path="chatsounds/autoadd/misc/now you fucked up.ogg",length=19.069}}
