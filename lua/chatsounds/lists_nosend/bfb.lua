@@ -52,7 +52,6 @@ L["hmm i dunno that sounds like a bad idea"]={{path="chatsounds/autoadd/bfb/hmm 
 L["hnngggggnnngggg"]={{path="chatsounds/autoadd/bfb/hnngggggnnngggg.ogg",length=2.326}}
 L["holy rolly polly coaly in guacamoli"]={{path="chatsounds/autoadd/bfb/holy rolly polly coaly in guacamoli.ogg",length=2.190}}
 L["hoorgely woorgely"]={{path="chatsounds/autoadd/bfb/hoorgely woorgely.ogg",length=1.705}}
-L["how far weve come"]={{path="chatsounds/autoadd/bfb/how far weve come.ogg",length=7.899}}
 L["i can break out of here"]={{path="chatsounds/autoadd/bfb/i can break out of here.ogg",length=1.446}}
 L["i can do it"]={{path="chatsounds/autoadd/bfb/i can do it.ogg",length=1.007}}
 L["i cant believe it"]={{path="chatsounds/autoadd/bfb/i cant believe it.ogg",length=1.590}}
