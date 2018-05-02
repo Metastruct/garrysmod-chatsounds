@@ -1,16 +1,22 @@
 c.StartList("bfb")
 L["ae aw its not icy"]={{path="chatsounds/autoadd/bfb/ae aw its not icy.ogg",length=2.883}}
+L["alt cake at stake song"]={{path="chatsounds/autoadd/bfb/alt cake at stake song.ogg",length=12.026}}
 L["are you guys scared"]={{path="chatsounds/autoadd/bfb/are you guys scared.ogg",length=2.950}}
 L["aw seriously"]={{path="chatsounds/autoadd/bfb/aw seriously.ogg",length=1.521}}
 L["aww shucks"]={{path="chatsounds/autoadd/bfb/aww shucks.ogg",length=0.825}}
 L["believe in the loser in you"]={{path="chatsounds/autoadd/bfb/believe in the loser in you.ogg",length=2.618}}
+L["bemb slow"]={{path="chatsounds/autoadd/bfb/bemb slow.ogg",length=1.965}}
 L["bfb button"]={{path="chatsounds/autoadd/bfb/bfb button.ogg",length=0.591}}
 L["bfb intro"]={{path="chatsounds/autoadd/bfb/bfb intro.ogg",length=18.290}}
 L["bfb intro end"]={{path="chatsounds/autoadd/bfb/bfb intro end.ogg",length=5.266}}
+L["bfb liquid"]={{path="chatsounds/autoadd/bfb/bfb liquid.ogg",length=2.471}}
 L["bfb pilot song"]={{path="chatsounds/autoadd/bfb/bfb pilot song.ogg",length=25.986}}
+L["black holes arent known for their sense of hearing"]={{path="chatsounds/autoadd/bfb/black holes arent known for their sense of hearing.ogg",length=2.860}}
 L["blackholenoise"]={{path="chatsounds/autoadd/bfb/blackholenoise.ogg",length=2.728}}
 L["bleh"]={{path="chatsounds/autoadd/bfb/bleh.ogg",length=0.506}}
+L["bootleg four screech"]={{path="chatsounds/autoadd/bfb/bootleg four screech.ogg",length=2.645}}
 L["building sounds"]={{path="chatsounds/autoadd/bfb/building sounds.ogg",length=4.186}}
+L["but no"]={{path="chatsounds/autoadd/bfb/but no.ogg",length=1.123}}
 L["but when i look at my teammates i see hope i see strength i see ingenuity"]={{path="chatsounds/autoadd/bfb/but when i look at my teammates i see hope i see strength i see ingenuity.ogg",length=6.787}}
 L["but why"]={{path="chatsounds/autoadd/bfb/but why.ogg",length=0.941}}
 L["bwhwhat"]={{path="chatsounds/autoadd/bfb/bwhwhat.ogg",length=0.819}}
@@ -19,8 +25,10 @@ L["cake vomit"]={{path="chatsounds/autoadd/bfb/cake vomit.ogg",length=0.596}}
 L["cmon slow and steady everybody"]={{path="chatsounds/autoadd/bfb/cmon slow and steady everybody.ogg",length=2.742}}
 L["come on"]={{path="chatsounds/autoadd/bfb/come on.ogg",length=0.861}}
 L["come on everybody were more than half way"]={{path="chatsounds/autoadd/bfb/come on everybody were more than half way.ogg",length=2.988}}
+L["crazy laugh"]={{path="chatsounds/autoadd/bfb/crazy laugh.ogg",length=2.765}}
 L["cullenhouseloop"]={{path="chatsounds/autoadd/bfb/cullenhouseloop.ogg",length=7.416}}
 L["dab it my boyonausuras"]={{path="chatsounds/autoadd/bfb/dab it my boyonausuras.ogg",length=1.833}}
+L["debatably correct"]={{path="chatsounds/autoadd/bfb/debatably correct.ogg",length=1.412}}
 L["did i mess that up"]={{path="chatsounds/autoadd/bfb/did i mess that up.ogg",length=0.911}}
 L["did someone say killing"]={{path="chatsounds/autoadd/bfb/did someone say killing.ogg",length=1.289}}
 L["dont worry were not gonna kill you or anything"]={{path="chatsounds/autoadd/bfb/dont worry were not gonna kill you or anything.ogg",length=2.319}}
@@ -29,13 +37,18 @@ L["dont you ticking dare touch my clock hands"]={{path="chatsounds/autoadd/bfb/d
 L["dont you want to battle to win a prize"]={{path="chatsounds/autoadd/bfb/dont you want to battle to win a prize.ogg",length=2.547}}
 L["doo dado doo doo do"]={{path="chatsounds/autoadd/bfb/doo dado doo doo do.ogg",length=2.797}}
 L["dorasong"]={{path="chatsounds/autoadd/bfb/dorasong.ogg",length=6.222}}
+L["eight"]={{path="chatsounds/autoadd/bfb/eight.ogg",length=0.698}}
 L["epic music while gelatin gets killed"]={{path="chatsounds/autoadd/bfb/epic music while gelatin gets killed.ogg",length=8.295}}
+L["ergh im trying"]={{path="chatsounds/autoadd/bfb/ergh im trying.ogg",length=1.778}}
 L["everyone makes mistakes"]={{path="chatsounds/autoadd/bfb/everyone makes mistakes.ogg",length=2.070}}
 L["ewww its a buncha boys"]={{path="chatsounds/autoadd/bfb/ewww its a buncha boys.ogg",length=2.860}}
 L["extremelicking"]={{path="chatsounds/autoadd/bfb/extremelicking.ogg",length=7.853}}
 L["fast ball hits"]={{path="chatsounds/autoadd/bfb/fast ball hits.ogg",length=10.847}}
 L["fine whatever"]={{path="chatsounds/autoadd/bfb/fine whatever.ogg",length=1.569}}
 L["firey junior theres no one quite like you gasp"]={{path="chatsounds/autoadd/bfb/firey junior theres no one quite like you gasp.ogg",length=3.315}}
+L["fork stab fast"]={{path="chatsounds/autoadd/bfb/fork stab fast.ogg",length=4.329}}
+L["four gasp"]={{path="chatsounds/autoadd/bfb/four gasp.ogg",length=0.909}}
+L["four love screech"]={{path="chatsounds/autoadd/bfb/four love screech.ogg",length=1.951}}
 L["four recovery"]={{path="chatsounds/autoadd/bfb/four recovery.ogg",length=2.518}}
 L["four screech"]={{path="chatsounds/autoadd/bfb/four screech/four screech 1.ogg",length=20.766},{path="chatsounds/autoadd/bfb/four screech/four screech 2.ogg",length=1.022},{path="chatsounds/autoadd/bfb/four screech/four screech 3.ogg",length=0.292}}
 L["four squish"]={{path="chatsounds/autoadd/bfb/four squish.ogg",length=2.045}}
@@ -44,22 +57,30 @@ L["get your hands off me"]={{path="chatsounds/autoadd/bfb/get your hands off me.
 L["good job"]={{path="chatsounds/autoadd/bfb/good job.ogg",length=1.004}}
 L["good job today"]={{path="chatsounds/autoadd/bfb/good job today.ogg",length=1.024}}
 L["have this token of my gratitude"]={{path="chatsounds/autoadd/bfb/have this token of my gratitude.ogg",length=2.905}}
+L["heheheheheheh"]={{path="chatsounds/autoadd/bfb/heheheheheheh.ogg",length=0.909}}
 L["hello everyone"]={{path="chatsounds/autoadd/bfb/hello everyone.ogg",length=0.995}}
 L["here is a fork"]={{path="chatsounds/autoadd/bfb/here is a fork.ogg",length=0.810}}
 L["hey save some for me"]={{path="chatsounds/autoadd/bfb/hey save some for me.ogg",length=1.834}}
 L["hh eeeuuuuuuuuuuuuuugggghhhhhhhhh"]={{path="chatsounds/autoadd/bfb/hh eeeuuuuuuuuuuuuuugggghhhhhhhhh.ogg",length=3.356}}
 L["hmm i dunno that sounds like a bad idea"]={{path="chatsounds/autoadd/bfb/hmm i dunno that sounds like a bad idea.ogg",length=2.553}}
+L["hmm what could it be"]={{path="chatsounds/autoadd/bfb/hmm what could it be.ogg",length=1.735}}
+L["hmmm hmhm hmm hmm hhmm hmm"]={{path="chatsounds/autoadd/bfb/hmmm hmhm hmm hmm hhmm hmm.ogg",length=7.750}}
 L["hnngggggnnngggg"]={{path="chatsounds/autoadd/bfb/hnngggggnnngggg.ogg",length=2.326}}
 L["holy rolly polly coaly in guacamoli"]={{path="chatsounds/autoadd/bfb/holy rolly polly coaly in guacamoli.ogg",length=2.190}}
 L["hoorgely woorgely"]={{path="chatsounds/autoadd/bfb/hoorgely woorgely.ogg",length=1.705}}
+L["how could you do this to my baby"]={{path="chatsounds/autoadd/bfb/how could you do this to my baby.ogg",length=2.611}}
 L["i can break out of here"]={{path="chatsounds/autoadd/bfb/i can break out of here.ogg",length=1.446}}
 L["i can do it"]={{path="chatsounds/autoadd/bfb/i can do it.ogg",length=1.007}}
 L["i cant believe it"]={{path="chatsounds/autoadd/bfb/i cant believe it.ogg",length=1.590}}
 L["i dont care"]={{path="chatsounds/autoadd/bfb/i dont care.ogg",length=0.900}}
 L["i hate fulcrums"]={{path="chatsounds/autoadd/bfb/i hate fulcrums.ogg",length=1.562}}
+L["i hate her"]={{path="chatsounds/autoadd/bfb/i hate her.ogg",length=0.723}}
+L["i hate my new voice"]={{path="chatsounds/autoadd/bfb/i hate my new voice.ogg",length=1.674}}
 L["i hate you"]={{path="chatsounds/autoadd/bfb/i hate you.ogg",length=0.771}}
 L["i honestly think it might be impossible"]={{path="chatsounds/autoadd/bfb/i honestly think it might be impossible.ogg",length=2.365}}
 L["i just cant do it"]={{path="chatsounds/autoadd/bfb/i just cant do it.ogg",length=1.784}}
+L["i love cake"]={{path="chatsounds/autoadd/bfb/i love cake.ogg",length=1.356}}
+L["i promise not to throw anymore forks people"]={{path="chatsounds/autoadd/bfb/i promise not to throw anymore forks people.ogg",length=2.138}}
 L["i ran away because i got scared"]={{path="chatsounds/autoadd/bfb/i ran away because i got scared.ogg",length=3.122}}
 L["i think ill pass on this one"]={{path="chatsounds/autoadd/bfb/i think ill pass on this one.ogg",length=1.772}}
 L["i think so"]={{path="chatsounds/autoadd/bfb/i think so.ogg",length=1.564}}
@@ -71,9 +92,11 @@ L["im a little bored actually"]={{path="chatsounds/autoadd/bfb/im a little bored
 L["im baack"]={{path="chatsounds/autoadd/bfb/im baack.ogg",length=1.371}}
 L["im back"]={{path="chatsounds/autoadd/bfb/im back.ogg",length=1.237}}
 L["im not gonna argue with you"]={{path="chatsounds/autoadd/bfb/im not gonna argue with you.ogg",length=1.745}}
+L["im sensing the tiniest bit of bias perhaps"]={{path="chatsounds/autoadd/bfb/im sensing the tiniest bit of bias perhaps.ogg",length=4.389}}
 L["im so excited to start preventing death"]={{path="chatsounds/autoadd/bfb/im so excited to start preventing death.ogg",length=3.301}}
 L["im tired"]={{path="chatsounds/autoadd/bfb/im tired.ogg",length=1.910}}
 L["it was an accident"]={{path="chatsounds/autoadd/bfb/it was an accident.ogg",length=1.592}}
+L["its made out of abandoned trash we fould lying around"]={{path="chatsounds/autoadd/bfb/its made out of abandoned trash we fould lying around.ogg",length=2.726}}
 L["its still annoying"]={{path="chatsounds/autoadd/bfb/its still annoying.ogg",length=1.408}}
 L["its tiime"]={{path="chatsounds/autoadd/bfb/its tiime.ogg",length=1.269}}
 L["its time"]={{path="chatsounds/autoadd/bfb/its time.ogg",length=1.166}}
@@ -86,10 +109,12 @@ L["lets play a game"]={{path="chatsounds/autoadd/bfb/lets play a game.ogg",lengt
 L["liars must be punished"]={{path="chatsounds/autoadd/bfb/liars must be punished.ogg",length=1.148}}
 L["licking"]={{path="chatsounds/autoadd/bfb/licking.ogg",length=2.993}}
 L["look the fluttery arms she does not care"]={{path="chatsounds/autoadd/bfb/look the fluttery arms she does not care.ogg",length=2.547}}
+L["makeover meh"]={{path="chatsounds/autoadd/bfb/makeover meh.ogg",length=1.350}}
 L["man"]={{path="chatsounds/autoadd/bfb/man.ogg",length=0.805}}
 L["maybe possibly its worth a try"]={{path="chatsounds/autoadd/bfb/maybe possibly its worth a try.ogg",length=2.585}}
 L["maybe theres just a chance that youre an idiot"]={{path="chatsounds/autoadd/bfb/maybe theres just a chance that youre an idiot.ogg",length=3.228}}
 L["maybe we should just give up"]={{path="chatsounds/autoadd/bfb/maybe we should just give up.ogg",length=1.722}}
+L["megazap"]={{path="chatsounds/autoadd/bfb/megazap.ogg",length=5.692}}
 L["mmm i missed you"]={{path="chatsounds/autoadd/bfb/mmm i missed you.ogg",length=3.022}}
 L["mmm uhhuh uhhuh yes yes"]={{path="chatsounds/autoadd/bfb/mmm uhhuh uhhuh yes yes.ogg",length=2.387}}
 L["my dear friend im confused"]={{path="chatsounds/autoadd/bfb/my dear friend im confused.ogg",length=2.306}}
@@ -102,15 +127,18 @@ L["no more screechy please"]={{path="chatsounds/autoadd/bfb/no more screechy ple
 L["no thanks im good"]={{path="chatsounds/autoadd/bfb/no thanks im good.ogg",length=1.882}}
 L["no way"]={{path="chatsounds/autoadd/bfb/no way.ogg",length=0.805}}
 L["noh"]={{path="chatsounds/autoadd/bfb/noh.ogg",length=0.699}}
+L["noooo"]={{path="chatsounds/autoadd/bfb/noooo.ogg",length=2.501}}
 L["not you"]={{path="chatsounds/autoadd/bfb/not you.ogg",length=0.923}}
 L["now im sad"]={{path="chatsounds/autoadd/bfb/now im sad.ogg",length=1.432}}
 L["now what are you tryina do"]={{path="chatsounds/autoadd/bfb/now what are you tryina do.ogg",length=1.973}}
 L["nyom"]={{path="chatsounds/autoadd/bfb/nyom.ogg",length=0.773}}
 L["o kay do kay"]={{path="chatsounds/autoadd/bfb/o kay do kay.ogg",length=1.851}}
 L["of course"]={{path="chatsounds/autoadd/bfb/of course.ogg",length=1.139}}
+L["oghh"]={{path="chatsounds/autoadd/bfb/oghh.ogg",length=0.504}}
 L["oh"]={{path="chatsounds/autoadd/bfb/oh.ogg",length=1.746}}
 L["oh dang its all jampacked with air"]={{path="chatsounds/autoadd/bfb/oh dang its all jampacked with air.ogg",length=2.463}}
 L["oh my gosh i won"]={{path="chatsounds/autoadd/bfb/oh my gosh i won.ogg",length=1.518}}
+L["oh no whats this"]={{path="chatsounds/autoadd/bfb/oh no whats this.ogg",length=1.323}}
 L["oh nooo"]={{path="chatsounds/autoadd/bfb/oh nooo.ogg",length=1.249}}
 L["oh seriously"]={{path="chatsounds/autoadd/bfb/oh seriously.ogg",length=1.575}}
 L["oh um actually"]={{path="chatsounds/autoadd/bfb/oh um actually.ogg",length=2.020}}
@@ -126,22 +154,31 @@ L["papr"]={{path="chatsounds/autoadd/bfb/papr.ogg",length=0.397}}
 L["pay more attention next time"]={{path="chatsounds/autoadd/bfb/pay more attention next time.ogg",length=1.727}}
 L["pretty cool dont you think"]={{path="chatsounds/autoadd/bfb/pretty cool dont you think.ogg",length=1.957}}
 L["sick noises"]={{path="chatsounds/autoadd/bfb/sick noises.ogg",length=3.936}}
+L["sniffle"]={{path="chatsounds/autoadd/bfb/sniffle.ogg",length=0.438}}
 L["someone really talented made it"]={{path="chatsounds/autoadd/bfb/someone really talented made it.ogg",length=2.663}}
 L["sorry"]={{path="chatsounds/autoadd/bfb/sorry.ogg",length=0.919}}
 L["sounds dirty but okay"]={{path="chatsounds/autoadd/bfb/sounds dirty but okay.ogg",length=3.110}}
 L["sounds like a lie to me"]={{path="chatsounds/autoadd/bfb/sounds like a lie to me.ogg",length=1.436}}
+L["sssnnnaaatttccchhh"]={{path="chatsounds/autoadd/bfb/sssnnnaaatttccchhh.ogg",length=1.844}}
 L["staaaaaaaaap"]={{path="chatsounds/autoadd/bfb/staaaaaaaaap.ogg",length=2.760}}
 L["stop pretending to care"]={{path="chatsounds/autoadd/bfb/stop pretending to care.ogg",length=1.282}}
 L["sure thing"]={{path="chatsounds/autoadd/bfb/sure thing.ogg",length=1.076}}
 L["thank you for opening my eyes"]={{path="chatsounds/autoadd/bfb/thank you for opening my eyes.ogg",length=2.296}}
+L["thanks for telling me"]={{path="chatsounds/autoadd/bfb/thanks for telling me.ogg",length=1.123}}
 L["thats it im leafing"]={{path="chatsounds/autoadd/bfb/thats it im leafing.ogg",length=1.280}}
 L["thats not how you use rhetorical questions"]={{path="chatsounds/autoadd/bfb/thats not how you use rhetorical questions.ogg",length=2.188}}
+L["thats not me im not touching anything"]={{path="chatsounds/autoadd/bfb/thats not me im not touching anything.ogg",length=1.871}}
 L["thats where youre wrong there is a tomorrow"]={{path="chatsounds/autoadd/bfb/thats where youre wrong there is a tomorrow.ogg",length=3.015}}
+L["thats wrong"]={{path="chatsounds/autoadd/bfb/thats wrong.ogg",length=2.135}}
 L["the only one who could free me was myself"]={{path="chatsounds/autoadd/bfb/the only one who could free me was myself.ogg",length=3.267}}
 L["theres an easy solution youre all missing"]={{path="chatsounds/autoadd/bfb/theres an easy solution youre all missing.ogg",length=2.774}}
 L["times are a changing"]={{path="chatsounds/autoadd/bfb/times are a changing.ogg",length=2.217}}
 L["todays challenge isssss"]={{path="chatsounds/autoadd/bfb/todays challenge isssss.ogg",length=3.139}}
 L["too bad"]={{path="chatsounds/autoadd/bfb/too bad.ogg",length=0.881}}
+L["translated"]={{path="chatsounds/autoadd/bfb/translated.ogg",length=1.353}}
+L["treasontreasontreasontreasontreasontreasontreasontreason"]={{path="chatsounds/autoadd/bfb/treasontreasontreasontreasontreasontreasontreasontreason.ogg",length=3.581}}
+L["uehh"]={{path="chatsounds/autoadd/bfb/uehh.ogg",length=0.668}}
+L["uh hello"]={{path="chatsounds/autoadd/bfb/uh hello.ogg",length=1.301}}
 L["uhhh sure"]={{path="chatsounds/autoadd/bfb/uhhh sure.ogg",length=1.738}}
 L["ummm"]={{path="chatsounds/autoadd/bfb/ummm.ogg",length=0.951}}
 L["wait thats what a man looks like"]={{path="chatsounds/autoadd/bfb/wait thats what a man looks like.ogg",length=2.633}}
@@ -153,24 +190,37 @@ L["well i guess so"]={{path="chatsounds/autoadd/bfb/well i guess so.ogg",length=
 L["well im not the one who doesnt know their value"]={{path="chatsounds/autoadd/bfb/well im not the one who doesnt know their value.ogg",length=3.315}}
 L["were about to lose"]={{path="chatsounds/autoadd/bfb/were about to lose.ogg",length=2.014}}
 L["were gonna demote you from member to bember"]={{path="chatsounds/autoadd/bfb/were gonna demote you from member to bember.ogg",length=2.829}}
+L["what a hypocrite"]={{path="chatsounds/autoadd/bfb/what a hypocrite.ogg",length=0.987}}
 L["what do we do"]={{path="chatsounds/autoadd/bfb/what do we do.ogg",length=1.828}}
 L["what do you mean hes still alive"]={{path="chatsounds/autoadd/bfb/what do you mean hes still alive.ogg",length=1.347}}
+L["what im doing now will help us"]={{path="chatsounds/autoadd/bfb/what im doing now will help us.ogg",length=2.254}}
 L["what is a"]={{path="chatsounds/autoadd/bfb/what is a.ogg",length=0.682}}
 L["what thats lazy"]={{path="chatsounds/autoadd/bfb/what thats lazy.ogg",length=1.344}}
+L["whatever"]={{path="chatsounds/autoadd/bfb/whatever.ogg",length=0.689}}
 L["whatever you win some you lose some"]={{path="chatsounds/autoadd/bfb/whatever you win some you lose some.ogg",length=2.057}}
 L["who are you can you tell me"]={{path="chatsounds/autoadd/bfb/who are you can you tell me.ogg",length=1.734}}
 L["who did this"]={{path="chatsounds/autoadd/bfb/who did this.ogg",length=1.357}}
+L["whuaaooouu oh my artist"]={{path="chatsounds/autoadd/bfb/whuaaooouu oh my artist.ogg",length=4.052}}
 L["why are all these boys here"]={{path="chatsounds/autoadd/bfb/why are all these boys here.ogg",length=1.596}}
 L["woah"]={{path="chatsounds/autoadd/bfb/woah.ogg",length=0.655}}
 L["wonderful"]={{path="chatsounds/autoadd/bfb/wonderful.ogg",length=1.018}}
 L["wow thats really thought provoking"]={{path="chatsounds/autoadd/bfb/wow thats really thought provoking.ogg",length=2.459}}
+L["wro oh thats actually correct"]={{path="chatsounds/autoadd/bfb/wro oh thats actually correct.ogg",length=2.756}}
 L["x scream"]={{path="chatsounds/autoadd/bfb/x scream.ogg",length=0.940}}
 L["yeah sounds totally reasonable"]={{path="chatsounds/autoadd/bfb/yeah sounds totally reasonable.ogg",length=1.875}}
 L["yeah too bad"]={{path="chatsounds/autoadd/bfb/yeah too bad.ogg",length=1.217}}
 L["yeahh"]={{path="chatsounds/autoadd/bfb/yeahh.ogg",length=0.773}}
+L["yeeah"]={{path="chatsounds/autoadd/bfb/yeeah.ogg",length=0.925}}
 L["yeeeahh"]={{path="chatsounds/autoadd/bfb/yeeeahh.ogg",length=0.975}}
+L["yes"]={{path="chatsounds/autoadd/bfb/yes.ogg",length=0.680}}
+L["yesss"]={{path="chatsounds/autoadd/bfb/yesss.ogg",length=1.412}}
+L["you are not worthy of bebmbership status"]={{path="chatsounds/autoadd/bfb/you are not worthy of bebmbership status.ogg",length=3.564}}
+L["you are such a dissapointment"]={{path="chatsounds/autoadd/bfb/you are such a dissapointment.ogg",length=1.956}}
 L["you can do it"]={{path="chatsounds/autoadd/bfb/you can do it.ogg",length=1.502}}
+L["you give me no choice"]={{path="chatsounds/autoadd/bfb/you give me no choice.ogg",length=1.318}}
 L["you tire me and i dont get tired"]={{path="chatsounds/autoadd/bfb/you tire me and i dont get tired.ogg",length=2.797}}
+L["youre great at mental contests"]={{path="chatsounds/autoadd/bfb/youre great at mental contests.ogg",length=2.067}}
+L["youre like demoted to merely a bemb"]={{path="chatsounds/autoadd/bfb/youre like demoted to merely a bemb.ogg",length=3.394}}
 L["youre not supposed to know that"]={{path="chatsounds/autoadd/bfb/youre not supposed to know that.ogg",length=2.169}}
 L["youre welcome"]={{path="chatsounds/autoadd/bfb/youre welcome.ogg",length=1.192}}
 L["youve been here the whole time"]={{path="chatsounds/autoadd/bfb/youve been here the whole time.ogg",length=1.890}}
