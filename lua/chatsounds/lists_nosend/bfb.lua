@@ -96,7 +96,7 @@ L["im sensing the tiniest bit of bias perhaps"]={{path="chatsounds/autoadd/bfb/i
 L["im so excited to start preventing death"]={{path="chatsounds/autoadd/bfb/im so excited to start preventing death.ogg",length=3.301}}
 L["im tired"]={{path="chatsounds/autoadd/bfb/im tired.ogg",length=1.910}}
 L["it was an accident"]={{path="chatsounds/autoadd/bfb/it was an accident.ogg",length=1.592}}
-L["its made out of abandoned trash we fould lying around"]={{path="chatsounds/autoadd/bfb/its made out of abandoned trash we fould lying around.ogg",length=2.726}}
+L["its made out of abandoned trash we found lying around"]={{path="chatsounds/autoadd/bfb/its made out of abandoned trash we found lying around.ogg",length=2.726}}
 L["its still annoying"]={{path="chatsounds/autoadd/bfb/its still annoying.ogg",length=1.408}}
 L["its tiime"]={{path="chatsounds/autoadd/bfb/its tiime.ogg",length=1.269}}
 L["its time"]={{path="chatsounds/autoadd/bfb/its time.ogg",length=1.166}}
@@ -214,7 +214,7 @@ L["yeeah"]={{path="chatsounds/autoadd/bfb/yeeah.ogg",length=0.925}}
 L["yeeeahh"]={{path="chatsounds/autoadd/bfb/yeeeahh.ogg",length=0.975}}
 L["yes"]={{path="chatsounds/autoadd/bfb/yes.ogg",length=0.680}}
 L["yesss"]={{path="chatsounds/autoadd/bfb/yesss.ogg",length=1.412}}
-L["you are not worthy of bebmbership status"]={{path="chatsounds/autoadd/bfb/you are not worthy of bebmbership status.ogg",length=3.564}}
+L["you are not worthy of bembership status"]={{path="chatsounds/autoadd/bfb/you are not worthy of bembership status.ogg",length=3.564}}
 L["you are such a dissapointment"]={{path="chatsounds/autoadd/bfb/you are such a dissapointment.ogg",length=1.956}}
 L["you can do it"]={{path="chatsounds/autoadd/bfb/you can do it.ogg",length=1.502}}
 L["you give me no choice"]={{path="chatsounds/autoadd/bfb/you give me no choice.ogg",length=1.318}}
