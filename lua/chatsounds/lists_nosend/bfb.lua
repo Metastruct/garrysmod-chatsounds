@@ -42,8 +42,7 @@ L["come on everybody were more than half way"]={{path="chatsounds/autoadd/bfb/co
 L["crazy laugh"]={{path="chatsounds/autoadd/bfb/crazy laugh.ogg",length=2.765}}
 L["cullenhouseloop"]={{path="chatsounds/autoadd/bfb/cullenhouseloop.ogg",length=7.416}}
 L["dab it my boyonausuras"]={{path="chatsounds/autoadd/bfb/dab it my boyonausuras.ogg",length=1.833}}
-L["dangit"]={{path="chatsounds/autoadd/bfb/dangit.ogg",length=0.568}}
-L["dangit 2"]={{path="chatsounds/autoadd/bfb/dangit 2.ogg",length=0.703}}
+L["dangit"]={{path="chatsounds/autoadd/bfb/dangit/dangit 1.ogg",length=0.568},{path="chatsounds/autoadd/bfb/dangit/dangit 2.ogg",length=0.703}}
 L["debatably correct"]={{path="chatsounds/autoadd/bfb/debatably correct.ogg",length=1.412}}
 L["did i mess that up"]={{path="chatsounds/autoadd/bfb/did i mess that up.ogg",length=0.911}}
 L["did someone say killing"]={{path="chatsounds/autoadd/bfb/did someone say killing.ogg",length=1.289}}
@@ -72,12 +71,8 @@ L["firey junior theres no one quite like you gasp"]={{path="chatsounds/autoadd/b
 L["fork stab fast"]={{path="chatsounds/autoadd/bfb/fork stab fast.ogg",length=4.329}}
 L["four gasp"]={{path="chatsounds/autoadd/bfb/four gasp.ogg",length=0.909}}
 L["four love screech"]={{path="chatsounds/autoadd/bfb/four love screech.ogg",length=1.951}}
-L["four recovery"]={{path="chatsounds/autoadd/bfb/four recovery.ogg",length=2.518}}
-L["four recovery 2"]={{path="chatsounds/autoadd/bfb/four recovery 2.ogg",length=2.431}}
-L["four screech"]={{path="chatsounds/autoadd/bfb/four screech/four screech 1.ogg",length=20.766},{path="chatsounds/autoadd/bfb/four screech/four screech 2.ogg",length=1.022},{path="chatsounds/autoadd/bfb/four screech/four screech 3.ogg",length=0.292}}
-L["four screech 4"]={{path="chatsounds/autoadd/bfb/four screech 4.ogg",length=0.972}}
-L["four screech 5"]={{path="chatsounds/autoadd/bfb/four screech 5.ogg",length=0.223}}
-L["four screech 6"]={{path="chatsounds/autoadd/bfb/four screech 6.ogg",length=1.316}}
+L["four recovery"]={{path="chatsounds/autoadd/bfb/four recovery/four recovery 1.ogg",length=2.518},{path="chatsounds/autoadd/bfb/four recovery/four recovery 2.ogg",length=2.431}}
+L["four screech"]={{path="chatsounds/autoadd/bfb/four screech/four screech 1.ogg",length=20.766},{path="chatsounds/autoadd/bfb/four screech/four screech 2.ogg",length=1.022},{path="chatsounds/autoadd/bfb/four screech/four screech 3.ogg",length=0.292},{path="chatsounds/autoadd/bfb/four screech/four screech 4.ogg",length=0.972},{path="chatsounds/autoadd/bfb/four screech/four screech 5.ogg",length=0.223},{path="chatsounds/autoadd/bfb/four screech/four screech 6.ogg",length=1.316}}
 L["four screech hey that doesnt rhyme"]={{path="chatsounds/autoadd/bfb/four screech hey that doesnt rhyme.ogg",length=3.735}}
 L["four screech knockout"]={{path="chatsounds/autoadd/bfb/four screech knockout.ogg",length=1.960}}
 L["four squish"]={{path="chatsounds/autoadd/bfb/four squish.ogg",length=2.045}}
@@ -240,8 +235,7 @@ L["todays challenge isssss"]={{path="chatsounds/autoadd/bfb/todays challenge iss
 L["too bad"]={{path="chatsounds/autoadd/bfb/too bad.ogg",length=0.881}}
 L["translated"]={{path="chatsounds/autoadd/bfb/translated.ogg",length=1.353}}
 L["treasontreasontreasontreasontreasontreasontreasontreason"]={{path="chatsounds/autoadd/bfb/treasontreasontreasontreasontreasontreasontreasontreason.ogg",length=3.581}}
-L["twinkle contain"]={{path="chatsounds/autoadd/bfb/twinkle contain.ogg",length=1.519}}
-L["twinkle contain 2"]={{path="chatsounds/autoadd/bfb/twinkle contain 2.ogg",length=2.437}}
+L["twinkle contain"]={{path="chatsounds/autoadd/bfb/twinkle contain/twinkle contain 1.ogg",length=1.519},{path="chatsounds/autoadd/bfb/twinkle contain/twinkle contain 2.ogg",length=2.437}}
 L["uehh"]={{path="chatsounds/autoadd/bfb/uehh.ogg",length=0.668}}
 L["uh hello"]={{path="chatsounds/autoadd/bfb/uh hello.ogg",length=1.301}}
 L["uhhh sure"]={{path="chatsounds/autoadd/bfb/uhhh sure.ogg",length=1.738}}
