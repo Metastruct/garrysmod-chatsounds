@@ -8,7 +8,7 @@ L["before she gets bitten"]={{path="chatsounds/autoadd/snatch/before she gets bi
 L["before zee germans get there"]={{path="chatsounds/autoadd/snatch/before zee germans get there.ogg",length=1.644}}
 L["bust a cap in his ass"]={{path="chatsounds/autoadd/snatch/bust a cap in his ass.ogg",length=2.065}}
 L["but you dont want to go sieve through pigshit now do ya"]={{path="chatsounds/autoadd/snatch/but you dont want to go sieve through pigshit now do ya.ogg",length=2.730}}
-L["cause its no good leaving it in the deep freeze for your mum do discover now is it"]={{path="chatsounds/autoadd/snatch/cause its no good leaving it in the deep freeze for your mum do discover now is it.ogg",length=3.695}}
+L["cause its no good leaving it in the deep freeze for your mum to discover now is it"]={{path="chatsounds/autoadd/snatch/cause its no good leaving it in the deep freeze for your mum to discover now is it.ogg",length=3.695}}
 L["do you know who i am"]={{path="chatsounds/autoadd/snatch/do you know who i am.ogg",length=0.978}}
 L["dogs do that"]={{path="chatsounds/autoadd/snatch/dogs do that.ogg",length=0.911}}
 L["dont worry about tyrone he can move when he has to"]={{path="chatsounds/autoadd/snatch/dont worry about tyrone he can move when he has to.ogg",length=2.676}}
