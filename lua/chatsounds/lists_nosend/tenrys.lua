@@ -58,6 +58,7 @@ L["fak u krusti"]={{path="chatsounds/autoadd/tenrys/fak u krusti.ogg",length=1.4
 L["fap sounds"]={{path="chatsounds/autoadd/tenrys/fap sounds.ogg",length=4.715}}
 L["fart"]={{path="chatsounds/autoadd/tenrys/fart.ogg",length=0.202}}
 L["fbi"]={{path="chatsounds/autoadd/tenrys/fbi.ogg",length=0.594}}
+L["fbi open up"]={{path="chatsounds/autoadd/tenrys/fbi open up.ogg",length=1.974}}
 L["fine just try it"]={{path="chatsounds/autoadd/tenrys/fine just try it.ogg",length=1.919}}
 L["fool"]={{path="chatsounds/autoadd/tenrys/fool.ogg",length=0.446}}
 L["fuck you"]={{path="chatsounds/autoadd/tenrys/fuck you.ogg",length=0.906}}
