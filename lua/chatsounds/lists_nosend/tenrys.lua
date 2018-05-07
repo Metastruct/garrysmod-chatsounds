@@ -6,6 +6,7 @@ L["aaaaah well that was wonderful good times were had by all im pooped"]={{path=
 L["aawh"]={{path="chatsounds/autoadd/tenrys/aawh.ogg",length=0.487}}
 L["ah i see"]={{path="chatsounds/autoadd/tenrys/ah i see.ogg",length=0.722}}
 L["aku aku"]={{path="chatsounds/autoadd/tenrys/aku aku.ogg",length=1.283}}
+L["alreadydeadsfx"]={{path="chatsounds/autoadd/tenrys/alreadydeadsfx.ogg",length=1.521}}
 L["alright the truth then"]={{path="chatsounds/autoadd/tenrys/alright the truth then.ogg",length=2.205}}
 L["am i finally getting through"]={{path="chatsounds/autoadd/tenrys/am i finally getting through.ogg",length=1.960}}
 L["amateur"]={{path="chatsounds/autoadd/tenrys/amateur.ogg",length=0.698}}
@@ -128,6 +129,7 @@ L["mission failed well get em next time"]={{path="chatsounds/autoadd/tenrys/miss
 L["mmmmmmm"]={{path="chatsounds/autoadd/tenrys/mmmmmmm.ogg",length=0.961}}
 L["more hurt me more"]={{path="chatsounds/autoadd/tenrys/more hurt me more.ogg",length=2.430}}
 L["my roflcopter goes"]={{path="chatsounds/autoadd/tenrys/my roflcopter goes.ogg",length=1.541}}
+L["nani"]={{path="chatsounds/autoadd/tenrys/nani.ogg",length=0.701}}
 L["nanomachines son"]={{path="chatsounds/autoadd/tenrys/nanomachines son.ogg",length=1.811}}
 L["navashieldlaugh"]={{path="chatsounds/autoadd/tenrys/navashieldlaugh.ogg",length=1.231}}
 L["nice"]={{path="chatsounds/autoadd/tenrys/nice/1.ogg",length=0.376},{path="chatsounds/autoadd/tenrys/nice/10.ogg",length=0.508},{path="chatsounds/autoadd/tenrys/nice/11.ogg",length=0.783},{path="chatsounds/autoadd/tenrys/nice/12.ogg",length=0.596},{path="chatsounds/autoadd/tenrys/nice/13.ogg",length=0.394},{path="chatsounds/autoadd/tenrys/nice/14.ogg",length=0.554},{path="chatsounds/autoadd/tenrys/nice/15.ogg",length=0.466},{path="chatsounds/autoadd/tenrys/nice/16.ogg",length=0.359},{path="chatsounds/autoadd/tenrys/nice/2.ogg",length=0.445},{path="chatsounds/autoadd/tenrys/nice/3.ogg",length=0.392},{path="chatsounds/autoadd/tenrys/nice/4.ogg",length=0.321},{path="chatsounds/autoadd/tenrys/nice/5.ogg",length=0.394},{path="chatsounds/autoadd/tenrys/nice/6.ogg",length=0.271},{path="chatsounds/autoadd/tenrys/nice/7.ogg",length=0.394},{path="chatsounds/autoadd/tenrys/nice/8.ogg",length=0.378},{path="chatsounds/autoadd/tenrys/nice/9.ogg",length=0.440}}
@@ -168,7 +170,7 @@ L["okaeri onii chan"]={{path="chatsounds/autoadd/tenrys/okaeri onii chan.ogg",le
 L["okay"]={{path="chatsounds/autoadd/tenrys/okay.ogg",length=0.954}}
 L["okay now im mad"]={{path="chatsounds/autoadd/tenrys/okay now im mad.ogg",length=2.570}}
 L["okoruka"]={{path="chatsounds/autoadd/tenrys/okoruka.ogg",length=0.721}}
-L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru.ogg",length=1.584}}
+L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru/1.ogg",length=1.584},{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru/2.ogg",length=2.051}}
 L["ooh hohohoh nonono ohoho"]={{path="chatsounds/autoadd/tenrys/ooh hohohoh nonono ohoho.ogg",length=6.569}}
 L["ooh what happened to those fiery words of yours"]={{path="chatsounds/autoadd/tenrys/ooh what happened to those fiery words of yours.ogg",length=3.486}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623}}
