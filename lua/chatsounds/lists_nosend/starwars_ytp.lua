@@ -19,8 +19,7 @@ L["jooj"]={{path="chatsounds/autoadd/starwars_ytp/jooj.ogg",length=0.350}}
 L["ninth time that business on cato nemoidia doesnt doesnt count"]={{path="chatsounds/autoadd/starwars_ytp/ninth time that business on cato nemoidia doesnt doesnt count.ogg",length=4.435}}
 L["no"]={{path="chatsounds/autoadd/starwars_ytp/no.ogg",length=0.315}}
 L["no did you"]={{path="chatsounds/autoadd/starwars_ytp/no did you.ogg",length=0.630}}
-L["no did you press the stop button"]={{path="chatsounds/autoadd/starwars_ytp/no did you press the stop button.ogg",length=1.319}}
-L["no did you press the stop button2"]={{path="chatsounds/autoadd/starwars_ytp/no did you press the stop button2.ogg",length=1.389}}
+L["no did you press the stop button"]={{path="chatsounds/autoadd/starwars_ytp/no did you press the stop button/no did you press the stop button.ogg",length=1.319},{path="chatsounds/autoadd/starwars_ytp/no did you press the stop button/no did you press the stop button2.ogg",length=1.389}}
 L["now we must leave before more sand people arrive"]={{path="chatsounds/autoadd/starwars_ytp/now we must leave before more sand people arrive.ogg",length=2.871}}
 L["sigh always on crack"]={{path="chatsounds/autoadd/starwars_ytp/sigh always on crack.ogg",length=1.891}}
 L["strap yourselves in"]={{path="chatsounds/autoadd/starwars_ytp/strap yourselves in.ogg",length=1.015}}
