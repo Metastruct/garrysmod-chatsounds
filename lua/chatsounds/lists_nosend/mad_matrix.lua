@@ -86,6 +86,7 @@ L["oh and by the way just if you havent noticed"]={{path="chatsounds/autoadd/mad
 L["oh and cnn thank you so much for the wall to wall ebola coverage"]={{path="chatsounds/autoadd/mad_matrix/oh and cnn thank you so much for the wall to wall ebola coverage.ogg",length=4.641}}
 L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/autoadd/mad_matrix/oh dont mind that its just my nephew hes very disturbed.ogg",length=3.486}}
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
+L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/mad_matrix/omae wa mo shindeiru.ogg",length=2.298}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["oohh yees"]={{path="chatsounds/autoadd/mad_matrix/oohh yees.ogg",length=1.473}}
 L["people see him hes hes aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/people see him hes hes aaaaaa.ogg",length=1.966}}
