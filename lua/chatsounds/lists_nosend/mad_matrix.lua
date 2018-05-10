@@ -104,6 +104,7 @@ L["she gonna get all the money"]={{path="chatsounds/autoadd/mad_matrix/she gonna
 L["she gonna get that money"]={{path="chatsounds/autoadd/mad_matrix/she gonna get that money.ogg",length=1.829}}
 L["shit"]={{path="chatsounds/autoadd/mad_matrix/shit.ogg",length=0.552}}
 L["shitshitshitshitshit"]={{path="chatsounds/autoadd/mad_matrix/shitshitshitshitshit.ogg",length=2.146}}
+L["sneakytune"]={{path="chatsounds/autoadd/mad_matrix/sneakytune.ogg",length=5.904}}
 L["somebody toucha my spaghet"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet.ogg",length=5.219}}
 L["somebody toucha my spaghet distorted"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet distorted.ogg",length=12.581}}
 L["strangenoises"]={{path="chatsounds/autoadd/mad_matrix/strangenoises.ogg",length=3.776}}
