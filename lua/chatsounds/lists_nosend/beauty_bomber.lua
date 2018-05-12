@@ -24,6 +24,7 @@ L["fiestatime"]={{path="chatsounds/autoadd/beauty_bomber/fiestatime.ogg",length=
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
 L["getsmart"]={{path="chatsounds/autoadd/beauty_bomber/getsmart.ogg",length=21.579}}
 L["gimme that hat"]={{path="chatsounds/autoadd/beauty_bomber/gimme that hat.ogg",length=1.301}}
+L["goodbye everyone ill remember you all in therapy"]={{path="chatsounds/autoadd/beauty_bomber/goodbye everyone ill remember you all in therapy.ogg",length=3.111}}
 L["graciefilms distorted"]={{path="chatsounds/autoadd/beauty_bomber/graciefilms distorted.ogg",length=3.242}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
