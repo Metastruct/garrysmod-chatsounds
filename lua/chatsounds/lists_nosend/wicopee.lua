@@ -8,6 +8,7 @@ L["all of this behaviour is a symptom of the fact that youre not expressing your
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
 L["and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers"]={{path="chatsounds/autoadd/wicopee/and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers.ogg",length=6.273}}
+L["android tada"]={{path="chatsounds/autoadd/wicopee/android tada.ogg",length=3.293}}
 L["annie are you ok"]={{path="chatsounds/autoadd/wicopee/annie are you ok.ogg",length=7.718}}
 L["anyanya"]={{path="chatsounds/autoadd/wicopee/anyanya.ogg",length=0.725}}
 L["are you paralyzed by your anger"]={{path="chatsounds/autoadd/wicopee/are you paralyzed by your anger.ogg",length=2.769}}
@@ -37,6 +38,7 @@ L["da kto zhe togda stuchit"]={{path="chatsounds/autoadd/wicopee/da kto zhe togd
 L["da nikto loud"]={{path="chatsounds/autoadd/wicopee/da nikto loud.ogg",length=0.738}}
 L["dadaladno"]={{path="chatsounds/autoadd/wicopee/dadaladno.ogg",length=0.979}}
 L["dal"]={{path="chatsounds/autoadd/wicopee/dal.ogg",length=0.191}}
+L["demonic screech"]={{path="chatsounds/autoadd/wicopee/demonic screech.ogg",length=5.400}}
 L["ding"]={{path="chatsounds/autoadd/wicopee/ding.ogg",length=0.698}}
 L["dingintense"]={{path="chatsounds/autoadd/wicopee/dingintense.ogg",length=1.172}}
 L["do you ever feel angry"]={{path="chatsounds/autoadd/wicopee/do you ever feel angry.ogg",length=1.715}}
@@ -112,6 +114,7 @@ L["ragesounds"]={{path="chatsounds/autoadd/wicopee/ragesounds.ogg",length=0.859}
 L["recordscratch"]={{path="chatsounds/autoadd/wicopee/recordscratch.ogg",length=0.489}}
 L["russian terrified scream"]={{path="chatsounds/autoadd/wicopee/russian terrified scream.ogg",length=2.414}}
 L["screamfadein"]={{path="chatsounds/autoadd/wicopee/screamfadein.ogg",length=2.993}}
+L["screech"]={{path="chatsounds/autoadd/wicopee/screech.ogg",length=0.972}}
 L["sees"]={{path="chatsounds/autoadd/wicopee/sees.ogg",length=0.463}}
 L["segodnya denj ili nochj"]={{path="chatsounds/autoadd/wicopee/segodnya denj ili nochj.ogg",length=1.239}}
 L["serbiastrong8bit"]={{path="chatsounds/autoadd/wicopee/serbiastrong8bit.ogg",length=8.289}}
@@ -138,6 +141,7 @@ L["vam vsem pizdets distorted"]={{path="chatsounds/autoadd/wicopee/vam vsem pizd
 L["vse yasno"]={{path="chatsounds/autoadd/wicopee/vse yasno.ogg",length=0.926}}
 L["we are fucking neighbours"]={{path="chatsounds/autoadd/wicopee/we are fucking neighbours.ogg",length=1.871}}
 L["we can certainly express our anger if we handle our anger assertivley"]={{path="chatsounds/autoadd/wicopee/we can certainly express our anger if we handle our anger assertivley.ogg",length=5.973}}
+L["welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video"]={{path="chatsounds/autoadd/wicopee/welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video.ogg",length=6.388}}
 L["what the fuck is that in the corner"]={{path="chatsounds/autoadd/wicopee/what the fuck is that in the corner.ogg",length=1.965}}
 L["who can say where the road goes"]={{path="chatsounds/autoadd/wicopee/who can say where the road goes.ogg",length=4.814}}
 L["ya hochu noticesound"]={{path="chatsounds/autoadd/wicopee/ya hochu noticesound.ogg",length=0.797}}
