@@ -8,7 +8,6 @@ L["all of this behaviour is a symptom of the fact that youre not expressing your
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
 L["and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers"]={{path="chatsounds/autoadd/wicopee/and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers.ogg",length=6.273}}
-L["android tada"]={{path="chatsounds/autoadd/wicopee/android tada.ogg",length=3.293}}
 L["annie are you ok"]={{path="chatsounds/autoadd/wicopee/annie are you ok.ogg",length=7.718}}
 L["anyanya"]={{path="chatsounds/autoadd/wicopee/anyanya.ogg",length=0.725}}
 L["are you paralyzed by your anger"]={{path="chatsounds/autoadd/wicopee/are you paralyzed by your anger.ogg",length=2.769}}
