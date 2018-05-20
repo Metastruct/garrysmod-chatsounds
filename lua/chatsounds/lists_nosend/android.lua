@@ -3,7 +3,7 @@ L["android aldebaran"]={{path="chatsounds/autoadd/android/android aldebaran.ogg"
 L["android altair"]={{path="chatsounds/autoadd/android/android altair.ogg",length=0.739}}
 L["android antares"]={{path="chatsounds/autoadd/android/android antares.ogg",length=0.919}}
 L["android arcturus"]={{path="chatsounds/autoadd/android/android arcturus.ogg",length=1.012}}
-L["android beat_box_android"]={{path="chatsounds/autoadd/android/android beat_box_android.ogg",length=2.025}}
+L["android beatboxandroid"]={{path="chatsounds/autoadd/android/android beatboxandroid.ogg",length=2.025}}
 L["android betelgeuse"]={{path="chatsounds/autoadd/android/android betelgeuse.ogg",length=1.072}}
 L["android caffeinesnake"]={{path="chatsounds/autoadd/android/android caffeinesnake.ogg",length=1.926}}
 L["android canopus"]={{path="chatsounds/autoadd/android/android canopus.ogg",length=0.718}}
@@ -17,9 +17,9 @@ L["android doink"]={{path="chatsounds/autoadd/android/android doink.ogg",length=
 L["android dontpanic"]={{path="chatsounds/autoadd/android/android dontpanic.ogg",length=1.940}}
 L["android drip"]={{path="chatsounds/autoadd/android/android drip.ogg",length=1.247}}
 L["android electra"]={{path="chatsounds/autoadd/android/android electra.ogg",length=2.103}}
-L["android f1_missedcall"]={{path="chatsounds/autoadd/android/android f1_missedcall.ogg",length=0.718}}
-L["android f1_new_mms"]={{path="chatsounds/autoadd/android/android f1_new_mms.ogg",length=1.310}}
-L["android f1_new_sms"]={{path="chatsounds/autoadd/android/android f1_new_sms.ogg",length=0.657}}
+L["android f1missedcall"]={{path="chatsounds/autoadd/android/android f1missedcall.ogg",length=0.718}}
+L["android f1new_mms"]={{path="chatsounds/autoadd/android/android f1new_mms.ogg",length=1.310}}
+L["android f1newsms"]={{path="chatsounds/autoadd/android/android f1newsms.ogg",length=0.657}}
 L["android fomalhaut"]={{path="chatsounds/autoadd/android/android fomalhaut.ogg",length=2.315}}
 L["android heaven"]={{path="chatsounds/autoadd/android/android heaven.ogg",length=2.017}}
 L["android highwire"]={{path="chatsounds/autoadd/android/android highwire.ogg",length=1.926}}
@@ -29,7 +29,7 @@ L["android moonbeam"]={{path="chatsounds/autoadd/android/android moonbeam.ogg",l
 L["android onthehunt"]={{path="chatsounds/autoadd/android/android onthehunt.ogg",length=1.926}}
 L["android pixiedust"]={{path="chatsounds/autoadd/android/android pixiedust.ogg",length=1.740}}
 L["android pizzicato"]={{path="chatsounds/autoadd/android/android pizzicato.ogg",length=2.020}}
-L["android plastic_pipe"]={{path="chatsounds/autoadd/android/android plastic_pipe.ogg",length=0.408}}
+L["android plasticpipe"]={{path="chatsounds/autoadd/android/android plasticpipe.ogg",length=0.408}}
 L["android polaris"]={{path="chatsounds/autoadd/android/android polaris.ogg",length=2.361}}
 L["android pollux"]={{path="chatsounds/autoadd/android/android pollux.ogg",length=2.599}}
 L["android procyon"]={{path="chatsounds/autoadd/android/android procyon.ogg",length=2.643}}
