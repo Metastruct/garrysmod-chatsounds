@@ -3,6 +3,9 @@ L["a a ahahahaha"]={{path="chatsounds/autoadd/wicopee/a a ahahahaha.ogg",length=
 L["a eto evgenyj comedij genij"]={{path="chatsounds/autoadd/wicopee/a eto evgenyj comedij genij.ogg",length=3.635}}
 L["a nonunderstandablesounds"]={{path="chatsounds/autoadd/wicopee/a nonunderstandablesounds.ogg",length=1.180}}
 L["a ya vegas vkluchayu"]={{path="chatsounds/autoadd/wicopee/a ya vegas vkluchayu.ogg",length=1.791}}
+L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/1.ogg",length=3.703},{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/2.ogg",length=3.940},{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/3.ogg",length=3.762}}
+L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=6.428}}
+L["aaaaaaaeeaaaeeaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaeeaaaeeaaaaaaaaaaaaaa.ogg",length=3.880}}
 L["aininia"]={{path="chatsounds/autoadd/wicopee/aininia.ogg",length=0.639}}
 L["all of this behaviour is a symptom of the fact that youre not expressing your anger"]={{path="chatsounds/autoadd/wicopee/all of this behaviour is a symptom of the fact that youre not expressing your anger.ogg",length=5.806}}
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
