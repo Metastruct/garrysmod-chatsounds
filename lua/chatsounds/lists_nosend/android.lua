@@ -18,7 +18,7 @@ L["android dontpanic"]={{path="chatsounds/autoadd/android/android dontpanic.ogg"
 L["android drip"]={{path="chatsounds/autoadd/android/android drip.ogg",length=1.247}}
 L["android electra"]={{path="chatsounds/autoadd/android/android electra.ogg",length=2.103}}
 L["android f1missedcall"]={{path="chatsounds/autoadd/android/android f1missedcall.ogg",length=0.718}}
-L["android f1new_mms"]={{path="chatsounds/autoadd/android/android f1new_mms.ogg",length=1.310}}
+L["android f1newmms"]={{path="chatsounds/autoadd/android/android f1newmms.ogg",length=1.310}}
 L["android f1newsms"]={{path="chatsounds/autoadd/android/android f1newsms.ogg",length=0.657}}
 L["android fomalhaut"]={{path="chatsounds/autoadd/android/android fomalhaut.ogg",length=2.315}}
 L["android heaven"]={{path="chatsounds/autoadd/android/android heaven.ogg",length=2.017}}
