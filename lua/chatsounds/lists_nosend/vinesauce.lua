@@ -123,6 +123,7 @@ L["its copywritten fuck you"]={{path="chatsounds/autoadd/vinesauce/its copywritt
 L["joel losing his shit"]={{path="chatsounds/autoadd/vinesauce/joel losing his shit.ogg",length=4.751}}
 L["joel you little piss child"]={{path="chatsounds/autoadd/vinesauce/joel you little piss child.ogg",length=1.862}}
 L["joelgroan"]={{path="chatsounds/autoadd/vinesauce/joelgroan.ogg",length=0.746}}
+L["joelintenselaugh"]={{path="chatsounds/autoadd/vinesauce/joelintenselaugh.ogg",length=19.015}}
 L["joellaugh"]={{path="chatsounds/autoadd/vinesauce/joellaugh/1.ogg",length=1.566},{path="chatsounds/autoadd/vinesauce/joellaugh/2.ogg",length=1.646},{path="chatsounds/autoadd/vinesauce/joellaugh/3.ogg",length=1.440},{path="chatsounds/autoadd/vinesauce/joellaugh/4.ogg",length=2.736}}
 L["joelnoise"]={{path="chatsounds/autoadd/vinesauce/joelnoise/1.ogg",length=0.823},{path="chatsounds/autoadd/vinesauce/joelnoise/2.ogg",length=0.715},{path="chatsounds/autoadd/vinesauce/joelnoise/3.ogg",length=0.561},{path="chatsounds/autoadd/vinesauce/joelnoise/4.ogg",length=0.988}}
 L["kfc bucket f you"]={{path="chatsounds/autoadd/vinesauce/kfc bucket f you.ogg",length=1.317}}
