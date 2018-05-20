@@ -195,6 +195,7 @@ L["tweet tweet tweet loud"]={{path="chatsounds/autoadd/tf2extra/tweet tweet twee
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.909}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.539}}
 L["we are going to need that stupid cartoon horse"]={{path="chatsounds/autoadd/tf2extra/we are going to need that stupid cartoon horse.ogg",length=3.017}}
+L["well too bad"]={{path="chatsounds/autoadd/tf2extra/well too bad.ogg",length=1.845}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
 L["what makes me a good demoman"]={{path="chatsounds/autoadd/tf2extra/what makes me a good demoman.ogg",length=2.305}}
 L["what was noise"]={{path="chatsounds/autoadd/tf2extra/what was noise.ogg",length=2.012}}
@@ -208,6 +209,7 @@ L["woooooo"]={{path="chatsounds/autoadd/tf2extra/woooooo.ogg",length=0.891}}
 L["woow wewew pinnip o potaatop cloolc"]={{path="chatsounds/autoadd/tf2extra/woow wewew pinnip o potaatop cloolc.ogg",length=2.437}}
 L["wot"]={{path="chatsounds/autoadd/tf2extra/wot/1.ogg",length=0.168},{path="chatsounds/autoadd/tf2extra/wot/2.ogg",length=0.176},{path="chatsounds/autoadd/tf2extra/wot/3.ogg",length=0.305},{path="chatsounds/autoadd/tf2extra/wot/4.ogg",length=0.174}}
 L["wuuuub"]={{path="chatsounds/autoadd/tf2extra/wuuuub.ogg",length=1.375}}
+L["ya bleedin idiot distorted"]={{path="chatsounds/autoadd/tf2extra/ya bleedin idiot distorted.ogg",length=1.731}}
 L["ye"]={{path="chatsounds/autoadd/tf2extra/ye.ogg",length=0.199}}
 L["yeeee"]={{path="chatsounds/autoadd/tf2extra/yeeee.ogg",length=0.901}}
 L["yeeeeeee distorted"]={{path="chatsounds/autoadd/tf2extra/yeeeeeee distorted.ogg",length=4.403}}
