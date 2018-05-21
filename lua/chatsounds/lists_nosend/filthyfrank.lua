@@ -103,6 +103,7 @@ L["just do it you fucking pussy"]={{path="chatsounds/autoadd/filthyfrank/just do
 L["just dont be black"]={{path="chatsounds/autoadd/filthyfrank/just dont be black.ogg",length=1.985}}
 L["kill yourself"]={{path="chatsounds/autoadd/filthyfrank/kill yourself.ogg",length=1.219}}
 L["killing a hamster"]={{path="chatsounds/autoadd/filthyfrank/killing a hamster.ogg",length=4.876}}
+L["know your fucking place trash"]={{path="chatsounds/autoadd/filthyfrank/know your fucking place trash.ogg",length=2.823}}
 L["konnichiwa bitches"]={{path="chatsounds/autoadd/filthyfrank/konnichiwa bitches.ogg",length=1.576}}
 L["konnichiwa you magnificent bastards"]={{path="chatsounds/autoadd/filthyfrank/konnichiwa you magnificent bastards.ogg",length=2.581}}
 L["lets get some pussy tonight"]={{path="chatsounds/autoadd/filthyfrank/lets get some pussy tonight.ogg",length=2.635}}
@@ -136,6 +137,7 @@ L["ravioli ravioli"]={{path="chatsounds/autoadd/filthyfrank/ravioli ravioli.ogg"
 L["roasted"]={{path="chatsounds/autoadd/filthyfrank/roasted.ogg",length=11.363}}
 L["rosetta stone"]={{path="chatsounds/autoadd/filthyfrank/rosetta stone.ogg",length=1.072}}
 L["school sucks"]={{path="chatsounds/autoadd/filthyfrank/school sucks.ogg",length=1.840}}
+L["shut the fuck up no one cares"]={{path="chatsounds/autoadd/filthyfrank/shut the fuck up no one cares.ogg",length=1.654}}
 L["shut the fuck uup"]={{path="chatsounds/autoadd/filthyfrank/shut the fuck uup/shut the fuck uup1.ogg",length=1.816},{path="chatsounds/autoadd/filthyfrank/shut the fuck uup/shut the fuck uup2.ogg",length=2.196}}
 L["slurp"]={{path="chatsounds/autoadd/filthyfrank/slurp.ogg",length=0.923}}
 L["smell that shit"]={{path="chatsounds/autoadd/filthyfrank/smell that shit.ogg",length=0.726}}
@@ -151,6 +153,7 @@ L["the holocaust never happened"]={{path="chatsounds/autoadd/filthyfrank/the hol
 L["these bitches wanna suck my balls"]={{path="chatsounds/autoadd/filthyfrank/these bitches wanna suck my balls.ogg",length=2.965}}
 L["those guys will take care of anything"]={{path="chatsounds/autoadd/filthyfrank/those guys will take care of anything.ogg",length=2.159}}
 L["throw me in the river and let me sink to the bottom"]={{path="chatsounds/autoadd/filthyfrank/throw me in the river and let me sink to the bottom.ogg",length=3.203}}
+L["trash"]={{path="chatsounds/autoadd/filthyfrank/trash.ogg",length=0.762}}
 L["ugh"]={{path="chatsounds/autoadd/filthyfrank/ugh.ogg",length=0.929}}
 L["unwanted pregnancy"]={{path="chatsounds/autoadd/filthyfrank/unwanted pregnancy.ogg",length=1.759}}
 L["waaaaaaah"]={{path="chatsounds/autoadd/filthyfrank/waaaaaaah.ogg",length=1.271}}
