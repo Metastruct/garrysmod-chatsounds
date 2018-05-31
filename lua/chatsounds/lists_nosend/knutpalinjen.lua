@@ -19,9 +19,14 @@ L["jaja"]={{path="chatsounds/autoadd/knutpalinjen/jaja.ogg",length=0.700}}
 L["jajajajaja"]={{path="chatsounds/autoadd/knutpalinjen/jajajajaja.ogg",length=1.994}}
 L["jombada baahaa grandiose musica"]={{path="chatsounds/autoadd/knutpalinjen/jombada baahaa grandiose musica.ogg",length=2.644}}
 L["juubadudalaba zehjazuhzugeegee"]={{path="chatsounds/autoadd/knutpalinjen/juubadudalaba zehjazuhzugeegee.ogg",length=2.050}}
-L["knut aha"]={{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha1.ogg",length=1.390},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha2.ogg",length=2.345},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha3.ogg",length=0.615},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha4.ogg",length=1.517},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha5.ogg",length=1.244},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha6.ogg",length=1.170}}
-L["knut laugh"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh1.ogg",length=0.938},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh2.ogg",length=3.111},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh3.ogg",length=1.429},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh4.ogg",length=1.399},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh5.ogg",length=1.632}}
+L["knut aha"]={{path="chatsounds/autoadd/knutpalinjen/knut aha.ogg",length=1.691},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha1.ogg",length=1.390},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha2.ogg",length=2.345},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha3.ogg",length=0.615},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha4.ogg",length=1.517},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha5.ogg",length=1.244},{path="chatsounds/autoadd/knutpalinjen/knut aha/knut aha6.ogg",length=1.170}}
+L["knut death"]={{path="chatsounds/autoadd/knutpalinjen/knut death.ogg",length=9.063}}
+L["knut eh"]={{path="chatsounds/autoadd/knutpalinjen/knut eh.ogg",length=0.540}}
+L["knut gibberish"]={{path="chatsounds/autoadd/knutpalinjen/knut gibberish.ogg",length=7.714}}
+L["knut laugh"]={{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh1.ogg",length=0.938},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh2.ogg",length=3.111},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh3.ogg",length=1.429},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh4.ogg",length=1.399},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh5.ogg",length=1.632},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh6.ogg",length=4.909},{path="chatsounds/autoadd/knutpalinjen/knut laugh/knut laugh7.ogg",length=2.771}}
 L["knut pffft"]={{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft1.ogg",length=1.100},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft2.ogg",length=1.762},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft3.ogg",length=1.135},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft4.ogg",length=1.272},{path="chatsounds/autoadd/knutpalinjen/knut pffft/knut pffft5.ogg",length=0.765}}
+L["knut rage"]={{path="chatsounds/autoadd/knutpalinjen/knut rage/knut rage1.ogg",length=6.302},{path="chatsounds/autoadd/knutpalinjen/knut rage/knut rage2.ogg",length=11.201},{path="chatsounds/autoadd/knutpalinjen/knut rage/knut rage3.ogg",length=18.191},{path="chatsounds/autoadd/knutpalinjen/knut rage/knut rage4.ogg",length=10.187}}
+L["knut scream"]={{path="chatsounds/autoadd/knutpalinjen/knut scream.ogg",length=1.201}}
 L["knut theme"]={{path="chatsounds/autoadd/knutpalinjen/knut theme.ogg",length=9.402}}
 L["lagrande skott i rumpa"]={{path="chatsounds/autoadd/knutpalinjen/lagrande skott i rumpa.ogg",length=1.990}}
 L["macho gub budelanaamacho ra bazeezaba yeeee buzokomonzenezerababara buuuu menerabagh"]={{path="chatsounds/autoadd/knutpalinjen/macho gub budelanaamacho ra bazeezaba yeeee buzokomonzenezerababara buuuu menerabagh.ogg",length=6.122}}
@@ -31,6 +36,7 @@ L["nnnuagh fy bubblan"]={{path="chatsounds/autoadd/knutpalinjen/nnnuagh fy bubbl
 L["nuaghnahsuahsaaahaaa"]={{path="chatsounds/autoadd/knutpalinjen/nuaghnahsuahsaaahaaa.ogg",length=3.399}}
 L["pffft buah pah eeeow"]={{path="chatsounds/autoadd/knutpalinjen/pffft buah pah eeeow.ogg",length=2.445}}
 L["pffft pfft"]={{path="chatsounds/autoadd/knutpalinjen/pffft pfft.ogg",length=3.632}}
+L["pfft ded"]={{path="chatsounds/autoadd/knutpalinjen/pfft ded.ogg",length=3.683}}
 L["pft"]={{path="chatsounds/autoadd/knutpalinjen/pft.ogg",length=0.342}}
 L["pft yeeetsa"]={{path="chatsounds/autoadd/knutpalinjen/pft yeeetsa.ogg",length=1.819}}
 L["prostata ingladera pft pft pft aaahehahaha"]={{path="chatsounds/autoadd/knutpalinjen/prostata ingladera pft pft pft aaahehahaha.ogg",length=3.695}}
