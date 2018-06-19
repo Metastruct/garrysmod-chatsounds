@@ -168,12 +168,14 @@ L["oh youve gotta be kidding me"]={{path="chatsounds/autoadd/tenrys/oh youve got
 L["ohhhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/ohhhhhhhhhhhhhhhhhhhhhh.ogg",length=3.309}}
 L["okaeri onii chan"]={{path="chatsounds/autoadd/tenrys/okaeri onii chan.ogg",length=2.014}}
 L["okay"]={{path="chatsounds/autoadd/tenrys/okay.ogg",length=0.954}}
+L["okay i believe you"]={{path="chatsounds/autoadd/tenrys/okay i believe you.ogg",length=1.008}}
 L["okay now im mad"]={{path="chatsounds/autoadd/tenrys/okay now im mad.ogg",length=2.570}}
 L["okoruka"]={{path="chatsounds/autoadd/tenrys/okoruka.ogg",length=0.721}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru/1.ogg",length=1.584},{path="chatsounds/autoadd/tenrys/omae wa mo shindeiru/2.ogg",length=2.051}}
 L["ooh hohohoh nonono ohoho"]={{path="chatsounds/autoadd/tenrys/ooh hohohoh nonono ohoho.ogg",length=6.569}}
 L["ooh what happened to those fiery words of yours"]={{path="chatsounds/autoadd/tenrys/ooh what happened to those fiery words of yours.ogg",length=3.486}}
 L["or you can just call this a super saiyan 2"]={{path="chatsounds/autoadd/tenrys/or you can just call this a super saiyan 2.ogg",length=3.623}}
+L["ouchie ouch"]={{path="chatsounds/autoadd/tenrys/ouchie ouch.ogg",length=0.850}}
 L["phhhhhahahahaha"]={{path="chatsounds/autoadd/tenrys/phhhhhahahahaha.ogg",length=3.150}}
 L["phhhhhhhhhhhhahahahahahaha"]={{path="chatsounds/autoadd/tenrys/phhhhhhhhhhhhahahahahahaha.ogg",length=4.481}}
 L["phhhhhhhhhhhhhhhhhhhhh"]={{path="chatsounds/autoadd/tenrys/phhhhhhhhhhhhhhhhhhhhh.ogg",length=4.282}}
