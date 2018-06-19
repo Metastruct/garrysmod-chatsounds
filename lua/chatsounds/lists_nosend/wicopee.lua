@@ -7,6 +7,7 @@ L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaa
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=6.428}}
 L["aaaaaaaeeaaaeeaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaeeaaaeeaaaaaaaaaaaaaa.ogg",length=3.880}}
 L["aininia"]={{path="chatsounds/autoadd/wicopee/aininia.ogg",length=0.639}}
+L["alia intro distorted"]={{path="chatsounds/autoadd/wicopee/alia intro distorted.ogg",length=6.792}}
 L["all of this behaviour is a symptom of the fact that youre not expressing your anger"]={{path="chatsounds/autoadd/wicopee/all of this behaviour is a symptom of the fact that youre not expressing your anger.ogg",length=5.806}}
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
@@ -80,6 +81,7 @@ L["kokoko"]={{path="chatsounds/autoadd/wicopee/kokoko.ogg",length=0.380}}
 L["kuda nahuy loud"]={{path="chatsounds/autoadd/wicopee/kuda nahuy loud.ogg",length=3.385}}
 L["kupili papa i mama po butilke"]={{path="chatsounds/autoadd/wicopee/kupili papa i mama po butilke.ogg",length=1.995}}
 L["laugh"]={{path="chatsounds/autoadd/wicopee/laugh.ogg",length=1.026}}
+L["lift yourself loop"]={{path="chatsounds/autoadd/wicopee/lift yourself loop.ogg",length=18.959}}
 L["minions are a metaphor for communism"]={{path="chatsounds/autoadd/wicopee/minions are a metaphor for communism.ogg",length=3.118}}
 L["mm"]={{path="chatsounds/autoadd/wicopee/mm.ogg",length=0.601}}
 L["mmm"]={{path="chatsounds/autoadd/wicopee/mmm.ogg",length=0.654}}
@@ -105,6 +107,10 @@ L["picachu"]={{path="chatsounds/autoadd/wicopee/picachu.ogg",length=1.059}}
 L["pivo"]={{path="chatsounds/autoadd/wicopee/pivo.ogg",length=0.963}}
 L["pizdec tebe distorted"]={{path="chatsounds/autoadd/wicopee/pizdec tebe distorted.ogg",length=0.740}}
 L["polishing intensifies"]={{path="chatsounds/autoadd/wicopee/polishing intensifies.ogg",length=2.593}}
+L["poop"]={{path="chatsounds/autoadd/wicopee/poop.ogg",length=0.520}}
+L["poop di scoopty scoopty whoop"]={{path="chatsounds/autoadd/wicopee/poop di scoopty scoopty whoop.ogg",length=2.391}}
+L["poop diddy whoop scoop poop"]={{path="chatsounds/autoadd/wicopee/poop diddy whoop scoop poop.ogg",length=2.453}}
+L["poopy di scoop"]={{path="chatsounds/autoadd/wicopee/poopy di scoop.ogg",length=1.071}}
 L["poreshili mi porezat govnarei"]={{path="chatsounds/autoadd/wicopee/poreshili mi porezat govnarei.ogg",length=1.721}}
 L["potomuchto"]={{path="chatsounds/autoadd/wicopee/potomuchto.ogg",length=0.707}}
 L["potomuchto vi tupie"]={{path="chatsounds/autoadd/wicopee/potomuchto vi tupie.ogg",length=3.797}}
@@ -115,6 +121,7 @@ L["pushnoy hvatit pit"]={{path="chatsounds/autoadd/wicopee/pushnoy hvatit pit.og
 L["ragesounds"]={{path="chatsounds/autoadd/wicopee/ragesounds.ogg",length=0.859}}
 L["recordscratch"]={{path="chatsounds/autoadd/wicopee/recordscratch.ogg",length=0.489}}
 L["russian terrified scream"]={{path="chatsounds/autoadd/wicopee/russian terrified scream.ogg",length=2.414}}
+L["scoop diddy whoop"]={{path="chatsounds/autoadd/wicopee/scoop diddy whoop/1.ogg",length=1.227},{path="chatsounds/autoadd/wicopee/scoop diddy whoop/2.ogg",length=1.455}}
 L["screamfadein"]={{path="chatsounds/autoadd/wicopee/screamfadein.ogg",length=2.993}}
 L["screech"]={{path="chatsounds/autoadd/wicopee/screech.ogg",length=0.972}}
 L["sees"]={{path="chatsounds/autoadd/wicopee/sees.ogg",length=0.463}}
@@ -146,6 +153,10 @@ L["we can certainly express our anger if we handle our anger assertivley"]={{pat
 L["welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video"]={{path="chatsounds/autoadd/wicopee/welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video.ogg",length=6.388}}
 L["what the fuck is that in the corner"]={{path="chatsounds/autoadd/wicopee/what the fuck is that in the corner.ogg",length=1.965}}
 L["who can say where the road goes"]={{path="chatsounds/autoadd/wicopee/who can say where the road goes.ogg",length=4.814}}
+L["whoop di scoop di poop"]={{path="chatsounds/autoadd/wicopee/whoop di scoop di poop.ogg",length=1.902}}
+L["whoop diddy scoop"]={{path="chatsounds/autoadd/wicopee/whoop diddy scoop.ogg",length=1.289}}
+L["whoop diddy scoop poop"]={{path="chatsounds/autoadd/wicopee/whoop diddy scoop poop.ogg",length=1.195}}
+L["whoopity scoop whoop poop"]={{path="chatsounds/autoadd/wicopee/whoopity scoop whoop poop.ogg",length=1.767}}
 L["ya hochu noticesound"]={{path="chatsounds/autoadd/wicopee/ya hochu noticesound.ogg",length=0.797}}
 L["ya hochu picachu"]={{path="chatsounds/autoadd/wicopee/ya hochu picachu.ogg",length=0.976}}
 L["ya ne stuchu"]={{path="chatsounds/autoadd/wicopee/ya ne stuchu.ogg",length=1.190}}
