@@ -34,7 +34,7 @@ L["how pissed off i am right now"]={{path="chatsounds/autoadd/budsgun/how pissed
 L["huh"]={{path="chatsounds/autoadd/budsgun/huh/huh.ogg",length=0.431},{path="chatsounds/autoadd/budsgun/huh/huh2.ogg",length=0.468}}
 L["i got"]={{path="chatsounds/autoadd/budsgun/i got.ogg",length=0.624}}
 L["i wake up"]={{path="chatsounds/autoadd/budsgun/i wake up.ogg",length=0.837}}
-L["im reporting you sick bitch ass"]={{path="chatsounds/autoadd/budsgun/im reporting you sick bitch ass.ogg",length=2.109}}
+L["im reporting your sick bitch ass"]={{path="chatsounds/autoadd/budsgun/im reporting your sick bitch ass.ogg",length=2.109}}
 L["is"]={{path="chatsounds/autoadd/budsgun/is.ogg",length=0.163}}
 L["is that not"]={{path="chatsounds/autoadd/budsgun/is that not.ogg",length=0.756}}
 L["is that not the same shit"]={{path="chatsounds/autoadd/budsgun/is that not the same shit.ogg",length=1.834}}
