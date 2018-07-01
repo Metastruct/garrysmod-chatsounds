@@ -86,6 +86,7 @@ L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.900}}
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813}}
 L["theres two of them"]={{path="chatsounds/autoadd/beauty_bomber/theres two of them.ogg",length=1.896}}
+L["torchwood stinger"]={{path="chatsounds/autoadd/beauty_bomber/torchwood stinger.ogg",length=4.493}}
 L["two million year old"]={{path="chatsounds/autoadd/beauty_bomber/two million year old.ogg",length=1.037}}
 L["watch this"]={{path="chatsounds/autoadd/beauty_bomber/watch this.ogg",length=1.114}}
 L["we are off"]={{path="chatsounds/autoadd/beauty_bomber/we are off.ogg",length=0.837}}
