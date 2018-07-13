@@ -35,6 +35,7 @@ L["cream bacon"]={{path="chatsounds/autoadd/tf2extra/cream bacon.ogg",length=0.9
 L["cupcake"]={{path="chatsounds/autoadd/tf2extra/cupcake.ogg",length=0.538}}
 L["ded"]={{path="chatsounds/autoadd/tf2extra/ded.ogg",length=0.439}}
 L["demogibberish"]={{path="chatsounds/autoadd/tf2extra/demogibberish/1.ogg",length=1.626},{path="chatsounds/autoadd/tf2extra/demogibberish/2.ogg",length=0.907}}
+L["did you think i would think"]={{path="chatsounds/autoadd/tf2extra/did you think i would think.ogg",length=1.718}}
 L["discucsid"]={{path="chatsounds/autoadd/tf2extra/discucsid.ogg",length=0.774}}
 L["doctor"]={{path="chatsounds/autoadd/tf2extra/doctor.ogg",length=0.920}}
 L["dont be such a baby"]={{path="chatsounds/autoadd/tf2extra/dont be such a baby.ogg",length=1.328}}
@@ -85,6 +86,7 @@ L["i feel like a man on cocaine"]={{path="chatsounds/autoadd/tf2extra/i feel lik
 L["i got a manky eye im a black scottish cyclops"]={{path="chatsounds/autoadd/tf2extra/i got a manky eye im a black scottish cyclops.ogg",length=4.606}}
 L["i have no idea"]={{path="chatsounds/autoadd/tf2extra/i have no idea.ogg",length=2.032}}
 L["i love mcdonalds distorted"]={{path="chatsounds/autoadd/tf2extra/i love mcdonalds distorted.ogg",length=2.571}}
+L["i think you think i think think i think"]={{path="chatsounds/autoadd/tf2extra/i think you think i think think i think.ogg",length=1.998}}
 L["if i were a bad demoman i wouldnt be sittin here discussin it with you now would i"]={{path="chatsounds/autoadd/tf2extra/if i were a bad demoman i wouldnt be sittin here discussin it with you now would i.ogg",length=5.242}}
 L["ii a griirg bloolb faaf wiiw anna unhaahnu bloolb enne"]={{path="chatsounds/autoadd/tf2extra/ii a griirg bloolb faaf wiiw anna unhaahnu bloolb enne.ogg",length=5.890}}
 L["im"]={{path="chatsounds/autoadd/tf2extra/im.ogg",length=0.319}}
@@ -162,7 +164,8 @@ L["so were both busy fucking chickens"]={{path="chatsounds/autoadd/tf2extra/so w
 L["soldierdeath"]={{path="chatsounds/autoadd/tf2extra/soldierdeath.ogg",length=1.210}}
 L["soldierdeathloud"]={{path="chatsounds/autoadd/tf2extra/soldierdeathloud.ogg",length=1.083}}
 L["soldierexcited"]={{path="chatsounds/autoadd/tf2extra/soldierexcited.ogg",length=3.264}}
-L["soldiersquee"]={{path="chatsounds/autoadd/tf2extra/soldiersquee/1.ogg",length=0.681},{path="chatsounds/autoadd/tf2extra/soldiersquee/2.ogg",length=1.646},{path="chatsounds/autoadd/tf2extra/soldiersquee/3.ogg",length=1.263},{path="chatsounds/autoadd/tf2extra/soldiersquee/4.ogg",length=0.940},{path="chatsounds/autoadd/tf2extra/soldiersquee/5.ogg",length=1.898},{path="chatsounds/autoadd/tf2extra/soldiersquee/6.ogg",length=1.198},{path="chatsounds/autoadd/tf2extra/soldiersquee/7.ogg",length=1.703}}
+L["soldierscreamdistorted"]={{path="chatsounds/autoadd/tf2extra/soldierscreamdistorted/1.ogg",length=2.470},{path="chatsounds/autoadd/tf2extra/soldierscreamdistorted/2.ogg",length=2.079},{path="chatsounds/autoadd/tf2extra/soldierscreamdistorted/3.ogg",length=0.999},{path="chatsounds/autoadd/tf2extra/soldierscreamdistorted/4.ogg",length=5.728}}
+L["soldiersquee"]={{path="chatsounds/autoadd/tf2extra/soldiersquee/1.ogg",length=0.681},{path="chatsounds/autoadd/tf2extra/soldiersquee/10.ogg",length=0.418},{path="chatsounds/autoadd/tf2extra/soldiersquee/2.ogg",length=1.646},{path="chatsounds/autoadd/tf2extra/soldiersquee/3.ogg",length=1.263},{path="chatsounds/autoadd/tf2extra/soldiersquee/4.ogg",length=0.940},{path="chatsounds/autoadd/tf2extra/soldiersquee/5.ogg",length=1.898},{path="chatsounds/autoadd/tf2extra/soldiersquee/6.ogg",length=1.198},{path="chatsounds/autoadd/tf2extra/soldiersquee/7.ogg",length=1.703},{path="chatsounds/autoadd/tf2extra/soldiersquee/8.ogg",length=1.033},{path="chatsounds/autoadd/tf2extra/soldiersquee/9.ogg",length=3.173}}
 L["soldiersscreamdistorted"]={{path="chatsounds/autoadd/tf2extra/soldiersscreamdistorted.ogg",length=6.501}}
 L["some people think they can outsmart me"]={{path="chatsounds/autoadd/tf2extra/some people think they can outsmart me.ogg",length=2.601}}
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.751},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.173},{path="chatsounds/autoadd/tf2extra/soos/3.ogg",length=0.362}}
@@ -212,6 +215,7 @@ L["wuuuub"]={{path="chatsounds/autoadd/tf2extra/wuuuub.ogg",length=1.375}}
 L["ya bleedin idiot distorted"]={{path="chatsounds/autoadd/tf2extra/ya bleedin idiot distorted.ogg",length=1.731}}
 L["ye"]={{path="chatsounds/autoadd/tf2extra/ye.ogg",length=0.199}}
 L["yeeee"]={{path="chatsounds/autoadd/tf2extra/yeeee.ogg",length=0.901}}
+L["yeeeeeee"]={{path="chatsounds/autoadd/tf2extra/yeeeeeee.ogg",length=1.549}}
 L["yeeeeeee distorted"]={{path="chatsounds/autoadd/tf2extra/yeeeeeee distorted.ogg",length=4.403}}
 L["yeey"]={{path="chatsounds/autoadd/tf2extra/yeey/1.ogg",length=0.331},{path="chatsounds/autoadd/tf2extra/yeey/2.ogg",length=0.450},{path="chatsounds/autoadd/tf2extra/yeey/3.ogg",length=0.442},{path="chatsounds/autoadd/tf2extra/yeey/4.ogg",length=0.232},{path="chatsounds/autoadd/tf2extra/yeey/5.ogg",length=0.481},{path="chatsounds/autoadd/tf2extra/yeey/6.ogg",length=0.513},{path="chatsounds/autoadd/tf2extra/yeey/7.ogg",length=0.427}}
 L["you brought shit on your penis blolb maam"]={{path="chatsounds/autoadd/tf2extra/you brought shit on your penis blolb maam.ogg",length=3.069}}
