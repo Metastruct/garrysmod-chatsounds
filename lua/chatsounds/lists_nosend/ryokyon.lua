@@ -50,6 +50,7 @@ L["hate"]={{path="chatsounds/autoadd/ryokyon/hate.ogg",length=0.445}}
 L["hell yeah"]={{path="chatsounds/autoadd/ryokyon/hell yeah.ogg",length=0.777}}
 L["heres a rhyme for you"]={{path="chatsounds/autoadd/ryokyon/heres a rhyme for you.ogg",length=16.980}}
 L["hey boi you want a job"]={{path="chatsounds/autoadd/ryokyon/hey boi you want a job.ogg",length=2.094}}
+L["i always get a weird feeling when i eat real people"]={{path="chatsounds/autoadd/ryokyon/i always get a weird feeling when i eat real people.ogg",length=3.367}}
 L["i am spiders now"]={{path="chatsounds/autoadd/ryokyon/i am spiders now.ogg",length=2.091}}
 L["i dont fucking care"]={{path="chatsounds/autoadd/ryokyon/i dont fucking care.ogg",length=1.522}}
 L["i got a bigger dick"]={{path="chatsounds/autoadd/ryokyon/i got a bigger dick.ogg",length=1.244}}
@@ -102,7 +103,6 @@ L["soab"]={{path="chatsounds/autoadd/ryokyon/soab.ogg",length=1.307}}
 L["somebody sure is a weeaboo"]={{path="chatsounds/autoadd/ryokyon/somebody sure is a weeaboo.ogg",length=2.224}}
 L["spoilers"]={{path="chatsounds/autoadd/ryokyon/spoilers.ogg",length=1.175}}
 L["stetsons are cool"]={{path="chatsounds/autoadd/ryokyon/stetsons are cool.ogg",length=3.553}}
-L["strange feeling from eating real people"]={{path="chatsounds/autoadd/ryokyon/strange feeling from eating real people.ogg",length=3.367}}
 L["talk like people walk like crab"]={{path="chatsounds/autoadd/ryokyon/talk like people walk like crab.ogg",length=6.978}}
 L["thats not funny"]={{path="chatsounds/autoadd/ryokyon/thats not funny.ogg",length=1.182}}
 L["todays lesson"]={{path="chatsounds/autoadd/ryokyon/todays lesson.ogg",length=10.061}}
