@@ -267,7 +267,7 @@ L["why wont you die"]={{path="chatsounds/autoadd/tenrys/why wont you die.ogg",le
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.064}}
 L["woah"]={{path="chatsounds/autoadd/tenrys/woah.ogg",length=0.489}}
 L["woah woah woah woah woahwoahwoahwoahwoahwoah"]={{path="chatsounds/autoadd/tenrys/woah woah woah woah woahwoahwoahwoahwoahwoah.ogg",length=7.523}}
-L["wow incredible"]={{path="chatsounds/autoadd/tenrys/wow incredible.ogg",length=1.440}}
+L["wow incredible"]={{path="chatsounds/autoadd/tenrys/wow incredible.ogg",length=1.786}}
 L["wtf"]={{path="chatsounds/autoadd/tenrys/wtf.ogg",length=0.752}}
 L["yare yare"]={{path="chatsounds/autoadd/tenrys/yare yare/1.ogg",length=0.878},{path="chatsounds/autoadd/tenrys/yare yare/2.ogg",length=0.945},{path="chatsounds/autoadd/tenrys/yare yare/3.ogg",length=1.231},{path="chatsounds/autoadd/tenrys/yare yare/4.ogg",length=1.165},{path="chatsounds/autoadd/tenrys/yare yare/5.ogg",length=0.983},{path="chatsounds/autoadd/tenrys/yare yare/6.ogg",length=0.897},{path="chatsounds/autoadd/tenrys/yare yare/7.ogg",length=1.174}}
 L["yare yare da"]={{path="chatsounds/autoadd/tenrys/yare yare da/1.ogg",length=1.389},{path="chatsounds/autoadd/tenrys/yare yare da/2.ogg",length=1.293},{path="chatsounds/autoadd/tenrys/yare yare da/3.ogg",length=1.148}}
