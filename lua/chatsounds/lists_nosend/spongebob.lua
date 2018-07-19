@@ -13,6 +13,9 @@ L["now that ive got you right where i want you id like to buy all your chocolate
 L["sb chocolate"]={{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate1.ogg",length=1.638},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate2.ogg",length=1.390},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate3.ogg",length=1.452},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate4.ogg",length=2.284},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate5.ogg",length=2.358},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate6.ogg",length=2.433}}
 L["sb finally"]={{path="chatsounds/autoadd/spongebob/sb finally.ogg",length=1.092}}
 L["sb laugh"]={{path="chatsounds/autoadd/spongebob/sb laugh.ogg",length=2.160}}
+L["sb squidward"]={{path="chatsounds/autoadd/spongebob/sb squidward.ogg",length=1.312}}
+L["sb squidward distorted"]={{path="chatsounds/autoadd/spongebob/sb squidward distorted/sb squidward distorted 1.ogg",length=1.321},{path="chatsounds/autoadd/spongebob/sb squidward distorted/sb squidward distorted 2.ogg",length=1.150}}
 L["six and a half"]={{path="chatsounds/autoadd/spongebob/six and a half.ogg",length=1.529}}
+L["squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward"]={{path="chatsounds/autoadd/spongebob/squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward.ogg",length=5.100}}
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.862}}
 c.EndList()
