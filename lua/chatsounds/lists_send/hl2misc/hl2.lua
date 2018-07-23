@@ -1326,7 +1326,7 @@ L["use the gravity gun gordon"]={{path="vo/streetwar/alyx_gate/al_usegravgun01_r
 L["use the launchers laser guide to steer your rocket past the gunships defenses"]={{path="vo/coast/odessa/nlo_cub_corkscrew.wav",length=5.0928571428571}}
 L["use your gravity gun to flip the car over again"]={{path="vo/coast/cr_gravgun.wav",length=2.6253741496599}}
 L["using the laser guide you can steer your rocket past the gunships defenses and prevent it from shooting down your rocket"]={{path="vo/coast/odessa/nlo_cub_class02.wav",length=7.292380952381}}
-L["very good final sequence commencingnow"]={{path="vo/k_lab/kl_finalsequence.wav",length=4.3578458049887}}
+L["very good final sequence commencing now"]={{path="vo/k_lab/kl_finalsequence.wav",length=4.3578458049887}}
 L["very well and eh gordon good to see you"]={{path="vo/trainyard/kl_verywell.wav",length=4.4409297052154}}
 L["vort chant"]={{path="npc/vort/vort_pain3.wav",length=14.994285714286}}
 L["wait a minute"]={{path="vo/trainyard/man_waitaminute.wav",length=0.80385487528345},{path="vo/novaprospekt/al_sheupto01.wav",length=0.5084126984127}}
