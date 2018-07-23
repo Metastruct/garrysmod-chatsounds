@@ -1213,7 +1213,6 @@ L["vendbutton"]={{path="buttons/lightswitch2.wav",length=0.0763492063492}}
 L["vendcoin"]={{path="ambient/levels/labs/coinslot1.wav",length=0.796485260771}}
 L["vendhit"]={{path="physics/metal/metal_barrel_impact_soft4.wav",length=0.4046712018141},{path="physics/metal/metal_barrel_impact_soft3.wav",length=0.7074149659864},{path="physics/metal/metal_barrel_impact_soft2.wav",length=0.7343310657596},{path="physics/metal/metal_barrel_impact_soft1.wav",length=0.7368027210884}}
 L["very good final sequence commencing now"]={{path="vo/k_lab/kl_finalsequence.wav",length=4.3578458049887}}
-L["very good final sequence commencingnow"]={{path="vo/k_lab/kl_finalsequence.wav",length=4.3578457832336}}
 L["very well and eh gordon good to see you"]={{path="vo/trainyard/kl_verywell.wav",length=4.440929889679}}
 L["village siren"]={{path="ambient/alarms/alarm_citizen_loop1.wav",length=4.512925170068}}
 L["vort chant"]={{path="npc/vort/vort_pain3.wav",length=14.994285583496}}
