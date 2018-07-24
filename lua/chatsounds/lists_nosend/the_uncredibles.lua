@@ -51,7 +51,7 @@ L["my god youve gotten fat"]={{path="chatsounds/autoadd/the_uncredibles/my god y
 L["my name is incrediboy"]={{path="chatsounds/autoadd/the_uncredibles/my name is incrediboy.ogg",length=1.798}}
 L["my name is massage cockockockcokaaaaaaaaa"]={{path="chatsounds/autoadd/the_uncredibles/my name is massage cockockockcokaaaaaaaaa.ogg",length=2.285}}
 L["my name is not buddy distorted"]={{path="chatsounds/autoadd/the_uncredibles/my name is not buddy distorted.ogg",length=2.304}}
-L["no"]={{path="chatsounds/autoadd/the_uncredibles/no/no1.ogg",length=0.335},{path="chatsounds/autoadd/the_uncredibles/no/no2.ogg",length=0.253}}
+L["no"]={{path="chatsounds/autoadd/the_uncredibles/no/no1.ogg",length=0.335}}
 L["not distorted"]={{path="chatsounds/autoadd/the_uncredibles/not distorted.ogg",length=0.463}}
 L["not happy"]={{path="chatsounds/autoadd/the_uncredibles/not happy.ogg",length=2.014}}
 L["now"]={{path="chatsounds/autoadd/the_uncredibles/now.ogg",length=0.502}}
