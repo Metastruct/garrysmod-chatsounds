@@ -65,12 +65,7 @@ L["invulnerability on"]={{path="chatsounds/autoadd/descent2/invulnerability on.o
 L["itd"]={{path="chatsounds/autoadd/descent2/itd/snipe_1.ogg",length=1.093},{path="chatsounds/autoadd/descent2/itd/snipe_2.ogg",length=1.044}}
 L["item fade"]={{path="chatsounds/autoadd/descent2/item fade.ogg",length=0.735}}
 L["itsc"]={{path="chatsounds/autoadd/descent2/itsc/sniper_1.ogg",length=1.139},{path="chatsounds/autoadd/descent2/itsc/sniper_2.ogg",length=1.111}}
-L["laser level 1"]={{path="chatsounds/autoadd/descent2/laser level 1.ogg",length=0.331}}
-L["laser level 2"]={{path="chatsounds/autoadd/descent2/laser level 2.ogg",length=0.476}}
-L["laser level 3"]={{path="chatsounds/autoadd/descent2/laser level 3.ogg",length=0.525}}
-L["laser level 4"]={{path="chatsounds/autoadd/descent2/laser level 4.ogg",length=0.592}}
-L["laser level 5"]={{path="chatsounds/autoadd/descent2/laser level 5.ogg",length=0.711}}
-L["laser level 6"]={{path="chatsounds/autoadd/descent2/laser level 6.ogg",length=0.642}}
+L["laser level"]={{path="chatsounds/autoadd/descent2/laser level/laser level 1.ogg",length=0.331},{path="chatsounds/autoadd/descent2/laser level/laser level 2.ogg",length=0.476},{path="chatsounds/autoadd/descent2/laser level/laser level 3.ogg",length=0.525},{path="chatsounds/autoadd/descent2/laser level/laser level 4.ogg",length=0.592},{path="chatsounds/autoadd/descent2/laser level/laser level 5.ogg",length=0.711},{path="chatsounds/autoadd/descent2/laser level/laser level 6.ogg",length=0.642}}
 L["level 12 boss attack"]={{path="chatsounds/autoadd/descent2/level 12 boss attack.ogg",length=1.069}}
 L["level 12 boss die"]={{path="chatsounds/autoadd/descent2/level 12 boss die.ogg",length=1.133}}
 L["level 12 boss fade"]={{path="chatsounds/autoadd/descent2/level 12 boss fade.ogg",length=3.064}}

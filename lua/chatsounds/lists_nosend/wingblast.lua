@@ -33,8 +33,7 @@ L["roofthere"]={{path="chatsounds/autoadd/wingblast/roofthere.ogg",length=2.717}
 L["so tell me are you free for dinner tonight"]={{path="chatsounds/autoadd/wingblast/so tell me are you free for dinner tonight.ogg",length=3.437}}
 L["sothatwasthe"]={{path="chatsounds/autoadd/wingblast/sothatwasthe.ogg",length=2.717}}
 L["that ever lived"]={{path="chatsounds/autoadd/wingblast/that ever lived.ogg",length=1.149}}
-L["thatexplains1"]={{path="chatsounds/autoadd/wingblast/thatexplains1.ogg",length=2.067}}
-L["thatexplains2"]={{path="chatsounds/autoadd/wingblast/thatexplains2.ogg",length=2.252}}
+L["thatexplains"]={{path="chatsounds/autoadd/wingblast/thatexplains/thatexplains1.ogg",length=2.067},{path="chatsounds/autoadd/wingblast/thatexplains/thatexplains2.ogg",length=2.252}}
 L["thatistrue"]={{path="chatsounds/autoadd/wingblast/thatistrue.ogg",length=1.231}}
 L["the biggest ass"]={{path="chatsounds/autoadd/wingblast/the biggest ass.ogg",length=1.347}}
 L["the new frerf scents from old spice"]={{path="chatsounds/autoadd/wingblast/the new frerf scents from old spice.ogg",length=4.180}}
@@ -42,8 +41,7 @@ L["there goes philip banks"]={{path="chatsounds/autoadd/wingblast/there goes phi
 L["there goes philip banks the biggest ass that ever lived what a douche"]={{path="chatsounds/autoadd/wingblast/there goes philip banks the biggest ass that ever lived what a douche.ogg",length=6.165}}
 L["well tough shit i dont care"]={{path="chatsounds/autoadd/wingblast/well tough shit i dont care.ogg",length=1.672}}
 L["what a douche"]={{path="chatsounds/autoadd/wingblast/what a douche.ogg",length=1.149}}
-L["whatisthisplace"]={{path="chatsounds/autoadd/wingblast/whatisthisplace.ogg",length=2.717}}
-L["whatisthisplace2"]={{path="chatsounds/autoadd/wingblast/whatisthisplace2.ogg",length=2.450}}
+L["whatisthisplace"]={{path="chatsounds/autoadd/wingblast/whatisthisplace/whatisthisplace.ogg",length=2.717},{path="chatsounds/autoadd/wingblast/whatisthisplace/whatisthisplace2.ogg",length=2.450}}
 L["whats your ppppoint"]={{path="chatsounds/autoadd/wingblast/whats your ppppoint.ogg",length=2.299}}
 L["would you make me a sandwich"]={{path="chatsounds/autoadd/wingblast/would you make me a sandwich.ogg",length=0.946}}
 L["wwwwwwwwwwwwwwwwwwww"]={{path="chatsounds/autoadd/wingblast/wwwwwwwwwwwwwwwwwwww.ogg",length=4.470}}

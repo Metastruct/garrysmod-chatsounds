@@ -111,7 +111,7 @@ L["sorry sir no firearms on the coast"]={{path="chatsounds/autoadd/vicecity/sorr
 L["sticks out boys lets crack some commie skulls"]={{path="chatsounds/autoadd/vicecity/sticks out boys lets crack some commie skulls.ogg",length=3.090}}
 L["super special sir"]={{path="chatsounds/autoadd/vicecity/super special sir.ogg",length=1.568}}
 L["ten seconds weve got to get the hell out of here"]={{path="chatsounds/autoadd/vicecity/ten seconds weve got to get the hell out of here.ogg",length=2.444}}
-L["tex1 2"]={{path="chatsounds/autoadd/vicecity/tex1 2.ogg",length=3.044}}
+L["that will teach you to come to my club throw your weight around"]={{path="chatsounds/autoadd/vicecity/that will teach you to come to my club throw your weight around.ogg",length=3.044}}
 L["this doesnt seem right"]={{path="chatsounds/autoadd/vicecity/this doesnt seem right.ogg",length=1.614}}
 L["this way"]={{path="chatsounds/autoadd/vicecity/this way.ogg",length=0.692}}
 L["tommy im not your message boy im not your running boy"]={{path="chatsounds/autoadd/vicecity/tommy im not your message boy im not your running boy.ogg",length=2.998}}

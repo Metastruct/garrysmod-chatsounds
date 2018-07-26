@@ -2,8 +2,7 @@ c.StartList("verbalsilence")
 L["20thcenturyfoxflute"]={{path="chatsounds/autoadd/verbalsilence/20thcenturyfoxflute.ogg",length=21.107}}
 L["3gi pokemon loop"]={{path="chatsounds/autoadd/verbalsilence/3gi pokemon loop.ogg",length=10.969}}
 L["60 percent of the time it works everytime"]={{path="chatsounds/autoadd/verbalsilence/60 percent of the time it works everytime.ogg",length=5.935}}
-L["adweedture time"]={{path="chatsounds/autoadd/verbalsilence/adweedture time.ogg",length=11.842}}
-L["adweedture time 2"]={{path="chatsounds/autoadd/verbalsilence/adweedture time 2.ogg",length=12.322}}
+L["adweedture time"]={{path="chatsounds/autoadd/verbalsilence/adweedture time/adweedture time 2.ogg",length=12.322},{path="chatsounds/autoadd/verbalsilence/adweedture time/adweedture time.ogg",length=11.842}}
 L["afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/afternoon delight.ogg",length=3.678}}
 L["ah good baby"]={{path="chatsounds/autoadd/verbalsilence/ah good baby.ogg",length=2.148}}
 L["ahahahaha phrasing"]={{path="chatsounds/autoadd/verbalsilence/ahahahaha phrasing.ogg",length=2.099}}

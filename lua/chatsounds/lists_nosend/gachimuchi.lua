@@ -46,10 +46,7 @@ L["oh oh aaah ah"]={{path="chatsounds/autoadd/gachimuchi/oh oh aaah ah.ogg",leng
 L["on the house"]={{path="chatsounds/autoadd/gachimuchi/on the house.ogg",length=0.639}}
 L["one more round"]={{path="chatsounds/autoadd/gachimuchi/one more round.ogg",length=7.034}}
 L["our daddy told us"]={{path="chatsounds/autoadd/gachimuchi/our daddy told us.ogg",length=2.323}}
-L["penetration 1"]={{path="chatsounds/autoadd/gachimuchi/penetration 1.ogg",length=1.226}}
-L["penetration 2"]={{path="chatsounds/autoadd/gachimuchi/penetration 2.ogg",length=2.669}}
-L["penetration 3"]={{path="chatsounds/autoadd/gachimuchi/penetration 3.ogg",length=1.361}}
-L["penetration 4"]={{path="chatsounds/autoadd/gachimuchi/penetration 4.ogg",length=1.038}}
+L["penetration"]={{path="chatsounds/autoadd/gachimuchi/penetration/penetration 1.ogg",length=1.226},{path="chatsounds/autoadd/gachimuchi/penetration/penetration 2.ogg",length=2.669},{path="chatsounds/autoadd/gachimuchi/penetration/penetration 3.ogg",length=1.361},{path="chatsounds/autoadd/gachimuchi/penetration/penetration 4.ogg",length=1.038}}
 L["performance artist"]={{path="chatsounds/autoadd/gachimuchi/performance artist.ogg",length=2.625}}
 L["playing with fire"]={{path="chatsounds/autoadd/gachimuchi/playing with fire.ogg",length=4.899}}
 L["pull up our pants"]={{path="chatsounds/autoadd/gachimuchi/pull up our pants.ogg",length=3.574}}

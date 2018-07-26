@@ -1,27 +1,16 @@
 c.StartList("goldeneye007soundfont")
-L["bdrum1"]={{path="chatsounds/autoadd/goldeneye007soundfont/bdrum1.ogg",length=0.409}}
-L["bdrum2"]={{path="chatsounds/autoadd/goldeneye007soundfont/bdrum2.ogg",length=0.394}}
+L["bdrum"]={{path="chatsounds/autoadd/goldeneye007soundfont/bdrum/bdrum1.ogg",length=0.409},{path="chatsounds/autoadd/goldeneye007soundfont/bdrum/bdrum2.ogg",length=0.394}}
 L["bird808"]={{path="chatsounds/autoadd/goldeneye007soundfont/bird808.ogg",length=0.787}}
 L["birdy loop"]={{path="chatsounds/autoadd/goldeneye007soundfont/birdy loop.ogg",length=0.334}}
 L["birdy3"]={{path="chatsounds/autoadd/goldeneye007soundfont/birdy3.ogg",length=0.497}}
-L["bondlow1"]={{path="chatsounds/autoadd/goldeneye007soundfont/bondlow1.ogg",length=2.122}}
-L["bondlow2"]={{path="chatsounds/autoadd/goldeneye007soundfont/bondlow2.ogg",length=2.150}}
+L["bondlow"]={{path="chatsounds/autoadd/goldeneye007soundfont/bondlow/bondlow1.ogg",length=2.122},{path="chatsounds/autoadd/goldeneye007soundfont/bondlow/bondlow2.ogg",length=2.150}}
 L["bondstbl"]={{path="chatsounds/autoadd/goldeneye007soundfont/bondstbl.ogg",length=1.112}}
 L["bondstbr"]={{path="chatsounds/autoadd/goldeneye007soundfont/bondstbr.ogg",length=1.081}}
 L["bones1"]={{path="chatsounds/autoadd/goldeneye007soundfont/bones1.ogg",length=0.684}}
-L["bongo1"]={{path="chatsounds/autoadd/goldeneye007soundfont/bongo1.ogg",length=0.097}}
-L["bongo10"]={{path="chatsounds/autoadd/goldeneye007soundfont/bongo10.ogg",length=0.268}}
-L["bongo9"]={{path="chatsounds/autoadd/goldeneye007soundfont/bongo9.ogg",length=0.200}}
+L["bongo"]={{path="chatsounds/autoadd/goldeneye007soundfont/bongo/bongo1.ogg",length=0.097},{path="chatsounds/autoadd/goldeneye007soundfont/bongo/bongo10.ogg",length=0.268},{path="chatsounds/autoadd/goldeneye007soundfont/bongo/bongo9.ogg",length=0.200}}
 L["cactus wren"]={{path="chatsounds/autoadd/goldeneye007soundfont/cactus wren.ogg",length=0.179}}
 L["chime3"]={{path="chatsounds/autoadd/goldeneye007soundfont/chime3.ogg",length=0.189}}
-L["conga1"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga1.ogg",length=0.213}}
-L["conga10"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga10.ogg",length=0.188}}
-L["conga13"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga13.ogg",length=0.216}}
-L["conga14"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga14.ogg",length=0.170}}
-L["conga3"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga3.ogg",length=0.252}}
-L["conga4"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga4.ogg",length=0.277}}
-L["conga7"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga7.ogg",length=0.123}}
-L["conga8"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga8.ogg",length=0.213}}
+L["conga"]={{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga1.ogg",length=0.213},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga10.ogg",length=0.188},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga13.ogg",length=0.216},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga14.ogg",length=0.170},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga3.ogg",length=0.252},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga4.ogg",length=0.277},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga7.ogg",length=0.123},{path="chatsounds/autoadd/goldeneye007soundfont/conga/conga8.ogg",length=0.213}}
 L["cricket1"]={{path="chatsounds/autoadd/goldeneye007soundfont/cricket1.ogg",length=0.187}}
 L["cym scrape2"]={{path="chatsounds/autoadd/goldeneye007soundfont/cym scrape2.ogg",length=1.541}}
 L["cymb scrape"]={{path="chatsounds/autoadd/goldeneye007soundfont/cymb scrape.ogg",length=2.588}}

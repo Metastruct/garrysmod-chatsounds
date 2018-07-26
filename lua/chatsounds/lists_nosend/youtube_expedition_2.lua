@@ -25,11 +25,7 @@ L["now if we have any children please step out"]={{path="chatsounds/autoadd/yout
 L["pastor doctor martin ssempa"]={{path="chatsounds/autoadd/youtube_expedition_2/pastor doctor martin ssempa.ogg",length=1.625}}
 L["play it loud"]={{path="chatsounds/autoadd/youtube_expedition_2/play it loud.ogg",length=21.057}}
 L["poopoo all over the place"]={{path="chatsounds/autoadd/youtube_expedition_2/poopoo all over the place.ogg",length=3.053}}
-L["progamer1"]={{path="chatsounds/autoadd/youtube_expedition_2/progamer1.ogg",length=6.596}}
-L["progamer2"]={{path="chatsounds/autoadd/youtube_expedition_2/progamer2.ogg",length=12.368}}
-L["progamer3"]={{path="chatsounds/autoadd/youtube_expedition_2/progamer3.ogg",length=10.061}}
-L["progamer4"]={{path="chatsounds/autoadd/youtube_expedition_2/progamer4.ogg",length=7.315}}
-L["progamer5"]={{path="chatsounds/autoadd/youtube_expedition_2/progamer5.ogg",length=14.051}}
+L["progamer"]={{path="chatsounds/autoadd/youtube_expedition_2/progamer/progamer1.ogg",length=6.596},{path="chatsounds/autoadd/youtube_expedition_2/progamer/progamer2.ogg",length=12.368},{path="chatsounds/autoadd/youtube_expedition_2/progamer/progamer3.ogg",length=10.061},{path="chatsounds/autoadd/youtube_expedition_2/progamer/progamer4.ogg",length=7.315},{path="chatsounds/autoadd/youtube_expedition_2/progamer/progamer5.ogg",length=14.051}}
 L["rectum"]={{path="chatsounds/autoadd/youtube_expedition_2/rectum.ogg",length=0.923}}
 L["scrubrage"]={{path="chatsounds/autoadd/youtube_expedition_2/scrubrage.ogg",length=2.588}}
 L["slimy little sandworms"]={{path="chatsounds/autoadd/youtube_expedition_2/slimy little sandworms.ogg",length=3.284}}

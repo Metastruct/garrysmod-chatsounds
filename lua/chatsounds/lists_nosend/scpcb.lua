@@ -4,11 +4,7 @@ L["106 chase"]={{path="chatsounds/autoadd/scpcb/106 chase.ogg",length=30.846}}
 L["106breathing"]={{path="chatsounds/autoadd/scpcb/106breathing.ogg",length=2.763}}
 L["106laugh"]={{path="chatsounds/autoadd/scpcb/106laugh.ogg",length=3.866}}
 L["49speech"]={{path="chatsounds/autoadd/scpcb/49speech.ogg",length=14.853}}
-L["96scream 1"]={{path="chatsounds/autoadd/scpcb/96scream 1.ogg",length=2.042}}
-L["96scream 2"]={{path="chatsounds/autoadd/scpcb/96scream 2.ogg",length=2.879}}
-L["96scream 3"]={{path="chatsounds/autoadd/scpcb/96scream 3.ogg",length=1.321}}
-L["96scream 4"]={{path="chatsounds/autoadd/scpcb/96scream 4.ogg",length=1.004}}
-L["96scream 5"]={{path="chatsounds/autoadd/scpcb/96scream 5.ogg",length=2.879}}
+L["96scream"]={{path="chatsounds/autoadd/scpcb/96scream/96scream 1.ogg",length=2.042},{path="chatsounds/autoadd/scpcb/96scream/96scream 2.ogg",length=2.879},{path="chatsounds/autoadd/scpcb/96scream/96scream 3.ogg",length=1.321},{path="chatsounds/autoadd/scpcb/96scream/96scream 4.ogg",length=1.004},{path="chatsounds/autoadd/scpcb/96scream/96scream 5.ogg",length=2.879}}
 L["96triggered"]={{path="chatsounds/autoadd/scpcb/96triggered.ogg",length=10.277}}
 L["corrosion"]={{path="chatsounds/autoadd/scpcb/corrosion/corrosion1.ogg",length=1.350},{path="chatsounds/autoadd/scpcb/corrosion/corrosion2.ogg",length=1.625},{path="chatsounds/autoadd/scpcb/corrosion/corrosion3.ogg",length=0.785}}
 L["decay"]={{path="chatsounds/autoadd/scpcb/decay/decay1.ogg",length=12.192},{path="chatsounds/autoadd/scpcb/decay/decay2.ogg",length=1.918},{path="chatsounds/autoadd/scpcb/decay/decay3.ogg",length=2.449}}
@@ -19,9 +15,7 @@ L["horror"]={{path="chatsounds/autoadd/scpcb/horror/horror1.ogg",length=7.031},{
 L["i am the cure"]={{path="chatsounds/autoadd/scpcb/i am the cure.ogg",length=2.062}}
 L["i sense the disease in you"]={{path="chatsounds/autoadd/scpcb/i sense the disease in you.ogg",length=2.421}}
 L["kneel"]={{path="chatsounds/autoadd/scpcb/kneel.ogg",length=7.605}}
-L["neck snap 1"]={{path="chatsounds/autoadd/scpcb/neck snap 1.ogg",length=0.682}}
-L["neck snap 2"]={{path="chatsounds/autoadd/scpcb/neck snap 2.ogg",length=0.544}}
-L["neck snap 3"]={{path="chatsounds/autoadd/scpcb/neck snap 3.ogg",length=1.797}}
+L["neck snap"]={{path="chatsounds/autoadd/scpcb/neck snap/neck snap 1.ogg",length=0.682},{path="chatsounds/autoadd/scpcb/neck snap/neck snap 2.ogg",length=0.544},{path="chatsounds/autoadd/scpcb/neck snap/neck snap 3.ogg",length=1.797}}
 L["oh my yet another victim of the disease"]={{path="chatsounds/autoadd/scpcb/oh my yet another victim of the disease.ogg",length=4.747}}
 L["pdenter"]={{path="chatsounds/autoadd/scpcb/pdenter.ogg",length=11.111}}
 L["pdexit"]={{path="chatsounds/autoadd/scpcb/pdexit.ogg",length=7.721}}

@@ -128,11 +128,7 @@ L["invulnerability on"]={{path="chatsounds/autoadd/descent3/invulnerability on.o
 L["invulverability off"]={{path="chatsounds/autoadd/descent3/invulverability off.ogg",length=1.306}}
 L["juggernaut stomp"]={{path="chatsounds/autoadd/descent3/juggernaut stomp.ogg",length=2.856}}
 L["laser"]={{path="chatsounds/autoadd/descent3/laser.ogg",length=0.572}}
-L["laser level 1"]={{path="chatsounds/autoadd/descent3/laser level 1.ogg",length=0.331}}
-L["laser level 2"]={{path="chatsounds/autoadd/descent3/laser level 2.ogg",length=0.476}}
-L["laser level 3"]={{path="chatsounds/autoadd/descent3/laser level 3.ogg",length=0.525}}
-L["laser level 5"]={{path="chatsounds/autoadd/descent3/laser level 5.ogg",length=0.711}}
-L["laser level 6"]={{path="chatsounds/autoadd/descent3/laser level 6.ogg",length=0.642}}
+L["laser level"]={{path="chatsounds/autoadd/descent3/laser level/laser level 1.ogg",length=0.331},{path="chatsounds/autoadd/descent3/laser level/laser level 2.ogg",length=0.476},{path="chatsounds/autoadd/descent3/laser level/laser level 3.ogg",length=0.525},{path="chatsounds/autoadd/descent3/laser level/laser level 5.ogg",length=0.711},{path="chatsounds/autoadd/descent3/laser level/laser level 6.ogg",length=0.642}}
 L["launcher"]={{path="chatsounds/autoadd/descent3/launcher.ogg",length=1.501}}
 L["lock"]={{path="chatsounds/autoadd/descent3/lock.ogg",length=0.406}}
 L["manta idle"]={{path="chatsounds/autoadd/descent3/manta idle.ogg",length=1.001}}

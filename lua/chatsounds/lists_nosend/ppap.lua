@@ -12,11 +12,11 @@ L["ppap"]={{path="chatsounds/autoadd/ppap/pen pineapple apple pen.ogg",length=1.
 L["ppap intro"]={{path="chatsounds/autoadd/ppap/ppap intro.ogg",length=6.661}}
 L["ppap1"]={{path="chatsounds/autoadd/ppap/i have a.ogg",length=0.847}}
 L["ppap2"]={{path="chatsounds/autoadd/ppap/i have an.ogg",length=0.660}}
-L["ppap3"]={{path="chatsounds/autoadd/ppap/ppap_uuh.ogg",length=1.752}}
+L["ppap3"]={{path="chatsounds/autoadd/ppap/ppap uuh.ogg",length=1.752}}
 L["ppap4"]={{path="chatsounds/autoadd/ppap/i have a 2.ogg",length=0.858}}
 L["ppap5"]={{path="chatsounds/autoadd/ppap/i have.ogg",length=0.642}}
-L["ppap6"]={{path="chatsounds/autoadd/ppap/ppap_uhh.ogg",length=1.307}}
-L["ppap7"]={{path="chatsounds/autoadd/ppap/ppap_uuuh.ogg",length=1.733}}
+L["ppap6"]={{path="chatsounds/autoadd/ppap/ppap uhh.ogg",length=1.307}}
+L["ppap7"]={{path="chatsounds/autoadd/ppap/ppap uuuh.ogg",length=1.733}}
 L["sweep"]={{path="chatsounds/autoadd/ppap/sweep.ogg",length=0.402}}
 L["uhh"]={{path="chatsounds/autoadd/ppap/uhh.ogg",length=0.432}}
 L["uuh"]={{path="chatsounds/autoadd/ppap/uuh.ogg",length=0.800}}

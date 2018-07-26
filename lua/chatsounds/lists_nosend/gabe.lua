@@ -28,9 +28,9 @@ L["just"]={{path="chatsounds/autoadd/gabe/just.ogg",length=0.226}}
 L["me"]={{path="chatsounds/autoadd/gabe/me.ogg",length=0.382}}
 L["my"]={{path="chatsounds/autoadd/gabe/my.ogg",length=0.595}}
 L["nervous"]={{path="chatsounds/autoadd/gabe/nervous.ogg",length=2.425}}
-L["nervous2"]={{path="chatsounds/autoadd/gabe/nervous2.ogg",length=4.964}}
 L["newell"]={{path="chatsounds/autoadd/gabe/newell/2.ogg",length=0.368}}
 L["nine"]={{path="chatsounds/autoadd/gabe/nine.ogg",length=0.285}}
+L["nneerrvvoouuss"]={{path="chatsounds/autoadd/gabe/nneerrvvoouuss.ogg",length=4.964}}
 L["node"]={{path="chatsounds/autoadd/gabe/node/tf2 comment000 1.ogg",length=0.327},{path="chatsounds/autoadd/gabe/node/tf2 comment000 2.ogg",length=0.305},{path="chatsounds/autoadd/gabe/node/tf2 comment000 3.ogg",length=0.305},{path="chatsounds/autoadd/gabe/node/tf2 comment000 4.ogg",length=0.248},{path="chatsounds/autoadd/gabe/node/tf2 comment000 5.ogg",length=0.266}}
 L["okay"]={{path="chatsounds/autoadd/gabe/okay.ogg",length=0.470}}
 L["portal 2 and then we have to ship"]={{path="chatsounds/autoadd/gabe/portal 2 and then we have to ship.ogg",length=1.939}}
