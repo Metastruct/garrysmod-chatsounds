@@ -1,26 +1,26 @@
 # Mapping of the ppap structure into ppap[1-7] for easy exploitation:
 
 # first part
-# <i have a> <pen> <i have an> <apple> <ppap_uuh> <apple pen#1>
+# <i have a> <pen> <i have an> <apple> <ppap uuh> <apple pen#1>
 #   -ppap1-          -ppap2-             -ppap3-
 
 i have a; ppap1
 i have an; ppap2
-ppap_uuh; ppap3; replace
+ppap uuh; ppap3; replace
 
 # second part
-# <i have a 2> <pen> <i have> <pineapple> <ppap_uhh> <pineapple pen#1>
+# <i have a 2> <pen> <i have> <pineapple> <ppap uhh> <pineapple pen#1>
 #   -ppap4-           -ppap5-              -ppap6-
 
 i have a 2; ppap4
 i have; ppap5
-ppap_uhh; ppap6; replace
+ppap uhh; ppap6; replace
 
 # third part
-# <apple pen#2> <sweep> <pineapple pen#2> <sweep> <ppap_uuuh> <pen pineapple apple pen>
+# <apple pen#2> <sweep> <pineapple pen#2> <sweep> <ppap uuuh> <pen pineapple apple pen>
 #                                                   -ppap7-
 
-ppap_uuuh; ppap7; replace
+ppap uuuh; ppap7; replace
 
 # outside-of-ppap mapping of similar sounds for convenience
 
