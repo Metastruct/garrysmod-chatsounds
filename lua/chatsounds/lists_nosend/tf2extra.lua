@@ -124,6 +124,7 @@ L["needas"]={{path="chatsounds/autoadd/tf2extra/needas.ogg",length=0.472}}
 L["nneeiinn"]={{path="chatsounds/autoadd/tf2extra/nneeiinn.ogg",length=1.878}}
 L["no shut the fuck up distorted"]={{path="chatsounds/autoadd/tf2extra/no shut the fuck up distorted.ogg",length=3.193}}
 L["no they dont"]={{path="chatsounds/autoadd/tf2extra/no they dont.ogg",length=0.568}}
+L["no wait thats blood"]={{path="chatsounds/autoadd/tf2extra/no wait thats blood.ogg",length=1.567}}
 L["noon"]={{path="chatsounds/autoadd/tf2extra/noon.ogg",length=0.544}}
 L["nooon"]={{path="chatsounds/autoadd/tf2extra/nooon.ogg",length=0.730}}
 L["noooon"]={{path="chatsounds/autoadd/tf2extra/noooon.ogg",length=1.653}}
@@ -150,6 +151,7 @@ L["rapidfiredistorted"]={{path="chatsounds/autoadd/tf2extra/rapidfiredistorted.o
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2extra/ribs grow back.ogg",length=0.712}}
 L["scoutgibberish"]={{path="chatsounds/autoadd/tf2extra/scoutgibberish.ogg",length=5.239}}
 L["seduceme has stopped working"]={{path="chatsounds/autoadd/tf2extra/seduceme has stopped working.ogg",length=2.761}}
+L["see red"]={{path="chatsounds/autoadd/tf2extra/see red.ogg",length=1.543}}
 L["sees"]={{path="chatsounds/autoadd/tf2extra/sees/1.ogg",length=0.844},{path="chatsounds/autoadd/tf2extra/sees/2.ogg",length=0.712}}
 L["sentrysexdistorted"]={{path="chatsounds/autoadd/tf2extra/sentrysexdistorted.ogg",length=1.820}}
 L["sexellent"]={{path="chatsounds/autoadd/tf2extra/sexellent.ogg",length=0.993}}
@@ -161,6 +163,7 @@ L["sniper robotic laugh distorted"]={{path="chatsounds/autoadd/tf2extra/sniper r
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2extra/sniperlaughfast.ogg",length=1.329}}
 L["snort"]={{path="chatsounds/autoadd/tf2extra/snort.ogg",length=0.919}}
 L["snort gentlemen i have bought all the hamburgers"]={{path="chatsounds/autoadd/tf2extra/snort gentlemen i have bought all the hamburgers.ogg",length=5.614}}
+L["so we still got problem"]={{path="chatsounds/autoadd/tf2extra/so we still got problem.ogg",length=2.841}}
 L["so were both busy fucking chickens"]={{path="chatsounds/autoadd/tf2extra/so were both busy fucking chickens.ogg",length=2.495}}
 L["soldierdeath"]={{path="chatsounds/autoadd/tf2extra/soldierdeath.ogg",length=1.210}}
 L["soldierdeathloud"]={{path="chatsounds/autoadd/tf2extra/soldierdeathloud.ogg",length=1.083}}
@@ -198,6 +201,7 @@ L["turn your head and snort this"]={{path="chatsounds/autoadd/tf2extra/turn your
 L["tweet tweet tweet loud"]={{path="chatsounds/autoadd/tf2extra/tweet tweet tweet loud.ogg",length=1.717}}
 L["vagineer battlecry"]={{path="chatsounds/autoadd/tf2extra/vagineer battlecry.ogg",length=0.909}}
 L["wanker"]={{path="chatsounds/autoadd/tf2extra/wanker.ogg",length=0.539}}
+L["watch hell turn red any second now"]={{path="chatsounds/autoadd/tf2extra/watch hell turn red any second now.ogg",length=2.794}}
 L["we are going to need that stupid cartoon horse"]={{path="chatsounds/autoadd/tf2extra/we are going to need that stupid cartoon horse.ogg",length=3.017}}
 L["well too bad"]={{path="chatsounds/autoadd/tf2extra/well too bad.ogg",length=1.845}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
