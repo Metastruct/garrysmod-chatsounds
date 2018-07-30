@@ -3,8 +3,10 @@ L["aaaaahhaahhaahhaahhaa"]={{path="chatsounds/autoadd/tf2extra/aaaaahhaahhaahhaa
 L["aaaahhhh"]={{path="chatsounds/autoadd/tf2extra/aaaahhhh.ogg",length=2.618}}
 L["aaany second now"]={{path="chatsounds/autoadd/tf2extra/aaany second now.ogg",length=2.288}}
 L["aayyee"]={{path="chatsounds/autoadd/tf2extra/aayyee.ogg",length=2.887}}
+L["ah my petite chou fleur"]={{path="chatsounds/autoadd/tf2extra/ah my petite chou fleur.ogg",length=2.721}}
 L["ahyooyha"]={{path="chatsounds/autoadd/tf2extra/ahyooyha.ogg",length=1.384}}
 L["alright"]={{path="chatsounds/autoadd/tf2extra/alright.ogg",length=0.680}}
+L["alright whos ready to go find that spy"]={{path="chatsounds/autoadd/tf2extra/alright whos ready to go find that spy.ogg",length=3.474}}
 L["and fires two hundred dollar custom tooled cartridges"]={{path="chatsounds/autoadd/tf2extra/and fires two hundred dollar custom tooled cartridges.ogg",length=3.086}}
 L["and thats what ya get for touching dicks fuckhead"]={{path="chatsounds/autoadd/tf2extra/and thats what ya get for touching dicks fuckhead.ogg",length=4.399}}
 L["and the doctor was never heard from again"]={{path="chatsounds/autoadd/tf2extra/and the doctor was never heard from again.ogg",length=2.565}}
@@ -14,6 +16,7 @@ L["archimedes"]={{path="chatsounds/autoadd/tf2extra/archimedes.ogg",length=1.123
 L["archimedes no"]={{path="chatsounds/autoadd/tf2extra/archimedes no.ogg",length=2.007}}
 L["are you sure this will work"]={{path="chatsounds/autoadd/tf2extra/are you sure this will work.ogg",length=1.880}}
 L["at ten thousand rounds per minute"]={{path="chatsounds/autoadd/tf2extra/at ten thousand rounds per minute.ogg",length=2.204}}
+L["big problem"]={{path="chatsounds/autoadd/tf2extra/big problem.ogg",length=1.300}}
 L["big surprise"]={{path="chatsounds/autoadd/tf2extra/big surprise.ogg",length=0.984}}
 L["birds"]={{path="chatsounds/autoadd/tf2extra/birds.ogg",length=0.624}}
 L["blolb"]={{path="chatsounds/autoadd/tf2extra/blolb.ogg",length=0.579}}
@@ -149,6 +152,7 @@ L["ppoottiiss"]={{path="chatsounds/autoadd/tf2extra/ppoottiiss.ogg",length=3.134
 L["proceed"]={{path="chatsounds/autoadd/tf2extra/proceed.ogg",length=0.271}}
 L["rapidfiredistorted"]={{path="chatsounds/autoadd/tf2extra/rapidfiredistorted.ogg",length=2.527}}
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2extra/ribs grow back.ogg",length=0.712}}
+L["right behind you"]={{path="chatsounds/autoadd/tf2extra/right behind you.ogg",length=1.180}}
 L["scoutgibberish"]={{path="chatsounds/autoadd/tf2extra/scoutgibberish.ogg",length=5.239}}
 L["seduceme has stopped working"]={{path="chatsounds/autoadd/tf2extra/seduceme has stopped working.ogg",length=2.761}}
 L["see red"]={{path="chatsounds/autoadd/tf2extra/see red.ogg",length=1.543}}
