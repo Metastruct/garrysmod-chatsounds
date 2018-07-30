@@ -6,7 +6,7 @@ L["aayyee"]={{path="chatsounds/autoadd/tf2extra/aayyee.ogg",length=2.887}}
 L["ah my petite chou fleur"]={{path="chatsounds/autoadd/tf2extra/ah my petite chou fleur.ogg",length=2.721}}
 L["ahyooyha"]={{path="chatsounds/autoadd/tf2extra/ahyooyha.ogg",length=1.384}}
 L["alright"]={{path="chatsounds/autoadd/tf2extra/alright.ogg",length=0.680}}
-L["alright whos ready to go find that spy"]={{path="chatsounds/autoadd/tf2extra/alright whos ready to go find that spy.ogg",length=3.474}}
+L["alright whos ready to go find the spy"]={{path="chatsounds/autoadd/tf2extra/alright whos ready to go find the spy.ogg",length=3.474}}
 L["and fires two hundred dollar custom tooled cartridges"]={{path="chatsounds/autoadd/tf2extra/and fires two hundred dollar custom tooled cartridges.ogg",length=3.086}}
 L["and thats what ya get for touching dicks fuckhead"]={{path="chatsounds/autoadd/tf2extra/and thats what ya get for touching dicks fuckhead.ogg",length=4.399}}
 L["and the doctor was never heard from again"]={{path="chatsounds/autoadd/tf2extra/and the doctor was never heard from again.ogg",length=2.565}}
