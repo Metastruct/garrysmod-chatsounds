@@ -38,6 +38,7 @@ L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.662}}
 L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.486}}
 L["get fucked"]={{path="chatsounds/autoadd/misc/get fucked.ogg",length=0.916}}
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.366}}
+L["hi im paul"]={{path="chatsounds/autoadd/misc/hi im paul.ogg",length=3.065}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.873}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.316}}
 L["is"]={{path="chatsounds/autoadd/misc/is.ogg",length=0.194}}
