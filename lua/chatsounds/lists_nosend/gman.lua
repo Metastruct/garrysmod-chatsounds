@@ -6,6 +6,7 @@ L["but there is still the lingering matter of witnesses"]={{path="chatsounds/aut
 L["cleverly done mr freeman but youre not supposed to be here as a matter of fact you are not"]={{path="chatsounds/autoadd/gman/cleverly done mr freeman but youre not supposed to be here as a matter of fact you are not.ogg",length=8.591}}
 L["continually"]={{path="chatsounds/autoadd/gman/continually.ogg",length=0.971}}
 L["get back where you belong and forget about all this until"]={{path="chatsounds/autoadd/gman/get back where you belong and forget about all this until.ogg",length=5.608}}
+L["gmangasm"]={{path="chatsounds/autoadd/gman/gmangasm.ogg",length=1.621}}
 L["gmansino"]={{path="chatsounds/autoadd/gman/gmansino.ogg",length=4.113}}
 L["gordon freeman in the flesh or rather in the hazard suit i took the liberty of relieving you of your weapons"]={{path="chatsounds/autoadd/gman/gordon freeman in the flesh or rather in the hazard suit i took the liberty of relieving you of your weapons.ogg",length=16.507}}
 L["i admit i have a fascination with those who adapt and survive against all odds"]={{path="chatsounds/autoadd/gman/i admit i have a fascination with those who adapt and survive against all odds.ogg",length=6.111}}
