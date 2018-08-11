@@ -1,0 +1,25 @@
+c.StartList("bjoern")
+L["abealloya"]={{path="chatsounds/autoadd/bjoern/abealloya.ogg",length=0.663}}
+L["abeangry"]={{path="chatsounds/autoadd/bjoern/abeangry.ogg",length=1.254}}
+L["abechanting"]={{path="chatsounds/autoadd/bjoern/abechanting.ogg",length=8.098}}
+L["abefart"]={{path="chatsounds/autoadd/bjoern/abefart.ogg",length=0.287}}
+L["abefollowme"]={{path="chatsounds/autoadd/bjoern/abefollowme.ogg",length=1.123}}
+L["abegoodbye"]={{path="chatsounds/autoadd/bjoern/abegoodbye.ogg",length=0.627}}
+L["abehello"]={{path="chatsounds/autoadd/bjoern/abehello.ogg",length=0.536}}
+L["abeok"]={{path="chatsounds/autoadd/bjoern/abeok.ogg",length=0.332}}
+L["abepain"]={{path="chatsounds/autoadd/bjoern/abepain.ogg",length=0.364}}
+L["abesorry"]={{path="chatsounds/autoadd/bjoern/abesorry.ogg",length=0.346}}
+L["abestopit"]={{path="chatsounds/autoadd/bjoern/abestopit.ogg",length=0.601}}
+L["abewait"]={{path="chatsounds/autoadd/bjoern/abewait.ogg",length=0.337}}
+L["abework"]={{path="chatsounds/autoadd/bjoern/abework.ogg",length=0.381}}
+L["sligbs"]={{path="chatsounds/autoadd/bjoern/sligbs.ogg",length=0.263}}
+L["sligfreeze"]={{path="chatsounds/autoadd/bjoern/sligfreeze.ogg",length=0.456}}
+L["sliggetem"]={{path="chatsounds/autoadd/bjoern/sliggetem.ogg",length=0.512}}
+L["sliggrossedout"]={{path="chatsounds/autoadd/bjoern/sliggrossedout.ogg",length=0.482}}
+L["slighereboy"]={{path="chatsounds/autoadd/bjoern/slighereboy.ogg",length=0.640}}
+L["slighi"]={{path="chatsounds/autoadd/bjoern/slighi.ogg",length=0.475}}
+L["sliglaugh"]={{path="chatsounds/autoadd/bjoern/sliglaugh.ogg",length=0.364}}
+L["sliglook out"]={{path="chatsounds/autoadd/bjoern/sliglook out.ogg",length=0.594}}
+L["sligsmobs"]={{path="chatsounds/autoadd/bjoern/sligsmobs.ogg",length=0.473}}
+L["sligwhat"]={{path="chatsounds/autoadd/bjoern/sligwhat.ogg",length=0.394}}
+c.EndList()
