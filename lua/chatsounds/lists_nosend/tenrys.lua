@@ -149,6 +149,7 @@ L["not used in anger"]={{path="chatsounds/autoadd/tenrys/not used in anger.ogg",
 L["now for my next trick"]={{path="chatsounds/autoadd/tenrys/now for my next trick.ogg",length=1.682}}
 L["now now dont be shy"]={{path="chatsounds/autoadd/tenrys/now now dont be shy.ogg",length=2.170}}
 L["now this is a fight"]={{path="chatsounds/autoadd/tenrys/now this is a fight.ogg",length=1.602}}
+L["nuclearscream"]={{path="chatsounds/autoadd/tenrys/nuclearscream.ogg",length=2.727}}
 L["nuke"]={{path="chatsounds/autoadd/tenrys/nuke.ogg",length=4.078}}
 L["nuke alarm"]={{path="chatsounds/autoadd/tenrys/nuke alarm.ogg",length=11.108}}
 L["of course that would have to include you"]={{path="chatsounds/autoadd/tenrys/of course that would have to include you.ogg",length=2.607}}
