@@ -86,6 +86,7 @@ L["wait a minute"]={{path="chatsounds/autoadd/idubbbztv/wait a minute.ogg",lengt
 L["well"]={{path="chatsounds/autoadd/idubbbztv/well.ogg",length=0.453}}
 L["were gonna be looking at"]={{path="chatsounds/autoadd/idubbbztv/were gonna be looking at.ogg",length=0.917}}
 L["were talkin"]={{path="chatsounds/autoadd/idubbbztv/were talkin.ogg",length=0.719}}
+L["what are you a fuckin faggot"]={{path="chatsounds/autoadd/idubbbztv/what are you a fuckin faggot.ogg",length=766.839}}
 L["what are you fuckin gay dude"]={{path="chatsounds/autoadd/idubbbztv/what are you fuckin gay dude.ogg",length=1.103}}
 L["what the f"]={{path="chatsounds/autoadd/idubbbztv/what the f.ogg",length=0.581}}
 L["whooo"]={{path="chatsounds/autoadd/idubbbztv/whooo.ogg",length=1.029}}
