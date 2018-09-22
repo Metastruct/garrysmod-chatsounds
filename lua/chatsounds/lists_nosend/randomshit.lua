@@ -86,9 +86,7 @@ L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg
 L["what are frogs"]={{path="chatsounds/autoadd/randomshit/what are frogs.ogg",length=0.752}}
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/randomshit/what in the name of all thats right are you talking about human.ogg",length=5.700}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585}}
-L["where is the lamb sauce"]={{path="chatsounds/autoadd/randomshit/where is the lamb sauce.ogg",length=2.168}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.732}}
-L["wheres the lamb saauce"]={{path="chatsounds/autoadd/randomshit/wheres the lamb saauce.ogg",length=2.152}}
 L["why are you not in a cage you fuckin animal"]={{path="chatsounds/autoadd/randomshit/why are you not in a cage you fuckin animal.ogg",length=2.789}}
 L["woody the woodpecker"]={{path="chatsounds/autoadd/randomshit/woody the woodpecker.ogg",length=3.574}}
 L["yeah i know im a cat you fucken bastard"]={{path="chatsounds/autoadd/randomshit/yeah i know im a cat you fucken bastard.ogg",length=2.901}}
