@@ -1,5 +1,6 @@
 c.StartList("gordon_ramsay")
 L["again chicken that is fucking pink fuck"]={{path="chatsounds/autoadd/gordon_ramsay/again chicken that is fucking pink fuck.ogg",length=5.007}}
+L["ah fuck off gentlemen gentlemen gentlemen"]={{path="chatsounds/autoadd/gordon_ramsay/ah fuck off gentlemen gentlemen gentlemen.ogg",length=3.150}}
 L["an idiot sandwich"]={{path="chatsounds/autoadd/gordon_ramsay/an idiot sandwich.ogg",length=0.972}}
 L["an idiot sandwich chef ramsay"]={{path="chatsounds/autoadd/gordon_ramsay/an idiot sandwich chef ramsay.ogg",length=1.568}}
 L["an idiot sandwich what"]={{path="chatsounds/autoadd/gordon_ramsay/an idiot sandwich what.ogg",length=1.276}}
@@ -13,11 +14,15 @@ L["everything she touches she screws there ya go"]={{path="chatsounds/autoadd/go
 L["fucking bin them get rid of them"]={{path="chatsounds/autoadd/gordon_ramsay/fucking bin them get rid of them.ogg",length=1.473}}
 L["i know but hes from texas"]={{path="chatsounds/autoadd/gordon_ramsay/i know but hes from texas.ogg",length=1.136}}
 L["im shitting myself"]={{path="chatsounds/autoadd/gordon_ramsay/im shitting myself.ogg",length=1.436}}
+L["look at this fat fuck fat fuck fat fuck look at that there look at that"]={{path="chatsounds/autoadd/gordon_ramsay/look at this fat fuck fat fuck fat fuck look at that there look at that.ogg",length=4.656}}
 L["mm oh fuck me oh fuck me fuck off piss off fucking bimbo"]={{path="chatsounds/autoadd/gordon_ramsay/mm oh fuck me oh fuck me fuck off piss off fucking bimbo.ogg",length=6.046}}
 L["shit"]={{path="chatsounds/autoadd/gordon_ramsay/shit.ogg",length=1.217}}
 L["shut the fuck up"]={{path="chatsounds/autoadd/gordon_ramsay/shut the fuck up.ogg",length=0.759}}
+L["shut your fat east coast mouth"]={{path="chatsounds/autoadd/gordon_ramsay/shut your fat east coast mouth.ogg",length=1.517}}
+L["the big fucking sack of piss and wings"]={{path="chatsounds/autoadd/gordon_ramsay/the big fucking sack of piss and wings.ogg",length=2.395}}
 L["theres a language barrier there"]={{path="chatsounds/autoadd/gordon_ramsay/theres a language barrier there.ogg",length=1.172}}
 L["watch hes gonna set this place on fire"]={{path="chatsounds/autoadd/gordon_ramsay/watch hes gonna set this place on fire.ogg",length=1.507}}
+L["we cant send any food garrett garrett"]={{path="chatsounds/autoadd/gordon_ramsay/we cant send any food garrett garrett.ogg",length=4.898}}
 L["what are you"]={{path="chatsounds/autoadd/gordon_ramsay/what are you.ogg",length=0.782}}
 L["what do you mean theres a language barrier hes speaking english you dick"]={{path="chatsounds/autoadd/gordon_ramsay/what do you mean theres a language barrier hes speaking english you dick.ogg",length=2.304}}
 L["what the fuck is going on here"]={{path="chatsounds/autoadd/gordon_ramsay/what the fuck is going on here.ogg",length=1.414}}
@@ -25,4 +30,6 @@ L["whats the matter between you two"]={{path="chatsounds/autoadd/gordon_ramsay/w
 L["where is the lamb sauce"]={{path="chatsounds/autoadd/gordon_ramsay/where is the lamb sauce.ogg",length=2.168}}
 L["wheres the lamb saauce"]={{path="chatsounds/autoadd/gordon_ramsay/wheres the lamb saauce.ogg",length=2.152}}
 L["you fucking doughnut"]={{path="chatsounds/autoadd/gordon_ramsay/you fucking doughnut.ogg",length=0.916}}
+L["youre blaming the fish"]={{path="chatsounds/autoadd/gordon_ramsay/youre blaming the fish.ogg",length=1.598}}
+L["youre stacking up your garnishes and its getting longer and longer and longer and longer"]={{path="chatsounds/autoadd/gordon_ramsay/youre stacking up your garnishes and its getting longer and longer and longer and longer.ogg",length=5.372}}
 c.EndList()
