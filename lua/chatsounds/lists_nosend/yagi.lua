@@ -12,7 +12,7 @@ L["dont hug me"]={{path="chatsounds/autoadd/yagi/dont hug me.ogg",length=0.824}}
 L["eat a bag of dicks"]={{path="chatsounds/autoadd/yagi/eat a bag of dicks.ogg",length=1.474}}
 L["excuse me sir i need you to turn around"]={{path="chatsounds/autoadd/yagi/excuse me sir i need you to turn around.ogg",length=2.801}}
 L["fuck my life"]={{path="chatsounds/autoadd/yagi/fuck my life.ogg",length=1.297}}
-L["fucking"]={{path="chatsounds/autoadd/yagi/fucking.ogg",length=0.673}}
+L["fucking"]={{path="chatsounds/autoadd/yagi/fucking.ogg",length=0.625}}
 L["fucking obi wan shit"]={{path="chatsounds/autoadd/yagi/fucking obi wan shit.ogg",length=1.584}}
 L["get out"]={{path="chatsounds/autoadd/yagi/get out.ogg",length=0.882}}
 L["give me a break"]={{path="chatsounds/autoadd/yagi/give me a break.ogg",length=1.335}}
