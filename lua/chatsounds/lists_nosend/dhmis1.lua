@@ -12,7 +12,7 @@ L["i can see a dog i can see a frog i can see a ladder leaning on a log"]={{path
 L["i can see a hat i can see a cat i can see a man with a baseball bat"]={{path="chatsounds/autoadd/dhmis1/i can see a hat i can see a cat i can see a man with a baseball bat.ogg",length=4.880}}
 L["i dont see what you mean"]={{path="chatsounds/autoadd/dhmis1/i dont see what you mean.ogg",length=2.129}}
 L["i just try to think creatively"]={{path="chatsounds/autoadd/dhmis1/i just try to think creatively.ogg",length=2.392}}
-L["i might make a picture of a clown"]={{path="chatsounds/autoadd/dhmis1/i might make a picture of a clown.ogg",length=2.410}}
+L["i might paint a picture of a clown"]={{path="chatsounds/autoadd/dhmis1/i might paint a picture of a clown.ogg",length=2.410}}
 L["i see a silly face walking along and smiling at me"]={{path="chatsounds/autoadd/dhmis1/i see a silly face walking along and smiling at me.ogg",length=4.770}}
 L["i use my hair to express myself"]={{path="chatsounds/autoadd/dhmis1/i use my hair to express myself.ogg",length=2.567}}
 L["its just a boring old orange"]={{path="chatsounds/autoadd/dhmis1/its just a boring old orange.ogg",length=2.540}}

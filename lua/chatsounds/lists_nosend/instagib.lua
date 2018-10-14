@@ -591,7 +591,7 @@ L["if you dont like it go to russia"]={{path="chatsounds/autoadd/instagib/if you
 L["ilike"]={{path="chatsounds/autoadd/instagib/ilike.ogg",length=4.159}}
 L["ilikeit"]={{path="chatsounds/autoadd/instagib/ilikeit.ogg",length=4.159}}
 L["ill be back"]={{path="chatsounds/autoadd/instagib/ill be back.ogg",length=1.689}}
-L["im afraid im afriad dave"]={{path="chatsounds/autoadd/instagib/im afraid im afriad dave.ogg",length=6.580}}
+L["im afraid im afraid dave"]={{path="chatsounds/autoadd/instagib/im afraid im afraid dave.ogg",length=6.580}}
 L["im going to kick your ass"]={{path="chatsounds/autoadd/instagib/im going to kick your ass.ogg",length=5.277}}
 L["im ignoring you"]={{path="chatsounds/autoadd/instagib/im ignoring you.ogg",length=1.302}}
 L["imbad"]={{path="chatsounds/autoadd/instagib/imbad.ogg",length=3.977}}
