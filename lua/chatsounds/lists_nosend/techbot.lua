@@ -41,6 +41,8 @@ L["game over yeah"]={{path="chatsounds/autoadd/techbot/game over yeah.ogg",lengt
 L["gay"]={{path="chatsounds/autoadd/techbot/gay.ogg",length=1.398}}
 L["genius"]={{path="chatsounds/autoadd/techbot/genius.ogg",length=0.492}}
 L["git gud"]={{path="chatsounds/autoadd/techbot/git gud.ogg",length=1.016}}
+L["hacking in progress intro"]={{path="chatsounds/autoadd/techbot/hacking in progress intro.ogg",length=12.444}}
+L["hacking in progress loop"]={{path="chatsounds/autoadd/techbot/hacking in progress loop.ogg",length=5.646}}
 L["hah"]={{path="chatsounds/autoadd/techbot/hah.ogg",length=0.803}}
 L["hah gay"]={{path="chatsounds/autoadd/techbot/hah gay.ogg",length=2.750}}
 L["hell"]={{path="chatsounds/autoadd/techbot/hell.ogg",length=0.779}}
