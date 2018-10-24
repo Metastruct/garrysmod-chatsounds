@@ -152,6 +152,7 @@ L["how yall doin"]={{path="chatsounds/autoadd/starcraft/how yall doin.ogg",lengt
 L["howdy"]={{path="chatsounds/autoadd/starcraft/howdy.ogg",length=0.411}}
 L["hydralisk"]={{path="chatsounds/autoadd/starcraft/hydralisk/zhypss00.ogg",length=3.483},{path="chatsounds/autoadd/starcraft/hydralisk/zhypss01.ogg",length=4.563},{path="chatsounds/autoadd/starcraft/hydralisk/zhyrdy00.ogg",length=1.660},{path="chatsounds/autoadd/starcraft/hydralisk/zhywht00.ogg",length=1.194},{path="chatsounds/autoadd/starcraft/hydralisk/zhywht01.ogg",length=1.480},{path="chatsounds/autoadd/starcraft/hydralisk/zhywht02.ogg",length=1.240},{path="chatsounds/autoadd/starcraft/hydralisk/zhyyes00.ogg",length=1.159},{path="chatsounds/autoadd/starcraft/hydralisk/zhyyes01.ogg",length=1.537},{path="chatsounds/autoadd/starcraft/hydralisk/zhyyes02.ogg",length=1.330},{path="chatsounds/autoadd/starcraft/hydralisk/zhyyes03.ogg",length=1.295}}
 L["i am duran who are you"]={{path="chatsounds/autoadd/starcraft/i am duran who are you/i am duran who are you duran zerg.ogg",length=2.537},{path="chatsounds/autoadd/starcraft/i am duran who are you/i am duran who are you duran.ogg",length=2.595}}
+L["i am eager to help"]={{path="chatsounds/autoadd/starcraft/i am eager to help.ogg",length=2.165}}
 L["i am invincible thats right"]={{path="chatsounds/autoadd/starcraft/i am invincible thats right.ogg",length=2.461}}
 L["i am needed"]={{path="chatsounds/autoadd/starcraft/i am needed.ogg",length=0.987}}
 L["i am ready"]={{path="chatsounds/autoadd/starcraft/i am ready.ogg",length=1.654}}
@@ -214,7 +215,6 @@ L["im all over it"]={{path="chatsounds/autoadd/starcraft/im all over it.ogg",len
 L["im goin"]={{path="chatsounds/autoadd/starcraft/im goin.ogg",length=0.720}}
 L["im gone"]={{path="chatsounds/autoadd/starcraft/im gone.ogg",length=1.950}}
 L["im here"]={{path="chatsounds/autoadd/starcraft/im here/im here duran zerg.ogg",length=1.602},{path="chatsounds/autoadd/starcraft/im here/im here duran.ogg",length=0.885},{path="chatsounds/autoadd/starcraft/im here/im here ghost.ogg",length=1.242}}
-L["im here to help"]={{path="chatsounds/autoadd/starcraft/im here to help.ogg",length=2.165}}
 L["im just curious why am i so good"]={{path="chatsounds/autoadd/starcraft/im just curious why am i so good.ogg",length=2.210}}
 L["im listenin"]={{path="chatsounds/autoadd/starcraft/im listenin.ogg",length=0.882}}
 L["im listening"]={{path="chatsounds/autoadd/starcraft/im listening.ogg",length=1.559}}

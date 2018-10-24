@@ -82,6 +82,7 @@ L["there is enough evidence for an arrest"]={{path="chatsounds/autoadd/chris_han
 L["theres anything else youd like to tell us"]={{path="chatsounds/autoadd/chris_hansen/theres anything else youd like to tell us.ogg",length=2.119}}
 L["they send those people to jail"]={{path="chatsounds/autoadd/chris_hansen/they send those people to jail.ogg",length=1.609}}
 L["this 53 year old"]={{path="chatsounds/autoadd/chris_hansen/this 53 year old.ogg",length=1.604}}
+L["underage"]={{path="chatsounds/autoadd/chris_hansen/underage.ogg",length=0.596}}
 L["undercover house"]={{path="chatsounds/autoadd/chris_hansen/undercover house.ogg",length=1.100}}
 L["using the internet"]={{path="chatsounds/autoadd/chris_hansen/using the internet.ogg",length=1.244}}
 L["very specific"]={{path="chatsounds/autoadd/chris_hansen/very specific.ogg",length=1.535}}
