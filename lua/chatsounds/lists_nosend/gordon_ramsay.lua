@@ -9,6 +9,7 @@ L["and you open those big eyes and watch what the fuck this guys doing yes chef"
 L["are you fucking dreaming"]={{path="chatsounds/autoadd/gordon_ramsay/are you fucking dreaming.ogg",length=1.329}}
 L["because if i cut them all the juice will come out chef why"]={{path="chatsounds/autoadd/gordon_ramsay/because if i cut them all the juice will come out chef why.ogg",length=2.480}}
 L["because the juice will why they wont be juicy"]={{path="chatsounds/autoadd/gordon_ramsay/because the juice will why they wont be juicy.ogg",length=2.534}}
+L["come here you"]={{path="chatsounds/autoadd/gordon_ramsay/come here you.ogg",length=0.619}}
 L["come here you fat mouth little stupid bitch"]={{path="chatsounds/autoadd/gordon_ramsay/come here you fat mouth little stupid bitch.ogg",length=2.713}}
 L["crap on top of crap on top of crap on top of crap"]={{path="chatsounds/autoadd/gordon_ramsay/crap on top of crap on top of crap on top of crap.ogg",length=2.815}}
 L["dont fucking dare"]={{path="chatsounds/autoadd/gordon_ramsay/dont fucking dare/1.ogg",length=1.377},{path="chatsounds/autoadd/gordon_ramsay/dont fucking dare/2.ogg",length=1.393}}
@@ -24,9 +25,12 @@ L["if i tell you to get out there i dont give a fuck if you got a thumb up your 
 L["im shitting myself"]={{path="chatsounds/autoadd/gordon_ramsay/im shitting myself.ogg",length=1.436}}
 L["its black"]={{path="chatsounds/autoadd/gordon_ramsay/its black.ogg",length=1.355}}
 L["its fucked"]={{path="chatsounds/autoadd/gordon_ramsay/its fucked.ogg",length=1.046}}
+L["its fucking raw"]={{path="chatsounds/autoadd/gordon_ramsay/its fucking raw.ogg",length=2.258}}
+L["its raw"]={{path="chatsounds/autoadd/gordon_ramsay/its raw/1.ogg",length=1.049},{path="chatsounds/autoadd/gordon_ramsay/its raw/2.ogg",length=1.151}}
 L["look at this fat fuck fat fuck fat fuck look at that there look at that"]={{path="chatsounds/autoadd/gordon_ramsay/look at this fat fuck fat fuck fat fuck look at that there look at that.ogg",length=4.656}}
 L["look this fucking pigeons that raw it can still fly"]={{path="chatsounds/autoadd/gordon_ramsay/look this fucking pigeons that raw it can still fly.ogg",length=3.362}}
 L["mm oh fuck me oh fuck me fuck off piss off fucking bimbo"]={{path="chatsounds/autoadd/gordon_ramsay/mm oh fuck me oh fuck me fuck off piss off fucking bimbo.ogg",length=6.046}}
+L["oh dear raj"]={{path="chatsounds/autoadd/gordon_ramsay/oh dear raj.ogg",length=1.826}}
 L["ooh get out of the way taste it taste it taste it taste it taste it taste it"]={{path="chatsounds/autoadd/gordon_ramsay/ooh get out of the way taste it taste it taste it taste it taste it taste it.ogg",length=4.641}}
 L["plastic dried shit"]={{path="chatsounds/autoadd/gordon_ramsay/plastic dried shit.ogg",length=2.088}}
 L["raj help them or fuck off"]={{path="chatsounds/autoadd/gordon_ramsay/raj help them or fuck off.ogg",length=3.331}}
