@@ -1,76 +1,79 @@
-# Contributor Covenant Code of Conduct
+All of the current developers at the time when this document was composed, have pledged to govern their interactions with each other, and with the larger Meta Construct user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict (hereafter: "The Rule"). 
 
-## Our Pledge
+This code of ethics has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline 
+for many civil law codes since the time of Charlemagne.
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+## The Rules
 
-## Our Standards
-
-Examples of behavior that contributes to creating a positive environment
-include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
-
-## Our Responsibilities
-
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
-
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at metastruct+github@metastruct.net. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+    - First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
+    - Then, love your neighbor as yourself.
+    - Do not murder.
+    - Do not commit adultery.
+    - Do not steal.
+    - Do not covet.
+    - Do not bear false witness.
+    - Honor all.
+    - Do not do to another what you would not have done to yourself.
+    - Deny oneself in order to follow Christ.
+    - Chastise the body.
+    - Do not become attached to pleasures.
+    - Love fasting.
+    - Relieve the poor.
+    - Clothe the naked.
+    - Visit the sick.
+    - Bury the dead.
+    - Be a help in times of trouble.
+    - Console the sorrowing.
+    - Be a stranger to the world's ways.
+    - Prefer nothing more than the love of Christ.
+    - Do not give way to anger.
+    - Do not nurse a grudge.
+    - Do not entertain deceit in your heart.
+    - Do not give a false peace.
+    - Do not forsake charity.
+    - Do not swear, for fear of perjuring yourself.
+    - Utter only truth from heart and mouth.
+    - Do not return evil for evil.
+    - Do no wrong to anyone, and bear patiently wrongs done to yourself.
+    - Love your enemies.
+    - Do not curse those who curse you, but rather bless them.
+    - Bear persecution for justice's sake.
+    - Be not proud.
+    - Be not addicted to wine.
+    - Be not a great eater.
+    - Be not drowsy.
+    - Be not lazy.
+    - Be not a grumbler.
+    - Be not a detractor.
+    - Put your hope in God.
+    - Attribute to God, and not to self, whatever good you see in yourself.
+    - Recognize always that evil is your own doing, and to impute it to yourself.
+    - Fear the Day of Judgment.
+    - Be in dread of hell.
+    - Desire eternal life with all the passion of the spirit.
+    - Keep death daily before your eyes.
+    - Keep constant guard over the actions of your life.
+    - Know for certain that God sees you everywhere.
+    - When wrongful thoughts come into your heart, dash them against Christ immediately.
+    - Disclose wrongful thoughts to your spiritual mentor.
+    - Guard your tongue against evil and depraved speech.
+    - Do not love much talking.
+    - Speak no useless words or words that move to laughter.
+    - Do not love much or boisterous laughter.
+    - Listen willingly to holy reading.
+    - Devote yourself frequently to prayer.
+    - Daily in your prayers, with tears and sighs, confess your past sins to God, and amend them for the future.
+    - Fulfill not the desires of the flesh; hate your own will.
+    - Obey in all things the commands of those whom God has placed in authority over you even though they (which God forbid) should act otherwise, mindful of the Lord's precept, "Do what they say, but not what they do."
+    - Do not wish to be called holy before one is holy; but first to be holy, that you may be truly so called.
+    - Fulfill God's commandments daily in your deeds.
+    - Love chastity.
+    - Hate no one.
+    - Be not jealous, nor harbor envy.
+    - Do not love quarreling.
+    - Shun arrogance.
+    - Respect your seniors.
+    - Love your juniors.
+    - Pray for your enemies in the love of Christ.
+    - Make peace with your adversary before the sun sets.
+    - Never despair of God's mercy. 
