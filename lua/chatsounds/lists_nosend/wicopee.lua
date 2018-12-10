@@ -3,11 +3,14 @@ L["a a ahahahaha"]={{path="chatsounds/autoadd/wicopee/a a ahahahaha.ogg",length=
 L["a eto evgenyj comedij genij"]={{path="chatsounds/autoadd/wicopee/a eto evgenyj comedij genij.ogg",length=3.635}}
 L["a nonunderstandablesounds"]={{path="chatsounds/autoadd/wicopee/a nonunderstandablesounds.ogg",length=1.180}}
 L["a ya vegas vkluchayu"]={{path="chatsounds/autoadd/wicopee/a ya vegas vkluchayu.ogg",length=1.791}}
+L["aaaa you shut up when im talking to you you shut your mouth"]={{path="chatsounds/autoadd/wicopee/aaaa you shut up when im talking to you you shut your mouth.ogg",length=3.799}}
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/1.ogg",length=3.703},{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/2.ogg",length=3.940},{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/3.ogg",length=3.762}}
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=6.428}}
 L["aaaaaaaeeaaaeeaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaeeaaaeeaaaaaaaaaaaaaa.ogg",length=3.880}}
 L["aininia"]={{path="chatsounds/autoadd/wicopee/aininia.ogg",length=0.639}}
+L["alex is doing this shit"]={{path="chatsounds/autoadd/wicopee/alex is doing this shit.ogg",length=2.135}}
 L["alia intro distorted"]={{path="chatsounds/autoadd/wicopee/alia intro distorted.ogg",length=6.792}}
+L["all fucking righteous nigger"]={{path="chatsounds/autoadd/wicopee/all fucking righteous nigger.ogg",length=2.719}}
 L["all of this behaviour is a symptom of the fact that youre not expressing your anger"]={{path="chatsounds/autoadd/wicopee/all of this behaviour is a symptom of the fact that youre not expressing your anger.ogg",length=5.806}}
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
@@ -51,10 +54,14 @@ L["drums"]={{path="chatsounds/autoadd/wicopee/drums.ogg",length=1.529}}
 L["ebat"]={{path="chatsounds/autoadd/wicopee/ebat.ogg",length=1.236}}
 L["eto hleb"]={{path="chatsounds/autoadd/wicopee/eto hleb.ogg",length=0.585}}
 L["eto pasha on ochen lubit twoyu mamashu"]={{path="chatsounds/autoadd/wicopee/eto pasha on ochen lubit twoyu mamashu.ogg",length=3.941}}
+L["everybody type in the chat alex is a stupid nigger"]={{path="chatsounds/autoadd/wicopee/everybody type in the chat alex is a stupid nigger.ogg",length=2.580}}
 L["experementi"]={{path="chatsounds/autoadd/wicopee/experementi.ogg",length=1.125}}
 L["explosion"]={{path="chatsounds/autoadd/wicopee/explosion.ogg",length=0.307}}
 L["fart"]={{path="chatsounds/autoadd/wicopee/fart.ogg",length=0.454}}
 L["fortacus fortacus fortacus"]={{path="chatsounds/autoadd/wicopee/fortacus fortacus fortacus.ogg",length=2.202}}
+L["fuck this im on blogtv with my fucking hands up"]={{path="chatsounds/autoadd/wicopee/fuck this im on blogtv with my fucking hands up.ogg",length=3.164}}
+L["fucking nigger"]={{path="chatsounds/autoadd/wicopee/fucking nigger.ogg",length=1.290}}
+L["fucking whores"]={{path="chatsounds/autoadd/wicopee/fucking whores.ogg",length=1.462}}
 L["furious7ending"]={{path="chatsounds/autoadd/wicopee/furious7ending.ogg",length=12.733}}
 L["galileointrocorrupted"]={{path="chatsounds/autoadd/wicopee/galileointrocorrupted.ogg",length=3.146}}
 L["galileotheme loud"]={{path="chatsounds/autoadd/wicopee/galileotheme loud.ogg",length=3.591}}
@@ -76,7 +83,9 @@ L["igor"]={{path="chatsounds/autoadd/wicopee/igor.ogg",length=0.637}}
 L["john cena"]={{path="chatsounds/autoadd/wicopee/john cena.ogg",length=2.595}}
 L["kakoi russki ne lubit saas"]={{path="chatsounds/autoadd/wicopee/kakoi russki ne lubit saas.ogg",length=2.140}}
 L["kakoi zhe"]={{path="chatsounds/autoadd/wicopee/kakoi zhe.ogg",length=0.601}}
+L["keemstar screaming"]={{path="chatsounds/autoadd/wicopee/keemstar screaming.ogg",length=10.031}}
 L["keep on running"]={{path="chatsounds/autoadd/wicopee/keep on running.ogg",length=1.403}}
+L["kidimpersonation"]={{path="chatsounds/autoadd/wicopee/kidimpersonation/1.ogg",length=1.950},{path="chatsounds/autoadd/wicopee/kidimpersonation/2.ogg",length=1.200}}
 L["kokoko"]={{path="chatsounds/autoadd/wicopee/kokoko.ogg",length=0.380}}
 L["kuda nahuy loud"]={{path="chatsounds/autoadd/wicopee/kuda nahuy loud.ogg",length=3.385}}
 L["kupili papa i mama po butilke"]={{path="chatsounds/autoadd/wicopee/kupili papa i mama po butilke.ogg",length=1.995}}
@@ -139,7 +148,9 @@ L["spi spi"]={{path="chatsounds/autoadd/wicopee/spi spi.ogg",length=0.555}}
 L["tableknockintense"]={{path="chatsounds/autoadd/wicopee/tableknockintense.ogg",length=0.381}}
 L["tablesmack da hvatit"]={{path="chatsounds/autoadd/wicopee/tablesmack da hvatit.ogg",length=2.741}}
 L["tebe blini zdelat"]={{path="chatsounds/autoadd/wicopee/tebe blini zdelat.ogg",length=0.846}}
+L["the fuck you say to me you little shit"]={{path="chatsounds/autoadd/wicopee/the fuck you say to me you little shit.ogg",length=2.350}}
 L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.502}}
+L["this stupid fucking justice"]={{path="chatsounds/autoadd/wicopee/this stupid fucking justice.ogg",length=2.181}}
 L["ti shumish tiho blyat"]={{path="chatsounds/autoadd/wicopee/ti shumish tiho blyat.ogg",length=1.295}}
 L["triggered"]={{path="chatsounds/autoadd/wicopee/triggered.ogg",length=0.476}}
 L["u menya dlya tebya surprice"]={{path="chatsounds/autoadd/wicopee/u menya dlya tebya surprice.ogg",length=1.266}}
@@ -167,5 +178,7 @@ L["yeee"]={{path="chatsounds/autoadd/wicopee/yeee/1.ogg",length=0.356},{path="ch
 L["yeee distorted"]={{path="chatsounds/autoadd/wicopee/yeee distorted/1.ogg",length=0.596},{path="chatsounds/autoadd/wicopee/yeee distorted/2.ogg",length=0.568}}
 L["yes"]={{path="chatsounds/autoadd/wicopee/yes.ogg",length=1.063}}
 L["yesli zhenchina nachinaet prosipatsya"]={{path="chatsounds/autoadd/wicopee/yesli zhenchina nachinaet prosipatsya.ogg",length=3.117}}
+L["you fucking nigger"]={{path="chatsounds/autoadd/wicopee/you fucking nigger.ogg",length=1.644}}
+L["you fucking whores"]={{path="chatsounds/autoadd/wicopee/you fucking whores.ogg",length=2.213}}
 L["you get headaches"]={{path="chatsounds/autoadd/wicopee/you get headaches.ogg",length=1.368}}
 c.EndList()
