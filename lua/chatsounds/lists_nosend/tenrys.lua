@@ -228,6 +228,7 @@ L["things are about to get messy"]={{path="chatsounds/autoadd/tenrys/things are 
 L["this is a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is a super saiyan.ogg",length=1.910}}
 L["this is susans cooking school"]={{path="chatsounds/autoadd/tenrys/this is susans cooking school.ogg",length=1.433}}
 L["this is what is known as a super saiyan that has ascended beyond a super saiyan"]={{path="chatsounds/autoadd/tenrys/this is what is known as a super saiyan that has ascended beyond a super saiyan.ogg",length=5.101}}
+L["this isnt interesting"]={{path="chatsounds/autoadd/tenrys/this isnt interesting.ogg",length=1.378}}
 L["this isnt my sword"]={{path="chatsounds/autoadd/tenrys/this isnt my sword.ogg",length=3.097}}
 L["this thing isnt going anywhere"]={{path="chatsounds/autoadd/tenrys/this thing isnt going anywhere.ogg",length=1.638}}
 L["thot detected"]={{path="chatsounds/autoadd/tenrys/thot detected.ogg",length=2.427}}
