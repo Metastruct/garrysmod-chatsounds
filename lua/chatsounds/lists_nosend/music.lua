@@ -23,6 +23,7 @@ L["fuckbeesremastered"]={{path="chatsounds/autoadd/music/fuckbeesremastered.ogg"
 L["fuckbeessong"]={{path="chatsounds/autoadd/music/fuckbeessong.ogg",length=73.781}}
 L["hah gay remix"]={{path="chatsounds/autoadd/music/hah gay remix.ogg",length=15.929}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
+L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
 L["if youre having girl problems i feel bad for you son i got 99 problems but a bitch aint one"]={{path="chatsounds/autoadd/music/if youre having girl problems i feel bad for you son i got 99 problems but a bitch aint one.ogg",length=5.110}}
 L["interior crocodile alligator i drive a chevrolet movie theater"]={{path="chatsounds/autoadd/music/interior crocodile alligator i drive a chevrolet movie theater.ogg",length=5.371}}
 L["its a celebration"]={{path="chatsounds/autoadd/music/its a celebration.ogg",length=2.175}}
@@ -37,7 +38,9 @@ L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmort
 L["prism"]={{path="chatsounds/autoadd/music/prism.ogg",length=0.750}}
 L["prism is a dancer"]={{path="chatsounds/autoadd/music/prism is a dancer/prism is a dancer 1.ogg",length=1.682},{path="chatsounds/autoadd/music/prism is a dancer/prism is a dancer 2.ogg",length=2.118}}
 L["raymond"]={{path="chatsounds/autoadd/music/raymond.ogg",length=41.723}}
+L["raz raz raz eto khardbass"]={{path="chatsounds/autoadd/music/raz raz raz eto khardbass.ogg",length=1.667}}
 L["seinfeld"]={{path="chatsounds/autoadd/music/seinfeld.ogg",length=51.312}}
+L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardbass basy.ogg",length=1.651}}
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
 L["stop fuckin lying"]={{path="chatsounds/autoadd/music/stop fuckin lying.ogg",length=2.129}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
@@ -45,6 +48,7 @@ L["thuglife"]={{path="chatsounds/autoadd/music/thuglife.ogg",length=9.540}}
 L["tief im westen"]={{path="chatsounds/autoadd/music/tief im westen/tief im westen 1.ogg",length=1.707},{path="chatsounds/autoadd/music/tief im westen/tief im westen 2.ogg",length=3.065},{path="chatsounds/autoadd/music/tief im westen/tief im westen 3.ogg",length=2.961},{path="chatsounds/autoadd/music/tief im westen/tief im westen 4.ogg",length=1.788},{path="chatsounds/autoadd/music/tief im westen/tief im westen 5.ogg",length=3.111}}
 L["time to say good bye"]={{path="chatsounds/autoadd/music/time to say good bye.ogg",length=8.800}}
 L["triple x rated"]={{path="chatsounds/autoadd/music/triple x rated.ogg",length=3.431}}
+L["vse v sportivkakh adidas"]={{path="chatsounds/autoadd/music/vse v sportivkakh adidas.ogg",length=1.571}}
 L["wake me up inside"]={{path="chatsounds/autoadd/music/wake me up inside.ogg",length=21.982}}
 L["whatarethosejurassicpark"]={{path="chatsounds/autoadd/music/whatarethosejurassicpark.ogg",length=6.503}}
 L["why the fuck you lying"]={{path="chatsounds/autoadd/music/why the fuck you lying.ogg",length=2.396}}
