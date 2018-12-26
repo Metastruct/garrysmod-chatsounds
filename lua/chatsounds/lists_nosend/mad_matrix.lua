@@ -1,5 +1,6 @@
 c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
+L["aaaaa"]={{path="chatsounds/autoadd/mad_matrix/aaaaa.ogg",length=0.575}}
 L["aladdinsound"]={{path="chatsounds/autoadd/mad_matrix/aladdinsound.ogg",length=1.627}}
 L["and thats why we running for a third term were not who the hell said that"]={{path="chatsounds/autoadd/mad_matrix/and thats why we running for a third term were not who the hell said that.ogg",length=5.759}}
 L["and then i stuffed the crack down his ass hahahahaha"]={{path="chatsounds/autoadd/mad_matrix/and then i stuffed the crack down his ass hahahahaha.ogg",length=5.048}}
@@ -13,8 +14,10 @@ L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
+L["crack"]={{path="chatsounds/autoadd/mad_matrix/crack.ogg",length=0.238}}
 L["dead insect"]={{path="chatsounds/autoadd/mad_matrix/dead insect.ogg",length=2.298}}
 L["dont play with matches"]={{path="chatsounds/autoadd/mad_matrix/dont play with matches.ogg",length=1.831}}
+L["doorslamhard"]={{path="chatsounds/autoadd/mad_matrix/doorslamhard.ogg",length=0.834}}
 L["doorsmack loudscream"]={{path="chatsounds/autoadd/mad_matrix/doorsmack loudscream.ogg",length=2.059}}
 L["doorsounds"]={{path="chatsounds/autoadd/mad_matrix/doorsounds/1.ogg",length=0.782},{path="chatsounds/autoadd/mad_matrix/doorsounds/2.ogg",length=0.446}}
 L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.ogg",length=3.685}}
@@ -39,6 +42,8 @@ L["hes got a soos"]={{path="chatsounds/autoadd/mad_matrix/hes got a soos.ogg",le
 L["hey all you suckers out there"]={{path="chatsounds/autoadd/mad_matrix/hey all you suckers out there.ogg",length=1.232}}
 L["hold on to your lily white butts"]={{path="chatsounds/autoadd/mad_matrix/hold on to your lily white butts.ogg",length=3.376}}
 L["holy shiet"]={{path="chatsounds/autoadd/mad_matrix/holy shiet.ogg",length=0.680}}
+L["honk"]={{path="chatsounds/autoadd/mad_matrix/honk.ogg",length=0.284}}
+L["horsesound"]={{path="chatsounds/autoadd/mad_matrix/horsesound.ogg",length=0.424}}
 L["hot distorted"]={{path="chatsounds/autoadd/mad_matrix/hot distorted.ogg",length=0.941}}
 L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}
 L["huehue"]={{path="chatsounds/autoadd/mad_matrix/huehue.ogg",length=0.537}}
