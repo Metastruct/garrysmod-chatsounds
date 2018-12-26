@@ -22,6 +22,7 @@ L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041
 L["fuckbeesremastered"]={{path="chatsounds/autoadd/music/fuckbeesremastered.ogg",length=201.326}}
 L["fuckbeessong"]={{path="chatsounds/autoadd/music/fuckbeessong.ogg",length=73.781}}
 L["hah gay remix"]={{path="chatsounds/autoadd/music/hah gay remix.ogg",length=15.929}}
+L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
 L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
 L["if youre having girl problems i feel bad for you son i got 99 problems but a bitch aint one"]={{path="chatsounds/autoadd/music/if youre having girl problems i feel bad for you son i got 99 problems but a bitch aint one.ogg",length=5.110}}
