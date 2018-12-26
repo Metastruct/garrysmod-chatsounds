@@ -5,6 +5,7 @@ L["ab in den urlaub"]={{path="chatsounds/autoadd/music/ab in den urlaub.ogg",len
 L["ace of base"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
+L["bass"]={{path="chatsounds/autoadd/music/bass.ogg",length=0.408}}
 L["beat it"]={{path="chatsounds/autoadd/music/beat it.ogg",length=0.440}}
 L["beat it guitar"]={{path="chatsounds/autoadd/music/beat it guitar.ogg",length=6.277}}
 L["bochum ich haeng an dir"]={{path="chatsounds/autoadd/music/bochum ich haeng an dir.ogg",length=3.082}}
