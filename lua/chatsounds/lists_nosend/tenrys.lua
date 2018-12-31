@@ -149,7 +149,6 @@ L["not used in anger"]={{path="chatsounds/autoadd/tenrys/not used in anger.ogg",
 L["now for my next trick"]={{path="chatsounds/autoadd/tenrys/now for my next trick.ogg",length=1.682}}
 L["now now dont be shy"]={{path="chatsounds/autoadd/tenrys/now now dont be shy.ogg",length=2.170}}
 L["now this is a fight"]={{path="chatsounds/autoadd/tenrys/now this is a fight.ogg",length=1.602}}
-L["nuclearscream"]={{path="chatsounds/autoadd/tenrys/nuclearscream.ogg",length=2.727}}
 L["nuke"]={{path="chatsounds/autoadd/tenrys/nuke.ogg",length=4.078}}
 L["nuke alarm"]={{path="chatsounds/autoadd/tenrys/nuke alarm.ogg",length=11.108}}
 L["of course that would have to include you"]={{path="chatsounds/autoadd/tenrys/of course that would have to include you.ogg",length=2.607}}
@@ -202,6 +201,7 @@ L["seymour the house is on fire"]={{path="chatsounds/autoadd/tenrys/seymour the 
 L["shit"]={{path="chatsounds/autoadd/tenrys/shit.ogg",length=0.798}}
 L["show me a good time jack"]={{path="chatsounds/autoadd/tenrys/show me a good time jack.ogg",length=1.434}}
 L["slippery little bastard"]={{path="chatsounds/autoadd/tenrys/slippery little bastard.ogg",length=1.540}}
+L["snakescream"]={{path="chatsounds/autoadd/tenrys/snakescream/1.ogg",length=2.727},{path="chatsounds/autoadd/tenrys/snakescream/2.ogg",length=2.974},{path="chatsounds/autoadd/tenrys/snakescream/3.ogg",length=2.265}}
 L["so much potential"]={{path="chatsounds/autoadd/tenrys/so much potential.ogg",length=1.638}}
 L["soi soi soi"]={{path="chatsounds/autoadd/tenrys/soi soi soi.ogg",length=1.192}}
 L["somebody"]={{path="chatsounds/autoadd/tenrys/somebody.ogg",length=0.882}}
