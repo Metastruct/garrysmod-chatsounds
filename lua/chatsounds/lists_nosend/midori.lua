@@ -1,6 +1,7 @@
 c.StartList("midori")
 L["balloon fellatio"]={{path="chatsounds/autoadd/midori/balloon fellatio.ogg",length=2.508}}
 L["banana screech"]={{path="chatsounds/autoadd/midori/banana screech.ogg",length=1.695}}
+L["buzz lightyear commercial"]={{path="chatsounds/autoadd/midori/buzz lightyear commercial.ogg",length=51.769}}
 L["daddy"]={{path="chatsounds/autoadd/midori/daddy.ogg",length=0.708}}
 L["demented clown horn"]={{path="chatsounds/autoadd/midori/demented clown horn/1.ogg",length=1.347},{path="chatsounds/autoadd/midori/demented clown horn/2.ogg",length=0.998}}
 L["do i look pretty for you"]={{path="chatsounds/autoadd/midori/do i look pretty for you.ogg",length=2.171}}
