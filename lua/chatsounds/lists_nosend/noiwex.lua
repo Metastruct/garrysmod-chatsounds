@@ -77,8 +77,6 @@ L["pweehahaha"]={{path="chatsounds/autoadd/noiwex/pweehahaha.ogg",length=1.222}}
 L["radio mayak"]={{path="chatsounds/autoadd/noiwex/radio mayak.ogg",length=8.011}}
 L["rar"]={{path="chatsounds/autoadd/noiwex/rar.ogg",length=0.459}}
 L["rar sos"]={{path="chatsounds/autoadd/noiwex/rar sos.ogg",length=0.864}}
-L["rarr"]={{path="chatsounds/autoadd/noiwex/rarr.ogg",length=0.459}}
-L["rawr"]={{path="chatsounds/autoadd/noiwex/rawr.ogg",length=0.459}}
 L["real power"]={{path="chatsounds/autoadd/noiwex/real power.ogg",length=23.130}}
 L["remember no russian"]={{path="chatsounds/autoadd/noiwex/remember no russian.ogg",length=1.741}}
 L["saas"]={{path="chatsounds/autoadd/noiwex/saas.ogg",length=0.354}}
