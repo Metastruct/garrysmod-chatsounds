@@ -1,4 +1,5 @@
 c.StartList("midori")
+L["arabic nokia ringtone"]={{path="chatsounds/autoadd/midori/arabic nokia ringtone.ogg",length=23.719}}
 L["balloon fellatio"]={{path="chatsounds/autoadd/midori/balloon fellatio.ogg",length=2.508}}
 L["banana screech"]={{path="chatsounds/autoadd/midori/banana screech.ogg",length=1.695}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/midori/buzz lightyear commercial.ogg",length=51.769}}
