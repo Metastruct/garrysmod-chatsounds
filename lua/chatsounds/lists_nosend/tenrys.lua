@@ -28,6 +28,9 @@ L["bravo oooh bravo"]={{path="chatsounds/autoadd/tenrys/bravo oooh bravo.ogg",le
 L["bruh"]={{path="chatsounds/autoadd/tenrys/bruh.ogg",length=0.497}}
 L["bullshit"]={{path="chatsounds/autoadd/tenrys/bullshit.ogg",length=0.752}}
 L["but now now im not so sure"]={{path="chatsounds/autoadd/tenrys/but now now im not so sure.ogg",length=3.911}}
+L["casino pling"]={{path="chatsounds/autoadd/tenrys/casino pling.ogg",length=0.527}}
+L["casino pull"]={{path="chatsounds/autoadd/tenrys/casino pull.ogg",length=1.282}}
+L["casino slot load"]={{path="chatsounds/autoadd/tenrys/casino slot load.ogg",length=1.265}}
 L["com"]={{path="chatsounds/autoadd/tenrys/com.ogg",length=0.439}}
 L["come on"]={{path="chatsounds/autoadd/tenrys/come on.ogg",length=1.085}}
 L["cough hard"]={{path="chatsounds/autoadd/tenrys/cough hard.ogg",length=4.930}}
