@@ -14,6 +14,7 @@ L["but my hope will never die"]={{path="chatsounds/autoadd/music/but my hope wil
 L["celebrate"]={{path="chatsounds/autoadd/music/celebrate/celebrate1.ogg",length=4.238},{path="chatsounds/autoadd/music/celebrate/celebrate2.ogg",length=4.001}}
 L["cheekibreekiradio"]={{path="chatsounds/autoadd/music/cheekibreekiradio.ogg",length=65.176}}
 L["crank that"]={{path="chatsounds/autoadd/music/crank that.ogg",length=13.379}}
+L["crazy"]={{path="chatsounds/autoadd/music/crazy.ogg",length=1.542}}
 L["decap attack theme"]={{path="chatsounds/autoadd/music/decap attack theme.ogg",length=3.210}}
 L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.150}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/music/dontloseyourway.ogg",length=35.900}}
