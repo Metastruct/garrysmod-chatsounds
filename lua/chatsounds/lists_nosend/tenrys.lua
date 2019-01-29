@@ -88,6 +88,7 @@ L["heyooo"]={{path="chatsounds/autoadd/tenrys/heyooo.ogg",length=0.861}}
 L["hmhm your technique lacks something"]={{path="chatsounds/autoadd/tenrys/hmhm your technique lacks something.ogg",length=3.650}}
 L["holy shit"]={{path="chatsounds/autoadd/tenrys/holy shit.ogg",length=2.171}}
 L["how about full of shit"]={{path="chatsounds/autoadd/tenrys/how about full of shit.ogg",length=1.505}}
+L["huh"]={{path="chatsounds/autoadd/tenrys/huh.ogg",length=0.705}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.952}}
 L["i do not associate with niggers"]={{path="chatsounds/autoadd/tenrys/i do not associate with niggers.ogg",length=3.666}}
 L["i dont have time for this"]={{path="chatsounds/autoadd/tenrys/i dont have time for this.ogg",length=1.715}}
