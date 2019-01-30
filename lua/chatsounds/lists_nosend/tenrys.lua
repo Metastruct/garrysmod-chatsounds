@@ -260,6 +260,7 @@ L["well seymour i made it"]={{path="chatsounds/autoadd/tenrys/well seymour i mad
 L["well seymour you are an odd fellow but i must say"]={{path="chatsounds/autoadd/tenrys/well seymour you are an odd fellow but i must say.ogg",length=3.183}}
 L["were done here"]={{path="chatsounds/autoadd/tenrys/were done here.ogg",length=1.178}}
 L["what"]={{path="chatsounds/autoadd/tenrys/what/1.ogg",length=0.665},{path="chatsounds/autoadd/tenrys/what/2.ogg",length=0.359}}
+L["what a load of bullshit"]={{path="chatsounds/autoadd/tenrys/what a load of bullshit.ogg",length=1.628}}
 L["what did i just say"]={{path="chatsounds/autoadd/tenrys/what did i just say.ogg",length=1.662}}
 L["what did you say nigga"]={{path="chatsounds/autoadd/tenrys/what did you say nigga.ogg",length=1.707}}
 L["what the hell are you"]={{path="chatsounds/autoadd/tenrys/what the hell are you.ogg",length=1.745}}
