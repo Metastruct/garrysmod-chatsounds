@@ -9,6 +9,7 @@ L["and we can count on fox news to terrify old white people with some nonsense"]
 L["and why am i required to come to it"]={{path="chatsounds/autoadd/mad_matrix/and why am i required to come to it.ogg",length=2.345}}
 L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
 L["babycry"]={{path="chatsounds/autoadd/mad_matrix/babycry.ogg",length=1.233}}
+L["be one with yuri"]={{path="chatsounds/autoadd/mad_matrix/be one with yuri.ogg",length=4.468}}
 L["begone thot"]={{path="chatsounds/autoadd/mad_matrix/begone thot.ogg",length=2.793}}
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
@@ -16,6 +17,7 @@ L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["crack"]={{path="chatsounds/autoadd/mad_matrix/crack.ogg",length=0.238}}
 L["dead insect"]={{path="chatsounds/autoadd/mad_matrix/dead insect.ogg",length=2.298}}
+L["deathsound"]={{path="chatsounds/autoadd/mad_matrix/deathsound/1.ogg",length=0.624},{path="chatsounds/autoadd/mad_matrix/deathsound/2.ogg",length=0.725},{path="chatsounds/autoadd/mad_matrix/deathsound/3.ogg",length=0.428},{path="chatsounds/autoadd/mad_matrix/deathsound/4.ogg",length=0.864},{path="chatsounds/autoadd/mad_matrix/deathsound/5.ogg",length=0.436}}
 L["dont play with matches"]={{path="chatsounds/autoadd/mad_matrix/dont play with matches.ogg",length=1.831}}
 L["doorslamhard"]={{path="chatsounds/autoadd/mad_matrix/doorslamhard.ogg",length=0.834}}
 L["doorsmack loudscream"]={{path="chatsounds/autoadd/mad_matrix/doorsmack loudscream.ogg",length=2.059}}
@@ -33,13 +35,16 @@ L["fasttalk"]={{path="chatsounds/autoadd/mad_matrix/fasttalk.ogg",length=7.464}}
 L["for two whole weeks we were one step away from the walking dead"]={{path="chatsounds/autoadd/mad_matrix/for two whole weeks we were one step away from the walking dead.ogg",length=4.060}}
 L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
+L["goodie"]={{path="chatsounds/autoadd/mad_matrix/goodie.ogg",length=0.782}}
 L["gotcha"]={{path="chatsounds/autoadd/mad_matrix/gotcha.ogg",length=0.401}}
+L["haaa hoho"]={{path="chatsounds/autoadd/mad_matrix/haaa hoho.ogg",length=2.189}}
 L["happy birthday"]={{path="chatsounds/autoadd/mad_matrix/happy birthday.ogg",length=1.760}}
 L["hashtag craefulgang"]={{path="chatsounds/autoadd/mad_matrix/hashtag craefulgang.ogg",length=1.883}}
 L["hehehehe"]={{path="chatsounds/autoadd/mad_matrix/hehehehe.ogg",length=0.940}}
 L["here hold this"]={{path="chatsounds/autoadd/mad_matrix/here hold this.ogg",length=1.429}}
 L["hes got a soos"]={{path="chatsounds/autoadd/mad_matrix/hes got a soos.ogg",length=1.082}}
 L["hey all you suckers out there"]={{path="chatsounds/autoadd/mad_matrix/hey all you suckers out there.ogg",length=1.232}}
+L["hi distorted"]={{path="chatsounds/autoadd/mad_matrix/hi distorted.ogg",length=0.556}}
 L["hold on to your lily white butts"]={{path="chatsounds/autoadd/mad_matrix/hold on to your lily white butts.ogg",length=3.376}}
 L["holy shiet"]={{path="chatsounds/autoadd/mad_matrix/holy shiet.ogg",length=0.680}}
 L["honk"]={{path="chatsounds/autoadd/mad_matrix/honk.ogg",length=0.284}}
@@ -91,6 +96,7 @@ L["oh and by the way just if you havent noticed"]={{path="chatsounds/autoadd/mad
 L["oh and cnn thank you so much for the wall to wall ebola coverage"]={{path="chatsounds/autoadd/mad_matrix/oh and cnn thank you so much for the wall to wall ebola coverage.ogg",length=4.641}}
 L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/autoadd/mad_matrix/oh dont mind that its just my nephew hes very disturbed.ogg",length=3.486}}
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
+L["oh what the hell"]={{path="chatsounds/autoadd/mad_matrix/oh what the hell.ogg",length=0.861}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/mad_matrix/omae wa mo shindeiru.ogg",length=2.298}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["oohh yees"]={{path="chatsounds/autoadd/mad_matrix/oohh yees.ogg",length=1.473}}
@@ -98,6 +104,7 @@ L["people see him hes hes aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/people 
 L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length=9.979}}
 L["preduprizhdau u menya samij krupnij cock"]={{path="chatsounds/autoadd/mad_matrix/preduprizhdau u menya samij krupnij cock.ogg",length=2.498}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
+L["ready to crash"]={{path="chatsounds/autoadd/mad_matrix/ready to crash.ogg",length=1.610}}
 L["remember that"]={{path="chatsounds/autoadd/mad_matrix/remember that.ogg",length=0.684}}
 L["responsibilityyy"]={{path="chatsounds/autoadd/mad_matrix/responsibilityyy.ogg",length=1.346}}
 L["rule number one i cant kill anybody ayayayaya"]={{path="chatsounds/autoadd/mad_matrix/rule number one i cant kill anybody ayayayaya.ogg",length=3.882}}
@@ -115,6 +122,7 @@ L["somebody toucha my spaghet distorted"]={{path="chatsounds/autoadd/mad_matrix/
 L["strangenoises"]={{path="chatsounds/autoadd/mad_matrix/strangenoises.ogg",length=3.776}}
 L["tell me that theres a baseball in this thing"]={{path="chatsounds/autoadd/mad_matrix/tell me that theres a baseball in this thing.ogg",length=1.912}}
 L["that was awesome"]={{path="chatsounds/autoadd/mad_matrix/that was awesome.ogg",length=0.932}}
+L["thats a damn pig"]={{path="chatsounds/autoadd/mad_matrix/thats a damn pig.ogg",length=1.003}}
 L["theres nnno bbbaseballallall will willwill"]={{path="chatsounds/autoadd/mad_matrix/theres nnno bbbaseballallall will willwill.ogg",length=2.618}}
 L["ti nekogda ne verneshsya v ety poganuju shkolu"]={{path="chatsounds/autoadd/mad_matrix/ti nekogda ne verneshsya v ety poganuju shkolu.ogg",length=2.432}}
 L["ti ubil djavola"]={{path="chatsounds/autoadd/mad_matrix/ti ubil djavola.ogg",length=0.975}}
@@ -139,6 +147,7 @@ L["yah"]={{path="chatsounds/autoadd/mad_matrix/yah.ogg",length=0.654}}
 L["yall its ridiculous"]={{path="chatsounds/autoadd/mad_matrix/yall its ridiculous.ogg",length=1.139}}
 L["yall remember when i had that big old hole in the bottom of the gulf of mexico and then i plugged it"]={{path="chatsounds/autoadd/mad_matrix/yall remember when i had that big old hole in the bottom of the gulf of mexico and then i plugged it.ogg",length=4.772}}
 L["yeah whats that"]={{path="chatsounds/autoadd/mad_matrix/yeah whats that.ogg",length=1.754}}
+L["yeeeeeeee"]={{path="chatsounds/autoadd/mad_matrix/yeeeeeeee/1.ogg",length=1.555},{path="chatsounds/autoadd/mad_matrix/yeeeeeeee/2.ogg",length=2.364}}
 L["you dont have ebola"]={{path="chatsounds/autoadd/mad_matrix/you dont have ebola.ogg",length=1.542}}
 L["you idiots weve all got sos"]={{path="chatsounds/autoadd/mad_matrix/you idiots weve all got sos.ogg",length=3.705}}
 L["you just punched my japanese golfer"]={{path="chatsounds/autoadd/mad_matrix/you just punched my japanese golfer.ogg",length=1.747}}

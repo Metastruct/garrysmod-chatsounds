@@ -117,6 +117,7 @@ L["medicdeathloud"]={{path="chatsounds/autoadd/tf2extra/medicdeathloud.ogg",leng
 L["medicgibberish"]={{path="chatsounds/autoadd/tf2extra/medicgibberish/1.ogg",length=1.718},{path="chatsounds/autoadd/tf2extra/medicgibberish/2.ogg",length=8.739},{path="chatsounds/autoadd/tf2extra/medicgibberish/3.ogg",length=1.402}}
 L["medicinsanelaughter"]={{path="chatsounds/autoadd/tf2extra/medicinsanelaughter/1.ogg",length=3.383},{path="chatsounds/autoadd/tf2extra/medicinsanelaughter/2.ogg",length=3.984}}
 L["medicmadlaugh"]={{path="chatsounds/autoadd/tf2extra/medicmadlaugh.ogg",length=11.018}}
+L["meeeeeeeee"]={{path="chatsounds/autoadd/tf2extra/meeeeeeeee.ogg",length=1.904}}
 L["meem"]={{path="chatsounds/autoadd/tf2extra/meem/meem01.ogg",length=0.446},{path="chatsounds/autoadd/tf2extra/meem/meem02.ogg",length=0.367},{path="chatsounds/autoadd/tf2extra/meem/meem03.ogg",length=0.921},{path="chatsounds/autoadd/tf2extra/meem/meem04.ogg",length=0.779},{path="chatsounds/autoadd/tf2extra/meem/meem05.ogg",length=0.582},{path="chatsounds/autoadd/tf2extra/meem/meem06.ogg",length=0.518},{path="chatsounds/autoadd/tf2extra/meem/meem07.ogg",length=0.779},{path="chatsounds/autoadd/tf2extra/meem/meem08.ogg",length=0.361},{path="chatsounds/autoadd/tf2extra/meem/meem09.ogg",length=0.361}}
 L["meme"]={{path="chatsounds/autoadd/tf2extra/meme.ogg",length=0.349}}
 L["mine"]={{path="chatsounds/autoadd/tf2extra/mine.ogg",length=0.428}}
