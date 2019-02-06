@@ -16,6 +16,7 @@ L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_m
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["crack"]={{path="chatsounds/autoadd/mad_matrix/crack.ogg",length=0.238}}
+L["daaaad staaaaaaaaaahp"]={{path="chatsounds/autoadd/mad_matrix/daaaad staaaaaaaaaahp.ogg",length=7.600}}
 L["dead insect"]={{path="chatsounds/autoadd/mad_matrix/dead insect.ogg",length=2.298}}
 L["deathsound"]={{path="chatsounds/autoadd/mad_matrix/deathsound/1.ogg",length=0.624},{path="chatsounds/autoadd/mad_matrix/deathsound/2.ogg",length=0.725},{path="chatsounds/autoadd/mad_matrix/deathsound/3.ogg",length=0.428},{path="chatsounds/autoadd/mad_matrix/deathsound/4.ogg",length=0.864},{path="chatsounds/autoadd/mad_matrix/deathsound/5.ogg",length=0.436}}
 L["dont play with matches"]={{path="chatsounds/autoadd/mad_matrix/dont play with matches.ogg",length=1.831}}
@@ -110,6 +111,7 @@ L["responsibilityyy"]={{path="chatsounds/autoadd/mad_matrix/responsibilityyy.ogg
 L["rule number one i cant kill anybody ayayayaya"]={{path="chatsounds/autoadd/mad_matrix/rule number one i cant kill anybody ayayayaya.ogg",length=3.882}}
 L["rule number three i cant make anybody fall in love with the dead"]={{path="chatsounds/autoadd/mad_matrix/rule number three i cant make anybody fall in love with the dead.ogg",length=4.124}}
 L["rule number two i cant kill anybody else aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/rule number two i cant kill anybody else aaaaaa.ogg",length=3.132}}
+L["scientistnoise"]={{path="chatsounds/autoadd/mad_matrix/scientistnoise.ogg",length=0.365}}
 L["scream"]={{path="chatsounds/autoadd/mad_matrix/scream/1.ogg",length=1.094},{path="chatsounds/autoadd/mad_matrix/scream/2.ogg",length=0.763}}
 L["sharia law is coming to cleveland run for the damn hills"]={{path="chatsounds/autoadd/mad_matrix/sharia law is coming to cleveland run for the damn hills.ogg",length=3.390}}
 L["she gonna get all the money"]={{path="chatsounds/autoadd/mad_matrix/she gonna get all the money.ogg",length=2.303}}
