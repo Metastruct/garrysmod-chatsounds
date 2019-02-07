@@ -36,6 +36,8 @@ L["fasttalk"]={{path="chatsounds/autoadd/mad_matrix/fasttalk.ogg",length=7.464}}
 L["for two whole weeks we were one step away from the walking dead"]={{path="chatsounds/autoadd/mad_matrix/for two whole weeks we were one step away from the walking dead.ogg",length=4.060}}
 L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
+L["gatelower"]={{path="chatsounds/autoadd/mad_matrix/gatelower.ogg",length=1.301}}
+L["gateraise"]={{path="chatsounds/autoadd/mad_matrix/gateraise.ogg",length=1.141}}
 L["goodie"]={{path="chatsounds/autoadd/mad_matrix/goodie.ogg",length=0.782}}
 L["gotcha"]={{path="chatsounds/autoadd/mad_matrix/gotcha.ogg",length=0.401}}
 L["haaa hoho"]={{path="chatsounds/autoadd/mad_matrix/haaa hoho.ogg",length=2.189}}
@@ -112,6 +114,7 @@ L["rule number one i cant kill anybody ayayayaya"]={{path="chatsounds/autoadd/ma
 L["rule number three i cant make anybody fall in love with the dead"]={{path="chatsounds/autoadd/mad_matrix/rule number three i cant make anybody fall in love with the dead.ogg",length=4.124}}
 L["rule number two i cant kill anybody else aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/rule number two i cant kill anybody else aaaaaa.ogg",length=3.132}}
 L["scientistnoise"]={{path="chatsounds/autoadd/mad_matrix/scientistnoise.ogg",length=0.365}}
+L["scottishargument"]={{path="chatsounds/autoadd/mad_matrix/scottishargument.ogg",length=26.710}}
 L["scream"]={{path="chatsounds/autoadd/mad_matrix/scream/1.ogg",length=1.094},{path="chatsounds/autoadd/mad_matrix/scream/2.ogg",length=0.763}}
 L["sharia law is coming to cleveland run for the damn hills"]={{path="chatsounds/autoadd/mad_matrix/sharia law is coming to cleveland run for the damn hills.ogg",length=3.390}}
 L["she gonna get all the money"]={{path="chatsounds/autoadd/mad_matrix/she gonna get all the money.ogg",length=2.303}}
