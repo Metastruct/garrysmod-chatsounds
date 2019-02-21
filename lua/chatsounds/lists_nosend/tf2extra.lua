@@ -104,6 +104,7 @@ L["it costs four hundred thousand dollars"]={{path="chatsounds/autoadd/tf2extra/
 L["it costs four hundred thousand dollars to fire this weapon for twelve seconds"]={{path="chatsounds/autoadd/tf2extra/it costs four hundred thousand dollars to fire this weapon for twelve seconds.ogg",length=6.451}}
 L["it is so tiny"]={{path="chatsounds/autoadd/tf2extra/it is so tiny.ogg",length=1.451}}
 L["it scares me"]={{path="chatsounds/autoadd/tf2extra/it scares me.ogg",length=1.312}}
+L["itty bitty teeny hey pootis"]={{path="chatsounds/autoadd/tf2extra/itty bitty teeny hey pootis.ogg",length=3.222}}
 L["ive yet to meet one that can outsmart bullet"]={{path="chatsounds/autoadd/tf2extra/ive yet to meet one that can outsmart bullet.ogg",length=3.274}}
 L["kaboom distorted"]={{path="chatsounds/autoadd/tf2extra/kaboom distorted.ogg",length=15.479}}
 L["kill me"]={{path="chatsounds/autoadd/tf2extra/kill me/kill me.ogg",length=0.400},{path="chatsounds/autoadd/tf2extra/kill me/kill me2.ogg",length=0.804},{path="chatsounds/autoadd/tf2extra/kill me/kill me3.ogg",length=0.929},{path="chatsounds/autoadd/tf2extra/kill me/kill me4.ogg",length=0.958}}

@@ -56,6 +56,7 @@ L["hot distorted"]={{path="chatsounds/autoadd/mad_matrix/hot distorted.ogg",leng
 L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}
 L["huehue"]={{path="chatsounds/autoadd/mad_matrix/huehue.ogg",length=0.537}}
 L["huh huh huh huh huh we was robbed"]={{path="chatsounds/autoadd/mad_matrix/huh huh huh huh huh we was robbed.ogg",length=2.815}}
+L["i dont want that"]={{path="chatsounds/autoadd/mad_matrix/i dont want that.ogg",length=2.575}}
 L["i just wasted six million dollars"]={{path="chatsounds/autoadd/mad_matrix/i just wasted six million dollars.ogg",length=1.909}}
 L["i lost the bomb do you have it"]={{path="chatsounds/autoadd/mad_matrix/i lost the bomb do you have it.ogg",length=2.564}}
 L["i mean really"]={{path="chatsounds/autoadd/mad_matrix/i mean really.ogg",length=1.037}}
@@ -90,6 +91,7 @@ L["niet distorted"]={{path="chatsounds/autoadd/mad_matrix/niet distorted.ogg",le
 L["nikogda"]={{path="chatsounds/autoadd/mad_matrix/nikogda.ogg",length=0.676}}
 L["nikogda distorted"]={{path="chatsounds/autoadd/mad_matrix/nikogda distorted.ogg",length=5.113}}
 L["nikogda ne budesh sosat cock svoih potlanih druzej"]={{path="chatsounds/autoadd/mad_matrix/nikogda ne budesh sosat cock svoih potlanih druzej.ogg",length=3.577}}
+L["nothing gained nothing ventured"]={{path="chatsounds/autoadd/mad_matrix/nothing gained nothing ventured.ogg",length=3.284}}
 L["nothing is working distorted"]={{path="chatsounds/autoadd/mad_matrix/nothing is working distorted.ogg",length=1.797}}
 L["nu kak tam v egypte distorted"]={{path="chatsounds/autoadd/mad_matrix/nu kak tam v egypte distorted.ogg",length=0.967}}
 L["o"]={{path="chatsounds/autoadd/mad_matrix/o.ogg",length=0.136}}
@@ -98,6 +100,7 @@ L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
 L["oh and by the way just if you havent noticed"]={{path="chatsounds/autoadd/mad_matrix/oh and by the way just if you havent noticed.ogg",length=2.695}}
 L["oh and cnn thank you so much for the wall to wall ebola coverage"]={{path="chatsounds/autoadd/mad_matrix/oh and cnn thank you so much for the wall to wall ebola coverage.ogg",length=4.641}}
 L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/autoadd/mad_matrix/oh dont mind that its just my nephew hes very disturbed.ogg",length=3.486}}
+L["oh its good i can go where ive already been laughter"]={{path="chatsounds/autoadd/mad_matrix/oh its good i can go where ive already been laughter.ogg",length=6.247}}
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
 L["oh what the hell"]={{path="chatsounds/autoadd/mad_matrix/oh what the hell.ogg",length=0.861}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/mad_matrix/omae wa mo shindeiru.ogg",length=2.298}}
@@ -105,6 +108,8 @@ L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1
 L["oohh yees"]={{path="chatsounds/autoadd/mad_matrix/oohh yees.ogg",length=1.473}}
 L["people see him hes hes aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/people see him hes hes aaaaaa.ogg",length=1.966}}
 L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length=9.979}}
+L["poweroff"]={{path="chatsounds/autoadd/mad_matrix/poweroff.ogg",length=2.169}}
+L["poweron"]={{path="chatsounds/autoadd/mad_matrix/poweron.ogg",length=2.234}}
 L["preduprizhdau u menya samij krupnij cock"]={{path="chatsounds/autoadd/mad_matrix/preduprizhdau u menya samij krupnij cock.ogg",length=2.498}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
 L["ready to crash"]={{path="chatsounds/autoadd/mad_matrix/ready to crash.ogg",length=1.610}}
