@@ -159,8 +159,8 @@ L["unnamed"]={{path="chatsounds/autoadd/wicopee/unnamed.ogg",length=2.885}}
 L["vam vsem pizdets"]={{path="chatsounds/autoadd/wicopee/vam vsem pizdets.ogg",length=3.103}}
 L["vam vsem pizdets distorted"]={{path="chatsounds/autoadd/wicopee/vam vsem pizdets distorted.ogg",length=4.938}}
 L["vse yasno"]={{path="chatsounds/autoadd/wicopee/vse yasno.ogg",length=0.926}}
-L["we are fucking neighbours"]={{path="chatsounds/autoadd/wicopee/we are fucking neighbours.ogg",length=1.871}}
 L["we can certainly express our anger if we handle our anger assertivley"]={{path="chatsounds/autoadd/wicopee/we can certainly express our anger if we handle our anger assertivley.ogg",length=5.973}}
+L["we have fucking neighbours"]={{path="chatsounds/autoadd/wicopee/we have fucking neighbours.ogg",length=1.871}}
 L["welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video"]={{path="chatsounds/autoadd/wicopee/welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video.ogg",length=6.388}}
 L["what the fuck is that in the corner"]={{path="chatsounds/autoadd/wicopee/what the fuck is that in the corner.ogg",length=1.965}}
 L["who can say where the road goes"]={{path="chatsounds/autoadd/wicopee/who can say where the road goes.ogg",length=4.814}}
