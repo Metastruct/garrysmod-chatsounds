@@ -19,6 +19,7 @@ L["crack"]={{path="chatsounds/autoadd/mad_matrix/crack.ogg",length=0.238}}
 L["daaaad staaaaaaaaaahp"]={{path="chatsounds/autoadd/mad_matrix/daaaad staaaaaaaaaahp.ogg",length=7.600}}
 L["dead insect"]={{path="chatsounds/autoadd/mad_matrix/dead insect.ogg",length=2.298}}
 L["deathsound"]={{path="chatsounds/autoadd/mad_matrix/deathsound/1.ogg",length=0.624},{path="chatsounds/autoadd/mad_matrix/deathsound/2.ogg",length=0.725},{path="chatsounds/autoadd/mad_matrix/deathsound/3.ogg",length=0.428},{path="chatsounds/autoadd/mad_matrix/deathsound/4.ogg",length=0.864},{path="chatsounds/autoadd/mad_matrix/deathsound/5.ogg",length=0.436}}
+L["did someone ask for an egg"]={{path="chatsounds/autoadd/mad_matrix/did someone ask for an egg/1.ogg",length=2.130},{path="chatsounds/autoadd/mad_matrix/did someone ask for an egg/2.ogg",length=2.576}}
 L["dont play with matches"]={{path="chatsounds/autoadd/mad_matrix/dont play with matches.ogg",length=1.831}}
 L["doorslamhard"]={{path="chatsounds/autoadd/mad_matrix/doorslamhard.ogg",length=0.834}}
 L["doorsmack loudscream"]={{path="chatsounds/autoadd/mad_matrix/doorsmack loudscream.ogg",length=2.059}}
@@ -27,6 +28,7 @@ L["double soos power"]={{path="chatsounds/autoadd/mad_matrix/double soos power.o
 L["dude guy going on especially after spending five years in your pen"]={{path="chatsounds/autoadd/mad_matrix/dude guy going on especially after spending five years in your pen.ogg",length=3.163}}
 L["ebanyj v tvoj rot blyat"]={{path="chatsounds/autoadd/mad_matrix/ebanyj v tvoj rot blyat.ogg",length=2.044}}
 L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
+L["egg"]={{path="chatsounds/autoadd/mad_matrix/egg.ogg",length=0.816}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
 L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough of the emails distorted.ogg",length=1.652}}
 L["eto boobs"]={{path="chatsounds/autoadd/mad_matrix/eto boobs.ogg",length=0.887}}
