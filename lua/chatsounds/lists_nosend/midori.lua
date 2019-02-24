@@ -27,6 +27,7 @@ L["give me the cheeese"]={{path="chatsounds/autoadd/midori/give me the cheeese.o
 L["give me the cheese"]={{path="chatsounds/autoadd/midori/give me the cheese.ogg",length=3.208}}
 L["give me the cigarettes"]={{path="chatsounds/autoadd/midori/give me the cigarettes.ogg",length=4.079}}
 L["give me the water"]={{path="chatsounds/autoadd/midori/give me the water.ogg",length=6.614}}
+L["go kill yourself go sit in the middle of the road and let a car run over you"]={{path="chatsounds/autoadd/midori/go kill yourself go sit in the middle of the road and let a car run over you.ogg",length=4.490}}
 L["grab"]={{path="chatsounds/autoadd/midori/grab/1.ogg",length=0.391},{path="chatsounds/autoadd/midori/grab/2.ogg",length=0.500}}
 L["hawk scream"]={{path="chatsounds/autoadd/midori/hawk scream.ogg",length=1.938}}
 L["hey daddy"]={{path="chatsounds/autoadd/midori/hey daddy.ogg",length=1.347}}
@@ -45,11 +46,13 @@ L["mama"]={{path="chatsounds/autoadd/midori/mama.ogg",length=0.439}}
 L["mlg xfiles"]={{path="chatsounds/autoadd/midori/mlg xfiles.ogg",length=38.582}}
 L["monkey"]={{path="chatsounds/autoadd/midori/monkey/1.ogg",length=1.000},{path="chatsounds/autoadd/midori/monkey/2.ogg",length=0.500},{path="chatsounds/autoadd/midori/monkey/3.ogg",length=0.513}}
 L["no i dont want that"]={{path="chatsounds/autoadd/midori/no i dont want that.ogg",length=2.541}}
+L["nomoreiloveyous"]={{path="chatsounds/autoadd/midori/nomoreiloveyous.ogg",length=23.429}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/midori/oh these are pretty cool bananas.ogg",length=1.820}}
 L["orangutan"]={{path="chatsounds/autoadd/midori/orangutan/1.ogg",length=0.750},{path="chatsounds/autoadd/midori/orangutan/2.ogg",length=0.969},{path="chatsounds/autoadd/midori/orangutan/3.ogg",length=1.625}}
 L["pop up"]={{path="chatsounds/autoadd/midori/pop up/1.ogg",length=0.500},{path="chatsounds/autoadd/midori/pop up/2.ogg",length=0.563},{path="chatsounds/autoadd/midori/pop up/3.ogg",length=1.750}}
 L["pumping balloon"]={{path="chatsounds/autoadd/midori/pumping balloon.ogg",length=5.979}}
 L["rip"]={{path="chatsounds/autoadd/midori/rip.ogg",length=0.500}}
+L["shut the hell up bitch"]={{path="chatsounds/autoadd/midori/shut the hell up bitch.ogg",length=2.336}}
 L["slide"]={{path="chatsounds/autoadd/midori/slide.ogg",length=2.000}}
 L["that was terrible"]={{path="chatsounds/autoadd/midori/that was terrible.ogg",length=2.029}}
 L["that wasnt bad"]={{path="chatsounds/autoadd/midori/that wasnt bad.ogg",length=2.871}}
@@ -58,4 +61,6 @@ L["where have you been"]={{path="chatsounds/autoadd/midori/where have you been.o
 L["yeah"]={{path="chatsounds/autoadd/midori/yeah.ogg",length=0.813}}
 L["yodel"]={{path="chatsounds/autoadd/midori/yodel.ogg",length=2.000}}
 L["you know what they say about big feet right"]={{path="chatsounds/autoadd/midori/you know what they say about big feet right.ogg",length=3.274}}
+L["youre an alcoholic"]={{path="chatsounds/autoadd/midori/youre an alcoholic.ogg",length=1.597}}
+L["youre ugly youre disgusting im gonna kill you"]={{path="chatsounds/autoadd/midori/youre ugly youre disgusting im gonna kill you.ogg",length=2.966}}
 c.EndList()
