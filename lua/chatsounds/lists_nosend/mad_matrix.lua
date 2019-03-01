@@ -18,7 +18,7 @@ L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks co
 L["crack"]={{path="chatsounds/autoadd/mad_matrix/crack.ogg",length=0.238}}
 L["daaaad staaaaaaaaaahp"]={{path="chatsounds/autoadd/mad_matrix/daaaad staaaaaaaaaahp.ogg",length=7.600}}
 L["dead insect"]={{path="chatsounds/autoadd/mad_matrix/dead insect.ogg",length=2.298}}
-L["deathsound"]={{path="chatsounds/autoadd/mad_matrix/deathsound/1.ogg",length=0.624},{path="chatsounds/autoadd/mad_matrix/deathsound/2.ogg",length=0.725},{path="chatsounds/autoadd/mad_matrix/deathsound/3.ogg",length=0.428},{path="chatsounds/autoadd/mad_matrix/deathsound/4.ogg",length=0.864},{path="chatsounds/autoadd/mad_matrix/deathsound/5.ogg",length=0.436}}
+L["deathsound"]={{path="chatsounds/autoadd/mad_matrix/deathsound/1.ogg",length=0.624},{path="chatsounds/autoadd/mad_matrix/deathsound/2.ogg",length=0.725},{path="chatsounds/autoadd/mad_matrix/deathsound/3.ogg",length=0.428},{path="chatsounds/autoadd/mad_matrix/deathsound/4.ogg",length=0.864},{path="chatsounds/autoadd/mad_matrix/deathsound/5.ogg",length=0.436},{path="chatsounds/autoadd/mad_matrix/deathsound/6.ogg",length=0.914},{path="chatsounds/autoadd/mad_matrix/deathsound/7.ogg",length=0.891},{path="chatsounds/autoadd/mad_matrix/deathsound/8.ogg",length=0.450},{path="chatsounds/autoadd/mad_matrix/deathsound/9.ogg",length=0.405}}
 L["did someone ask for an egg"]={{path="chatsounds/autoadd/mad_matrix/did someone ask for an egg/1.ogg",length=2.130},{path="chatsounds/autoadd/mad_matrix/did someone ask for an egg/2.ogg",length=2.576}}
 L["dont play with matches"]={{path="chatsounds/autoadd/mad_matrix/dont play with matches.ogg",length=1.831}}
 L["doorslamhard"]={{path="chatsounds/autoadd/mad_matrix/doorslamhard.ogg",length=0.834}}
@@ -35,6 +35,7 @@ L["eto boobs"]={{path="chatsounds/autoadd/mad_matrix/eto boobs.ogg",length=0.887
 L["even let you have dudleys second baby"]={{path="chatsounds/autoadd/mad_matrix/even let you have dudleys second baby.ogg",length=1.872}}
 L["explosion hot hot hot hot hot"]={{path="chatsounds/autoadd/mad_matrix/explosion hot hot hot hot hot.ogg",length=2.968}}
 L["fasttalk"]={{path="chatsounds/autoadd/mad_matrix/fasttalk.ogg",length=7.464}}
+L["fire out of control"]={{path="chatsounds/autoadd/mad_matrix/fire out of control.ogg",length=1.498}}
 L["for two whole weeks we were one step away from the walking dead"]={{path="chatsounds/autoadd/mad_matrix/for two whole weeks we were one step away from the walking dead.ogg",length=4.060}}
 L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
@@ -69,6 +70,7 @@ L["im going"]={{path="chatsounds/autoadd/mad_matrix/im going.ogg",length=0.864}}
 L["im just getting into a prophetic vein tiltonfasttalk"]={{path="chatsounds/autoadd/mad_matrix/im just getting into a prophetic vein tiltonfasttalk.ogg",length=13.055}}
 L["im so sorry hh its my bloody pigeon"]={{path="chatsounds/autoadd/mad_matrix/im so sorry hh its my bloody pigeon.ogg",length=3.072}}
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
+L["its hard to focus"]={{path="chatsounds/autoadd/mad_matrix/its hard to focus.ogg",length=1.265}}
 L["its too quiet here"]={{path="chatsounds/autoadd/mad_matrix/its too quiet here.ogg",length=1.948}}
 L["ivans not home"]={{path="chatsounds/autoadd/mad_matrix/ivans not home.ogg",length=1.982}}
 L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",length=2.697}}
@@ -78,6 +80,7 @@ L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_mat
 L["knockrape"]={{path="chatsounds/autoadd/mad_matrix/knockrape.ogg",length=10.679}}
 L["laggyharmonica"]={{path="chatsounds/autoadd/mad_matrix/laggyharmonica.ogg",length=1.498}}
 L["laughter"]={{path="chatsounds/autoadd/mad_matrix/laughter.ogg",length=1.173}}
+L["look no hands"]={{path="chatsounds/autoadd/mad_matrix/look no hands.ogg",length=1.437}}
 L["madmatrixdeathloud"]={{path="chatsounds/autoadd/mad_matrix/madmatrixdeathloud.ogg",length=1.401}}
 L["madmatrixlaugh"]={{path="chatsounds/autoadd/mad_matrix/madmatrixlaugh.ogg",length=6.566}}
 L["madmatrixnoise"]={{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/1.ogg",length=0.279},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/2.ogg",length=1.674},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/3.ogg",length=0.667},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/4.ogg",length=0.503},{path="chatsounds/autoadd/mad_matrix/madmatrixnoise/5.ogg",length=0.569}}
@@ -96,8 +99,10 @@ L["nikogda ne budesh sosat cock svoih potlanih druzej"]={{path="chatsounds/autoa
 L["nothing gained nothing ventured"]={{path="chatsounds/autoadd/mad_matrix/nothing gained nothing ventured.ogg",length=3.284}}
 L["nothing is working distorted"]={{path="chatsounds/autoadd/mad_matrix/nothing is working distorted.ogg",length=1.797}}
 L["nu kak tam v egypte distorted"]={{path="chatsounds/autoadd/mad_matrix/nu kak tam v egypte distorted.ogg",length=0.967}}
+L["nukesiren"]={{path="chatsounds/autoadd/mad_matrix/nukesiren.ogg",length=5.849}}
 L["o"]={{path="chatsounds/autoadd/mad_matrix/o.ogg",length=0.136}}
 L["o distorted"]={{path="chatsounds/autoadd/mad_matrix/o distorted.ogg",length=0.202}}
+L["obeliskfire"]={{path="chatsounds/autoadd/mad_matrix/obeliskfire.ogg",length=1.214}}
 L["oddgasp"]={{path="chatsounds/autoadd/mad_matrix/oddgasp.ogg",length=0.418}}
 L["oh and by the way just if you havent noticed"]={{path="chatsounds/autoadd/mad_matrix/oh and by the way just if you havent noticed.ogg",length=2.695}}
 L["oh and cnn thank you so much for the wall to wall ebola coverage"]={{path="chatsounds/autoadd/mad_matrix/oh and cnn thank you so much for the wall to wall ebola coverage.ogg",length=4.641}}
