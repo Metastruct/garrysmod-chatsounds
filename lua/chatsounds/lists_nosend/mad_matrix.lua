@@ -63,6 +63,7 @@ L["i dont want that"]={{path="chatsounds/autoadd/mad_matrix/i dont want that.ogg
 L["i just wasted six million dollars"]={{path="chatsounds/autoadd/mad_matrix/i just wasted six million dollars.ogg",length=1.909}}
 L["i lost the bomb do you have it"]={{path="chatsounds/autoadd/mad_matrix/i lost the bomb do you have it.ogg",length=2.564}}
 L["i mean really"]={{path="chatsounds/autoadd/mad_matrix/i mean really.ogg",length=1.037}}
+L["i will break you"]={{path="chatsounds/autoadd/mad_matrix/i will break you.ogg",length=2.121}}
 L["iagogibberish"]={{path="chatsounds/autoadd/mad_matrix/iagogibberish/1.ogg",length=1.380},{path="chatsounds/autoadd/mad_matrix/iagogibberish/2.ogg",length=2.105}}
 L["if you smell"]={{path="chatsounds/autoadd/mad_matrix/if you smell.ogg",length=1.940}}
 L["iiiits soup"]={{path="chatsounds/autoadd/mad_matrix/iiiits soup.ogg",length=1.991}}
@@ -71,6 +72,7 @@ L["im just getting into a prophetic vein tiltonfasttalk"]={{path="chatsounds/aut
 L["im so sorry hh its my bloody pigeon"]={{path="chatsounds/autoadd/mad_matrix/im so sorry hh its my bloody pigeon.ogg",length=3.072}}
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
 L["its hard to focus"]={{path="chatsounds/autoadd/mad_matrix/its hard to focus.ogg",length=1.265}}
+L["its playtime"]={{path="chatsounds/autoadd/mad_matrix/its playtime.ogg",length=1.977}}
 L["its too quiet here"]={{path="chatsounds/autoadd/mad_matrix/its too quiet here.ogg",length=1.948}}
 L["ivans not home"]={{path="chatsounds/autoadd/mad_matrix/ivans not home.ogg",length=1.982}}
 L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",length=2.697}}
@@ -141,6 +143,7 @@ L["tell me that theres a baseball in this thing"]={{path="chatsounds/autoadd/mad
 L["that was awesome"]={{path="chatsounds/autoadd/mad_matrix/that was awesome.ogg",length=0.932}}
 L["thats a damn pig"]={{path="chatsounds/autoadd/mad_matrix/thats a damn pig.ogg",length=1.003}}
 L["theres nnno bbbaseballallall will willwill"]={{path="chatsounds/autoadd/mad_matrix/theres nnno bbbaseballallall will willwill.ogg",length=2.618}}
+L["this ball is long gone just like the ex girlfriend who will never return"]={{path="chatsounds/autoadd/mad_matrix/this ball is long gone just like the ex girlfriend who will never return.ogg",length=8.364}}
 L["ti nekogda ne verneshsya v ety poganuju shkolu"]={{path="chatsounds/autoadd/mad_matrix/ti nekogda ne verneshsya v ety poganuju shkolu.ogg",length=2.432}}
 L["ti ubil djavola"]={{path="chatsounds/autoadd/mad_matrix/ti ubil djavola.ogg",length=0.975}}
 L["ti ubil etu dvercu"]={{path="chatsounds/autoadd/mad_matrix/ti ubil etu dvercu.ogg",length=1.338}}

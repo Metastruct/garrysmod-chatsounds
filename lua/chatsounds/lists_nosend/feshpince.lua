@@ -166,6 +166,7 @@ L["simis simonis"]={{path="chatsounds/autoadd/feshpince/simis simonis.ogg",lengt
 L["simonis"]={{path="chatsounds/autoadd/feshpince/simonis.ogg",length=0.933}}
 L["sit down"]={{path="chatsounds/autoadd/feshpince/sit down.ogg",length=0.832}}
 L["snits"]={{path="chatsounds/autoadd/feshpince/snits.ogg",length=0.680}}
+L["so the nasty dude snatch off into his ass and came out in his dicc"]={{path="chatsounds/autoadd/feshpince/so the nasty dude snatch off into his ass and came out in his dicc.ogg",length=3.174}}
 L["so this story is about you isnt it will"]={{path="chatsounds/autoadd/feshpince/so this story is about you isnt it will.ogg",length=3.103}}
 L["splebs"]={{path="chatsounds/autoadd/feshpince/splebs.ogg",length=1.303}}
 L["spoops"]={{path="chatsounds/autoadd/feshpince/spoops.ogg",length=0.778}}
