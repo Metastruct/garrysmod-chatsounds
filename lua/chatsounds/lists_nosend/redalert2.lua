@@ -15,6 +15,8 @@ L["im going"]={{path="chatsounds/autoadd/redalert2/im going.ogg",length=0.864}}
 L["its hard to focus"]={{path="chatsounds/autoadd/redalert2/its hard to focus.ogg",length=1.265}}
 L["its playtime"]={{path="chatsounds/autoadd/redalert2/its playtime.ogg",length=1.977}}
 L["its too quiet here"]={{path="chatsounds/autoadd/redalert2/its too quiet here.ogg",length=1.948}}
+L["ivanlaugh"]={{path="chatsounds/autoadd/redalert2/ivanlaugh.ogg",length=1.173}}
+L["ivans not home"]={{path="chatsounds/autoadd/redalert2/ivans not home.ogg",length=1.982}}
 L["ivanscream"]={{path="chatsounds/autoadd/redalert2/ivanscream/1.ogg",length=1.094},{path="chatsounds/autoadd/redalert2/ivanscream/2.ogg",length=0.763}}
 L["look no hands"]={{path="chatsounds/autoadd/redalert2/look no hands.ogg",length=1.437}}
 L["nukesiren"]={{path="chatsounds/autoadd/redalert2/nukesiren.ogg",length=5.849}}
