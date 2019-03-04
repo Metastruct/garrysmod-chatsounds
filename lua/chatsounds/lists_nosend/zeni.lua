@@ -17,4 +17,6 @@ L["spidermanpizzatheme"]={{path="chatsounds/autoadd/zeni/spidermanpizzatheme.ogg
 L["thats a lotta damage"]={{path="chatsounds/autoadd/zeni/thats a lotta damage.ogg",length=1.615}}
 L["to show you the power of flex tape"]={{path="chatsounds/autoadd/zeni/to show you the power of flex tape.ogg",length=2.948}}
 L["welcome to mcdawnalds"]={{path="chatsounds/autoadd/zeni/welcome to mcdawnalds.ogg",length=3.493}}
+L["zombiescream"]={{path="chatsounds/autoadd/zeni/zombiescream.ogg",length=3.982}}
+L["zombiescream distorted"]={{path="chatsounds/autoadd/zeni/zombiescream distorted.ogg",length=3.982}}
 c.EndList()
