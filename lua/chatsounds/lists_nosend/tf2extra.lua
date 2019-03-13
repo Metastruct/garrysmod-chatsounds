@@ -127,6 +127,7 @@ L["mortis longdick"]={{path="chatsounds/autoadd/tf2extra/mortis longdick.ogg",le
 L["mrprprpm"]={{path="chatsounds/autoadd/tf2extra/mrprprpm.ogg",length=0.653}}
 L["mumnumnum"]={{path="chatsounds/autoadd/tf2extra/mumnumnum.ogg",length=0.809}}
 L["needas"]={{path="chatsounds/autoadd/tf2extra/needas.ogg",length=0.472}}
+L["nigger"]={{path="chatsounds/autoadd/tf2extra/nigger.ogg",length=0.965}}
 L["nneeiinn"]={{path="chatsounds/autoadd/tf2extra/nneeiinn.ogg",length=1.878}}
 L["no shut the fuck up distorted"]={{path="chatsounds/autoadd/tf2extra/no shut the fuck up distorted.ogg",length=3.193}}
 L["no they dont"]={{path="chatsounds/autoadd/tf2extra/no they dont.ogg",length=0.568}}
@@ -183,6 +184,7 @@ L["some people think they can outsmart me"]={{path="chatsounds/autoadd/tf2extra/
 L["soos"]={{path="chatsounds/autoadd/tf2extra/soos/1.ogg",length=0.751},{path="chatsounds/autoadd/tf2extra/soos/2.ogg",length=1.173},{path="chatsounds/autoadd/tf2extra/soos/3.ogg",length=0.362}}
 L["sorry to snort your precious cocaine"]={{path="chatsounds/autoadd/tf2extra/sorry to snort your precious cocaine.ogg",length=3.842}}
 L["sos"]={{path="chatsounds/autoadd/tf2extra/sos.ogg",length=0.338}}
+L["spy says the n word"]={{path="chatsounds/autoadd/tf2extra/spy says the n word.ogg",length=34.035}}
 L["spygibberish"]={{path="chatsounds/autoadd/tf2extra/spygibberish.ogg",length=1.198}}
 L["spymadness"]={{path="chatsounds/autoadd/tf2extra/spymadness.ogg",length=7.131}}
 L["spysnort"]={{path="chatsounds/autoadd/tf2extra/spysnort.ogg",length=1.945}}

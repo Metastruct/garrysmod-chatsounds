@@ -273,6 +273,7 @@ L["why dont you stick around and find out"]={{path="chatsounds/autoadd/tenrys/wh
 L["why is there smoke coming out of your oven seymour"]={{path="chatsounds/autoadd/tenrys/why is there smoke coming out of your oven seymour.ogg",length=2.301}}
 L["why wont you die"]={{path="chatsounds/autoadd/tenrys/why wont you die.ogg",length=1.750}}
 L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.064}}
+L["windows xp critical stop"]={{path="chatsounds/autoadd/tenrys/windows xp critical stop.ogg",length=0.892}}
 L["woah"]={{path="chatsounds/autoadd/tenrys/woah.ogg",length=0.489}}
 L["woah woah woah woah woahwoahwoahwoahwoahwoah"]={{path="chatsounds/autoadd/tenrys/woah woah woah woah woahwoahwoahwoahwoahwoah.ogg",length=7.523}}
 L["wow incredible"]={{path="chatsounds/autoadd/tenrys/wow incredible.ogg",length=1.786}}
