@@ -15,6 +15,7 @@ L["bgbosschorus"]={{path="chatsounds/autoadd/beauty_bomber/bgbosschorus.ogg",len
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.846}}
 L["caramelldanseninstloop"]={{path="chatsounds/autoadd/beauty_bomber/caramelldanseninstloop.ogg",length=46.618}}
 L["carlmoan"]={{path="chatsounds/autoadd/beauty_bomber/carlmoan.ogg",length=1.545}}
+L["circusmusic"]={{path="chatsounds/autoadd/beauty_bomber/circusmusic.ogg",length=153.809}}
 L["cockatooscream"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscream.ogg",length=0.760}}
 L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscreambabble.ogg",length=3.345}}
 L["come inside and lets fuck around"]={{path="chatsounds/autoadd/beauty_bomber/come inside and lets fuck around.ogg",length=2.000}}
