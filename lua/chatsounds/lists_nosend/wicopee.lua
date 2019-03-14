@@ -79,6 +79,7 @@ L["huhuhuhu"]={{path="chatsounds/autoadd/wicopee/huhuhuhu.ogg",length=0.756}}
 L["i tak mi na fabrike po proizvodstvu suhogo kashlya"]={{path="chatsounds/autoadd/wicopee/i tak mi na fabrike po proizvodstvu suhogo kashlya.ogg",length=3.713}}
 L["i tut zhe nachili buhat"]={{path="chatsounds/autoadd/wicopee/i tut zhe nachili buhat.ogg",length=1.253}}
 L["i tuuutut ya"]={{path="chatsounds/autoadd/wicopee/i tuuutut ya.ogg",length=0.760}}
+L["if its not fun why bother"]={{path="chatsounds/autoadd/wicopee/if its not fun why bother.ogg",length=2.009}}
 L["igor"]={{path="chatsounds/autoadd/wicopee/igor.ogg",length=0.637}}
 L["john cena"]={{path="chatsounds/autoadd/wicopee/john cena.ogg",length=2.595}}
 L["kakoi russki ne lubit saas"]={{path="chatsounds/autoadd/wicopee/kakoi russki ne lubit saas.ogg",length=2.140}}
