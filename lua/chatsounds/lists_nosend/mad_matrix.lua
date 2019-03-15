@@ -56,6 +56,7 @@ L["i mean really"]={{path="chatsounds/autoadd/mad_matrix/i mean really.ogg",leng
 L["iagogibberish"]={{path="chatsounds/autoadd/mad_matrix/iagogibberish/1.ogg",length=1.380},{path="chatsounds/autoadd/mad_matrix/iagogibberish/2.ogg",length=2.105}}
 L["if you smell"]={{path="chatsounds/autoadd/mad_matrix/if you smell.ogg",length=1.940}}
 L["iiiits soup"]={{path="chatsounds/autoadd/mad_matrix/iiiits soup.ogg",length=1.991}}
+L["im done quit quit quit laughter quit"]={{path="chatsounds/autoadd/mad_matrix/im done quit quit quit laughter quit.ogg",length=6.194}}
 L["im just getting into a prophetic vein tiltonfasttalk"]={{path="chatsounds/autoadd/mad_matrix/im just getting into a prophetic vein tiltonfasttalk.ogg",length=13.055}}
 L["im so sorry hh its my bloody pigeon"]={{path="chatsounds/autoadd/mad_matrix/im so sorry hh its my bloody pigeon.ogg",length=3.072}}
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
@@ -138,7 +139,6 @@ L["wheeeeee"]={{path="chatsounds/autoadd/mad_matrix/wheeeeee.ogg",length=2.133}}
 L["wheezing"]={{path="chatsounds/autoadd/mad_matrix/wheezing/1.ogg",length=2.494},{path="chatsounds/autoadd/mad_matrix/wheezing/2.ogg",length=1.837}}
 L["whoever has the gogo makes the ruru"]={{path="chatsounds/autoadd/mad_matrix/whoever has the gogo makes the ruru.ogg",length=2.080}}
 L["wweww"]={{path="chatsounds/autoadd/mad_matrix/wweww.ogg",length=0.727}}
-L["yah"]={{path="chatsounds/autoadd/mad_matrix/yah.ogg",length=0.654}}
 L["yall its ridiculous"]={{path="chatsounds/autoadd/mad_matrix/yall its ridiculous.ogg",length=1.139}}
 L["yall remember when i had that big old hole in the bottom of the gulf of mexico and then i plugged it"]={{path="chatsounds/autoadd/mad_matrix/yall remember when i had that big old hole in the bottom of the gulf of mexico and then i plugged it.ogg",length=4.772}}
 L["yeeeeeeee"]={{path="chatsounds/autoadd/mad_matrix/yeeeeeeee/1.ogg",length=1.555},{path="chatsounds/autoadd/mad_matrix/yeeeeeeee/2.ogg",length=2.364}}

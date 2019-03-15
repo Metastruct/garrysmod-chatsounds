@@ -26,5 +26,6 @@ L["teslacoilfire"]={{path="chatsounds/autoadd/redalert2/teslacoilfire.ogg",lengt
 L["unintelligible"]={{path="chatsounds/autoadd/redalert2/unintelligible.ogg",length=1.865}}
 L["unitheal"]={{path="chatsounds/autoadd/redalert2/unitheal.ogg",length=0.779}}
 L["whats over here"]={{path="chatsounds/autoadd/redalert2/whats over here.ogg",length=1.662}}
+L["yah"]={{path="chatsounds/autoadd/redalert2/yah.ogg",length=0.654}}
 L["yeah whats that"]={{path="chatsounds/autoadd/redalert2/yeah whats that.ogg",length=1.754}}
 c.EndList()
