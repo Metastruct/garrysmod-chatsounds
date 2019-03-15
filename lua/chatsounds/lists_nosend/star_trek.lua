@@ -2,10 +2,10 @@ c.StartList("star_trek")
 L["borgintro"]={{path="chatsounds/autoadd/star_trek/borgintro.ogg",length=16.327}}
 L["captain we have encountered an unusual phenomenom phenomenom phenomenom phenomenom phenomenom phenomenom"]={{path="chatsounds/autoadd/star_trek/captain we have encountered an unusual phenomenom phenomenom phenomenom phenomenom phenomenom phenomenom.ogg",length=18.523}}
 L["cardassian transporter"]={{path="chatsounds/autoadd/star_trek/cardassian transporter.ogg",length=4.794}}
-L["disco beam in"]={{path="chatsounds/autoadd/star_trek/disco beam in.ogg",length=2.586}}
-L["disco beam out"]={{path="chatsounds/autoadd/star_trek/disco beam out.ogg",length=2.534}}
 L["dominion beam in"]={{path="chatsounds/autoadd/star_trek/dominion beam in.ogg",length=3.030}}
 L["dominion beam out"]={{path="chatsounds/autoadd/star_trek/dominion beam out.ogg",length=3.370}}
+L["dsc beam in"]={{path="chatsounds/autoadd/star_trek/dsc beam in.ogg",length=2.586}}
+L["dsc beam out"]={{path="chatsounds/autoadd/star_trek/dsc beam out.ogg",length=2.534}}
 L["ent transporter"]={{path="chatsounds/autoadd/star_trek/ent transporter.ogg",length=3.299}}
 L["kelvin timeline transporter"]={{path="chatsounds/autoadd/star_trek/kelvin timeline transporter.ogg",length=4.696}}
 L["klingon beam in"]={{path="chatsounds/autoadd/star_trek/klingon beam in.ogg",length=4.676}}
