@@ -46,6 +46,7 @@ L["hi distorted"]={{path="chatsounds/autoadd/mad_matrix/hi distorted.ogg",length
 L["hold on to your lily white butts"]={{path="chatsounds/autoadd/mad_matrix/hold on to your lily white butts.ogg",length=3.376}}
 L["holy shiet"]={{path="chatsounds/autoadd/mad_matrix/holy shiet.ogg",length=0.680}}
 L["honk"]={{path="chatsounds/autoadd/mad_matrix/honk.ogg",length=0.284}}
+L["horn"]={{path="chatsounds/autoadd/mad_matrix/horn.ogg",length=1.875}}
 L["horsesound"]={{path="chatsounds/autoadd/mad_matrix/horsesound.ogg",length=0.424}}
 L["hot distorted"]={{path="chatsounds/autoadd/mad_matrix/hot distorted.ogg",length=0.941}}
 L["how bout for instance"]={{path="chatsounds/autoadd/mad_matrix/how bout for instance.ogg",length=1.234}}
