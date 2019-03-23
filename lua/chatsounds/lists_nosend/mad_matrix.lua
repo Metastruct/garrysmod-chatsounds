@@ -8,6 +8,7 @@ L["and then you all just got up and moved on to the next day"]={{path="chatsound
 L["and we can count on fox news to terrify old white people with some nonsense"]={{path="chatsounds/autoadd/mad_matrix/and we can count on fox news to terrify old white people with some nonsense.ogg",length=4.096}}
 L["and why am i required to come to it"]={{path="chatsounds/autoadd/mad_matrix/and why am i required to come to it.ogg",length=2.345}}
 L["are you outta your damn mind"]={{path="chatsounds/autoadd/mad_matrix/are you outta your damn mind.ogg",length=1.394}}
+L["askin douban some wal"]={{path="chatsounds/autoadd/mad_matrix/askin douban some wal.ogg",length=2.256}}
 L["babycry"]={{path="chatsounds/autoadd/mad_matrix/babycry.ogg",length=1.233}}
 L["begone thot"]={{path="chatsounds/autoadd/mad_matrix/begone thot.ogg",length=2.793}}
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
@@ -65,6 +66,9 @@ L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",le
 L["jeb bush do you really want to do this"]={{path="chatsounds/autoadd/mad_matrix/jeb bush do you really want to do this.ogg",length=2.778}}
 L["kaboom"]={{path="chatsounds/autoadd/mad_matrix/kaboom.ogg",length=1.089}}
 L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_matrix/kakogo djavola ti zdes shumish distorted.ogg",length=2.546}}
+L["kidmonkeyscream"]={{path="chatsounds/autoadd/mad_matrix/kidmonkeyscream.ogg",length=5.946}}
+L["kidmumble"]={{path="chatsounds/autoadd/mad_matrix/kidmumble.ogg",length=2.507}}
+L["kidscream"]={{path="chatsounds/autoadd/mad_matrix/kidscream/1.ogg",length=6.295},{path="chatsounds/autoadd/mad_matrix/kidscream/2.ogg",length=6.144}}
 L["knockrape"]={{path="chatsounds/autoadd/mad_matrix/knockrape.ogg",length=10.679}}
 L["laggyharmonica"]={{path="chatsounds/autoadd/mad_matrix/laggyharmonica.ogg",length=1.498}}
 L["madmatrixdeathloud"]={{path="chatsounds/autoadd/mad_matrix/madmatrixdeathloud.ogg",length=1.401}}
@@ -93,6 +97,7 @@ L["oh and cnn thank you so much for the wall to wall ebola coverage"]={{path="ch
 L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/autoadd/mad_matrix/oh dont mind that its just my nephew hes very disturbed.ogg",length=3.486}}
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
 L["oh what the hell"]={{path="chatsounds/autoadd/mad_matrix/oh what the hell.ogg",length=0.861}}
+L["ok guys so im gonna get this gate open"]={{path="chatsounds/autoadd/mad_matrix/ok guys so im gonna get this gate open.ogg",length=2.197}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/mad_matrix/omae wa mo shindeiru.ogg",length=2.298}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["oohh yees"]={{path="chatsounds/autoadd/mad_matrix/oohh yees.ogg",length=1.473}}
