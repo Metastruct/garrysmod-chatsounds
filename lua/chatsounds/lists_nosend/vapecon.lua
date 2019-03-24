@@ -4,6 +4,7 @@ L["aint nothing like it"]={{path="chatsounds/autoadd/vapecon/aint nothing like i
 L["all about that trainwreck"]={{path="chatsounds/autoadd/vapecon/all about that trainwreck.ogg",length=1.393}}
 L["all about that trainwreck nug nug"]={{path="chatsounds/autoadd/vapecon/all about that trainwreck nug nug.ogg",length=2.206}}
 L["all cigarettes are chem trails"]={{path="chatsounds/autoadd/vapecon/all cigarettes are chem trails.ogg",length=2.113}}
+L["all cigarettes are created by lizard people"]={{path="chatsounds/autoadd/vapecon/all cigarettes are created by lizard people.ogg",length=2.663}}
 L["all i see are clouds"]={{path="chatsounds/autoadd/vapecon/all i see are clouds.ogg",length=1.997}}
 L["all my senses are taken from me"]={{path="chatsounds/autoadd/vapecon/all my senses are taken from me.ogg",length=1.823}}
 L["all my senses are taken from me sight smell hearing its just vape"]={{path="chatsounds/autoadd/vapecon/all my senses are taken from me sight smell hearing its just vape.ogg",length=6.281}}
@@ -35,11 +36,13 @@ L["i got a stoma"]={{path="chatsounds/autoadd/vapecon/i got a stoma.ogg",length=
 L["i love vapes hell yeah"]={{path="chatsounds/autoadd/vapecon/i love vapes hell yeah.ogg",length=2.113}}
 L["i love vaping"]={{path="chatsounds/autoadd/vapecon/i love vaping.ogg",length=1.184}}
 L["i noticed that you guys are deciding to vape"]={{path="chatsounds/autoadd/vapecon/i noticed that you guys are deciding to vape.ogg",length=2.786}}
+L["if i stop vaping i cant feel my legs"]={{path="chatsounds/autoadd/vapecon/if i stop vaping i cant feel my legs.ogg",length=2.048}}
 L["if i stop vaping i fucking die"]={{path="chatsounds/autoadd/vapecon/if i stop vaping i fucking die.ogg",length=2.485}}
 L["ill smoke to that dude"]={{path="chatsounds/autoadd/vapecon/ill smoke to that dude.ogg",length=1.091}}
 L["ill vape to that"]={{path="chatsounds/autoadd/vapecon/ill vape to that.ogg",length=0.894}}
 L["ill vape to that one"]={{path="chatsounds/autoadd/vapecon/ill vape to that one.ogg",length=1.068}}
 L["im in another fucking dimension dud"]={{path="chatsounds/autoadd/vapecon/im in another fucking dimension dud.ogg",length=2.241}}
+L["in the mouth out the belly button you know how it is"]={{path="chatsounds/autoadd/vapecon/in the mouth out the belly button you know how it is.ogg",length=2.201}}
 L["instead of smoke our"]={{path="chatsounds/autoadd/vapecon/instead of smoke our.ogg",length=1.649}}
 L["it fills up the lungs with that good purp cloud"]={{path="chatsounds/autoadd/vapecon/it fills up the lungs with that good purp cloud.ogg",length=3.181}}
 L["its coming out of my pores"]={{path="chatsounds/autoadd/vapecon/its coming out of my pores.ogg",length=1.265}}
@@ -49,6 +52,7 @@ L["its just vape"]={{path="chatsounds/autoadd/vapecon/its just vape.ogg",length=
 L["its like an emotional bond"]={{path="chatsounds/autoadd/vapecon/its like an emotional bond.ogg",length=1.927}}
 L["its like youre filling each others lungs with your energy"]={{path="chatsounds/autoadd/vapecon/its like youre filling each others lungs with your energy.ogg",length=2.728}}
 L["keep on rocking dude"]={{path="chatsounds/autoadd/vapecon/keep on rocking dude.ogg",length=0.998}}
+L["keep smoking"]={{path="chatsounds/autoadd/vapecon/keep smoking.ogg",length=1.241}}
 L["loyal to the vape"]={{path="chatsounds/autoadd/vapecon/loyal to the vape.ogg",length=1.080}}
 L["millions and millions of dank clouds"]={{path="chatsounds/autoadd/vapecon/millions and millions of dank clouds.ogg",length=2.763}}
 L["molten nickel"]={{path="chatsounds/autoadd/vapecon/molten nickel.ogg",length=1.103}}
@@ -72,6 +76,9 @@ L["theyll make your feet small"]={{path="chatsounds/autoadd/vapecon/theyll make 
 L["vape for life"]={{path="chatsounds/autoadd/vapecon/vape for life.ogg",length=0.917}}
 L["vape for your life"]={{path="chatsounds/autoadd/vapecon/vape for your life.ogg",length=1.428}}
 L["vape inhale"]={{path="chatsounds/autoadd/vapecon/vape inhale.ogg",length=1.672}}
+L["vape is life"]={{path="chatsounds/autoadd/vapecon/vape is life.ogg",length=1.220}}
+L["vape is my life"]={{path="chatsounds/autoadd/vapecon/vape is my life.ogg",length=1.295}}
+L["vape life vape nation"]={{path="chatsounds/autoadd/vapecon/vape life vape nation.ogg",length=2.559}}
 L["vape nation"]={{path="chatsounds/autoadd/vapecon/vape nation.ogg",length=1.324}}
 L["vape nation is great"]={{path="chatsounds/autoadd/vapecon/vape nation is great.ogg",length=2.264}}
 L["vape on brothers"]={{path="chatsounds/autoadd/vapecon/vape on brothers.ogg",length=1.614}}
@@ -90,4 +97,5 @@ L["you just get elevated you get motivated"]={{path="chatsounds/autoadd/vapecon/
 L["you know"]={{path="chatsounds/autoadd/vapecon/you know.ogg",length=0.639}}
 L["you know what i mean brother"]={{path="chatsounds/autoadd/vapecon/you know what i mean brother.ogg",length=1.463}}
 L["you know what im saying"]={{path="chatsounds/autoadd/vapecon/you know what im saying.ogg",length=0.755}}
+L["youre right"]={{path="chatsounds/autoadd/vapecon/youre right.ogg",length=0.604}}
 c.EndList()
