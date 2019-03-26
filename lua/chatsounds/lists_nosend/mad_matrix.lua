@@ -28,6 +28,7 @@ L["ebanyj v tvoj rot blyat"]={{path="chatsounds/autoadd/mad_matrix/ebanyj v tvoj
 L["eeree"]={{path="chatsounds/autoadd/mad_matrix/eeree.ogg",length=0.636}}
 L["egg"]={{path="chatsounds/autoadd/mad_matrix/egg.ogg",length=0.816}}
 L["emit eht ta kool"]={{path="chatsounds/autoadd/mad_matrix/emit eht ta kool.ogg",length=2.229}}
+L["enh oh distorted"]={{path="chatsounds/autoadd/mad_matrix/enh oh distorted.ogg",length=4.742}}
 L["enough of the emails distorted"]={{path="chatsounds/autoadd/mad_matrix/enough of the emails distorted.ogg",length=1.652}}
 L["eto boobs"]={{path="chatsounds/autoadd/mad_matrix/eto boobs.ogg",length=0.887}}
 L["even let you have dudleys second baby"]={{path="chatsounds/autoadd/mad_matrix/even let you have dudleys second baby.ogg",length=1.872}}

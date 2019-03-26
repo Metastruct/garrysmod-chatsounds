@@ -19,7 +19,7 @@ L["more than anything"]={{path="chatsounds/autoadd/outlast/more than anything.og
 L["no sense in pullin a mad dogs tail"]={{path="chatsounds/autoadd/outlast/no sense in pullin a mad dogs tail.ogg",length=3.200}}
 L["oh hell do"]={{path="chatsounds/autoadd/outlast/oh hell do.ogg",length=1.615}}
 L["pa"]={{path="chatsounds/autoadd/outlast/pa.ogg",length=0.750}}
-L["shut up"]={{path="chatsounds/autoadd/outlast/shut up.ogg",length=0.960}}
+L["shut up"]={{path="chatsounds/autoadd/outlast/shut up/1.ogg",length=0.960},{path="chatsounds/autoadd/outlast/shut up/2.ogg",length=1.136}}
 L["shut up both of you"]={{path="chatsounds/autoadd/outlast/shut up both of you.ogg",length=2.826}}
 L["shut your cocksucker you miserable little shit"]={{path="chatsounds/autoadd/outlast/shut your cocksucker you miserable little shit.ogg",length=3.849}}
 L["thats the idea we feed him a goat and leave him alone"]={{path="chatsounds/autoadd/outlast/thats the idea we feed him a goat and leave him alone.ogg",length=3.629}}
