@@ -65,7 +65,6 @@ L["im so sorry hh its my bloody pigeon"]={{path="chatsounds/autoadd/mad_matrix/i
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
 L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",length=2.697}}
 L["jeb bush do you really want to do this"]={{path="chatsounds/autoadd/mad_matrix/jeb bush do you really want to do this.ogg",length=2.778}}
-L["kaboom"]={{path="chatsounds/autoadd/mad_matrix/kaboom.ogg",length=1.089}}
 L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_matrix/kakogo djavola ti zdes shumish distorted.ogg",length=2.546}}
 L["kidmonkeyscream"]={{path="chatsounds/autoadd/mad_matrix/kidmonkeyscream.ogg",length=5.946}}
 L["kidmumble"]={{path="chatsounds/autoadd/mad_matrix/kidmumble.ogg",length=2.507}}

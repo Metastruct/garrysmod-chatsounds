@@ -18,6 +18,7 @@ L["its too quiet here"]={{path="chatsounds/autoadd/redalert2/its too quiet here.
 L["ivanlaugh"]={{path="chatsounds/autoadd/redalert2/ivanlaugh.ogg",length=1.173}}
 L["ivans not home"]={{path="chatsounds/autoadd/redalert2/ivans not home.ogg",length=1.982}}
 L["ivanscream"]={{path="chatsounds/autoadd/redalert2/ivanscream/1.ogg",length=1.094},{path="chatsounds/autoadd/redalert2/ivanscream/2.ogg",length=0.763}}
+L["kaboom"]={{path="chatsounds/autoadd/redalert2/kaboom.ogg",length=1.089}}
 L["look no hands"]={{path="chatsounds/autoadd/redalert2/look no hands.ogg",length=1.437}}
 L["nukesiren"]={{path="chatsounds/autoadd/redalert2/nukesiren.ogg",length=5.849}}
 L["ready to crush"]={{path="chatsounds/autoadd/redalert2/ready to crush.ogg",length=1.610}}
