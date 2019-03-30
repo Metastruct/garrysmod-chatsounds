@@ -51,7 +51,6 @@ L["arme"]={{path="chatsounds/autoadd/instagib/arme.ogg",length=1.358}}
 L["arschgesicht"]={{path="chatsounds/autoadd/instagib/arschgesicht.ogg",length=4.937}}
 L["arschlecken"]={{path="chatsounds/autoadd/instagib/arschlecken.ogg",length=2.159}}
 L["arschloch alarm"]={{path="chatsounds/autoadd/instagib/arschloch alarm.ogg",length=2.698}}
-L["arschloch2"]={{path="chatsounds/autoadd/instagib/arschloch2.ogg",length=1.311}}
 L["arschtritt"]={{path="chatsounds/autoadd/instagib/arschtritt.ogg",length=6.000}}
 L["ashole"]={{path="chatsounds/autoadd/instagib/ashole.ogg",length=2.984}}
 L["aspirin"]={{path="chatsounds/autoadd/instagib/aspirin.ogg",length=2.508}}
@@ -66,7 +65,7 @@ L["aua6"]={{path="chatsounds/autoadd/instagib/aua6.ogg",length=2.064}}
 L["auawasgeht"]={{path="chatsounds/autoadd/instagib/auawasgeht.ogg",length=1.776}}
 L["aufdensack"]={{path="chatsounds/autoadd/instagib/aufdensack.ogg",length=4.920}}
 L["aufdienuss"]={{path="chatsounds/autoadd/instagib/aufdienuss.ogg",length=7.295}}
-L["aufkumpel"]={{path="chatsounds/autoadd/instagib/aufkumpel.ogg",length=3.605}}
+L["aufkumpel"]={{path="chatsounds/autoadd/instagib/aufkumpel.ogg",length=3.553}}
 L["augen"]={{path="chatsounds/autoadd/instagib/augen.ogg",length=3.500}}
 L["ausflippen"]={{path="chatsounds/autoadd/instagib/ausflippen.ogg",length=11.349}}
 L["ausrasten"]={{path="chatsounds/autoadd/instagib/ausrasten.ogg",length=1.796}}
@@ -292,6 +291,7 @@ L["ei1"]={{path="chatsounds/autoadd/instagib/ei1.ogg",length=8.517}}
 L["eich"]={{path="chatsounds/autoadd/instagib/eich.ogg",length=2.348}}
 L["eier"]={{path="chatsounds/autoadd/instagib/eier.ogg",length=1.302}}
 L["eier1"]={{path="chatsounds/autoadd/instagib/eier1.ogg",length=16.901}}
+L["einfach mal die fresse halten"]={{path="chatsounds/autoadd/instagib/einfach mal die fresse halten.ogg",length=3.199}}
 L["eiskalt"]={{path="chatsounds/autoadd/instagib/eiskalt.ogg",length=6.001}}
 L["eligmann"]={{path="chatsounds/autoadd/instagib/eligmann.ogg",length=4.199}}
 L["emotional"]={{path="chatsounds/autoadd/instagib/emotional.ogg",length=2.839}}
@@ -366,8 +366,6 @@ L["freaky"]={{path="chatsounds/autoadd/instagib/freaky.ogg",length=3.935}}
 L["frech"]={{path="chatsounds/autoadd/instagib/frech.ogg",length=6.208}}
 L["freedom"]={{path="chatsounds/autoadd/instagib/freedom.ogg",length=3.300}}
 L["frei"]={{path="chatsounds/autoadd/instagib/frei.ogg",length=1.731}}
-L["fresse"]={{path="chatsounds/autoadd/instagib/fresse.ogg",length=3.373}}
-L["fresse1"]={{path="chatsounds/autoadd/instagib/fresse1.ogg",length=3.199}}
 L["freund"]={{path="chatsounds/autoadd/instagib/freund.ogg",length=2.600}}
 L["friedhof"]={{path="chatsounds/autoadd/instagib/friedhof.ogg",length=3.769}}
 L["frisur"]={{path="chatsounds/autoadd/instagib/frisur.ogg",length=4.487}}
@@ -596,6 +594,7 @@ L["im going to kick your ass"]={{path="chatsounds/autoadd/instagib/im going to k
 L["im ignoring you"]={{path="chatsounds/autoadd/instagib/im ignoring you.ogg",length=1.302}}
 L["imbad"]={{path="chatsounds/autoadd/instagib/imbad.ogg",length=3.977}}
 L["immaster"]={{path="chatsounds/autoadd/instagib/immaster.ogg",length=2.750}}
+L["immer mitten in die fresse rein"]={{path="chatsounds/autoadd/instagib/immer mitten in die fresse rein.ogg",length=3.373}}
 L["impressive"]={{path="chatsounds/autoadd/instagib/impressive.ogg",length=2.250}}
 L["indianer"]={{path="chatsounds/autoadd/instagib/indianer.ogg",length=4.808}}
 L["infanterie"]={{path="chatsounds/autoadd/instagib/infanterie.ogg",length=4.432}}
@@ -1033,12 +1032,12 @@ L["schachmatt"]={{path="chatsounds/autoadd/instagib/schachmatt.ogg",length=2.533
 L["schaedel"]={{path="chatsounds/autoadd/instagib/schaedel.ogg",length=2.592}}
 L["scheiss"]={{path="chatsounds/autoadd/instagib/scheiss.ogg",length=4.200}}
 L["scheisse"]={{path="chatsounds/autoadd/instagib/scheisse.ogg",length=6.450}}
+L["scheisse arschloch arschloch"]={{path="chatsounds/autoadd/instagib/scheisse arschloch arschloch.ogg",length=1.311}}
 L["scheissehier"]={{path="chatsounds/autoadd/instagib/scheissehier.ogg",length=2.093}}
 L["scheisser"]={{path="chatsounds/autoadd/instagib/scheisser.ogg",length=2.930}}
 L["schicken1"]={{path="chatsounds/autoadd/instagib/schicken1.ogg",length=17.386}}
 L["schicken2"]={{path="chatsounds/autoadd/instagib/schicken2.ogg",length=10.141}}
 L["schicken3"]={{path="chatsounds/autoadd/instagib/schicken3.ogg",length=20.767}}
-L["schiess"]={{path="chatsounds/autoadd/instagib/schiess.ogg",length=3.553}}
 L["schlitz"]={{path="chatsounds/autoadd/instagib/schlitz.ogg",length=4.000}}
 L["schluck"]={{path="chatsounds/autoadd/instagib/schluck.ogg",length=3.109}}
 L["schmerz"]={{path="chatsounds/autoadd/instagib/schmerz.ogg",length=7.251}}
