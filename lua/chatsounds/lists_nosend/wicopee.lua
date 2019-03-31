@@ -15,6 +15,7 @@ L["all of this behaviour is a symptom of the fact that youre not expressing your
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
 L["and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers"]={{path="chatsounds/autoadd/wicopee/and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers.ogg",length=6.273}}
+L["and youre wondering what it is"]={{path="chatsounds/autoadd/wicopee/and youre wondering what it is.ogg",length=2.239}}
 L["annie are you ok"]={{path="chatsounds/autoadd/wicopee/annie are you ok.ogg",length=7.718}}
 L["anyanya"]={{path="chatsounds/autoadd/wicopee/anyanya.ogg",length=0.725}}
 L["are you paralyzed by your anger"]={{path="chatsounds/autoadd/wicopee/are you paralyzed by your anger.ogg",length=2.769}}
@@ -76,12 +77,14 @@ L["hleb v kota ne prevratilsya"]={{path="chatsounds/autoadd/wicopee/hleb v kota 
 L["hochesh est"]={{path="chatsounds/autoadd/wicopee/hochesh est.ogg",length=0.914}}
 L["how to tie a noose and watch the lion king"]={{path="chatsounds/autoadd/wicopee/how to tie a noose and watch the lion king.ogg",length=2.574}}
 L["huhuhuhu"]={{path="chatsounds/autoadd/wicopee/huhuhuhu.ogg",length=0.756}}
+L["i regret the thing i did"]={{path="chatsounds/autoadd/wicopee/i regret the thing i did.ogg",length=2.079}}
 L["i tak mi na fabrike po proizvodstvu suhogo kashlya"]={{path="chatsounds/autoadd/wicopee/i tak mi na fabrike po proizvodstvu suhogo kashlya.ogg",length=3.713}}
 L["i tut zhe nachili buhat"]={{path="chatsounds/autoadd/wicopee/i tut zhe nachili buhat.ogg",length=1.253}}
 L["i tuuutut ya"]={{path="chatsounds/autoadd/wicopee/i tuuutut ya.ogg",length=0.760}}
 L["if its not fun why bother"]={{path="chatsounds/autoadd/wicopee/if its not fun why bother.ogg",length=2.009}}
 L["igor"]={{path="chatsounds/autoadd/wicopee/igor.ogg",length=0.637}}
 L["john cena"]={{path="chatsounds/autoadd/wicopee/john cena.ogg",length=2.595}}
+L["just did a bad thing"]={{path="chatsounds/autoadd/wicopee/just did a bad thing.ogg",length=1.851}}
 L["kakoi russki ne lubit saas"]={{path="chatsounds/autoadd/wicopee/kakoi russki ne lubit saas.ogg",length=2.140}}
 L["kakoi zhe"]={{path="chatsounds/autoadd/wicopee/kakoi zhe.ogg",length=0.601}}
 L["keemstar screaming"]={{path="chatsounds/autoadd/wicopee/keemstar screaming.ogg",length=10.031}}
@@ -149,6 +152,7 @@ L["spi spi"]={{path="chatsounds/autoadd/wicopee/spi spi.ogg",length=0.555}}
 L["tableknockintense"]={{path="chatsounds/autoadd/wicopee/tableknockintense.ogg",length=0.381}}
 L["tablesmack da hvatit"]={{path="chatsounds/autoadd/wicopee/tablesmack da hvatit.ogg",length=2.741}}
 L["tebe blini zdelat"]={{path="chatsounds/autoadd/wicopee/tebe blini zdelat.ogg",length=0.846}}
+L["tell you what i did i did a bad thing"]={{path="chatsounds/autoadd/wicopee/tell you what i did i did a bad thing.ogg",length=4.131}}
 L["the fuck you say to me you little shit"]={{path="chatsounds/autoadd/wicopee/the fuck you say to me you little shit.ogg",length=2.350}}
 L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.502}}
 L["this stupid fucking justice"]={{path="chatsounds/autoadd/wicopee/this stupid fucking justice.ogg",length=2.181}}
