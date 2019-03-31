@@ -23,6 +23,7 @@ L["and my shoes"]={{path="chatsounds/autoadd/bill_wurtz/and my shoes.ogg",length
 L["and now the crappiest video in the world"]={{path="chatsounds/autoadd/bill_wurtz/and now the crappiest video in the world.ogg",length=3.106}}
 L["and the instrument that i play"]={{path="chatsounds/autoadd/bill_wurtz/and the instrument that i play.ogg",length=2.415}}
 L["and wear a nice coat"]={{path="chatsounds/autoadd/bill_wurtz/and wear a nice coat.ogg",length=1.939}}
+L["and youre wondering what it is"]={{path="chatsounds/autoadd/bill_wurtz/and youre wondering what it is.ogg",length=2.239}}
 L["apple juice"]={{path="chatsounds/autoadd/bill_wurtz/apple juice/apple juice 1.ogg",length=0.840},{path="chatsounds/autoadd/bill_wurtz/apple juice/apple juice 2.ogg",length=0.882}}
 L["are you going to sing every day"]={{path="chatsounds/autoadd/bill_wurtz/are you going to sing every day.ogg",length=0.644}}
 L["are you the real you"]={{path="chatsounds/autoadd/bill_wurtz/are you the real you.ogg",length=3.686}}
@@ -204,6 +205,7 @@ L["i know of a cool place to go"]={{path="chatsounds/autoadd/bill_wurtz/i know o
 L["i like salad"]={{path="chatsounds/autoadd/bill_wurtz/i like salad.ogg",length=1.002}}
 L["i live at kosciuszko street"]={{path="chatsounds/autoadd/bill_wurtz/i live at kosciuszko street.ogg",length=2.952}}
 L["i make it myself"]={{path="chatsounds/autoadd/bill_wurtz/i make it myself.ogg",length=0.652}}
+L["i regret the thing i did"]={{path="chatsounds/autoadd/bill_wurtz/i regret the thing i did.ogg",length=2.079}}
 L["i should go back to space"]={{path="chatsounds/autoadd/bill_wurtz/i should go back to space.ogg",length=1.328}}
 L["i think i just made some bread in my head"]={{path="chatsounds/autoadd/bill_wurtz/i think i just made some bread in my head.ogg",length=5.454}}
 L["i was wondering how to feel"]={{path="chatsounds/autoadd/bill_wurtz/i was wondering how to feel.ogg",length=5.084}}
@@ -253,6 +255,7 @@ L["ive been thinking a long time"]={{path="chatsounds/autoadd/bill_wurtz/ive bee
 L["jazznbc"]={{path="chatsounds/autoadd/bill_wurtz/jazznbc.ogg",length=8.858}}
 L["jingle bells im a cop"]={{path="chatsounds/autoadd/bill_wurtz/jingle bells im a cop.ogg",length=1.753}}
 L["jk"]={{path="chatsounds/autoadd/bill_wurtz/jk.ogg",length=0.376}}
+L["just did a bad thing"]={{path="chatsounds/autoadd/bill_wurtz/just did a bad thing.ogg",length=1.851}}
 L["just kidding i do it"]={{path="chatsounds/autoadd/bill_wurtz/just kidding i do it.ogg",length=2.288}}
 L["just kill him"]={{path="chatsounds/autoadd/bill_wurtz/just kill him.ogg",length=0.603}}
 L["just let me sleep on a pile of clothes"]={{path="chatsounds/autoadd/bill_wurtz/just let me sleep on a pile of clothes.ogg",length=6.300}}
@@ -383,6 +386,7 @@ L["sudden revelation"]={{path="chatsounds/autoadd/bill_wurtz/sudden revelation.o
 L["take a video of the ceiling oops i had the camera pointing the wrong way"]={{path="chatsounds/autoadd/bill_wurtz/take a video of the ceiling oops i had the camera pointing the wrong way.ogg",length=3.747}}
 L["tape"]={{path="chatsounds/autoadd/bill_wurtz/tape.ogg",length=0.778}}
 L["taxes"]={{path="chatsounds/autoadd/bill_wurtz/taxes.ogg",length=0.552}}
+L["tell you what i did i did a bad thing"]={{path="chatsounds/autoadd/bill_wurtz/tell you what i did i did a bad thing.ogg",length=4.131}}
 L["thank you thank you so much"]={{path="chatsounds/autoadd/bill_wurtz/thank you thank you so much.ogg",length=1.757}}
 L["thats magic"]={{path="chatsounds/autoadd/bill_wurtz/thats magic.ogg",length=1.148}}
 L["thats the way i like to live my life"]={{path="chatsounds/autoadd/bill_wurtz/thats the way i like to live my life.ogg",length=8.642}}
