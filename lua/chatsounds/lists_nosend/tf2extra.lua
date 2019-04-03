@@ -127,6 +127,7 @@ L["mortis longdick"]={{path="chatsounds/autoadd/tf2extra/mortis longdick.ogg",le
 L["mrprprpm"]={{path="chatsounds/autoadd/tf2extra/mrprprpm.ogg",length=0.653}}
 L["mumnumnum"]={{path="chatsounds/autoadd/tf2extra/mumnumnum.ogg",length=0.809}}
 L["needas"]={{path="chatsounds/autoadd/tf2extra/needas.ogg",length=0.472}}
+L["nig"]={{path="chatsounds/autoadd/tf2extra/nig.ogg",length=0.616}}
 L["nigger"]={{path="chatsounds/autoadd/tf2extra/nigger.ogg",length=0.965}}
 L["nneeiinn"]={{path="chatsounds/autoadd/tf2extra/nneeiinn.ogg",length=1.878}}
 L["no shut the fuck up distorted"]={{path="chatsounds/autoadd/tf2extra/no shut the fuck up distorted.ogg",length=3.193}}
