@@ -37,6 +37,7 @@ L["fasttalk"]={{path="chatsounds/autoadd/mad_matrix/fasttalk.ogg",length=7.464}}
 L["for two whole weeks we were one step away from the walking dead"]={{path="chatsounds/autoadd/mad_matrix/for two whole weeks we were one step away from the walking dead.ogg",length=4.060}}
 L["fuck you"]={{path="chatsounds/autoadd/mad_matrix/fuck you.ogg",length=0.932}}
 L["fuuuuuuuuuudge"]={{path="chatsounds/autoadd/mad_matrix/fuuuuuuuuuudge.ogg",length=5.233}}
+L["gasp and i oh ohoh its just a little hes my pet thats a rat that is a mouse"]={{path="chatsounds/autoadd/mad_matrix/gasp and i oh ohoh its just a little hes my pet thats a rat that is a mouse.ogg",length=6.763}}
 L["gatelower"]={{path="chatsounds/autoadd/mad_matrix/gatelower.ogg",length=1.301}}
 L["gateraise"]={{path="chatsounds/autoadd/mad_matrix/gateraise.ogg",length=1.141}}
 L["gotcha"]={{path="chatsounds/autoadd/mad_matrix/gotcha.ogg",length=0.401}}
