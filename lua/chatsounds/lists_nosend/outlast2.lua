@@ -17,6 +17,7 @@ L["kill that child if you can"]={{path="chatsounds/autoadd/outlast2/kill that ch
 L["knothdeath"]={{path="chatsounds/autoadd/outlast2/knothdeath.ogg",length=14.443}}
 L["my lord"]={{path="chatsounds/autoadd/outlast2/my lord.ogg",length=1.378}}
 L["none of you really"]={{path="chatsounds/autoadd/outlast2/none of you really.ogg",length=2.339}}
+L["oh oh no daddy daddy help fire the lamp spilled daddy please daddy oh god"]={{path="chatsounds/autoadd/outlast2/oh oh no daddy daddy help fire the lamp spilled daddy please daddy oh god.ogg",length=9.787}}
 L["really sigh"]={{path="chatsounds/autoadd/outlast2/really sigh.ogg",length=2.410}}
 L["take the gag off coughing thank you josiah thats enough"]={{path="chatsounds/autoadd/outlast2/take the gag off coughing thank you josiah thats enough.ogg",length=9.059}}
 L["thats thats the child isnt it"]={{path="chatsounds/autoadd/outlast2/thats thats the child isnt it.ogg",length=2.404}}
