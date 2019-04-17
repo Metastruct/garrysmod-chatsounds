@@ -48,16 +48,6 @@ L["mindblown"]={{path="chatsounds/autoadd/beauty_bomber/mindblown.ogg",length=23
 L["mmm try again"]={{path="chatsounds/autoadd/beauty_bomber/mmm try again.ogg",length=1.500}}
 L["mmm you bet"]={{path="chatsounds/autoadd/beauty_bomber/mmm you bet.ogg",length=1.812}}
 L["moar"]={{path="chatsounds/autoadd/beauty_bomber/moar.ogg",length=0.364}}
-L["mooncosmicpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooncosmicpowermakeup.ogg",length=31.442}}
-L["mooncosmicpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooncosmicpowermakeupfx.ogg",length=30.310}}
-L["mooncrisismakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooncrisismakeup.ogg",length=31.200}}
-L["mooncrisismakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooncrisismakeupfx.ogg",length=29.850}}
-L["mooncrystalpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooncrystalpowermakeup.ogg",length=36.466}}
-L["mooncrystalpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooncrystalpowermakeupfx.ogg",length=42.739}}
-L["mooneternalmakeup"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmakeup.ogg",length=37.204}}
-L["mooneternalmakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/mooneternalmakeupfx.ogg",length=35.450}}
-L["moonprismpowermakeup"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeup.ogg",length=37.650}}
-L["moonprismpowermakeupfx"]={{path="chatsounds/autoadd/beauty_bomber/moonprismpowermakeupfx.ogg",length=40.700}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",length=36.785}}
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/beauty_bomber/nah i dont really feel like it.ogg",length=2.319}}
 L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.730}}
