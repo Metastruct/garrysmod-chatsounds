@@ -29,6 +29,8 @@ L["gimme that hat"]={{path="chatsounds/autoadd/beauty_bomber/gimme that hat.ogg"
 L["goodbye everyone ill remember you all in therapy"]={{path="chatsounds/autoadd/beauty_bomber/goodbye everyone ill remember you all in therapy.ogg",length=3.111}}
 L["graciefilms distorted"]={{path="chatsounds/autoadd/beauty_bomber/graciefilms distorted.ogg",length=3.242}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}
+L["hah haha ha ha haaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/hah haha ha ha haaaaaa.ogg",length=2.368}}
+L["hhhhhh"]={{path="chatsounds/autoadd/beauty_bomber/hhhhhh.ogg",length=0.626}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.375}}
 L["i said give it to me"]={{path="chatsounds/autoadd/beauty_bomber/i said give it to me.ogg",length=1.903}}
@@ -43,6 +45,10 @@ L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",len
 L["like maybe five or six right now my dude"]={{path="chatsounds/autoadd/beauty_bomber/like maybe five or six right now my dude.ogg",length=2.499}}
 L["lmtai loop"]={{path="chatsounds/autoadd/beauty_bomber/lmtai loop/1.ogg",length=14.900},{path="chatsounds/autoadd/beauty_bomber/lmtai loop/2.ogg",length=7.464}}
 L["loud succ"]={{path="chatsounds/autoadd/beauty_bomber/loud succ.ogg",length=2.475}}
+L["meeee"]={{path="chatsounds/autoadd/beauty_bomber/meeee.ogg",length=1.502}}
+L["meeee meeeeee meeeeeeeee hahahahahahaaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/meeee meeeeee meeeeeeeee hahahahahahaaaaaa.ogg",length=8.425}}
+L["meeeeee"]={{path="chatsounds/autoadd/beauty_bomber/meeeeee.ogg",length=1.347}}
+L["meeeeeeeee"]={{path="chatsounds/autoadd/beauty_bomber/meeeeeeeee.ogg",length=1.834}}
 L["meme school"]={{path="chatsounds/autoadd/beauty_bomber/meme school.ogg",length=1.067}}
 L["mindblown"]={{path="chatsounds/autoadd/beauty_bomber/mindblown.ogg",length=23.798}}
 L["mmm try again"]={{path="chatsounds/autoadd/beauty_bomber/mmm try again.ogg",length=1.500}}
