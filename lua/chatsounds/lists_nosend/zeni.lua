@@ -1,4 +1,5 @@
 c.StartList("zeni")
+L["ah shit here we go again"]={{path="chatsounds/autoadd/zeni/ah shit here we go again.ogg",length=2.523}}
 L["and repaired it with only flex tape"]={{path="chatsounds/autoadd/zeni/and repaired it with only flex tape.ogg",length=2.659}}
 L["banned for life"]={{path="chatsounds/autoadd/zeni/banned for life.ogg",length=4.682}}
 L["begone thot"]={{path="chatsounds/autoadd/zeni/begone thot.ogg",length=2.000}}
