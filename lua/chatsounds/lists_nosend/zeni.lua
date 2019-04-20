@@ -5,7 +5,6 @@ L["banned for life"]={{path="chatsounds/autoadd/zeni/banned for life.ogg",length
 L["begone thot"]={{path="chatsounds/autoadd/zeni/begone thot.ogg",length=2.000}}
 L["big damage"]={{path="chatsounds/autoadd/zeni/big damage.ogg",length=1.226}}
 L["chinken nunget"]={{path="chatsounds/autoadd/zeni/chinken nunget.ogg",length=2.206}}
-L["circustheme"]={{path="chatsounds/autoadd/zeni/circustheme.ogg",length=34.729}}
 L["do you wanna phucking beesechurger"]={{path="chatsounds/autoadd/zeni/do you wanna phucking beesechurger.ogg",length=2.895}}
 L["flextapechainsaw"]={{path="chatsounds/autoadd/zeni/flextapechainsaw.ogg",length=14.116}}
 L["flextapesawing"]={{path="chatsounds/autoadd/zeni/flextapesawing.ogg",length=6.313}}
