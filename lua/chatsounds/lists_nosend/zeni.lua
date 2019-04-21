@@ -14,6 +14,8 @@ L["i sawed this boat in half"]={{path="chatsounds/autoadd/zeni/i sawed this boat
 L["ladies and gentlemen we got him"]={{path="chatsounds/autoadd/zeni/ladies and gentlemen we got him.ogg",length=2.899}}
 L["now thats a lotta damage"]={{path="chatsounds/autoadd/zeni/now thats a lotta damage.ogg",length=1.750}}
 L["please i just want to see my wife again"]={{path="chatsounds/autoadd/zeni/please i just want to see my wife again.ogg",length=3.021}}
+L["risitadoom"]={{path="chatsounds/autoadd/zeni/risitadoom.ogg",length=17.329}}
+L["risitalaugh"]={{path="chatsounds/autoadd/zeni/risitalaugh/1.ogg",length=11.353},{path="chatsounds/autoadd/zeni/risitalaugh/2.ogg",length=7.872},{path="chatsounds/autoadd/zeni/risitalaugh/3.ogg",length=4.342},{path="chatsounds/autoadd/zeni/risitalaugh/4.ogg",length=3.087},{path="chatsounds/autoadd/zeni/risitalaugh/5.ogg",length=4.389},{path="chatsounds/autoadd/zeni/risitalaugh/6.ogg",length=5.248}}
 L["spidermanpizzatheme"]={{path="chatsounds/autoadd/zeni/spidermanpizzatheme.ogg",length=87.290}}
 L["thats a lotta damage"]={{path="chatsounds/autoadd/zeni/thats a lotta damage.ogg",length=1.615}}
 L["to show you the power of flex tape"]={{path="chatsounds/autoadd/zeni/to show you the power of flex tape.ogg",length=2.948}}
