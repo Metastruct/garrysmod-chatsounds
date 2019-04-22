@@ -14,9 +14,11 @@ L["but look what were dealing with man"]={{path="chatsounds/autoadd/jontron/but 
 L["caaaaaaaaaaaaaaaars"]={{path="chatsounds/autoadd/jontron/caaaaaaaaaaaaaaaars.ogg",length=1.907}}
 L["cmere banny"]={{path="chatsounds/autoadd/jontron/cmere banny.ogg",length=1.130}}
 L["did i hallucinated all that didnt i"]={{path="chatsounds/autoadd/jontron/did i hallucinated all that didnt i.ogg",length=1.668}}
+L["dundundun dun da da da da clapping you dont get a ring ha"]={{path="chatsounds/autoadd/jontron/dundundun dun da da da da clapping you dont get a ring ha.ogg",length=3.682}}
 L["finally a game system for me"]={{path="chatsounds/autoadd/jontron/finally a game system for me.ogg",length=2.470}}
 L["fuck it"]={{path="chatsounds/autoadd/jontron/fuck it.ogg",length=0.535}}
 L["fuck you"]={{path="chatsounds/autoadd/jontron/fuck you.ogg",length=1.254}}
+L["ha"]={{path="chatsounds/autoadd/jontron/ha.ogg",length=0.582}}
 L["i aint gonna take that sitting down"]={{path="chatsounds/autoadd/jontron/i aint gonna take that sitting down.ogg",length=3.346}}
 L["i aint havin that shit"]={{path="chatsounds/autoadd/jontron/i aint havin that shit.ogg",length=3.004}}
 L["i appreciate it"]={{path="chatsounds/autoadd/jontron/i appreciate it.ogg",length=1.276}}
