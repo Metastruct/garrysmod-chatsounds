@@ -145,6 +145,7 @@ L["ti ubil etu dvercu"]={{path="chatsounds/autoadd/mad_matrix/ti ubil etu dvercu
 L["ti ubil golfista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil golfista.ogg",length=1.043}}
 L["ti ubil japonskogo onanista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil japonskogo onanista.ogg",length=1.504}}
 L["tits"]={{path="chatsounds/autoadd/mad_matrix/tits.ogg",length=1.246}}
+L["trickstab"]={{path="chatsounds/autoadd/mad_matrix/trickstab.ogg",length=1.067}}
 L["twang"]={{path="chatsounds/autoadd/mad_matrix/twang.ogg",length=1.538}}
 L["u hav to be extremely craeful"]={{path="chatsounds/autoadd/mad_matrix/u hav to be extremely craeful.ogg",length=3.402}}
 L["vernonscreamdistorted"]={{path="chatsounds/autoadd/mad_matrix/vernonscreamdistorted.ogg",length=4.121}}
