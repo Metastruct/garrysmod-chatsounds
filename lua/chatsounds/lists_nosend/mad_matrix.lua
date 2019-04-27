@@ -2,6 +2,8 @@ c.StartList("mad_matrix")
 L["aaa blyad"]={{path="chatsounds/autoadd/mad_matrix/aaa blyad.ogg",length=1.802}}
 L["aaaaa"]={{path="chatsounds/autoadd/mad_matrix/aaaaa.ogg",length=0.575}}
 L["aladdinsound"]={{path="chatsounds/autoadd/mad_matrix/aladdinsound.ogg",length=1.627}}
+L["all the way from london england london london did you know there were black people in london though really"]={{path="chatsounds/autoadd/mad_matrix/all the way from london england london london did you know there were black people in london though really.ogg",length=6.407}}
+L["and as you walk by they pick you out for random searches except its not that random in nigeria"]={{path="chatsounds/autoadd/mad_matrix/and as you walk by they pick you out for random searches except its not that random in nigeria.ogg",length=5.944}}
 L["and thats why we running for a third term were not who the hell said that"]={{path="chatsounds/autoadd/mad_matrix/and thats why we running for a third term were not who the hell said that.ogg",length=5.759}}
 L["and then i stuffed the crack down his ass hahahahaha"]={{path="chatsounds/autoadd/mad_matrix/and then i stuffed the crack down his ass hahahahaha.ogg",length=5.048}}
 L["and then you all just got up and moved on to the next day"]={{path="chatsounds/autoadd/mad_matrix/and then you all just got up and moved on to the next day.ogg",length=2.731}}
@@ -14,6 +16,7 @@ L["begone thot"]={{path="chatsounds/autoadd/mad_matrix/begone thot.ogg",length=2
 L["bug flyby"]={{path="chatsounds/autoadd/mad_matrix/bug flyby.ogg",length=2.728}}
 L["calm yourself iago soon i will be princess"]={{path="chatsounds/autoadd/mad_matrix/calm yourself iago soon i will be princess.ogg",length=7.422}}
 L["carnivalextreme"]={{path="chatsounds/autoadd/mad_matrix/carnivalextreme.ogg",length=2.301}}
+L["cause its a bit of corruption okay alot of corruption"]={{path="chatsounds/autoadd/mad_matrix/cause its a bit of corruption okay alot of corruption.ogg",length=4.959}}
 L["cocks cocks cocks cocks roar"]={{path="chatsounds/autoadd/mad_matrix/cocks cocks cocks cocks roar.ogg",length=3.692}}
 L["cost me 700 dollars to get outta that friggin airport"]={{path="chatsounds/autoadd/mad_matrix/cost me 700 dollars to get outta that friggin airport.ogg",length=2.884}}
 L["crack"]={{path="chatsounds/autoadd/mad_matrix/crack.ogg",length=0.238}}
@@ -107,6 +110,7 @@ L["oh dont mind that its just my nephew hes very disturbed"]={{path="chatsounds/
 L["oh my god the fu the fucking jelly bean oh my god"]={{path="chatsounds/autoadd/mad_matrix/oh my god the fu the fucking jelly bean oh my god.ogg",length=3.927}}
 L["oh what the hell"]={{path="chatsounds/autoadd/mad_matrix/oh what the hell.ogg",length=0.861}}
 L["ok guys so im gonna get this gate open"]={{path="chatsounds/autoadd/mad_matrix/ok guys so im gonna get this gate open.ogg",length=2.197}}
+L["okay close your case close your case take your case off the table"]={{path="chatsounds/autoadd/mad_matrix/okay close your case close your case take your case off the table.ogg",length=3.659}}
 L["omae wa mo shindeiru"]={{path="chatsounds/autoadd/mad_matrix/omae wa mo shindeiru.ogg",length=2.298}}
 L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1.337}}
 L["oohh yees"]={{path="chatsounds/autoadd/mad_matrix/oohh yees.ogg",length=1.473}}
@@ -145,6 +149,7 @@ L["ti ubil etu dvercu"]={{path="chatsounds/autoadd/mad_matrix/ti ubil etu dvercu
 L["ti ubil golfista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil golfista.ogg",length=1.043}}
 L["ti ubil japonskogo onanista"]={{path="chatsounds/autoadd/mad_matrix/ti ubil japonskogo onanista.ogg",length=1.504}}
 L["tits"]={{path="chatsounds/autoadd/mad_matrix/tits.ogg",length=1.246}}
+L["to get out the door you have to walk through a line of officers"]={{path="chatsounds/autoadd/mad_matrix/to get out the door you have to walk through a line of officers.ogg",length=3.288}}
 L["trickstab"]={{path="chatsounds/autoadd/mad_matrix/trickstab.ogg",length=1.067}}
 L["twang"]={{path="chatsounds/autoadd/mad_matrix/twang.ogg",length=1.538}}
 L["u hav to be extremely craeful"]={{path="chatsounds/autoadd/mad_matrix/u hav to be extremely craeful.ogg",length=3.402}}
