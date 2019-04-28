@@ -25,4 +25,5 @@ L["this is not a trickkkk"]={{path="chatsounds/autoadd/superraxxo1/this is not a
 L["whatever you say is cancer"]={{path="chatsounds/autoadd/superraxxo1/whatever you say is cancer.ogg",length=3.104}}
 L["ya dipshit"]={{path="chatsounds/autoadd/superraxxo1/ya dipshit.ogg",length=0.893}}
 L["you autistic little shit"]={{path="chatsounds/autoadd/superraxxo1/you autistic little shit.ogg",length=1.527}}
+L["you stupid ohgod demoscreaming heavysinging shit ha ha ha ha demonoises"]={{path="chatsounds/autoadd/superraxxo1/you stupid ohgod demoscreaming heavysinging shit ha ha ha ha demonoises.ogg",length=15.816}}
 c.EndList()
