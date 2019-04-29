@@ -12,10 +12,23 @@ L["abesorry"]={{path="chatsounds/autoadd/bjoern/abesorry.ogg",length=0.346}}
 L["abestopit"]={{path="chatsounds/autoadd/bjoern/abestopit.ogg",length=0.601}}
 L["abewait"]={{path="chatsounds/autoadd/bjoern/abewait.ogg",length=0.337}}
 L["abework"]={{path="chatsounds/autoadd/bjoern/abework.ogg",length=0.381}}
+L["glukkonalloya"]={{path="chatsounds/autoadd/bjoern/glukkonalloya.ogg",length=0.653}}
+L["glukkoncomehere"]={{path="chatsounds/autoadd/bjoern/glukkoncomehere.ogg",length=0.624}}
+L["glukkondoit"]={{path="chatsounds/autoadd/bjoern/glukkondoit.ogg",length=0.472}}
+L["glukkonhelp"]={{path="chatsounds/autoadd/bjoern/glukkonhelp.ogg",length=0.534}}
+L["glukkonhey"]={{path="chatsounds/autoadd/bjoern/glukkonhey.ogg",length=0.395}}
+L["glukkonkillem"]={{path="chatsounds/autoadd/bjoern/glukkonkillem.ogg",length=0.756}}
+L["glukkonlaugh"]={{path="chatsounds/autoadd/bjoern/glukkonlaugh.ogg",length=0.574}}
+L["glukkonstayhere"]={{path="chatsounds/autoadd/bjoern/glukkonstayhere.ogg",length=0.646}}
+L["i am pikachu"]={{path="chatsounds/autoadd/bjoern/i am pikachu.ogg",length=1.041}}
+L["may i make a suggestion penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/may i make a suggestion penispenispenispenis.ogg",length=3.301}}
+L["odd worm scream"]={{path="chatsounds/autoadd/bjoern/odd worm scream.ogg",length=1.783}}
+L["penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/penispenispenispenis.ogg",length=1.383}}
 L["sligbs"]={{path="chatsounds/autoadd/bjoern/sligbs.ogg",length=0.263}}
 L["sligfreeze"]={{path="chatsounds/autoadd/bjoern/sligfreeze.ogg",length=0.456}}
 L["sliggetem"]={{path="chatsounds/autoadd/bjoern/sliggetem.ogg",length=0.512}}
 L["sliggrossedout"]={{path="chatsounds/autoadd/bjoern/sliggrossedout.ogg",length=0.482}}
+L["slighelp"]={{path="chatsounds/autoadd/bjoern/slighelp.ogg",length=0.581}}
 L["slighereboy"]={{path="chatsounds/autoadd/bjoern/slighereboy.ogg",length=0.640}}
 L["slighi"]={{path="chatsounds/autoadd/bjoern/slighi.ogg",length=0.475}}
 L["sliglaugh"]={{path="chatsounds/autoadd/bjoern/sliglaugh.ogg",length=0.364}}
