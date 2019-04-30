@@ -20,7 +20,11 @@ L["glukkonhey"]={{path="chatsounds/autoadd/bjoern/glukkonhey.ogg",length=0.395}}
 L["glukkonkillem"]={{path="chatsounds/autoadd/bjoern/glukkonkillem.ogg",length=0.756}}
 L["glukkonlaugh"]={{path="chatsounds/autoadd/bjoern/glukkonlaugh.ogg",length=0.574}}
 L["glukkonstayhere"]={{path="chatsounds/autoadd/bjoern/glukkonstayhere.ogg",length=0.646}}
+L["gun make yo toots come out like fire neh"]={{path="chatsounds/autoadd/bjoern/gun make yo toots come out like fire neh.ogg",length=2.190}}
+L["here oda heer oda heer oda heer"]={{path="chatsounds/autoadd/bjoern/here oda heer oda heer oda heer.ogg",length=1.035}}
 L["i am pikachu"]={{path="chatsounds/autoadd/bjoern/i am pikachu.ogg",length=1.041}}
+L["jerking intensifies"]={{path="chatsounds/autoadd/bjoern/jerking intensifies.ogg",length=5.214}}
+L["mate lemme tell you bout dis chicken here oda heer oda heer oda heer now mate"]={{path="chatsounds/autoadd/bjoern/mate lemme tell you bout dis chicken here oda heer oda heer oda heer now mate.ogg",length=2.921}}
 L["may i make a suggestion penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/may i make a suggestion penispenispenispenis.ogg",length=3.301}}
 L["odd worm scream"]={{path="chatsounds/autoadd/bjoern/odd worm scream.ogg",length=1.783}}
 L["penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/penispenispenispenis.ogg",length=1.383}}
