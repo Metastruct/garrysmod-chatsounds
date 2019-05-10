@@ -57,6 +57,7 @@ L["time to say good bye"]={{path="chatsounds/autoadd/music/time to say good bye.
 L["triple x rated"]={{path="chatsounds/autoadd/music/triple x rated.ogg",length=3.431}}
 L["vse v sportivkakh adidas"]={{path="chatsounds/autoadd/music/vse v sportivkakh adidas.ogg",length=1.571}}
 L["wake me up inside"]={{path="chatsounds/autoadd/music/wake me up inside.ogg",length=21.982}}
+L["wet dreams tomato"]={{path="chatsounds/autoadd/music/where dreams are made of.ogg",length=2.472}}
 L["whatarethosejurassicpark"]={{path="chatsounds/autoadd/music/whatarethosejurassicpark.ogg",length=6.503}}
 L["where dreams are made of"]={{path="chatsounds/autoadd/music/where dreams are made of.ogg",length=2.472}}
 L["why the fuck you lying"]={{path="chatsounds/autoadd/music/why the fuck you lying.ogg",length=2.396}}
