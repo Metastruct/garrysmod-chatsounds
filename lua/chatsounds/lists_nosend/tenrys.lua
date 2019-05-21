@@ -129,6 +129,7 @@ L["maybe i misjudged you"]={{path="chatsounds/autoadd/tenrys/maybe i misjudged y
 L["maybe i was wrong about you"]={{path="chatsounds/autoadd/tenrys/maybe i was wrong about you.ogg",length=2.546}}
 L["memes"]={{path="chatsounds/autoadd/tenrys/memes.ogg",length=0.775}}
 L["meow robotic"]={{path="chatsounds/autoadd/tenrys/meow robotic.ogg",length=0.751}}
+L["mgs5 invasion"]={{path="chatsounds/autoadd/tenrys/mgs5 invasion.ogg",length=3.577}}
 L["mission failed well get em next time"]={{path="chatsounds/autoadd/tenrys/mission failed well get em next time/1.ogg",length=3.019},{path="chatsounds/autoadd/tenrys/mission failed well get em next time/2.ogg",length=1.825}}
 L["mmmmmmm"]={{path="chatsounds/autoadd/tenrys/mmmmmmm.ogg",length=0.961}}
 L["more hurt me more"]={{path="chatsounds/autoadd/tenrys/more hurt me more.ogg",length=2.430}}
