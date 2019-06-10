@@ -78,6 +78,7 @@ L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.55
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.960}}
 L["spacealarm"]={{path="chatsounds/autoadd/beauty_bomber/spacealarm.ogg",length=3.001}}
 L["sphinx uh wire and negro"]={{path="chatsounds/autoadd/beauty_bomber/sphinx uh wire and negro.ogg",length=2.700}}
+L["spongerape"]={{path="chatsounds/autoadd/beauty_bomber/spongerape.ogg",length=8.124}}
 L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.108}}
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.086}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.170},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.151},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.110}}
