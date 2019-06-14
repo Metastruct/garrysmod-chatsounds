@@ -12,6 +12,7 @@ L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.593}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.245}}
 L["brodyquest"]={{path="chatsounds/autoadd/misc/brodyquest.ogg",length=21.342}}
 L["broteamsubscriberalert"]={{path="chatsounds/autoadd/misc/broteamsubscriberalert.ogg",length=12.286}}
+L["bruh"]={{path="chatsounds/autoadd/misc/bruh.ogg",length=0.467}}
 L["but"]={{path="chatsounds/autoadd/misc/but.ogg",length=0.162}}
 L["by"]={{path="chatsounds/autoadd/misc/by.ogg",length=0.208}}
 L["carpet"]={{path="chatsounds/autoadd/misc/carpet.ogg",length=0.419}}
