@@ -83,6 +83,7 @@ L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.086}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.170},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.151},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.110}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.900}}
+L["thats funny"]={{path="chatsounds/autoadd/beauty_bomber/thats funny.ogg",length=1.292}}
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813}}
 L["theres two of them"]={{path="chatsounds/autoadd/beauty_bomber/theres two of them.ogg",length=1.896}}
 L["torchwood stinger"]={{path="chatsounds/autoadd/beauty_bomber/torchwood stinger.ogg",length=4.493}}
