@@ -43,7 +43,7 @@ L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.366}}
 L["hi im paul"]={{path="chatsounds/autoadd/misc/hi im paul.ogg",length=3.065}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.873}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.316}}
-L["i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/i pulled a sneaky on ya.ogg",length=5.782}}
+L["i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/i pulled a sneaky on ya.ogg",length=0.994}}
 L["is"]={{path="chatsounds/autoadd/misc/is.ogg",length=0.194}}
 L["isnt"]={{path="chatsounds/autoadd/misc/isnt.ogg",length=0.286}}
 L["it begins"]={{path="chatsounds/autoadd/misc/it begins.ogg",length=1.474}}
@@ -84,7 +84,7 @@ L["pingas"]={{path="chatsounds/autoadd/misc/pingas.ogg",length=0.563}}
 L["potcfdk"]={{path="chatsounds/autoadd/misc/potcfdk.ogg",length=1.539}}
 L["ppiinnggaass"]={{path="chatsounds/autoadd/misc/ppiinnggaass.ogg",length=5.016}}
 L["ps1startup"]={{path="chatsounds/autoadd/misc/ps1startup.ogg",length=14.233}}
-L["pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/pulled a sneaky on ya.ogg",length=5.782}}
+L["pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/pulled a sneaky on ya.ogg",length=0.867}}
 L["pythong"]={{path="chatsounds/autoadd/misc/pythong.ogg",length=0.614}}
 L["qdance"]={{path="chatsounds/autoadd/misc/qdance.ogg",length=2.010}}
 L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.544}}
@@ -93,7 +93,7 @@ L["rocketlawnchair"]={{path="chatsounds/autoadd/misc/rocketlawnchair.ogg",length
 L["rockthecasbah"]={{path="chatsounds/autoadd/misc/rockthecasbah.ogg",length=7.419}}
 L["roundabout intro"]={{path="chatsounds/autoadd/misc/roundabout intro.ogg",length=10.770}}
 L["san andreas"]={{path="chatsounds/autoadd/misc/san andreas.ogg",length=77.184}}
-L["see i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/see i pulled a sneaky on ya.ogg",length=5.782}}
+L["see i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/see i pulled a sneaky on ya.ogg",length=1.176}}
 L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.772}}
 L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.520}}
 L["she succ me"]={{path="chatsounds/autoadd/misc/she succ me.ogg",length=12.260}}
