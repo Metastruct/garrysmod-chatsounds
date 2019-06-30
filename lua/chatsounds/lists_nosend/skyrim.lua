@@ -10,6 +10,7 @@ L["bad idea"]={{path="chatsounds/autoadd/skyrim/bad idea.ogg",length=1.022}}
 L["been tending to your hounds smell like a wet dog"]={{path="chatsounds/autoadd/skyrim/been tending to your hounds smell like a wet dog.ogg",length=4.551}}
 L["best offence is a good defence am i right"]={{path="chatsounds/autoadd/skyrim/best offence is a good defence am i right.ogg",length=2.508}}
 L["bit late to be wondering around isnt it"]={{path="chatsounds/autoadd/skyrim/bit late to be wondering around isnt it.ogg",length=2.183}}
+L["broorb"]={{path="chatsounds/autoadd/skyrim/broorb.ogg",length=0.766}}
 L["brother"]={{path="chatsounds/autoadd/skyrim/brother.ogg",length=0.929}}
 L["by the gods did that really just happen"]={{path="chatsounds/autoadd/skyrim/by the gods did that really just happen.ogg",length=2.786}}
 L["by the gods it it cant be"]={{path="chatsounds/autoadd/skyrim/by the gods it it cant be.ogg",length=3.111}}
@@ -47,6 +48,7 @@ L["everythings all right"]={{path="chatsounds/autoadd/skyrim/everythings all rig
 L["everythings in order"]={{path="chatsounds/autoadd/skyrim/everythings in order.ogg",length=1.300}}
 L["fine but well be keeping an eye on you"]={{path="chatsounds/autoadd/skyrim/fine but well be keeping an eye on you.ogg",length=3.576}}
 L["funny"]={{path="chatsounds/autoadd/skyrim/funny.ogg",length=0.743}}
+L["fuuf"]={{path="chatsounds/autoadd/skyrim/fuuf.ogg",length=0.901}}
 L["get away from me"]={{path="chatsounds/autoadd/skyrim/get away from me.ogg",length=0.929}}
 L["get him kill him"]={{path="chatsounds/autoadd/skyrim/get him kill him.ogg",length=1.254}}
 L["give up while you still can"]={{path="chatsounds/autoadd/skyrim/give up while you still can.ogg",length=1.486}}
@@ -74,6 +76,7 @@ L["how did you do that"]={{path="chatsounds/autoadd/skyrim/how did you do that.o
 L["how much"]={{path="chatsounds/autoadd/skyrim/how much.ogg",length=0.789}}
 L["huh"]={{path="chatsounds/autoadd/skyrim/huh.ogg",length=0.464}}
 L["hurry"]={{path="chatsounds/autoadd/skyrim/hurry.ogg",length=0.697}}
+L["huuh"]={{path="chatsounds/autoadd/skyrim/huuh.ogg",length=0.565}}
 L["i can pay you"]={{path="chatsounds/autoadd/skyrim/i can pay you.ogg",length=0.975}}
 L["i cant believe im still alive"]={{path="chatsounds/autoadd/skyrim/i cant believe im still alive.ogg",length=1.858}}
 L["i cant believe that worked"]={{path="chatsounds/autoadd/skyrim/i cant believe that worked.ogg",length=1.811}}
@@ -85,13 +88,14 @@ L["i guess youre smarter than you look"]={{path="chatsounds/autoadd/skyrim/i gue
 L["i have feasted on many greater than you"]={{path="chatsounds/autoadd/skyrim/i have feasted on many greater than you.ogg",length=4.272}}
 L["i havent been touched like that since i visited a certain brothel in city of sentinel"]={{path="chatsounds/autoadd/skyrim/i havent been touched like that since i visited a certain brothel in city of sentinel.ogg",length=5.805}}
 L["i know i heard something"]={{path="chatsounds/autoadd/skyrim/i know i heard something.ogg",length=1.347}}
+L["i know i heeaard something"]={{path="chatsounds/autoadd/skyrim/i know i heeaard something.ogg",length=1.844}}
 L["i need to ask you to stop that shouting is making people nervous"]={{path="chatsounds/autoadd/skyrim/i need to ask you to stop that shouting is making people nervous.ogg",length=6.362}}
 L["i saw you do that you know"]={{path="chatsounds/autoadd/skyrim/i saw you do that you know.ogg",length=1.625}}
 L["i spit on you dead sister"]={{path="chatsounds/autoadd/skyrim/i spit on you dead sister.ogg",length=3.390}}
 L["i understand"]={{path="chatsounds/autoadd/skyrim/i understand.ogg",length=0.975}}
 L["i used to be an adventurer like you then i took an arrow in the knee"]={{path="chatsounds/autoadd/skyrim/i used to be an adventurer like you then i took an arrow in the knee.ogg",length=4.412}}
 L["i will feast on your soul in sovngarde"]={{path="chatsounds/autoadd/skyrim/i will feast on your soul in sovngarde.ogg",length=4.783}}
-L["im cumming"]={{path="chatsounds/autoadd/skyrim/im cumming/1.ogg",length=1.404}}
+L["im cumming"]={{path="chatsounds/autoadd/skyrim/im cumming/1.ogg",length=1.404},{path="chatsounds/autoadd/skyrim/im cumming/2.ogg",length=0.874}}
 L["im going to put you down"]={{path="chatsounds/autoadd/skyrim/im going to put you down.ogg",length=2.043}}
 L["im not going to warn you again"]={{path="chatsounds/autoadd/skyrim/im not going to warn you again.ogg",length=1.811}}
 L["im on fire"]={{path="chatsounds/autoadd/skyrim/im on fire.ogg",length=1.533}}
@@ -108,6 +112,7 @@ L["its locked for a reason"]={{path="chatsounds/autoadd/skyrim/its locked for a 
 L["its nothing"]={{path="chatsounds/autoadd/skyrim/its nothing.ogg",length=1.765}}
 L["its really dead then"]={{path="chatsounds/autoadd/skyrim/its really dead then.ogg",length=1.207}}
 L["ive been expecting you"]={{path="chatsounds/autoadd/skyrim/ive been expecting you.ogg",length=1.718}}
+L["ive been sexpecting you"]={{path="chatsounds/autoadd/skyrim/ive been sexpecting you.ogg",length=1.927}}
 L["ive had enough of you"]={{path="chatsounds/autoadd/skyrim/ive had enough of you.ogg",length=1.393}}
 L["ive seen enough to know their fabric the warp of air the rift of time"]={{path="chatsounds/autoadd/skyrim/ive seen enough to know their fabric the warp of air the rift of time.ogg",length=7.012}}
 L["just bring it back to me"]={{path="chatsounds/autoadd/skyrim/just bring it back to me.ogg",length=1.207}}
@@ -144,10 +149,12 @@ L["oh you again"]={{path="chatsounds/autoadd/skyrim/oh you again.ogg",length=2.3
 L["on a cosmological scale its all nearby"]={{path="chatsounds/autoadd/skyrim/on a cosmological scale its all nearby.ogg",length=4.644}}
 L["over here"]={{path="chatsounds/autoadd/skyrim/over here.ogg",length=0.697}}
 L["pathetic"]={{path="chatsounds/autoadd/skyrim/pathetic.ogg",length=0.975}}
+L["pathetic demonic"]={{path="chatsounds/autoadd/skyrim/pathetic demonic.ogg",length=1.028}}
 L["put that down"]={{path="chatsounds/autoadd/skyrim/put that down.ogg",length=0.975}}
 L["resisting arrest will mean your death"]={{path="chatsounds/autoadd/skyrim/resisting arrest will mean your death.ogg",length=2.508}}
 L["rise from death blood of our blood"]={{path="chatsounds/autoadd/skyrim/rise from death blood of our blood.ogg",length=3.622}}
 L["safe travels"]={{path="chatsounds/autoadd/skyrim/safe travels.ogg",length=1.207}}
+L["sey"]={{path="chatsounds/autoadd/skyrim/sey.ogg",length=0.459}}
 L["shouldve figured the little lunatic would completely snap"]={{path="chatsounds/autoadd/skyrim/shouldve figured the little lunatic would completely snap.ogg",length=3.808}}
 L["shut up"]={{path="chatsounds/autoadd/skyrim/shut up.ogg",length=0.975}}
 L["sister"]={{path="chatsounds/autoadd/skyrim/sister.ogg",length=1.022}}
