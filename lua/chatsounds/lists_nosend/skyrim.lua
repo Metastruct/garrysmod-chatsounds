@@ -136,7 +136,7 @@ L["no not like this"]={{path="chatsounds/autoadd/skyrim/no not like this.ogg",le
 L["no one"]={{path="chatsounds/autoadd/skyrim/no one.ogg",length=0.882}}
 L["no one here now"]={{path="chatsounds/autoadd/skyrim/no one here now.ogg",length=1.440}}
 L["no you care about rotting away for a month in a cell"]={{path="chatsounds/autoadd/skyrim/no you care about rotting away for a month in a cell.ogg",length=4.226}}
-L["noh"]={{path="chatsounds/autoadd/skyrim/noh/1.ogg",length=0.836},{path="chatsounds/autoadd/skyrim/noh/2.ogg",length=0.697}}
+L["noo"]={{path="chatsounds/autoadd/skyrim/noo/1.ogg",length=0.836},{path="chatsounds/autoadd/skyrim/noo/2.ogg",length=0.697}}
 L["noon"]={{path="chatsounds/autoadd/skyrim/noon.ogg",length=0.337}}
 L["not impressed"]={{path="chatsounds/autoadd/skyrim/not impressed.ogg",length=1.207}}
 L["not my problem"]={{path="chatsounds/autoadd/skyrim/not my problem.ogg",length=1.115}}
