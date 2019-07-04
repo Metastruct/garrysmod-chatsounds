@@ -32,6 +32,7 @@ L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",len
 L["hah haha ha ha haaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/hah haha ha ha haaaaaa.ogg",length=2.368}}
 L["hhhhhh"]={{path="chatsounds/autoadd/beauty_bomber/hhhhhh.ogg",length=0.626}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
+L["holy shit theyre everywhere ascended"]={{path="chatsounds/autoadd/beauty_bomber/holy shit theyre everywhere ascended.ogg",length=10.830}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.375}}
 L["i said give it to me"]={{path="chatsounds/autoadd/beauty_bomber/i said give it to me.ogg",length=1.903}}
 L["i wonder where this fat fuck floated in from"]={{path="chatsounds/autoadd/beauty_bomber/i wonder where this fat fuck floated in from.ogg",length=2.800}}
