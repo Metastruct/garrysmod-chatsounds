@@ -17,6 +17,7 @@ L["mister sandman"]={{path="chatsounds/autoadd/dergcake/mister sandman.ogg",leng
 L["mulher"]={{path="chatsounds/autoadd/dergcake/mulher.ogg",length=0.684}}
 L["notcake"]={{path="chatsounds/autoadd/dergcake/notcake.ogg",length=0.756}}
 L["pro skill"]={{path="chatsounds/autoadd/dergcake/pro skill/pro_skill1.ogg",length=10.031},{path="chatsounds/autoadd/dergcake/pro skill/pro_skill2.ogg",length=14.707}}
+L["rama"]={{path="chatsounds/autoadd/dergcake/rama/insert it into the cucumber apparatus.ogg",length=1.839},{path="chatsounds/autoadd/dergcake/rama/kneel before your new god.ogg",length=2.447},{path="chatsounds/autoadd/dergcake/rama/rama rama rama rama.ogg",length=1.512},{path="chatsounds/autoadd/dergcake/rama/rama.ogg",length=0.718},{path="chatsounds/autoadd/dergcake/rama/ramans.ogg",length=0.501}}
 L["system failure"]={{path="chatsounds/autoadd/dergcake/system failure.ogg",length=6.567}}
 L["version"]={{path="chatsounds/autoadd/dergcake/version.ogg",length=0.792}}
 L["well beep the fucking boop"]={{path="chatsounds/autoadd/dergcake/well beep the fucking boop.ogg",length=1.350}}
