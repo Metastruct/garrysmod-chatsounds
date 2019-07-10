@@ -26,6 +26,7 @@ L["im shitting myself"]={{path="chatsounds/autoadd/gordon_ramsay/im shitting mys
 L["its black"]={{path="chatsounds/autoadd/gordon_ramsay/its black.ogg",length=1.355}}
 L["its fucked"]={{path="chatsounds/autoadd/gordon_ramsay/its fucked.ogg",length=1.046}}
 L["its fucking raw"]={{path="chatsounds/autoadd/gordon_ramsay/its fucking raw.ogg",length=2.258}}
+L["its like a bisons penis"]={{path="chatsounds/autoadd/gordon_ramsay/its like a bisons penis.ogg",length=1.687}}
 L["its raw"]={{path="chatsounds/autoadd/gordon_ramsay/its raw/1.ogg",length=1.049},{path="chatsounds/autoadd/gordon_ramsay/its raw/2.ogg",length=1.151}}
 L["look at this fat fuck fat fuck fat fuck look at that there look at that"]={{path="chatsounds/autoadd/gordon_ramsay/look at this fat fuck fat fuck fat fuck look at that there look at that.ogg",length=4.656}}
 L["look this fucking pigeons that raw it can still fly"]={{path="chatsounds/autoadd/gordon_ramsay/look this fucking pigeons that raw it can still fly.ogg",length=3.362}}
