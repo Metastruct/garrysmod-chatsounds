@@ -22,7 +22,7 @@ L["click"]={{path="chatsounds/autoadd/bejeweledtwist/click.ogg",length=0.432}}
 L["clickdialog"]={{path="chatsounds/autoadd/bejeweledtwist/clickdialog.ogg",length=0.432}}
 L["coalblasted"]={{path="chatsounds/autoadd/bejeweledtwist/coalblasted.ogg",length=1.379}}
 L["combo"]={{path="chatsounds/autoadd/bejeweledtwist/combo/1.ogg",length=0.836},{path="chatsounds/autoadd/bejeweledtwist/combo/2.ogg",length=0.836},{path="chatsounds/autoadd/bejeweledtwist/combo/3.ogg",length=2.105},{path="chatsounds/autoadd/bejeweledtwist/combo/4.ogg",length=2.105},{path="chatsounds/autoadd/bejeweledtwist/combo/5.ogg",length=2.105},{path="chatsounds/autoadd/bejeweledtwist/combo/6.ogg",length=2.105},{path="chatsounds/autoadd/bejeweledtwist/combo/7.ogg",length=2.105}}
-L["counter_warning"]={{path="chatsounds/autoadd/bejeweledtwist/counter_warning.ogg",length=2.501}}
+L["counterwarning"]={{path="chatsounds/autoadd/bejeweledtwist/counterwarning.ogg",length=2.501}}
 L["doomgemappears"]={{path="chatsounds/autoadd/bejeweledtwist/doomgemappears.ogg",length=3.154}}
 L["doomgemcountdown"]={{path="chatsounds/autoadd/bejeweledtwist/doomgemcountdown.ogg",length=2.356}}
 L["doomgemdestroyed"]={{path="chatsounds/autoadd/bejeweledtwist/doomgemdestroyed.ogg",length=6.647}}
@@ -73,7 +73,7 @@ L["new challenge unlocked"]={{path="chatsounds/autoadd/bejeweledtwist/new challe
 L["nine"]={{path="chatsounds/autoadd/bejeweledtwist/nine.ogg",length=1.458}}
 L["one"]={{path="chatsounds/autoadd/bejeweledtwist/one.ogg",length=1.246}}
 L["one minute"]={{path="chatsounds/autoadd/bejeweledtwist/one minute.ogg",length=2.504}}
-L["powergem_created"]={{path="chatsounds/autoadd/bejeweledtwist/powergem_created.ogg",length=2.937}}
+L["powergemcreated"]={{path="chatsounds/autoadd/bejeweledtwist/powergemcreated.ogg",length=2.937}}
 L["preblast"]={{path="chatsounds/autoadd/bejeweledtwist/preblast.ogg",length=0.924}}
 L["purr"]={{path="chatsounds/autoadd/bejeweledtwist/purr.ogg",length=8.005}}
 L["rankcompletion"]={{path="chatsounds/autoadd/bejeweledtwist/rankcompletion.ogg",length=2.325}}
