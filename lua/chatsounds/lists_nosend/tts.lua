@@ -3,6 +3,7 @@ L["barbecue"]={{path="chatsounds/autoadd/tts/barbecue.ogg",length=0.810}}
 L["blyad"]={{path="chatsounds/autoadd/tts/blyad.ogg",length=0.435}}
 L["coo oo oo oo oo oo oo oo oo oo oo ooll"]={{path="chatsounds/autoadd/tts/coo oo oo oo oo oo oo oo oo oo oo ooll.ogg",length=2.696}}
 L["desudesudesu"]={{path="chatsounds/autoadd/tts/desudesudesu.ogg",length=0.837}}
+L["e621"]={{path="chatsounds/autoadd/tts/e621.ogg",length=1.991}}
 L["gibu me a buroujobu"]={{path="chatsounds/autoadd/tts/gibu me a buroujobu.ogg",length=1.464}}
 L["huyuh"]={{path="chatsounds/autoadd/tts/huyuh.ogg",length=0.540}}
 L["idi naan idi"]={{path="chatsounds/autoadd/tts/idi naan idi.ogg",length=0.912}}
