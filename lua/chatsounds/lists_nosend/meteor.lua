@@ -33,7 +33,7 @@ L["the fuck are you looking at nigger keep scrolling"]={{path="chatsounds/autoad
 L["im going to punch your face in the face"]={{path="chatsounds/autoadd/meteor/punchyourfaceintheface.ogg",length=7.728}}
 L["radical laugh"]={{path="chatsounds/autoadd/meteor/extremelaugh.ogg",length=2.109}}
 L["ouu edgy edgy boy alert"]={{path="chatsounds/autoadd/meteor/edgyboyalert.ogg",length=8.758}}
-L["violent laugh"]={{path="chatsounds/autoadd/meteor/violent laugh.ogg",length=4.413}}
+L["violent laugh"]={{path="chatsounds/autoadd/meteor/violentlaugh.ogg",length=4.413}}
 L["you fucking mongoloid"]={{path="chatsounds/autoadd/meteor/youfuckingmongoloid.ogg",length=1.463}}
 L["mongoloid"]={{path="chatsounds/autoadd/meteor/mongoloid.ogg",length=0.717}
 c.EndList()
