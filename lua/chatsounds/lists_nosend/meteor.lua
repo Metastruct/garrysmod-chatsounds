@@ -24,7 +24,7 @@ L["ninja"]={{path="chatsounds/autoadd/meteor/ninja.ogg",length=0.653}}
 L["ninja flex"]={{path="chatsounds/autoadd/meteor/ninja flex.ogg",length=1.829}}
 L["oh hell no"]={{path="chatsounds/autoadd/meteor/oh hell no.ogg",length=2.496}}
 L["may i have your attention please may i have your attention please"]={{path="chatsounds/autoadd/meteor/may i have your attention please may i have your attention please.ogg",length=6.604}}
-L["will the real slim shady please stand up i repeat will the real slim shady please stand up were gonna have a problem"]={{path="chatsounds/autoadd/meteor/will the real slim shady please stand up i repeat will the real slim shady please stand up were gonna have a problem.ogg",length=20.788}}
+L["will the real slim shady please stand up"]={{path="chatsounds/autoadd/meteor/will the real slim shady please stand up.ogg",length=20.788}}
 L["because yes im the real slim shady im slim shady"]={{path="chatsounds/autoadd/meteor/because yes im the real slim shady im slim shady.ogg",length=6.163}}
 L["so wont the real slim shady please stand up please stand up"]={{path="chatsounds/autoadd/meteor/so wont the real slim shady please stand up please stand up.ogg",length=7.208}}
 L["the fuck are you looking at nigger"]={{path="chatsounds/autoadd/meteor/the fuck are you looking at nigger.ogg",length=2.220}}
