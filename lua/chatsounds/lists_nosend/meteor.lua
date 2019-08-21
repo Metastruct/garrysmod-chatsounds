@@ -19,12 +19,12 @@ L["loki1"]={{path="chatsounds/autoadd/meteor/loki1.ogg",length=3.291}}
 L["loki2"]={{path="chatsounds/autoadd/meteor/loki2.ogg",length=4.389}}
 L["behind you"]={{path="chatsounds/autoadd/meteor/behind you.ogg",length=1.646}}
 L["mario jump"]={{path="chatsounds/autoadd/meteor/mario jump.ogg",length=0.543}}
-L["ey voll krass korrekt was willst du hier junge alle aufmucken hol ich brudah komm ich zu dir hau den knast kaputt junge"]={{path="chatsounds/autoadd/meteor/ey voll krass korrekt was willst du hier junge alle aufmucken hol ich brudah komm ich zu dir hau den knast kaputt junge.ogg",length=6.322}}
+L["ey voll krass korrekt"]={{path="chatsounds/autoadd/meteor/ey voll krass korrekt.ogg",length=6.322}}
 L["ninja"]={{path="chatsounds/autoadd/meteor/ninja.ogg",length=0.653}}
 L["ninja flex"]={{path="chatsounds/autoadd/meteor/ninja flex.ogg",length=1.829}}
 L["oh hell no"]={{path="chatsounds/autoadd/meteor/oh hell no.ogg",length=2.496}}
 L["may i have your attention please may i have your attention please"]={{path="chatsounds/autoadd/meteor/may i have your attention please may i have your attention please.ogg",length=6.604}}
-L["will the real slim shady please stand up i repeat will the real slim shady please stand up were gonna have a problem here ag you all act like youve never seen a white person before"]={{path="chatsounds/autoadd/meteor/will the real slim shady please stand up i repeat will the real slim shady please stand up were gonna have a problem here.ogg",length=20.788}}
+L["will the real slim shady please stand up i repeat will the real slim shady please stand up were gonna have a problem"]={{path="chatsounds/autoadd/meteor/will the real slim shady please stand up i repeat will the real slim shady please stand up were gonna have a problem.ogg",length=20.788}}
 L["because yes im the real slim shady im slim shady"]={{path="chatsounds/autoadd/meteor/because yes im the real slim shady im slim shady.ogg",length=6.163}}
 L["so wont the real slim shady please stand up please stand up"]={{path="chatsounds/autoadd/meteor/so wont the real slim shady please stand up please stand up.ogg",length=7.208}}
 L["the fuck are you looking at nigger"]={{path="chatsounds/autoadd/meteor/the fuck are you looking at nigger.ogg",length=2.220}}
