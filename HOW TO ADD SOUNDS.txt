@@ -20,8 +20,9 @@ https://github.com/Metastruct/garrysmod-chatsounds
 	bit depth   : 16 bit
 	=============================================
 	
-	Name your folders properly
-	Ensure that you can spell
+	- Name your folders properly, this involves naming the folder after a category that fits all of its contained sounds
+	- "Personalized folders" are to be avoided, do not just shove whatever inside a folder with your name
+	- Ensure that you can spell
 
 4.	Make sure you remove left over files that aren't ogg files
 5.	If necessary, you can add a "map.txt" into the folder that contains lines formatted like this:
