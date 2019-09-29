@@ -26,4 +26,5 @@ L["sukaakus"]={{path="chatsounds/autoadd/tts/sukaakus.ogg",length=0.946}}
 L["suomi forever"]={{path="chatsounds/autoadd/tts/suomi forever.ogg",length=1.242}}
 L["suus"]={{path="chatsounds/autoadd/tts/suus.ogg",length=0.478}}
 L["the hook died"]={{path="chatsounds/autoadd/tts/the hook died.ogg",length=0.942}}
+L["volvo anti cock"]={{path="chatsounds/autoadd/tts/volvo anti cock.ogg",length=1.424}}
 c.EndList()
