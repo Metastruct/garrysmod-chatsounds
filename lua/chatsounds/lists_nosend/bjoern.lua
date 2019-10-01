@@ -65,6 +65,7 @@ L["sliglook out"]={{path="chatsounds/autoadd/bjoern/sliglook out.ogg",length=0.5
 L["sligsmobs"]={{path="chatsounds/autoadd/bjoern/sligsmobs.ogg",length=0.473}}
 L["sligwhat"]={{path="chatsounds/autoadd/bjoern/sligwhat.ogg",length=0.394}}
 L["stickman laugh"]={{path="chatsounds/autoadd/bjoern/stickman laugh.ogg",length=2.055}}
+L["tatatata thats all folks"]={{path="chatsounds/autoadd/bjoern/tatatata thats all folks.ogg",length=1.405}}
 L["the qrrbrbirlbel news"]={{path="chatsounds/autoadd/bjoern/the qrrbrbirlbel news.ogg",length=1.972}}
 L["the zeeky word"]={{path="chatsounds/autoadd/bjoern/the zeeky word.ogg",length=0.743}}
 L["this must be worlds smallest coffee cup"]={{path="chatsounds/autoadd/bjoern/this must be worlds smallest coffee cup.ogg",length=3.030}}
