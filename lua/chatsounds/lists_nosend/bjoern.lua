@@ -53,6 +53,7 @@ L["odd worm scream"]={{path="chatsounds/autoadd/bjoern/odd worm scream.ogg",leng
 L["penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/penispenispenispenis.ogg",length=1.383}}
 L["random head laugh"]={{path="chatsounds/autoadd/bjoern/random head laugh.ogg",length=5.564}}
 L["random sound"]={{path="chatsounds/autoadd/bjoern/random sound.ogg",length=6.168}}
+L["runn"]={{path="chatsounds/autoadd/bjoern/runn.ogg",length=1.010}}
 L["sligbs"]={{path="chatsounds/autoadd/bjoern/sligbs.ogg",length=0.263}}
 L["sligfreeze"]={{path="chatsounds/autoadd/bjoern/sligfreeze.ogg",length=0.456}}
 L["sliggetem"]={{path="chatsounds/autoadd/bjoern/sliggetem.ogg",length=0.512}}
