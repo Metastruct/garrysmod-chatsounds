@@ -38,17 +38,17 @@ L["hey michael jackson"]={{path="chatsounds/autoadd/bjoern/hey michael jackson.o
 L["hey the guy who looks like mario"]={{path="chatsounds/autoadd/bjoern/hey the guy who looks like mario.ogg",length=3.038}}
 L["hohoho and merry beeping christmas"]={{path="chatsounds/autoadd/bjoern/hohoho and merry beeping christmas.ogg",length=2.215}}
 L["i am pikachu"]={{path="chatsounds/autoadd/bjoern/i am pikachu.ogg",length=1.041}}
-L["it could barely hold an espresso express espresso"]={{path="chatsounds/autoadd/bjoern/it could barely hold an espresso express espresso.ogg",length=4.005}}
+L["it could barely hold an espresso express espresso"]={{path="chatsounds/autoadd/bjoern/it could barely hold an espresso express espresso.ogg",length=4.017}}
 L["its only batman"]={{path="chatsounds/autoadd/bjoern/its only batman.ogg",length=1.273}}
 L["jerking intensifies"]={{path="chatsounds/autoadd/bjoern/jerking intensifies.ogg",length=5.214}}
-L["jesus christ"]={{path="chatsounds/autoadd/bjoern/jesus christ.ogg",length=1.566}}
+L["jesus christ"]={{path="chatsounds/autoadd/bjoern/jesus christ.ogg",length=1.621}}
 L["kamikaze watermelon"]={{path="chatsounds/autoadd/bjoern/kamikaze watermelon.ogg",length=1.738}}
 L["kw intro"]={{path="chatsounds/autoadd/bjoern/kw intro.ogg",length=0.724}}
 L["kw weee"]={{path="chatsounds/autoadd/bjoern/kw weee.ogg",length=0.428}}
 L["mad penguin"]={{path="chatsounds/autoadd/bjoern/mad penguin.ogg",length=3.781}}
 L["mate lemme tell you bout dis chicken here oda heer oda heer oda heer now mate"]={{path="chatsounds/autoadd/bjoern/mate lemme tell you bout dis chicken here oda heer oda heer oda heer now mate.ogg",length=2.921}}
 L["may i make a suggestion penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/may i make a suggestion penispenispenispenis.ogg",length=3.301}}
-L["my god"]={{path="chatsounds/autoadd/bjoern/my god.ogg",length=1.463}}
+L["my god"]={{path="chatsounds/autoadd/bjoern/my god.ogg",length=1.382}}
 L["odd worm scream"]={{path="chatsounds/autoadd/bjoern/odd worm scream.ogg",length=1.783}}
 L["penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/penispenispenispenis.ogg",length=1.383}}
 L["random head laugh"]={{path="chatsounds/autoadd/bjoern/random head laugh.ogg",length=5.564}}
@@ -69,9 +69,9 @@ L["stickman laugh"]={{path="chatsounds/autoadd/bjoern/stickman laugh.ogg",length
 L["tatatata thats all folks"]={{path="chatsounds/autoadd/bjoern/tatatata thats all folks.ogg",length=1.405}}
 L["the qrrbrbirlbel news"]={{path="chatsounds/autoadd/bjoern/the qrrbrbirlbel news.ogg",length=1.972}}
 L["the zeeky word"]={{path="chatsounds/autoadd/bjoern/the zeeky word.ogg",length=0.743}}
-L["this must be worlds smallest coffee cup"]={{path="chatsounds/autoadd/bjoern/this must be worlds smallest coffee cup.ogg",length=3.030}}
-L["wait what"]={{path="chatsounds/autoadd/bjoern/wait what.ogg",length=0.859}}
-L["what in the world"]={{path="chatsounds/autoadd/bjoern/what in the world.ogg",length=1.730}}
+L["this must be worlds smallest coffee cup"]={{path="chatsounds/autoadd/bjoern/this must be worlds smallest coffee cup.ogg",length=2.984}}
+L["wait what"]={{path="chatsounds/autoadd/bjoern/wait what.ogg",length=0.801}}
+L["what in the world"]={{path="chatsounds/autoadd/bjoern/what in the world.ogg",length=1.614}}
 L["whats up now"]={{path="chatsounds/autoadd/bjoern/whats up now.ogg",length=0.458}}
 L["zeeky h bomb death word"]={{path="chatsounds/autoadd/bjoern/zeeky h bomb death word.ogg",length=0.732}}
 c.EndList()
