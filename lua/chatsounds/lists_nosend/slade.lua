@@ -70,6 +70,7 @@ L["world of padman menu"]={{path="chatsounds/autoadd/slade/world of padman menu.
 L["wrong size motherfucker"]={{path="chatsounds/autoadd/slade/wrong size motherfucker.ogg",length=1.242}}
 L["yeah thats right"]={{path="chatsounds/autoadd/slade/yeah thats right.ogg",length=1.660}}
 L["yeah well you know thats just like uh your opinion man"]={{path="chatsounds/autoadd/slade/yeah well you know thats just like uh your opinion man.ogg",length=5.561}}
+L["you fockin thick twat man"]={{path="chatsounds/autoadd/slade/you fockin thick twat man.ogg",length=1.911}}
 L["you have no power here"]={{path="chatsounds/autoadd/slade/you have no power here.ogg",length=2.868}}
 L["youre not a bmw and you never will be"]={{path="chatsounds/autoadd/slade/youre not a bmw and you never will be.ogg",length=3.228}}
 c.EndList()

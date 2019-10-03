@@ -32,6 +32,7 @@ L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",len
 L["hah haha ha ha haaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/hah haha ha ha haaaaaa.ogg",length=2.368}}
 L["hhhhhh"]={{path="chatsounds/autoadd/beauty_bomber/hhhhhh.ogg",length=0.626}}
 L["hi how are ya"]={{path="chatsounds/autoadd/beauty_bomber/hi how are ya.ogg",length=1.020}}
+L["holy shit theyre everywhere ascended"]={{path="chatsounds/autoadd/beauty_bomber/holy shit theyre everywhere ascended.ogg",length=10.830}}
 L["how many layers of irony are you on"]={{path="chatsounds/autoadd/beauty_bomber/how many layers of irony are you on.ogg",length=2.375}}
 L["i said give it to me"]={{path="chatsounds/autoadd/beauty_bomber/i said give it to me.ogg",length=1.903}}
 L["i wonder where this fat fuck floated in from"]={{path="chatsounds/autoadd/beauty_bomber/i wonder where this fat fuck floated in from.ogg",length=2.800}}
@@ -78,10 +79,12 @@ L["smashing"]={{path="chatsounds/autoadd/beauty_bomber/smashing.ogg",length=1.55
 L["so remember children its wingardium leviosa swish and flick"]={{path="chatsounds/autoadd/beauty_bomber/so remember children its wingardium leviosa swish and flick.ogg",length=4.960}}
 L["spacealarm"]={{path="chatsounds/autoadd/beauty_bomber/spacealarm.ogg",length=3.001}}
 L["sphinx uh wire and negro"]={{path="chatsounds/autoadd/beauty_bomber/sphinx uh wire and negro.ogg",length=2.700}}
+L["spongerape"]={{path="chatsounds/autoadd/beauty_bomber/spongerape.ogg",length=8.124}}
 L["squadilah"]={{path="chatsounds/autoadd/beauty_bomber/squadilah.ogg",length=1.108}}
 L["squiddyg"]={{path="chatsounds/autoadd/beauty_bomber/squiddyg.ogg",length=61.086}}
 L["stop it ron stop"]={{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/1.ogg",length=2.170},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/2.ogg",length=1.151},{path="chatsounds/autoadd/beauty_bomber/stop it ron stop/3.ogg",length=1.110}}
 L["that that you let a penis penetrate your friendship penis"]={{path="chatsounds/autoadd/beauty_bomber/that that you let a penis penetrate your friendship penis.ogg",length=5.900}}
+L["thats funny"]={{path="chatsounds/autoadd/beauty_bomber/thats funny.ogg",length=1.292}}
 L["theatreland"]={{path="chatsounds/autoadd/beauty_bomber/theatreland.ogg",length=27.813}}
 L["theres two of them"]={{path="chatsounds/autoadd/beauty_bomber/theres two of them.ogg",length=1.896}}
 L["torchwood stinger"]={{path="chatsounds/autoadd/beauty_bomber/torchwood stinger.ogg",length=4.493}}

@@ -103,7 +103,6 @@ L["it it it doesnt add up"]={{path="chatsounds/autoadd/breakingbad/it it it does
 L["items"]={{path="chatsounds/autoadd/breakingbad/items.ogg",length=0.742}}
 L["its happening again"]={{path="chatsounds/autoadd/breakingbad/its happening again.ogg",length=1.169}}
 L["jeers3"]={{path="chatsounds/autoadd/breakingbad/jeers3.ogg",length=2.674}}
-L["jeers333"]={{path="chatsounds/autoadd/breakingbad/jeers333.ogg",length=10.363}}
 L["jesse"]={{path="chatsounds/autoadd/breakingbad/jesse.ogg",length=0.326}}
 L["jesse jesse jesse"]={{path="chatsounds/autoadd/breakingbad/jesse jesse jesse.ogg",length=1.023}}
 L["just hear me out"]={{path="chatsounds/autoadd/breakingbad/just hear me out.ogg",length=1.432}}

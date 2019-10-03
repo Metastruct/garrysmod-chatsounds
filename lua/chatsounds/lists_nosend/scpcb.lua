@@ -1,11 +1,11 @@
 c.StartList("scpcb")
-L["0492breath"]={{path="chatsounds/autoadd/scpcb/0492breath.ogg",length=8.890}}
+L["0492 breath"]={{path="chatsounds/autoadd/scpcb/0492 breath.ogg",length=8.890}}
+L["106 breathing"]={{path="chatsounds/autoadd/scpcb/106 breathing.ogg",length=2.763}}
 L["106 chase"]={{path="chatsounds/autoadd/scpcb/106 chase.ogg",length=30.846}}
-L["106breathing"]={{path="chatsounds/autoadd/scpcb/106breathing.ogg",length=2.763}}
-L["106laugh"]={{path="chatsounds/autoadd/scpcb/106laugh.ogg",length=3.866}}
-L["49speech"]={{path="chatsounds/autoadd/scpcb/49speech.ogg",length=14.853}}
-L["96scream"]={{path="chatsounds/autoadd/scpcb/96scream/96scream 1.ogg",length=2.042},{path="chatsounds/autoadd/scpcb/96scream/96scream 2.ogg",length=2.879},{path="chatsounds/autoadd/scpcb/96scream/96scream 3.ogg",length=1.321},{path="chatsounds/autoadd/scpcb/96scream/96scream 4.ogg",length=1.004},{path="chatsounds/autoadd/scpcb/96scream/96scream 5.ogg",length=2.879}}
-L["96triggered"]={{path="chatsounds/autoadd/scpcb/96triggered.ogg",length=10.277}}
+L["106 laugh"]={{path="chatsounds/autoadd/scpcb/106 laugh.ogg",length=3.866}}
+L["49 speech"]={{path="chatsounds/autoadd/scpcb/49 speech.ogg",length=14.853}}
+L["96 scream"]={{path="chatsounds/autoadd/scpcb/96 scream/96 scream 1.ogg",length=2.042},{path="chatsounds/autoadd/scpcb/96 scream/96 scream 2.ogg",length=2.879},{path="chatsounds/autoadd/scpcb/96 scream/96 scream 3.ogg",length=1.321},{path="chatsounds/autoadd/scpcb/96 scream/96 scream 4.ogg",length=1.004},{path="chatsounds/autoadd/scpcb/96 scream/96 scream 5.ogg",length=2.879}}
+L["96 triggered"]={{path="chatsounds/autoadd/scpcb/96 triggered.ogg",length=10.277}}
 L["corrosion"]={{path="chatsounds/autoadd/scpcb/corrosion/corrosion1.ogg",length=1.350},{path="chatsounds/autoadd/scpcb/corrosion/corrosion2.ogg",length=1.625},{path="chatsounds/autoadd/scpcb/corrosion/corrosion3.ogg",length=0.785}}
 L["decay"]={{path="chatsounds/autoadd/scpcb/decay/decay1.ogg",length=12.192},{path="chatsounds/autoadd/scpcb/decay/decay2.ogg",length=1.918},{path="chatsounds/autoadd/scpcb/decay/decay3.ogg",length=2.449}}
 L["do not be afraid i am the cure"]={{path="chatsounds/autoadd/scpcb/do not be afraid i am the cure.ogg",length=3.597}}

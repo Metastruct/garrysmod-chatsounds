@@ -11,12 +11,17 @@ L["gentleman behold"]={{path="chatsounds/autoadd/dergcake/gentleman behold.ogg",
 L["henke"]={{path="chatsounds/autoadd/dergcake/henke.ogg",length=0.792}}
 L["i baked a cake just for you"]={{path="chatsounds/autoadd/dergcake/i baked a cake just for you.ogg",length=48.480}}
 L["i will crush you"]={{path="chatsounds/autoadd/dergcake/i will crush you.ogg",length=2.136}}
+L["insert it into the cucumber apparatus"]={{path="chatsounds/autoadd/dergcake/insert it into the cucumber apparatus.ogg",length=1.839}}
+L["kneel before your new god"]={{path="chatsounds/autoadd/dergcake/kneel before your new god.ogg",length=2.447}}
 L["levelup"]={{path="chatsounds/autoadd/dergcake/levelup/levelup1.ogg",length=2.461},{path="chatsounds/autoadd/dergcake/levelup/levelup2.ogg",length=2.461}}
 L["meow"]={{path="chatsounds/autoadd/dergcake/meow/meow1.ogg",length=1.133},{path="chatsounds/autoadd/dergcake/meow/meow2.ogg",length=1.067},{path="chatsounds/autoadd/dergcake/meow/meow3.ogg",length=1.233}}
 L["mister sandman"]={{path="chatsounds/autoadd/dergcake/mister sandman.ogg",length=92.807}}
 L["mulher"]={{path="chatsounds/autoadd/dergcake/mulher.ogg",length=0.684}}
 L["notcake"]={{path="chatsounds/autoadd/dergcake/notcake.ogg",length=0.756}}
 L["pro skill"]={{path="chatsounds/autoadd/dergcake/pro skill/pro_skill1.ogg",length=10.031},{path="chatsounds/autoadd/dergcake/pro skill/pro_skill2.ogg",length=14.707}}
+L["rama"]={{path="chatsounds/autoadd/dergcake/rama.ogg",length=0.718}}
+L["rama rama rama rama"]={{path="chatsounds/autoadd/dergcake/rama rama rama rama.ogg",length=1.512}}
+L["ramans"]={{path="chatsounds/autoadd/dergcake/ramans.ogg",length=0.501}}
 L["system failure"]={{path="chatsounds/autoadd/dergcake/system failure.ogg",length=6.567}}
 L["version"]={{path="chatsounds/autoadd/dergcake/version.ogg",length=0.792}}
 L["well beep the fucking boop"]={{path="chatsounds/autoadd/dergcake/well beep the fucking boop.ogg",length=1.350}}
