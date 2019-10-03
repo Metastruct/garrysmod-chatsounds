@@ -217,6 +217,7 @@ L["watch hell turn red any second now"]={{path="chatsounds/autoadd/tf2extra/watc
 L["we are going to need that stupid cartoon horse"]={{path="chatsounds/autoadd/tf2extra/we are going to need that stupid cartoon horse.ogg",length=3.017}}
 L["well too bad"]={{path="chatsounds/autoadd/tf2extra/well too bad.ogg",length=1.845}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2extra/what happens now.ogg",length=1.136}}
+L["what in saas"]={{path="chatsounds/autoadd/tf2extra/what in saas.ogg",length=0.979}}
 L["what makes me a good demoman"]={{path="chatsounds/autoadd/tf2extra/what makes me a good demoman.ogg",length=2.305}}
 L["what was noise"]={{path="chatsounds/autoadd/tf2extra/what was noise.ogg",length=2.012}}
 L["when the patient woke up his skeleton was missing"]={{path="chatsounds/autoadd/tf2extra/when the patient woke up his skeleton was missing.ogg",length=3.195}}

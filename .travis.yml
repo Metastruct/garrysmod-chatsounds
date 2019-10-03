@@ -1,23 +1,30 @@
-language: cpp
+language: generic
+dist: xenial
 
 addons:
         apt:
                 packages:
-                        - libboost-filesystem-dev
-                        - libboost-serialization-dev
-                        - libboost-system-dev
-                        - libboost-program-options-dev
                         - libmp3lame-dev
                         - yasm
 
 before_install:
+        # C++17 / libboost
+        - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+        - sudo add-apt-repository -y ppa:mhier/libboost-latest
+        - sudo apt-get update -qq
+        # remove the invalid soundfile list (if any) and fail if the cache file exists (which it shouldn't)
         - rm -f invalid-soundfiles.txt
         - if [ -f chatsounds-preprocessor-cache ]; then >&2 echo -e "Precondition failed\x3A Preprocessor cache file exists in the repo."; false; fi
 
 install:
-        - git clone https://github.com/PotcFdk/chatsounds-preprocessor chatsounds-preprocessor.repo --depth 1 --branch v1.2.0
+        # C++17 / libboost
+        - sudo apt-get remove -qq libstdc++-5-dev # because /usr/lib/gcc/x86_64-linux-gnu/5/libstdc++fs.a causes undefined reference issues
+        - sudo apt-get install -qq g++-8 libboost1.68-dev
+        - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-8 90
+        # build the preprocessor
+        - git clone https://github.com/PotcFdk/chatsounds-preprocessor chatsounds-preprocessor.repo --depth 1 --branch v1.3.0
         - cd chatsounds-preprocessor.repo
-        - cd libs && ./setup-ffmpeg.sh
+        - cd libs && ./setup-ffmpeg-native.sh
         - cd .. && mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Release ..
         - make && mv chatsounds-preprocessor ../../ && cd ../.. && rm -rf chatsounds-preprocessor.repo
 

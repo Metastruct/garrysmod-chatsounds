@@ -84,6 +84,7 @@ L["hoh noh"]={{path="chatsounds/autoadd/feshpince/hoh noh.ogg",length=1.527}}
 L["huledilehuledile"]={{path="chatsounds/autoadd/feshpince/huledilehuledile.ogg",length=1.625}}
 L["huuuurt"]={{path="chatsounds/autoadd/feshpince/huuuurt.ogg",length=0.511}}
 L["hyes"]={{path="chatsounds/autoadd/feshpince/hyes.ogg",length=0.699}}
+L["i cant read"]={{path="chatsounds/autoadd/feshpince/i cant read.ogg",length=1.133}}
 L["i dont care"]={{path="chatsounds/autoadd/feshpince/i dont care.ogg",length=0.522}}
 L["i figured it out will"]={{path="chatsounds/autoadd/feshpince/i figured it out will.ogg",length=1.010}}
 L["i figured it out will im gonna get dad what he always wanted"]={{path="chatsounds/autoadd/feshpince/i figured it out will im gonna get dad what he always wanted.ogg",length=2.656}}
@@ -116,6 +117,7 @@ L["lemme tell you boys something about women"]={{path="chatsounds/autoadd/feshpi
 L["lest i get too giddy from rubbing my coc"]={{path="chatsounds/autoadd/feshpince/lest i get too giddy from rubbing my coc.ogg",length=2.757}}
 L["lets say you accidentally scream out"]={{path="chatsounds/autoadd/feshpince/lets say you accidentally scream out.ogg",length=3.065}}
 L["lllllook"]={{path="chatsounds/autoadd/feshpince/lllllook.ogg",length=1.325}}
+L["look at those funny little markings underneath the pictures"]={{path="chatsounds/autoadd/feshpince/look at those funny little markings underneath the pictures.ogg",length=2.991}}
 L["look you big eared frerf"]={{path="chatsounds/autoadd/feshpince/look you big eared frerf.ogg",length=2.127}}
 L["make a little wager"]={{path="chatsounds/autoadd/feshpince/make a little wager.ogg",length=1.662}}
 L["me eh eh"]={{path="chatsounds/autoadd/feshpince/me eh eh.ogg",length=0.938}}

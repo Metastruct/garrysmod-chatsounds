@@ -6,6 +6,9 @@ L["automat lal"]={{path="chatsounds/autoadd/hiv_suit/automat lal.ogg",length=1.2
 L["dandandan"]={{path="chatsounds/autoadd/hiv_suit/dandandan.ogg",length=1.220}}
 L["emergency user coc damaged"]={{path="chatsounds/autoadd/hiv_suit/emergency user coc damaged.ogg",length=3.799}}
 L["hiv administered"]={{path="chatsounds/autoadd/hiv_suit/hiv administered.ogg",length=2.311}}
+L["hiv ass fuck"]={{path="chatsounds/autoadd/hiv_suit/hiv ass fuck.ogg",length=1.567}}
+L["hiv cum acquired"]={{path="chatsounds/autoadd/hiv_suit/hiv cum acquired.ogg",length=1.228}}
+L["hiv painis cok cock spastic sounds outaten sisteen"]={{path="chatsounds/autoadd/hiv_suit/hiv painis cok cock spastic sounds outaten sisteen.ogg",length=7.184}}
 L["hiv verbal pleasure interest sounds"]={{path="chatsounds/autoadd/hiv_suit/hiv verbal pleasure interest sounds.ogg",length=6.575}}
 L["internal shit sterilized"]={{path="chatsounds/autoadd/hiv_suit/internal shit sterilized.ogg",length=2.723}}
 L["possible danger"]={{path="chatsounds/autoadd/hiv_suit/possible danger.ogg",length=1.754}}

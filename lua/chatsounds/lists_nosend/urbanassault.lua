@@ -124,8 +124,7 @@ L["roger we have commit on target"]={{path="chatsounds/autoadd/urbanassault/roge
 L["roger were on our way"]={{path="chatsounds/autoadd/urbanassault/roger were on our way.ogg",length=1.796}}
 L["select mission arena"]={{path="chatsounds/autoadd/urbanassault/select mission arena.ogg",length=1.845}}
 L["situation analysis offered"]={{path="chatsounds/autoadd/urbanassault/situation analysis offered.ogg",length=2.483}}
-L["spy cam accept order"]={{path="chatsounds/autoadd/urbanassault/spy cam accept order.ogg",length=0.482}}
-L["spy cam decline order"]={{path="chatsounds/autoadd/urbanassault/spy cam decline order.ogg",length=0.527}}
+L["spy cam accept order"]={{path="chatsounds/autoadd/urbanassault/spy cam accept order/spy cam accept order (2).ogg",length=0.527},{path="chatsounds/autoadd/urbanassault/spy cam accept order/spy cam accept order.ogg",length=0.482}}
 L["spy cam deployed"]={{path="chatsounds/autoadd/urbanassault/spy cam deployed.ogg",length=2.056}}
 L["spy cam lost"]={{path="chatsounds/autoadd/urbanassault/spy cam lost.ogg",length=1.778}}
 L["spy cam request input"]={{path="chatsounds/autoadd/urbanassault/spy cam request input.ogg",length=2.461}}

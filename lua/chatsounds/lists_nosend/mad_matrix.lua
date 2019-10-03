@@ -46,6 +46,7 @@ L["gasp and i oh ohoh its just a little hes my pet thats a rat that is a mouse"]
 L["gatelower"]={{path="chatsounds/autoadd/mad_matrix/gatelower.ogg",length=1.301}}
 L["gateraise"]={{path="chatsounds/autoadd/mad_matrix/gateraise.ogg",length=1.141}}
 L["gotcha"]={{path="chatsounds/autoadd/mad_matrix/gotcha.ogg",length=0.401}}
+L["guten morgen"]={{path="chatsounds/autoadd/mad_matrix/guten morgen.ogg",length=0.776}}
 L["haaa hoho"]={{path="chatsounds/autoadd/mad_matrix/haaa hoho.ogg",length=2.189}}
 L["hashtag craefulgang"]={{path="chatsounds/autoadd/mad_matrix/hashtag craefulgang.ogg",length=1.883}}
 L["hes got a soos"]={{path="chatsounds/autoadd/mad_matrix/hes got a soos.ogg",length=1.082}}
@@ -72,6 +73,7 @@ L["im just getting into a prophetic vein tiltonfasttalk"]={{path="chatsounds/aut
 L["im not bribing my way outta this airport"]={{path="chatsounds/autoadd/mad_matrix/im not bribing my way outta this airport.ogg",length=3.004}}
 L["im so sorry hh its my bloody pigeon"]={{path="chatsounds/autoadd/mad_matrix/im so sorry hh its my bloody pigeon.ogg",length=3.072}}
 L["its gonna be on like sucking dicc"]={{path="chatsounds/autoadd/mad_matrix/its gonna be on like sucking dicc.ogg",length=1.799}}
+L["ja"]={{path="chatsounds/autoadd/mad_matrix/ja.ogg",length=0.566}}
 L["jafargibberish"]={{path="chatsounds/autoadd/mad_matrix/jafargibberish.ogg",length=2.697}}
 L["jeb bush do you really want to do this"]={{path="chatsounds/autoadd/mad_matrix/jeb bush do you really want to do this.ogg",length=2.778}}
 L["kakogo djavola ti zdes shumish distorted"]={{path="chatsounds/autoadd/mad_matrix/kakogo djavola ti zdes shumish distorted.ogg",length=2.546}}
@@ -92,6 +94,7 @@ L["man watching silent movie"]={{path="chatsounds/autoadd/mad_matrix/man watchin
 L["man watching television with volume at zero"]={{path="chatsounds/autoadd/mad_matrix/man watching television with volume at zero.ogg",length=4.513}}
 L["my parents were born here i am an african i am nigerian"]={{path="chatsounds/autoadd/mad_matrix/my parents were born here i am an african i am nigerian.ogg",length=4.471}}
 L["nani"]={{path="chatsounds/autoadd/mad_matrix/nani.ogg",length=0.538}}
+L["nein"]={{path="chatsounds/autoadd/mad_matrix/nein.ogg",length=0.589}}
 L["niet distorted"]={{path="chatsounds/autoadd/mad_matrix/niet distorted.ogg",length=3.638}}
 L["nikogda"]={{path="chatsounds/autoadd/mad_matrix/nikogda.ogg",length=0.676}}
 L["nikogda distorted"]={{path="chatsounds/autoadd/mad_matrix/nikogda distorted.ogg",length=5.113}}
@@ -116,9 +119,11 @@ L["ooh yeeaahh"]={{path="chatsounds/autoadd/mad_matrix/ooh yeeaahh.ogg",length=1
 L["oohh yees"]={{path="chatsounds/autoadd/mad_matrix/oohh yees.ogg",length=1.473}}
 L["people see him hes hes aaaaaa"]={{path="chatsounds/autoadd/mad_matrix/people see him hes hes aaaaaa.ogg",length=1.966}}
 L["pinguopening"]={{path="chatsounds/autoadd/mad_matrix/pinguopening.ogg",length=9.979}}
+L["playstation"]={{path="chatsounds/autoadd/mad_matrix/playstation.ogg",length=1.245}}
 L["poweroff"]={{path="chatsounds/autoadd/mad_matrix/poweroff.ogg",length=2.169}}
 L["poweron"]={{path="chatsounds/autoadd/mad_matrix/poweron.ogg",length=2.234}}
 L["preduprizhdau u menya samij krupnij cock"]={{path="chatsounds/autoadd/mad_matrix/preduprizhdau u menya samij krupnij cock.ogg",length=2.498}}
+L["pssound"]={{path="chatsounds/autoadd/mad_matrix/pssound.ogg",length=0.445}}
 L["put your finger on the button"]={{path="chatsounds/autoadd/mad_matrix/put your finger on the button.ogg",length=1.115}}
 L["remember that"]={{path="chatsounds/autoadd/mad_matrix/remember that.ogg",length=0.684}}
 L["responsibilityyy"]={{path="chatsounds/autoadd/mad_matrix/responsibilityyy.ogg",length=1.346}}
@@ -132,6 +137,7 @@ L["she gonna get all the money"]={{path="chatsounds/autoadd/mad_matrix/she gonna
 L["she gonna get that money"]={{path="chatsounds/autoadd/mad_matrix/she gonna get that money.ogg",length=1.829}}
 L["shit"]={{path="chatsounds/autoadd/mad_matrix/shit.ogg",length=0.552}}
 L["shitshitshitshitshit"]={{path="chatsounds/autoadd/mad_matrix/shitshitshitshitshit.ogg",length=2.146}}
+L["shut your face grandma"]={{path="chatsounds/autoadd/mad_matrix/shut your face grandma.ogg",length=1.781}}
 L["sneakytune"]={{path="chatsounds/autoadd/mad_matrix/sneakytune.ogg",length=5.904}}
 L["somebody toucha my spaghet"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet.ogg",length=5.219}}
 L["somebody toucha my spaghet distorted"]={{path="chatsounds/autoadd/mad_matrix/somebody toucha my spaghet distorted.ogg",length=12.581}}
