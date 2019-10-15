@@ -1,5 +1,5 @@
 c.StartList("scooter")
-L["amateur hour"]={{path="chatsounds/autoadd/scooter/amateur hour.ogg",length=6.843}}
+L["amateur hour goes on and on when you turn pro you know she lets you know"]={{path="chatsounds/autoadd/scooter/amateur hour.ogg",length=6.843}}
 L["and to"]={{path="chatsounds/autoadd/scooter/and to.ogg",length=0.624}}
 L["and to all djs all over the world"]={{path="chatsounds/autoadd/scooter/and to all djs all over the world.ogg",length=3.805}}
 L["and to all ravers in the world"]={{path="chatsounds/autoadd/scooter/and to all ravers in the world.ogg",length=2.996}}
@@ -14,12 +14,13 @@ L["dag"]={{path="chatsounds/autoadd/scooter/dag.ogg",length=1.323}}
 L["dj dick"]={{path="chatsounds/autoadd/scooter/dj dick.ogg",length=1.416}}
 L["do you like it hardcore"]={{path="chatsounds/autoadd/scooter/do you like it hardcore.ogg",length=3.164}}
 L["doop doop"]={{path="chatsounds/autoadd/scooter/doop doop.ogg",length=6.691}}
-L["encore hardcore"]={{path="chatsounds/autoadd/scooter/encore hardcore.ogg",length=6.400}}
+L["dub dub"]={{path="chatsounds/autoadd/scooter/doop doop.ogg",length=6.691}}
+L["encore hardcore rock you down to the floor posse saw ya on the border jungle jumper under order"]={{path="chatsounds/autoadd/scooter/encore hardcore.ogg",length=6.400}}
 L["faster harder scooter"]={{path="chatsounds/autoadd/scooter/faster harder scooter.ogg",length=6.052}}
 L["gary d"]={{path="chatsounds/autoadd/scooter/gary d.ogg",length=1.269}}
 L["gizmo"]={{path="chatsounds/autoadd/scooter/gizmo.ogg",length=1.299}}
 L["hell"]={{path="chatsounds/autoadd/scooter/hell.ogg",length=1.180}}
-L["how do you do"]={{path="chatsounds/autoadd/scooter/how do you do.ogg",length=13.491}}
+L["how do you do uh huh i thought why not na na na na just me and you and then we can na na na na just like before and you will say na na na na please give me more and you"]={{path="chatsounds/autoadd/scooter/how do you do.ogg",length=13.491}}
 L["how much is the fish"]={{path="chatsounds/autoadd/scooter/how much is the fish.ogg",length=3.101}}
 L["hyper hyper"]={{path="chatsounds/autoadd/scooter/hyper hyper.ogg",length=3.251}}
 L["i said i want to see you sweat"]={{path="chatsounds/autoadd/scooter/i said i want to see you sweat.ogg",length=3.520}}
@@ -31,6 +32,7 @@ L["its weekend"]={{path="chatsounds/autoadd/scooter/its weekend.ogg",length=5.70
 L["jadore hardcore"]={{path="chatsounds/autoadd/scooter/jadore hardcore.ogg",length=2.492}}
 L["jens lissat"]={{path="chatsounds/autoadd/scooter/jens lissat.ogg",length=1.551}}
 L["jens mahlstedt"]={{path="chatsounds/autoadd/scooter/jens mahlstedt.ogg",length=1.624}}
+L["jumping is an ability that most humans and many animals share to some degree"]={{path="chatsounds/autoadd/scooter/wikipediajumping.ogg",length=47.247}}
 L["kid paul"]={{path="chatsounds/autoadd/scooter/kid paul.ogg",length=1.537}}
 L["laurent garnier"]={{path="chatsounds/autoadd/scooter/laurent garnier.ogg",length=1.565}}
 L["lenny d"]={{path="chatsounds/autoadd/scooter/lenny d.ogg",length=1.003}}
@@ -62,8 +64,7 @@ L["we need the hardcore"]={{path="chatsounds/autoadd/scooter/we need the hardcor
 L["we put some energy into this place"]={{path="chatsounds/autoadd/scooter/we put some energy into this place.ogg",length=2.744}}
 L["we want to sing a big shout to us"]={{path="chatsounds/autoadd/scooter/we want to sing a big shout to us.ogg",length=2.972}}
 L["westbam"]={{path="chatsounds/autoadd/scooter/westbam.ogg",length=1.181}}
-L["what can i do do do"]={{path="chatsounds/autoadd/scooter/what can i do do do.ogg",length=13.181}}
-L["wikipediajumping"]={{path="chatsounds/autoadd/scooter/wikipediajumping.ogg",length=47.247}}
+L["what can i do do do i want you you you gonna jump all night on the dance floor i say one two three just like you and me gonna jump like i never did before"]={{path="chatsounds/autoadd/scooter/what can i do do do.ogg",length=13.181}}
 L["yeaahh"]={{path="chatsounds/autoadd/scooter/yeaahh.ogg",length=2.545}}
 L["yeah"]={{path="chatsounds/autoadd/scooter/yeah.ogg",length=1.636}}
 c.EndList()
