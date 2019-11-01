@@ -42,6 +42,7 @@ L["i am pikachu"]={{path="chatsounds/autoadd/bjoern/i am pikachu.ogg",length=1.0
 L["im a scatman"]={{path="chatsounds/autoadd/bjoern/im a scatman.ogg",length=1.022}}
 L["it could barely hold an espresso express espresso"]={{path="chatsounds/autoadd/bjoern/it could barely hold an espresso express espresso.ogg",length=4.017}}
 L["its only batman"]={{path="chatsounds/autoadd/bjoern/its only batman.ogg",length=1.273}}
+L["its over 9000"]={{path="chatsounds/autoadd/bjoern/its over 9000.ogg",length=2.423}}
 L["jerking intensifies"]={{path="chatsounds/autoadd/bjoern/jerking intensifies.ogg",length=5.214}}
 L["jesus christ"]={{path="chatsounds/autoadd/bjoern/jesus christ.ogg",length=1.621}}
 L["joel scatting1"]={{path="chatsounds/autoadd/bjoern/joel scatting1.ogg",length=2.485}}
