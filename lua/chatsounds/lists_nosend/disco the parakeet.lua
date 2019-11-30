@@ -1,8 +1,8 @@
 c.StartList("disco the parakeet")
 L["baby got baaaaabeat box budgie"]={{path="chatsounds/autoadd/disco the parakeet/baby got baaaaabeat box budgie.ogg",length=2.763}}
 L["beat box budgie"]={{path="chatsounds/autoadd/disco the parakeet/beat box budgie.ogg",length=1.707}}
+L["bird beatbox"]={{path="chatsounds/autoadd/disco the parakeet/bird beatbox.ogg",length=2.902}}
 L["buzz no"]={{path="chatsounds/autoadd/disco the parakeet/buzz no.ogg",length=1.103}}
-L["disco beatbox"]={{path="chatsounds/autoadd/disco the parakeet/disco beatbox.ogg",length=9.137}}
 L["disco budgie in the house tonight eat some millet and have a good time"]={{path="chatsounds/autoadd/disco the parakeet/disco budgie in the house tonight eat some millet and have a good time.ogg",length=5.770}}
 L["disco laughing"]={{path="chatsounds/autoadd/disco the parakeet/disco laughing.ogg",length=1.045}}
 L["disco ooo"]={{path="chatsounds/autoadd/disco the parakeet/disco ooo.ogg",length=0.836}}
