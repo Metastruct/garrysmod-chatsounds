@@ -1,4 +1,5 @@
 c.StartList("beauty_bomber")
+L["aaaaaaaaeeeeeeiiiiiaaaa"]={{path="chatsounds/autoadd/beauty_bomber/aaaaaaaaeeeeeeiiiiiaaaa.ogg",length=3.159}}
 L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh somebody help me.ogg",length=2.849}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
@@ -15,6 +16,7 @@ L["bgbosschorus"]={{path="chatsounds/autoadd/beauty_bomber/bgbosschorus.ogg",len
 L["but grandma shouldnt talk that way"]={{path="chatsounds/autoadd/beauty_bomber/but grandma shouldnt talk that way.ogg",length=1.846}}
 L["caramelldanseninstloop"]={{path="chatsounds/autoadd/beauty_bomber/caramelldanseninstloop.ogg",length=46.618}}
 L["carlmoan"]={{path="chatsounds/autoadd/beauty_bomber/carlmoan.ogg",length=1.545}}
+L["circuitwandererhook"]={{path="chatsounds/autoadd/beauty_bomber/circuitwandererhook.ogg",length=17.280}}
 L["circusmusic"]={{path="chatsounds/autoadd/beauty_bomber/circusmusic.ogg",length=153.809}}
 L["cockatooscream"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscream.ogg",length=0.760}}
 L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscreambabble.ogg",length=3.345}}
@@ -26,6 +28,7 @@ L["fiestatime"]={{path="chatsounds/autoadd/beauty_bomber/fiestatime.ogg",length=
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
 L["getsmart"]={{path="chatsounds/autoadd/beauty_bomber/getsmart.ogg",length=21.579}}
 L["gimme that hat"]={{path="chatsounds/autoadd/beauty_bomber/gimme that hat.ogg",length=1.301}}
+L["gone forever"]={{path="chatsounds/autoadd/beauty_bomber/gone forever.ogg",length=2.582}}
 L["goodbye everyone ill remember you all in therapy"]={{path="chatsounds/autoadd/beauty_bomber/goodbye everyone ill remember you all in therapy.ogg",length=3.111}}
 L["graciefilms distorted"]={{path="chatsounds/autoadd/beauty_bomber/graciefilms distorted.ogg",length=3.242}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}
@@ -39,6 +42,7 @@ L["i wonder where this fat fuck floated in from"]={{path="chatsounds/autoadd/bea
 L["ill do this with my hands blargharghargh"]={{path="chatsounds/autoadd/beauty_bomber/ill do this with my hands blargharghargh.ogg",length=4.640}}
 L["its an inanimate fucking object"]={{path="chatsounds/autoadd/beauty_bomber/its an inanimate fucking object.ogg",length=2.082}}
 L["its leviosaaaa"]={{path="chatsounds/autoadd/beauty_bomber/its leviosaaaa.ogg",length=2.100}}
+L["its melting"]={{path="chatsounds/autoadd/beauty_bomber/its melting.ogg",length=2.360}}
 L["jeannecontinueno"]={{path="chatsounds/autoadd/beauty_bomber/jeannecontinueno.ogg",length=4.848}}
 L["jtwhipcrack"]={{path="chatsounds/autoadd/beauty_bomber/jtwhipcrack.ogg",length=0.536}}
 L["kaching"]={{path="chatsounds/autoadd/beauty_bomber/kaching.ogg",length=1.587}}
@@ -56,11 +60,13 @@ L["mmm try again"]={{path="chatsounds/autoadd/beauty_bomber/mmm try again.ogg",l
 L["mmm you bet"]={{path="chatsounds/autoadd/beauty_bomber/mmm you bet.ogg",length=1.812}}
 L["moar"]={{path="chatsounds/autoadd/beauty_bomber/moar.ogg",length=0.364}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/beauty_bomber/mrkrabsviolin.ogg",length=36.785}}
+L["my precious power ring"]={{path="chatsounds/autoadd/beauty_bomber/my precious power ring.ogg",length=2.946}}
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/beauty_bomber/nah i dont really feel like it.ogg",length=2.319}}
 L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.730}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200}}
 L["niiiiiick naaaaaaack the pattys baaaaaack"]={{path="chatsounds/autoadd/beauty_bomber/niiiiiick naaaaaaack the pattys baaaaaack.ogg",length=3.199}}
 L["ominousambience"]={{path="chatsounds/autoadd/beauty_bomber/ominousambience.ogg",length=12.322}}
+L["ooh noooo"]={{path="chatsounds/autoadd/beauty_bomber/ooh noooo.ogg",length=2.067}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.274}}
 L["overtime"]={{path="chatsounds/autoadd/beauty_bomber/overtime.ogg",length=1.361}}
 L["patrickhatrackfight"]={{path="chatsounds/autoadd/beauty_bomber/patrickhatrackfight.ogg",length=2.007}}

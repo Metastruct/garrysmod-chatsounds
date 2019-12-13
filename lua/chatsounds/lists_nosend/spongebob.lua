@@ -10,10 +10,12 @@ L["hmm ill bet they wont have"]={{path="chatsounds/autoadd/spongebob/hmm ill bet
 L["intensive"]={{path="chatsounds/autoadd/spongebob/intensive.ogg",length=1.847}}
 L["is this the krusty krab"]={{path="chatsounds/autoadd/spongebob/is this the krusty krab/1.ogg",length=1.357},{path="chatsounds/autoadd/spongebob/is this the krusty krab/2.ogg",length=1.184},{path="chatsounds/autoadd/spongebob/is this the krusty krab/3.ogg",length=1.332}}
 L["ive been trying to catch you boys all day"]={{path="chatsounds/autoadd/spongebob/ive been trying to catch you boys all day.ogg",length=3.898}}
+L["jeffery epstein did not kill himself"]={{path="chatsounds/autoadd/spongebob/jeffery epstein did not kill himself.ogg",length=2.543}}
 L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/spongebob/leedle leedle leedle lee.ogg",length=1.750}}
 L["life is but a walking shadow"]={{path="chatsounds/autoadd/spongebob/life is but a walking shadow.ogg",length=3.516}}
 L["no this is patrick"]={{path="chatsounds/autoadd/spongebob/no this is patrick/1.ogg",length=1.460},{path="chatsounds/autoadd/spongebob/no this is patrick/2.ogg",length=2.615},{path="chatsounds/autoadd/spongebob/no this is patrick/3.ogg",length=3.059}}
 L["now that ive got you right where i want you id like to buy all your chocolate"]={{path="chatsounds/autoadd/spongebob/now that ive got you right where i want you id like to buy all your chocolate.ogg",length=5.461}}
+L["ooh thats great"]={{path="chatsounds/autoadd/spongebob/ooh thats great.ogg",length=1.050}}
 L["sb chocolate"]={{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate1.ogg",length=1.638},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate2.ogg",length=1.390},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate3.ogg",length=1.452},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate4.ogg",length=2.284},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate5.ogg",length=2.358},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate6.ogg",length=2.433}}
 L["sb finally"]={{path="chatsounds/autoadd/spongebob/sb finally.ogg",length=1.092}}
 L["sb laugh"]={{path="chatsounds/autoadd/spongebob/sb laugh.ogg",length=2.160}}
@@ -24,5 +26,8 @@ L["squidwardgasp"]={{path="chatsounds/autoadd/spongebob/squidwardgasp.ogg",lengt
 L["squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward"]={{path="chatsounds/autoadd/spongebob/squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward.ogg",length=5.100}}
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.862}}
 L["this town is grrreat"]={{path="chatsounds/autoadd/spongebob/this town is grrreat.ogg",length=2.392}}
+L["we shall never deny a guest even the most ridiculous request"]={{path="chatsounds/autoadd/spongebob/we shall never deny a guest even the most ridiculous request.ogg",length=4.200}}
+L["welcome to the krusty towers"]={{path="chatsounds/autoadd/spongebob/welcome to the krusty towers.ogg",length=1.933}}
+L["where our motto is"]={{path="chatsounds/autoadd/spongebob/where our motto is.ogg",length=1.194}}
 L["wow they have it"]={{path="chatsounds/autoadd/spongebob/wow they have it.ogg",length=1.397}}
 c.EndList()

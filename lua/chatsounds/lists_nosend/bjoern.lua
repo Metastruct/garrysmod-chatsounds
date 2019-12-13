@@ -17,6 +17,7 @@ L["angry kid intro"]={{path="chatsounds/autoadd/bjoern/angry kid intro.ogg",leng
 L["aw crap i shouldve taken the blue pill"]={{path="chatsounds/autoadd/bjoern/aw crap i shouldve taken the blue pill.ogg",length=3.695}}
 L["boing going idle"]={{path="chatsounds/autoadd/bjoern/boing going idle.ogg",length=2.058}}
 L["boing going talk"]={{path="chatsounds/autoadd/bjoern/boing going talk.ogg",length=17.072}}
+L["but the shoguns kids kids kid"]={{path="chatsounds/autoadd/bjoern/but the shoguns kids kids kid.ogg",length=1.683}}
 L["fucking normies reeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"]={{path="chatsounds/autoadd/bjoern/fucking normies reeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.ogg",length=2.078}}
 L["fx pftt"]={{path="chatsounds/autoadd/bjoern/fx pftt.ogg",length=0.252}}
 L["fx poof"]={{path="chatsounds/autoadd/bjoern/fx poof.ogg",length=0.492}}
@@ -38,18 +39,30 @@ L["hey michael jackson"]={{path="chatsounds/autoadd/bjoern/hey michael jackson.o
 L["hey the guy who looks like mario"]={{path="chatsounds/autoadd/bjoern/hey the guy who looks like mario.ogg",length=3.038}}
 L["hohoho and merry beeping christmas"]={{path="chatsounds/autoadd/bjoern/hohoho and merry beeping christmas.ogg",length=2.215}}
 L["i am pikachu"]={{path="chatsounds/autoadd/bjoern/i am pikachu.ogg",length=1.041}}
+L["im a scatman"]={{path="chatsounds/autoadd/bjoern/im a scatman.ogg",length=1.022}}
+L["it could barely hold an espresso express espresso"]={{path="chatsounds/autoadd/bjoern/it could barely hold an espresso express espresso.ogg",length=4.017}}
 L["its only batman"]={{path="chatsounds/autoadd/bjoern/its only batman.ogg",length=1.273}}
+L["its over 9000"]={{path="chatsounds/autoadd/bjoern/its over 9000.ogg",length=2.423}}
 L["jerking intensifies"]={{path="chatsounds/autoadd/bjoern/jerking intensifies.ogg",length=5.214}}
+L["jesus christ"]={{path="chatsounds/autoadd/bjoern/jesus christ.ogg",length=1.621}}
+L["joel scatting1"]={{path="chatsounds/autoadd/bjoern/joel scatting1.ogg",length=2.485}}
+L["joel scatting2"]={{path="chatsounds/autoadd/bjoern/joel scatting2.ogg",length=2.415}}
 L["kamikaze watermelon"]={{path="chatsounds/autoadd/bjoern/kamikaze watermelon.ogg",length=1.738}}
 L["kw intro"]={{path="chatsounds/autoadd/bjoern/kw intro.ogg",length=0.724}}
 L["kw weee"]={{path="chatsounds/autoadd/bjoern/kw weee.ogg",length=0.428}}
 L["mad penguin"]={{path="chatsounds/autoadd/bjoern/mad penguin.ogg",length=3.781}}
+L["madafaja"]={{path="chatsounds/autoadd/bjoern/madafaja.ogg",length=0.868}}
+L["making the poop government"]={{path="chatsounds/autoadd/bjoern/making the poop government.ogg",length=7.930}}
 L["mate lemme tell you bout dis chicken here oda heer oda heer oda heer now mate"]={{path="chatsounds/autoadd/bjoern/mate lemme tell you bout dis chicken here oda heer oda heer oda heer now mate.ogg",length=2.921}}
 L["may i make a suggestion penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/may i make a suggestion penispenispenispenis.ogg",length=3.301}}
+L["my god"]={{path="chatsounds/autoadd/bjoern/my god.ogg",length=1.382}}
 L["odd worm scream"]={{path="chatsounds/autoadd/bjoern/odd worm scream.ogg",length=1.783}}
 L["penispenispenispenis"]={{path="chatsounds/autoadd/bjoern/penispenispenispenis.ogg",length=1.383}}
 L["random head laugh"]={{path="chatsounds/autoadd/bjoern/random head laugh.ogg",length=5.564}}
 L["random sound"]={{path="chatsounds/autoadd/bjoern/random sound.ogg",length=6.168}}
+L["rich important people hired samurai poor people hired samurai samurai hired samurai"]={{path="chatsounds/autoadd/bjoern/rich important people hired samurai poor people hired samurai samurai hired samurai.ogg",length=3.460}}
+L["runn"]={{path="chatsounds/autoadd/bjoern/runn.ogg",length=1.010}}
+L["samurai became samurai"]={{path="chatsounds/autoadd/bjoern/samurai became samurai.ogg",length=1.196}}
 L["sligbs"]={{path="chatsounds/autoadd/bjoern/sligbs.ogg",length=0.263}}
 L["sligfreeze"]={{path="chatsounds/autoadd/bjoern/sligfreeze.ogg",length=0.456}}
 L["sliggetem"]={{path="chatsounds/autoadd/bjoern/sliggetem.ogg",length=0.512}}
@@ -62,8 +75,14 @@ L["sliglook out"]={{path="chatsounds/autoadd/bjoern/sliglook out.ogg",length=0.5
 L["sligsmobs"]={{path="chatsounds/autoadd/bjoern/sligsmobs.ogg",length=0.473}}
 L["sligwhat"]={{path="chatsounds/autoadd/bjoern/sligwhat.ogg",length=0.394}}
 L["stickman laugh"]={{path="chatsounds/autoadd/bjoern/stickman laugh.ogg",length=2.055}}
+L["tatatata thats all folks"]={{path="chatsounds/autoadd/bjoern/tatatata thats all folks.ogg",length=1.405}}
+L["the most important kingdoms were here here and here"]={{path="chatsounds/autoadd/bjoern/the most important kingdoms were here here and here.ogg",length=3.123}}
 L["the qrrbrbirlbel news"]={{path="chatsounds/autoadd/bjoern/the qrrbrbirlbel news.ogg",length=1.972}}
 L["the zeeky word"]={{path="chatsounds/autoadd/bjoern/the zeeky word.ogg",length=0.743}}
+L["this must be worlds smallest coffee cup"]={{path="chatsounds/autoadd/bjoern/this must be worlds smallest coffee cup.ogg",length=2.984}}
+L["time to fuck some bitchus"]={{path="chatsounds/autoadd/bjoern/time to fuck some bitchus.ogg",length=1.916}}
+L["wait what"]={{path="chatsounds/autoadd/bjoern/wait what.ogg",length=0.801}}
+L["what in the world"]={{path="chatsounds/autoadd/bjoern/what in the world.ogg",length=1.614}}
 L["whats up now"]={{path="chatsounds/autoadd/bjoern/whats up now.ogg",length=0.458}}
 L["zeeky h bomb death word"]={{path="chatsounds/autoadd/bjoern/zeeky h bomb death word.ogg",length=0.732}}
 c.EndList()

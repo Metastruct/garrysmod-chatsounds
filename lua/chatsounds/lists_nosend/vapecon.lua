@@ -60,6 +60,7 @@ L["my cigarettes will make your breath smell nice"]={{path="chatsounds/autoadd/v
 L["no you cant have that vape"]={{path="chatsounds/autoadd/vapecon/no you cant have that vape.ogg",length=1.312}}
 L["nug nug"]={{path="chatsounds/autoadd/vapecon/nug nug.ogg",length=0.673}}
 L["pass the vape"]={{path="chatsounds/autoadd/vapecon/pass the vape.ogg",length=0.801}}
+L["runn"]={{path="chatsounds/autoadd/vapecon/runn.ogg",length=1.033}}
 L["sight"]={{path="chatsounds/autoadd/vapecon/sight.ogg",length=0.801}}
 L["smell"]={{path="chatsounds/autoadd/vapecon/smell.ogg",length=0.871}}
 L["smoke my cigarettes"]={{path="chatsounds/autoadd/vapecon/smoke my cigarettes.ogg",length=1.892}}

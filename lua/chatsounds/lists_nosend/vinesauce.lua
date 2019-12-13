@@ -1,4 +1,5 @@
 c.StartList("vinesauce")
+L["5000 fucking nukes"]={{path="chatsounds/autoadd/vinesauce/5000 fucking nukes.ogg",length=2.322}}
 L["admin"]={{path="chatsounds/autoadd/vinesauce/admin.ogg",length=0.447}}
 L["admin prease"]={{path="chatsounds/autoadd/vinesauce/admin prease.ogg",length=1.001}}
 L["alright you do better come on you do better"]={{path="chatsounds/autoadd/vinesauce/alright you do better come on you do better.ogg",length=3.279}}
