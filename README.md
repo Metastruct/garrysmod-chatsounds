@@ -21,11 +21,12 @@ Chat sounds system for Garry's Mod (with extra sounds)
  - Checkout: ```https://github.com/Metastruct/garrysmod-chatsounds/trunk/lua``` to ```garrysmod/addons/chatsounds/lua```
   - To see if you installed it correctly, you should now have ```garrysmod/addons/chatsounds/lua/autorun/chatsounds.lua``` file.
 
-## How to add sounds
-[Read this](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt).
+## How to contribute more sounds to this repository
+ - [Read this](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt).
  - We accept pull requests
  - Running the preprocessor is not mandatory anymore - if you don't run it, lists will be auto-generated about 3 minutes after you commit/push the changes
-
+ - SOUNDS MUST OBEY GITHUB AUP AT https://help.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions
+ 
 If you do not understand, you can ask people who have already added sounds to add them for you.
 
 ## Want to preview or link sounds over the Web?
