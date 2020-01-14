@@ -1,0 +1,4 @@
+c.StartList("thatoneguy")
+L["darksouls"]={{path="chatsounds/autoadd/thatoneguy/darksouls/level 387.ogg",length=1.997}}
+L["noot noot"]={{path="chatsounds/autoadd/thatoneguy/noot noot/1.ogg",length=0.890},{path="chatsounds/autoadd/thatoneguy/noot noot/2.ogg",length=0.800},{path="chatsounds/autoadd/thatoneguy/noot noot/3.ogg",length=0.725},{path="chatsounds/autoadd/thatoneguy/noot noot/4.ogg",length=1.100},{path="chatsounds/autoadd/thatoneguy/noot noot/5.ogg",length=1.180},{path="chatsounds/autoadd/thatoneguy/noot noot/6.ogg",length=1.260},{path="chatsounds/autoadd/thatoneguy/noot noot/7.ogg",length=1.200},{path="chatsounds/autoadd/thatoneguy/noot noot/8.ogg",length=0.780}}
+c.EndList()

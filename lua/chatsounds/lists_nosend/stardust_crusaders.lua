@@ -1,0 +1,10 @@
+c.StartList("stardust_crusaders")
+L["b bakana"]={{path="chatsounds/autoadd/stardust_crusaders/b bakana/1.ogg",length=1.205},{path="chatsounds/autoadd/stardust_crusaders/b bakana/2.ogg",length=0.825}}
+L["bakana"]={{path="chatsounds/autoadd/stardust_crusaders/bakana/1.ogg",length=0.812},{path="chatsounds/autoadd/stardust_crusaders/bakana/2.ogg",length=0.589},{path="chatsounds/autoadd/stardust_crusaders/bakana/3.ogg",length=0.636},{path="chatsounds/autoadd/stardust_crusaders/bakana/4.ogg",length=0.695}}
+L["na nani"]={{path="chatsounds/autoadd/stardust_crusaders/na nani.ogg",length=1.408}}
+L["na nani nani"]={{path="chatsounds/autoadd/stardust_crusaders/na nani nani.ogg",length=3.614}}
+L["na naniiiaaa"]={{path="chatsounds/autoadd/stardust_crusaders/na naniiiaaa.ogg",length=2.665}}
+L["nani"]={{path="chatsounds/autoadd/stardust_crusaders/nani/1.ogg",length=0.532},{path="chatsounds/autoadd/stardust_crusaders/nani/10.ogg",length=0.812},{path="chatsounds/autoadd/stardust_crusaders/nani/11.ogg",length=0.504},{path="chatsounds/autoadd/stardust_crusaders/nani/12.ogg",length=0.990},{path="chatsounds/autoadd/stardust_crusaders/nani/13.ogg",length=0.641},{path="chatsounds/autoadd/stardust_crusaders/nani/14.ogg",length=1.418},{path="chatsounds/autoadd/stardust_crusaders/nani/15.ogg",length=2.166},{path="chatsounds/autoadd/stardust_crusaders/nani/16.ogg",length=1.694},{path="chatsounds/autoadd/stardust_crusaders/nani/2.ogg",length=0.952},{path="chatsounds/autoadd/stardust_crusaders/nani/3.ogg",length=0.812},{path="chatsounds/autoadd/stardust_crusaders/nani/4.ogg",length=0.652},{path="chatsounds/autoadd/stardust_crusaders/nani/5.ogg",length=1.008},{path="chatsounds/autoadd/stardust_crusaders/nani/6.ogg",length=0.408},{path="chatsounds/autoadd/stardust_crusaders/nani/7.ogg",length=0.601},{path="chatsounds/autoadd/stardust_crusaders/nani/8.ogg",length=1.537},{path="chatsounds/autoadd/stardust_crusaders/nani/9.ogg",length=0.942}}
+L["nani nani"]={{path="chatsounds/autoadd/stardust_crusaders/nani nani.ogg",length=2.532}}
+L["ooo nani nani"]={{path="chatsounds/autoadd/stardust_crusaders/ooo nani nani.ogg",length=2.511}}
+c.EndList()

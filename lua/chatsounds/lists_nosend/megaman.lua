@@ -1,0 +1,14 @@
+c.StartList("megaman")
+L["megaman1up"]={{path="chatsounds/autoadd/megaman/megaman1up.ogg",length=2.000}}
+L["megamanabsorb"]={{path="chatsounds/autoadd/megaman/megamanabsorb.ogg",length=2.000}}
+L["megamanbossdoor"]={{path="chatsounds/autoadd/megaman/megamanbossdoor.ogg",length=2.000}}
+L["megamandeath"]={{path="chatsounds/autoadd/megaman/megamandeath.ogg",length=3.000}}
+L["megamanenergyfill"]={{path="chatsounds/autoadd/megaman/megamanenergyfill.ogg",length=2.000}}
+L["megamanhit"]={{path="chatsounds/autoadd/megaman/megamanhit.ogg",length=1.000}}
+L["megamanjumpland"]={{path="chatsounds/autoadd/megaman/megamanjumpland.ogg",length=1.000}}
+L["megamanmenu"]={{path="chatsounds/autoadd/megaman/megamanmenu.ogg",length=1.000}}
+L["megamanpause"]={{path="chatsounds/autoadd/megaman/megamanpause.ogg",length=1.000}}
+L["megamanshoot"]={{path="chatsounds/autoadd/megaman/megamanshoot.ogg",length=1.000}}
+L["megamanteleport"]={{path="chatsounds/autoadd/megaman/megamanteleport.ogg",length=1.000}}
+L["megamanvanishingblock"]={{path="chatsounds/autoadd/megaman/megamanvanishingblock.ogg",length=2.000}}
+c.EndList()
