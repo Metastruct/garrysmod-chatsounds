@@ -28,7 +28,6 @@ L["booker catch"]={{path="chatsounds/autoadd/verbalsilence/booker catch.ogg",len
 L["boy that escalated quickly"]={{path="chatsounds/autoadd/verbalsilence/boy that escalated quickly.ogg",length=2.455}}
 L["broom broom"]={{path="chatsounds/autoadd/verbalsilence/broom broom.ogg",length=1.337}}
 L["but python why"]={{path="chatsounds/autoadd/verbalsilence/but python why.ogg",length=1.432}}
-L["if you smell what the rock is cooking"]={{path="chatsounds/autoadd/verbalsilence/if you smell what the rock is cooking.ogg",length=16.015}}
 L["capsgiggle"]={{path="chatsounds/autoadd/verbalsilence/capsgiggle.ogg",length=0.923}}
 L["censored"]={{path="chatsounds/autoadd/verbalsilence/censored.ogg",length=0.505}}
 L["clashing of the swords"]={{path="chatsounds/autoadd/verbalsilence/clashing of the swords.ogg",length=14.895}}
@@ -100,6 +99,7 @@ L["i should let you go"]={{path="chatsounds/autoadd/verbalsilence/i should let y
 L["i sure can i was sitting on my front porch grabbed a beer and"]={{path="chatsounds/autoadd/verbalsilence/i sure can i was sitting on my front porch grabbed a beer and.ogg",length=3.957}}
 L["i wasnt talking about spaghetti"]={{path="chatsounds/autoadd/verbalsilence/i wasnt talking about spaghetti.ogg",length=1.280}}
 L["if you can dodge a wrench you can dodge a ball"]={{path="chatsounds/autoadd/verbalsilence/if you can dodge a wrench you can dodge a ball.ogg",length=2.780}}
+L["if you smell what the rock is cooking"]={{path="chatsounds/autoadd/verbalsilence/if you smell what the rock is cooking.ogg",length=16.015}}
 L["illuminati confirmed"]={{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 1.ogg",length=1.478},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 2.ogg",length=1.150},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 3.ogg",length=0.969},{path="chatsounds/autoadd/verbalsilence/illuminati confirmed/illuminati confirmed 4.ogg",length=1.117}}
 L["im in me mums car"]={{path="chatsounds/autoadd/verbalsilence/im in me mums car.ogg",length=1.994}}
 L["im that muhammad ayy"]={{path="chatsounds/autoadd/verbalsilence/im that muhammad ayy.ogg",length=2.735}}
