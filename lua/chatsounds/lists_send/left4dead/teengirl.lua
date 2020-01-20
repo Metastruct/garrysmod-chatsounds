@@ -1001,7 +1001,7 @@ L["wow"]={{path="player/survivor/voice/teengirl/hurrah57.wav",length=0.880068004
 L["wow i cant believe we did that"]={{path="player/survivor/voice/teengirl/hurrah48.wav",length=2.9547619819641}}
 L["wow oh thank god"]={{path="player/survivor/voice/teengirl/hurrah55.wav",length=2.594557762146}}
 L["ww"]={{path="player/survivor/voice/teengirl/nervouswhislte01.wav",length=3.0100680272109}}
-L["www"]={{path="player/survivor/voice/teengirl/nervouswhislte05.wav",length=5.0559410430839}}
+L["nervous whistle"]={{path="player/survivor/voice/teengirl/nervouswhislte05.wav",length=5.0559410430839}}
 L["yallright"]={{path="player/survivor/voice/teengirl/yes14.wav",length=0.63208616780045}}
 L["yalright"]={{path="player/survivor/voice/teengirl/yes14.wav",length=0.63208615779877},{path="player/survivor/voice/teengirl/yes05.wav",length=0.54943311214447}}
 L["yeah"]={{path="player/survivor/voice/teengirl/yes10.wav",length=0.71356010437012},{path="player/survivor/voice/teengirl/yes01.wav",length=0.41637188196182},{path="player/survivor/voice/teengirl/taunt20.wav",length=0.9494104385376},{path="player/survivor/voice/teengirl/nicejob36.wav",length=0.7760317325592},{path="player/survivor/voice/teengirl/nicejob26.wav",length=1.1515419483185},{path="player/survivor/voice/teengirl/nicejob23.wav",length=0.80791383981705},{path="player/survivor/voice/teengirl/nicejob01.wav",length=0.85596370697021},{path="player/survivor/voice/teengirl/hurrah11.wav",length=0.56131517887115}}
