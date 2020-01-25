@@ -1,4 +1,5 @@
 c.StartList("midori")
+L["216 loop"]={{path="chatsounds/autoadd/midori/216 loop.ogg",length=6.234}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/midori/arabic nokia ringtone.ogg",length=23.719}}
 L["baby gasp"]={{path="chatsounds/autoadd/midori/baby gasp.ogg",length=0.488}}
 L["banana screech"]={{path="chatsounds/autoadd/midori/banana screech.ogg",length=1.695}}
