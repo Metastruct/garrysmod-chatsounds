@@ -41,6 +41,7 @@ L["is my hair pretty"]={{path="chatsounds/autoadd/midori/is my hair pretty.ogg",
 L["its a duck"]={{path="chatsounds/autoadd/midori/its a duck.ogg",length=1.637}}
 L["ive missed you"]={{path="chatsounds/autoadd/midori/ive missed you.ogg",length=1.393}}
 L["knuckle crack"]={{path="chatsounds/autoadd/midori/knuckle crack.ogg",length=0.500}}
+L["like scoob what is your favorite thing to do on the weekends"]={{path="chatsounds/autoadd/midori/like scoob what is your favorite thing to do on the weekends.ogg",length=5.181}}
 L["lonely howl"]={{path="chatsounds/autoadd/midori/lonely howl.ogg",length=4.000}}
 L["mama"]={{path="chatsounds/autoadd/midori/mama.ogg",length=0.439}}
 L["mlg xfiles"]={{path="chatsounds/autoadd/midori/mlg xfiles.ogg",length=38.582}}
@@ -52,6 +53,7 @@ L["orangutan"]={{path="chatsounds/autoadd/midori/orangutan/1.ogg",length=0.750},
 L["pop up"]={{path="chatsounds/autoadd/midori/pop up/1.ogg",length=0.500},{path="chatsounds/autoadd/midori/pop up/2.ogg",length=0.563},{path="chatsounds/autoadd/midori/pop up/3.ogg",length=1.750}}
 L["pumping balloon"]={{path="chatsounds/autoadd/midori/pumping balloon.ogg",length=5.979}}
 L["rip"]={{path="chatsounds/autoadd/midori/rip.ogg",length=0.500}}
+L["scooby noises"]={{path="chatsounds/autoadd/midori/scooby noises.ogg",length=13.485}}
 L["slide"]={{path="chatsounds/autoadd/midori/slide.ogg",length=2.000}}
 L["that was terrible"]={{path="chatsounds/autoadd/midori/that was terrible.ogg",length=2.029}}
 L["that wasnt bad"]={{path="chatsounds/autoadd/midori/that wasnt bad.ogg",length=2.871}}
