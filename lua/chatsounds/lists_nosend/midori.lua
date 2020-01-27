@@ -37,6 +37,7 @@ L["i am very hungry"]={{path="chatsounds/autoadd/midori/i am very hungry.ogg",le
 L["i just wanted to remind you how beautiful you are"]={{path="chatsounds/autoadd/midori/i just wanted to remind you how beautiful you are.ogg",length=3.460}}
 L["i wanna be your boyfriend"]={{path="chatsounds/autoadd/midori/i wanna be your boyfriend.ogg",length=2.159}}
 L["im never comin here again"]={{path="chatsounds/autoadd/midori/im never comin here again.ogg",length=3.097}}
+L["intense laughter"]={{path="chatsounds/autoadd/midori/intense laughter.ogg",length=17.865}}
 L["is my hair pretty"]={{path="chatsounds/autoadd/midori/is my hair pretty.ogg",length=1.997}}
 L["its a duck"]={{path="chatsounds/autoadd/midori/its a duck.ogg",length=1.637}}
 L["ive missed you"]={{path="chatsounds/autoadd/midori/ive missed you.ogg",length=1.393}}
