@@ -8,6 +8,7 @@ Chat sounds system for Garry's Mod (with extra sounds)
 
  - Repository was rewritten and forced pushed on 2020-01-13. Commit messages, commits and files were altered or removed to attempt removing sounds violating [GitHub AUP](https://help.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions). You will have to force pull the repository to get all changes. You can use `repo-reset.cmd` to do that. [better_profanity](https://pypi.org/project/better-profanity/) python module was used for the removal. 
  - tl;dr: run [repo-reset.cmd](https://raw.githubusercontent.com/Metastruct/garrysmod-chatsounds/master/repo-reset.cmd) in the chatsounds directory
+ - **Please report any remaining offensive or otherwise GitHub AUP violating sounds you might find by creating a new issue!**
 
 ## How to install
  - Install subversion client: http://tortoisesvn.net/downloads.html
