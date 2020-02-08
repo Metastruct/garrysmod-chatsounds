@@ -24,5 +24,4 @@ L["rama rama rama rama"]={{path="chatsounds/autoadd/dergcake/rama rama rama rama
 L["ramans"]={{path="chatsounds/autoadd/dergcake/ramans.ogg",length=0.501}}
 L["system failure"]={{path="chatsounds/autoadd/dergcake/system failure.ogg",length=6.567}}
 L["version"]={{path="chatsounds/autoadd/dergcake/version.ogg",length=0.792}}
-L["yaykids"]={{path="chatsounds/autoadd/dergcake/yaykids.ogg",length=22.781}}
 c.EndList()
