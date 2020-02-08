@@ -57,7 +57,6 @@ L["f u"]={{path="chatsounds/autoadd/verbalsilence/f u/f u 2.ogg",length=1.627},{
 L["facking booshit"]={{path="chatsounds/autoadd/verbalsilence/facking booshit.ogg",length=2.069}}
 L["fax mentis incendium gloria culpum et cetera et cetera"]={{path="chatsounds/autoadd/verbalsilence/fax mentis incendium gloria culpum et cetera et cetera.ogg",length=3.915}}
 L["fix it fix it fix it"]={{path="chatsounds/autoadd/verbalsilence/fix it fix it fix it.ogg",length=3.780}}
-L["galaxy map loop"]={{path="chatsounds/autoadd/verbalsilence/galaxy map loop.ogg",length=55.982}}
 L["geddan song"]={{path="chatsounds/autoadd/verbalsilence/geddan song.ogg",length=38.664}}
 L["get out me car"]={{path="chatsounds/autoadd/verbalsilence/get out me car.ogg",length=1.254}}
 L["get swole"]={{path="chatsounds/autoadd/verbalsilence/get swole.ogg",length=1.089}}
@@ -185,7 +184,6 @@ L["too funny it was your idea"]={{path="chatsounds/autoadd/verbalsilence/too fun
 L["truck reverse"]={{path="chatsounds/autoadd/verbalsilence/truck reverse.ogg",length=4.928}}
 L["twentyone"]={{path="chatsounds/autoadd/verbalsilence/twentyone.ogg",length=0.796}}
 L["unacceptable"]={{path="chatsounds/autoadd/verbalsilence/unacceptable.ogg",length=1.968}}
-L["vaporwave loop"]={{path="chatsounds/autoadd/verbalsilence/vaporwave loop.ogg",length=21.866}}
 L["vat did you cool me"]={{path="chatsounds/autoadd/verbalsilence/vat did you cool me.ogg",length=1.534}}
 L["watch your profanity"]={{path="chatsounds/autoadd/verbalsilence/watch your profanity.ogg",length=1.360}}
 L["welaaaax"]={{path="chatsounds/autoadd/verbalsilence/welaaaax.ogg",length=1.867}}

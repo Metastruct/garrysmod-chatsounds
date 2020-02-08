@@ -1,6 +1,7 @@
 c.StartList("mass_effect")
 L["come on remember how wed all ask you about life on the flotilla"]={{path="chatsounds/autoadd/mass_effect/come on remember how wed all ask you about life on the flotilla.ogg",length=4.052}}
 L["do the words political shitstorm mean anything to you"]={{path="chatsounds/autoadd/mass_effect/do the words political shitstorm mean anything to you.ogg",length=3.605}}
+L["galaxy map loop"]={{path="chatsounds/autoadd/mass_effect/galaxy map loop.ogg",length=55.986}}
 L["geth do not infiltrate"]={{path="chatsounds/autoadd/mass_effect/geth do not infiltrate.ogg",length=1.846}}
 L["geth do not intentionally infiltrate"]={{path="chatsounds/autoadd/mass_effect/geth do not intentionally infiltrate.ogg",length=2.873}}
 L["i enjoy the sight of humans on their knees"]={{path="chatsounds/autoadd/mass_effect/i enjoy the sight of humans on their knees.ogg",length=1.877}}
