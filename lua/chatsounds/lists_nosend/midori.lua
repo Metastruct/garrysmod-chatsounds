@@ -1,5 +1,6 @@
 c.StartList("midori")
 L["216 loop"]={{path="chatsounds/autoadd/midori/216 loop.ogg",length=6.234}}
+L["ah fuck fuck"]={{path="chatsounds/autoadd/midori/ah fuck fuck.ogg",length=2.722}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/midori/arabic nokia ringtone.ogg",length=23.719}}
 L["baby gasp"]={{path="chatsounds/autoadd/midori/baby gasp.ogg",length=0.488}}
 L["banana screech"]={{path="chatsounds/autoadd/midori/banana screech.ogg",length=1.695}}
@@ -51,6 +52,7 @@ L["no i dont want that"]={{path="chatsounds/autoadd/midori/no i dont want that.o
 L["nomoreiloveyous"]={{path="chatsounds/autoadd/midori/nomoreiloveyous.ogg",length=23.429}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/midori/oh these are pretty cool bananas.ogg",length=1.820}}
 L["orangutan"]={{path="chatsounds/autoadd/midori/orangutan/1.ogg",length=0.750},{path="chatsounds/autoadd/midori/orangutan/2.ogg",length=0.969},{path="chatsounds/autoadd/midori/orangutan/3.ogg",length=1.625}}
+L["paddle scream"]={{path="chatsounds/autoadd/midori/paddle scream.ogg",length=3.781}}
 L["pop up"]={{path="chatsounds/autoadd/midori/pop up/1.ogg",length=0.500},{path="chatsounds/autoadd/midori/pop up/2.ogg",length=0.563},{path="chatsounds/autoadd/midori/pop up/3.ogg",length=1.750}}
 L["pumping balloon"]={{path="chatsounds/autoadd/midori/pumping balloon.ogg",length=5.979}}
 L["rip"]={{path="chatsounds/autoadd/midori/rip.ogg",length=0.500}}
