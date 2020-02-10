@@ -43,7 +43,6 @@ L["is california really sending out flavoured condoms"]={{path="chatsounds/autoa
 L["is this like lemon flavour"]={{path="chatsounds/autoadd/idubbbztv/is this like lemon flavour.ogg",length=1.226}}
 L["is uh"]={{path="chatsounds/autoadd/idubbbztv/is uh.ogg",length=0.528}}
 L["its pretty good"]={{path="chatsounds/autoadd/idubbbztv/its pretty good.ogg",length=0.915}}
-L["just get a load of how perfectly the word niggerfaggot is written in this letter"]={{path="chatsounds/autoadd/idubbbztv/just get a load of how perfectly the word niggerfaggot is written in this letter.ogg",length=3.538}}
 L["kill me"]={{path="chatsounds/autoadd/idubbbztv/kill me.ogg",length=0.623}}
 L["kinda said it like i was autistic"]={{path="chatsounds/autoadd/idubbbztv/kinda said it like i was autistic.ogg",length=1.274}}
 L["kinda sounds like a beverage"]={{path="chatsounds/autoadd/idubbbztv/kinda sounds like a beverage.ogg",length=1.295}}

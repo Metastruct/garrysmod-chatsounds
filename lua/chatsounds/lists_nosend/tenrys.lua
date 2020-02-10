@@ -69,7 +69,6 @@ L["fine just try it"]={{path="chatsounds/autoadd/tenrys/fine just try it.ogg",le
 L["fool"]={{path="chatsounds/autoadd/tenrys/fool.ogg",length=0.446}}
 L["fuck you"]={{path="chatsounds/autoadd/tenrys/fuck you.ogg",length=0.906}}
 L["game over"]={{path="chatsounds/autoadd/tenrys/game over.ogg",length=5.692}}
-L["gay bagels"]={{path="chatsounds/autoadd/tenrys/gay bagels.ogg",length=0.933}}
 L["get some help"]={{path="chatsounds/autoadd/tenrys/get some help.ogg",length=0.790}}
 L["gives me conniptions"]={{path="chatsounds/autoadd/tenrys/gives me conniptions.ogg",length=1.893}}
 L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.556}}
@@ -79,7 +78,6 @@ L["goodbye jojo"]={{path="chatsounds/autoadd/tenrys/goodbye jojo.ogg",length=2.2
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.485}}
 L["hah typical politician not too bright"]={{path="chatsounds/autoadd/tenrys/hah typical politician not too bright.ogg",length=3.406}}
 L["hamburger"]={{path="chatsounds/autoadd/tenrys/hamburger.ogg",length=1.183}}
-L["happy gay bagel making"]={{path="chatsounds/autoadd/tenrys/happy gay bagel making.ogg",length=1.353}}
 L["heh"]={{path="chatsounds/autoadd/tenrys/heh.ogg",length=0.308}}
 L["heh even dead that guy is a pain in my ass"]={{path="chatsounds/autoadd/tenrys/heh even dead that guy is a pain in my ass.ogg",length=3.587}}
 L["hell to you"]={{path="chatsounds/autoadd/tenrys/hell to you.ogg",length=1.770}}
@@ -94,7 +92,6 @@ L["how about full of shit"]={{path="chatsounds/autoadd/tenrys/how about full of 
 L["huh"]={{path="chatsounds/autoadd/tenrys/huh.ogg",length=0.705}}
 L["i am done"]={{path="chatsounds/autoadd/tenrys/i am done.ogg",length=0.627}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.952}}
-L["i do not associate with niggers"]={{path="chatsounds/autoadd/tenrys/i do not associate with niggers.ogg",length=3.666}}
 L["i dont have time for this"]={{path="chatsounds/autoadd/tenrys/i dont have time for this.ogg",length=1.715}}
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.922}}
 L["i hope youre prepared for an unforgettable luncheon"]={{path="chatsounds/autoadd/tenrys/i hope youre prepared for an unforgettable luncheon.ogg",length=2.125}}

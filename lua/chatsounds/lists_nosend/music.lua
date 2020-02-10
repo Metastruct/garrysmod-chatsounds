@@ -35,7 +35,6 @@ L["lord macintosh plus"]={{path="chatsounds/autoadd/music/lord macintosh plus/1.
 L["moonthemefull"]={{path="chatsounds/autoadd/music/moonthemefull.ogg",length=92.500}}
 L["mr skeltal anthem"]={{path="chatsounds/autoadd/music/mr skeltal anthem.ogg",length=21.162}}
 L["nbgskrill"]={{path="chatsounds/autoadd/music/nbgskrill.ogg",length=56.294}}
-L["niggerz bop ducktales"]={{path="chatsounds/autoadd/music/niggerz bop ducktales.ogg",length=60.134}}
 L["offlimits"]={{path="chatsounds/autoadd/music/offlimits.ogg",length=113.175}}
 L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmortalyes.ogg",length=125.982}}
 L["prism"]={{path="chatsounds/autoadd/music/prism.ogg",length=0.750}}

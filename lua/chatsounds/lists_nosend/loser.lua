@@ -14,7 +14,6 @@ L["jordans"]={{path="chatsounds/autoadd/loser/jordans.ogg",length=0.647}}
 L["kfc"]={{path="chatsounds/autoadd/loser/kfc.ogg",length=0.625}}
 L["kfc and watermelon"]={{path="chatsounds/autoadd/loser/kfc and watermelon.ogg",length=1.243}}
 L["monkey"]={{path="chatsounds/autoadd/loser/monkey.ogg",length=0.424}}
-L["niggers"]={{path="chatsounds/autoadd/loser/niggers.ogg",length=0.521}}
 L["no pacman drugs are bad"]={{path="chatsounds/autoadd/loser/no pacman drugs are bad.ogg",length=2.501}}
 L["no respect for anything except your potions"]={{path="chatsounds/autoadd/loser/no respect for anything except your potions.ogg",length=4.211}}
 L["no way my wife is a frog"]={{path="chatsounds/autoadd/loser/no way my wife is a frog.ogg",length=1.440}}

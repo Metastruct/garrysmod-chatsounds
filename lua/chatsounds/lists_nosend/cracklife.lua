@@ -11,7 +11,6 @@ L["dance of the manwhore"]={{path="chatsounds/autoadd/cracklife/dance of the man
 L["fock"]={{path="chatsounds/autoadd/cracklife/fock/geiger1.ogg",length=0.290},{path="chatsounds/autoadd/cracklife/fock/geiger2.ogg",length=0.284},{path="chatsounds/autoadd/cracklife/fock/geiger3.ogg",length=0.290},{path="chatsounds/autoadd/cracklife/fock/geiger4.ogg",length=0.180},{path="chatsounds/autoadd/cracklife/fock/geiger5.ogg",length=0.197},{path="chatsounds/autoadd/cracklife/fock/geiger6.ogg",length=0.342}}
 L["i appear to have lost any possible life signals carry on"]={{path="chatsounds/autoadd/cracklife/i appear to have lost any possible life signals carry on.ogg",length=4.719}}
 L["i will now proceed to pounce at you"]={{path="chatsounds/autoadd/cracklife/i will now proceed to pounce at you.ogg",length=2.368}}
-L["its those nazi niggers again"]={{path="chatsounds/autoadd/cracklife/its those nazi niggers again.ogg",length=2.342}}
 L["march01"]={{path="chatsounds/autoadd/cracklife/march01.ogg",length=17.816}}
 L["no fakku offu gordon"]={{path="chatsounds/autoadd/cracklife/no fakku offu gordon.ogg",length=2.061}}
 L["oi blyad"]={{path="chatsounds/autoadd/cracklife/oi blyad.ogg",length=1.097}}
