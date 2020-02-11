@@ -35,7 +35,6 @@ L["com"]={{path="chatsounds/autoadd/tenrys/com.ogg",length=0.439}}
 L["come on"]={{path="chatsounds/autoadd/tenrys/come on.ogg",length=1.085}}
 L["cough hard"]={{path="chatsounds/autoadd/tenrys/cough hard.ogg",length=4.930}}
 L["crazybus"]={{path="chatsounds/autoadd/tenrys/crazybus.ogg",length=29.986}}
-L["cringe"]={{path="chatsounds/autoadd/tenrys/cringe.ogg",length=1.036}}
 L["cum insanity"]={{path="chatsounds/autoadd/tenrys/cum insanity.ogg",length=3.291}}
 L["cyka blyad bangbangbang"]={{path="chatsounds/autoadd/tenrys/cyka blyad bangbangbang.ogg",length=1.628}}
 L["dawn"]={{path="chatsounds/autoadd/tenrys/dawn.ogg",length=3.359}}
