@@ -1,5 +1,7 @@
 c.StartList("memes")
 L["360 ooga booga booga"]={{path="chatsounds/autoadd/memes/360 ooga booga booga.ogg",length=3.350}}
+L["arrgh eww duude wtf"]={{path="chatsounds/autoadd/memes/arrgh eww duude wtf.ogg",length=6.332}}
+L["aww dude youre drinking cum powder"]={{path="chatsounds/autoadd/memes/aww dude youre drinking cum powder.ogg",length=2.329}}
 L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
