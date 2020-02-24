@@ -50,7 +50,7 @@ L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=3
 L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.046}}
 L["objection"]={{path="chatsounds/autoadd/randomshit/objection.ogg",length=1.322}}
 L["penis music"]={{path="chatsounds/autoadd/randomshit/penis music.ogg",length=22.176}}
-L["penis music loop"]={{path="chatsounds/autoadd/randomshit/penis music loop.ogg",length=22.176}}
+L["penis music loop"]={{path="chatsounds/autoadd/randomshit/penis music loop.ogg",length=10.975}}
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/randomshit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.487}}
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
