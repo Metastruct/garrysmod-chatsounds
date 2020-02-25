@@ -11,6 +11,7 @@ L["boo you suck"]={{path="chatsounds/autoadd/randomshit/boo you suck.ogg",length
 L["brb tax collector is escaping from the basement"]={{path="chatsounds/autoadd/randomshit/brb tax collector is escaping from the basement.ogg",length=3.100}}
 L["but before the show starts"]={{path="chatsounds/autoadd/randomshit/but before the show starts.ogg",length=14.476}}
 L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.ogg",length=1.521}}
+L["change da world"]={{path="chatsounds/autoadd/randomshit/change da world.ogg",length=2.140}}
 L["cloakerscream"]={{path="chatsounds/autoadd/randomshit/cloakerscream.ogg",length=5.065}}
 L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my crawl.ogg",length=20.637}}
 L["darthvaderbreath"]={{path="chatsounds/autoadd/randomshit/darthvaderbreath.ogg",length=29.990}}
@@ -24,6 +25,7 @@ L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.6
 L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.568}}
 L["gasgasgas"]={{path="chatsounds/autoadd/randomshit/gasgasgas.ogg",length=271.804}}
 L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power rangers.ogg",length=65.980}}
+L["goodbye"]={{path="chatsounds/autoadd/randomshit/goodbye.ogg",length=8.761}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.840}}
 L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
@@ -45,6 +47,7 @@ L["marioup"]={{path="chatsounds/autoadd/randomshit/marioup.ogg",length=1.776}}
 L["meemkit"]={{path="chatsounds/autoadd/randomshit/meemkit/meemkit1.ogg",length=0.617},{path="chatsounds/autoadd/randomshit/meemkit/meemkit2.ogg",length=0.744},{path="chatsounds/autoadd/randomshit/meemkit/meemkit3.ogg",length=0.723}}
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/randomshit/mom youre an idiot kappa.ogg",length=2.234}}
 L["musicbox"]={{path="chatsounds/autoadd/randomshit/musicbox.ogg",length=23.800}}
+L["my final message"]={{path="chatsounds/autoadd/randomshit/my final message.ogg",length=2.549}}
 L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=300.199}}
 L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.046}}
