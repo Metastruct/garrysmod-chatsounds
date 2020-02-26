@@ -87,7 +87,6 @@ L["whyd ya knock out everetts mechanic"]={{path="chatsounds/autoadd/deusex/whyd 
 L["yeah"]={{path="chatsounds/autoadd/deusex/yeah.ogg",length=0.414}}
 L["yes password"]={{path="chatsounds/autoadd/deusex/yes password.ogg",length=1.712}}
 L["yes sir"]={{path="chatsounds/autoadd/deusex/yes sir.ogg",length=0.537}}
-L["yes they do it on purpose"]={{path="chatsounds/autoadd/deusex/yes they do it on purpose.ogg",length=1.515}}
 L["yes they do that on purpose"]={{path="chatsounds/autoadd/deusex/yes they do that on purpose.ogg",length=1.515}}
 L["yes yes you are"]={{path="chatsounds/autoadd/deusex/yes yes you are.ogg",length=2.261}}
 L["yess"]={{path="chatsounds/autoadd/deusex/yess.ogg",length=1.203}}
