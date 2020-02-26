@@ -66,7 +66,6 @@ L["sticks and stones"]={{path="chatsounds/autoadd/deusex/sticks and stones.ogg",
 L["suure"]={{path="chatsounds/autoadd/deusex/suure.ogg",length=0.746}}
 L["that mechanic was an imposter"]={{path="chatsounds/autoadd/deusex/that mechanic was an imposter.ogg",length=1.305}}
 L["the fuel system"]={{path="chatsounds/autoadd/deusex/the fuel system.ogg",length=1.225}}
-L["the machine would make a mistake"]={{path="chatsounds/autoadd/deusex/the machine would make a mistake.ogg",length=2.168}}
 L["the machine would not make a mistake"]={{path="chatsounds/autoadd/deusex/the machine would not make a mistake.ogg",length=2.168}}
 L["there"]={{path="chatsounds/autoadd/deusex/there.ogg",length=0.522}}
 L["they say this guy can just disappear when he wants to"]={{path="chatsounds/autoadd/deusex/they say this guy can just disappear when he wants to.ogg",length=2.757}}
