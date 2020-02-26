@@ -47,7 +47,7 @@ L["my dad used to say slaughter slaugher slaughter hes dead"]={{path="chatsounds
 L["my pleasure is augmented"]={{path="chatsounds/autoadd/deusex_malkavian/my pleasure is augmented.ogg",length=1.202}}
 L["now we will see who is made of booby traps"]={{path="chatsounds/autoadd/deusex_malkavian/now we will see who is made of booby traps.ogg",length=2.560}}
 L["only one thing can happen when you break my rusty metal skull gun"]={{path="chatsounds/autoadd/deusex_malkavian/only one thing can happen when you break my rusty metal skull gun.ogg",length=3.672}}
-L["papa_forbids_me_to_talk_to_strangers"]={{path="chatsounds/autoadd/deusex_malkavian/papa_forbids_me_to_talk_to_strangers.ogg",length=2.304}}
+L["papa forbids me to talk to strangers"]={{path="chatsounds/autoadd/deusex_malkavian/papa forbids me to talk to strangers.ogg",length=2.304}}
 L["real booby traps tonight"]={{path="chatsounds/autoadd/deusex_malkavian/real booby traps tonight.ogg",length=2.064}}
 L["so you were hoping to find your daughter in the ocean"]={{path="chatsounds/autoadd/deusex_malkavian/so you were hoping to find your daughter in the ocean.ogg",length=3.492}}
 L["sorry some bad news i i i am prepared to perform my duties"]={{path="chatsounds/autoadd/deusex_malkavian/sorry some bad news i i i am prepared to perform my duties.ogg",length=6.696}}
