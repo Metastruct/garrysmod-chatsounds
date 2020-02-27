@@ -34,13 +34,18 @@ L["hotguitarriff"]={{path="chatsounds/autoadd/randomshit/hotguitarriff.ogg",leng
 L["how many cigorettes have you got lad"]={{path="chatsounds/autoadd/randomshit/how many cigorettes have you got lad.ogg",length=3.878}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.725}}
 L["i have several questions"]={{path="chatsounds/autoadd/randomshit/i have several questions.ogg",length=2.140}}
+L["i mean its terrific right"]={{path="chatsounds/autoadd/randomshit/i mean its terrific right.ogg",length=1.594}}
+L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoadd/randomshit/i see you dont have a lifeguard here at your beach.ogg",length=2.670}}
+L["im not at the beach this is a bathtub"]={{path="chatsounds/autoadd/randomshit/im not at the beach this is a bathtub.ogg",length=2.837}}
 L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/randomshit/is that a man riding a shrimp.ogg",length=2.119}}
 L["it takes all colors to make a rainbow"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow.ogg",length=2.985}}
 L["it takes all colors to make a rainbow except black"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow except black.ogg",length=5.951}}
+L["its as satisfying to me as cumming is"]={{path="chatsounds/autoadd/randomshit/its as satisfying to me as cumming is.ogg",length=3.203}}
 L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places to be.ogg",length=2.973}}
 L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.170}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.881},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.770}}
 L["kurwa"]={{path="chatsounds/autoadd/randomshit/kurwa.ogg",length=1.247}}
+L["like thats ever gonna happen"]={{path="chatsounds/autoadd/randomshit/like thats ever gonna happen.ogg",length=1.996}}
 L["lone digger loop"]={{path="chatsounds/autoadd/randomshit/lone digger loop.ogg",length=46.452}}
 L["make it stop"]={{path="chatsounds/autoadd/randomshit/make it stop.ogg",length=2.596}}
 L["marioup"]={{path="chatsounds/autoadd/randomshit/marioup.ogg",length=1.776}}
@@ -55,10 +60,12 @@ L["objection"]={{path="chatsounds/autoadd/randomshit/objection.ogg",length=1.322
 L["penis music"]={{path="chatsounds/autoadd/randomshit/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/randomshit/penis music loop.ogg",length=10.975}}
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/randomshit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}
+L["pornhub"]={{path="chatsounds/autoadd/randomshit/pornhub.ogg",length=3.056}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.487}}
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.165}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.145}}
+L["so im cumming day and night"]={{path="chatsounds/autoadd/randomshit/so im cumming day and night.ogg",length=1.678}}
 L["some maniacs been murdering us"]={{path="chatsounds/autoadd/randomshit/some maniacs been murdering us.ogg",length=4.086}}
 L["srors"]={{path="chatsounds/autoadd/randomshit/srors.ogg",length=0.808}}
 L["tactical nuke"]={{path="chatsounds/autoadd/randomshit/tactical nuke.ogg",length=2.426}}
