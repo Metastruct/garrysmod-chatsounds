@@ -49,6 +49,7 @@ L["nooo"]={{path="chatsounds/autoadd/hatintime/nooo/1.ogg",length=4.936}}
 L["nope"]={{path="chatsounds/autoadd/hatintime/nope/1.ogg",length=0.791}}
 L["one"]={{path="chatsounds/autoadd/hatintime/one/1.ogg",length=0.688},{path="chatsounds/autoadd/hatintime/one/2.ogg",length=0.570},{path="chatsounds/autoadd/hatintime/one/3.ogg",length=0.770}}
 L["ow"]={{path="chatsounds/autoadd/hatintime/ow/1.ogg",length=0.759},{path="chatsounds/autoadd/hatintime/ow/2.ogg",length=0.292}}
+L["peck"]={{path="chatsounds/autoadd/hatintime/peck/1.ogg",length=0.522},{path="chatsounds/autoadd/hatintime/peck/2.ogg",length=0.626}}
 L["ready or not here i come"]={{path="chatsounds/autoadd/hatintime/ready or not here i come/1.ogg",length=6.500}}
 L["seven"]={{path="chatsounds/autoadd/hatintime/seven/1.ogg",length=0.729}}
 L["six"]={{path="chatsounds/autoadd/hatintime/six/1.ogg",length=0.875}}

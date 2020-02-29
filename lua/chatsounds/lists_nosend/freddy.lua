@@ -26,7 +26,6 @@ L["now if youll excuse me"]={{path="chatsounds/autoadd/freddy/now if youll excus
 L["now you just get outside and just cool off"]={{path="chatsounds/autoadd/freddy/now you just get outside and just cool off.ogg",length=2.863}}
 L["oh look"]={{path="chatsounds/autoadd/freddy/oh look.ogg",length=1.015}}
 L["oh yeah is it working"]={{path="chatsounds/autoadd/freddy/oh yeah is it working.ogg",length=1.482}}
-L["oooh look"]={{path="chatsounds/autoadd/freddy/oooh look.ogg",length=1.015}}
 L["pakistan"]={{path="chatsounds/autoadd/freddy/pakistan.ogg",length=0.777}}
 L["sausage"]={{path="chatsounds/autoadd/freddy/sausage.ogg",length=0.970}}
 L["sausages"]={{path="chatsounds/autoadd/freddy/sausages.ogg",length=0.887}}
