@@ -2,7 +2,6 @@ c.StartList("enderbro")
 L["a rhetorical question"]={{path="chatsounds/autoadd/enderbro/a rhetorical question.ogg",length=1.305}}
 L["as i fight"]={{path="chatsounds/autoadd/enderbro/as i fight.ogg",length=1.518}}
 L["being meguca is suffering"]={{path="chatsounds/autoadd/enderbro/being meguca is suffering.ogg",length=2.542}}
-L["cybersex"]={{path="chatsounds/autoadd/enderbro/cybersex.ogg",length=1.014}}
 L["dkdoorpain"]={{path="chatsounds/autoadd/enderbro/dkdoorpain.ogg",length=37.274}}
 L["do not throw souls"]={{path="chatsounds/autoadd/enderbro/do not throw souls.ogg",length=1.344}}
 L["dont answer that"]={{path="chatsounds/autoadd/enderbro/dont answer that.ogg",length=0.813}}
@@ -18,8 +17,9 @@ L["now ive lost it"]={{path="chatsounds/autoadd/enderbro/now ive lost it.ogg",le
 L["nyuggah"]={{path="chatsounds/autoadd/enderbro/nyuggah.ogg",length=1.572}}
 L["shaku lost it"]={{path="chatsounds/autoadd/enderbro/shaku lost it.ogg",length=2.133}}
 L["she watch me"]={{path="chatsounds/autoadd/enderbro/she watch me.ogg",length=1.763}}
+L["sibersex"]={{path="chatsounds/autoadd/enderbro/sibersex.ogg",length=1.014}}
 L["so i pray"]={{path="chatsounds/autoadd/enderbro/so i pray.ogg",length=1.567}}
-L["soos"]={{path="chatsounds/autoadd/enderbro/soos.ogg",length=0.649}}
+L["soos1"]={{path="chatsounds/autoadd/enderbro/soos1.ogg",length=0.649}}
 L["take a spit on the internet"]={{path="chatsounds/autoadd/enderbro/take a spit on the internet.ogg",length=2.039}}
 L["thats right meduka"]={{path="chatsounds/autoadd/enderbro/thats right meduka.ogg",length=3.134}}
 L["the door is opph"]={{path="chatsounds/autoadd/enderbro/the door is opph.ogg",length=3.143}}
@@ -32,6 +32,6 @@ L["whiiii"]={{path="chatsounds/autoadd/enderbro/whiiii.ogg",length=1.436}}
 L["wtff"]={{path="chatsounds/autoadd/enderbro/wtff.ogg",length=1.965}}
 L["you can actually buy this car"]={{path="chatsounds/autoadd/enderbro/you can actually buy this car.ogg",length=3.061}}
 L["you type wwwcom"]={{path="chatsounds/autoadd/enderbro/you type wwwcom.ogg",length=2.515}}
+L["your killing me"]={{path="chatsounds/autoadd/enderbro/your killing me.ogg",length=0.856}}
 L["youre going surfing on the jelonet"]={{path="chatsounds/autoadd/enderbro/youre going surfing on the jelonet.ogg",length=2.738}}
-L["youre killing me"]={{path="chatsounds/autoadd/enderbro/youre killing me.ogg",length=0.856}}
 c.EndList()

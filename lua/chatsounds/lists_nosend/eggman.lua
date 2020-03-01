@@ -1,7 +1,7 @@
 c.StartList("eggman")
 L["ah know your place android"]={{path="chatsounds/autoadd/eggman/ah know your place android.ogg",length=3.072}}
 L["burn burn to ashes"]={{path="chatsounds/autoadd/eggman/burn burn to ashes.ogg",length=2.367}}
-L["but"]={{path="chatsounds/autoadd/eggman/but.ogg",length=0.580}}
+L["but2"]={{path="chatsounds/autoadd/eggman/but2.ogg",length=0.580}}
 L["buurn"]={{path="chatsounds/autoadd/eggman/buurn.ogg",length=1.012}}
 L["eggmanpainall"]={{path="chatsounds/autoadd/eggman/eggmanpainall.ogg",length=6.316}}
 L["eggmantheme"]={{path="chatsounds/autoadd/eggman/eggmantheme/sonic1.ogg",length=40.001},{path="chatsounds/autoadd/eggman/eggmantheme/soniccdeurope.ogg",length=66.001}}
@@ -9,10 +9,10 @@ L["eugh hey"]={{path="chatsounds/autoadd/eggman/eugh hey.ogg",length=1.409}}
 L["eugh is that all you got"]={{path="chatsounds/autoadd/eggman/eugh is that all you got.ogg",length=2.690}}
 L["finish it"]={{path="chatsounds/autoadd/eggman/finish it.ogg",length=0.836}}
 L["for you"]={{path="chatsounds/autoadd/eggman/for you.ogg",length=1.020}}
-L["freeze"]={{path="chatsounds/autoadd/eggman/freeze.ogg",length=1.289}}
+L["freeze2"]={{path="chatsounds/autoadd/eggman/freeze2.ogg",length=1.289}}
 L["hahahaha catch me if you can"]={{path="chatsounds/autoadd/eggman/hahahaha catch me if you can.ogg",length=2.649}}
 L["hohohoh"]={{path="chatsounds/autoadd/eggman/hohohoh.ogg",length=0.939}}
-L["how about"]={{path="chatsounds/autoadd/eggman/how about.ogg",length=0.737}}
+L["how about1"]={{path="chatsounds/autoadd/eggman/how about1.ogg",length=0.737}}
 L["how dare you"]={{path="chatsounds/autoadd/eggman/how dare you.ogg",length=1.836}}
 L["i will flatten you"]={{path="chatsounds/autoadd/eggman/i will flatten you.ogg",length=1.560}}
 L["is something the matter"]={{path="chatsounds/autoadd/eggman/is something the matter.ogg",length=1.360}}
@@ -26,8 +26,9 @@ L["prepare to be skewered"]={{path="chatsounds/autoadd/eggman/prepare to be skew
 L["rrrrr"]={{path="chatsounds/autoadd/eggman/rrrrr.ogg",length=0.863}}
 L["seperation attack"]={{path="chatsounds/autoadd/eggman/seperation attack.ogg",length=1.432}}
 L["thats my chaos emerald dont you touch it"]={{path="chatsounds/autoadd/eggman/thats my chaos emerald dont you touch it.ogg",length=2.859}}
-L["this"]={{path="chatsounds/autoadd/eggman/this/this1.ogg",length=0.749},{path="chatsounds/autoadd/eggman/this/this2.ogg",length=0.715}}
 L["this one controls the flow of time"]={{path="chatsounds/autoadd/eggman/this one controls the flow of time.ogg",length=2.303}}
+L["this1"]={{path="chatsounds/autoadd/eggman/this1.ogg",length=0.749}}
+L["this2"]={{path="chatsounds/autoadd/eggman/this2.ogg",length=0.715}}
 L["time for a change of pace"]={{path="chatsounds/autoadd/eggman/time for a change of pace.ogg",length=1.863}}
 L["to defeat us"]={{path="chatsounds/autoadd/eggman/to defeat us.ogg",length=1.181}}
 L["weve been saving this one"]={{path="chatsounds/autoadd/eggman/weve been saving this one.ogg",length=1.900}}
