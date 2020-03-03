@@ -50,7 +50,7 @@ L["i want to be your space invader"]={{path="chatsounds/autoadd/techbot/i want t
 L["is"]={{path="chatsounds/autoadd/techbot/is.ogg",length=0.293}}
 L["is it"]={{path="chatsounds/autoadd/techbot/is it.ogg",length=0.545}}
 L["its me"]={{path="chatsounds/autoadd/techbot/its me.ogg",length=0.708}}
-L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=3.441}}
+L["jeopardy"]={{path="chatsounds/autoadd/techbot/jeopardy.ogg",length=30.855}}
 L["kek"]={{path="chatsounds/autoadd/techbot/kek.ogg",length=0.383}}
 L["kiinni"]={{path="chatsounds/autoadd/techbot/kiinni.ogg",length=0.629}}
 L["l lessons buhinibnmbebetto licence"]={{path="chatsounds/autoadd/techbot/l lessons buhinibnmbebetto licence.ogg",length=3.319}}
