@@ -1,4 +1,5 @@
 c.StartList("lisathepainful")
+L["bell"]={{path="chatsounds/autoadd/lisathepainful/bell.ogg",length=3.433}}
 L["booong"]={{path="chatsounds/autoadd/lisathepainful/booong.ogg",length=1.825}}
 L["bradyell"]={{path="chatsounds/autoadd/lisathepainful/bradyell.ogg",length=1.260}}
 L["confuse"]={{path="chatsounds/autoadd/lisathepainful/confuse/1.ogg",length=1.867},{path="chatsounds/autoadd/lisathepainful/confuse/2.ogg",length=0.975}}
