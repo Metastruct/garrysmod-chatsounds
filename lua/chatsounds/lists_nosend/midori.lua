@@ -1,7 +1,10 @@
 c.StartList("midori")
 L["216 loop"]={{path="chatsounds/autoadd/midori/216 loop.ogg",length=6.234}}
+L["aaagh ooogh"]={{path="chatsounds/autoadd/midori/aaagh ooogh.ogg",length=1.107}}
 L["ah fuck fuck"]={{path="chatsounds/autoadd/midori/ah fuck fuck.ogg",length=2.722}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/midori/arabic nokia ringtone.ogg",length=23.719}}
+L["auuugh"]={{path="chatsounds/autoadd/midori/auuugh.ogg",length=0.605}}
+L["aw dude 4 strength 4 stam leather belt"]={{path="chatsounds/autoadd/midori/aw dude 4 strength 4 stam leather belt.ogg",length=2.904}}
 L["baby gasp"]={{path="chatsounds/autoadd/midori/baby gasp.ogg",length=0.488}}
 L["banana screech"]={{path="chatsounds/autoadd/midori/banana screech.ogg",length=1.695}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/midori/buzz lightyear commercial.ogg",length=51.769}}
@@ -43,6 +46,7 @@ L["is my hair pretty"]={{path="chatsounds/autoadd/midori/is my hair pretty.ogg",
 L["its a duck"]={{path="chatsounds/autoadd/midori/its a duck.ogg",length=1.637}}
 L["ive missed you"]={{path="chatsounds/autoadd/midori/ive missed you.ogg",length=1.393}}
 L["knuckle crack"]={{path="chatsounds/autoadd/midori/knuckle crack.ogg",length=0.500}}
+L["level 18"]={{path="chatsounds/autoadd/midori/level 18.ogg",length=0.719}}
 L["like scoob what is your favorite thing to do on the weekends"]={{path="chatsounds/autoadd/midori/like scoob what is your favorite thing to do on the weekends.ogg",length=5.181}}
 L["lonely howl"]={{path="chatsounds/autoadd/midori/lonely howl.ogg",length=4.000}}
 L["mama"]={{path="chatsounds/autoadd/midori/mama.ogg",length=0.439}}
