@@ -2,6 +2,7 @@ c.StartList("randomshit")
 L["10 out of 10 10 out of 10 100 out of 100 best game best game"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.170}}
 L["a meemkit cannot be reused"]={{path="chatsounds/autoadd/randomshit/a meemkit cannot be reused.ogg",length=2.420}}
 L["aid"]={{path="chatsounds/autoadd/randomshit/aid.ogg",length=0.352}}
+L["and its spherical"]={{path="chatsounds/autoadd/randomshit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/randomshit/are you kidding me.ogg",length=2.662}}
 L["barbra streisand loop"]={{path="chatsounds/autoadd/randomshit/barbra streisand loop.ogg",length=15.238}}
 L["bazinga"]={{path="chatsounds/autoadd/randomshit/bazinga/bazinga1.ogg",length=0.899},{path="chatsounds/autoadd/randomshit/bazinga/bazinga2.ogg",length=0.788},{path="chatsounds/autoadd/randomshit/bazinga/bazinga3.ogg",length=1.088},{path="chatsounds/autoadd/randomshit/bazinga/bazinga4.ogg",length=1.041},{path="chatsounds/autoadd/randomshit/bazinga/bazinga5.ogg",length=0.900},{path="chatsounds/autoadd/randomshit/bazinga/bazinga6.ogg",length=0.609},{path="chatsounds/autoadd/randomshit/bazinga/bazinga7.ogg",length=0.876},{path="chatsounds/autoadd/randomshit/bazinga/bazinga8.ogg",length=0.832},{path="chatsounds/autoadd/randomshit/bazinga/bazinga9.ogg",length=0.924}}
@@ -18,15 +19,18 @@ L["darthvaderbreath"]={{path="chatsounds/autoadd/randomshit/darthvaderbreath.ogg
 L["dejavu"]={{path="chatsounds/autoadd/randomshit/dejavu.ogg",length=264.150}}
 L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.596}}
+L["ee ur"]={{path="chatsounds/autoadd/randomshit/ee ur.ogg",length=1.431}}
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465}}
 L["except black"]={{path="chatsounds/autoadd/randomshit/except black.ogg",length=1.718}}
 L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.221}}
+L["femur breaker"]={{path="chatsounds/autoadd/randomshit/femur breaker.ogg",length=28.317}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.621}}
 L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.568}}
 L["gasgasgas"]={{path="chatsounds/autoadd/randomshit/gasgasgas.ogg",length=271.804}}
 L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power rangers.ogg",length=65.980}}
 L["goodbye"]={{path="chatsounds/autoadd/randomshit/goodbye.ogg",length=8.761}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.840}}
+L["hello internet welcome to gay"]={{path="chatsounds/autoadd/randomshit/hello internet welcome to gay.ogg",length=3.585}}
 L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739}}
@@ -61,12 +65,14 @@ L["penis music"]={{path="chatsounds/autoadd/randomshit/penis music.ogg",length=2
 L["penis music loop"]={{path="chatsounds/autoadd/randomshit/penis music loop.ogg",length=10.975}}
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/randomshit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}
 L["pornhub"]={{path="chatsounds/autoadd/randomshit/pornhub.ogg",length=3.056}}
+L["quieres"]={{path="chatsounds/autoadd/randomshit/quieres.ogg",length=1.751}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.487}}
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.165}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.145}}
 L["so im cumming day and night"]={{path="chatsounds/autoadd/randomshit/so im cumming day and night.ogg",length=1.678}}
 L["some maniacs been murdering us"]={{path="chatsounds/autoadd/randomshit/some maniacs been murdering us.ogg",length=4.086}}
+L["spherical"]={{path="chatsounds/autoadd/randomshit/spherical.ogg",length=1.184}}
 L["srors"]={{path="chatsounds/autoadd/randomshit/srors.ogg",length=0.808}}
 L["tactical nuke"]={{path="chatsounds/autoadd/randomshit/tactical nuke.ogg",length=2.426}}
 L["tango down"]={{path="chatsounds/autoadd/randomshit/tango down.ogg",length=2.090}}
@@ -77,6 +83,7 @@ L["theres no black in a rainbow"]={{path="chatsounds/autoadd/randomshit/theres n
 L["they have twelve penises"]={{path="chatsounds/autoadd/randomshit/they have twelve penises.ogg",length=2.789}}
 L["this is ban roulette i love it"]={{path="chatsounds/autoadd/randomshit/this is ban roulette i love it.ogg",length=1.986}}
 L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.923}}
+L["timey wimey"]={{path="chatsounds/autoadd/randomshit/timey wimey.ogg",length=1.147}}
 L["traif"]={{path="chatsounds/autoadd/randomshit/traif.ogg",length=0.501}}
 L["until you are at full health"]={{path="chatsounds/autoadd/randomshit/until you are at full health.ogg",length=1.576}}
 L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg",length=2.183}}
@@ -84,6 +91,8 @@ L["what are frogs"]={{path="chatsounds/autoadd/randomshit/what are frogs.ogg",le
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/randomshit/what in the name of all thats right are you talking about human.ogg",length=5.700}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.732}}
+L["wibbly wobbly"]={{path="chatsounds/autoadd/randomshit/wibbly wobbly.ogg",length=0.937}}
+L["wibbly wobbly timey wimey stuff"]={{path="chatsounds/autoadd/randomshit/wibbly wobbly timey wimey stuff.ogg",length=3.936}}
 L["woody the woodpecker"]={{path="chatsounds/autoadd/randomshit/woody the woodpecker.ogg",length=3.574}}
 L["you eat babies"]={{path="chatsounds/autoadd/randomshit/you eat babies/babies1.ogg",length=1.422},{path="chatsounds/autoadd/randomshit/you eat babies/babies2.ogg",length=1.388}}
 L["your health will recover graaraaraaadually"]={{path="chatsounds/autoadd/randomshit/your health will recover graaraaraaadually.ogg",length=3.318}}
