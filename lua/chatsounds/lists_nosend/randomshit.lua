@@ -21,6 +21,7 @@ L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.596}}
 L["ee ur"]={{path="chatsounds/autoadd/randomshit/ee ur.ogg",length=1.431}}
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465}}
+L["eugh"]={{path="chatsounds/autoadd/randomshit/eugh.ogg",length=0.542}}
 L["except black"]={{path="chatsounds/autoadd/randomshit/except black.ogg",length=1.718}}
 L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.221}}
 L["femur breaker"]={{path="chatsounds/autoadd/randomshit/femur breaker.ogg",length=28.317}}
