@@ -15,7 +15,6 @@ L["but"]={{path="chatsounds/autoadd/ryokyon/but.ogg",length=0.464}}
 L["careless whisper"]={{path="chatsounds/autoadd/ryokyon/careless whisper.ogg",length=26.859}}
 L["confused"]={{path="chatsounds/autoadd/ryokyon/confused.ogg",length=1.577}}
 L["crabpeople"]={{path="chatsounds/autoadd/ryokyon/crabpeople.ogg",length=2.774}}
-L["creepers"]={{path="chatsounds/autoadd/ryokyon/creepers.ogg",length=1.182}}
 L["crraab"]={{path="chatsounds/autoadd/ryokyon/crraab.ogg",length=1.229}}
 L["dante"]={{path="chatsounds/autoadd/ryokyon/dante.ogg",length=0.455}}
 L["dante nooo"]={{path="chatsounds/autoadd/ryokyon/dante nooo.ogg",length=1.195}}
@@ -36,7 +35,6 @@ L["geronimo"]={{path="chatsounds/autoadd/ryokyon/geronimo.ogg",length=2.956}}
 L["get him pissed"]={{path="chatsounds/autoadd/ryokyon/get him pissed.ogg",length=2.631}}
 L["good"]={{path="chatsounds/autoadd/ryokyon/good.ogg",length=0.875}}
 L["good stuff"]={{path="chatsounds/autoadd/ryokyon/good stuff.ogg",length=0.496}}
-L["group hypnosis"]={{path="chatsounds/autoadd/ryokyon/group hypnosis.ogg",length=1.020}}
 L["gut all dey organ"]={{path="chatsounds/autoadd/ryokyon/gut all dey organ.ogg",length=1.772}}
 L["hahahaha what"]={{path="chatsounds/autoadd/ryokyon/hahahaha what.ogg",length=3.605}}
 L["hate"]={{path="chatsounds/autoadd/ryokyon/hate.ogg",length=0.445}}
@@ -47,7 +45,6 @@ L["i always get a weird feeling when i eat real people"]={{path="chatsounds/auto
 L["i am spiders now"]={{path="chatsounds/autoadd/ryokyon/i am spiders now.ogg",length=2.091}}
 L["i m meen"]={{path="chatsounds/autoadd/ryokyon/i m meen.ogg",length=1.803}}
 L["i m meen never quits"]={{path="chatsounds/autoadd/ryokyon/i m meen never quits.ogg",length=8.394}}
-L["i think we may have a mystery"]={{path="chatsounds/autoadd/ryokyon/i think we may have a mystery.ogg",length=2.865}}
 L["i wear a fez now"]={{path="chatsounds/autoadd/ryokyon/i wear a fez now.ogg",length=3.187}}
 L["ill be back"]={{path="chatsounds/autoadd/ryokyon/ill be back.ogg",length=1.882}}
 L["im better looking"]={{path="chatsounds/autoadd/ryokyon/im better looking.ogg",length=0.957}}
@@ -60,11 +57,8 @@ L["in a hundred years"]={{path="chatsounds/autoadd/ryokyon/in a hundred years.og
 L["inri inri abrakadabra"]={{path="chatsounds/autoadd/ryokyon/inri inri abrakadabra.ogg",length=2.664}}
 L["ive got a little secret"]={{path="chatsounds/autoadd/ryokyon/ive got a little secret.ogg",length=2.597}}
 L["jaeger"]={{path="chatsounds/autoadd/ryokyon/jaeger.ogg",length=1.153}}
-L["jinkies"]={{path="chatsounds/autoadd/ryokyon/jinkies.ogg",length=0.842}}
 L["just like them american president"]={{path="chatsounds/autoadd/ryokyon/just like them american president.ogg",length=2.835}}
 L["leon death"]={{path="chatsounds/autoadd/ryokyon/leon death.ogg",length=1.665}}
-L["lets plot a course"]={{path="chatsounds/autoadd/ryokyon/lets plot a course.ogg",length=2.559}}
-L["look at that"]={{path="chatsounds/autoadd/ryokyon/look at that.ogg",length=0.931}}
 L["lose the map a ninja hideout"]={{path="chatsounds/autoadd/ryokyon/lose the map a ninja hideout.ogg",length=2.577}}
 L["lost"]={{path="chatsounds/autoadd/ryokyon/lost.ogg",length=0.756}}
 L["me name george"]={{path="chatsounds/autoadd/ryokyon/me name george.ogg",length=2.448}}
@@ -89,8 +83,6 @@ L["robin shut up"]={{path="chatsounds/autoadd/ryokyon/robin shut up.ogg",length=
 L["rules of nature"]={{path="chatsounds/autoadd/ryokyon/rules of nature.ogg",length=38.726}}
 L["secret around here"]={{path="chatsounds/autoadd/ryokyon/secret around here.ogg",length=3.352}}
 L["seriously"]={{path="chatsounds/autoadd/ryokyon/seriously.ogg",length=0.708}}
-L["soab"]={{path="chatsounds/autoadd/ryokyon/soab.ogg",length=1.307}}
-L["somebody sure is a weeaboo"]={{path="chatsounds/autoadd/ryokyon/somebody sure is a weeaboo.ogg",length=2.224}}
 L["spoilers"]={{path="chatsounds/autoadd/ryokyon/spoilers.ogg",length=1.175}}
 L["stetsons are cool"]={{path="chatsounds/autoadd/ryokyon/stetsons are cool.ogg",length=3.553}}
 L["talk like people walk like crab"]={{path="chatsounds/autoadd/ryokyon/talk like people walk like crab.ogg",length=6.978}}

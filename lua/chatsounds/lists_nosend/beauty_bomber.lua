@@ -3,7 +3,6 @@ L["aaaaaaaaeeeeeeiiiiiaaaa"]={{path="chatsounds/autoadd/beauty_bomber/aaaaaaaaee
 L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh somebody help me.ogg",length=2.849}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
-L["am i glad hes frozen in there"]={{path="chatsounds/autoadd/beauty_bomber/am i glad hes frozen in there.ogg",length=9.000}}
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
 L["bayonettacontinueno"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinueno.ogg",length=5.240}}
