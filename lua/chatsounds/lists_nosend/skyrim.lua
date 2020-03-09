@@ -3,6 +3,7 @@ L["aah it burns"]={{path="chatsounds/autoadd/skyrim/aah it burns.ogg",length=1.8
 L["absolutely"]={{path="chatsounds/autoadd/skyrim/absolutely.ogg",length=1.347}}
 L["alright now everyone back away let the law handle this"]={{path="chatsounds/autoadd/skyrim/alright now everyone back away let the law handle this.ogg",length=3.483}}
 L["and come back with a barrel full of gold huh"]={{path="chatsounds/autoadd/skyrim/and come back with a barrel full of gold huh.ogg",length=3.158}}
+L["and that thief over there"]={{path="chatsounds/autoadd/skyrim/and that thief over there.ogg",length=1.909}}
 L["anybody there"]={{path="chatsounds/autoadd/skyrim/anybody there.ogg",length=1.115}}
 L["are you sure about that"]={{path="chatsounds/autoadd/skyrim/are you sure about that.ogg",length=0.929}}
 L["back with good news i trust"]={{path="chatsounds/autoadd/skyrim/back with good news i trust.ogg",length=1.904}}
@@ -65,6 +66,7 @@ L["hello friend make yourself at home"]={{path="chatsounds/autoadd/skyrim/hello 
 L["hello whos there"]={{path="chatsounds/autoadd/skyrim/hello whos there.ogg",length=1.765}}
 L["here"]={{path="chatsounds/autoadd/skyrim/here.ogg",length=1.254}}
 L["hey watch it"]={{path="chatsounds/autoadd/skyrim/hey watch it.ogg",length=1.207}}
+L["hey you youre finally awake"]={{path="chatsounds/autoadd/skyrim/hey you youre finally awake.ogg",length=3.083}}
 L["hiding will not save you"]={{path="chatsounds/autoadd/skyrim/hiding will not save you.ogg",length=3.251}}
 L["hold it there keep your distance"]={{path="chatsounds/autoadd/skyrim/hold it there keep your distance.ogg",length=2.461}}
 L["how can i argue with that"]={{path="chatsounds/autoadd/skyrim/how can i argue with that.ogg",length=1.486}}
@@ -152,6 +154,7 @@ L["safe travels"]={{path="chatsounds/autoadd/skyrim/safe travels.ogg",length=1.2
 L["sey"]={{path="chatsounds/autoadd/skyrim/sey.ogg",length=0.459}}
 L["shouldve figured the little lunatic would completely snap"]={{path="chatsounds/autoadd/skyrim/shouldve figured the little lunatic would completely snap.ogg",length=3.808}}
 L["shut up"]={{path="chatsounds/autoadd/skyrim/shut up.ogg",length=0.975}}
+L["shut up back there"]={{path="chatsounds/autoadd/skyrim/shut up back there.ogg",length=1.231}}
 L["sister"]={{path="chatsounds/autoadd/skyrim/sister.ogg",length=1.022}}
 L["so be it"]={{path="chatsounds/autoadd/skyrim/so be it.ogg",length=1.068}}
 L["so you can cast a few spells am i supposed to be impressed"]={{path="chatsounds/autoadd/skyrim/so you can cast a few spells am i supposed to be impressed.ogg",length=4.180}}
@@ -177,6 +180,7 @@ L["this what you want"]={{path="chatsounds/autoadd/skyrim/this what you want.ogg
 L["trouble"]={{path="chatsounds/autoadd/skyrim/trouble.ogg",length=0.650}}
 L["until next time"]={{path="chatsounds/autoadd/skyrim/until next time.ogg",length=1.115}}
 L["wait i know you"]={{path="chatsounds/autoadd/skyrim/wait i know you.ogg",length=1.858}}
+L["walked right into that imperial ambush same as us"]={{path="chatsounds/autoadd/skyrim/walked right into that imperial ambush same as us.ogg",length=3.490}}
 L["waste of time"]={{path="chatsounds/autoadd/skyrim/waste of time.ogg",length=1.440}}
 L["watch what youre doing"]={{path="chatsounds/autoadd/skyrim/watch what youre doing.ogg",length=1.161}}
 L["we better keep moving"]={{path="chatsounds/autoadd/skyrim/we better keep moving.ogg",length=1.254}}
@@ -216,6 +220,7 @@ L["you meat come come"]={{path="chatsounds/autoadd/skyrim/you meat come come.ogg
 L["you picked a bad time to get lost friend"]={{path="chatsounds/autoadd/skyrim/you picked a bad time to get lost friend.ogg",length=2.601}}
 L["you shouldnt leave weapons laying around someone could get hurt if i see you doing it again that someone wil b u"]={{path="chatsounds/autoadd/skyrim/you shouldnt leave weapons laying around someone could get hurt if i see you doing it again that someone wil b u.ogg",length=7.570}}
 L["you think youre finished ive got plenty more where that came from"]={{path="chatsounds/autoadd/skyrim/you think youre finished ive got plenty more where that came from.ogg",length=3.158}}
+L["you were trying to cross the border right"]={{path="chatsounds/autoadd/skyrim/you were trying to cross the border right.ogg",length=2.552}}
 L["you will die in terror knowing your final fate"]={{path="chatsounds/autoadd/skyrim/you will die in terror knowing your final fate.ogg",length=5.108}}
 L["your voice is strong for a mortal"]={{path="chatsounds/autoadd/skyrim/your voice is strong for a mortal.ogg",length=4.272}}
 L["youre an idiot"]={{path="chatsounds/autoadd/skyrim/youre an idiot.ogg",length=1.347}}
