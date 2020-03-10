@@ -18,6 +18,7 @@ L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my c
 L["darthvaderbreath"]={{path="chatsounds/autoadd/randomshit/darthvaderbreath.ogg",length=29.990}}
 L["dejavu"]={{path="chatsounds/autoadd/randomshit/dejavu.ogg",length=264.150}}
 L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374}}
+L["disgustang"]={{path="chatsounds/autoadd/randomshit/disgustang.ogg",length=1.434}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.596}}
 L["ee ur"]={{path="chatsounds/autoadd/randomshit/ee ur.ogg",length=1.431}}
 L["electro loop"]={{path="chatsounds/autoadd/randomshit/electro loop.ogg",length=7.465}}
@@ -27,11 +28,14 @@ L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.221}}
 L["femur breaker"]={{path="chatsounds/autoadd/randomshit/femur breaker.ogg",length=28.317}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.621}}
 L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.568}}
+L["from where youre kneeling must seem like an eighteen carat run of bad luck"]={{path="chatsounds/autoadd/randomshit/from where youre kneeling must seem like an eighteen carat run of bad luck.ogg",length=3.887}}
 L["gasgasgas"]={{path="chatsounds/autoadd/randomshit/gasgasgas.ogg",length=271.804}}
 L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power rangers.ogg",length=65.980}}
 L["goodbye"]={{path="chatsounds/autoadd/randomshit/goodbye.ogg",length=8.761}}
+L["hackerman"]={{path="chatsounds/autoadd/randomshit/hackerman.ogg",length=0.746}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.840}}
 L["hello internet welcome to gay"]={{path="chatsounds/autoadd/randomshit/hello internet welcome to gay.ogg",length=3.585}}
+L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/randomshit/hes the most powerful hacker of all time.ogg",length=2.367}}
 L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739}}
@@ -79,6 +83,7 @@ L["tactical nuke"]={{path="chatsounds/autoadd/randomshit/tactical nuke.ogg",leng
 L["tango down"]={{path="chatsounds/autoadd/randomshit/tango down.ogg",length=2.090}}
 L["tetrisloop"]={{path="chatsounds/autoadd/randomshit/tetrisloop.ogg",length=25.592}}
 L["thats the sound of a shotgun"]={{path="chatsounds/autoadd/randomshit/thats the sound of a shotgun.ogg",length=2.891}}
+L["the game was rigged from the start"]={{path="chatsounds/autoadd/randomshit/the game was rigged from the start.ogg",length=1.867}}
 L["the true mlgness comes after the 69th cigarette"]={{path="chatsounds/autoadd/randomshit/the true mlgness comes after the 69th cigarette.ogg",length=3.471}}
 L["theres no black in a rainbow"]={{path="chatsounds/autoadd/randomshit/theres no black in a rainbow.ogg",length=2.111}}
 L["they have twelve penises"]={{path="chatsounds/autoadd/randomshit/they have twelve penises.ogg",length=2.789}}
@@ -86,12 +91,15 @@ L["this is ban roulette i love it"]={{path="chatsounds/autoadd/randomshit/this i
 L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.923}}
 L["timey wimey"]={{path="chatsounds/autoadd/randomshit/timey wimey.ogg",length=1.147}}
 L["traif"]={{path="chatsounds/autoadd/randomshit/traif.ogg",length=0.501}}
+L["truth is the game was rigged from the start"]={{path="chatsounds/autoadd/randomshit/truth is the game was rigged from the start.ogg",length=3.963}}
 L["until you are at full health"]={{path="chatsounds/autoadd/randomshit/until you are at full health.ogg",length=1.576}}
 L["very evil indeed"]={{path="chatsounds/autoadd/randomshit/very evil indeed.ogg",length=2.183}}
+L["well it was fuckin one of yas"]={{path="chatsounds/autoadd/randomshit/well it was fuckin one of yas.ogg",length=1.976}}
 L["what are frogs"]={{path="chatsounds/autoadd/randomshit/what are frogs.ogg",length=0.752}}
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/randomshit/what in the name of all thats right are you talking about human.ogg",length=5.700}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.732}}
+L["why does somebody not know how to flush the toilet after theyve had a shit"]={{path="chatsounds/autoadd/randomshit/why does somebody not know how to flush the toilet after theyve had a shit.ogg",length=3.887}}
 L["wibbly wobbly"]={{path="chatsounds/autoadd/randomshit/wibbly wobbly.ogg",length=0.937}}
 L["wibbly wobbly timey wimey stuff"]={{path="chatsounds/autoadd/randomshit/wibbly wobbly timey wimey stuff.ogg",length=3.936}}
 L["woody the woodpecker"]={{path="chatsounds/autoadd/randomshit/woody the woodpecker.ogg",length=3.574}}

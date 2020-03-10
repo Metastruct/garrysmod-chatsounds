@@ -12,9 +12,7 @@ L["llleeetttmmmeeegggeeetttaaalllooooookkkaaatttyyyooouuummmaaannn"]={{path="cha
 L["phoneringing"]={{path="chatsounds/autoadd/suchipi/phoneringing.ogg",length=2.371}}
 L["ravebreak"]={{path="chatsounds/autoadd/suchipi/ravebreak.ogg",length=27.794}}
 L["suchipi"]={{path="chatsounds/autoadd/suchipi/suchipi.ogg",length=0.737}}
-L["swooce"]={{path="chatsounds/autoadd/suchipi/swooce/swooce1.ogg",length=0.662},{path="chatsounds/autoadd/suchipi/swooce/swooce2.ogg",length=0.675}}
 L["this is a game not a commercial"]={{path="chatsounds/autoadd/suchipi/this is a game not a commercial.ogg",length=2.106}}
-L["watch me swooce right in"]={{path="chatsounds/autoadd/suchipi/watch me swooce right in.ogg",length=1.899}}
 L["who disturbs my slumber"]={{path="chatsounds/autoadd/suchipi/who disturbs my slumber.ogg",length=3.833}}
 L["you have a collect call from"]={{path="chatsounds/autoadd/suchipi/you have a collect call from.ogg",length=1.818}}
 c.EndList()

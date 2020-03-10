@@ -40,6 +40,7 @@ L["lesson two"]={{path="chatsounds/autoadd/deusex_malkavian/lesson two.ogg",leng
 L["loud gottam"]={{path="chatsounds/autoadd/deusex_malkavian/loud gottam.ogg",length=1.044}}
 L["madre de dios"]={{path="chatsounds/autoadd/deusex_malkavian/madre de dios.ogg",length=1.512}}
 L["manderley raps"]={{path="chatsounds/autoadd/deusex_malkavian/manderley raps.ogg",length=48.849}}
+L["maybe you should join majestic twelve"]={{path="chatsounds/autoadd/deusex_malkavian/maybe you should join majestic twelve.ogg",length=1.579}}
 L["maybe you should think about going back to school"]={{path="chatsounds/autoadd/deusex_malkavian/maybe you should think about going back to school.ogg",length=2.052}}
 L["maybe you should try getting a job"]={{path="chatsounds/autoadd/deusex_malkavian/maybe you should try getting a job.ogg",length=1.728}}
 L["me too"]={{path="chatsounds/autoadd/deusex_malkavian/me too.ogg",length=0.828}}
