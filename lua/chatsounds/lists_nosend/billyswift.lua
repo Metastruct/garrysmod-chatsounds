@@ -24,6 +24,7 @@ L["my life is completely fucked"]={{path="chatsounds/autoadd/billyswift/my life 
 L["ne"]={{path="chatsounds/autoadd/billyswift/ne.ogg",length=0.674}}
 L["now you can smoke crack"]={{path="chatsounds/autoadd/billyswift/now you can smoke crack.ogg",length=1.230}}
 L["ooooo"]={{path="chatsounds/autoadd/billyswift/ooooo.ogg",length=0.370}}
+L["philswiftgibberish"]={{path="chatsounds/autoadd/billyswift/philswiftgibberish/1.ogg",length=1.453},{path="chatsounds/autoadd/billyswift/philswiftgibberish/2.ogg",length=1.401}}
 L["philswiftglitch"]={{path="chatsounds/autoadd/billyswift/philswiftglitch.ogg",length=0.331}}
 L["philswiftpain"]={{path="chatsounds/autoadd/billyswift/philswiftpain.ogg",length=1.342}}
 L["thats a tight butt but flex tape cuts super wide"]={{path="chatsounds/autoadd/billyswift/thats a tight butt but flex tape cuts super wide.ogg",length=3.206}}
