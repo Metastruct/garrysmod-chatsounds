@@ -54,14 +54,17 @@ L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places t
 L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.170}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.881},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.770}}
 L["kurwa"]={{path="chatsounds/autoadd/randomshit/kurwa.ogg",length=1.247}}
+L["lemme put it in a language you can understand"]={{path="chatsounds/autoadd/randomshit/lemme put it in a language you can understand.ogg",length=2.421}}
 L["like thats ever gonna happen"]={{path="chatsounds/autoadd/randomshit/like thats ever gonna happen.ogg",length=1.996}}
 L["lone digger loop"]={{path="chatsounds/autoadd/randomshit/lone digger loop.ogg",length=46.452}}
 L["make it stop"]={{path="chatsounds/autoadd/randomshit/make it stop.ogg",length=2.596}}
 L["marioup"]={{path="chatsounds/autoadd/randomshit/marioup.ogg",length=1.776}}
 L["meemkit"]={{path="chatsounds/autoadd/randomshit/meemkit/meemkit1.ogg",length=0.617},{path="chatsounds/autoadd/randomshit/meemkit/meemkit2.ogg",length=0.744},{path="chatsounds/autoadd/randomshit/meemkit/meemkit3.ogg",length=0.723}}
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/randomshit/mom youre an idiot kappa.ogg",length=2.234}}
+L["mortis"]={{path="chatsounds/autoadd/randomshit/mortis.ogg",length=0.995}}
 L["musicbox"]={{path="chatsounds/autoadd/randomshit/musicbox.ogg",length=23.800}}
 L["my final message"]={{path="chatsounds/autoadd/randomshit/my final message.ogg",length=2.549}}
+L["my leg"]={{path="chatsounds/autoadd/randomshit/my leg.ogg",length=0.796}}
 L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=300.199}}
 L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.046}}
@@ -72,13 +75,17 @@ L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/randomshit/pizzaaaaaaaaa
 L["pornhub"]={{path="chatsounds/autoadd/randomshit/pornhub.ogg",length=3.056}}
 L["quieres"]={{path="chatsounds/autoadd/randomshit/quieres.ogg",length=1.751}}
 L["radiation to radiation"]={{path="chatsounds/autoadd/randomshit/radiation to radiation.ogg",length=8.487}}
+L["rev up those fryers because im sure hungry for one"]={{path="chatsounds/autoadd/randomshit/rev up those fryers because im sure hungry for one.ogg",length=3.085}}
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.165}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.145}}
 L["so im cumming day and night"]={{path="chatsounds/autoadd/randomshit/so im cumming day and night.ogg",length=1.678}}
 L["some maniacs been murdering us"]={{path="chatsounds/autoadd/randomshit/some maniacs been murdering us.ogg",length=4.086}}
+L["soup"]={{path="chatsounds/autoadd/randomshit/soup.ogg",length=0.393}}
+L["spaghetti"]={{path="chatsounds/autoadd/randomshit/spaghetti.ogg",length=1.054}}
 L["spherical"]={{path="chatsounds/autoadd/randomshit/spherical.ogg",length=1.184}}
 L["srors"]={{path="chatsounds/autoadd/randomshit/srors.ogg",length=0.808}}
+L["super mario in real life"]={{path="chatsounds/autoadd/randomshit/super mario in real life.ogg",length=1.847}}
 L["tactical nuke"]={{path="chatsounds/autoadd/randomshit/tactical nuke.ogg",length=2.426}}
 L["tango down"]={{path="chatsounds/autoadd/randomshit/tango down.ogg",length=2.090}}
 L["tetrisloop"]={{path="chatsounds/autoadd/randomshit/tetrisloop.ogg",length=25.592}}
