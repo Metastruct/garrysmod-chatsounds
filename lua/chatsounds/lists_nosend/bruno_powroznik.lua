@@ -4,6 +4,7 @@ L["banana"]={{path="chatsounds/autoadd/bruno_powroznik/banana.ogg",length=1.304}
 L["broomstick handle"]={{path="chatsounds/autoadd/bruno_powroznik/broomstick handle.ogg",length=1.739}}
 L["bumhole explorer"]={{path="chatsounds/autoadd/bruno_powroznik/bumhole explorer.ogg",length=2.243}}
 L["chocolate starfish invader"]={{path="chatsounds/autoadd/bruno_powroznik/chocolate starfish invader.ogg",length=3.275}}
+L["chutney ferret"]={{path="chatsounds/autoadd/bruno_powroznik/chutney ferret.ogg",length=1.800}}
 L["cigar"]={{path="chatsounds/autoadd/bruno_powroznik/cigar.ogg",length=1.208}}
 L["coins"]={{path="chatsounds/autoadd/bruno_powroznik/coins.ogg",length=1.594}}
 L["dildos"]={{path="chatsounds/autoadd/bruno_powroznik/dildos.ogg",length=1.546}}
