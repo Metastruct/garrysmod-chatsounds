@@ -8,6 +8,8 @@ L["barbra streisand loop"]={{path="chatsounds/autoadd/randomshit/barbra streisan
 L["bazinga"]={{path="chatsounds/autoadd/randomshit/bazinga/bazinga1.ogg",length=0.899},{path="chatsounds/autoadd/randomshit/bazinga/bazinga2.ogg",length=0.788},{path="chatsounds/autoadd/randomshit/bazinga/bazinga3.ogg",length=1.088},{path="chatsounds/autoadd/randomshit/bazinga/bazinga4.ogg",length=1.041},{path="chatsounds/autoadd/randomshit/bazinga/bazinga5.ogg",length=0.900},{path="chatsounds/autoadd/randomshit/bazinga/bazinga6.ogg",length=0.609},{path="chatsounds/autoadd/randomshit/bazinga/bazinga7.ogg",length=0.876},{path="chatsounds/autoadd/randomshit/bazinga/bazinga8.ogg",length=0.832},{path="chatsounds/autoadd/randomshit/bazinga/bazinga9.ogg",length=0.924}}
 L["berries"]={{path="chatsounds/autoadd/randomshit/berries.ogg",length=1.151}}
 L["berries and mushrooms you fool"]={{path="chatsounds/autoadd/randomshit/berries and mushrooms you fool.ogg",length=3.318}}
+L["big big chungus"]={{path="chatsounds/autoadd/randomshit/big big chungus.ogg",length=1.691}}
+L["big chungus"]={{path="chatsounds/autoadd/randomshit/big chungus.ogg",length=0.971}}
 L["boo you suck"]={{path="chatsounds/autoadd/randomshit/boo you suck.ogg",length=2.509}}
 L["brb tax collector is escaping from the basement"]={{path="chatsounds/autoadd/randomshit/brb tax collector is escaping from the basement.ogg",length=3.100}}
 L["but before the show starts"]={{path="chatsounds/autoadd/randomshit/but before the show starts.ogg",length=14.476}}
@@ -28,6 +30,7 @@ L["fatality"]={{path="chatsounds/autoadd/randomshit/fatality.ogg",length=2.221}}
 L["femur breaker"]={{path="chatsounds/autoadd/randomshit/femur breaker.ogg",length=28.317}}
 L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.621}}
 L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.568}}
+L["fortnite"]={{path="chatsounds/autoadd/randomshit/fortnite.ogg",length=0.902}}
 L["from where youre kneeling must seem like an eighteen carat run of bad luck"]={{path="chatsounds/autoadd/randomshit/from where youre kneeling must seem like an eighteen carat run of bad luck.ogg",length=3.887}}
 L["gasgasgas"]={{path="chatsounds/autoadd/randomshit/gasgasgas.ogg",length=271.804}}
 L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power rangers.ogg",length=65.980}}
@@ -40,9 +43,11 @@ L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739}}
 L["hotguitarriff"]={{path="chatsounds/autoadd/randomshit/hotguitarriff.ogg",length=14.416}}
+L["how do i get speed"]={{path="chatsounds/autoadd/randomshit/how do i get speed.ogg",length=1.561}}
 L["how many cigorettes have you got lad"]={{path="chatsounds/autoadd/randomshit/how many cigorettes have you got lad.ogg",length=3.878}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.725}}
 L["i have several questions"]={{path="chatsounds/autoadd/randomshit/i have several questions.ogg",length=2.140}}
+L["i lose my speed"]={{path="chatsounds/autoadd/randomshit/i lose my speed.ogg",length=1.858}}
 L["i mean its terrific right"]={{path="chatsounds/autoadd/randomshit/i mean its terrific right.ogg",length=1.594}}
 L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoadd/randomshit/i see you dont have a lifeguard here at your beach.ogg",length=2.670}}
 L["im not at the beach this is a bathtub"]={{path="chatsounds/autoadd/randomshit/im not at the beach this is a bathtub.ogg",length=2.837}}
@@ -50,6 +55,7 @@ L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/randomshit/is that
 L["it takes all colors to make a rainbow"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow.ogg",length=2.985}}
 L["it takes all colors to make a rainbow except black"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow except black.ogg",length=5.951}}
 L["its as satisfying to me as cumming is"]={{path="chatsounds/autoadd/randomshit/its as satisfying to me as cumming is.ogg",length=3.203}}
+L["its rewind time"]={{path="chatsounds/autoadd/randomshit/its rewind time.ogg",length=1.516}}
 L["ive got places to be"]={{path="chatsounds/autoadd/randomshit/ive got places to be.ogg",length=2.973}}
 L["jontronbestgame"]={{path="chatsounds/autoadd/randomshit/jontronbestgame.ogg",length=3.170}}
 L["kappa"]={{path="chatsounds/autoadd/randomshit/kappa/kappa1.ogg",length=0.881},{path="chatsounds/autoadd/randomshit/kappa/kappa2.ogg",length=0.770}}
@@ -65,6 +71,7 @@ L["mortis"]={{path="chatsounds/autoadd/randomshit/mortis.ogg",length=0.995}}
 L["musicbox"]={{path="chatsounds/autoadd/randomshit/musicbox.ogg",length=23.800}}
 L["my final message"]={{path="chatsounds/autoadd/randomshit/my final message.ogg",length=2.549}}
 L["my leg"]={{path="chatsounds/autoadd/randomshit/my leg.ogg",length=0.796}}
+L["my speed is gone"]={{path="chatsounds/autoadd/randomshit/my speed is gone.ogg",length=1.544}}
 L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=300.199}}
 L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.046}}
@@ -106,10 +113,12 @@ L["what are frogs"]={{path="chatsounds/autoadd/randomshit/what are frogs.ogg",le
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/randomshit/what in the name of all thats right are you talking about human.ogg",length=5.700}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/randomshit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585}}
 L["where the hood at"]={{path="chatsounds/autoadd/randomshit/where the hood at.ogg",length=12.732}}
+L["who are you people"]={{path="chatsounds/autoadd/randomshit/who are you people.ogg",length=1.793}}
 L["why does somebody not know how to flush the toilet after theyve had a shit"]={{path="chatsounds/autoadd/randomshit/why does somebody not know how to flush the toilet after theyve had a shit.ogg",length=3.887}}
 L["wibbly wobbly"]={{path="chatsounds/autoadd/randomshit/wibbly wobbly.ogg",length=0.937}}
 L["wibbly wobbly timey wimey stuff"]={{path="chatsounds/autoadd/randomshit/wibbly wobbly timey wimey stuff.ogg",length=3.936}}
 L["woody the woodpecker"]={{path="chatsounds/autoadd/randomshit/woody the woodpecker.ogg",length=3.574}}
+L["yahh"]={{path="chatsounds/autoadd/randomshit/yahh.ogg",length=1.173}}
 L["you eat babies"]={{path="chatsounds/autoadd/randomshit/you eat babies/babies1.ogg",length=1.422},{path="chatsounds/autoadd/randomshit/you eat babies/babies2.ogg",length=1.388}}
 L["your health will recover graaraaraaadually"]={{path="chatsounds/autoadd/randomshit/your health will recover graaraaraaadually.ogg",length=3.318}}
 c.EndList()
