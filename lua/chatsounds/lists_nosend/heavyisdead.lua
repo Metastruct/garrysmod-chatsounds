@@ -4,8 +4,8 @@ L["attention the heavy is dead"]={{path="chatsounds/autoadd/heavyisdead/attentio
 L["aw come on"]={{path="chatsounds/autoadd/heavyisdead/aw come on.ogg",length=1.118}}
 L["aw damnit heavy fuck off"]={{path="chatsounds/autoadd/heavyisdead/aw damnit heavy fuck off.ogg",length=2.166}}
 L["but whyy"]={{path="chatsounds/autoadd/heavyisdead/but whyy.ogg",length=1.968}}
+L["correct"]={{path="chatsounds/autoadd/heavyisdead/correct.ogg",length=2.333}}
 L["cus youre fat boy"]={{path="chatsounds/autoadd/heavyisdead/cus youre fat boy.ogg",length=1.221}}
-L["damnit heavy fuck off"]={{path="chatsounds/autoadd/heavyisdead/damnit heavy fuck off.ogg",length=2.172}}
 L["demoburp"]={{path="chatsounds/autoadd/heavyisdead/demoburp/1.ogg",length=0.611},{path="chatsounds/autoadd/heavyisdead/demoburp/2.ogg",length=0.623}}
 L["doc what happened"]={{path="chatsounds/autoadd/heavyisdead/doc what happened.ogg",length=1.112}}
 L["engineer sucks"]={{path="chatsounds/autoadd/heavyisdead/engineer sucks.ogg",length=1.950}}
@@ -14,6 +14,7 @@ L["how did you know"]={{path="chatsounds/autoadd/heavyisdead/how did you know.og
 L["i am alive"]={{path="chatsounds/autoadd/heavyisdead/i am alive.ogg",length=1.382}}
 L["i am dead"]={{path="chatsounds/autoadd/heavyisdead/i am dead.ogg",length=1.021}}
 L["i didnt that was a joke too"]={{path="chatsounds/autoadd/heavyisdead/i didnt that was a joke too.ogg",length=3.026}}
+L["i dont think its anything to worry about"]={{path="chatsounds/autoadd/heavyisdead/i dont think its anything to worry about.ogg",length=1.911}}
 L["i dunno"]={{path="chatsounds/autoadd/heavyisdead/i dunno.ogg",length=0.662}}
 L["i think heavy is dead"]={{path="chatsounds/autoadd/heavyisdead/i think heavy is dead.ogg",length=1.738}}
 L["i will capture him"]={{path="chatsounds/autoadd/heavyisdead/i will capture him.ogg",length=1.367}}
@@ -27,12 +28,16 @@ L["it is good day to be not dead"]={{path="chatsounds/autoadd/heavyisdead/it is 
 L["it was me"]={{path="chatsounds/autoadd/heavyisdead/it was me.ogg",length=0.887}}
 L["it was y him"]={{path="chatsounds/autoadd/heavyisdead/it was y him.ogg",length=2.181}}
 L["look at this the freakin heavys dead"]={{path="chatsounds/autoadd/heavyisdead/look at this the freakin heavys dead.ogg",length=1.804}}
+L["move now"]={{path="chatsounds/autoadd/heavyisdead/move now.ogg",length=1.203}}
 L["my professional opinion"]={{path="chatsounds/autoadd/heavyisdead/my professional opinion.ogg",length=1.537}}
+L["no sorry mate"]={{path="chatsounds/autoadd/heavyisdead/no sorry mate.ogg",length=1.543}}
 L["no u"]={{path="chatsounds/autoadd/heavyisdead/no u.ogg",length=0.775}}
+L["off to hang myself"]={{path="chatsounds/autoadd/heavyisdead/off to hang myself.ogg",length=1.094}}
 L["off to hang myself watch and learn"]={{path="chatsounds/autoadd/heavyisdead/off to hang myself watch and learn.ogg",length=3.490}}
 L["okay lets get back to the point"]={{path="chatsounds/autoadd/heavyisdead/okay lets get back to the point.ogg",length=2.467}}
 L["pow you are dead"]={{path="chatsounds/autoadd/heavyisdead/pow you are dead.ogg",length=1.659}}
 L["seriously who killed heavy"]={{path="chatsounds/autoadd/heavyisdead/seriously who killed heavy.ogg",length=3.196}}
+L["shhh you are dead"]={{path="chatsounds/autoadd/heavyisdead/shhh you are dead.ogg",length=1.337}}
 L["so did you see the murderer"]={{path="chatsounds/autoadd/heavyisdead/so did you see the murderer.ogg",length=2.345}}
 L["that thing is why the heavy is dead"]={{path="chatsounds/autoadd/heavyisdead/that thing is why the heavy is dead.ogg",length=2.351}}
 L["thats right it was me"]={{path="chatsounds/autoadd/heavyisdead/thats right it was me.ogg",length=1.683}}
@@ -51,4 +56,5 @@ L["yes i did it like this"]={{path="chatsounds/autoadd/heavyisdead/yes i did it 
 L["yes this is stupid"]={{path="chatsounds/autoadd/heavyisdead/yes this is stupid.ogg",length=1.388}}
 L["yes yes scout go home"]={{path="chatsounds/autoadd/heavyisdead/yes yes scout go home.ogg",length=1.944}}
 L["you are so mean"]={{path="chatsounds/autoadd/heavyisdead/you are so mean.ogg",length=2.345}}
+L["you monster"]={{path="chatsounds/autoadd/heavyisdead/you monster.ogg",length=1.173}}
 c.EndList()
