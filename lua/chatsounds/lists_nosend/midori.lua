@@ -6,6 +6,7 @@ L["arabic nokia ringtone"]={{path="chatsounds/autoadd/midori/arabic nokia ringto
 L["auuugh"]={{path="chatsounds/autoadd/midori/auuugh.ogg",length=0.605}}
 L["aw dude 4 strength 4 stam leather belt"]={{path="chatsounds/autoadd/midori/aw dude 4 strength 4 stam leather belt.ogg",length=2.904}}
 L["baby gasp"]={{path="chatsounds/autoadd/midori/baby gasp.ogg",length=0.488}}
+L["balloon fellatio"]={{path="chatsounds/autoadd/midori/balloon fellatio.ogg",length=2.508}}
 L["banana screech"]={{path="chatsounds/autoadd/midori/banana screech.ogg",length=1.695}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/midori/buzz lightyear commercial.ogg",length=51.769}}
 L["buzzer"]={{path="chatsounds/autoadd/midori/buzzer.ogg",length=1.250}}
@@ -61,6 +62,7 @@ L["pop up"]={{path="chatsounds/autoadd/midori/pop up/1.ogg",length=0.500},{path=
 L["pumping balloon"]={{path="chatsounds/autoadd/midori/pumping balloon.ogg",length=5.979}}
 L["rip"]={{path="chatsounds/autoadd/midori/rip.ogg",length=0.500}}
 L["scooby noises"]={{path="chatsounds/autoadd/midori/scooby noises.ogg",length=13.485}}
+L["shut the hell up bitch"]={{path="chatsounds/autoadd/midori/shut the hell up bitch.ogg",length=2.336}}
 L["slide"]={{path="chatsounds/autoadd/midori/slide.ogg",length=2.000}}
 L["that was terrible"]={{path="chatsounds/autoadd/midori/that was terrible.ogg",length=2.029}}
 L["that wasnt bad"]={{path="chatsounds/autoadd/midori/that wasnt bad.ogg",length=2.871}}
