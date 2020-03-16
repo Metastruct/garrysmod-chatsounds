@@ -71,6 +71,7 @@ L["hleb v kota ne prevratilsya"]={{path="chatsounds/autoadd/wicopee/hleb v kota 
 L["hochesh est"]={{path="chatsounds/autoadd/wicopee/hochesh est.ogg",length=0.914}}
 L["how to tie a noose and watch the lion king"]={{path="chatsounds/autoadd/wicopee/how to tie a noose and watch the lion king.ogg",length=2.574}}
 L["huhuhuhu"]={{path="chatsounds/autoadd/wicopee/huhuhuhu.ogg",length=0.756}}
+L["i am going to die"]={{path="chatsounds/autoadd/wicopee/i am going to die.ogg",length=1.470}}
 L["i tak mi na fabrike po proizvodstvu suhogo kashlya"]={{path="chatsounds/autoadd/wicopee/i tak mi na fabrike po proizvodstvu suhogo kashlya.ogg",length=3.713}}
 L["i tut zhe nachili buhat"]={{path="chatsounds/autoadd/wicopee/i tut zhe nachili buhat.ogg",length=1.253}}
 L["i tuuutut ya"]={{path="chatsounds/autoadd/wicopee/i tuuutut ya.ogg",length=0.760}}
