@@ -20,7 +20,6 @@ L["no no no"]={{path="chatsounds/autoadd/weeb/no no no.ogg",length=3.608}}
 L["not right now you dont"]={{path="chatsounds/autoadd/weeb/not right now you dont.ogg",length=2.231}}
 L["ok im done"]={{path="chatsounds/autoadd/weeb/ok im done.ogg",length=1.529}}
 L["otome pasta ni kandou"]={{path="chatsounds/autoadd/weeb/otome pasta ni kandou/1.ogg",length=13.700}}
-L["pomf pomf"]={{path="chatsounds/autoadd/weeb/pomf pomf.ogg",length=129.198}}
 L["ponponpon"]={{path="chatsounds/autoadd/weeb/ponponpon.ogg",length=3.766}}
 L["repeat after me"]={{path="chatsounds/autoadd/weeb/repeat after me.ogg",length=1.533}}
 L["sexy boy"]={{path="chatsounds/autoadd/weeb/sexy boy.ogg",length=1.075}}
