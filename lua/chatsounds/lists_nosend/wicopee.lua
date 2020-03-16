@@ -64,6 +64,7 @@ L["gopnicsound"]={{path="chatsounds/autoadd/wicopee/gopnicsound.ogg",length=0.44
 L["govno vopros"]={{path="chatsounds/autoadd/wicopee/govno vopros.ogg",length=0.725}}
 L["hello will"]={{path="chatsounds/autoadd/wicopee/hello will.ogg",length=1.344}}
 L["hey stfu what are you listening to"]={{path="chatsounds/autoadd/wicopee/hey stfu what are you listening to.ogg",length=5.614}}
+L["hh birdsounds"]={{path="chatsounds/autoadd/wicopee/hh birdsounds.ogg",length=1.188}}
 L["hihihihihi"]={{path="chatsounds/autoadd/wicopee/hihihihihi.ogg",length=0.963}}
 L["hit"]={{path="chatsounds/autoadd/wicopee/hit/1.ogg",length=1.320},{path="chatsounds/autoadd/wicopee/hit/2.ogg",length=2.772}}
 L["hleb v kota ne prevratilsya"]={{path="chatsounds/autoadd/wicopee/hleb v kota ne prevratilsya.ogg",length=1.922}}
@@ -75,6 +76,7 @@ L["i tut zhe nachili buhat"]={{path="chatsounds/autoadd/wicopee/i tut zhe nachil
 L["i tuuutut ya"]={{path="chatsounds/autoadd/wicopee/i tuuutut ya.ogg",length=0.760}}
 L["if its not fun why bother"]={{path="chatsounds/autoadd/wicopee/if its not fun why bother.ogg",length=2.009}}
 L["igor"]={{path="chatsounds/autoadd/wicopee/igor.ogg",length=0.637}}
+L["im a bird"]={{path="chatsounds/autoadd/wicopee/im a bird.ogg",length=0.989}}
 L["john cena"]={{path="chatsounds/autoadd/wicopee/john cena.ogg",length=2.595}}
 L["kakoi russki ne lubit saas"]={{path="chatsounds/autoadd/wicopee/kakoi russki ne lubit saas.ogg",length=2.140}}
 L["kakoi zhe"]={{path="chatsounds/autoadd/wicopee/kakoi zhe.ogg",length=0.601}}
