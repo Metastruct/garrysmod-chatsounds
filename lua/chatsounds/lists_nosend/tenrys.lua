@@ -76,7 +76,6 @@ L["good lord what is happening in there"]={{path="chatsounds/autoadd/tenrys/good
 L["goodbye jojo"]={{path="chatsounds/autoadd/tenrys/goodbye jojo.ogg",length=2.216}}
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.485}}
 L["hah typical politician not too bright"]={{path="chatsounds/autoadd/tenrys/hah typical politician not too bright.ogg",length=3.406}}
-L["hamburger"]={{path="chatsounds/autoadd/tenrys/hamburger.ogg",length=1.183}}
 L["heh"]={{path="chatsounds/autoadd/tenrys/heh.ogg",length=0.308}}
 L["heh even dead that guy is a pain in my ass"]={{path="chatsounds/autoadd/tenrys/heh even dead that guy is a pain in my ass.ogg",length=3.587}}
 L["hell to you"]={{path="chatsounds/autoadd/tenrys/hell to you.ogg",length=1.770}}

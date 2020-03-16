@@ -1,0 +1,15 @@
+c.StartList("hamburger")
+L["bur"]={{path="chatsounds/autoadd/hamburger/bur.ogg",length=0.264}}
+L["burburbur"]={{path="chatsounds/autoadd/hamburger/burburbur.ogg",length=0.814}}
+L["burgerham"]={{path="chatsounds/autoadd/hamburger/burgerham.ogg",length=0.845}}
+L["ger"]={{path="chatsounds/autoadd/hamburger/ger.ogg",length=0.623}}
+L["gerburger"]={{path="chatsounds/autoadd/hamburger/gerburger.ogg",length=0.752}}
+L["gergerger"]={{path="chatsounds/autoadd/hamburger/gergerger.ogg",length=0.826}}
+L["ham"]={{path="chatsounds/autoadd/hamburger/ham.ogg",length=0.406}}
+L["hambur"]={{path="chatsounds/autoadd/hamburger/hambur.ogg",length=0.705}}
+L["hamburger"]={{path="chatsounds/autoadd/hamburger/hamburger.ogg",length=1.305}}
+L["hamger"]={{path="chatsounds/autoadd/hamburger/hamger.ogg",length=0.693}}
+L["hamhamham"]={{path="chatsounds/autoadd/hamburger/hamhamham.ogg",length=0.869}}
+L["ur"]={{path="chatsounds/autoadd/hamburger/ur.ogg",length=0.288}}
+L["uuuuuuuu"]={{path="chatsounds/autoadd/hamburger/uuuuuuuu.ogg",length=4.434}}
+c.EndList()
