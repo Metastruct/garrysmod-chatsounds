@@ -1,5 +1,5 @@
 c.StartList("carl_johnson")
-L["aw shit here we go again"]={{path="chatsounds/autoadd/carl_johnson/aw shit here we go again.ogg",length=2.780}}
+L["ah shit here we go again"]={{path="chatsounds/autoadd/carl_johnson/ah shit here we go again.ogg",length=2.780}}
 L["damn"]={{path="chatsounds/autoadd/carl_johnson/damn.ogg",length=0.472}}
 L["i dont need this shit"]={{path="chatsounds/autoadd/carl_johnson/i dont need this shit.ogg",length=0.962}}
 L["i hate gravity"]={{path="chatsounds/autoadd/carl_johnson/i hate gravity.ogg",length=0.988}}
