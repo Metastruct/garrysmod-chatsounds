@@ -154,7 +154,6 @@ L["skoraya airoaya aya"]={{path="chatsounds/autoadd/wicopee/skoraya airoaya aya.
 L["sniffsniff"]={{path="chatsounds/autoadd/wicopee/sniffsniff.ogg",length=0.384}}
 L["snimi shtani uznaesh"]={{path="chatsounds/autoadd/wicopee/snimi shtani uznaesh.ogg",length=1.263}}
 L["spi spi"]={{path="chatsounds/autoadd/wicopee/spi spi.ogg",length=0.555}}
-L["suka blyat prekrati stuchat"]={{path="chatsounds/autoadd/wicopee/suka blyat prekrati stuchat.ogg",length=1.771}}
 L["tableknockintense"]={{path="chatsounds/autoadd/wicopee/tableknockintense.ogg",length=0.381}}
 L["tablesmack da hvatit"]={{path="chatsounds/autoadd/wicopee/tablesmack da hvatit.ogg",length=2.741}}
 L["tebe blini zdelat"]={{path="chatsounds/autoadd/wicopee/tebe blini zdelat.ogg",length=0.846}}
