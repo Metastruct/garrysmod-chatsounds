@@ -43,7 +43,6 @@ L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/randoms
 L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739}}
-L["hl1 gib"]={{path="chatsounds/autoadd/randomshit/hl1 gib.ogg",length=1.665}}
 L["hotguitarriff"]={{path="chatsounds/autoadd/randomshit/hotguitarriff.ogg",length=14.416}}
 L["how do i get speed"]={{path="chatsounds/autoadd/randomshit/how do i get speed.ogg",length=1.561}}
 L["how many cigorettes have you got lad"]={{path="chatsounds/autoadd/randomshit/how many cigorettes have you got lad.ogg",length=3.878}}

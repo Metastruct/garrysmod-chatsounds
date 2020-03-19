@@ -34,7 +34,6 @@ L["goal"]={{path="chatsounds/autoadd/cso/goal.ogg",length=5.466}}
 L["godlike"]={{path="chatsounds/autoadd/cso/godlike.ogg",length=1.860}}
 L["headshot"]={{path="chatsounds/autoadd/cso/headshot.ogg",length=1.635}}
 L["heartbbeat"]={{path="chatsounds/autoadd/cso/heartbbeat/heartbeat1.ogg",length=1.149},{path="chatsounds/autoadd/cso/heartbbeat/heartbeat2.ogg",length=0.800},{path="chatsounds/autoadd/cso/heartbbeat/heartbeat3.ogg",length=0.672}}
-L["hl1 footstep"]={{path="chatsounds/autoadd/cso/hl1 footstep/pl_step1.ogg",length=0.266},{path="chatsounds/autoadd/cso/hl1 footstep/pl_step2.ogg",length=0.220},{path="chatsounds/autoadd/cso/hl1 footstep/pl_step3.ogg",length=0.201},{path="chatsounds/autoadd/cso/hl1 footstep/pl_step4.ogg",length=0.256}}
 L["hold this position"]={{path="chatsounds/autoadd/cso/hold this position.ogg",length=1.492}}
 L["hostage down"]={{path="chatsounds/autoadd/cso/hostage down.ogg",length=1.259}}
 L["hostage has escaped"]={{path="chatsounds/autoadd/cso/hostage has escaped.ogg",length=1.530}}
