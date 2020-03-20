@@ -12,6 +12,7 @@ L["cringe cringe cringe cringe"]={{path="chatsounds/autoadd/duhhhhcringe/cringe 
 L["cringe cringe cringey cringe based cringe based reddit cringe"]={{path="chatsounds/autoadd/duhhhhcringe/cringe cringe cringey cringe based cringe based reddit cringe.ogg",length=4.155}}
 L["duhhhh"]={{path="chatsounds/autoadd/duhhhhcringe/duhhhh/1.ogg",length=0.964},{path="chatsounds/autoadd/duhhhhcringe/duhhhh/2.ogg",length=0.807}}
 L["duhhhh bringe"]={{path="chatsounds/autoadd/duhhhhcringe/duhhhh bringe.ogg",length=1.808}}
+L["duhhhh cringe"]={{path="chatsounds/autoadd/duhhhhcringe/duhhhh cringe.ogg",length=2.059}}
 L["fuck"]={{path="chatsounds/autoadd/duhhhhcringe/fuck.ogg",length=0.427}}
 L["hoaaaah"]={{path="chatsounds/autoadd/duhhhhcringe/hoaaaah.ogg",length=1.474}}
 L["i feel like im in a fucking asylum full of dementia ridden old people"]={{path="chatsounds/autoadd/duhhhhcringe/i feel like im in a fucking asylum full of dementia ridden old people.ogg",length=4.364}}

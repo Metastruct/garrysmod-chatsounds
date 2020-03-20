@@ -34,6 +34,7 @@ L["mmmmh"]={{path="chatsounds/autoadd/gachimuchi/mmmmh.ogg",length=0.799}}
 L["oh ho ho ganging up"]={{path="chatsounds/autoadd/gachimuchi/oh ho ho ganging up.ogg",length=1.571}}
 L["oh my shoulder"]={{path="chatsounds/autoadd/gachimuchi/oh my shoulder.ogg",length=1.013}}
 L["oh oh aaah ah"]={{path="chatsounds/autoadd/gachimuchi/oh oh aaah ah.ogg",length=2.935}}
+L["oh shit im sorry"]={{path="chatsounds/autoadd/gachimuchi/oh shit im sorry.ogg",length=1.287}}
 L["on the house"]={{path="chatsounds/autoadd/gachimuchi/on the house.ogg",length=0.639}}
 L["one more round"]={{path="chatsounds/autoadd/gachimuchi/one more round.ogg",length=7.034}}
 L["our daddy told us"]={{path="chatsounds/autoadd/gachimuchi/our daddy told us.ogg",length=2.323}}
@@ -49,7 +50,6 @@ L["she gave me quite a show"]={{path="chatsounds/autoadd/gachimuchi/she gave me 
 L["six hot loads"]={{path="chatsounds/autoadd/gachimuchi/six hot loads.ogg",length=5.869}}
 L["smartass"]={{path="chatsounds/autoadd/gachimuchi/smartass.ogg",length=1.224}}
 L["so how you feeling"]={{path="chatsounds/autoadd/gachimuchi/so how you feeling.ogg",length=2.109}}
-L["sorry"]={{path="chatsounds/autoadd/gachimuchi/sorry.ogg",length=1.287}}
 L["sorry for what"]={{path="chatsounds/autoadd/gachimuchi/sorry for what.ogg",length=0.858}}
 L["spank"]={{path="chatsounds/autoadd/gachimuchi/spank.ogg",length=0.978}}
 L["spit yeaaah"]={{path="chatsounds/autoadd/gachimuchi/spit yeaaah.ogg",length=2.413}}

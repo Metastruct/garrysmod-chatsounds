@@ -85,7 +85,6 @@ L["hey g would you make me a sandwich"]={{path="chatsounds/autoadd/feshpince/hey
 L["hh buuuuu"]={{path="chatsounds/autoadd/feshpince/hh buuuuu.ogg",length=0.813}}
 L["hhaahh"]={{path="chatsounds/autoadd/feshpince/hhaahh.ogg",length=1.360}}
 L["hhhh robotic"]={{path="chatsounds/autoadd/feshpince/hhhh robotic.ogg",length=0.566}}
-L["hno"]={{path="chatsounds/autoadd/feshpince/hno.ogg",length=1.055}}
 L["hoh noh"]={{path="chatsounds/autoadd/feshpince/hoh noh.ogg",length=1.527}}
 L["huledilehuledile"]={{path="chatsounds/autoadd/feshpince/huledilehuledile.ogg",length=1.625}}
 L["huuuurt"]={{path="chatsounds/autoadd/feshpince/huuuurt.ogg",length=0.511}}
@@ -96,7 +95,6 @@ L["i dont care"]={{path="chatsounds/autoadd/feshpince/i dont care.ogg",length=0.
 L["i figured it out will"]={{path="chatsounds/autoadd/feshpince/i figured it out will.ogg",length=1.010}}
 L["i figured it out will im gonna get dad what he always wanted"]={{path="chatsounds/autoadd/feshpince/i figured it out will im gonna get dad what he always wanted.ogg",length=2.656}}
 L["i gotta have a leg in one hand"]={{path="chatsounds/autoadd/feshpince/i gotta have a leg in one hand.ogg",length=1.870}}
-L["i hope that they pay me more than they pay you more than they pay master william"]={{path="chatsounds/autoadd/feshpince/i hope that they pay me more than they pay you more than they pay master william.ogg",length=4.095}}
 L["i hope they pay me more than they pay you more than they pay master william"]={{path="chatsounds/autoadd/feshpince/i hope they pay me more than they pay you more than they pay master william.ogg",length=4.056}}
 L["i knew this was gonna happen"]={{path="chatsounds/autoadd/feshpince/i knew this was gonna happen.ogg",length=1.517}}
 L["i made such a fool of myself"]={{path="chatsounds/autoadd/feshpince/i made such a fool of myself.ogg",length=1.806}}
