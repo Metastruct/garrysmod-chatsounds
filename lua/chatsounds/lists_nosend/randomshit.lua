@@ -52,6 +52,7 @@ L["i have several questions"]={{path="chatsounds/autoadd/randomshit/i have sever
 L["i lose my speed"]={{path="chatsounds/autoadd/randomshit/i lose my speed.ogg",length=1.858}}
 L["i mean its terrific right"]={{path="chatsounds/autoadd/randomshit/i mean its terrific right.ogg",length=1.594}}
 L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoadd/randomshit/i see you dont have a lifeguard here at your beach.ogg",length=2.670}}
+L["ilovehorses"]={{path="chatsounds/autoadd/randomshit/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/randomshit/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/randomshit/ilovehorses/3.ogg",length=7.386}}
 L["im in danger"]={{path="chatsounds/autoadd/randomshit/im in danger.ogg",length=1.365}}
 L["im learnding"]={{path="chatsounds/autoadd/randomshit/im learnding.ogg",length=1.642}}
 L["im not at the beach this is a bathtub"]={{path="chatsounds/autoadd/randomshit/im not at the beach this is a bathtub.ogg",length=2.837}}
