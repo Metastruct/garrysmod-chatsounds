@@ -45,6 +45,8 @@ L["flslayer"]={{path="chatsounds/autoadd/capsadmin/flslayer.ogg",length=1.714}}
 L["fmbass"]={{path="chatsounds/autoadd/capsadmin/fmbass.ogg",length=0.240}}
 L["funniest mod"]={{path="chatsounds/autoadd/capsadmin/funniest mod.ogg",length=1.401}}
 L["fuurz"]={{path="chatsounds/autoadd/capsadmin/fuurz.ogg",length=4.948}}
+L["gay"]={{path="chatsounds/autoadd/capsadmin/gay.ogg",length=0.307}}
+L["gay porno"]={{path="chatsounds/autoadd/capsadmin/gay porno.ogg",length=1.014}}
 L["ghettoreporter"]={{path="chatsounds/autoadd/capsadmin/ghettoreporter.ogg",length=22.389}}
 L["go jackson"]={{path="chatsounds/autoadd/capsadmin/go jackson.ogg",length=8.223}}
 L["goatexcited"]={{path="chatsounds/autoadd/capsadmin/goatexcited.ogg",length=13.921}}
@@ -73,6 +75,7 @@ L["iiac"]={{path="chatsounds/autoadd/capsadmin/iiac.ogg",length=24.551}}
 L["illuminati"]={{path="chatsounds/autoadd/capsadmin/illuminati.ogg",length=9.410}}
 L["im be making video now for 5000 time"]={{path="chatsounds/autoadd/capsadmin/im be making video now for 5000 time.ogg",length=5.351}}
 L["im looking at"]={{path="chatsounds/autoadd/capsadmin/im looking at.ogg",length=0.700}}
+L["im looking at gay porno"]={{path="chatsounds/autoadd/capsadmin/im looking at gay porno.ogg",length=1.776}}
 L["it burns"]={{path="chatsounds/autoadd/capsadmin/it burns.ogg",length=1.712}}
 L["it is crazy"]={{path="chatsounds/autoadd/capsadmin/it is crazy.ogg",length=0.960}}
 L["its the"]={{path="chatsounds/autoadd/capsadmin/its the.ogg",length=0.290}}
@@ -107,6 +110,7 @@ L["pianostab2"]={{path="chatsounds/autoadd/capsadmin/pianostab2.ogg",length=1.78
 L["piss"]={{path="chatsounds/autoadd/capsadmin/piss.ogg",length=7.764}}
 L["pit"]={{path="chatsounds/autoadd/capsadmin/pit.ogg",length=0.354}}
 L["pokemontheme"]={{path="chatsounds/autoadd/capsadmin/pokemontheme.ogg",length=196.016}}
+L["porno"]={{path="chatsounds/autoadd/capsadmin/porno.ogg",length=0.711}}
 L["ps2startup"]={{path="chatsounds/autoadd/capsadmin/ps2startup.ogg",length=10.447}}
 L["rofl"]={{path="chatsounds/autoadd/capsadmin/rofl.ogg",length=11.703}}
 L["roflmao"]={{path="chatsounds/autoadd/capsadmin/roflmao.ogg",length=5.863}}

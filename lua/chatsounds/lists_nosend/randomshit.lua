@@ -5,6 +5,7 @@ L["aid"]={{path="chatsounds/autoadd/randomshit/aid.ogg",length=0.352}}
 L["and its spherical"]={{path="chatsounds/autoadd/randomshit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/randomshit/are you kidding me.ogg",length=2.662}}
 L["barbra streisand loop"]={{path="chatsounds/autoadd/randomshit/barbra streisand loop.ogg",length=15.238}}
+L["battle against a weird opponent"]={{path="chatsounds/autoadd/randomshit/battle against a weird opponent.ogg",length=83.034}}
 L["bazinga"]={{path="chatsounds/autoadd/randomshit/bazinga/bazinga1.ogg",length=0.899},{path="chatsounds/autoadd/randomshit/bazinga/bazinga2.ogg",length=0.788},{path="chatsounds/autoadd/randomshit/bazinga/bazinga3.ogg",length=1.088},{path="chatsounds/autoadd/randomshit/bazinga/bazinga4.ogg",length=1.041},{path="chatsounds/autoadd/randomshit/bazinga/bazinga5.ogg",length=0.900},{path="chatsounds/autoadd/randomshit/bazinga/bazinga6.ogg",length=0.609},{path="chatsounds/autoadd/randomshit/bazinga/bazinga7.ogg",length=0.876},{path="chatsounds/autoadd/randomshit/bazinga/bazinga8.ogg",length=0.832},{path="chatsounds/autoadd/randomshit/bazinga/bazinga9.ogg",length=0.924}}
 L["begone satan"]={{path="chatsounds/autoadd/randomshit/begone satan.ogg",length=1.204}}
 L["berries"]={{path="chatsounds/autoadd/randomshit/berries.ogg",length=1.151}}
@@ -19,6 +20,7 @@ L["change da world"]={{path="chatsounds/autoadd/randomshit/change da world.ogg",
 L["cloakerscream"]={{path="chatsounds/autoadd/randomshit/cloakerscream.ogg",length=5.065}}
 L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my crawl.ogg",length=20.637}}
 L["darthvaderbreath"]={{path="chatsounds/autoadd/randomshit/darthvaderbreath.ogg",length=29.990}}
+L["default dance"]={{path="chatsounds/autoadd/randomshit/default dance.ogg",length=6.872}}
 L["dejavu"]={{path="chatsounds/autoadd/randomshit/dejavu.ogg",length=264.150}}
 L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374}}
 L["disgustang"]={{path="chatsounds/autoadd/randomshit/disgustang.ogg",length=1.434}}
@@ -55,6 +57,7 @@ L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoa
 L["ilovehorses"]={{path="chatsounds/autoadd/randomshit/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/randomshit/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/randomshit/ilovehorses/3.ogg",length=7.386}}
 L["im in danger"]={{path="chatsounds/autoadd/randomshit/im in danger.ogg",length=1.365}}
 L["im learnding"]={{path="chatsounds/autoadd/randomshit/im learnding.ogg",length=1.642}}
+L["im looking at gay porno"]={{path="chatsounds/autoadd/randomshit/im looking at gay porno.ogg",length=1.776}}
 L["im not at the beach this is a bathtub"]={{path="chatsounds/autoadd/randomshit/im not at the beach this is a bathtub.ogg",length=2.837}}
 L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/randomshit/is that a man riding a shrimp.ogg",length=2.119}}
 L["it takes all colors to make a rainbow"]={{path="chatsounds/autoadd/randomshit/it takes all colors to make a rainbow.ogg",length=2.985}}
@@ -79,6 +82,8 @@ L["my leg"]={{path="chatsounds/autoadd/randomshit/my leg.ogg",length=0.796}}
 L["my speed is gone"]={{path="chatsounds/autoadd/randomshit/my speed is gone.ogg",length=1.544}}
 L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=300.199}}
+L["no i dont wanna be bread"]={{path="chatsounds/autoadd/randomshit/no i dont wanna be bread.ogg",length=2.868}}
+L["no nooooooooo"]={{path="chatsounds/autoadd/randomshit/no nooooooooo.ogg",length=2.273}}
 L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.046}}
 L["objection"]={{path="chatsounds/autoadd/randomshit/objection.ogg",length=1.322}}
 L["penis music"]={{path="chatsounds/autoadd/randomshit/penis music.ogg",length=22.176}}
@@ -92,6 +97,7 @@ L["say the line bart"]={{path="chatsounds/autoadd/randomshit/say the line bart.o
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.165}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.145}}
+L["snooping as usual i see"]={{path="chatsounds/autoadd/randomshit/snooping as usual i see.ogg",length=3.067}}
 L["so im cumming day and night"]={{path="chatsounds/autoadd/randomshit/so im cumming day and night.ogg",length=1.678}}
 L["some maniacs been murdering us"]={{path="chatsounds/autoadd/randomshit/some maniacs been murdering us.ogg",length=4.086}}
 L["soup"]={{path="chatsounds/autoadd/randomshit/soup.ogg",length=0.393}}
@@ -108,6 +114,7 @@ L["the game was rigged from the start"]={{path="chatsounds/autoadd/randomshit/th
 L["the true mlgness comes after the 69th cigarette"]={{path="chatsounds/autoadd/randomshit/the true mlgness comes after the 69th cigarette.ogg",length=3.471}}
 L["theres no black in a rainbow"]={{path="chatsounds/autoadd/randomshit/theres no black in a rainbow.ogg",length=2.111}}
 L["they have twelve penises"]={{path="chatsounds/autoadd/randomshit/they have twelve penises.ogg",length=2.789}}
+L["they played us like a damn fiddle"]={{path="chatsounds/autoadd/randomshit/they played us like a damn fiddle.ogg",length=2.468}}
 L["this is ban roulette i love it"]={{path="chatsounds/autoadd/randomshit/this is ban roulette i love it.ogg",length=1.986}}
 L["tiduslaugh"]={{path="chatsounds/autoadd/randomshit/tiduslaugh.ogg",length=7.923}}
 L["timey wimey"]={{path="chatsounds/autoadd/randomshit/timey wimey.ogg",length=1.147}}

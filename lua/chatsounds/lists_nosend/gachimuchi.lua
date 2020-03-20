@@ -14,6 +14,8 @@ L["do you like watching me"]={{path="chatsounds/autoadd/gachimuchi/do you like w
 L["do you like what you see"]={{path="chatsounds/autoadd/gachimuchi/do you like what you see.ogg",length=1.617}}
 L["dungeon master"]={{path="chatsounds/autoadd/gachimuchi/dungeon master.ogg",length=1.036}}
 L["fisting is 300"]={{path="chatsounds/autoadd/gachimuchi/fisting is 300.ogg",length=2.901}}
+L["fuck you"]={{path="chatsounds/autoadd/gachimuchi/fuck you.ogg",length=1.206}}
+L["fuck you leatherman"]={{path="chatsounds/autoadd/gachimuchi/fuck you leatherman.ogg",length=1.934}}
 L["full master"]={{path="chatsounds/autoadd/gachimuchi/full master.ogg",length=3.868}}
 L["go another round"]={{path="chatsounds/autoadd/gachimuchi/go another round.ogg",length=4.067}}
 L["i love fire"]={{path="chatsounds/autoadd/gachimuchi/i love fire.ogg",length=0.980}}
@@ -45,6 +47,7 @@ L["rip the skin"]={{path="chatsounds/autoadd/gachimuchi/rip the skin.ogg",length
 L["settle it"]={{path="chatsounds/autoadd/gachimuchi/settle it.ogg",length=2.632}}
 L["she gave me quite a show"]={{path="chatsounds/autoadd/gachimuchi/she gave me quite a show.ogg",length=1.805}}
 L["six hot loads"]={{path="chatsounds/autoadd/gachimuchi/six hot loads.ogg",length=5.869}}
+L["smartass"]={{path="chatsounds/autoadd/gachimuchi/smartass.ogg",length=1.224}}
 L["so how you feeling"]={{path="chatsounds/autoadd/gachimuchi/so how you feeling.ogg",length=2.109}}
 L["sorry"]={{path="chatsounds/autoadd/gachimuchi/sorry.ogg",length=1.287}}
 L["sorry for what"]={{path="chatsounds/autoadd/gachimuchi/sorry for what.ogg",length=0.858}}
