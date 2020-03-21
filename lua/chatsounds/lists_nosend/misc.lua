@@ -81,7 +81,6 @@ L["pickle surprise"]={{path="chatsounds/autoadd/misc/pickle surprise.ogg",length
 L["pingas"]={{path="chatsounds/autoadd/misc/pingas.ogg",length=0.563}}
 L["potcfdk"]={{path="chatsounds/autoadd/misc/potcfdk.ogg",length=1.539}}
 L["ppiinnggaass"]={{path="chatsounds/autoadd/misc/ppiinnggaass.ogg",length=5.016}}
-L["ps1startup"]={{path="chatsounds/autoadd/misc/ps1startup.ogg",length=14.233}}
 L["pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/pulled a sneaky on ya.ogg",length=0.867}}
 L["pythong"]={{path="chatsounds/autoadd/misc/pythong.ogg",length=0.614}}
 L["qdance"]={{path="chatsounds/autoadd/misc/qdance.ogg",length=2.010}}

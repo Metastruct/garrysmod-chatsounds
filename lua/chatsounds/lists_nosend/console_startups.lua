@@ -1,0 +1,10 @@
+c.StartList("console_startups")
+L["gamecubestartup"]={{path="chatsounds/autoadd/console_startups/gamecubestartup/1.ogg",length=4.818},{path="chatsounds/autoadd/console_startups/gamecubestartup/2.ogg",length=5.076},{path="chatsounds/autoadd/console_startups/gamecubestartup/3.ogg",length=5.591}}
+L["ps1startup"]={{path="chatsounds/autoadd/console_startups/ps1startup.ogg",length=14.233}}
+L["ps2gomenu"]={{path="chatsounds/autoadd/console_startups/ps2gomenu.ogg",length=12.074}}
+L["ps2startup"]={{path="chatsounds/autoadd/console_startups/ps2startup.ogg",length=10.447}}
+L["ps3startup"]={{path="chatsounds/autoadd/console_startups/ps3startup/1.ogg",length=8.049},{path="chatsounds/autoadd/console_startups/ps3startup/2.ogg",length=8.562}}
+L["xbox360startup"]={{path="chatsounds/autoadd/console_startups/xbox360startup/1.ogg",length=6.565},{path="chatsounds/autoadd/console_startups/xbox360startup/2.ogg",length=7.412}}
+L["xboxonestartup"]={{path="chatsounds/autoadd/console_startups/xboxonestartup.ogg",length=2.068}}
+L["xboxstartup"]={{path="chatsounds/autoadd/console_startups/xboxstartup.ogg",length=7.262}}
+c.EndList()

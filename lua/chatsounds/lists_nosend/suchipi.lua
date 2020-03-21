@@ -5,7 +5,6 @@ L["cocainum"]={{path="chatsounds/autoadd/suchipi/cocainum.ogg",length=0.826}}
 L["did you rike it"]={{path="chatsounds/autoadd/suchipi/did you rike it.ogg",length=0.682}}
 L["dingdingding yooo ding ding ding"]={{path="chatsounds/autoadd/suchipi/dingdingding yooo ding ding ding.ogg",length=9.948}}
 L["ea games"]={{path="chatsounds/autoadd/suchipi/ea games.ogg",length=0.964}}
-L["gamecubestartup"]={{path="chatsounds/autoadd/suchipi/gamecubestartup/1.ogg",length=4.818},{path="chatsounds/autoadd/suchipi/gamecubestartup/2.ogg",length=5.076},{path="chatsounds/autoadd/suchipi/gamecubestartup/3.ogg",length=5.591}}
 L["hello you have a collect call from"]={{path="chatsounds/autoadd/suchipi/hello you have a collect call from.ogg",length=2.865}}
 L["i wanna take you for a ride"]={{path="chatsounds/autoadd/suchipi/i wanna take you for a ride.ogg",length=15.909}}
 L["llleeetttmmmeeegggeeetttaaalllooooookkkaaatttyyyooouuummmaaannn"]={{path="chatsounds/autoadd/suchipi/llleeetttmmmeeegggeeetttaaalllooooookkkaaatttyyyooouuummmaaannn.ogg",length=4.411}}

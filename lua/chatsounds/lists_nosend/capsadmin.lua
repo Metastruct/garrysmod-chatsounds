@@ -111,7 +111,6 @@ L["piss"]={{path="chatsounds/autoadd/capsadmin/piss.ogg",length=7.764}}
 L["pit"]={{path="chatsounds/autoadd/capsadmin/pit.ogg",length=0.354}}
 L["pokemontheme"]={{path="chatsounds/autoadd/capsadmin/pokemontheme.ogg",length=196.016}}
 L["porno"]={{path="chatsounds/autoadd/capsadmin/porno.ogg",length=0.711}}
-L["ps2startup"]={{path="chatsounds/autoadd/capsadmin/ps2startup.ogg",length=10.447}}
 L["rofl"]={{path="chatsounds/autoadd/capsadmin/rofl.ogg",length=11.703}}
 L["roflmao"]={{path="chatsounds/autoadd/capsadmin/roflmao.ogg",length=5.863}}
 L["roman2"]={{path="chatsounds/autoadd/capsadmin/roman2.ogg",length=26.563}}
@@ -149,7 +148,6 @@ L["wendybday"]={{path="chatsounds/autoadd/capsadmin/wendybday.ogg",length=43.928
 L["what is going on"]={{path="chatsounds/autoadd/capsadmin/what is going on.ogg",length=0.986}}
 L["windows 95 is the game platform"]={{path="chatsounds/autoadd/capsadmin/windows 95 is the game platform.ogg",length=3.936}}
 L["wo"]={{path="chatsounds/autoadd/capsadmin/wo.ogg",length=0.281}}
-L["xbox1startup"]={{path="chatsounds/autoadd/capsadmin/xbox1startup.ogg",length=7.262}}
 L["yall dont know the worlds about to end"]={{path="chatsounds/autoadd/capsadmin/yall dont know the worlds about to end.ogg",length=12.483}}
 L["yea"]={{path="chatsounds/autoadd/capsadmin/yea.ogg",length=0.404}}
 L["yeawoo"]={{path="chatsounds/autoadd/capsadmin/yeawoo.ogg",length=2.123}}
