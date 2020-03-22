@@ -37,6 +37,7 @@ L["im a bomb"]={{path="chatsounds/autoadd/deusex_malkavian/im a bomb.ogg",length
 L["im going to f your mother right now whats the best way"]={{path="chatsounds/autoadd/deusex_malkavian/im going to f your mother right now whats the best way.ogg",length=3.024}}
 L["im not in the mood to kill my own son"]={{path="chatsounds/autoadd/deusex_malkavian/im not in the mood to kill my own son.ogg",length=2.160}}
 L["lesson two"]={{path="chatsounds/autoadd/deusex_malkavian/lesson two.ogg",length=0.862}}
+L["lets try some word association"]={{path="chatsounds/autoadd/deusex_malkavian/lets try some word association.ogg",length=2.124}}
 L["loud gottam"]={{path="chatsounds/autoadd/deusex_malkavian/loud gottam.ogg",length=1.044}}
 L["madre de dios"]={{path="chatsounds/autoadd/deusex_malkavian/madre de dios.ogg",length=1.512}}
 L["manderley raps"]={{path="chatsounds/autoadd/deusex_malkavian/manderley raps.ogg",length=48.849}}
@@ -59,7 +60,6 @@ L["they had me inject the soldiers with death"]={{path="chatsounds/autoadd/deuse
 L["this would be our only dish until the criminals and students start running the european union again"]={{path="chatsounds/autoadd/deusex_malkavian/this would be our only dish until the criminals and students start running the european union again.ogg",length=5.292}}
 L["too bad you do not have booby traps like i do"]={{path="chatsounds/autoadd/deusex_malkavian/too bad you do not have booby traps like i do.ogg",length=3.239}}
 L["traps are gay"]={{path="chatsounds/autoadd/deusex_malkavian/traps are gay.ogg",length=1.097}}
-L["try some word associations"]={{path="chatsounds/autoadd/deusex_malkavian/try some word associations.ogg",length=2.124}}
 L["use force encourage acts of terror"]={{path="chatsounds/autoadd/deusex_malkavian/use force encourage acts of terror.ogg",length=2.268}}
 L["we are thinking the same thought"]={{path="chatsounds/autoadd/deusex_malkavian/we are thinking the same thought.ogg",length=1.593}}
 L["we can not tell you what we do not know about smuggler"]={{path="chatsounds/autoadd/deusex_malkavian/we can not tell you what we do not know about smuggler.ogg",length=2.700}}
