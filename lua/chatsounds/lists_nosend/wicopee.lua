@@ -12,6 +12,7 @@ L["alia intro distorted"]={{path="chatsounds/autoadd/wicopee/alia intro distorte
 L["all of this behaviour is a symptom of the fact that youre not expressing your anger"]={{path="chatsounds/autoadd/wicopee/all of this behaviour is a symptom of the fact that youre not expressing your anger.ogg",length=5.806}}
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
+L["and whos that"]={{path="chatsounds/autoadd/wicopee/and whos that.ogg",length=1.129}}
 L["and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers"]={{path="chatsounds/autoadd/wicopee/and you are afraid that if you blow up youre gonna blow away all your friends and all your co workers.ogg",length=6.273}}
 L["annie are you ok"]={{path="chatsounds/autoadd/wicopee/annie are you ok.ogg",length=7.718}}
 L["anyanya"]={{path="chatsounds/autoadd/wicopee/anyanya.ogg",length=0.725}}
@@ -110,6 +111,7 @@ L["nya"]={{path="chatsounds/autoadd/wicopee/nya.ogg",length=0.367}}
 L["o"]={{path="chatsounds/autoadd/wicopee/o.ogg",length=0.364}}
 L["o yaico"]={{path="chatsounds/autoadd/wicopee/o yaico.ogg",length=1.368}}
 L["oh"]={{path="chatsounds/autoadd/wicopee/oh.ogg",length=0.475}}
+L["oh its mr mvp"]={{path="chatsounds/autoadd/wicopee/oh its mr mvp.ogg",length=2.296}}
 L["ona medlenno prevrashaetsya v zhenchinu"]={{path="chatsounds/autoadd/wicopee/ona medlenno prevrashaetsya v zhenchinu.ogg",length=2.673}}
 L["oo ps"]={{path="chatsounds/autoadd/wicopee/oo ps.ogg",length=0.472}}
 L["ooo"]={{path="chatsounds/autoadd/wicopee/ooo.ogg",length=0.280}}
@@ -148,6 +150,7 @@ L["serbiastrong8bit"]={{path="chatsounds/autoadd/wicopee/serbiastrong8bit.ogg",l
 L["sharik ti idiot"]={{path="chatsounds/autoadd/wicopee/sharik ti idiot.ogg",length=2.751}}
 L["shout"]={{path="chatsounds/autoadd/wicopee/shout.ogg",length=2.504}}
 L["shto"]={{path="chatsounds/autoadd/wicopee/shto.ogg",length=0.873}}
+L["simp"]={{path="chatsounds/autoadd/wicopee/simp.ogg",length=0.916}}
 L["sir ne stuchite"]={{path="chatsounds/autoadd/wicopee/sir ne stuchite.ogg",length=1.431}}
 L["sis"]={{path="chatsounds/autoadd/wicopee/sis.ogg",length=0.342}}
 L["skoraya airoaya aya"]={{path="chatsounds/autoadd/wicopee/skoraya airoaya aya.ogg",length=2.449}}
