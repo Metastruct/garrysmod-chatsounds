@@ -7,6 +7,7 @@ L["fak u distorted"]={{path="chatsounds/autoadd/mgrr_ytp/fak u distorted.ogg",le
 L["feasting on the insides of your enimeem enemies"]={{path="chatsounds/autoadd/mgrr_ytp/feasting on the insides of your enimeem enemies.ogg",length=4.200}}
 L["fuuf"]={{path="chatsounds/autoadd/mgrr_ytp/fuuf.ogg",length=0.578}}
 L["get saas"]={{path="chatsounds/autoadd/mgrr_ytp/get saas.ogg",length=0.746}}
+L["hhh"]={{path="chatsounds/autoadd/mgrr_ytp/hhh.ogg",length=0.509}}
 L["hm cherry soos i take it youre a fan"]={{path="chatsounds/autoadd/mgrr_ytp/hm cherry soos i take it youre a fan.ogg",length=2.796}}
 L["i was born to eat coc h hhh h"]={{path="chatsounds/autoadd/mgrr_ytp/i was born to eat coc h hhh h.ogg",length=4.000}}
 L["im here for my kan deez"]={{path="chatsounds/autoadd/mgrr_ytp/im here for my kan deez.ogg",length=1.889}}

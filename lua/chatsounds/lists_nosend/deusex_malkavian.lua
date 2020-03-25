@@ -10,6 +10,8 @@ L["bob page"]={{path="chatsounds/autoadd/deusex_malkavian/bob page.ogg",length=1
 L["booby trap"]={{path="chatsounds/autoadd/deusex_malkavian/booby trap/1.ogg",length=0.549},{path="chatsounds/autoadd/deusex_malkavian/booby trap/2.ogg",length=0.627},{path="chatsounds/autoadd/deusex_malkavian/booby trap/3.ogg",length=0.731},{path="chatsounds/autoadd/deusex_malkavian/booby trap/4.ogg",length=0.627},{path="chatsounds/autoadd/deusex_malkavian/booby trap/5.ogg",length=0.940}}
 L["breathing intensifies"]={{path="chatsounds/autoadd/deusex_malkavian/breathing intensifies.ogg",length=6.165}}
 L["breathing intensifies distorted"]={{path="chatsounds/autoadd/deusex_malkavian/breathing intensifies distorted.ogg",length=13.767}}
+L["bum screaming"]={{path="chatsounds/autoadd/deusex_malkavian/bum screaming.ogg",length=11.938}}
+L["cops thats what the son of a bitch uses in operations against black people"]={{path="chatsounds/autoadd/deusex_malkavian/cops thats what the son of a bitch uses in operations against black people.ogg",length=4.262}}
 L["critical pain distorted"]={{path="chatsounds/autoadd/deusex_malkavian/critical pain distorted.ogg",length=1.404}}
 L["disgruntled moan"]={{path="chatsounds/autoadd/deusex_malkavian/disgruntled moan.ogg",length=1.019}}
 L["do you have any idea how to multiply"]={{path="chatsounds/autoadd/deusex_malkavian/do you have any idea how to multiply.ogg",length=2.448}}
@@ -29,6 +31,7 @@ L["i have opened pills"]={{path="chatsounds/autoadd/deusex_malkavian/i have open
 L["i just want to find some food"]={{path="chatsounds/autoadd/deusex_malkavian/i just want to find some food.ogg",length=2.124}}
 L["i just want to steal the police"]={{path="chatsounds/autoadd/deusex_malkavian/i just want to steal the police.ogg",length=2.448}}
 L["i like that"]={{path="chatsounds/autoadd/deusex_malkavian/i like that.ogg",length=1.332}}
+L["i thought you were a gep gun"]={{path="chatsounds/autoadd/deusex_malkavian/i thought you were a gep gun.ogg",length=0.992}}
 L["i want that savage young woman in exactly one hour i mean it"]={{path="chatsounds/autoadd/deusex_malkavian/i want that savage young woman in exactly one hour i mean it.ogg",length=4.788}}
 L["i will equip you with two booby traps"]={{path="chatsounds/autoadd/deusex_malkavian/i will equip you with two booby traps.ogg",length=2.220}}
 L["i would like to see the end of your son"]={{path="chatsounds/autoadd/deusex_malkavian/i would like to see the end of your son.ogg",length=1.836}}
@@ -47,7 +50,9 @@ L["maybe you should try getting a job"]={{path="chatsounds/autoadd/deusex_malkav
 L["me too"]={{path="chatsounds/autoadd/deusex_malkavian/me too.ogg",length=0.828}}
 L["my dad used to say slaughter slaugher slaughter hes dead"]={{path="chatsounds/autoadd/deusex_malkavian/my dad used to say slaughter slaugher slaughter hes dead.ogg",length=5.040}}
 L["my pleasure is augmented"]={{path="chatsounds/autoadd/deusex_malkavian/my pleasure is augmented.ogg",length=1.202}}
+L["no you underestimate human kinds love of censored"]={{path="chatsounds/autoadd/deusex_malkavian/no you underestimate human kinds love of censored.ogg",length=3.348}}
 L["now we will see who is made of booby traps"]={{path="chatsounds/autoadd/deusex_malkavian/now we will see who is made of booby traps.ogg",length=2.560}}
+L["okay where"]={{path="chatsounds/autoadd/deusex_malkavian/okay where.ogg",length=1.044}}
 L["only one thing can happen when you break my rusty metal skull gun"]={{path="chatsounds/autoadd/deusex_malkavian/only one thing can happen when you break my rusty metal skull gun.ogg",length=3.672}}
 L["papa forbids me to talk to strangers"]={{path="chatsounds/autoadd/deusex_malkavian/papa forbids me to talk to strangers.ogg",length=2.304}}
 L["real booby traps tonight"]={{path="chatsounds/autoadd/deusex_malkavian/real booby traps tonight.ogg",length=2.064}}
