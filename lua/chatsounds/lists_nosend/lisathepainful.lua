@@ -16,6 +16,7 @@ L["misslisa"]={{path="chatsounds/autoadd/lisathepainful/misslisa.ogg",length=0.4
 L["semihorn"]={{path="chatsounds/autoadd/lisathepainful/semihorn.ogg",length=3.683}}
 L["stun"]={{path="chatsounds/autoadd/lisathepainful/stun.ogg",length=1.222}}
 L["success"]={{path="chatsounds/autoadd/lisathepainful/success/1.ogg",length=1.954},{path="chatsounds/autoadd/lisathepainful/success/2.ogg",length=4.108}}
+L["summerbreeze"]={{path="chatsounds/autoadd/lisathepainful/summerbreeze.ogg",length=17.545}}
 L["uh hough"]={{path="chatsounds/autoadd/lisathepainful/uh hough.ogg",length=1.105}}
 L["wally"]={{path="chatsounds/autoadd/lisathepainful/wally.ogg",length=3.286}}
 L["what"]={{path="chatsounds/autoadd/lisathepainful/what.ogg",length=1.744}}
