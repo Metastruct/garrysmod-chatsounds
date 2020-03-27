@@ -8,6 +8,7 @@ L["another fifty billion dollars down the drain"]={{path="chatsounds/autoadd/deu
 L["are you crazy"]={{path="chatsounds/autoadd/deusex/are you crazy.ogg",length=1.071}}
 L["are you sure you pressed the right button"]={{path="chatsounds/autoadd/deusex/are you sure you pressed the right button.ogg",length=1.985}}
 L["as long as i dont turn green and grow antennaes"]={{path="chatsounds/autoadd/deusex/as long as i dont turn green and grow antennaes.ogg",length=3.123}}
+L["bravery is not a function of firepower"]={{path="chatsounds/autoadd/deusex/bravery is not a function of firepower.ogg",length=2.090}}
 L["desperate"]={{path="chatsounds/autoadd/deusex/desperate/1.ogg",length=0.541},{path="chatsounds/autoadd/deusex/desperate/2.ogg",length=0.564}}
 L["deus ex theme"]={{path="chatsounds/autoadd/deusex/deus ex theme.ogg",length=16.610}}
 L["do you have a single fact to back that up"]={{path="chatsounds/autoadd/deusex/do you have a single fact to back that up.ogg",length=1.567}}
@@ -25,6 +26,7 @@ L["get out of there"]={{path="chatsounds/autoadd/deusex/get out of there.ogg",le
 L["get the hell out of here denton"]={{path="chatsounds/autoadd/deusex/get the hell out of here denton.ogg",length=1.620}}
 L["gimme the gep gun"]={{path="chatsounds/autoadd/deusex/gimme the gep gun.ogg",length=0.879}}
 L["great place here"]={{path="chatsounds/autoadd/deusex/great place here.ogg",length=0.836}}
+L["guess it will have to be a retirement gift"]={{path="chatsounds/autoadd/deusex/guess it will have to be a retirement gift.ogg",length=2.247}}
 L["has he been infected"]={{path="chatsounds/autoadd/deusex/has he been infected.ogg",length=1.137}}
 L["he didnt really have a choice"]={{path="chatsounds/autoadd/deusex/he didnt really have a choice.ogg",length=1.686}}
 L["he was a good man"]={{path="chatsounds/autoadd/deusex/he was a good man.ogg",length=0.875}}
@@ -47,12 +49,14 @@ L["i spill my drink"]={{path="chatsounds/autoadd/deusex/i spill my drink.ogg",le
 L["i take he was agreeable"]={{path="chatsounds/autoadd/deusex/i take he was agreeable.ogg",length=1.555}}
 L["i take it he was agreeable"]={{path="chatsounds/autoadd/deusex/i take it he was agreeable.ogg",length=1.567}}
 L["i trust you have been able to find a place within the organization"]={{path="chatsounds/autoadd/deusex/i trust you have been able to find a place within the organization.ogg",length=3.279}}
+L["i was never properly trained in its operation"]={{path="chatsounds/autoadd/deusex/i was never properly trained in its operation.ogg",length=2.168}}
 L["i will burn like the brightest star"]={{path="chatsounds/autoadd/deusex/i will burn like the brightest star.ogg",length=3.493}}
 L["i wish there was something more i could say"]={{path="chatsounds/autoadd/deusex/i wish there was something more i could say.ogg",length=1.724}}
 L["if you recall our chat in the break room at unatco you know i have the same augmentation technology as you"]={{path="chatsounds/autoadd/deusex/if you recall our chat in the break room at unatco you know i have the same augmentation technology as you.ogg",length=6.713}}
 L["ignorant gwailo"]={{path="chatsounds/autoadd/deusex/ignorant gwailo.ogg",length=1.228}}
 L["ill do that"]={{path="chatsounds/autoadd/deusex/ill do that.ogg",length=0.627}}
 L["im not gonna stand here and listen to you badmouth the greatest democracy the world has ever known"]={{path="chatsounds/autoadd/deusex/im not gonna stand here and listen to you badmouth the greatest democracy the world has ever known.ogg",length=4.258}}
+L["im not much into books"]={{path="chatsounds/autoadd/deusex/im not much into books.ogg",length=1.306}}
 L["in a body bag"]={{path="chatsounds/autoadd/deusex/in a body bag.ogg",length=1.084}}
 L["its remote controlled"]={{path="chatsounds/autoadd/deusex/its remote controlled.ogg",length=1.083}}
 L["its the maintenance man he knows i like orange"]={{path="chatsounds/autoadd/deusex/its the maintenance man he knows i like orange.ogg",length=2.795}}
@@ -90,6 +94,7 @@ L["son of a bitch"]={{path="chatsounds/autoadd/deusex/son of a bitch.ogg",length
 L["sticks and stones"]={{path="chatsounds/autoadd/deusex/sticks and stones.ogg",length=1.881}}
 L["suure"]={{path="chatsounds/autoadd/deusex/suure.ogg",length=0.746}}
 L["that hurt"]={{path="chatsounds/autoadd/deusex/that hurt.ogg",length=1.280}}
+L["that makes me one ugly son of a bitch"]={{path="chatsounds/autoadd/deusex/that makes me one ugly son of a bitch.ogg",length=1.995}}
 L["that mechanic was an imposter"]={{path="chatsounds/autoadd/deusex/that mechanic was an imposter.ogg",length=1.305}}
 L["thats terror"]={{path="chatsounds/autoadd/deusex/thats terror.ogg",length=0.809}}
 L["the fuel system"]={{path="chatsounds/autoadd/deusex/the fuel system.ogg",length=1.225}}
@@ -109,8 +114,11 @@ L["wait a minute"]={{path="chatsounds/autoadd/deusex/wait a minute.ogg",length=0
 L["we have a security breach"]={{path="chatsounds/autoadd/deusex/we have a security breach.ogg",length=1.372}}
 L["weehee"]={{path="chatsounds/autoadd/deusex/weehee.ogg",length=1.097}}
 L["well i certainly see the family resemblance"]={{path="chatsounds/autoadd/deusex/well i certainly see the family resemblance.ogg",length=2.011}}
+L["well see about that"]={{path="chatsounds/autoadd/deusex/well see about that.ogg",length=1.358}}
+L["what"]={{path="chatsounds/autoadd/deusex/what.ogg",length=0.470}}
 L["what a rotten way to die"]={{path="chatsounds/autoadd/deusex/what a rotten way to die.ogg",length=1.142}}
 L["what a shame"]={{path="chatsounds/autoadd/deusex/what a shame.ogg",length=0.914}}
+L["what am i then bad"]={{path="chatsounds/autoadd/deusex/what am i then bad.ogg",length=1.437}}
 L["what did he work on"]={{path="chatsounds/autoadd/deusex/what did he work on.ogg",length=0.908}}
 L["what isnt"]={{path="chatsounds/autoadd/deusex/what isnt.ogg",length=0.590}}
 L["what the"]={{path="chatsounds/autoadd/deusex/what the.ogg",length=0.653}}
