@@ -22,11 +22,11 @@ L["could you get it please"]={{path="chatsounds/autoadd/arnold/could you get it 
 L["crom"]={{path="chatsounds/autoadd/arnold/crom.ogg",length=1.354}}
 L["cybernetic organism"]={{path="chatsounds/autoadd/arnold/cybernetic organism.ogg",length=3.830}}
 L["destroy yourselves"]={{path="chatsounds/autoadd/arnold/destroy yourselves.ogg",length=2.152}}
-L["doesnt work"]={{path="chatsounds/autoadd/arnold/doesnt work.ogg",length=2.307}}
 L["doesnt work that way"]={{path="chatsounds/autoadd/arnold/doesnt work that way.ogg",length=1.133}}
 L["dont b s me"]={{path="chatsounds/autoadd/arnold/dont b s me.ogg",length=1.650}}
 L["dont be ridiculous"]={{path="chatsounds/autoadd/arnold/dont be ridiculous.ogg",length=1.102}}
 L["dont move youre dead"]={{path="chatsounds/autoadd/arnold/dont move youre dead.ogg",length=1.510}}
+L["dont worry this doesnt work without an audience"]={{path="chatsounds/autoadd/arnold/dont worry this doesnt work without an audience.ogg",length=2.307}}
 L["easy with the hardware"]={{path="chatsounds/autoadd/arnold/easy with the hardware.ogg",length=2.465}}
 L["excellent"]={{path="chatsounds/autoadd/arnold/excellent.ogg",length=0.671}}
 L["five meter spread"]={{path="chatsounds/autoadd/arnold/five meter spread.ogg",length=3.428}}

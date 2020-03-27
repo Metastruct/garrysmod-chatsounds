@@ -24,7 +24,6 @@ L["rebellion rebellion rebellion rebellion rebellion eleber eleber"]={{path="cha
 L["sees"]={{path="chatsounds/autoadd/hallo_2/sees/1.ogg",length=1.004},{path="chatsounds/autoadd/hallo_2/sees/2.ogg",length=0.567}}
 L["sir fishing"]={{path="chatsounds/autoadd/hallo_2/sir fishing.ogg",length=1.885}}
 L["smiley face"]={{path="chatsounds/autoadd/hallo_2/smiley face.ogg",length=1.189}}
-L["soisoisoi"]={{path="chatsounds/autoadd/hallo_2/soisoisoi.ogg",length=1.277}}
 L["soos"]={{path="chatsounds/autoadd/hallo_2/soos/1.ogg",length=0.816},{path="chatsounds/autoadd/hallo_2/soos/2.ogg",length=0.639},{path="chatsounds/autoadd/hallo_2/soos/3.ogg",length=0.364}}
 L["steak"]={{path="chatsounds/autoadd/hallo_2/steak.ogg",length=0.500}}
 L["stfu6"]={{path="chatsounds/autoadd/hallo_2/stfu6.ogg",length=1.427}}

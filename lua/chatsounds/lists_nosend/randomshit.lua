@@ -35,10 +35,12 @@ L["finish him"]={{path="chatsounds/autoadd/randomshit/finish him.ogg",length=1.6
 L["fire deployment"]={{path="chatsounds/autoadd/randomshit/fire deployment.ogg",length=0.568}}
 L["fortnite"]={{path="chatsounds/autoadd/randomshit/fortnite.ogg",length=0.902}}
 L["from where youre kneeling must seem like an eighteen carat run of bad luck"]={{path="chatsounds/autoadd/randomshit/from where youre kneeling must seem like an eighteen carat run of bad luck.ogg",length=3.887}}
+L["future"]={{path="chatsounds/autoadd/randomshit/future/1.ogg",length=2.572},{path="chatsounds/autoadd/randomshit/future/2.ogg",length=2.642},{path="chatsounds/autoadd/randomshit/future/3.ogg",length=2.657}}
 L["gasgasgas"]={{path="chatsounds/autoadd/randomshit/gasgasgas.ogg",length=271.804}}
 L["go go power rangers"]={{path="chatsounds/autoadd/randomshit/go go power rangers.ogg",length=65.980}}
 L["goodbye"]={{path="chatsounds/autoadd/randomshit/goodbye.ogg",length=8.761}}
 L["hackerman"]={{path="chatsounds/autoadd/randomshit/hackerman.ogg",length=0.746}}
+L["hah gay"]={{path="chatsounds/autoadd/randomshit/hah gay.ogg",length=2.791}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/randomshit/hello from the other siiiiiiide.ogg",length=4.840}}
 L["hello internet welcome to gay"]={{path="chatsounds/autoadd/randomshit/hello internet welcome to gay.ogg",length=3.585}}
 L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/randomshit/hes the most powerful hacker of all time.ogg",length=2.367}}
@@ -55,6 +57,7 @@ L["i lose my speed"]={{path="chatsounds/autoadd/randomshit/i lose my speed.ogg",
 L["i mean its terrific right"]={{path="chatsounds/autoadd/randomshit/i mean its terrific right.ogg",length=1.594}}
 L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoadd/randomshit/i see you dont have a lifeguard here at your beach.ogg",length=2.670}}
 L["ilovehorses"]={{path="chatsounds/autoadd/randomshit/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/randomshit/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/randomshit/ilovehorses/3.ogg",length=7.386}}
+L["im a virgin"]={{path="chatsounds/autoadd/randomshit/im a virgin.ogg",length=1.146}}
 L["im in danger"]={{path="chatsounds/autoadd/randomshit/im in danger.ogg",length=1.365}}
 L["im learnding"]={{path="chatsounds/autoadd/randomshit/im learnding.ogg",length=1.642}}
 L["im looking at gay porno"]={{path="chatsounds/autoadd/randomshit/im looking at gay porno.ogg",length=1.776}}
@@ -82,6 +85,7 @@ L["my leg"]={{path="chatsounds/autoadd/randomshit/my leg.ogg",length=0.796}}
 L["my speed is gone"]={{path="chatsounds/autoadd/randomshit/my speed is gone.ogg",length=1.544}}
 L["nieee"]={{path="chatsounds/autoadd/randomshit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/randomshit/nightoffire.ogg",length=300.199}}
+L["no dont do it"]={{path="chatsounds/autoadd/randomshit/no dont do it.ogg",length=1.134}}
 L["no i dont wanna be bread"]={{path="chatsounds/autoadd/randomshit/no i dont wanna be bread.ogg",length=2.868}}
 L["no nooooooooo"]={{path="chatsounds/autoadd/randomshit/no nooooooooo.ogg",length=2.273}}
 L["now this is podracing"]={{path="chatsounds/autoadd/randomshit/now this is podracing.ogg",length=2.046}}
@@ -104,6 +108,7 @@ L["soup"]={{path="chatsounds/autoadd/randomshit/soup.ogg",length=0.393}}
 L["spaghetti"]={{path="chatsounds/autoadd/randomshit/spaghetti.ogg",length=1.054}}
 L["spherical"]={{path="chatsounds/autoadd/randomshit/spherical.ogg",length=1.184}}
 L["srors"]={{path="chatsounds/autoadd/randomshit/srors.ogg",length=0.808}}
+L["stop stop hes already dead"]={{path="chatsounds/autoadd/randomshit/stop stop hes already dead.ogg",length=4.631}}
 L["super mario in real life"]={{path="chatsounds/autoadd/randomshit/super mario in real life.ogg",length=1.847}}
 L["tactical nuke"]={{path="chatsounds/autoadd/randomshit/tactical nuke.ogg",length=2.426}}
 L["tango down"]={{path="chatsounds/autoadd/randomshit/tango down.ogg",length=2.090}}

@@ -17,7 +17,7 @@ L["hes a man"]={{path="chatsounds/autoadd/athf/hes a man.ogg",length=0.731}}
 L["hey buddy"]={{path="chatsounds/autoadd/athf/hey buddy.ogg",length=1.881}}
 L["hey buddy how you doing there"]={{path="chatsounds/autoadd/athf/hey buddy how you doing there.ogg",length=2.438}}
 L["huhu yeah good one huh never thought of that"]={{path="chatsounds/autoadd/athf/huhu yeah good one huh never thought of that.ogg",length=2.299}}
-L["i didnt do it"]={{path="chatsounds/autoadd/athf/i didnt do it.ogg",length=1.428}}
+L["i didnt frickin do it"]={{path="chatsounds/autoadd/athf/i didnt frickin do it.ogg",length=1.428}}
 L["i didnt think it was loaded i was just sorta checkin the barrel there and ohgod"]={{path="chatsounds/autoadd/athf/i didnt think it was loaded i was just sorta checkin the barrel there and ohgod.ogg",length=4.214}}
 L["i lost peace and quiet"]={{path="chatsounds/autoadd/athf/i lost peace and quiet.ogg",length=1.370}}
 L["i want my name to be spaghetti"]={{path="chatsounds/autoadd/athf/i want my name to be spaghetti.ogg",length=1.416}}
