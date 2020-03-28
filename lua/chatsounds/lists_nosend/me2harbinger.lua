@@ -61,7 +61,7 @@ L["submit now"]={{path="chatsounds/autoadd/me2harbinger/submit now.ogg",length=1
 L["surround them"]={{path="chatsounds/autoadd/me2harbinger/surround them.ogg",length=1.019}}
 L["swarm their position"]={{path="chatsounds/autoadd/me2harbinger/swarm their position.ogg",length=1.636}}
 L["take what is useful"]={{path="chatsounds/autoadd/me2harbinger/take what is useful.ogg",length=1.221}}
-L["the dead are uesless"]={{path="chatsounds/autoadd/me2harbinger/the dead are uesless.ogg",length=1.682}}
+L["the dead are useless"]={{path="chatsounds/autoadd/me2harbinger/the dead are useless.ogg",length=1.682}}
 L["the experiments will continue"]={{path="chatsounds/autoadd/me2harbinger/the experiments will continue.ogg",length=1.991}}
 L["the flesh is a machine"]={{path="chatsounds/autoadd/me2harbinger/the flesh is a machine.ogg",length=2.161}}
 L["the forces of the universe bend to me"]={{path="chatsounds/autoadd/me2harbinger/the forces of the universe bend to me.ogg",length=2.635}}
