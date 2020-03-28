@@ -31,6 +31,7 @@ L["bbbbbbbbbbbbbbbbb"]={{path="chatsounds/autoadd/wicopee/bbbbbbbbbbbbbbbbb.ogg"
 L["beep"]={{path="chatsounds/autoadd/wicopee/beep.ogg",length=0.210}}
 L["blini dingrape"]={{path="chatsounds/autoadd/wicopee/blini dingrape.ogg",length=3.474}}
 L["blyat da vy ahueli"]={{path="chatsounds/autoadd/wicopee/blyat da vy ahueli.ogg",length=5.016}}
+L["britishchav"]={{path="chatsounds/autoadd/wicopee/britishchav.ogg",length=66.419}}
 L["broshu"]={{path="chatsounds/autoadd/wicopee/broshu.ogg",length=0.415}}
 L["brosj"]={{path="chatsounds/autoadd/wicopee/brosj.ogg",length=0.356}}
 L["chances are"]={{path="chatsounds/autoadd/wicopee/chances are.ogg",length=1.435}}
