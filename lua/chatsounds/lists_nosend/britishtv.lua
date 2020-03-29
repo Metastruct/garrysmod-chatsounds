@@ -5,7 +5,7 @@ L["forkitara"]={{path="chatsounds/autoadd/britishtv/forkitara.ogg",length=1.304}
 L["funnily enough ive never willy wanked since then"]={{path="chatsounds/autoadd/britishtv/funnily enough ive never willy wanked since then.ogg",length=1.826}}
 L["haah hah"]={{path="chatsounds/autoadd/britishtv/haah hah.ogg",length=1.001}}
 L["heh heh"]={{path="chatsounds/autoadd/britishtv/heh heh.ogg",length=0.478}}
-L["hno"]={{path="chatsounds/autoadd/britishtv/hno.ogg",length=0.003}}
+L["hno"]={{path="chatsounds/autoadd/britishtv/hno.ogg",length=0.478}}
 L["no ive never whizzed it over the kitchen"]={{path="chatsounds/autoadd/britishtv/no ive never whizzed it over the kitchen.ogg",length=1.739}}
 L["oh its a strap on"]={{path="chatsounds/autoadd/britishtv/oh its a strap on.ogg",length=1.543}}
 L["once its in i love it"]={{path="chatsounds/autoadd/britishtv/once its in i love it.ogg",length=1.000}}
