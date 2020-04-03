@@ -103,6 +103,7 @@ L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091},{path="chatsound
 L["the2"]={{path="chatsounds/autoadd/misc/the2.ogg",length=0.166}}
 L["this was a qdance event"]={{path="chatsounds/autoadd/misc/this was a qdance event.ogg",length=3.026}}
 L["thud"]={{path="chatsounds/autoadd/misc/thud.ogg",length=12.775}}
+L["too bad so sad"]={{path="chatsounds/autoadd/misc/too bad so sad.ogg",length=3.221}}
 L["unroll"]={{path="chatsounds/autoadd/misc/unroll.ogg",length=0.673}}
 L["victory"]={{path="chatsounds/autoadd/misc/victory.ogg",length=15.911}}
 L["whip"]={{path="chatsounds/autoadd/misc/whip.ogg",length=1.083}}
