@@ -3,7 +3,6 @@ L["and if they dont dance then they bannu and da end of rine"]={{path="chatsound
 L["and yes they were banned after i said the two words ding and dong"]={{path="chatsounds/autoadd/stanry_roo/and yes they were banned after i said the two words ding and dong.ogg",length=5.232}}
 L["ay yo whats poppin"]={{path="chatsounds/autoadd/stanry_roo/ay yo whats poppin.ogg",length=1.137}}
 L["because everyone is dancing in the dancing zone and you know what that is fine"]={{path="chatsounds/autoadd/stanry_roo/because everyone is dancing in the dancing zone and you know what that is fine.ogg",length=4.909}}
-L["brb my niggas"]={{path="chatsounds/autoadd/stanry_roo/brb my niggas.ogg",length=1.931}}
 L["cause if they dont dance then they ding dong bannu end of rine"]={{path="chatsounds/autoadd/stanry_roo/cause if they dont dance then they ding dong bannu end of rine.ogg",length=4.809}}
 L["ding dong bannu"]={{path="chatsounds/autoadd/stanry_roo/ding dong bannu.ogg",length=0.929}}
 L["dis is a shamefur dispray and unacceptaboo so dey ding dong bannu"]={{path="chatsounds/autoadd/stanry_roo/dis is a shamefur dispray and unacceptaboo so dey ding dong bannu.ogg",length=4.061}}

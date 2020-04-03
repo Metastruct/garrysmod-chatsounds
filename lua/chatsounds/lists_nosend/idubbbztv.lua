@@ -50,7 +50,6 @@ L["lemon flavour"]={{path="chatsounds/autoadd/idubbbztv/lemon flavour.ogg",lengt
 L["like"]={{path="chatsounds/autoadd/idubbbztv/like.ogg",length=0.288}}
 L["like i had tourrettes"]={{path="chatsounds/autoadd/idubbbztv/like i had tourrettes.ogg",length=0.847}}
 L["lps"]={{path="chatsounds/autoadd/idubbbztv/lps.ogg",length=0.906}}
-L["manemanigger"]={{path="chatsounds/autoadd/idubbbztv/manemanigger.ogg",length=0.794}}
 L["memes"]={{path="chatsounds/autoadd/idubbbztv/memes.ogg",length=0.826}}
 L["my new ep is gonna be droppen in stores pretty soon"]={{path="chatsounds/autoadd/idubbbztv/my new ep is gonna be droppen in stores pretty soon.ogg",length=2.792}}
 L["oh yeah you wear it as a wristband and then you can"]={{path="chatsounds/autoadd/idubbbztv/oh yeah you wear it as a wristband and then you can.ogg",length=2.137}}

@@ -126,7 +126,6 @@ L["theres the danger 2"]={{path="chatsounds/autoadd/nigbone/theres the danger 2.
 L["these weirdos drive me crazy man"]={{path="chatsounds/autoadd/nigbone/these weirdos drive me crazy man.ogg",length=2.684}}
 L["they dont say nigbone solves all the crimes for no reason"]={{path="chatsounds/autoadd/nigbone/they dont say nigbone solves all the crimes for no reason.ogg",length=3.657}}
 L["this afternoon we is working"]={{path="chatsounds/autoadd/nigbone/this afternoon we is working.ogg",length=2.416}}
-L["this aint melrose place niggas"]={{path="chatsounds/autoadd/nigbone/this aint melrose place niggas.ogg",length=2.267}}
 L["this is a police state man"]={{path="chatsounds/autoadd/nigbone/this is a police state man.ogg",length=2.054}}
 L["tittydactyl"]={{path="chatsounds/autoadd/nigbone/tittydactyl.ogg",length=0.958}}
 L["to shave your what"]={{path="chatsounds/autoadd/nigbone/to shave your what.ogg",length=1.036}}

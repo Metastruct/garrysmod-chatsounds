@@ -28,8 +28,6 @@ L["money"]={{path="chatsounds/autoadd/chad_warden/money.ogg",length=0.929}}
 L["my caddie"]={{path="chatsounds/autoadd/chad_warden/my caddie.ogg",length=0.955}}
 L["nice"]={{path="chatsounds/autoadd/chad_warden/nice.ogg",length=0.557}}
 L["niceniceslick"]={{path="chatsounds/autoadd/chad_warden/niceniceslick.ogg",length=4.234}}
-L["niggas"]={{path="chatsounds/autoadd/chad_warden/niggas.ogg",length=0.498}}
-L["niggas trying to say like"]={{path="chatsounds/autoadd/chad_warden/niggas trying to say like.ogg",length=1.294}}
 L["other than"]={{path="chatsounds/autoadd/chad_warden/other than.ogg",length=0.420}}
 L["possible"]={{path="chatsounds/autoadd/chad_warden/possible.ogg",length=0.772}}
 L["pstripple"]={{path="chatsounds/autoadd/chad_warden/pstripple.ogg",length=1.125}}
