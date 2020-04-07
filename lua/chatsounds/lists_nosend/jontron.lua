@@ -20,6 +20,7 @@ L["i appreciate it"]={{path="chatsounds/autoadd/jontron/i appreciate it.ogg",len
 L["i cant do it jon"]={{path="chatsounds/autoadd/jontron/i cant do it jon.ogg",length=1.233}}
 L["i did a pun"]={{path="chatsounds/autoadd/jontron/i did a pun.ogg",length=0.933}}
 L["i dont like where this is going"]={{path="chatsounds/autoadd/jontron/i dont like where this is going.ogg",length=1.507}}
+L["i have several questions"]={{path="chatsounds/autoadd/jontron/i have several questions.ogg",length=2.140}}
 L["i promise ill never do drugs again dad"]={{path="chatsounds/autoadd/jontron/i promise ill never do drugs again dad.ogg",length=2.682}}
 L["i quit"]={{path="chatsounds/autoadd/jontron/i quit/1.ogg",length=0.821},{path="chatsounds/autoadd/jontron/i quit/2.ogg",length=0.425}}
 L["im goin im goin"]={{path="chatsounds/autoadd/jontron/im goin im goin.ogg",length=2.358}}
@@ -29,6 +30,7 @@ L["is that a poop rat"]={{path="chatsounds/autoadd/jontron/is that a poop rat.og
 L["its its awful"]={{path="chatsounds/autoadd/jontron/its its awful.ogg",length=2.035}}
 L["jon madden"]={{path="chatsounds/autoadd/jontron/jon madden.ogg",length=18.913}}
 L["jonlaughconker"]={{path="chatsounds/autoadd/jontron/jonlaughconker.ogg",length=13.411}}
+L["jontronbestgame"]={{path="chatsounds/autoadd/jontron/jontronbestgame.ogg",length=3.170}}
 L["jontronmariocitysimulatorrage"]={{path="chatsounds/autoadd/jontron/jontronmariocitysimulatorrage.ogg",length=15.882}}
 L["just gonna keep this secret nice and tucked away in my soul until it burns a hole through it"]={{path="chatsounds/autoadd/jontron/just gonna keep this secret nice and tucked away in my soul until it burns a hole through it.ogg",length=5.275}}
 L["making legend of zelda modern warfare"]={{path="chatsounds/autoadd/jontron/making legend of zelda modern warfare.ogg",length=1.668}}
@@ -58,6 +60,7 @@ L["what is this a crack den i thought i was supposed to be getting off drugs"]={
 L["what is this whered you learn to do this have you been doing seed"]={{path="chatsounds/autoadd/jontron/what is this whered you learn to do this have you been doing seed.ogg",length=3.330}}
 L["whatchu doin"]={{path="chatsounds/autoadd/jontron/whatchu doin.ogg",length=0.718}}
 L["whatisthis"]={{path="chatsounds/autoadd/jontron/whatisthis.ogg",length=1.373}}
+L["woody the woodpecker"]={{path="chatsounds/autoadd/jontron/woody the woodpecker.ogg",length=3.574}}
 L["wow how do you get that good"]={{path="chatsounds/autoadd/jontron/wow how do you get that good.ogg",length=2.465}}
 L["wtf"]={{path="chatsounds/autoadd/jontron/wtf/wtf1.ogg",length=0.800},{path="chatsounds/autoadd/jontron/wtf/wtf2.ogg",length=2.009}}
 L["wtf is this supposed to be"]={{path="chatsounds/autoadd/jontron/wtf is this supposed to be.ogg",length=2.896}}

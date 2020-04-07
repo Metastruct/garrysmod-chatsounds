@@ -1,4 +1,5 @@
 c.StartList("cracklife")
+L["a meemkit cannot be reused"]={{path="chatsounds/autoadd/cracklife/a meemkit cannot be reused.ogg",length=2.420}}
 L["a place in the middle of fucking nowhere"]={{path="chatsounds/autoadd/cracklife/a place in the middle of fucking nowhere.ogg",length=2.299}}
 L["and nobody in here is a normal person"]={{path="chatsounds/autoadd/cracklife/and nobody in here is a normal person.ogg",length=2.374}}
 L["and welcome to black mesa"]={{path="chatsounds/autoadd/cracklife/and welcome to black mesa.ogg",length=1.767}}
@@ -22,18 +23,22 @@ L["i will now proceed to pounce at you"]={{path="chatsounds/autoadd/cracklife/i 
 L["it appears that you completely failed"]={{path="chatsounds/autoadd/cracklife/it appears that you completely failed.ogg",length=2.276}}
 L["its disorienting"]={{path="chatsounds/autoadd/cracklife/its disorienting.ogg",length=1.161}}
 L["march01"]={{path="chatsounds/autoadd/cracklife/march01.ogg",length=17.816}}
+L["meemkit"]={{path="chatsounds/autoadd/cracklife/meemkit/meemkit1.ogg",length=0.617},{path="chatsounds/autoadd/cracklife/meemkit/meemkit2.ogg",length=0.744},{path="chatsounds/autoadd/cracklife/meemkit/meemkit3.ogg",length=0.723}}
 L["movement sucks too"]={{path="chatsounds/autoadd/cracklife/movement sucks too.ogg",length=1.273}}
 L["moving around in your hev suit sucks ass"]={{path="chatsounds/autoadd/cracklife/moving around in your hev suit sucks ass.ogg",length=2.906}}
 L["my dick is bigger than yours"]={{path="chatsounds/autoadd/cracklife/my dick is bigger than yours.ogg",length=1.584}}
 L["next stop faggot land"]={{path="chatsounds/autoadd/cracklife/next stop faggot land.ogg",length=7.007}}
 L["no fakku offu gordon"]={{path="chatsounds/autoadd/cracklife/no fakku offu gordon.ogg",length=2.061}}
 L["oi blyad"]={{path="chatsounds/autoadd/cracklife/oi blyad.ogg",length=1.097}}
+L["radiation to radiation"]={{path="chatsounds/autoadd/cracklife/radiation to radiation.ogg",length=8.487}}
 L["riders on the storm"]={{path="chatsounds/autoadd/cracklife/riders on the storm.ogg",length=18.274}}
 L["seriously everybody is a fucking retard and a freak"]={{path="chatsounds/autoadd/cracklife/seriously everybody is a fucking retard and a freak.ogg",length=3.729}}
 L["shut the fuck up"]={{path="chatsounds/autoadd/cracklife/shut the fuck up.ogg",length=1.165}}
 L["soisoisoi"]={{path="chatsounds/autoadd/cracklife/soisoisoi.ogg",length=2.636}}
+L["srors"]={{path="chatsounds/autoadd/cracklife/srors.ogg",length=0.808}}
 L["take cover guys this faggot is spamming shit"]={{path="chatsounds/autoadd/cracklife/take cover guys this faggot is spamming shit.ogg",length=3.054}}
 L["the c stands for cancer"]={{path="chatsounds/autoadd/cracklife/the c stands for cancer.ogg",length=1.676}}
+L["traif"]={{path="chatsounds/autoadd/cracklife/traif.ogg",length=0.501}}
 L["which means they can go fuck themselves"]={{path="chatsounds/autoadd/cracklife/which means they can go fuck themselves.ogg",length=2.405}}
 L["you really are a suicidal faggot arent you"]={{path="chatsounds/autoadd/cracklife/you really are a suicidal faggot arent you.ogg",length=2.820}}
 L["your mother you cocksucking son of a bitch"]={{path="chatsounds/autoadd/cracklife/your mother you cocksucking son of a bitch.ogg",length=2.647}}
