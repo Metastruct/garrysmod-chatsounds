@@ -97,6 +97,7 @@ L["say the line bart"]={{path="chatsounds/autoadd/randomshit/say the line bart.o
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.165}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.145}}
+L["skibidi bop mmm bada"]={{path="chatsounds/autoadd/randomshit/skibidi bop mmm bada.ogg",length=1.851}}
 L["skibidi bop mmm bada loud"]={{path="chatsounds/autoadd/randomshit/skibidi bop mmm bada loud.ogg",length=4.103}}
 L["snooping as usual i see"]={{path="chatsounds/autoadd/randomshit/snooping as usual i see.ogg",length=3.067}}
 L["so im cumming day and night"]={{path="chatsounds/autoadd/randomshit/so im cumming day and night.ogg",length=1.678}}
