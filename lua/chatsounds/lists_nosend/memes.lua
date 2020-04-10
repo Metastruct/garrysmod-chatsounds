@@ -6,6 +6,7 @@ L["arabic nokia ringtone"]={{path="chatsounds/autoadd/memes/arabic nokia rington
 L["arrgh eww duude wtf"]={{path="chatsounds/autoadd/memes/arrgh eww duude wtf.ogg",length=6.332}}
 L["aww dude youre drinking cum powder"]={{path="chatsounds/autoadd/memes/aww dude youre drinking cum powder.ogg",length=2.329}}
 L["banana screech"]={{path="chatsounds/autoadd/memes/banana screech.ogg",length=1.695}}
+L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
 L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
