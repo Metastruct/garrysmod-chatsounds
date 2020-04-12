@@ -12,6 +12,7 @@ L["big big chungus"]={{path="chatsounds/autoadd/randomshit/big big chungus.ogg",
 L["big chungus"]={{path="chatsounds/autoadd/randomshit/big chungus.ogg",length=0.971}}
 L["boo you suck"]={{path="chatsounds/autoadd/randomshit/boo you suck.ogg",length=2.509}}
 L["brb tax collector is escaping from the basement"]={{path="chatsounds/autoadd/randomshit/brb tax collector is escaping from the basement.ogg",length=3.100}}
+L["buzz look an alien"]={{path="chatsounds/autoadd/randomshit/buzz look an alien.ogg",length=1.034}}
 L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.ogg",length=1.521}}
 L["change da world"]={{path="chatsounds/autoadd/randomshit/change da world.ogg",length=2.140}}
 L["cloakerscream"]={{path="chatsounds/autoadd/randomshit/cloakerscream.ogg",length=5.065}}
@@ -20,6 +21,7 @@ L["default dance"]={{path="chatsounds/autoadd/randomshit/default dance.ogg",leng
 L["dejavu"]={{path="chatsounds/autoadd/randomshit/dejavu.ogg",length=264.150}}
 L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374}}
 L["disgustang"]={{path="chatsounds/autoadd/randomshit/disgustang.ogg",length=1.434}}
+L["dont let your kids watch it"]={{path="chatsounds/autoadd/randomshit/dont let your kids watch it.ogg",length=1.885}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/randomshit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.596}}
 L["ee ur"]={{path="chatsounds/autoadd/randomshit/ee ur.ogg",length=1.431}}
 L["eugh"]={{path="chatsounds/autoadd/randomshit/eugh.ogg",length=0.542}}

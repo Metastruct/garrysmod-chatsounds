@@ -59,7 +59,7 @@ L["real booby traps tonight"]={{path="chatsounds/autoadd/deusex_malkavian/real b
 L["so you were hoping to find your daughter in the ocean"]={{path="chatsounds/autoadd/deusex_malkavian/so you were hoping to find your daughter in the ocean.ogg",length=3.492}}
 L["sorry some bad news i i i am prepared to perform my duties"]={{path="chatsounds/autoadd/deusex_malkavian/sorry some bad news i i i am prepared to perform my duties.ogg",length=6.696}}
 L["that will be your butt"]={{path="chatsounds/autoadd/deusex_malkavian/that will be your butt.ogg",length=2.220}}
-L["the gep gun takedown is always a silent way to eliminate manderley"]={{path="chatsounds/autoadd/deusex_malkavian/the gep gun takedown is always a silent way to eliminate manderley.ogg",length=3.370}}
+L["the gep gun takedown is always the most silent way to eliminate manderley"]={{path="chatsounds/autoadd/deusex_malkavian/the gep gun takedown is always the most silent way to eliminate manderley.ogg",length=3.370}}
 L["the hatch code is 12232113333332121132231321133212113"]={{path="chatsounds/autoadd/deusex_malkavian/the hatch code is 12232113333332121132231321133212113.ogg",length=6.740}}
 L["they had me inject the soldiers with death"]={{path="chatsounds/autoadd/deusex_malkavian/they had me inject the soldiers with death.ogg",length=2.412}}
 L["this would be our only dish until the criminals and students start running the european union again"]={{path="chatsounds/autoadd/deusex_malkavian/this would be our only dish until the criminals and students start running the european union again.ogg",length=5.292}}
