@@ -25,5 +25,4 @@ L["to show you the power of flex tape"]={{path="chatsounds/autoadd/zeni/to show 
 L["welcome to mcdawnalds"]={{path="chatsounds/autoadd/zeni/welcome to mcdawnalds.ogg",length=3.493}}
 L["you should have gone for the head"]={{path="chatsounds/autoadd/zeni/you should have gone for the head.ogg",length=3.366}}
 L["zombiescream"]={{path="chatsounds/autoadd/zeni/zombiescream.ogg",length=3.982}}
-L["zombiescream distorted"]={{path="chatsounds/autoadd/zeni/zombiescream distorted.ogg",length=3.982}}
 c.EndList()
