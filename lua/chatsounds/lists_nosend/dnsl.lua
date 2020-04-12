@@ -3,7 +3,10 @@ L["access granted"]={{path="chatsounds/autoadd/dnsl/access granted.ogg",length=1
 L["alright this is the police to the police"]={{path="chatsounds/autoadd/dnsl/alright this is the police to the police.ogg",length=2.347}}
 L["been watching you for quite a while now"]={{path="chatsounds/autoadd/dnsl/been watching you for quite a while now.ogg",length=1.591}}
 L["can you hear me"]={{path="chatsounds/autoadd/dnsl/can you hear me.ogg",length=0.728}}
+L["can you repeat that in english"]={{path="chatsounds/autoadd/dnsl/can you repeat that in english.ogg",length=1.422}}
 L["check it out"]={{path="chatsounds/autoadd/dnsl/check it out.ogg",length=0.656}}
+L["collect stone"]={{path="chatsounds/autoadd/dnsl/collect stone.ogg",length=2.061}}
+L["collect wood"]={{path="chatsounds/autoadd/dnsl/collect wood.ogg",length=2.123}}
 L["error incorrect answer"]={{path="chatsounds/autoadd/dnsl/error incorrect answer.ogg",length=1.673}}
 L["he cant control himself"]={{path="chatsounds/autoadd/dnsl/he cant control himself.ogg",length=1.700}}
 L["hello"]={{path="chatsounds/autoadd/dnsl/hello.ogg",length=0.390}}
@@ -29,11 +32,13 @@ L["mr bones i would like to get off your wild ride"]={{path="chatsounds/autoadd/
 L["mr bones kill yourself"]={{path="chatsounds/autoadd/dnsl/mr bones kill yourself.ogg",length=1.965}}
 L["mr bones off me"]={{path="chatsounds/autoadd/dnsl/mr bones off me.ogg",length=2.248}}
 L["no"]={{path="chatsounds/autoadd/dnsl/no.ogg",length=0.592}}
+L["oh he probably thought you were a rock"]={{path="chatsounds/autoadd/dnsl/oh he probably thought you were a rock.ogg",length=1.628}}
 L["oh right"]={{path="chatsounds/autoadd/dnsl/oh right.ogg",length=0.607}}
 L["oh shit sorry about that"]={{path="chatsounds/autoadd/dnsl/oh shit sorry about that.ogg",length=1.089}}
 L["please roleplay appropriately okay"]={{path="chatsounds/autoadd/dnsl/please roleplay appropriately okay.ogg",length=2.506}}
 L["please say the magic sentence"]={{path="chatsounds/autoadd/dnsl/please say the magic sentence.ogg",length=1.802}}
 L["repeat your answer please"]={{path="chatsounds/autoadd/dnsl/repeat your answer please.ogg",length=1.982}}
+L["settle down man"]={{path="chatsounds/autoadd/dnsl/settle down man.ogg",length=0.907}}
 L["settle down okay"]={{path="chatsounds/autoadd/dnsl/settle down okay.ogg",length=0.970}}
 L["shit no more gas"]={{path="chatsounds/autoadd/dnsl/shit no more gas.ogg",length=1.323}}
 L["simply follow the blues clues and the answer will be revealed"]={{path="chatsounds/autoadd/dnsl/simply follow the blues clues and the answer will be revealed.ogg",length=4.492}}
@@ -61,5 +66,7 @@ L["yeah sorry about this were working on it"]={{path="chatsounds/autoadd/dnsl/ye
 L["you guys cant shoot me"]={{path="chatsounds/autoadd/dnsl/you guys cant shoot me.ogg",length=1.130}}
 L["you need to solve the riddle"]={{path="chatsounds/autoadd/dnsl/you need to solve the riddle.ogg",length=1.459}}
 L["you said put my hands up"]={{path="chatsounds/autoadd/dnsl/you said put my hands up.ogg",length=1.298}}
+L["you tried to kill me"]={{path="chatsounds/autoadd/dnsl/you tried to kill me.ogg",length=1.010}}
+L["you wanna make npcs"]={{path="chatsounds/autoadd/dnsl/you wanna make npcs.ogg",length=1.339}}
 L["youre about to die"]={{path="chatsounds/autoadd/dnsl/youre about to die.ogg",length=0.865}}
 c.EndList()
