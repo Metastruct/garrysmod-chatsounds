@@ -73,7 +73,6 @@ L["i think you lied to me i saw no circus clowns or carnival games"]={{path="cha
 L["i told you"]={{path="chatsounds/autoadd/halflifebutvr/i told you.ogg",length=1.161}}
 L["id love to hear it gordon"]={{path="chatsounds/autoadd/halflifebutvr/id love to hear it gordon.ogg",length=1.607}}
 L["if we use our ropes we can easily traverse this area"]={{path="chatsounds/autoadd/halflifebutvr/if we use our ropes we can easily traverse this area.ogg",length=2.914}}
-L["if you woke up one day and realised everything around you was a lie"]={{path="chatsounds/autoadd/halflifebutvr/if you woke up one day and realised everything around you was a lie.ogg",length=3.499}}
 L["if you woke up one day and realized everything around you was a lie"]={{path="chatsounds/autoadd/halflifebutvr/if you woke up one day and realized everything around you was a lie.ogg",length=3.404}}
 L["ill catch you with my big strong arms"]={{path="chatsounds/autoadd/halflifebutvr/ill catch you with my big strong arms.ogg",length=2.671}}
 L["im distracted by this big gun i have i love it"]={{path="chatsounds/autoadd/halflifebutvr/im distracted by this big gun i have i love it.ogg",length=3.060}}
