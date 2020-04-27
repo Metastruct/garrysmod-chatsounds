@@ -17,6 +17,7 @@ L["can i get a kappa"]={{path="chatsounds/autoadd/randomshit/can i get a kappa.o
 L["change da world"]={{path="chatsounds/autoadd/randomshit/change da world.ogg",length=2.140}}
 L["cloakerscream"]={{path="chatsounds/autoadd/randomshit/cloakerscream.ogg",length=5.065}}
 L["crawling in my crawl"]={{path="chatsounds/autoadd/randomshit/crawling in my crawl.ogg",length=20.637}}
+L["crunch"]={{path="chatsounds/autoadd/randomshit/crunch.ogg",length=0.593}}
 L["default dance"]={{path="chatsounds/autoadd/randomshit/default dance.ogg",length=6.872}}
 L["dejavu"]={{path="chatsounds/autoadd/randomshit/dejavu.ogg",length=264.150}}
 L["der he is"]={{path="chatsounds/autoadd/randomshit/der he is.ogg",length=1.374}}
@@ -45,6 +46,7 @@ L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/randoms
 L["hey joe"]={{path="chatsounds/autoadd/randomshit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/randomshit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/randomshit/hey peter.ogg",length=0.739}}
+L["how"]={{path="chatsounds/autoadd/randomshit/how.ogg",length=4.466}}
 L["how do i get speed"]={{path="chatsounds/autoadd/randomshit/how do i get speed.ogg",length=1.561}}
 L["how many cigorettes have you got lad"]={{path="chatsounds/autoadd/randomshit/how many cigorettes have you got lad.ogg",length=3.878}}
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/randomshit/i cant play in these conditions.ogg",length=1.725}}
@@ -142,4 +144,5 @@ L["you get what you fuckin deserve"]={{path="chatsounds/autoadd/randomshit/you g
 L["you missed that one"]={{path="chatsounds/autoadd/randomshit/you missed that one.ogg",length=1.325}}
 L["you underestimate my power"]={{path="chatsounds/autoadd/randomshit/you underestimate my power.ogg",length=2.548}}
 L["your health will recover graaraaraaadually"]={{path="chatsounds/autoadd/randomshit/your health will recover graaraaraaadually.ogg",length=3.318}}
+L["youre out of touch"]={{path="chatsounds/autoadd/randomshit/youre out of touch.ogg",length=21.185}}
 c.EndList()

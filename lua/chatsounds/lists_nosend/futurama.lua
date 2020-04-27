@@ -1,5 +1,6 @@
 c.StartList("futurama")
 L["bender laugh"]={{path="chatsounds/autoadd/futurama/bender laugh/bender laugh 1.ogg",length=2.507},{path="chatsounds/autoadd/futurama/bender laugh/bender laugh 2.ogg",length=2.789}}
+L["do a flip"]={{path="chatsounds/autoadd/futurama/do a flip.ogg",length=1.017}}
 L["elf"]={{path="chatsounds/autoadd/futurama/elf.ogg",length=0.186}}
 L["fry got his head stuck"]={{path="chatsounds/autoadd/futurama/fry got his head stuck.ogg",length=3.144}}
 L["good news"]={{path="chatsounds/autoadd/futurama/good news/good news1.ogg",length=2.043},{path="chatsounds/autoadd/futurama/good news/good news2.ogg",length=1.683},{path="chatsounds/autoadd/futurama/good news/good news3.ogg",length=1.738}}

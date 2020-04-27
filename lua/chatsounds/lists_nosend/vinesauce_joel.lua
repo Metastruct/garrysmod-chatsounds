@@ -57,6 +57,7 @@ L["im talking the worst"]={{path="chatsounds/autoadd/vinesauce_joel/im talking t
 L["is gud"]={{path="chatsounds/autoadd/vinesauce_joel/is gud.ogg",length=0.796}}
 L["is the worst"]={{path="chatsounds/autoadd/vinesauce_joel/is the worst.ogg",length=1.303}}
 L["is this"]={{path="chatsounds/autoadd/vinesauce_joel/is this/1.ogg",length=0.561},{path="chatsounds/autoadd/vinesauce_joel/is this/2.ogg",length=0.982}}
+L["its a feature"]={{path="chatsounds/autoadd/vinesauce_joel/its a feature.ogg",length=1.058}}
 L["its me your husband"]={{path="chatsounds/autoadd/vinesauce_joel/its me your husband.ogg",length=3.844}}
 L["its so lonely"]={{path="chatsounds/autoadd/vinesauce_joel/its so lonely.ogg",length=1.055}}
 L["its time"]={{path="chatsounds/autoadd/vinesauce_joel/its time.ogg",length=0.726}}
