@@ -4,8 +4,10 @@ L["ab in den sonnenschein"]={{path="chatsounds/autoadd/music/ab in den sonnensch
 L["ab in den urlaub"]={{path="chatsounds/autoadd/music/ab in den urlaub.ogg",length=2.265}}
 L["ace of base"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
+L["barbra streisand loop"]={{path="chatsounds/autoadd/music/barbra streisand loop.ogg",length=15.238}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
 L["bass"]={{path="chatsounds/autoadd/music/bass.ogg",length=0.408}}
+L["battle against a weird opponent"]={{path="chatsounds/autoadd/music/battle against a weird opponent.ogg",length=83.034}}
 L["beat it"]={{path="chatsounds/autoadd/music/beat it.ogg",length=0.440}}
 L["beat it guitar"]={{path="chatsounds/autoadd/music/beat it guitar.ogg",length=6.277}}
 L["bochum ich haeng an dir"]={{path="chatsounds/autoadd/music/bochum ich haeng an dir.ogg",length=3.082}}
@@ -13,8 +15,10 @@ L["bochum ich komm aus dir"]={{path="chatsounds/autoadd/music/bochum ich komm au
 L["but my hope will never die"]={{path="chatsounds/autoadd/music/but my hope will never die.ogg",length=1.558}}
 L["celebrate"]={{path="chatsounds/autoadd/music/celebrate/celebrate1.ogg",length=4.238},{path="chatsounds/autoadd/music/celebrate/celebrate2.ogg",length=4.001}}
 L["cheekibreekiradio"]={{path="chatsounds/autoadd/music/cheekibreekiradio.ogg",length=65.176}}
+L["coffindance"]={{path="chatsounds/autoadd/music/coffindance.ogg",length=22.166}}
 L["concrete"]={{path="chatsounds/autoadd/music/concrete.ogg",length=0.709}}
 L["crank that"]={{path="chatsounds/autoadd/music/crank that.ogg",length=13.379}}
+L["crawling in my crawl"]={{path="chatsounds/autoadd/music/crawling in my crawl.ogg",length=20.637}}
 L["crazy"]={{path="chatsounds/autoadd/music/crazy.ogg",length=1.542}}
 L["decap attack theme"]={{path="chatsounds/autoadd/music/decap attack theme.ogg",length=3.210}}
 L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.150}}
@@ -37,6 +41,7 @@ L["mr skeltal anthem"]={{path="chatsounds/autoadd/music/mr skeltal anthem.ogg",l
 L["nbgskrill"]={{path="chatsounds/autoadd/music/nbgskrill.ogg",length=56.294}}
 L["offlimits"]={{path="chatsounds/autoadd/music/offlimits.ogg",length=113.175}}
 L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmortalyes.ogg",length=125.982}}
+L["pornhub"]={{path="chatsounds/autoadd/music/pornhub.ogg",length=3.056}}
 L["prism"]={{path="chatsounds/autoadd/music/prism.ogg",length=0.750}}
 L["prism is a dancer"]={{path="chatsounds/autoadd/music/prism is a dancer/prism is a dancer 1.ogg",length=1.682},{path="chatsounds/autoadd/music/prism is a dancer/prism is a dancer 2.ogg",length=2.118}}
 L["raymond"]={{path="chatsounds/autoadd/music/raymond.ogg",length=41.723}}
@@ -44,6 +49,7 @@ L["raz raz raz eto khardbass"]={{path="chatsounds/autoadd/music/raz raz raz eto 
 L["seinfeld"]={{path="chatsounds/autoadd/music/seinfeld.ogg",length=51.312}}
 L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardbass basy.ogg",length=1.651}}
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
+L["tetrisloop"]={{path="chatsounds/autoadd/music/tetrisloop.ogg",length=25.592}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
 L["thuglife"]={{path="chatsounds/autoadd/music/thuglife.ogg",length=9.540}}
 L["tief im westen"]={{path="chatsounds/autoadd/music/tief im westen/tief im westen 1.ogg",length=1.707},{path="chatsounds/autoadd/music/tief im westen/tief im westen 2.ogg",length=3.065},{path="chatsounds/autoadd/music/tief im westen/tief im westen 3.ogg",length=2.961},{path="chatsounds/autoadd/music/tief im westen/tief im westen 4.ogg",length=1.788},{path="chatsounds/autoadd/music/tief im westen/tief im westen 5.ogg",length=3.111}}
@@ -58,4 +64,5 @@ L["why you always lying"]={{path="chatsounds/autoadd/music/why you always lying.
 L["worldholdon"]={{path="chatsounds/autoadd/music/worldholdon.ogg",length=15.124}}
 L["you can feel it everywhere"]={{path="chatsounds/autoadd/music/you can feel it everywhere.ogg",length=2.483}}
 L["you can hear it you can feel it"]={{path="chatsounds/autoadd/music/you can hear it you can feel it.ogg",length=1.966}}
+L["youre out of touch"]={{path="chatsounds/autoadd/music/youre out of touch.ogg",length=21.185}}
 c.EndList()

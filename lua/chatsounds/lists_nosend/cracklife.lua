@@ -39,8 +39,10 @@ L["srors"]={{path="chatsounds/autoadd/cracklife/srors.ogg",length=0.808}}
 L["take cover guys this faggot is spamming shit"]={{path="chatsounds/autoadd/cracklife/take cover guys this faggot is spamming shit.ogg",length=3.054}}
 L["the c stands for cancer"]={{path="chatsounds/autoadd/cracklife/the c stands for cancer.ogg",length=1.676}}
 L["traif"]={{path="chatsounds/autoadd/cracklife/traif.ogg",length=0.501}}
+L["until you are at full health"]={{path="chatsounds/autoadd/cracklife/until you are at full health.ogg",length=1.576}}
 L["which means they can go fuck themselves"]={{path="chatsounds/autoadd/cracklife/which means they can go fuck themselves.ogg",length=2.405}}
 L["you really are a suicidal faggot arent you"]={{path="chatsounds/autoadd/cracklife/you really are a suicidal faggot arent you.ogg",length=2.820}}
+L["your health will recover graaraaraaadually"]={{path="chatsounds/autoadd/cracklife/your health will recover graaraaraaadually.ogg",length=3.318}}
 L["your mother you cocksucking son of a bitch"]={{path="chatsounds/autoadd/cracklife/your mother you cocksucking son of a bitch.ogg",length=2.647}}
 L["youre mom you cuntfuck"]={{path="chatsounds/autoadd/cracklife/youre mom you cuntfuck.ogg",length=1.238}}
 c.EndList()
