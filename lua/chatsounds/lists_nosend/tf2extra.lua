@@ -145,7 +145,7 @@ L["place a melon here"]={{path="chatsounds/autoadd/tf2extra/place a melon here.o
 L["poot poot pooti tis"]={{path="chatsounds/autoadd/tf2extra/poot poot pooti tis.ogg",length=2.121}}
 L["pootis"]={{path="chatsounds/autoadd/tf2extra/pootis.ogg",length=0.387}}
 L["ppoottiiss"]={{path="chatsounds/autoadd/tf2extra/ppoottiiss.ogg",length=3.134}}
-L["prepare for you examassmination"]={{path="chatsounds/autoadd/tf2extra/prepare for you examassmination.ogg",length=2.852}}
+L["prepare for your examassmination"]={{path="chatsounds/autoadd/tf2extra/prepare for your examassmination.ogg",length=2.852}}
 L["proceed"]={{path="chatsounds/autoadd/tf2extra/proceed.ogg",length=0.271}}
 L["rapidfiredistorted"]={{path="chatsounds/autoadd/tf2extra/rapidfiredistorted.ogg",length=2.527}}
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2extra/ribs grow back.ogg",length=0.712}}
