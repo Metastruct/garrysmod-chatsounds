@@ -2,9 +2,7 @@ c.StartList("tenrys")
 L["2 ez"]={{path="chatsounds/autoadd/tenrys/2 ez.ogg",length=0.864}}
 L["a weapon to surpass metal gear"]={{path="chatsounds/autoadd/tenrys/a weapon to surpass metal gear.ogg",length=3.080}}
 L["aaaaaaaaaa"]={{path="chatsounds/autoadd/tenrys/aaaaaaaaaa.ogg",length=3.895}}
-L["aaaaah well that was wonderful good times were had by all im pooped"]={{path="chatsounds/autoadd/tenrys/aaaaah well that was wonderful good times were had by all im pooped.ogg",length=4.218}}
 L["aawh"]={{path="chatsounds/autoadd/tenrys/aawh.ogg",length=0.487}}
-L["ah i see"]={{path="chatsounds/autoadd/tenrys/ah i see.ogg",length=0.722}}
 L["aku aku"]={{path="chatsounds/autoadd/tenrys/aku aku.ogg",length=1.283}}
 L["alreadydeadsfx"]={{path="chatsounds/autoadd/tenrys/alreadydeadsfx.ogg",length=1.521}}
 L["alright the truth then"]={{path="chatsounds/autoadd/tenrys/alright the truth then.ogg",length=2.205}}
@@ -17,10 +15,7 @@ L["and this"]={{path="chatsounds/autoadd/tenrys/and this.ogg",length=1.781}}
 L["and this is to go even further beyond"]={{path="chatsounds/autoadd/tenrys/and this is to go even further beyond.ogg",length=5.867}}
 L["are you sure about that"]={{path="chatsounds/autoadd/tenrys/are you sure about that.ogg",length=1.093}}
 L["armstrooong"]={{path="chatsounds/autoadd/tenrys/armstrooong.ogg",length=3.132}}
-L["at this time of day"]={{path="chatsounds/autoadd/tenrys/at this time of day.ogg",length=1.405}}
-L["at this time of year"]={{path="chatsounds/autoadd/tenrys/at this time of year.ogg",length=1.215}}
 L["atatata"]={{path="chatsounds/autoadd/tenrys/atatata.ogg",length=5.462}}
-L["aurora borealis"]={{path="chatsounds/autoadd/tenrys/aurora borealis/1.ogg",length=1.054},{path="chatsounds/autoadd/tenrys/aurora borealis/2.ogg",length=1.671}}
 L["awoop"]={{path="chatsounds/autoadd/tenrys/awoop.ogg",length=0.582}}
 L["baguette"]={{path="chatsounds/autoadd/tenrys/baguette.ogg",length=0.364}}
 L["big sister scream"]={{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis01.ogg",length=2.722},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis02.ogg",length=2.388},{path="chatsounds/autoadd/tenrys/big sister scream/bs2bigsis03.ogg",length=1.812}}
@@ -38,7 +33,6 @@ L["crazybus"]={{path="chatsounds/autoadd/tenrys/crazybus.ogg",length=29.986}}
 L["cum insanity"]={{path="chatsounds/autoadd/tenrys/cum insanity.ogg",length=3.291}}
 L["cyka blyad bangbangbang"]={{path="chatsounds/autoadd/tenrys/cyka blyad bangbangbang.ogg",length=1.628}}
 L["dawn"]={{path="chatsounds/autoadd/tenrys/dawn.ogg",length=3.359}}
-L["delightfully devilish seymour"]={{path="chatsounds/autoadd/tenrys/delightfully devilish seymour.ogg",length=2.093}}
 L["despite your directions"]={{path="chatsounds/autoadd/tenrys/despite your directions.ogg",length=1.467}}
 L["die you little shit"]={{path="chatsounds/autoadd/tenrys/die you little shit.ogg",length=1.282}}
 L["die you piece of shit"]={{path="chatsounds/autoadd/tenrys/die you piece of shit.ogg",length=2.170}}
@@ -56,7 +50,6 @@ L["dun dun dun"]={{path="chatsounds/autoadd/tenrys/dun dun dun.ogg",length=2.403
 L["dun dun dun vroom"]={{path="chatsounds/autoadd/tenrys/dun dun dun vroom.ogg",length=1.087}}
 L["emulator dying"]={{path="chatsounds/autoadd/tenrys/emulator dying.ogg",length=36.335}}
 L["everybody do the flop"]={{path="chatsounds/autoadd/tenrys/everybody do the flop.ogg",length=2.555}}
-L["excuse me for one second"]={{path="chatsounds/autoadd/tenrys/excuse me for one second.ogg",length=1.038}}
 L["expand dong"]={{path="chatsounds/autoadd/tenrys/expand dong/1.ogg",length=1.025},{path="chatsounds/autoadd/tenrys/expand dong/2.ogg",length=1.188},{path="chatsounds/autoadd/tenrys/expand dong/3.ogg",length=1.080}}
 L["explosion"]={{path="chatsounds/autoadd/tenrys/explosion.ogg",length=1.887}}
 L["fak u krusti"]={{path="chatsounds/autoadd/tenrys/fak u krusti.ogg",length=1.470}}
@@ -72,7 +65,6 @@ L["get some help"]={{path="chatsounds/autoadd/tenrys/get some help.ogg",length=0
 L["gives me conniptions"]={{path="chatsounds/autoadd/tenrys/gives me conniptions.ogg",length=1.893}}
 L["gonorrhea"]={{path="chatsounds/autoadd/tenrys/gonorrhea.ogg",length=1.556}}
 L["good god man"]={{path="chatsounds/autoadd/tenrys/good god man.ogg",length=1.016}}
-L["good lord what is happening in there"]={{path="chatsounds/autoadd/tenrys/good lord what is happening in there.ogg",length=2.190}}
 L["goodbye jojo"]={{path="chatsounds/autoadd/tenrys/goodbye jojo.ogg",length=2.216}}
 L["gotta go fast"]={{path="chatsounds/autoadd/tenrys/gotta go fast.ogg",length=6.485}}
 L["hah typical politician not too bright"]={{path="chatsounds/autoadd/tenrys/hah typical politician not too bright.ogg",length=3.406}}
@@ -92,9 +84,7 @@ L["i am done"]={{path="chatsounds/autoadd/tenrys/i am done.ogg",length=0.627}}
 L["i am your only solution"]={{path="chatsounds/autoadd/tenrys/i am your only solution.ogg",length=2.952}}
 L["i dont have time for this"]={{path="chatsounds/autoadd/tenrys/i dont have time for this.ogg",length=1.715}}
 L["i dont want that"]={{path="chatsounds/autoadd/tenrys/i dont want that.ogg",length=0.922}}
-L["i hope youre prepared for an unforgettable luncheon"]={{path="chatsounds/autoadd/tenrys/i hope youre prepared for an unforgettable luncheon.ogg",length=2.125}}
 L["i said my sword was a tool of justice"]={{path="chatsounds/autoadd/tenrys/i said my sword was a tool of justice.ogg",length=2.712}}
-L["i was just stretching my calves on the windowsill isometric exercise care to join me"]={{path="chatsounds/autoadd/tenrys/i was just stretching my calves on the windowsill isometric exercise care to join me.ogg",length=5.094}}
 L["icq"]={{path="chatsounds/autoadd/tenrys/icq.ogg",length=0.580}}
 L["idiot"]={{path="chatsounds/autoadd/tenrys/idiot.ogg",length=0.700}}
 L["if americas gone to shit"]={{path="chatsounds/autoadd/tenrys/if americas gone to shit.ogg",length=1.925}}
@@ -105,7 +95,6 @@ L["im pickin the lock"]={{path="chatsounds/autoadd/tenrys/im pickin the lock.ogg
 L["im sorry"]={{path="chatsounds/autoadd/tenrys/im sorry.ogg",length=2.340}}
 L["impressive little toy youve got there"]={{path="chatsounds/autoadd/tenrys/impressive little toy youve got there.ogg",length=2.187}}
 L["in the ainis"]={{path="chatsounds/autoadd/tenrys/in the ainis.ogg",length=0.777}}
-L["in this part of the country"]={{path="chatsounds/autoadd/tenrys/in this part of the country.ogg",length=1.386}}
 L["is that a meme"]={{path="chatsounds/autoadd/tenrys/is that a meme.ogg",length=1.013}}
 L["its over"]={{path="chatsounds/autoadd/tenrys/its over.ogg",length=0.886}}
 L["its time to make"]={{path="chatsounds/autoadd/tenrys/its time to make.ogg",length=0.800}}
@@ -118,11 +107,9 @@ L["kono dio da"]={{path="chatsounds/autoadd/tenrys/kono dio da.ogg",length=0.968
 L["kup teraz"]={{path="chatsounds/autoadd/tenrys/kup teraz/1.ogg",length=1.126},{path="chatsounds/autoadd/tenrys/kup teraz/2.ogg",length=0.977}}
 L["lets dance"]={{path="chatsounds/autoadd/tenrys/lets dance.ogg",length=1.330}}
 L["lets go"]={{path="chatsounds/autoadd/tenrys/lets go.ogg",length=1.426}}
-L["localized entirely within your kitchen"]={{path="chatsounds/autoadd/tenrys/localized entirely within your kitchen.ogg",length=2.686}}
 L["look at his lips"]={{path="chatsounds/autoadd/tenrys/look at his lips.ogg",length=1.096}}
 L["look at this dude"]={{path="chatsounds/autoadd/tenrys/look at this dude.ogg",length=1.409}}
 L["look at you"]={{path="chatsounds/autoadd/tenrys/look at you.ogg",length=0.960}}
-L["may i see it"]={{path="chatsounds/autoadd/tenrys/may i see it.ogg",length=0.852}}
 L["maybe i misjudged you"]={{path="chatsounds/autoadd/tenrys/maybe i misjudged you.ogg",length=1.618}}
 L["maybe i was wrong about you"]={{path="chatsounds/autoadd/tenrys/maybe i was wrong about you.ogg",length=2.546}}
 L["memes"]={{path="chatsounds/autoadd/tenrys/memes.ogg",length=0.775}}
@@ -139,9 +126,8 @@ L["nice"]={{path="chatsounds/autoadd/tenrys/nice/1.ogg",length=0.376},{path="cha
 L["nice legs daisy dukes makes a man go"]={{path="chatsounds/autoadd/tenrys/nice legs daisy dukes makes a man go.ogg",length=2.618}}
 L["niiiice"]={{path="chatsounds/autoadd/tenrys/niiiice.ogg",length=2.090}}
 L["ninja combo"]={{path="chatsounds/autoadd/tenrys/ninja combo/1.ogg",length=1.071},{path="chatsounds/autoadd/tenrys/ninja combo/2.ogg",length=0.705}}
-L["no"]={{path="chatsounds/autoadd/tenrys/no/1.ogg",length=0.294},{path="chatsounds/autoadd/tenrys/no/2.ogg",length=0.886},{path="chatsounds/autoadd/tenrys/no/3.ogg",length=0.328}}
+L["no"]={{path="chatsounds/autoadd/tenrys/no/1.ogg",length=0.294},{path="chatsounds/autoadd/tenrys/no/2.ogg",length=0.886}}
 L["no i dont want that"]={{path="chatsounds/autoadd/tenrys/no i dont want that.ogg",length=3.035}}
-L["no mother its just the northern lights"]={{path="chatsounds/autoadd/tenrys/no mother its just the northern lights.ogg",length=1.951}}
 L["no no no no no"]={{path="chatsounds/autoadd/tenrys/no no no no no/1.ogg",length=2.648},{path="chatsounds/autoadd/tenrys/no no no no no/2.ogg",length=2.648}}
 L["no nobody can help you"]={{path="chatsounds/autoadd/tenrys/no nobody can help you.ogg",length=2.610}}
 L["non non nonnonnonnon non"]={{path="chatsounds/autoadd/tenrys/non non nonnonnonnon non.ogg",length=2.372}}
@@ -256,8 +242,6 @@ L["victory screech"]={{path="chatsounds/autoadd/tenrys/victory screech.ogg",leng
 L["wake up"]={{path="chatsounds/autoadd/tenrys/wake up.ogg",length=0.446}}
 L["we dont need them around to filter and foster their memes any longer"]={{path="chatsounds/autoadd/tenrys/we dont need them around to filter and foster their memes any longer.ogg",length=4.138}}
 L["welcome to susans cooking school"]={{path="chatsounds/autoadd/tenrys/welcome to susans cooking school.ogg",length=1.672}}
-L["well seymour i made it"]={{path="chatsounds/autoadd/tenrys/well seymour i made it.ogg",length=1.590}}
-L["well seymour you are an odd fellow but i must say"]={{path="chatsounds/autoadd/tenrys/well seymour you are an odd fellow but i must say.ogg",length=3.183}}
 L["were done here"]={{path="chatsounds/autoadd/tenrys/were done here.ogg",length=1.178}}
 L["what"]={{path="chatsounds/autoadd/tenrys/what/1.ogg",length=0.665},{path="chatsounds/autoadd/tenrys/what/2.ogg",length=0.359}}
 L["what a load of bullshit"]={{path="chatsounds/autoadd/tenrys/what a load of bullshit.ogg",length=1.628}}
@@ -282,7 +266,6 @@ L["yare yare da"]={{path="chatsounds/autoadd/tenrys/yare yare da/1.ogg",length=1
 L["yare yare daze"]={{path="chatsounds/autoadd/tenrys/yare yare daze/1.ogg",length=1.480},{path="chatsounds/autoadd/tenrys/yare yare daze/2.ogg",length=1.470},{path="chatsounds/autoadd/tenrys/yare yare daze/3.ogg",length=1.305},{path="chatsounds/autoadd/tenrys/yare yare daze/4.ogg",length=1.422},{path="chatsounds/autoadd/tenrys/yare yare daze/5.ogg",length=1.422}}
 L["yare yare daze kusogaki"]={{path="chatsounds/autoadd/tenrys/yare yare daze kusogaki.ogg",length=2.635}}
 L["yeah piece of cake yeah piece of cakekekekeke"]={{path="chatsounds/autoadd/tenrys/yeah piece of cake yeah piece of cakekekekeke.ogg",length=23.641}}
-L["yes"]={{path="chatsounds/autoadd/tenrys/yes/1.ogg",length=0.543},{path="chatsounds/autoadd/tenrys/yes/2.ogg",length=0.507},{path="chatsounds/autoadd/tenrys/yes/3.ogg",length=0.612}}
 L["yes i am"]={{path="chatsounds/autoadd/tenrys/yes i am.ogg",length=2.416}}
 L["yes yes yes yes yes"]={{path="chatsounds/autoadd/tenrys/yes yes yes yes yes.ogg",length=3.923}}
 L["you a rightie or a leftie"]={{path="chatsounds/autoadd/tenrys/you a rightie or a leftie.ogg",length=2.114}}

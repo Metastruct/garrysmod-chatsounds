@@ -18,7 +18,6 @@ L["pills here pppppppppppppppppills here"]={{path="chatsounds/autoadd/vin/pills 
 L["shut up"]={{path="chatsounds/autoadd/vin/shut up.ogg",length=0.643}}
 L["snans"]={{path="chatsounds/autoadd/vin/snans.ogg",length=0.696}}
 L["soup time"]={{path="chatsounds/autoadd/vin/soup time.ogg",length=6.010}}
-L["steamed hams"]={{path="chatsounds/autoadd/vin/steamed hams.ogg",length=1.202}}
 L["toadscream"]={{path="chatsounds/autoadd/vin/toadscream.ogg",length=1.779}}
 L["u wot"]={{path="chatsounds/autoadd/vin/u wot.ogg",length=0.844}}
 L["wait wait what"]={{path="chatsounds/autoadd/vin/wait wait what.ogg",length=1.242}}
