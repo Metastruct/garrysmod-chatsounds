@@ -97,6 +97,7 @@ L["say the line bart"]={{path="chatsounds/autoadd/randomshit/say the line bart.o
 L["scotland forever"]={{path="chatsounds/autoadd/randomshit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/randomshit/shrimpscream.ogg",length=5.165}}
 L["shut it you stupid woman"]={{path="chatsounds/autoadd/randomshit/shut it you stupid woman.ogg",length=2.145}}
+L["sir we are they"]={{path="chatsounds/autoadd/randomshit/sir we are they.ogg",length=1.614}}
 L["skibidi bop mmm bada"]={{path="chatsounds/autoadd/randomshit/skibidi bop mmm bada.ogg",length=1.851}}
 L["skibidi bop mmm bada loud"]={{path="chatsounds/autoadd/randomshit/skibidi bop mmm bada loud.ogg",length=4.103}}
 L["snooping as usual i see"]={{path="chatsounds/autoadd/randomshit/snooping as usual i see.ogg",length=3.067}}
@@ -108,6 +109,7 @@ L["spherical"]={{path="chatsounds/autoadd/randomshit/spherical.ogg",length=1.184
 L["stop stop hes already dead"]={{path="chatsounds/autoadd/randomshit/stop stop hes already dead.ogg",length=4.631}}
 L["super mario in real life"]={{path="chatsounds/autoadd/randomshit/super mario in real life.ogg",length=1.847}}
 L["tango down"]={{path="chatsounds/autoadd/randomshit/tango down.ogg",length=2.090}}
+L["thats what they want you to think"]={{path="chatsounds/autoadd/randomshit/thats what they want you to think.ogg",length=1.751}}
 L["the future is now old man"]={{path="chatsounds/autoadd/randomshit/the future is now old man.ogg",length=3.166}}
 L["the game was rigged from the start"]={{path="chatsounds/autoadd/randomshit/the game was rigged from the start.ogg",length=1.867}}
 L["theres no black in a rainbow"]={{path="chatsounds/autoadd/randomshit/theres no black in a rainbow.ogg",length=2.111}}
