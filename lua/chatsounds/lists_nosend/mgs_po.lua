@@ -1,0 +1,36 @@
+c.StartList("mgs_po")
+L["mgs alert"]={{path="chatsounds/autoadd/mgs_po/mgs alert.ogg",length=0.982}}
+L["mgs alertclear"]={{path="chatsounds/autoadd/mgs_po/mgs alertclear.ogg",length=0.934}}
+L["mgs codeccall"]={{path="chatsounds/autoadd/mgs_po/mgs codeccall.ogg",length=1.962}}
+L["mgs codecconfirm"]={{path="chatsounds/autoadd/mgs_po/mgs codecconfirm.ogg",length=0.135}}
+L["mgs codecselect"]={{path="chatsounds/autoadd/mgs_po/mgs codecselect.ogg",length=0.326}}
+L["mgs codecsignin"]={{path="chatsounds/autoadd/mgs_po/mgs codecsignin.ogg",length=0.561}}
+L["mgs codecsignout"]={{path="chatsounds/autoadd/mgs_po/mgs codecsignout.ogg",length=0.584}}
+L["mgs codecsound"]={{path="chatsounds/autoadd/mgs_po/mgs codecsound.ogg",length=0.300}}
+L["mgs codecswitchface"]={{path="chatsounds/autoadd/mgs_po/mgs codecswitchface.ogg",length=0.358}}
+L["mgs codectune"]={{path="chatsounds/autoadd/mgs_po/mgs codectune.ogg",length=0.042}}
+L["mgs gunclick1"]={{path="chatsounds/autoadd/mgs_po/mgs gunclick1.ogg",length=0.115}}
+L["mgs gunclick2"]={{path="chatsounds/autoadd/mgs_po/mgs gunclick2.ogg",length=0.159}}
+L["mgs gunshot"]={{path="chatsounds/autoadd/mgs_po/mgs gunshot.ogg",length=2.270}}
+L["mgs itemmove"]={{path="chatsounds/autoadd/mgs_po/mgs itemmove.ogg",length=0.036}}
+L["mgs items"]={{path="chatsounds/autoadd/mgs_po/mgs items.ogg",length=0.553}}
+L["mgs itemselect"]={{path="chatsounds/autoadd/mgs_po/mgs itemselect.ogg",length=0.252}}
+L["mgs itemuse"]={{path="chatsounds/autoadd/mgs_po/mgs itemuse.ogg",length=0.622}}
+L["mgs locked"]={{path="chatsounds/autoadd/mgs_po/mgs locked.ogg",length=0.402}}
+L["mgs lowhp"]={{path="chatsounds/autoadd/mgs_po/mgs lowhp.ogg",length=0.358}}
+L["mgs menuback"]={{path="chatsounds/autoadd/mgs_po/mgs menuback.ogg",length=0.151}}
+L["mgs menumove"]={{path="chatsounds/autoadd/mgs_po/mgs menumove.ogg",length=0.080}}
+L["mgs menuopen"]={{path="chatsounds/autoadd/mgs_po/mgs menuopen.ogg",length=0.366}}
+L["mgs menuselect"]={{path="chatsounds/autoadd/mgs_po/mgs menuselect.ogg",length=0.348}}
+L["mgs pickup"]={{path="chatsounds/autoadd/mgs_po/mgs pickup.ogg",length=0.692}}
+L["mgs pickupfull"]={{path="chatsounds/autoadd/mgs_po/mgs pickupfull.ogg",length=0.483}}
+L["mgs pickupnew"]={{path="chatsounds/autoadd/mgs_po/mgs pickupnew.ogg",length=0.580}}
+L["mgs ping"]={{path="chatsounds/autoadd/mgs_po/mgs ping.ogg",length=2.349}}
+L["mgs pong"]={{path="chatsounds/autoadd/mgs_po/mgs pong.ogg",length=0.350}}
+L["mgs ration"]={{path="chatsounds/autoadd/mgs_po/mgs ration.ogg",length=0.636}}
+L["mgs silence"]={{path="chatsounds/autoadd/mgs_po/mgs silence.ogg",length=0.225}}
+L["mgs stun"]={{path="chatsounds/autoadd/mgs_po/mgs stun.ogg",length=1.314}}
+L["mgs unlocked"]={{path="chatsounds/autoadd/mgs_po/mgs unlocked.ogg",length=1.260}}
+L["mgs warning"]={{path="chatsounds/autoadd/mgs_po/mgs warning.ogg",length=1.771}}
+L["mgs zoom"]={{path="chatsounds/autoadd/mgs_po/mgs zoom.ogg",length=1.306}}
+c.EndList()

@@ -1,0 +1,9 @@
+c.StartList("killing_floor")
+L["dosh"]={{path="chatsounds/autoadd/killing_floor/dosh/1.ogg",length=1.932},{path="chatsounds/autoadd/killing_floor/dosh/10.ogg",length=1.036},{path="chatsounds/autoadd/killing_floor/dosh/11.ogg",length=1.889},{path="chatsounds/autoadd/killing_floor/dosh/12.ogg",length=2.264},{path="chatsounds/autoadd/killing_floor/dosh/13.ogg",length=2.037},{path="chatsounds/autoadd/killing_floor/dosh/2.ogg",length=1.648},{path="chatsounds/autoadd/killing_floor/dosh/3.ogg",length=1.036},{path="chatsounds/autoadd/killing_floor/dosh/4.ogg",length=1.889},{path="chatsounds/autoadd/killing_floor/dosh/5.ogg",length=2.264},{path="chatsounds/autoadd/killing_floor/dosh/6.ogg",length=2.037},{path="chatsounds/autoadd/killing_floor/dosh/7.ogg",length=1.979},{path="chatsounds/autoadd/killing_floor/dosh/8.ogg",length=1.932},{path="chatsounds/autoadd/killing_floor/dosh/9.ogg",length=1.648}}
+L["i want drugs now"]={{path="chatsounds/autoadd/killing_floor/i want drugs now.ogg",length=1.797}}
+L["im hit bloody well do something"]={{path="chatsounds/autoadd/killing_floor/im hit bloody well do something.ogg",length=2.122}}
+L["jesus im bleedin help me"]={{path="chatsounds/autoadd/killing_floor/jesus im bleedin help me.ogg",length=1.700}}
+L["jesus im bleeding like a stuck pig"]={{path="chatsounds/autoadd/killing_floor/jesus im bleeding like a stuck pig.ogg",length=2.150}}
+L["patch me up for gods sake"]={{path="chatsounds/autoadd/killing_floor/patch me up for gods sake.ogg",length=1.673}}
+L["thats just nasty"]={{path="chatsounds/autoadd/killing_floor/thats just nasty.ogg",length=2.019}}
+c.EndList()
