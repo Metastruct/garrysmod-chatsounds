@@ -2,6 +2,7 @@ c.StartList("big_smoke")
 L["a number nine large"]={{path="chatsounds/autoadd/big_smoke/a number nine large.ogg",length=2.245}}
 L["a number seven"]={{path="chatsounds/autoadd/big_smoke/a number seven.ogg",length=1.778}}
 L["a number six with extra dip"]={{path="chatsounds/autoadd/big_smoke/a number six with extra dip.ogg",length=2.520}}
+L["all we had to do was follow the damn train cj"]={{path="chatsounds/autoadd/big_smoke/all we had to do was follow the damn train cj.ogg",length=3.524}}
 L["and a large soda"]={{path="chatsounds/autoadd/big_smoke/and a large soda.ogg",length=1.957}}
 L["big smoke"]={{path="chatsounds/autoadd/big_smoke/big smoke.ogg",length=0.777}}
 L["can i take your order please"]={{path="chatsounds/autoadd/big_smoke/can i take your order please.ogg",length=1.477}}

@@ -77,12 +77,14 @@ L["marioup"]={{path="chatsounds/autoadd/random_shit/marioup.ogg",length=1.776}}
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/random_shit/mom youre an idiot kappa.ogg",length=2.234}}
 L["mortis"]={{path="chatsounds/autoadd/random_shit/mortis.ogg",length=0.995}}
 L["musicbox"]={{path="chatsounds/autoadd/random_shit/musicbox.ogg",length=23.800}}
+L["my disappointment is immeasurable and my day is ruined"]={{path="chatsounds/autoadd/random_shit/my disappointment is immeasurable and my day is ruined.ogg",length=5.508}}
 L["my final message"]={{path="chatsounds/autoadd/random_shit/my final message.ogg",length=2.549}}
 L["my leg"]={{path="chatsounds/autoadd/random_shit/my leg.ogg",length=0.796}}
 L["my speed is gone"]={{path="chatsounds/autoadd/random_shit/my speed is gone.ogg",length=1.544}}
 L["nieee"]={{path="chatsounds/autoadd/random_shit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/random_shit/nightoffire.ogg",length=300.199}}
 L["no dont do it"]={{path="chatsounds/autoadd/random_shit/no dont do it.ogg",length=1.134}}
+L["no fuck off"]={{path="chatsounds/autoadd/random_shit/no fuck off.ogg",length=1.071}}
 L["no i dont wanna be bread"]={{path="chatsounds/autoadd/random_shit/no i dont wanna be bread.ogg",length=2.868}}
 L["no nooooooooo"]={{path="chatsounds/autoadd/random_shit/no nooooooooo.ogg",length=2.273}}
 L["now this is podracing"]={{path="chatsounds/autoadd/random_shit/now this is podracing.ogg",length=2.046}}
