@@ -3,7 +3,7 @@ L["ass rape is 1 point 68 dollars"]={{path="chatsounds/autoadd/noisepuppet_engli
 L["because im a dick"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/because im a dick.ogg",length=1.021}}
 L["do you want a nice pink dick"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/do you want a nice pink dick.ogg",length=1.249}}
 L["eat the coc"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/eat the coc.ogg",length=0.762}}
-L["good afternoon id like to pount 200 british asses"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/good afternoon id like to pount 200 british asses.ogg",length=2.727}}
+L["good afternoon id like to pound 200 british asses"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/good afternoon id like to pound 200 british asses.ogg",length=2.727}}
 L["good morning how much does new york cost"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/good morning how much does new york cost.ogg",length=2.270}}
 L["her name is jill we jerk together"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/her name is jill we jerk together.ogg",length=1.691}}
 L["heres my rectum"]={{path="chatsounds/autoadd/noisepuppet_englishlessons/heres my rectum.ogg",length=1.128}}
