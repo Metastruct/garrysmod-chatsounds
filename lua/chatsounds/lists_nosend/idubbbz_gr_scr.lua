@@ -4,6 +4,7 @@ L["alright well give it one more try no okay were done"]={{path="chatsounds/auto
 L["are you serious this is torture"]={{path="chatsounds/autoadd/idubbbz_gr_scr/are you serious this is torture.ogg",length=3.641}}
 L["at last i am surrounded by people who get me people who understand me and people who think like me"]={{path="chatsounds/autoadd/idubbbz_gr_scr/at last i am surrounded by people who get me people who understand me and people who think like me.ogg",length=8.002}}
 L["borrriiing"]={{path="chatsounds/autoadd/idubbbz_gr_scr/borrriiing.ogg",length=2.056}}
+L["damn girl you grew up"]={{path="chatsounds/autoadd/idubbbz_gr_scr/damn girl you grew up.ogg",length=4.843}}
 L["dont much like it"]={{path="chatsounds/autoadd/idubbbz_gr_scr/dont much like it.ogg",length=1.054}}
 L["fine you leave me no choice prepare to be epically owned noob"]={{path="chatsounds/autoadd/idubbbz_gr_scr/fine you leave me no choice prepare to be epically owned noob.ogg",length=6.503}}
 L["freeze punk this is an officer of the law and youre under arrest"]={{path="chatsounds/autoadd/idubbbz_gr_scr/freeze punk this is an officer of the law and youre under arrest.ogg",length=4.813}}
@@ -30,14 +31,20 @@ L["suspect is fleeing on foot suspect is acting extremely erratic"]={{path="chat
 L["thats quite big impressive"]={{path="chatsounds/autoadd/idubbbz_gr_scr/thats quite big impressive.ogg",length=7.419}}
 L["the point has been made youve seen all you need to see move on"]={{path="chatsounds/autoadd/idubbbz_gr_scr/the point has been made youve seen all you need to see move on.ogg",length=4.132}}
 L["this feels a lot like hell"]={{path="chatsounds/autoadd/idubbbz_gr_scr/this feels a lot like hell.ogg",length=2.181}}
+L["this is a damn ugly world we live in"]={{path="chatsounds/autoadd/idubbbz_gr_scr/this is a damn ugly world we live in.ogg",length=2.265}}
+L["this is fucking annoying"]={{path="chatsounds/autoadd/idubbbz_gr_scr/this is fucking annoying.ogg",length=2.271}}
 L["this is one of those moments where i thank my lucky stars that im white"]={{path="chatsounds/autoadd/idubbbz_gr_scr/this is one of those moments where i thank my lucky stars that im white.ogg",length=4.303}}
 L["this is really boring you really need to up the energy level im getting sick of this"]={{path="chatsounds/autoadd/idubbbz_gr_scr/this is really boring you really need to up the energy level im getting sick of this.ogg",length=5.458}}
+L["ugh got a fucking itchy asshole"]={{path="chatsounds/autoadd/idubbbz_gr_scr/ugh got a fucking itchy asshole.ogg",length=3.032}}
+L["what the fuck was that taser agh"]={{path="chatsounds/autoadd/idubbbz_gr_scr/what the fuck was that taser agh.ogg",length=3.882}}
 L["what the hell is this"]={{path="chatsounds/autoadd/idubbbz_gr_scr/what the hell is this.ogg",length=1.849}}
 L["what the hell whats going on with this new pringles flavor"]={{path="chatsounds/autoadd/idubbbz_gr_scr/what the hell whats going on with this new pringles flavor.ogg",length=4.935}}
 L["where is this place where am i i fuggin love this place"]={{path="chatsounds/autoadd/idubbbz_gr_scr/where is this place where am i i fuggin love this place.ogg",length=5.352}}
 L["whoa thats a genuinely shocking fact"]={{path="chatsounds/autoadd/idubbbz_gr_scr/whoa thats a genuinely shocking fact.ogg",length=3.087}}
 L["why is he here i dont know"]={{path="chatsounds/autoadd/idubbbz_gr_scr/why is he here i dont know.ogg",length=2.725}}
 L["would you look at that its this guy haha heheh yea right outside my window thats awesome"]={{path="chatsounds/autoadd/idubbbz_gr_scr/would you look at that its this guy haha heheh yea right outside my window thats awesome.ogg",length=10.916}}
+L["yeah uh big hoss looks like we got a 69 in progress im gonna need you to send me in some good ass backup"]={{path="chatsounds/autoadd/idubbbz_gr_scr/yeah uh big hoss looks like we got a 69 in progress im gonna need you to send me in some good ass backup.ogg",length=9.275}}
+L["yeah yeah bring in the good ass backup"]={{path="chatsounds/autoadd/idubbbz_gr_scr/yeah yeah bring in the good ass backup.ogg",length=4.100}}
 L["you a stupid ho you a you a stupid ho"]={{path="chatsounds/autoadd/idubbbz_gr_scr/you a stupid ho you a you a stupid ho.ogg",length=7.249}}
 L["youre making me very uncomfortable please leave please leave"]={{path="chatsounds/autoadd/idubbbz_gr_scr/youre making me very uncomfortable please leave please leave.ogg",length=3.958}}
 L["youre torturing me and everyone else watching"]={{path="chatsounds/autoadd/idubbbz_gr_scr/youre torturing me and everyone else watching.ogg",length=3.952}}
