@@ -1,4 +1,5 @@
 c.StartList("alex_jones")
+L["are you trying to have sex with me"]={{path="chatsounds/autoadd/alex_jones/are you trying to have sex with me.ogg",length=1.303}}
 L["corrupt them all"]={{path="chatsounds/autoadd/alex_jones/corrupt them all.ogg",length=1.190}}
 L["demons"]={{path="chatsounds/autoadd/alex_jones/demons.ogg",length=0.914}}
 L["destroy the child"]={{path="chatsounds/autoadd/alex_jones/destroy the child.ogg",length=1.399}}
