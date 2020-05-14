@@ -10,7 +10,7 @@ before_install:
         - rm -f invalid-soundfiles.txt
         - if [ -f chatsounds-preprocessor-cache ]; then >&2 echo -e "Precondition failed\x3A Preprocessor cache file exists in the repo."; false; fi
 
-before_script: docker run -t --rm potcfdk/chatsounds-preprocessor --version
+#before_script: docker run -t --rm potcfdk/chatsounds-preprocessor --version
 script: docker run -t --rm -v "$TRAVIS_BUILD_DIR:/chatsounds" --user $(id -u):$(id -g) potcfdk/chatsounds-preprocessor --full --non-interactive
 
 after_success:
