@@ -1,35 +1,17 @@
 language: generic
-dist: xenial
+dist: bionic
 
-addons:
-        apt:
-                packages:
-                        - libmp3lame-dev
-                        - yasm
+services:
+        - docker
 
 before_install:
-        # C++17 / libboost
-        - sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
-        - sudo add-apt-repository -y ppa:mhier/libboost-latest
-        - sudo apt-get update -qq
+        - docker pull potcfdk/chatsounds-preprocessor:latest
         # remove the invalid soundfile list (if any) and fail if the cache file exists (which it shouldn't)
         - rm -f invalid-soundfiles.txt
         - if [ -f chatsounds-preprocessor-cache ]; then >&2 echo -e "Precondition failed\x3A Preprocessor cache file exists in the repo."; false; fi
 
-install:
-        # C++17 / libboost
-        - sudo apt-get remove -qq libstdc++-5-dev # because /usr/lib/gcc/x86_64-linux-gnu/5/libstdc++fs.a causes undefined reference issues
-        - sudo apt-get install -qq g++-8 libboost1.68-dev
-        - sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-8 90
-        # build the preprocessor
-        - git clone https://github.com/PotcFdk/chatsounds-preprocessor chatsounds-preprocessor.repo --depth 1 --branch v1.3.0
-        - cd chatsounds-preprocessor.repo
-        - cd libs && ./setup-ffmpeg-native.sh
-        - cd .. && mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Release ..
-        - make && mv chatsounds-preprocessor ../../ && cd ../.. && rm -rf chatsounds-preprocessor.repo
-
-before_script: ./chatsounds-preprocessor --version
-script: ./chatsounds-preprocessor --full --non-interactive
+before_script: docker run -t --rm potcfdk/chatsounds-preprocessor --version
+script: docker run -t --rm -v "$TRAVIS_BUILD_DIR:/chatsounds" --user $(id -u):$(id -g) potcfdk/chatsounds-preprocessor --full --non-interactive
 
 after_success:
         - openssl aes-256-cbc -K $encrypted_1794e5363862_key -iv $encrypted_1794e5363862_iv -in .deploy_key.enc -out .deploy_key -d
