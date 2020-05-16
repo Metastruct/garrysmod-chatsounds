@@ -34,19 +34,24 @@ L["every minute of every day of my life"]={{path="chatsounds/autoadd/dr_phil/eve
 L["flip flops"]={{path="chatsounds/autoadd/dr_phil/flip flops.ogg",length=0.753}}
 L["for services unknown"]={{path="chatsounds/autoadd/dr_phil/for services unknown.ogg",length=1.641}}
 L["gee golly what"]={{path="chatsounds/autoadd/dr_phil/gee golly what.ogg",length=1.130}}
+L["gimme some help"]={{path="chatsounds/autoadd/dr_phil/gimme some help.ogg",length=0.832}}
 L["give me the two hundred bucks i dropped my phone in the water"]={{path="chatsounds/autoadd/dr_phil/give me the two hundred bucks i dropped my phone in the water.ogg",length=2.159}}
 L["give me two hundred dollars"]={{path="chatsounds/autoadd/dr_phil/give me two hundred dollars.ogg",length=1.282}}
 L["go kill yourself go sit in the middle of the road and let a car run over you"]={{path="chatsounds/autoadd/dr_phil/go kill yourself go sit in the middle of the road and let a car run over you.ogg",length=4.277}}
 L["have you looked at your face in your mugshots"]={{path="chatsounds/autoadd/dr_phil/have you looked at your face in your mugshots.ogg",length=2.480}}
 L["he doesnt understand how much i love him"]={{path="chatsounds/autoadd/dr_phil/he doesnt understand how much i love him.ogg",length=3.123}}
 L["hemorrhoids"]={{path="chatsounds/autoadd/dr_phil/hemorrhoids.ogg",length=0.870}}
+L["heres one"]={{path="chatsounds/autoadd/dr_phil/heres one.ogg",length=0.871}}
 L["honest to god"]={{path="chatsounds/autoadd/dr_phil/honest to god.ogg",length=1.092}}
 L["how bout this"]={{path="chatsounds/autoadd/dr_phil/how bout this.ogg",length=0.723}}
 L["how did i find two such gullible women"]={{path="chatsounds/autoadd/dr_phil/how did i find two such gullible women.ogg",length=2.800}}
 L["how much do you know about alternative explanations"]={{path="chatsounds/autoadd/dr_phil/how much do you know about alternative explanations.ogg",length=4.957}}
+L["i am a simp for dr phil"]={{path="chatsounds/autoadd/dr_phil/i am a simp for dr phil.ogg",length=2.091}}
 L["i am not a fool"]={{path="chatsounds/autoadd/dr_phil/i am not a fool.ogg",length=4.003}}
 L["i cant begin to tell you how counterproductive this is"]={{path="chatsounds/autoadd/dr_phil/i cant begin to tell you how counterproductive this is.ogg",length=5.086}}
 L["i dont wanna waste any time"]={{path="chatsounds/autoadd/dr_phil/i dont wanna waste any time.ogg",length=1.519}}
+L["i have no idea"]={{path="chatsounds/autoadd/dr_phil/i have no idea.ogg",length=1.163}}
+L["i need help"]={{path="chatsounds/autoadd/dr_phil/i need help.ogg",length=0.929}}
 L["i think im being punked"]={{path="chatsounds/autoadd/dr_phil/i think im being punked.ogg",length=1.447}}
 L["i think youre in danger"]={{path="chatsounds/autoadd/dr_phil/i think youre in danger.ogg",length=1.608}}
 L["i want the money"]={{path="chatsounds/autoadd/dr_phil/i want the money.ogg",length=0.920}}
@@ -57,6 +62,8 @@ L["ill take this bait"]={{path="chatsounds/autoadd/dr_phil/ill take this bait.og
 L["im gonna shoot you both in the head"]={{path="chatsounds/autoadd/dr_phil/im gonna shoot you both in the head.ogg",length=2.020}}
 L["implosion of the rectum from the inside out"]={{path="chatsounds/autoadd/dr_phil/implosion of the rectum from the inside out.ogg",length=3.294}}
 L["it looks like bullying because it is"]={{path="chatsounds/autoadd/dr_phil/it looks like bullying because it is.ogg",length=1.784}}
+L["ive been finding things that i have no idea what the hell they mean"]={{path="chatsounds/autoadd/dr_phil/ive been finding things that i have no idea what the hell they mean.ogg",length=4.016}}
+L["juh i sh id i have no idea"]={{path="chatsounds/autoadd/dr_phil/juh i sh id i have no idea.ogg",length=2.422}}
 L["just keep doing this until you die"]={{path="chatsounds/autoadd/dr_phil/just keep doing this until you die.ogg",length=1.842}}
 L["just trying to bully her intimidate her into doing what you want her to do"]={{path="chatsounds/autoadd/dr_phil/just trying to bully her intimidate her into doing what you want her to do.ogg",length=3.059}}
 L["looking for something fun casual and mutually beneficial"]={{path="chatsounds/autoadd/dr_phil/looking for something fun casual and mutually beneficial.ogg",length=3.639}}
@@ -68,12 +75,16 @@ L["oh here it comes"]={{path="chatsounds/autoadd/dr_phil/oh here it comes.ogg",l
 L["oh my god youre gonna start dismantling my body here"]={{path="chatsounds/autoadd/dr_phil/oh my god youre gonna start dismantling my body here.ogg",length=3.073}}
 L["oh no forgot"]={{path="chatsounds/autoadd/dr_phil/oh no forgot.ogg",length=1.490}}
 L["okay"]={{path="chatsounds/autoadd/dr_phil/okay.ogg",length=0.498}}
+L["okay here we go again"]={{path="chatsounds/autoadd/dr_phil/okay here we go again.ogg",length=1.603}}
 L["one bald guy to another"]={{path="chatsounds/autoadd/dr_phil/one bald guy to another.ogg",length=1.548}}
+L["please"]={{path="chatsounds/autoadd/dr_phil/please.ogg",length=0.666}}
 L["right"]={{path="chatsounds/autoadd/dr_phil/right.ogg",length=0.385}}
+L["s i m p"]={{path="chatsounds/autoadd/dr_phil/s i m p.ogg",length=1.062}}
 L["sending money to college girls"]={{path="chatsounds/autoadd/dr_phil/sending money to college girls.ogg",length=1.795}}
 L["seriously"]={{path="chatsounds/autoadd/dr_phil/seriously/1.ogg",length=1.571},{path="chatsounds/autoadd/dr_phil/seriously/2.ogg",length=1.494}}
 L["sexual abuse"]={{path="chatsounds/autoadd/dr_phil/sexual abuse.ogg",length=0.972}}
 L["shut the hell up bitch"]={{path="chatsounds/autoadd/dr_phil/shut the hell up bitch.ogg",length=1.992}}
+L["simp"]={{path="chatsounds/autoadd/dr_phil/simp.ogg",length=0.751}}
 L["sixty six thousand dollars"]={{path="chatsounds/autoadd/dr_phil/sixty six thousand dollars.ogg",length=1.628}}
 L["so who do you get along with"]={{path="chatsounds/autoadd/dr_phil/so who do you get along with.ogg",length=2.178}}
 L["spoiled bitches"]={{path="chatsounds/autoadd/dr_phil/spoiled bitches.ogg",length=1.328}}
@@ -87,7 +98,10 @@ L["thats how it is in the code"]={{path="chatsounds/autoadd/dr_phil/thats how it
 L["thats the good news"]={{path="chatsounds/autoadd/dr_phil/thats the good news.ogg",length=1.037}}
 L["the color of someones hair"]={{path="chatsounds/autoadd/dr_phil/the color of someones hair.ogg",length=2.210}}
 L["theyre laughing"]={{path="chatsounds/autoadd/dr_phil/theyre laughing.ogg",length=1.183}}
+L["this could be something really dirty or something really stupid i dont know"]={{path="chatsounds/autoadd/dr_phil/this could be something really dirty or something really stupid i dont know.ogg",length=5.345}}
+L["translation guide"]={{path="chatsounds/autoadd/dr_phil/translation guide.ogg",length=1.247}}
 L["uh ill raise enough hell til you give in and give it to me"]={{path="chatsounds/autoadd/dr_phil/uh ill raise enough hell til you give in and give it to me.ogg",length=3.377}}
+L["ummm"]={{path="chatsounds/autoadd/dr_phil/ummm.ogg",length=0.883}}
 L["vaginal violation"]={{path="chatsounds/autoadd/dr_phil/vaginal violation.ogg",length=1.562}}
 L["vaginitis"]={{path="chatsounds/autoadd/dr_phil/vaginitis.ogg",length=1.034}}
 L["ve hi cle"]={{path="chatsounds/autoadd/dr_phil/ve hi cle.ogg",length=0.693}}
