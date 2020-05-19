@@ -50,6 +50,7 @@ L["seinfeld"]={{path="chatsounds/autoadd/music/seinfeld.ogg",length=51.312}}
 L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardbass basy.ogg",length=1.651}}
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
 L["tetrisloop"]={{path="chatsounds/autoadd/music/tetrisloop.ogg",length=25.592}}
+L["the man behind the slaughter"]={{path="chatsounds/autoadd/music/the man behind the slaughter.ogg",length=10.958}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
 L["thuglife"]={{path="chatsounds/autoadd/music/thuglife.ogg",length=9.540}}
 L["tief im westen"]={{path="chatsounds/autoadd/music/tief im westen/tief im westen 1.ogg",length=1.707},{path="chatsounds/autoadd/music/tief im westen/tief im westen 2.ogg",length=3.065},{path="chatsounds/autoadd/music/tief im westen/tief im westen 3.ogg",length=2.961},{path="chatsounds/autoadd/music/tief im westen/tief im westen 4.ogg",length=1.788},{path="chatsounds/autoadd/music/tief im westen/tief im westen 5.ogg",length=3.111}}
