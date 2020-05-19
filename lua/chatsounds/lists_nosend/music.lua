@@ -1,5 +1,6 @@
 c.StartList("music")
 L["90s music"]={{path="chatsounds/autoadd/music/90s music.ogg",length=19.149}}
+L["a la menthe"]={{path="chatsounds/autoadd/music/a la menthe.ogg",length=9.699}}
 L["ab in den sonnenschein"]={{path="chatsounds/autoadd/music/ab in den sonnenschein.ogg",length=2.183}}
 L["ab in den urlaub"]={{path="chatsounds/autoadd/music/ab in den urlaub.ogg",length=2.265}}
 L["ace of base"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
