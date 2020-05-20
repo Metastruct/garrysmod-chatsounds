@@ -15,6 +15,8 @@ L["dude put that thing away there are like children here"]={{path="chatsounds/au
 L["everyone died"]={{path="chatsounds/autoadd/spongebob/everyone died.ogg",length=1.518}}
 L["finally"]={{path="chatsounds/autoadd/spongebob/finally.ogg",length=1.092}}
 L["finland"]={{path="chatsounds/autoadd/spongebob/finland.ogg",length=1.707}}
+L["firmly grasp it"]={{path="chatsounds/autoadd/spongebob/firmly grasp it/1.ogg",length=2.211},{path="chatsounds/autoadd/spongebob/firmly grasp it/2.ogg",length=1.794}}
+L["firmly grasp it in your hand"]={{path="chatsounds/autoadd/spongebob/firmly grasp it in your hand.ogg",length=2.131}}
 L["future"]={{path="chatsounds/autoadd/spongebob/future/1.ogg",length=2.572},{path="chatsounds/autoadd/spongebob/future/2.ogg",length=2.642},{path="chatsounds/autoadd/spongebob/future/3.ogg",length=2.657}}
 L["genius"]={{path="chatsounds/autoadd/spongebob/genius.ogg",length=0.709}}
 L["gimme that hat"]={{path="chatsounds/autoadd/spongebob/gimme that hat.ogg",length=1.301}}
@@ -70,6 +72,7 @@ L["squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward"]={{path="chatsounds/autoadd/spo
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.862}}
 L["that didnt help at all"]={{path="chatsounds/autoadd/spongebob/that didnt help at all.ogg",length=1.661}}
 L["that makes sense to me"]={{path="chatsounds/autoadd/spongebob/that makes sense to me.ogg",length=1.456}}
+L["that oughta do it"]={{path="chatsounds/autoadd/spongebob/that oughta do it.ogg",length=0.918}}
 L["that was great squidward"]={{path="chatsounds/autoadd/spongebob/that was great squidward.ogg",length=1.890}}
 L["the end"]={{path="chatsounds/autoadd/spongebob/the end.ogg",length=0.748}}
 L["the inner machinations of my mind are an enigma"]={{path="chatsounds/autoadd/spongebob/the inner machinations of my mind are an enigma.ogg",length=4.288}}
