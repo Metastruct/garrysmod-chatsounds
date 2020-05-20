@@ -80,7 +80,6 @@ L["mortis"]={{path="chatsounds/autoadd/random_shit/mortis.ogg",length=0.995}}
 L["musicbox"]={{path="chatsounds/autoadd/random_shit/musicbox.ogg",length=23.800}}
 L["my disappointment is immeasurable and my day is ruined"]={{path="chatsounds/autoadd/random_shit/my disappointment is immeasurable and my day is ruined.ogg",length=5.508}}
 L["my final message"]={{path="chatsounds/autoadd/random_shit/my final message.ogg",length=2.549}}
-L["my leg"]={{path="chatsounds/autoadd/random_shit/my leg.ogg",length=0.796}}
 L["my speed is gone"]={{path="chatsounds/autoadd/random_shit/my speed is gone.ogg",length=1.544}}
 L["nieee"]={{path="chatsounds/autoadd/random_shit/nieee.ogg",length=1.745}}
 L["nightoffire"]={{path="chatsounds/autoadd/random_shit/nightoffire.ogg",length=300.199}}
@@ -95,7 +94,6 @@ L["penis music loop"]={{path="chatsounds/autoadd/random_shit/penis music loop.og
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/random_shit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}
 L["quieres"]={{path="chatsounds/autoadd/random_shit/quieres.ogg",length=1.751}}
 L["rdmrdmrdm"]={{path="chatsounds/autoadd/random_shit/rdmrdmrdm.ogg",length=2.628}}
-L["rev up those fryers because im sure hungry for one"]={{path="chatsounds/autoadd/random_shit/rev up those fryers because im sure hungry for one.ogg",length=3.085}}
 L["say the line bart"]={{path="chatsounds/autoadd/random_shit/say the line bart.ogg",length=2.297}}
 L["scotland forever"]={{path="chatsounds/autoadd/random_shit/scotland forever.ogg",length=4.151}}
 L["shrimpscream"]={{path="chatsounds/autoadd/random_shit/shrimpscream.ogg",length=5.165}}
