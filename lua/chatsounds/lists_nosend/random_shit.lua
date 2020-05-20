@@ -69,6 +69,7 @@ L["ive got places to be"]={{path="chatsounds/autoadd/random_shit/ive got places 
 L["kappa"]={{path="chatsounds/autoadd/random_shit/kappa/kappa1.ogg",length=0.881},{path="chatsounds/autoadd/random_shit/kappa/kappa2.ogg",length=0.770}}
 L["kurwa"]={{path="chatsounds/autoadd/random_shit/kurwa.ogg",length=1.247}}
 L["lemme put it in a language you can understand"]={{path="chatsounds/autoadd/random_shit/lemme put it in a language you can understand.ogg",length=2.421}}
+L["lets fucking gooooooooo"]={{path="chatsounds/autoadd/random_shit/lets fucking gooooooooo.ogg",length=3.992}}
 L["ligma balls"]={{path="chatsounds/autoadd/random_shit/ligma balls.ogg",length=1.468}}
 L["like thats ever gonna happen"]={{path="chatsounds/autoadd/random_shit/like thats ever gonna happen.ogg",length=1.996}}
 L["lone digger loop"]={{path="chatsounds/autoadd/random_shit/lone digger loop.ogg",length=46.452}}
