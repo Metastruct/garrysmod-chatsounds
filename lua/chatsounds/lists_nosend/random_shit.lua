@@ -129,7 +129,6 @@ L["what are frogs"]={{path="chatsounds/autoadd/random_shit/what are frogs.ogg",l
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/random_shit/what in the name of all thats right are you talking about human.ogg",length=5.700}}
 L["what the hell is this"]={{path="chatsounds/autoadd/random_shit/what the hell is this.ogg",length=1.446}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/random_shit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585}}
-L["who are you people"]={{path="chatsounds/autoadd/random_shit/who are you people.ogg",length=1.793}}
 L["who the hell is steve jobs"]={{path="chatsounds/autoadd/random_shit/who the hell is steve jobs.ogg",length=1.803}}
 L["why does somebody not know how to flush the toilet after theyve had a shit"]={{path="chatsounds/autoadd/random_shit/why does somebody not know how to flush the toilet after theyve had a shit.ogg",length=3.887}}
 L["wibbly wobbly"]={{path="chatsounds/autoadd/random_shit/wibbly wobbly.ogg",length=0.937}}
