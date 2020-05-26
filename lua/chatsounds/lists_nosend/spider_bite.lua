@@ -19,5 +19,5 @@ L["that spider bit me where the good lord split me"]={{path="chatsounds/autoadd/
 L["that spider bite cha"]={{path="chatsounds/autoadd/spider_bite/that spider bite cha.ogg",length=1.601}}
 L["that spider bite hurt"]={{path="chatsounds/autoadd/spider_bite/that spider bite hurt.ogg",length=1.844}}
 L["what happen"]={{path="chatsounds/autoadd/spider_bite/what happen.ogg",length=0.833}}
-L["you definately dont want that spider to bit you where the good lord split you"]={{path="chatsounds/autoadd/spider_bite/you definately dont want that spider to bit you where the good lord split you.ogg",length=3.527}}
+L["you definitely dont want that spider to bit you where the good lord split you"]={{path="chatsounds/autoadd/spider_bite/you definitely dont want that spider to bit you where the good lord split you.ogg",length=3.527}}
 c.EndList()
