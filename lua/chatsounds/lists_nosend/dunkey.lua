@@ -9,5 +9,6 @@ L["for the gaaaaames"]={{path="chatsounds/autoadd/dunkey/for the gaaaaames.ogg",
 L["lets just say i was sherlock holmes for halloween for christmas"]={{path="chatsounds/autoadd/dunkey/lets just say i was sherlock holmes for halloween for christmas.ogg",length=4.899}}
 L["oh not even close baby woo"]={{path="chatsounds/autoadd/dunkey/oh not even close baby woo.ogg",length=6.858}}
 L["stfu8"]={{path="chatsounds/autoadd/dunkey/stfu8.ogg",length=2.732}}
+L["this one actually works"]={{path="chatsounds/autoadd/dunkey/this one actually works.ogg",length=1.527}}
 L["what is happening"]={{path="chatsounds/autoadd/dunkey/what is happening.ogg",length=1.572}}
 c.EndList()
