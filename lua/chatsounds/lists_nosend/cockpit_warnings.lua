@@ -42,6 +42,7 @@ L["plus 100"]={{path="chatsounds/autoadd/cockpit_warnings/plus 100.ogg",length=0
 L["pull up"]={{path="chatsounds/autoadd/cockpit_warnings/pull up.ogg",length=0.777}}
 L["pull up alarm"]={{path="chatsounds/autoadd/cockpit_warnings/pull up alarm.ogg",length=0.754}}
 L["radio altimeter"]={{path="chatsounds/autoadd/cockpit_warnings/radio altimeter.ogg",length=1.114}}
+L["retard retard"]={{path="chatsounds/autoadd/cockpit_warnings/retard retard.ogg",length=1.404}}
 L["sink rate"]={{path="chatsounds/autoadd/cockpit_warnings/sink rate.ogg",length=0.705}}
 L["stall alarm"]={{path="chatsounds/autoadd/cockpit_warnings/stall alarm/1.ogg",length=1.054},{path="chatsounds/autoadd/cockpit_warnings/stall alarm/2.ogg",length=0.797}}
 L["stall stall"]={{path="chatsounds/autoadd/cockpit_warnings/stall stall.ogg",length=1.202}}
