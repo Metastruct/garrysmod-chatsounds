@@ -15,6 +15,7 @@ L["megaddeth"]={{path="chatsounds/autoadd/impulse/megaddeth.ogg",length=6.167}}
 L["mom i want a sandwich"]={{path="chatsounds/autoadd/impulse/mom i want a sandwich.ogg",length=2.074}}
 L["my human instinct is telling me to just ruin it and like burn it down"]={{path="chatsounds/autoadd/impulse/my human instinct is telling me to just ruin it and like burn it down.ogg",length=10.207}}
 L["nomble"]={{path="chatsounds/autoadd/impulse/nomble.ogg",length=7.604}}
+L["oww my spine"]={{path="chatsounds/autoadd/impulse/oww my spine.ogg",length=1.949}}
 L["pixies"]={{path="chatsounds/autoadd/impulse/pixies.ogg",length=8.000}}
 L["sandman"]={{path="chatsounds/autoadd/impulse/sandman.ogg",length=15.482}}
 L["sounds like im in the amazon rainforest"]={{path="chatsounds/autoadd/impulse/sounds like im in the amazon rainforest.ogg",length=2.580}}
