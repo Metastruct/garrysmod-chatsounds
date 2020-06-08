@@ -19,7 +19,7 @@ L["i see"]={{path="chatsounds/autoadd/steamed_hams/i see.ogg",length=0.737}}
 L["i thought we were having steamed clams"]={{path="chatsounds/autoadd/steamed_hams/i thought we were having steamed clams.ogg",length=2.621}}
 L["in this part of the country"]={{path="chatsounds/autoadd/steamed_hams/in this part of the country.ogg",length=1.384}}
 L["its a regional dialect"]={{path="chatsounds/autoadd/steamed_hams/its a regional dialect.ogg",length=1.292}}
-L["localized entirely in your kitchen"]={{path="chatsounds/autoadd/steamed_hams/localized entirely in your kitchen.ogg",length=2.682}}
+L["localized entirely within your kitchen"]={{path="chatsounds/autoadd/steamed_hams/localized entirely within your kitchen.ogg",length=2.682}}
 L["may i see it"]={{path="chatsounds/autoadd/steamed_hams/may i see it.ogg",length=0.896}}
 L["mmmmmm steamed clams"]={{path="chatsounds/autoadd/steamed_hams/mmmmmm steamed clams.ogg",length=1.902}}
 L["myeah"]={{path="chatsounds/autoadd/steamed_hams/myeah.ogg",length=0.655}}

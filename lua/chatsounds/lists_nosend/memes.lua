@@ -11,6 +11,7 @@ L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear c
 L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
+L["i am here today dealing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today dealing the worlds loudest scream.ogg",length=2.774}}
 L["im going to punch your face in the face"]={{path="chatsounds/autoadd/memes/im going to punch your face in the face.ogg",length=7.728}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
@@ -24,6 +25,8 @@ L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these 
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["scooby noises"]={{path="chatsounds/autoadd/memes/scooby noises.ogg",length=13.485}}
+L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.394}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/memes/vaporwave loop.ogg",length=21.902}}
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
+L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
 c.EndList()
