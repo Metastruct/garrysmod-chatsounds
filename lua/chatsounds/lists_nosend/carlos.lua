@@ -1,4 +1,5 @@
 c.StartList("carlos")
+L["carlos"]={{path="chatsounds/autoadd/carlos/carlos.ogg",length=0.609}}
 L["i am a banana"]={{path="chatsounds/autoadd/carlos/i am a banana.ogg",length=2.488}}
 L["i am the queen of france"]={{path="chatsounds/autoadd/carlos/i am the queen of france.ogg",length=3.531}}
 L["i live in a giant bucket"]={{path="chatsounds/autoadd/carlos/i live in a giant bucket.ogg",length=2.247}}
