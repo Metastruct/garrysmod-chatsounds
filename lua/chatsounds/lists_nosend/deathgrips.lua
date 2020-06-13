@@ -23,7 +23,6 @@ L["gyah"]={{path="chatsounds/autoadd/deathgrips/gyah.ogg",length=0.427}}
 L["killinit"]={{path="chatsounds/autoadd/deathgrips/killinit.ogg",length=0.628}}
 L["mdma"]={{path="chatsounds/autoadd/deathgrips/mdma.ogg",length=1.364}}
 L["meanwhile"]={{path="chatsounds/autoadd/deathgrips/meanwhile.ogg",length=1.210}}
-L["music"]={{path="chatsounds/autoadd/deathgrips/music.ogg",length=0.404}}
 L["nah"]={{path="chatsounds/autoadd/deathgrips/nah.ogg",length=0.396}}
 L["nes"]={{path="chatsounds/autoadd/deathgrips/nes.ogg",length=0.863}}
 L["now"]={{path="chatsounds/autoadd/deathgrips/now.ogg",length=1.222}}
