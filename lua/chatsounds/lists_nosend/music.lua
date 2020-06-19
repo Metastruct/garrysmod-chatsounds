@@ -45,6 +45,8 @@ L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmort
 L["pornhub"]={{path="chatsounds/autoadd/music/pornhub.ogg",length=3.056}}
 L["prism"]={{path="chatsounds/autoadd/music/prism.ogg",length=0.750}}
 L["prism is a dancer"]={{path="chatsounds/autoadd/music/prism is a dancer/prism is a dancer 1.ogg",length=1.682},{path="chatsounds/autoadd/music/prism is a dancer/prism is a dancer 2.ogg",length=2.118}}
+L["putin walking"]={{path="chatsounds/autoadd/music/putin walking.ogg",length=14.302}}
+L["putin walking loop"]={{path="chatsounds/autoadd/music/putin walking loop.ogg",length=9.502}}
 L["raymond"]={{path="chatsounds/autoadd/music/raymond.ogg",length=41.723}}
 L["raz raz raz eto khardbass"]={{path="chatsounds/autoadd/music/raz raz raz eto khardbass.ogg",length=1.667}}
 L["seinfeld"]={{path="chatsounds/autoadd/music/seinfeld.ogg",length=51.312}}
