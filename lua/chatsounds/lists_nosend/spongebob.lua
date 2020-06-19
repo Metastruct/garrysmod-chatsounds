@@ -2,6 +2,7 @@ c.StartList("spongebob")
 L["are you feeling it now mr krabs"]={{path="chatsounds/autoadd/spongebob/are you feeling it now mr krabs.ogg",length=2.136}}
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/spongebob/are you gonna hand it over or not.ogg",length=2.686}}
 L["art thou feeling it now mr krabs"]={{path="chatsounds/autoadd/spongebob/art thou feeling it now mr krabs.ogg",length=2.904}}
+L["big meaty claws"]={{path="chatsounds/autoadd/spongebob/big meaty claws.ogg",length=3.290}}
 L["bubble bass order"]={{path="chatsounds/autoadd/spongebob/bubble bass order.ogg",length=11.300}}
 L["but how do you get inside"]={{path="chatsounds/autoadd/spongebob/but how do you get inside.ogg",length=1.435}}
 L["can you not stand so close youre making me claustrophobic"]={{path="chatsounds/autoadd/spongebob/can you not stand so close youre making me claustrophobic.ogg",length=2.597}}
@@ -13,6 +14,7 @@ L["deuueaugh"]={{path="chatsounds/autoadd/spongebob/deuueaugh/deuueaugh.ogg",len
 L["deuuueaughhhhhhh"]={{path="chatsounds/autoadd/spongebob/deuuueaughhhhhhh.ogg",length=3.641}}
 L["did you look under the tray"]={{path="chatsounds/autoadd/spongebob/did you look under the tray.ogg",length=1.231}}
 L["did you say chocolate"]={{path="chatsounds/autoadd/spongebob/did you say chocolate.ogg",length=2.731}}
+L["does this look dangerous"]={{path="chatsounds/autoadd/spongebob/does this look dangerous.ogg",length=3.109}}
 L["dont hold back"]={{path="chatsounds/autoadd/spongebob/dont hold back.ogg",length=1.143}}
 L["dont worry buddy youre doing fine"]={{path="chatsounds/autoadd/spongebob/dont worry buddy youre doing fine.ogg",length=3.121}}
 L["dont you backsass me"]={{path="chatsounds/autoadd/spongebob/dont you backsass me.ogg",length=1.461}}
@@ -41,6 +43,9 @@ L["hurry up what do you think im paying you for"]={{path="chatsounds/autoadd/spo
 L["i cant see my forehead"]={{path="chatsounds/autoadd/spongebob/i cant see my forehead.ogg",length=2.143}}
 L["i dont get it"]={{path="chatsounds/autoadd/spongebob/i dont get it.ogg",length=0.653}}
 L["i gotcha now spongebob"]={{path="chatsounds/autoadd/spongebob/i gotcha now spongebob.ogg",length=2.126}}
+L["i hate you more"]={{path="chatsounds/autoadd/spongebob/i hate you more.ogg",length=1.200}}
+L["i hate you no matter what"]={{path="chatsounds/autoadd/spongebob/i hate you no matter what.ogg",length=1.736}}
+L["i hate you patrick"]={{path="chatsounds/autoadd/spongebob/i hate you patrick.ogg",length=1.412}}
 L["i love you"]={{path="chatsounds/autoadd/spongebob/i love you.ogg",length=1.498}}
 L["i said give it to me"]={{path="chatsounds/autoadd/spongebob/i said give it to me.ogg",length=1.903}}
 L["i sense no danger here"]={{path="chatsounds/autoadd/spongebob/i sense no danger here.ogg",length=1.959}}
@@ -62,8 +67,10 @@ L["mmm try again"]={{path="chatsounds/autoadd/spongebob/mmm try again.ogg",lengt
 L["moar"]={{path="chatsounds/autoadd/spongebob/moar.ogg",length=0.364}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/spongebob/mrkrabsviolin.ogg",length=36.785}}
 L["my leg"]={{path="chatsounds/autoadd/spongebob/my leg.ogg",length=0.796}}
+L["my name is patback"]={{path="chatsounds/autoadd/spongebob/my name is patback.ogg",length=3.436}}
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/spongebob/nah i dont really feel like it.ogg",length=2.319}}
 L["niiiiiick naaaaaaack the pattys baaaaaack"]={{path="chatsounds/autoadd/spongebob/niiiiiick naaaaaaack the pattys baaaaaack.ogg",length=3.199}}
+L["no danger here"]={{path="chatsounds/autoadd/spongebob/no danger here.ogg",length=1.452}}
 L["no it doesnt"]={{path="chatsounds/autoadd/spongebob/no it doesnt.ogg",length=0.690}}
 L["no patrick mayonnaise is not an instrument"]={{path="chatsounds/autoadd/spongebob/no patrick mayonnaise is not an instrument.ogg",length=2.765}}
 L["no please dont hurt me"]={{path="chatsounds/autoadd/spongebob/no please dont hurt me.ogg",length=2.333}}
@@ -81,16 +88,21 @@ L["once there was an ugly barnacle he was so ugly that everyone died"]={{path="c
 L["one more crack like that and youre outta here"]={{path="chatsounds/autoadd/spongebob/one more crack like that and youre outta here.ogg",length=2.568}}
 L["ooh thats great"]={{path="chatsounds/autoadd/spongebob/ooh thats great.ogg",length=1.050}}
 L["overtime"]={{path="chatsounds/autoadd/spongebob/overtime.ogg",length=1.361}}
+L["patback"]={{path="chatsounds/autoadd/spongebob/patback.ogg",length=1.653}}
+L["patrick can you shut the fuck up"]={{path="chatsounds/autoadd/spongebob/patrick can you shut the fuck up.ogg",length=2.187}}
 L["patrick cough"]={{path="chatsounds/autoadd/spongebob/patrick cough.ogg",length=6.567}}
+L["patrick dont"]={{path="chatsounds/autoadd/spongebob/patrick dont.ogg",length=2.293}}
 L["patrick dont do that"]={{path="chatsounds/autoadd/spongebob/patrick dont do that.ogg",length=1.613}}
 L["patrick noises"]={{path="chatsounds/autoadd/spongebob/patrick noises.ogg",length=1.486}}
 L["patrick scream"]={{path="chatsounds/autoadd/spongebob/patrick scream.ogg",length=3.770}}
+L["patrick thats a gun"]={{path="chatsounds/autoadd/spongebob/patrick thats a gun.ogg",length=1.056}}
 L["patrick thats a pickle"]={{path="chatsounds/autoadd/spongebob/patrick thats a pickle.ogg",length=1.305}}
 L["patrickhatrackfight"]={{path="chatsounds/autoadd/spongebob/patrickhatrackfight.ogg",length=2.007}}
 L["rev up those fryers because im sure hungry for one"]={{path="chatsounds/autoadd/spongebob/rev up those fryers because im sure hungry for one.ogg",length=3.085}}
 L["sb chocolate"]={{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate1.ogg",length=1.638},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate2.ogg",length=1.390},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate3.ogg",length=1.452},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate4.ogg",length=2.284},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate5.ogg",length=2.358},{path="chatsounds/autoadd/spongebob/sb chocolate/chocolate6.ogg",length=2.433}}
 L["sb laugh"]={{path="chatsounds/autoadd/spongebob/sb laugh.ogg",length=2.160}}
 L["six and a half"]={{path="chatsounds/autoadd/spongebob/six and a half.ogg",length=1.529}}
+L["spongebob let me ask you something"]={{path="chatsounds/autoadd/spongebob/spongebob let me ask you something.ogg",length=2.276}}
 L["spongebob wheres my order"]={{path="chatsounds/autoadd/spongebob/spongebob wheres my order.ogg",length=1.719}}
 L["spongerape"]={{path="chatsounds/autoadd/spongebob/spongerape.ogg",length=8.124}}
 L["squidward"]={{path="chatsounds/autoadd/spongebob/squidward.ogg",length=1.312}}
@@ -115,6 +127,7 @@ L["we have technology"]={{path="chatsounds/autoadd/spongebob/we have technology.
 L["we serve food here sir"]={{path="chatsounds/autoadd/spongebob/we serve food here sir.ogg",length=1.869}}
 L["we shall never deny a guest even the most ridiculous request"]={{path="chatsounds/autoadd/spongebob/we shall never deny a guest even the most ridiculous request.ogg",length=4.200}}
 L["welcome to the krusty towers"]={{path="chatsounds/autoadd/spongebob/welcome to the krusty towers.ogg",length=1.933}}
+L["what did you say punk"]={{path="chatsounds/autoadd/spongebob/what did you say punk.ogg",length=2.201}}
 L["what does claustrophobic mean"]={{path="chatsounds/autoadd/spongebob/what does claustrophobic mean.ogg",length=1.570}}
 L["what kind of place is this"]={{path="chatsounds/autoadd/spongebob/what kind of place is this.ogg",length=3.629}}
 L["whats the matter"]={{path="chatsounds/autoadd/spongebob/whats the matter.ogg",length=1.093}}
@@ -127,10 +140,12 @@ L["wow they have it"]={{path="chatsounds/autoadd/spongebob/wow they have it.ogg"
 L["write that down write that down"]={{path="chatsounds/autoadd/spongebob/write that down write that down.ogg",length=1.116}}
 L["yeah"]={{path="chatsounds/autoadd/spongebob/yeah.ogg",length=0.796}}
 L["yeah its all crushy looking"]={{path="chatsounds/autoadd/spongebob/yeah its all crushy looking.ogg",length=1.728}}
+L["yeah well i hate you even if i didnt hate you"]={{path="chatsounds/autoadd/spongebob/yeah well i hate you even if i didnt hate you.ogg",length=2.995}}
 L["yes"]={{path="chatsounds/autoadd/spongebob/yes.ogg",length=0.817}}
 L["yes i did it"]={{path="chatsounds/autoadd/spongebob/yes i did it.ogg",length=0.855}}
 L["you dont even exist"]={{path="chatsounds/autoadd/spongebob/you dont even exist.ogg",length=1.109}}
 L["you dont pay me"]={{path="chatsounds/autoadd/spongebob/you dont pay me.ogg",length=1.157}}
+L["you forgot the pickle"]={{path="chatsounds/autoadd/spongebob/you forgot the pickle.ogg",length=3.656}}
 L["you may be an open book spongebob but im a bit more complicated than that"]={{path="chatsounds/autoadd/spongebob/you may be an open book spongebob but im a bit more complicated than that.ogg",length=5.778}}
 L["you need a jar"]={{path="chatsounds/autoadd/spongebob/you need a jar.ogg",length=0.860}}
 c.EndList()

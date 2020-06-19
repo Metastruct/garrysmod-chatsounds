@@ -1,7 +1,6 @@
 c.StartList("camobunny")
 L["bbc"]={{path="chatsounds/autoadd/camobunny/bbc.ogg",length=95.757}}
 L["bees"]={{path="chatsounds/autoadd/camobunny/bees.ogg",length=0.413}}
-L["big meaty claws"]={{path="chatsounds/autoadd/camobunny/big meaty claws.ogg",length=3.290}}
 L["but you know what i like a lot more than materialistic things"]={{path="chatsounds/autoadd/camobunny/but you know what i like a lot more than materialistic things.ogg",length=3.031}}
 L["caillou picked and picked a whole bunch of boogers"]={{path="chatsounds/autoadd/camobunny/caillou picked and picked a whole bunch of boogers.ogg",length=4.311}}
 L["caillous big furry finger up the butt show"]={{path="chatsounds/autoadd/camobunny/caillous big furry finger up the butt show.ogg",length=3.643}}
@@ -39,11 +38,9 @@ L["mingebag in the bin"]={{path="chatsounds/autoadd/camobunny/mingebag in the bi
 L["mmmmm funny joke"]={{path="chatsounds/autoadd/camobunny/mmmmm funny joke.ogg",length=3.025}}
 L["mmmmmmohmygod"]={{path="chatsounds/autoadd/camobunny/mmmmmmohmygod.ogg",length=1.686}}
 L["monkey on the car"]={{path="chatsounds/autoadd/camobunny/monkey on the car/1.ogg",length=1.305},{path="chatsounds/autoadd/camobunny/monkey on the car/2.ogg",length=1.498}}
-L["my name is patback"]={{path="chatsounds/autoadd/camobunny/my name is patback.ogg",length=3.436}}
 L["no no no no no noooo"]={{path="chatsounds/autoadd/camobunny/no no no no no noooo.ogg",length=2.950}}
 L["noooo me toastaaa"]={{path="chatsounds/autoadd/camobunny/noooo me toastaaa.ogg",length=3.631}}
 L["okay"]={{path="chatsounds/autoadd/camobunny/okay.ogg",length=0.682}}
-L["patback"]={{path="chatsounds/autoadd/camobunny/patback.ogg",length=1.653}}
 L["peanutbutterbabyah"]={{path="chatsounds/autoadd/camobunny/peanutbutterbabyah.ogg",length=0.420}}
 L["pewdsgoatrap"]={{path="chatsounds/autoadd/camobunny/pewdsgoatrap.ogg",length=37.375}}
 L["pinguintro"]={{path="chatsounds/autoadd/camobunny/pinguintro.ogg",length=9.888}}
@@ -53,10 +50,7 @@ L["that thing come by my house i kill it"]={{path="chatsounds/autoadd/camobunny/
 L["thats nasty"]={{path="chatsounds/autoadd/camobunny/thats nasty.ogg",length=1.327}}
 L["the jooj lantern"]={{path="chatsounds/autoadd/camobunny/the jooj lantern.ogg",length=1.191}}
 L["the little rat looking thing just got ate"]={{path="chatsounds/autoadd/camobunny/the little rat looking thing just got ate.ogg",length=1.620}}
-L["what did you say punk"]={{path="chatsounds/autoadd/camobunny/what did you say punk.ogg",length=2.201}}
 L["what the hell"]={{path="chatsounds/autoadd/camobunny/what the hell.ogg",length=1.143}}
 L["what youve gotta do"]={{path="chatsounds/autoadd/camobunny/what youve gotta do.ogg",length=1.139}}
-L["who you callin pinhead"]={{path="chatsounds/autoadd/camobunny/who you callin pinhead.ogg",length=1.471}}
-L["you forgot the pickle"]={{path="chatsounds/autoadd/camobunny/you forgot the pickle.ogg",length=3.656}}
 L["youve got no fans"]={{path="chatsounds/autoadd/camobunny/youve got no fans.ogg",length=1.596}}
 c.EndList()
