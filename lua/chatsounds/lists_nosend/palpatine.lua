@@ -3,6 +3,7 @@ L["do it"]={{path="chatsounds/autoadd/palpatine/do it.ogg",length=0.458}}
 L["execute order 66"]={{path="chatsounds/autoadd/palpatine/execute order 66.ogg",length=3.097}}
 L["he could save others from death but not himself"]={{path="chatsounds/autoadd/palpatine/he could save others from death but not himself.ogg",length=5.163}}
 L["i am the senate"]={{path="chatsounds/autoadd/palpatine/i am the senate.ogg",length=2.221}}
+L["i love democracy"]={{path="chatsounds/autoadd/palpatine/i love democracy.ogg",length=1.451}}
 L["i thought not"]={{path="chatsounds/autoadd/palpatine/i thought not.ogg",length=0.971}}
 L["ironic"]={{path="chatsounds/autoadd/palpatine/ironic.ogg",length=1.307}}
 L["its a sith legend"]={{path="chatsounds/autoadd/palpatine/its a sith legend.ogg",length=1.521}}

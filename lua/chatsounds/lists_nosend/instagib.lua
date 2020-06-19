@@ -284,7 +284,6 @@ L["endstress"]={{path="chatsounds/autoadd/instagib/endstress.ogg",length=4.251}}
 L["engel"]={{path="chatsounds/autoadd/instagib/engel.ogg",length=11.001}}
 L["engine1"]={{path="chatsounds/autoadd/instagib/engine1.ogg",length=1.919}}
 L["english do you speak it"]={{path="chatsounds/autoadd/instagib/english do you speak it.ogg",length=2.482}}
-L["enjoy"]={{path="chatsounds/autoadd/instagib/enjoy.ogg",length=2.430}}
 L["entlassen"]={{path="chatsounds/autoadd/instagib/entlassen.ogg",length=0.925}}
 L["er"]={{path="chatsounds/autoadd/instagib/er.ogg",length=0.519}}
 L["erfahrung"]={{path="chatsounds/autoadd/instagib/erfahrung.ogg",length=2.878}}
@@ -567,6 +566,7 @@ L["ilike"]={{path="chatsounds/autoadd/instagib/ilike.ogg",length=4.159}}
 L["ilikeit"]={{path="chatsounds/autoadd/instagib/ilikeit.ogg",length=4.159}}
 L["ill be back"]={{path="chatsounds/autoadd/instagib/ill be back.ogg",length=1.689}}
 L["im afraid im afraid dave"]={{path="chatsounds/autoadd/instagib/im afraid im afraid dave.ogg",length=6.580}}
+L["im gonna enjoy watching you die"]={{path="chatsounds/autoadd/instagib/im gonna enjoy watching you die.ogg",length=2.430}}
 L["im ignoring you"]={{path="chatsounds/autoadd/instagib/im ignoring you.ogg",length=1.302}}
 L["imbad"]={{path="chatsounds/autoadd/instagib/imbad.ogg",length=3.977}}
 L["immaster"]={{path="chatsounds/autoadd/instagib/immaster.ogg",length=2.750}}
