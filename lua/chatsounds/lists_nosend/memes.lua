@@ -8,6 +8,7 @@ L["aww dude youre drinking cum powder"]={{path="chatsounds/autoadd/memes/aww dud
 L["banana screech"]={{path="chatsounds/autoadd/memes/banana screech.ogg",length=1.695}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
+L["crazybus remix"]={{path="chatsounds/autoadd/memes/crazybus remix.ogg",length=24.018}}
 L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
