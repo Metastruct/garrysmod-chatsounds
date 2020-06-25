@@ -52,6 +52,7 @@ L["raz raz raz eto khardbass"]={{path="chatsounds/autoadd/music/raz raz raz eto 
 L["seinfeld"]={{path="chatsounds/autoadd/music/seinfeld.ogg",length=51.312}}
 L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardbass basy.ogg",length=1.651}}
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
+L["stranger things"]={{path="chatsounds/autoadd/music/stranger things.ogg",length=58.227}}
 L["tetrisloop"]={{path="chatsounds/autoadd/music/tetrisloop.ogg",length=25.592}}
 L["the man behind the slaughter"]={{path="chatsounds/autoadd/music/the man behind the slaughter.ogg",length=10.958}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
