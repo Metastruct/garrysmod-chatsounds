@@ -7,6 +7,7 @@ L["im chris hansen"]={{path="chatsounds/autoadd/south_park/im chris hansen.ogg",
 L["im sorry i thought this was america"]={{path="chatsounds/autoadd/south_park/im sorry i thought this was america.ogg",length=1.687}}
 L["oh god its chris hansen"]={{path="chatsounds/autoadd/south_park/oh god its chris hansen.ogg",length=1.594}}
 L["oh no its chris hansen"]={{path="chatsounds/autoadd/south_park/oh no its chris hansen.ogg",length=1.922}}
+L["retard alert"]={{path="chatsounds/autoadd/south_park/retard alert.ogg",length=4.314}}
 L["this aint no house"]={{path="chatsounds/autoadd/south_park/this aint no house.ogg",length=1.232}}
 L["this is for what arresting me for what im not allowed to stand up for myself"]={{path="chatsounds/autoadd/south_park/this is for what arresting me for what im not allowed to stand up for myself.ogg",length=4.439}}
 L["wait a minute"]={{path="chatsounds/autoadd/south_park/wait a minute.ogg",length=0.723}}
