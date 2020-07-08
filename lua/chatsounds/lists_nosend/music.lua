@@ -27,7 +27,7 @@ L["dontloseyourway"]={{path="chatsounds/autoadd/music/dontloseyourway.ogg",lengt
 L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.ogg",length=20.972}}
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
-L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949}}
+L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
 L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
 L["in new york"]={{path="chatsounds/autoadd/music/in new york.ogg",length=3.464}}

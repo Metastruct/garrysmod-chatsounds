@@ -11,6 +11,7 @@ L["and fires two hundred dollar custom tooled cartridges"]={{path="chatsounds/au
 L["and the doctor was never heard from again"]={{path="chatsounds/autoadd/tf2_extra/and the doctor was never heard from again.ogg",length=2.565}}
 L["and this"]={{path="chatsounds/autoadd/tf2_extra/and this.ogg",length=1.056}}
 L["and this is my weapon"]={{path="chatsounds/autoadd/tf2_extra/and this is my weapon.ogg",length=2.834}}
+L["and this little button plays hardbass"]={{path="chatsounds/autoadd/tf2_extra/and this little button plays hardbass.ogg",length=3.418}}
 L["archimedes"]={{path="chatsounds/autoadd/tf2_extra/archimedes.ogg",length=1.123}}
 L["archimedes no"]={{path="chatsounds/autoadd/tf2_extra/archimedes no.ogg",length=2.007}}
 L["are you sure this will work"]={{path="chatsounds/autoadd/tf2_extra/are you sure this will work.ogg",length=1.880}}
@@ -196,6 +197,8 @@ L["that looks good"]={{path="chatsounds/autoadd/tf2_extra/that looks good.ogg",l
 L["the sound of progress"]={{path="chatsounds/autoadd/tf2_extra/the sound of progress.ogg",length=1.360}}
 L["theeht goog moom"]={{path="chatsounds/autoadd/tf2_extra/theeht goog moom.ogg",length=0.746}}
 L["this bucket is hell"]={{path="chatsounds/autoadd/tf2_extra/this bucket is hell.ogg",length=2.011}}
+L["this button builds dispensers"]={{path="chatsounds/autoadd/tf2_extra/this button builds dispensers.ogg",length=1.582}}
+L["this button here builds teleporters"]={{path="chatsounds/autoadd/tf2_extra/this button here builds teleporters.ogg",length=2.126}}
 L["this is a huge waste of my time"]={{path="chatsounds/autoadd/tf2_extra/this is a huge waste of my time.ogg",length=3.478}}
 L["to fire this weapon"]={{path="chatsounds/autoadd/tf2_extra/to fire this weapon.ogg",length=1.474}}
 L["trying"]={{path="chatsounds/autoadd/tf2_extra/trying.ogg",length=0.557}}
