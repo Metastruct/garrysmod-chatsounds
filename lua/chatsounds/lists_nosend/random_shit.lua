@@ -52,6 +52,7 @@ L["i have the high ground"]={{path="chatsounds/autoadd/random_shit/i have the hi
 L["i lose my speed"]={{path="chatsounds/autoadd/random_shit/i lose my speed.ogg",length=1.858}}
 L["i mean its terrific right"]={{path="chatsounds/autoadd/random_shit/i mean its terrific right.ogg",length=1.594}}
 L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoadd/random_shit/i see you dont have a lifeguard here at your beach.ogg",length=2.670}}
+L["ill have to give myself a promotion"]={{path="chatsounds/autoadd/random_shit/ill have to give myself a promotion.ogg",length=2.644}}
 L["ilovehorses"]={{path="chatsounds/autoadd/random_shit/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/random_shit/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/random_shit/ilovehorses/3.ogg",length=7.386}}
 L["im a virgin"]={{path="chatsounds/autoadd/random_shit/im a virgin.ogg",length=1.146}}
 L["im in danger"]={{path="chatsounds/autoadd/random_shit/im in danger.ogg",length=1.365}}
@@ -89,6 +90,7 @@ L["no i dont wanna be bread"]={{path="chatsounds/autoadd/random_shit/no i dont w
 L["no nooooooooo"]={{path="chatsounds/autoadd/random_shit/no nooooooooo.ogg",length=2.273}}
 L["now this is podracing"]={{path="chatsounds/autoadd/random_shit/now this is podracing.ogg",length=2.046}}
 L["objection"]={{path="chatsounds/autoadd/random_shit/objection.ogg",length=1.322}}
+L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["penis music"]={{path="chatsounds/autoadd/random_shit/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/random_shit/penis music loop.ogg",length=10.975}}
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/random_shit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}

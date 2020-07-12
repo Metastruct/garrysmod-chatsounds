@@ -48,6 +48,8 @@ L["god almighty"]={{path="chatsounds/autoadd/gordon_ramsay/god almighty.ogg",len
 L["hannibal"]={{path="chatsounds/autoadd/gordon_ramsay/hannibal.ogg",length=0.635}}
 L["hey you hey fuckwit come here you come here"]={{path="chatsounds/autoadd/gordon_ramsay/hey you hey fuckwit come here you come here.ogg",length=2.809}}
 L["how fucking depressing is that"]={{path="chatsounds/autoadd/gordon_ramsay/how fucking depressing is that.ogg",length=3.067}}
+L["how many portions are you putting in there"]={{path="chatsounds/autoadd/gordon_ramsay/how many portions are you putting in there.ogg",length=2.010}}
+L["how much is in the bin"]={{path="chatsounds/autoadd/gordon_ramsay/how much is in the bin.ogg",length=1.801}}
 L["how old are they"]={{path="chatsounds/autoadd/gordon_ramsay/how old are they.ogg",length=1.295}}
 L["hurry up giovanni"]={{path="chatsounds/autoadd/gordon_ramsay/hurry up giovanni.ogg",length=1.015}}
 L["i could cry i could just i could just cry"]={{path="chatsounds/autoadd/gordon_ramsay/i could cry i could just i could just cry.ogg",length=2.702}}
@@ -64,25 +66,31 @@ L["if i tell you to get out there i dont give a fuck if youve got a thong up you
 L["if you sautee scallops in a non stick pan"]={{path="chatsounds/autoadd/gordon_ramsay/if you sautee scallops in a non stick pan.ogg",length=2.954}}
 L["im done standing here with a bunch of idiots fuck you all good luck"]={{path="chatsounds/autoadd/gordon_ramsay/im done standing here with a bunch of idiots fuck you all good luck.ogg",length=4.968}}
 L["im starting to get pissed"]={{path="chatsounds/autoadd/gordon_ramsay/im starting to get pissed.ogg",length=2.230}}
+L["is that cooked"]={{path="chatsounds/autoadd/gordon_ramsay/is that cooked.ogg",length=0.834}}
 L["its black"]={{path="chatsounds/autoadd/gordon_ramsay/its black.ogg",length=1.355}}
 L["its green"]={{path="chatsounds/autoadd/gordon_ramsay/its green.ogg",length=1.347}}
 L["its raw"]={{path="chatsounds/autoadd/gordon_ramsay/its raw/1.ogg",length=1.049},{path="chatsounds/autoadd/gordon_ramsay/its raw/2.ogg",length=1.151}}
 L["its stone cold"]={{path="chatsounds/autoadd/gordon_ramsay/its stone cold.ogg",length=1.029}}
 L["jesus christ"]={{path="chatsounds/autoadd/gordon_ramsay/jesus christ/1.ogg",length=1.295},{path="chatsounds/autoadd/gordon_ramsay/jesus christ/2.ogg",length=1.891}}
 L["just just just smell that"]={{path="chatsounds/autoadd/gordon_ramsay/just just just smell that.ogg",length=1.606}}
+L["just put it back on the stove put a lid on top and 30 seconds cooking it"]={{path="chatsounds/autoadd/gordon_ramsay/just put it back on the stove put a lid on top and 30 seconds cooking it.ogg",length=3.649}}
 L["just smell that"]={{path="chatsounds/autoadd/gordon_ramsay/just smell that/1.ogg",length=1.529},{path="chatsounds/autoadd/gordon_ramsay/just smell that/2.ogg",length=1.166}}
 L["just take a bite of that just take a bite eat it you fuckwit"]={{path="chatsounds/autoadd/gordon_ramsay/just take a bite of that just take a bite eat it you fuckwit.ogg",length=3.045}}
 L["listen listen listen listen fuckoff fuckoff fuckoff fuckoff"]={{path="chatsounds/autoadd/gordon_ramsay/listen listen listen listen fuckoff fuckoff fuckoff fuckoff.ogg",length=4.622}}
+L["look at all this fucking"]={{path="chatsounds/autoadd/gordon_ramsay/look at all this fucking.ogg",length=1.639}}
 L["look at me hey look you ignorant bitch look at my fucking eyes when im talking to you"]={{path="chatsounds/autoadd/gordon_ramsay/look at me hey look you ignorant bitch look at my fucking eyes when im talking to you.ogg",length=3.320}}
 L["look at that"]={{path="chatsounds/autoadd/gordon_ramsay/look at that.ogg",length=1.554}}
 L["look at that its like a bisons penis what is that shit"]={{path="chatsounds/autoadd/gordon_ramsay/look at that its like a bisons penis what is that shit.ogg",length=5.055}}
 L["look at the color of the chicken"]={{path="chatsounds/autoadd/gordon_ramsay/look at the color of the chicken.ogg",length=2.202}}
 L["look at the state of this"]={{path="chatsounds/autoadd/gordon_ramsay/look at the state of this.ogg",length=2.150}}
+L["look look"]={{path="chatsounds/autoadd/gordon_ramsay/look look.ogg",length=1.940}}
+L["looks undercooked"]={{path="chatsounds/autoadd/gordon_ramsay/looks undercooked.ogg",length=0.689}}
 L["madam madam madam"]={{path="chatsounds/autoadd/gordon_ramsay/madam madam madam.ogg",length=2.815}}
 L["make sure they say a prayer before they start eating that"]={{path="chatsounds/autoadd/gordon_ramsay/make sure they say a prayer before they start eating that.ogg",length=2.461}}
 L["mophead"]={{path="chatsounds/autoadd/gordon_ramsay/mophead.ogg",length=0.610}}
 L["my god it gets worse"]={{path="chatsounds/autoadd/gordon_ramsay/my god it gets worse.ogg",length=1.338}}
 L["my god thats disgusting"]={{path="chatsounds/autoadd/gordon_ramsay/my god thats disgusting.ogg",length=1.710}}
+L["nah its not cooked not good"]={{path="chatsounds/autoadd/gordon_ramsay/nah its not cooked not good.ogg",length=1.581}}
 L["nine"]={{path="chatsounds/autoadd/gordon_ramsay/nine/1.ogg",length=0.520},{path="chatsounds/autoadd/gordon_ramsay/nine/2.ogg",length=0.549}}
 L["no"]={{path="chatsounds/autoadd/gordon_ramsay/no.ogg",length=0.933}}
 L["non stick"]={{path="chatsounds/autoadd/gordon_ramsay/non stick.ogg",length=1.055}}
@@ -127,6 +135,7 @@ L["watch hes gonna set this place on fire"]={{path="chatsounds/autoadd/gordon_ra
 L["we cant send any food garrett garrett"]={{path="chatsounds/autoadd/gordon_ramsay/we cant send any food garrett garrett.ogg",length=4.898}}
 L["were doing it again dont argue with chef"]={{path="chatsounds/autoadd/gordon_ramsay/were doing it again dont argue with chef.ogg",length=1.749}}
 L["what are you"]={{path="chatsounds/autoadd/gordon_ramsay/what are you.ogg",length=0.782}}
+L["what do you do just trash it throw it away"]={{path="chatsounds/autoadd/gordon_ramsay/what do you do just trash it throw it away.ogg",length=2.253}}
 L["what do you mean theres a language barrier hes speaking english you dick"]={{path="chatsounds/autoadd/gordon_ramsay/what do you mean theres a language barrier hes speaking english you dick.ogg",length=2.282}}
 L["what do you mean theyre gone"]={{path="chatsounds/autoadd/gordon_ramsay/what do you mean theyre gone.ogg",length=1.008}}
 L["what have you done to those"]={{path="chatsounds/autoadd/gordon_ramsay/what have you done to those.ogg",length=1.036}}
@@ -138,6 +147,7 @@ L["what is down here"]={{path="chatsounds/autoadd/gordon_ramsay/what is down her
 L["what is in there"]={{path="chatsounds/autoadd/gordon_ramsay/what is in there.ogg",length=1.093}}
 L["what is that"]={{path="chatsounds/autoadd/gordon_ramsay/what is that/1.ogg",length=0.645},{path="chatsounds/autoadd/gordon_ramsay/what is that/2.ogg",length=0.860},{path="chatsounds/autoadd/gordon_ramsay/what is that/3.ogg",length=1.166},{path="chatsounds/autoadd/gordon_ramsay/what is that/4.ogg",length=1.114},{path="chatsounds/autoadd/gordon_ramsay/what is that/5.ogg",length=1.269}}
 L["what is this anybody"]={{path="chatsounds/autoadd/gordon_ramsay/what is this anybody.ogg",length=1.269}}
+L["what the fuck is this"]={{path="chatsounds/autoadd/gordon_ramsay/what the fuck is this.ogg",length=1.703}}
 L["whats that there"]={{path="chatsounds/autoadd/gordon_ramsay/whats that there.ogg",length=1.244}}
 L["whats the matter between you two"]={{path="chatsounds/autoadd/gordon_ramsay/whats the matter between you two.ogg",length=1.067}}
 L["whats this for"]={{path="chatsounds/autoadd/gordon_ramsay/whats this for.ogg",length=1.218}}
@@ -147,6 +157,8 @@ L["where is the lamb sauce"]={{path="chatsounds/autoadd/gordon_ramsay/where is t
 L["where the fuck do you think i found this"]={{path="chatsounds/autoadd/gordon_ramsay/where the fuck do you think i found this.ogg",length=2.228}}
 L["wheres the lamb saauce"]={{path="chatsounds/autoadd/gordon_ramsay/wheres the lamb saauce.ogg",length=2.152}}
 L["whistle"]={{path="chatsounds/autoadd/gordon_ramsay/whistle.ogg",length=0.260}}
+L["whos put all this in the bin"]={{path="chatsounds/autoadd/gordon_ramsay/whos put all this in the bin.ogg",length=1.720}}
+L["why did you throw that away melinda"]={{path="chatsounds/autoadd/gordon_ramsay/why did you throw that away melinda.ogg",length=1.239}}
 L["would you mind not being so rude"]={{path="chatsounds/autoadd/gordon_ramsay/would you mind not being so rude.ogg",length=1.675}}
 L["yeah but im not dickface chef dramaticnote"]={{path="chatsounds/autoadd/gordon_ramsay/yeah but im not dickface chef dramaticnote.ogg",length=3.434}}
 L["yeah say that again"]={{path="chatsounds/autoadd/gordon_ramsay/yeah say that again.ogg",length=0.838}}
