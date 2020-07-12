@@ -13,6 +13,7 @@ L["50"]={{path="chatsounds/autoadd/cockpit_warnings/50.ogg",length=0.410}}
 L["500"]={{path="chatsounds/autoadd/cockpit_warnings/500.ogg",length=0.948}}
 L["adjust"]={{path="chatsounds/autoadd/cockpit_warnings/adjust.ogg",length=0.861}}
 L["adjust vertical speed"]={{path="chatsounds/autoadd/cockpit_warnings/adjust vertical speed.ogg",length=1.612}}
+L["airspeed low"]={{path="chatsounds/autoadd/cockpit_warnings/airspeed low.ogg",length=0.843}}
 L["approaching decision height"]={{path="chatsounds/autoadd/cockpit_warnings/approaching decision height.ogg",length=1.440}}
 L["approaching minimums"]={{path="chatsounds/autoadd/cockpit_warnings/approaching minimums.ogg",length=1.286}}
 L["autopilot disconnect"]={{path="chatsounds/autoadd/cockpit_warnings/autopilot disconnect/1.ogg",length=1.082},{path="chatsounds/autoadd/cockpit_warnings/autopilot disconnect/2.ogg",length=2.302}}

@@ -76,6 +76,7 @@ L["like thats ever gonna happen"]={{path="chatsounds/autoadd/random_shit/like th
 L["lone digger loop"]={{path="chatsounds/autoadd/random_shit/lone digger loop.ogg",length=46.452}}
 L["make it stop"]={{path="chatsounds/autoadd/random_shit/make it stop.ogg",length=2.596}}
 L["marioup"]={{path="chatsounds/autoadd/random_shit/marioup.ogg",length=1.776}}
+L["mine"]={{path="chatsounds/autoadd/random_shit/mine/1.ogg",length=0.246},{path="chatsounds/autoadd/random_shit/mine/2.ogg",length=0.287}}
 L["mom youre an idiot kappa"]={{path="chatsounds/autoadd/random_shit/mom youre an idiot kappa.ogg",length=2.234}}
 L["mortis"]={{path="chatsounds/autoadd/random_shit/mortis.ogg",length=0.995}}
 L["musicbox"]={{path="chatsounds/autoadd/random_shit/musicbox.ogg",length=23.800}}
