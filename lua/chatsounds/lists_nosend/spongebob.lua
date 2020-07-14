@@ -20,6 +20,7 @@ L["dont worry buddy youre doing fine"]={{path="chatsounds/autoadd/spongebob/dont
 L["dont you backsass me"]={{path="chatsounds/autoadd/spongebob/dont you backsass me.ogg",length=1.461}}
 L["dont you have to be stupid somewhere else"]={{path="chatsounds/autoadd/spongebob/dont you have to be stupid somewhere else.ogg",length=1.915}}
 L["dude put that thing away there are like children here"]={{path="chatsounds/autoadd/spongebob/dude put that thing away there are like children here.ogg",length=3.617}}
+L["eavesdropping"]={{path="chatsounds/autoadd/spongebob/eavesdropping.ogg",length=1.122}}
 L["everyone died"]={{path="chatsounds/autoadd/spongebob/everyone died.ogg",length=1.518}}
 L["finally"]={{path="chatsounds/autoadd/spongebob/finally.ogg",length=1.092}}
 L["finland"]={{path="chatsounds/autoadd/spongebob/finland.ogg",length=1.707}}
@@ -49,6 +50,7 @@ L["i hate you patrick"]={{path="chatsounds/autoadd/spongebob/i hate you patrick.
 L["i love you"]={{path="chatsounds/autoadd/spongebob/i love you.ogg",length=1.498}}
 L["i said give it to me"]={{path="chatsounds/autoadd/spongebob/i said give it to me.ogg",length=1.903}}
 L["i sense no danger here"]={{path="chatsounds/autoadd/spongebob/i sense no danger here.ogg",length=1.959}}
+L["i think some people are eavesdropping"]={{path="chatsounds/autoadd/spongebob/i think some people are eavesdropping.ogg",length=2.804}}
 L["i took the boots"]={{path="chatsounds/autoadd/spongebob/i took the boots.ogg",length=1.808}}
 L["i wont let you blow this"]={{path="chatsounds/autoadd/spongebob/i wont let you blow this.ogg",length=2.734}}
 L["im feeling a warm spot"]={{path="chatsounds/autoadd/spongebob/im feeling a warm spot.ogg",length=1.740}}
@@ -66,6 +68,7 @@ L["milk spill"]={{path="chatsounds/autoadd/spongebob/milk spill.ogg",length=3.23
 L["mmm try again"]={{path="chatsounds/autoadd/spongebob/mmm try again.ogg",length=1.500}}
 L["moar"]={{path="chatsounds/autoadd/spongebob/moar.ogg",length=0.364}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/spongebob/mrkrabsviolin.ogg",length=36.785}}
+L["mustard or ketchup"]={{path="chatsounds/autoadd/spongebob/mustard or ketchup.ogg",length=1.898}}
 L["my leg"]={{path="chatsounds/autoadd/spongebob/my leg.ogg",length=0.796}}
 L["my name is patback"]={{path="chatsounds/autoadd/spongebob/my name is patback.ogg",length=3.436}}
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/spongebob/nah i dont really feel like it.ogg",length=2.319}}
@@ -87,6 +90,7 @@ L["oh please i have no soul"]={{path="chatsounds/autoadd/spongebob/oh please i h
 L["once there was an ugly barnacle he was so ugly that everyone died"]={{path="chatsounds/autoadd/spongebob/once there was an ugly barnacle he was so ugly that everyone died.ogg",length=6.744}}
 L["one more crack like that and youre outta here"]={{path="chatsounds/autoadd/spongebob/one more crack like that and youre outta here.ogg",length=2.568}}
 L["ooh thats great"]={{path="chatsounds/autoadd/spongebob/ooh thats great.ogg",length=1.050}}
+L["or"]={{path="chatsounds/autoadd/spongebob/or.ogg",length=0.265}}
 L["overtime"]={{path="chatsounds/autoadd/spongebob/overtime.ogg",length=1.361}}
 L["patback"]={{path="chatsounds/autoadd/spongebob/patback.ogg",length=1.653}}
 L["patrick can you shut the fuck up"]={{path="chatsounds/autoadd/spongebob/patrick can you shut the fuck up.ogg",length=2.187}}
@@ -118,6 +122,7 @@ L["that oughta do it"]={{path="chatsounds/autoadd/spongebob/that oughta do it.og
 L["that was great squidward"]={{path="chatsounds/autoadd/spongebob/that was great squidward.ogg",length=1.890}}
 L["the end"]={{path="chatsounds/autoadd/spongebob/the end.ogg",length=0.748}}
 L["the inner machinations of my mind are an enigma"]={{path="chatsounds/autoadd/spongebob/the inner machinations of my mind are an enigma.ogg",length=4.288}}
+L["there i am gary there i am"]={{path="chatsounds/autoadd/spongebob/there i am gary there i am.ogg",length=1.512}}
 L["theres two of them"]={{path="chatsounds/autoadd/spongebob/theres two of them.ogg",length=1.896}}
 L["theyre here"]={{path="chatsounds/autoadd/spongebob/theyre here.ogg",length=1.365}}
 L["this town is grrreat"]={{path="chatsounds/autoadd/spongebob/this town is grrreat.ogg",length=2.392}}
@@ -130,6 +135,7 @@ L["welcome to the krusty towers"]={{path="chatsounds/autoadd/spongebob/welcome t
 L["what did you say punk"]={{path="chatsounds/autoadd/spongebob/what did you say punk.ogg",length=2.201}}
 L["what does claustrophobic mean"]={{path="chatsounds/autoadd/spongebob/what does claustrophobic mean.ogg",length=1.570}}
 L["what kind of place is this"]={{path="chatsounds/autoadd/spongebob/what kind of place is this.ogg",length=3.629}}
+L["whatll it be fellas"]={{path="chatsounds/autoadd/spongebob/whatll it be fellas.ogg",length=1.108}}
 L["whats the matter"]={{path="chatsounds/autoadd/spongebob/whats the matter.ogg",length=1.093}}
 L["where our motto is"]={{path="chatsounds/autoadd/spongebob/where our motto is.ogg",length=1.194}}
 L["who are you people"]={{path="chatsounds/autoadd/spongebob/who are you people.ogg",length=1.793}}
