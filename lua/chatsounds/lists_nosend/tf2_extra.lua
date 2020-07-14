@@ -33,6 +33,7 @@ L["cant seem"]={{path="chatsounds/autoadd/tf2_extra/cant seem.ogg",length=1.080}
 L["capdevelopatre"]={{path="chatsounds/autoadd/tf2_extra/capdevelopatre.ogg",length=0.744}}
 L["capsaicin"]={{path="chatsounds/autoadd/tf2_extra/capsaicin.ogg",length=0.969}}
 L["capuccino"]={{path="chatsounds/autoadd/tf2_extra/capuccino.ogg",length=1.209}}
+L["civilian gaming"]={{path="chatsounds/autoadd/tf2_extra/civilian gaming.ogg",length=10.762}}
 L["collecting bbone distorted"]={{path="chatsounds/autoadd/tf2_extra/collecting bbone distorted.ogg",length=1.059}}
 L["cream bacon"]={{path="chatsounds/autoadd/tf2_extra/cream bacon.ogg",length=0.942}}
 L["cupcake"]={{path="chatsounds/autoadd/tf2_extra/cupcake.ogg",length=0.538}}
