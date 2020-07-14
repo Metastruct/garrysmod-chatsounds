@@ -37,6 +37,7 @@ L["half life wizard"]={{path="chatsounds/autoadd/vinesauce_joel/half life wizard
 L["hello wife"]={{path="chatsounds/autoadd/vinesauce_joel/hello wife.ogg",length=2.818}}
 L["hello zombie"]={{path="chatsounds/autoadd/vinesauce_joel/hello zombie.ogg",length=0.748}}
 L["hey wait for me"]={{path="chatsounds/autoadd/vinesauce_joel/hey wait for me.ogg",length=0.748}}
+L["horny"]={{path="chatsounds/autoadd/vinesauce_joel/horny.ogg",length=3.276}}
 L["how about a hat"]={{path="chatsounds/autoadd/vinesauce_joel/how about a hat.ogg",length=1.162}}
 L["i am full of gravy"]={{path="chatsounds/autoadd/vinesauce_joel/i am full of gravy.ogg",length=1.231}}
 L["i discovered"]={{path="chatsounds/autoadd/vinesauce_joel/i discovered.ogg",length=0.850}}
