@@ -69,6 +69,7 @@ L["mmm try again"]={{path="chatsounds/autoadd/spongebob/mmm try again.ogg",lengt
 L["moar"]={{path="chatsounds/autoadd/spongebob/moar.ogg",length=0.364}}
 L["mrkrabsviolin"]={{path="chatsounds/autoadd/spongebob/mrkrabsviolin.ogg",length=36.785}}
 L["mustard or ketchup"]={{path="chatsounds/autoadd/spongebob/mustard or ketchup.ogg",length=1.898}}
+L["mustardorketchup laugh"]={{path="chatsounds/autoadd/spongebob/mustardorketchup laugh.ogg",length=3.532}}
 L["my leg"]={{path="chatsounds/autoadd/spongebob/my leg.ogg",length=0.796}}
 L["my name is patback"]={{path="chatsounds/autoadd/spongebob/my name is patback.ogg",length=3.436}}
 L["nah i dont really feel like it"]={{path="chatsounds/autoadd/spongebob/nah i dont really feel like it.ogg",length=2.319}}
