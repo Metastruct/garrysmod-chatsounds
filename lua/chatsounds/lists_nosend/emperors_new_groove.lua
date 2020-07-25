@@ -14,5 +14,4 @@ L["this lever"]={{path="chatsounds/autoadd/emperors_new_groove/this lever.ogg",l
 L["why do we even have that lever"]={{path="chatsounds/autoadd/emperors_new_groove/why do we even have that lever.ogg",length=1.680}}
 L["wrong lever"]={{path="chatsounds/autoadd/emperors_new_groove/wrong lever/1.ogg",length=1.774},{path="chatsounds/autoadd/emperors_new_groove/wrong lever/2.ogg",length=1.017},{path="chatsounds/autoadd/emperors_new_groove/wrong lever/3.ogg",length=1.491}}
 L["you know you really should label these things"]={{path="chatsounds/autoadd/emperors_new_groove/you know you really should label these things.ogg",length=1.869}}
-L["you mind im sorta shy"]={{path="chatsounds/autoadd/emperors_new_groove/you mind im sorta shy.ogg",length=165.616}}
 c.EndList()
