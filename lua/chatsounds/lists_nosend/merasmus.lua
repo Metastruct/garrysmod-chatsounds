@@ -1,6 +1,7 @@
 c.StartList("merasmus")
 L["ahhhh crap"]={{path="chatsounds/autoadd/merasmus/ahhhh crap.ogg",length=1.586}}
 L["and censored up last people alive"]={{path="chatsounds/autoadd/merasmus/and censored up last people alive.ogg",length=2.720}}
+L["and everybody passed out"]={{path="chatsounds/autoadd/merasmus/and everybody passed out.ogg",length=2.044}}
 L["are now on sale mortals"]={{path="chatsounds/autoadd/merasmus/are now on sale mortals.ogg",length=2.813}}
 L["behold censored time"]={{path="chatsounds/autoadd/merasmus/behold censored time.ogg",length=2.367}}
 L["bonus fucks"]={{path="chatsounds/autoadd/merasmus/bonus fucks.ogg",length=1.098}}
@@ -10,6 +11,7 @@ L["fap intensifies daaaah"]={{path="chatsounds/autoadd/merasmus/fap intensifies 
 L["heblelb"]={{path="chatsounds/autoadd/merasmus/heblelb.ogg",length=0.854}}
 L["hes going to fuck that cock"]={{path="chatsounds/autoadd/merasmus/hes going to fuck that cock.ogg",length=2.733}}
 L["his cock got crushed"]={{path="chatsounds/autoadd/merasmus/his cock got crushed.ogg",length=2.343}}
+L["holy fuck"]={{path="chatsounds/autoadd/merasmus/holy fuck.ogg",length=1.181}}
 L["it took a while to get sexual again"]={{path="chatsounds/autoadd/merasmus/it took a while to get sexual again.ogg",length=2.374}}
 L["just to be clear though hes bleeding dry"]={{path="chatsounds/autoadd/merasmus/just to be clear though hes bleeding dry.ogg",length=3.344}}
 L["merasmus is pregnant"]={{path="chatsounds/autoadd/merasmus/merasmus is pregnant.ogg",length=2.831}}
