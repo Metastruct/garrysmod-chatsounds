@@ -6,6 +6,7 @@ L["are now on sale mortals"]={{path="chatsounds/autoadd/merasmus/are now on sale
 L["behold censored time"]={{path="chatsounds/autoadd/merasmus/behold censored time.ogg",length=2.367}}
 L["bonus fucks"]={{path="chatsounds/autoadd/merasmus/bonus fucks.ogg",length=1.098}}
 L["but i wanted to rape them"]={{path="chatsounds/autoadd/merasmus/but i wanted to rape them.ogg",length=2.563}}
+L["but the police told me that you are too slow at everything"]={{path="chatsounds/autoadd/merasmus/but the police told me that you are too slow at everything.ogg",length=4.269}}
 L["do you feel it tightening around your cock"]={{path="chatsounds/autoadd/merasmus/do you feel it tightening around your cock.ogg",length=2.319}}
 L["fap intensifies daaaah"]={{path="chatsounds/autoadd/merasmus/fap intensifies daaaah.ogg",length=2.326}}
 L["heblelb"]={{path="chatsounds/autoadd/merasmus/heblelb.ogg",length=0.854}}
@@ -15,6 +16,7 @@ L["holy fuck"]={{path="chatsounds/autoadd/merasmus/holy fuck.ogg",length=1.181}}
 L["it took a while to get sexual again"]={{path="chatsounds/autoadd/merasmus/it took a while to get sexual again.ogg",length=2.374}}
 L["just to be clear though hes bleeding dry"]={{path="chatsounds/autoadd/merasmus/just to be clear though hes bleeding dry.ogg",length=3.344}}
 L["merasmus is pregnant"]={{path="chatsounds/autoadd/merasmus/merasmus is pregnant.ogg",length=2.831}}
+L["merasmus lmao"]={{path="chatsounds/autoadd/merasmus/merasmus lmao.ogg",length=9.289}}
 L["oh this is taking too long"]={{path="chatsounds/autoadd/merasmus/oh this is taking too long.ogg",length=2.125}}
 L["on the streets"]={{path="chatsounds/autoadd/merasmus/on the streets.ogg",length=1.269}}
 L["remember when i got bonah"]={{path="chatsounds/autoadd/merasmus/remember when i got bonah.ogg",length=1.837}}
