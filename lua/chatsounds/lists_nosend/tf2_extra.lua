@@ -3,7 +3,6 @@ L["aaaaahhaahhaahhaahhaa"]={{path="chatsounds/autoadd/tf2_extra/aaaaahhaahhaahha
 L["aaaahhhh"]={{path="chatsounds/autoadd/tf2_extra/aaaahhhh.ogg",length=2.618}}
 L["aaany second now"]={{path="chatsounds/autoadd/tf2_extra/aaany second now.ogg",length=2.288}}
 L["aayyee"]={{path="chatsounds/autoadd/tf2_extra/aayyee.ogg",length=2.887}}
-L["administrator has stopped working"]={{path="chatsounds/autoadd/tf2_extra/administrator has stopped working.ogg",length=0.003}}
 L["administrator laugh distorted"]={{path="chatsounds/autoadd/tf2_extra/administrator laugh distorted.ogg",length=1.579}}
 L["ah my petite chou fleur"]={{path="chatsounds/autoadd/tf2_extra/ah my petite chou fleur.ogg",length=2.721}}
 L["ahyooyha"]={{path="chatsounds/autoadd/tf2_extra/ahyooyha.ogg",length=1.384}}
