@@ -23,6 +23,7 @@ L["birds"]={{path="chatsounds/autoadd/tf2_extra/birds.ogg",length=0.624}}
 L["blolb"]={{path="chatsounds/autoadd/tf2_extra/blolb.ogg",length=0.579}}
 L["booing"]={{path="chatsounds/autoadd/tf2_extra/booing.ogg",length=5.954}}
 L["box"]={{path="chatsounds/autoadd/tf2_extra/box.ogg",length=0.601}}
+L["bro ye just posted cringe"]={{path="chatsounds/autoadd/tf2_extra/bro ye just posted cringe.ogg",length=2.351}}
 L["bububububububububububububu"]={{path="chatsounds/autoadd/tf2_extra/bububububububububububububu.ogg",length=1.290}}
 L["bullet"]={{path="chatsounds/autoadd/tf2_extra/bullet.ogg",length=0.705}}
 L["burp distorted"]={{path="chatsounds/autoadd/tf2_extra/burp distorted.ogg",length=0.423}}
@@ -158,6 +159,7 @@ L["rapidfiredistorted"]={{path="chatsounds/autoadd/tf2_extra/rapidfiredistorted.
 L["ribs grow back"]={{path="chatsounds/autoadd/tf2_extra/ribs grow back.ogg",length=0.712}}
 L["right behind you"]={{path="chatsounds/autoadd/tf2_extra/right behind you.ogg",length=1.180}}
 L["scoutgibberish"]={{path="chatsounds/autoadd/tf2_extra/scoutgibberish.ogg",length=5.239}}
+L["scrumpy exe has stopped working"]={{path="chatsounds/autoadd/tf2_extra/scrumpy exe has stopped working.ogg",length=2.578}}
 L["seduceme has stopped working"]={{path="chatsounds/autoadd/tf2_extra/seduceme has stopped working.ogg",length=2.761}}
 L["see red"]={{path="chatsounds/autoadd/tf2_extra/see red.ogg",length=1.543}}
 L["sees"]={{path="chatsounds/autoadd/tf2_extra/sees/1.ogg",length=0.844},{path="chatsounds/autoadd/tf2_extra/sees/2.ogg",length=0.712}}
@@ -167,6 +169,7 @@ L["sey"]={{path="chatsounds/autoadd/tf2_extra/sey/1.ogg",length=0.717},{path="ch
 L["she weighs one hundred fifty kilograms"]={{path="chatsounds/autoadd/tf2_extra/she weighs one hundred fifty kilograms.ogg",length=2.430}}
 L["shit"]={{path="chatsounds/autoadd/tf2_extra/shit.ogg",length=0.567}}
 L["should i be awake for this"]={{path="chatsounds/autoadd/tf2_extra/should i be awake for this.ogg",length=1.768}}
+L["shut the fuck up"]={{path="chatsounds/autoadd/tf2_extra/shut the fuck up.ogg",length=1.252}}
 L["sniff"]={{path="chatsounds/autoadd/tf2_extra/sniff.ogg",length=0.376}}
 L["sniper robotic laugh distorted"]={{path="chatsounds/autoadd/tf2_extra/sniper robotic laugh distorted/1.ogg",length=3.970},{path="chatsounds/autoadd/tf2_extra/sniper robotic laugh distorted/2.ogg",length=1.482}}
 L["sniperlaughfast"]={{path="chatsounds/autoadd/tf2_extra/sniperlaughfast.ogg",length=1.329}}
@@ -239,6 +242,7 @@ L["yeeee"]={{path="chatsounds/autoadd/tf2_extra/yeeee.ogg",length=0.901}}
 L["yeeeeeee"]={{path="chatsounds/autoadd/tf2_extra/yeeeeeee.ogg",length=1.549}}
 L["yeeeeeee distorted"]={{path="chatsounds/autoadd/tf2_extra/yeeeeeee distorted.ogg",length=4.403}}
 L["yeey"]={{path="chatsounds/autoadd/tf2_extra/yeey/1.ogg",length=0.331},{path="chatsounds/autoadd/tf2_extra/yeey/2.ogg",length=0.450},{path="chatsounds/autoadd/tf2_extra/yeey/3.ogg",length=0.442},{path="chatsounds/autoadd/tf2_extra/yeey/4.ogg",length=0.232},{path="chatsounds/autoadd/tf2_extra/yeey/5.ogg",length=0.481},{path="chatsounds/autoadd/tf2_extra/yeey/6.ogg",length=0.513},{path="chatsounds/autoadd/tf2_extra/yeey/7.ogg",length=0.427}}
+L["you are gonna lose subscriber"]={{path="chatsounds/autoadd/tf2_extra/you are gonna lose subscriber.ogg",length=2.432}}
 L["you feel"]={{path="chatsounds/autoadd/tf2_extra/you feel.ogg",length=0.744}}
 L["your team lost"]={{path="chatsounds/autoadd/tf2_extra/your team lost.ogg",length=9.177}}
 L["youre forever a virgin"]={{path="chatsounds/autoadd/tf2_extra/youre forever a virgin.ogg",length=1.426}}
