@@ -55,6 +55,7 @@ L["everyone there is a mcdonalds ahead"]={{path="chatsounds/autoadd/tf2_extra/ev
 L["faggots"]={{path="chatsounds/autoadd/tf2_extra/faggots.ogg",length=0.780}}
 L["ffuck"]={{path="chatsounds/autoadd/tf2_extra/ffuck.ogg",length=0.621}}
 L["for twelve seconds"]={{path="chatsounds/autoadd/tf2_extra/for twelve seconds.ogg",length=2.101}}
+L["fuck you"]={{path="chatsounds/autoadd/tf2_extra/fuck you.ogg",length=1.086}}
 L["fuck you you fuckin fatass"]={{path="chatsounds/autoadd/tf2_extra/fuck you you fuckin fatass.ogg",length=1.810}}
 L["gasp"]={{path="chatsounds/autoadd/tf2_extra/gasp.ogg",length=1.086}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2_extra/ggoottaamm.ogg",length=0.914}}
@@ -85,6 +86,7 @@ L["i am heavy weapons guy"]={{path="chatsounds/autoadd/tf2_extra/i am heavy weap
 L["i call ajskldfjalksdjflkasdjfl ses"]={{path="chatsounds/autoadd/tf2_extra/i call ajskldfjalksdjflkasdjfl ses.ogg",length=3.358}}
 L["i can feel the cocaine coursing through my veins"]={{path="chatsounds/autoadd/tf2_extra/i can feel the cocaine coursing through my veins.ogg",length=4.265}}
 L["i dare you"]={{path="chatsounds/autoadd/tf2_extra/i dare you.ogg",length=0.994}}
+L["i feel everything i fucked everything"]={{path="chatsounds/autoadd/tf2_extra/i feel everything i fucked everything.ogg",length=5.486}}
 L["i feel like a man on cocaine"]={{path="chatsounds/autoadd/tf2_extra/i feel like a man on cocaine.ogg",length=3.994}}
 L["i got a manky eye im a black scottish cyclops"]={{path="chatsounds/autoadd/tf2_extra/i got a manky eye im a black scottish cyclops.ogg",length=4.606}}
 L["i have no idea"]={{path="chatsounds/autoadd/tf2_extra/i have no idea.ogg",length=2.032}}
