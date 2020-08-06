@@ -75,6 +75,7 @@ L["hongkong97"]={{path="chatsounds/autoadd/wicopee/hongkong97.ogg",length=5.612}
 L["how to tie a noose and watch the lion king"]={{path="chatsounds/autoadd/wicopee/how to tie a noose and watch the lion king.ogg",length=2.574}}
 L["huhuhuhu"]={{path="chatsounds/autoadd/wicopee/huhuhuhu.ogg",length=0.756}}
 L["i am going to die"]={{path="chatsounds/autoadd/wicopee/i am going to die.ogg",length=1.470}}
+L["i like ya cut g slap"]={{path="chatsounds/autoadd/wicopee/i like ya cut g slap.ogg",length=1.266}}
 L["i tak mi na fabrike po proizvodstvu suhogo kashlya"]={{path="chatsounds/autoadd/wicopee/i tak mi na fabrike po proizvodstvu suhogo kashlya.ogg",length=3.713}}
 L["i tut zhe nachili buhat"]={{path="chatsounds/autoadd/wicopee/i tut zhe nachili buhat.ogg",length=1.253}}
 L["i tuuutut ya"]={{path="chatsounds/autoadd/wicopee/i tuuutut ya.ogg",length=0.760}}
@@ -162,6 +163,7 @@ L["spi spi"]={{path="chatsounds/autoadd/wicopee/spi spi.ogg",length=0.555}}
 L["suka blyat prekrati stuchat"]={{path="chatsounds/autoadd/wicopee/suka blyat prekrati stuchat.ogg",length=1.771}}
 L["tableknockintense"]={{path="chatsounds/autoadd/wicopee/tableknockintense.ogg",length=0.381}}
 L["tablesmack da hvatit"]={{path="chatsounds/autoadd/wicopee/tablesmack da hvatit.ogg",length=2.741}}
+L["tacobell bell"]={{path="chatsounds/autoadd/wicopee/tacobell bell.ogg",length=1.766}}
 L["tebe blini zdelat"]={{path="chatsounds/autoadd/wicopee/tebe blini zdelat.ogg",length=0.846}}
 L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.502}}
 L["ti shumish tiho blyat"]={{path="chatsounds/autoadd/wicopee/ti shumish tiho blyat.ogg",length=1.295}}
