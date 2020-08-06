@@ -43,6 +43,7 @@ L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.366}}
 L["hi im paul"]={{path="chatsounds/autoadd/misc/hi im paul.ogg",length=3.065}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.873}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.316}}
+L["hyperspace bruh"]={{path="chatsounds/autoadd/misc/hyperspace bruh.ogg",length=2.150}}
 L["i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/i pulled a sneaky on ya.ogg",length=0.994}}
 L["is"]={{path="chatsounds/autoadd/misc/is.ogg",length=0.194}}
 L["isnt"]={{path="chatsounds/autoadd/misc/isnt.ogg",length=0.286}}
