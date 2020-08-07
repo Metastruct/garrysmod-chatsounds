@@ -8,6 +8,7 @@ L["bonus fucks"]={{path="chatsounds/autoadd/merasmus/bonus fucks.ogg",length=1.0
 L["but i wanted to rape them"]={{path="chatsounds/autoadd/merasmus/but i wanted to rape them.ogg",length=2.563}}
 L["but the police told me that you are too slow at everything"]={{path="chatsounds/autoadd/merasmus/but the police told me that you are too slow at everything.ogg",length=4.269}}
 L["do you feel it tightening around your cock"]={{path="chatsounds/autoadd/merasmus/do you feel it tightening around your cock.ogg",length=2.319}}
+L["eheh dermented soldier everyone remember that"]={{path="chatsounds/autoadd/merasmus/eheh dermented soldier everyone remember that.ogg",length=3.550}}
 L["fap intensifies daaaah"]={{path="chatsounds/autoadd/merasmus/fap intensifies daaaah.ogg",length=2.326}}
 L["heblelb"]={{path="chatsounds/autoadd/merasmus/heblelb.ogg",length=0.854}}
 L["hes going to fuck that cock"]={{path="chatsounds/autoadd/merasmus/hes going to fuck that cock.ogg",length=2.733}}

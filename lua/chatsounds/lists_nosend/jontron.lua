@@ -33,6 +33,7 @@ L["jonlaughconker"]={{path="chatsounds/autoadd/jontron/jonlaughconker.ogg",lengt
 L["jontronbestgame"]={{path="chatsounds/autoadd/jontron/jontronbestgame.ogg",length=3.170}}
 L["jontronmariocitysimulatorrage"]={{path="chatsounds/autoadd/jontron/jontronmariocitysimulatorrage.ogg",length=15.882}}
 L["just gonna keep this secret nice and tucked away in my soul until it burns a hole through it"]={{path="chatsounds/autoadd/jontron/just gonna keep this secret nice and tucked away in my soul until it burns a hole through it.ogg",length=5.275}}
+L["kids gon die tonight"]={{path="chatsounds/autoadd/jontron/kids gon die tonight.ogg",length=1.620}}
 L["making legend of zelda modern warfare"]={{path="chatsounds/autoadd/jontron/making legend of zelda modern warfare.ogg",length=1.668}}
 L["nope nope nope nope nope nope nope nope nope so much nope"]={{path="chatsounds/autoadd/jontron/nope nope nope nope nope nope nope nope nope so much nope.ogg",length=2.539}}
 L["not even once"]={{path="chatsounds/autoadd/jontron/not even once.ogg",length=3.234}}
@@ -50,6 +51,7 @@ L["stranger danger"]={{path="chatsounds/autoadd/jontron/stranger danger.ogg",len
 L["that was amazing"]={{path="chatsounds/autoadd/jontron/that was amazing.ogg",length=2.593}}
 L["they didnt blow it"]={{path="chatsounds/autoadd/jontron/they didnt blow it.ogg",length=0.734}}
 L["this is crack"]={{path="chatsounds/autoadd/jontron/this is crack.ogg",length=2.033}}
+L["two kids gon die tonight"]={{path="chatsounds/autoadd/jontron/two kids gon die tonight.ogg",length=1.912}}
 L["waht daaa fhuckk"]={{path="chatsounds/autoadd/jontron/waht daaa fhuckk.ogg",length=3.416}}
 L["wat"]={{path="chatsounds/autoadd/jontron/wat.ogg",length=0.880}}
 L["wat wtf"]={{path="chatsounds/autoadd/jontron/wat wtf.ogg",length=3.106}}

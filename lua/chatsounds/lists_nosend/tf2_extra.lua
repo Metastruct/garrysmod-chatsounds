@@ -53,6 +53,7 @@ L["enernes"]={{path="chatsounds/autoadd/tf2_extra/enernes.ogg",length=0.788}}
 L["espresso"]={{path="chatsounds/autoadd/tf2_extra/espresso.ogg",length=0.772}}
 L["everyone there is a mcdonalds ahead"]={{path="chatsounds/autoadd/tf2_extra/everyone there is a mcdonalds ahead.ogg",length=3.419}}
 L["faggots"]={{path="chatsounds/autoadd/tf2_extra/faggots.ogg",length=0.780}}
+L["femur breaker"]={{path="chatsounds/autoadd/tf2_extra/femur breaker/1.ogg",length=7.303},{path="chatsounds/autoadd/tf2_extra/femur breaker/2.ogg",length=4.630},{path="chatsounds/autoadd/tf2_extra/femur breaker/3.ogg",length=4.941},{path="chatsounds/autoadd/tf2_extra/femur breaker/4.ogg",length=7.303}}
 L["ffuck"]={{path="chatsounds/autoadd/tf2_extra/ffuck.ogg",length=0.621}}
 L["for twelve seconds"]={{path="chatsounds/autoadd/tf2_extra/for twelve seconds.ogg",length=2.101}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2_extra/fuck you.ogg",length=1.086}}
