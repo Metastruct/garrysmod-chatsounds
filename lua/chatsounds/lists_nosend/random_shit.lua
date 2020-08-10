@@ -40,6 +40,7 @@ L["hah gay"]={{path="chatsounds/autoadd/random_shit/hah gay.ogg",length=2.791}}
 L["hello from the other siiiiiiide"]={{path="chatsounds/autoadd/random_shit/hello from the other siiiiiiide.ogg",length=4.840}}
 L["hello internet welcome to gay"]={{path="chatsounds/autoadd/random_shit/hello internet welcome to gay.ogg",length=3.585}}
 L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/random_shit/hes the most powerful hacker of all time.ogg",length=2.367}}
+L["hey guys wario here"]={{path="chatsounds/autoadd/random_shit/hey guys wario here.ogg",length=2.278}}
 L["hey joe"]={{path="chatsounds/autoadd/random_shit/hey joe.ogg",length=0.465}}
 L["hey man lets make a company called modern designs"]={{path="chatsounds/autoadd/random_shit/hey man lets make a company called modern designs.ogg",length=2.626}}
 L["hey peter"]={{path="chatsounds/autoadd/random_shit/hey peter.ogg",length=0.739}}
@@ -91,6 +92,7 @@ L["no i dont wanna be bread"]={{path="chatsounds/autoadd/random_shit/no i dont w
 L["no nooooooooo"]={{path="chatsounds/autoadd/random_shit/no nooooooooo.ogg",length=2.273}}
 L["now this is podracing"]={{path="chatsounds/autoadd/random_shit/now this is podracing.ogg",length=2.046}}
 L["objection"]={{path="chatsounds/autoadd/random_shit/objection.ogg",length=1.322}}
+L["oh my goodness guys my stomach is rolling from eating that onion and rotten garlic"]={{path="chatsounds/autoadd/random_shit/oh my goodness guys my stomach is rolling from eating that onion and rotten garlic.ogg",length=5.234}}
 L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["penis music"]={{path="chatsounds/autoadd/random_shit/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/random_shit/penis music loop.ogg",length=10.975}}
