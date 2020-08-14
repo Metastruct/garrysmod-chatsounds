@@ -65,6 +65,7 @@ L["glitch"]={{path="chatsounds/autoadd/wicopee/glitch.ogg",length=3.300}}
 L["gopnicsound"]={{path="chatsounds/autoadd/wicopee/gopnicsound.ogg",length=0.443}}
 L["govno vopros"]={{path="chatsounds/autoadd/wicopee/govno vopros.ogg",length=0.725}}
 L["hello will"]={{path="chatsounds/autoadd/wicopee/hello will.ogg",length=1.344}}
+L["hey dog can i get some ice cream"]={{path="chatsounds/autoadd/wicopee/hey dog can i get some ice cream.ogg",length=1.099}}
 L["hey stfu what are you listening to"]={{path="chatsounds/autoadd/wicopee/hey stfu what are you listening to.ogg",length=5.614}}
 L["hh birdsounds"]={{path="chatsounds/autoadd/wicopee/hh birdsounds.ogg",length=1.188}}
 L["hihihihihi"]={{path="chatsounds/autoadd/wicopee/hihihihihi.ogg",length=0.963}}
@@ -116,6 +117,7 @@ L["o yaico"]={{path="chatsounds/autoadd/wicopee/o yaico.ogg",length=1.368}}
 L["oh"]={{path="chatsounds/autoadd/wicopee/oh.ogg",length=0.475}}
 L["oh its mr mvp"]={{path="chatsounds/autoadd/wicopee/oh its mr mvp.ogg",length=2.296}}
 L["ona medlenno prevrashaetsya v zhenchinu"]={{path="chatsounds/autoadd/wicopee/ona medlenno prevrashaetsya v zhenchinu.ogg",length=2.673}}
+L["only a spoonful"]={{path="chatsounds/autoadd/wicopee/only a spoonful.ogg",length=1.215}}
 L["oo ps"]={{path="chatsounds/autoadd/wicopee/oo ps.ogg",length=0.472}}
 L["ooo"]={{path="chatsounds/autoadd/wicopee/ooo.ogg",length=0.280}}
 L["opa pizdec"]={{path="chatsounds/autoadd/wicopee/opa pizdec.ogg",length=4.019}}
