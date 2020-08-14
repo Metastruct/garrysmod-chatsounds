@@ -122,6 +122,7 @@ L["oo ps"]={{path="chatsounds/autoadd/wicopee/oo ps.ogg",length=0.472}}
 L["ooo"]={{path="chatsounds/autoadd/wicopee/ooo.ogg",length=0.280}}
 L["opa pizdec"]={{path="chatsounds/autoadd/wicopee/opa pizdec.ogg",length=4.019}}
 L["ot pureshki prosto fanateet"]={{path="chatsounds/autoadd/wicopee/ot pureshki prosto fanateet.ogg",length=2.281}}
+L["overused thud"]={{path="chatsounds/autoadd/wicopee/overused thud.ogg",length=1.180}}
 L["owlsound"]={{path="chatsounds/autoadd/wicopee/owlsound.ogg",length=0.428}}
 L["papa ebanulsya"]={{path="chatsounds/autoadd/wicopee/papa ebanulsya.ogg",length=1.249}}
 L["pe"]={{path="chatsounds/autoadd/wicopee/pe.ogg",length=0.348}}
