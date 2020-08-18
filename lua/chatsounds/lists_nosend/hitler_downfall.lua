@@ -1,7 +1,13 @@
 c.StartList("hitler_downfall")
+L["ah monke"]={{path="chatsounds/autoadd/hitler_downfall/ah monke.ogg",length=1.871}}
+L["cola give me a cola"]={{path="chatsounds/autoadd/hitler_downfall/cola give me a cola.ogg",length=1.562}}
+L["corrupt imbecile"]={{path="chatsounds/autoadd/hitler_downfall/corrupt imbecile.ogg",length=1.456}}
+L["crappy"]={{path="chatsounds/autoadd/hitler_downfall/crappy.ogg",length=0.765}}
 L["dann suchen sie ihn"]={{path="chatsounds/autoadd/hitler_downfall/dann suchen sie ihn.ogg",length=1.188}}
 L["das ist der schlimmste verrat von allen"]={{path="chatsounds/autoadd/hitler_downfall/das ist der schlimmste verrat von allen.ogg",length=2.841}}
 L["der war korrupt"]={{path="chatsounds/autoadd/hitler_downfall/der war korrupt.ogg",length=1.000}}
+L["epic fail"]={{path="chatsounds/autoadd/hitler_downfall/epic fail.ogg",length=1.100}}
+L["epicly"]={{path="chatsounds/autoadd/hitler_downfall/epicly.ogg",length=0.760}}
 L["fahnenflucht"]={{path="chatsounds/autoadd/hitler_downfall/fahnenflucht.ogg",length=0.992}}
 L["fegelein"]={{path="chatsounds/autoadd/hitler_downfall/fegelein/fegelein1.ogg",length=1.086},{path="chatsounds/autoadd/hitler_downfall/fegelein/fegelein2.ogg",length=0.910},{path="chatsounds/autoadd/hitler_downfall/fegelein/fegelein3.ogg",length=1.077}}
 L["himmler"]={{path="chatsounds/autoadd/hitler_downfall/himmler/himmler1.ogg",length=0.669},{path="chatsounds/autoadd/hitler_downfall/himmler/himmler2.ogg",length=0.572}}
@@ -10,6 +16,7 @@ L["ich will fegelein sehen sofort"]={{path="chatsounds/autoadd/hitler_downfall/i
 L["immer schon"]={{path="chatsounds/autoadd/hitler_downfall/immer schon.ogg",length=0.582}}
 L["ja"]={{path="chatsounds/autoadd/hitler_downfall/ja.ogg",length=0.399}}
 L["ja ja ja ja ja"]={{path="chatsounds/autoadd/hitler_downfall/ja ja ja ja ja.ogg",length=1.397}}
+L["san francisco"]={{path="chatsounds/autoadd/hitler_downfall/san francisco.ogg",length=1.063}}
 L["sofort"]={{path="chatsounds/autoadd/hitler_downfall/sofort.ogg",length=0.819}}
 L["speer"]={{path="chatsounds/autoadd/hitler_downfall/speer.ogg",length=0.457}}
 L["unter allen ausgerechnet himmler"]={{path="chatsounds/autoadd/hitler_downfall/unter allen ausgerechnet himmler.ogg",length=3.303}}
