@@ -93,6 +93,7 @@ L["no nooooooooo"]={{path="chatsounds/autoadd/random_shit/no nooooooooo.ogg",len
 L["now this is podracing"]={{path="chatsounds/autoadd/random_shit/now this is podracing.ogg",length=2.046}}
 L["objection"]={{path="chatsounds/autoadd/random_shit/objection.ogg",length=1.322}}
 L["oh my goodness guys my stomach is rolling from eating that onion and rotten garlic"]={{path="chatsounds/autoadd/random_shit/oh my goodness guys my stomach is rolling from eating that onion and rotten garlic.ogg",length=5.234}}
+L["parola di baffo"]={{path="chatsounds/autoadd/random_shit/parola di baffo.ogg",length=1.353}}
 L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["penis music"]={{path="chatsounds/autoadd/random_shit/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/random_shit/penis music loop.ogg",length=10.975}}
@@ -133,6 +134,7 @@ L["well it was fuckin one of yas"]={{path="chatsounds/autoadd/random_shit/well i
 L["what are frogs"]={{path="chatsounds/autoadd/random_shit/what are frogs.ogg",length=0.752}}
 L["what in the name of all thats right are you talking about human"]={{path="chatsounds/autoadd/random_shit/what in the name of all thats right are you talking about human.ogg",length=5.700}}
 L["what the hell is this"]={{path="chatsounds/autoadd/random_shit/what the hell is this.ogg",length=1.446}}
+L["what up biatch"]={{path="chatsounds/autoadd/random_shit/what up biatch.ogg",length=1.398}}
 L["when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time"]={{path="chatsounds/autoadd/random_shit/when pizzas on a bagel you can eat pizzaaaaaaaaaaaa any time.ogg",length=11.585}}
 L["who are you i am from ancient greece"]={{path="chatsounds/autoadd/random_shit/who are you i am from ancient greece.ogg",length=3.408}}
 L["who the hell is steve jobs"]={{path="chatsounds/autoadd/random_shit/who the hell is steve jobs.ogg",length=1.803}}
