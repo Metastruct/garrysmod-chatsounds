@@ -166,7 +166,6 @@ L["spi spi"]={{path="chatsounds/autoadd/wicopee/spi spi.ogg",length=0.555}}
 L["suka blyat prekrati stuchat"]={{path="chatsounds/autoadd/wicopee/suka blyat prekrati stuchat.ogg",length=1.771}}
 L["tableknockintense"]={{path="chatsounds/autoadd/wicopee/tableknockintense.ogg",length=0.381}}
 L["tablesmack da hvatit"]={{path="chatsounds/autoadd/wicopee/tablesmack da hvatit.ogg",length=2.741}}
-L["tacobell bell"]={{path="chatsounds/autoadd/wicopee/tacobell bell.ogg",length=1.766}}
 L["tebe blini zdelat"]={{path="chatsounds/autoadd/wicopee/tebe blini zdelat.ogg",length=0.846}}
 L["the game is fun"]={{path="chatsounds/autoadd/wicopee/the game is fun.ogg",length=2.502}}
 L["ti shumish tiho blyat"]={{path="chatsounds/autoadd/wicopee/ti shumish tiho blyat.ogg",length=1.295}}

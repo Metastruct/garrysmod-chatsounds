@@ -33,6 +33,7 @@ L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these 
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["scooby noises"]={{path="chatsounds/autoadd/memes/scooby noises.ogg",length=13.485}}
+L["tacobell bell"]={{path="chatsounds/autoadd/memes/tacobell bell.ogg",length=1.722}}
 L["this is epic"]={{path="chatsounds/autoadd/memes/this is epic.ogg",length=1.200}}
 L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.394}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/memes/vaporwave loop.ogg",length=21.902}}
