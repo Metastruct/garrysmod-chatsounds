@@ -5,6 +5,7 @@ L["deep dark fantasies"]={{path="chatsounds/autoadd/random_chatsounds/deep dark 
 L["duck has stopped working"]={{path="chatsounds/autoadd/random_chatsounds/duck has stopped working.ogg",length=87.575}}
 L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random_chatsounds/flbfllflfllahflbflblfflflfl.ogg",length=1.936}}
 L["get over it"]={{path="chatsounds/autoadd/random_chatsounds/get over it.ogg",length=1.260}}
+L["gimp"]={{path="chatsounds/autoadd/random_chatsounds/gimp.ogg",length=0.923}}
 L["i come to you right now"]={{path="chatsounds/autoadd/random_chatsounds/i come to you right now.ogg",length=1.544}}
 L["i have crippling depression"]={{path="chatsounds/autoadd/random_chatsounds/i have crippling depression.ogg",length=2.565}}
 L["i kill you right now"]={{path="chatsounds/autoadd/random_chatsounds/i kill you right now.ogg",length=1.950}}
