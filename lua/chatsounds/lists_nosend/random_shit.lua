@@ -99,6 +99,7 @@ L["penis music"]={{path="chatsounds/autoadd/random_shit/penis music.ogg",length=
 L["penis music loop"]={{path="chatsounds/autoadd/random_shit/penis music loop.ogg",length=10.975}}
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/random_shit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}
 L["poggers"]={{path="chatsounds/autoadd/random_shit/poggers.ogg",length=0.871}}
+L["poggers moment"]={{path="chatsounds/autoadd/random_shit/poggers moment.ogg",length=1.059}}
 L["quieres"]={{path="chatsounds/autoadd/random_shit/quieres.ogg",length=1.751}}
 L["rdmrdmrdm"]={{path="chatsounds/autoadd/random_shit/rdmrdmrdm.ogg",length=2.628}}
 L["say the line bart"]={{path="chatsounds/autoadd/random_shit/say the line bart.ogg",length=2.297}}
