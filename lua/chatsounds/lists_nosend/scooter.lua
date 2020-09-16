@@ -19,7 +19,7 @@ L["faster harder scooter"]={{path="chatsounds/autoadd/scooter/faster harder scoo
 L["gary d"]={{path="chatsounds/autoadd/scooter/gary d.ogg",length=1.269}}
 L["gizmo"]={{path="chatsounds/autoadd/scooter/gizmo.ogg",length=1.299}}
 L["hell"]={{path="chatsounds/autoadd/scooter/hell.ogg",length=1.180}}
-L["how do you do uh huh i thought why not na na na na just me and you and then we can na na na na just like before and you will say na na na na please give me more and you"]={{path="chatsounds/autoadd/scooter/how do you do.ogg",length=13.491}}
+L["how do you do song"]={{path="chatsounds/autoadd/scooter/how do you do song.ogg",length=13.491}}
 L["how much is the fish"]={{path="chatsounds/autoadd/scooter/how much is the fish.ogg",length=3.101}}
 L["hyper hyper"]={{path="chatsounds/autoadd/scooter/hyper hyper.ogg",length=3.251}}
 L["i said i want to see you sweat"]={{path="chatsounds/autoadd/scooter/i said i want to see you sweat.ogg",length=3.520}}
