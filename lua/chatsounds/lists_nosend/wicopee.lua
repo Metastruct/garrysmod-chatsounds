@@ -21,6 +21,7 @@ L["are you really frustrated"]={{path="chatsounds/autoadd/wicopee/are you really
 L["audiencelaugh"]={{path="chatsounds/autoadd/wicopee/audiencelaugh/1.ogg",length=3.295},{path="chatsounds/autoadd/wicopee/audiencelaugh/2.ogg",length=0.544}}
 L["audiencelaugh distorted"]={{path="chatsounds/autoadd/wicopee/audiencelaugh distorted/1.ogg",length=0.637},{path="chatsounds/autoadd/wicopee/audiencelaugh distorted/2.ogg",length=0.475}}
 L["avgnasakid"]={{path="chatsounds/autoadd/wicopee/avgnasakid.ogg",length=11.945}}
+L["ayo what the fuck"]={{path="chatsounds/autoadd/wicopee/ayo what the fuck.ogg",length=1.416}}
 L["baa"]={{path="chatsounds/autoadd/wicopee/baa.ogg",length=0.692}}
 L["babushka nu dai pospat"]={{path="chatsounds/autoadd/wicopee/babushka nu dai pospat.ogg",length=1.961}}
 L["babushka ti zaebala"]={{path="chatsounds/autoadd/wicopee/babushka ti zaebala.ogg",length=1.172}}
