@@ -98,6 +98,7 @@ L["kuda nahuy loud"]={{path="chatsounds/autoadd/wicopee/kuda nahuy loud.ogg",len
 L["kupili papa i mama po butilke"]={{path="chatsounds/autoadd/wicopee/kupili papa i mama po butilke.ogg",length=1.995}}
 L["laugh"]={{path="chatsounds/autoadd/wicopee/laugh.ogg",length=1.026}}
 L["lift yourself loop"]={{path="chatsounds/autoadd/wicopee/lift yourself loop.ogg",length=18.959}}
+L["man im finna whip this hoe"]={{path="chatsounds/autoadd/wicopee/man im finna whip this hoe.ogg",length=1.131}}
 L["menlaughing"]={{path="chatsounds/autoadd/wicopee/menlaughing.ogg",length=2.433}}
 L["micbash"]={{path="chatsounds/autoadd/wicopee/micbash.ogg",length=0.432}}
 L["minions are a metaphor for communism"]={{path="chatsounds/autoadd/wicopee/minions are a metaphor for communism.ogg",length=3.118}}
