@@ -93,6 +93,7 @@ L["no i dont want that"]={{path="chatsounds/autoadd/tenrys/no i dont want that.o
 L["no no no no no"]={{path="chatsounds/autoadd/tenrys/no no no no no/1.ogg",length=2.648},{path="chatsounds/autoadd/tenrys/no no no no no/2.ogg",length=2.648}}
 L["no nobody can help you"]={{path="chatsounds/autoadd/tenrys/no nobody can help you.ogg",length=2.610}}
 L["non non nonnonnonnon non"]={{path="chatsounds/autoadd/tenrys/non non nonnonnonnon non.ogg",length=2.372}}
+L["not poggers"]={{path="chatsounds/autoadd/tenrys/not poggers.ogg",length=0.621}}
 L["nuke"]={{path="chatsounds/autoadd/tenrys/nuke.ogg",length=4.078}}
 L["nuke alarm"]={{path="chatsounds/autoadd/tenrys/nuke alarm.ogg",length=11.108}}
 L["of course that would have to include you"]={{path="chatsounds/autoadd/tenrys/of course that would have to include you.ogg",length=2.607}}

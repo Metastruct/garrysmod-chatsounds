@@ -10,7 +10,9 @@ L["big big chungus"]={{path="chatsounds/autoadd/random_shit/big big chungus.ogg"
 L["big chungus"]={{path="chatsounds/autoadd/random_shit/big chungus.ogg",length=0.971}}
 L["boo you suck"]={{path="chatsounds/autoadd/random_shit/boo you suck.ogg",length=2.509}}
 L["brb tax collector is escaping from the basement"]={{path="chatsounds/autoadd/random_shit/brb tax collector is escaping from the basement.ogg",length=3.100}}
+L["but not for me"]={{path="chatsounds/autoadd/random_shit/but not for me.ogg",length=1.304}}
 L["buzz look an alien"]={{path="chatsounds/autoadd/random_shit/buzz look an alien.ogg",length=1.034}}
+L["call an ambulance call an ambulance"]={{path="chatsounds/autoadd/random_shit/call an ambulance call an ambulance.ogg",length=4.085}}
 L["can i get a kappa"]={{path="chatsounds/autoadd/random_shit/can i get a kappa.ogg",length=1.521}}
 L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg",length=2.140}}
 L["cloakerscream"]={{path="chatsounds/autoadd/random_shit/cloakerscream.ogg",length=5.065}}
@@ -22,6 +24,7 @@ L["disgustang"]={{path="chatsounds/autoadd/random_shit/disgustang.ogg",length=1.
 L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let your kids watch it.ogg",length=1.885}}
 L["dumblecunts gonna say a few words to you now so you all better pay some attention now ye"]={{path="chatsounds/autoadd/random_shit/dumblecunts gonna say a few words to you now so you all better pay some attention now ye.ogg",length=6.596}}
 L["ee ur"]={{path="chatsounds/autoadd/random_shit/ee ur.ogg",length=1.431}}
+L["eekum bokum"]={{path="chatsounds/autoadd/random_shit/eekum bokum/1.ogg",length=0.883},{path="chatsounds/autoadd/random_shit/eekum bokum/2.ogg",length=1.063}}
 L["eugh"]={{path="chatsounds/autoadd/random_shit/eugh.ogg",length=0.542}}
 L["except black"]={{path="chatsounds/autoadd/random_shit/except black.ogg",length=1.718}}
 L["fatality"]={{path="chatsounds/autoadd/random_shit/fatality.ogg",length=2.221}}
@@ -129,6 +132,7 @@ L["tiduslaugh"]={{path="chatsounds/autoadd/random_shit/tiduslaugh.ogg",length=7.
 L["timey wimey"]={{path="chatsounds/autoadd/random_shit/timey wimey.ogg",length=1.147}}
 L["truth is the game was rigged from the start"]={{path="chatsounds/autoadd/random_shit/truth is the game was rigged from the start.ogg",length=3.963}}
 L["try another"]={{path="chatsounds/autoadd/random_shit/try another.ogg",length=0.803}}
+L["unga bunga"]={{path="chatsounds/autoadd/random_shit/unga bunga.ogg",length=0.812}}
 L["very evil indeed"]={{path="chatsounds/autoadd/random_shit/very evil indeed.ogg",length=2.183}}
 L["wario dies"]={{path="chatsounds/autoadd/random_shit/wario dies.ogg",length=8.456}}
 L["well it was fuckin one of yas"]={{path="chatsounds/autoadd/random_shit/well it was fuckin one of yas.ogg",length=1.976}}
