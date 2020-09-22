@@ -1,4 +1,5 @@
 c.StartList("five_nights_at_freddys")
+L["fnaf ambience"]={{path="chatsounds/autoadd/five_nights_at_freddys/fnaf ambience/1.ogg",length=115.450},{path="chatsounds/autoadd/five_nights_at_freddys/fnaf ambience/2.ogg",length=60.000}}
 L["fnaf breath"]={{path="chatsounds/autoadd/five_nights_at_freddys/fnaf breath/1.ogg",length=2.898},{path="chatsounds/autoadd/five_nights_at_freddys/fnaf breath/2.ogg",length=5.566},{path="chatsounds/autoadd/five_nights_at_freddys/fnaf breath/3.ogg",length=2.506},{path="chatsounds/autoadd/five_nights_at_freddys/fnaf breath/4.ogg",length=3.571}}
 L["fnaf chime"]={{path="chatsounds/autoadd/five_nights_at_freddys/fnaf chime.ogg",length=12.997}}
 L["fnaf danger"]={{path="chatsounds/autoadd/five_nights_at_freddys/fnaf danger.ogg",length=114.834}}
