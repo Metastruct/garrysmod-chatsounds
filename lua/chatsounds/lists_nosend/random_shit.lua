@@ -53,6 +53,7 @@ L["how many cigorettes have you got lad"]={{path="chatsounds/autoadd/random_shit
 L["i cant play in these conditions"]={{path="chatsounds/autoadd/random_shit/i cant play in these conditions.ogg",length=1.725}}
 L["i didnt do it nobody saw me do it theres no way they can prove anything"]={{path="chatsounds/autoadd/random_shit/i didnt do it nobody saw me do it theres no way they can prove anything.ogg",length=2.105}}
 L["i have the high ground"]={{path="chatsounds/autoadd/random_shit/i have the high ground.ogg",length=1.380}}
+L["i have to break your neck"]={{path="chatsounds/autoadd/random_shit/i have to break your neck.ogg",length=1.288}}
 L["i lose my speed"]={{path="chatsounds/autoadd/random_shit/i lose my speed.ogg",length=1.858}}
 L["i mean its terrific right"]={{path="chatsounds/autoadd/random_shit/i mean its terrific right.ogg",length=1.594}}
 L["i see you dont have a lifeguard here at your beach"]={{path="chatsounds/autoadd/random_shit/i see you dont have a lifeguard here at your beach.ogg",length=2.670}}
@@ -63,10 +64,12 @@ L["im in danger"]={{path="chatsounds/autoadd/random_shit/im in danger.ogg",lengt
 L["im learnding"]={{path="chatsounds/autoadd/random_shit/im learnding.ogg",length=1.642}}
 L["im looking at gay porno"]={{path="chatsounds/autoadd/random_shit/im looking at gay porno.ogg",length=1.776}}
 L["im not at the beach this is a bathtub"]={{path="chatsounds/autoadd/random_shit/im not at the beach this is a bathtub.ogg",length=2.837}}
+L["im not im just the messenger"]={{path="chatsounds/autoadd/random_shit/im not im just the messenger.ogg",length=1.648}}
 L["is that a man riding a shrimp"]={{path="chatsounds/autoadd/random_shit/is that a man riding a shrimp.ogg",length=2.119}}
 L["it takes all colors to make a rainbow"]={{path="chatsounds/autoadd/random_shit/it takes all colors to make a rainbow.ogg",length=2.985}}
 L["it takes all colors to make a rainbow except black"]={{path="chatsounds/autoadd/random_shit/it takes all colors to make a rainbow except black.ogg",length=5.951}}
 L["its as satisfying to me as cumming is"]={{path="chatsounds/autoadd/random_shit/its as satisfying to me as cumming is.ogg",length=3.203}}
+L["its just the way it is"]={{path="chatsounds/autoadd/random_shit/its just the way it is.ogg",length=1.658}}
 L["its over anakin"]={{path="chatsounds/autoadd/random_shit/its over anakin.ogg",length=1.314}}
 L["its rewind time"]={{path="chatsounds/autoadd/random_shit/its rewind time.ogg",length=1.516}}
 L["its so sad that steve jobs died of ligma"]={{path="chatsounds/autoadd/random_shit/its so sad that steve jobs died of ligma.ogg",length=3.977}}
