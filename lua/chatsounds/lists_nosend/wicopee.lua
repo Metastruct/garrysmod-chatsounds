@@ -43,6 +43,7 @@ L["content cop intro"]={{path="chatsounds/autoadd/wicopee/content cop intro.ogg"
 L["corruptionsound"]={{path="chatsounds/autoadd/wicopee/corruptionsound.ogg",length=0.288}}
 L["da kto zhe togda stuchit"]={{path="chatsounds/autoadd/wicopee/da kto zhe togda stuchit.ogg",length=1.073}}
 L["da nikto loud"]={{path="chatsounds/autoadd/wicopee/da nikto loud.ogg",length=0.738}}
+L["da vinky"]={{path="chatsounds/autoadd/wicopee/da vinky.ogg",length=0.924}}
 L["dadaladno"]={{path="chatsounds/autoadd/wicopee/dadaladno.ogg",length=0.979}}
 L["dal"]={{path="chatsounds/autoadd/wicopee/dal.ogg",length=0.191}}
 L["demonic screech"]={{path="chatsounds/autoadd/wicopee/demonic screech.ogg",length=5.400}}
@@ -104,6 +105,7 @@ L["micbash"]={{path="chatsounds/autoadd/wicopee/micbash.ogg",length=0.432}}
 L["minions are a metaphor for communism"]={{path="chatsounds/autoadd/wicopee/minions are a metaphor for communism.ogg",length=3.118}}
 L["mm"]={{path="chatsounds/autoadd/wicopee/mm.ogg",length=0.601}}
 L["mmm"]={{path="chatsounds/autoadd/wicopee/mmm.ogg",length=0.654}}
+L["mona lisa"]={{path="chatsounds/autoadd/wicopee/mona lisa.ogg",length=0.953}}
 L["my god what are you kids listening to in here"]={{path="chatsounds/autoadd/wicopee/my god what are you kids listening to in here.ogg",length=3.445}}
 L["na ulice to utro ne vidno ne figa"]={{path="chatsounds/autoadd/wicopee/na ulice to utro ne vidno ne figa.ogg",length=2.537}}
 L["nasha kvartira mne zashkvar napominaet"]={{path="chatsounds/autoadd/wicopee/nasha kvartira mne zashkvar napominaet.ogg",length=1.573}}
@@ -154,6 +156,7 @@ L["screamfadein"]={{path="chatsounds/autoadd/wicopee/screamfadein.ogg",length=2.
 L["screech"]={{path="chatsounds/autoadd/wicopee/screech.ogg",length=0.972}}
 L["sees"]={{path="chatsounds/autoadd/wicopee/sees.ogg",length=0.463}}
 L["segodnya denj ili nochj"]={{path="chatsounds/autoadd/wicopee/segodnya denj ili nochj.ogg",length=1.239}}
+L["seisa"]={{path="chatsounds/autoadd/wicopee/seisa.ogg",length=0.727}}
 L["serbiastrong8bit"]={{path="chatsounds/autoadd/wicopee/serbiastrong8bit.ogg",length=8.289}}
 L["sharik ti idiot"]={{path="chatsounds/autoadd/wicopee/sharik ti idiot.ogg",length=2.751}}
 L["shout"]={{path="chatsounds/autoadd/wicopee/shout.ogg",length=2.504}}
@@ -182,6 +185,7 @@ L["water ice salt aye"]={{path="chatsounds/autoadd/wicopee/water ice salt aye.og
 L["we can certainly express our anger if we handle our anger assertivley"]={{path="chatsounds/autoadd/wicopee/we can certainly express our anger if we handle our anger assertivley.ogg",length=5.973}}
 L["welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video"]={{path="chatsounds/autoadd/wicopee/welcome back kops my name is kwebbelkop and today we doing funny black mesa half life video.ogg",length=6.388}}
 L["who can say where the road goes"]={{path="chatsounds/autoadd/wicopee/who can say where the road goes.ogg",length=4.814}}
+L["who painted the mona lisa"]={{path="chatsounds/autoadd/wicopee/who painted the mona lisa.ogg",length=1.849}}
 L["whoop di scoop di poop"]={{path="chatsounds/autoadd/wicopee/whoop di scoop di poop.ogg",length=1.902}}
 L["whoop diddy scoop"]={{path="chatsounds/autoadd/wicopee/whoop diddy scoop.ogg",length=1.289}}
 L["whoop diddy scoop poop"]={{path="chatsounds/autoadd/wicopee/whoop diddy scoop poop.ogg",length=1.195}}
