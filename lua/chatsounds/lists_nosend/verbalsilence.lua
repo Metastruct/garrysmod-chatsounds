@@ -6,6 +6,7 @@ L["adweedture time"]={{path="chatsounds/autoadd/verbalsilence/adweedture time/ad
 L["afternoon delight"]={{path="chatsounds/autoadd/verbalsilence/afternoon delight.ogg",length=3.678}}
 L["ah good baby"]={{path="chatsounds/autoadd/verbalsilence/ah good baby.ogg",length=2.148}}
 L["ahahahaha phrasing"]={{path="chatsounds/autoadd/verbalsilence/ahahahaha phrasing.ogg",length=2.099}}
+L["ahhh motherfuckin bootleg firework shit"]={{path="chatsounds/autoadd/verbalsilence/ahhh motherfuckin bootleg firework shit.ogg",length=2.633}}
 L["aint nobody got time for that"]={{path="chatsounds/autoadd/verbalsilence/aint nobody got time for that.ogg",length=1.377}}
 L["alright i just got intel from hq eta five minutes to bedtime boys lets wrap it up"]={{path="chatsounds/autoadd/verbalsilence/alright i just got intel from hq eta five minutes to bedtime boys lets wrap it up.ogg",length=4.334}}
 L["and none for gretchen weiners bye"]={{path="chatsounds/autoadd/verbalsilence/and none for gretchen weiners bye.ogg",length=1.598}}
@@ -106,15 +107,18 @@ L["intervention"]={{path="chatsounds/autoadd/verbalsilence/intervention.ogg",len
 L["it looks something like this"]={{path="chatsounds/autoadd/verbalsilence/it looks something like this.ogg",length=3.129}}
 L["its all there black and white clear as crystal"]={{path="chatsounds/autoadd/verbalsilence/its all there black and white clear as crystal.ogg",length=3.439}}
 L["its cool guy"]={{path="chatsounds/autoadd/verbalsilence/its cool guy.ogg",length=2.044}}
+L["its going down"]={{path="chatsounds/autoadd/verbalsilence/its going down.ogg",length=0.955}}
 L["its mr funk"]={{path="chatsounds/autoadd/verbalsilence/its mr funk.ogg",length=1.807}}
 L["its only game why you heff to be med"]={{path="chatsounds/autoadd/verbalsilence/its only game why you heff to be med.ogg",length=3.237}}
 L["ive got it"]={{path="chatsounds/autoadd/verbalsilence/ive got it.ogg",length=1.298}}
 L["jason"]={{path="chatsounds/autoadd/verbalsilence/jason/jason1.ogg",length=0.763},{path="chatsounds/autoadd/verbalsilence/jason/jason2.ogg",length=0.713},{path="chatsounds/autoadd/verbalsilence/jason/jason3.ogg",length=1.024}}
 L["jehuty in 1080p"]={{path="chatsounds/autoadd/verbalsilence/jehuty in 1080p.ogg",length=2.290}}
+L["jesus chraist"]={{path="chatsounds/autoadd/verbalsilence/jesus chraist.ogg",length=1.001}}
 L["joh rastafari"]={{path="chatsounds/autoadd/verbalsilence/joh rastafari.ogg",length=4.165}}
 L["kickboxing banana"]={{path="chatsounds/autoadd/verbalsilence/kickboxing banana/kickboxing banana2.ogg",length=1.872},{path="chatsounds/autoadd/verbalsilence/kickboxing banana/kickboxing banana3.ogg",length=2.598},{path="chatsounds/autoadd/verbalsilence/kickboxing banana/kickboxing banana4.ogg",length=3.572}}
 L["lets get right into the noose"]={{path="chatsounds/autoadd/verbalsilence/lets get right into the noose.ogg",length=4.552}}
 L["look look with your special eyes"]={{path="chatsounds/autoadd/verbalsilence/look look with your special eyes.ogg",length=2.187}}
+L["lord have mercy"]={{path="chatsounds/autoadd/verbalsilence/lord have mercy.ogg",length=1.185}}
 L["lorde lorde call me lorde ya ya ya ya ya ya"]={{path="chatsounds/autoadd/verbalsilence/lorde lorde call me lorde ya ya ya ya ya ya.ogg",length=2.704}}
 L["loser horn"]={{path="chatsounds/autoadd/verbalsilence/loser horn.ogg",length=4.511}}
 L["manana"]={{path="chatsounds/autoadd/verbalsilence/manana.ogg",length=0.979}}
