@@ -103,6 +103,7 @@ L["parola di baffo"]={{path="chatsounds/autoadd/random_shit/parola di baffo.ogg"
 L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["penis music"]={{path="chatsounds/autoadd/random_shit/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/random_shit/penis music loop.ogg",length=10.975}}
+L["perkele"]={{path="chatsounds/autoadd/random_shit/perkele.ogg",length=1.228}}
 L["pizzaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/random_shit/pizzaaaaaaaaaaaaaaaaaaa.ogg",length=14.869}}
 L["poggers"]={{path="chatsounds/autoadd/random_shit/poggers.ogg",length=0.871}}
 L["poggers moment"]={{path="chatsounds/autoadd/random_shit/poggers moment.ogg",length=1.059}}
