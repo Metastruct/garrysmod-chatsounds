@@ -5,27 +5,34 @@ Chat sounds system for Garry's Mod (with extra sounds)
 <img align="right" src="https://metastruct.net/github/garrysmod-chatsounds/ci-status.svg?branch=master" />
 
 ## NOTICE 2020-01-13
-
  - Repository was rewritten and forced pushed on 2020-01-13. Commit messages, commits and files were altered or removed to attempt removing sounds violating [GitHub AUP](https://help.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions). You will have to force pull the repository to get all changes. You can use `repo-reset.cmd` to do that. [better_profanity](https://pypi.org/project/better-profanity/) python module was used for the removal. 
  - tl;dr: run [repo-reset.cmd](https://raw.githubusercontent.com/Metastruct/garrysmod-chatsounds/master/repo-reset.cmd) in the chatsounds directory
  - **Please report any remaining offensive or otherwise GitHub AUP violating sounds you might find by creating a new issue!**
 
 ## How to install
- - Install a git client (tortoise git https://tortoisegit.org or github client https://desktop.github.com ) 
- - Git clone: https://github.com/Metastruct/garrysmod-chatsounds.git
-  - Save to ```garrysmod/addons/chatsounds```
-  - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder
+ - Install a git client ([GitKraken](https://www.gitkraken.com) or [GitHub Dekstop](https://desktop.github.com)) or use the [command line](docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
+ - Git clone https://github.com/Metastruct/garrysmod-chatsounds.git into your addons folder
+ - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder
 
-### How to install (alternative)
+<details>
+ <summary>Old alternative install method (not recommended to use)</summary>
+
  - Install subversion client: http://tortoisesvn.net/downloads.html
  - Checkout: https://github.com/Metastruct/garrysmod-chatsounds/trunk
-  - Save to ```garrysmod/addons/chatsounds```
-  - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder
+ - Save to ```garrysmod/addons/garrysmod-chatsounds```
+ - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder
+</details>
 
-## How to install on server (lua only)
- - Create directory ```garrysmod/addons/chatsounds```
- - Checkout: ```https://github.com/Metastruct/garrysmod-chatsounds/trunk/lua``` to ```garrysmod/addons/chatsounds/lua```
-  - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua/autorun/chatsounds.lua``` file.
+## How to install on server
+Git clone or download zip of https://github.com/metastruct/notagain. This allows players not to have to download the entire repo to use chatsounds.
+
+<details>
+ <summary>Old method</summary>
+ 
+ - Create directory ```garrysmod/addons/garrysmod-chatsounds```
+ - Checkout: ```https://github.com/Metastruct/garrysmod-chatsounds/trunk/lua``` to ```garrysmod/addons/garrysmod-chatsounds/lua```
+ - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua/autorun/chatsounds.lua``` file.
+</details>
 
 ## How to contribute more sounds to this repository
  - **SOUNDS MUST OBEY [GITHUB AUP](https://help.github.com/en/github/site-policy/github-acceptable-use-policies#2-content-restrictions)**
