@@ -7,6 +7,7 @@ L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random_chatsounds/fl
 L["get over it"]={{path="chatsounds/autoadd/random_chatsounds/get over it.ogg",length=1.260}}
 L["ggiimmpp"]={{path="chatsounds/autoadd/random_chatsounds/ggiimmpp.ogg",length=3.077}}
 L["gimp"]={{path="chatsounds/autoadd/random_chatsounds/gimp.ogg",length=0.923}}
+L["hey shitass wanna see me speedbridge"]={{path="chatsounds/autoadd/random_chatsounds/hey shitass wanna see me speedbridge.ogg",length=2.870}}
 L["i come to you right now"]={{path="chatsounds/autoadd/random_chatsounds/i come to you right now.ogg",length=1.544}}
 L["i have crippling depression"]={{path="chatsounds/autoadd/random_chatsounds/i have crippling depression.ogg",length=2.565}}
 L["i kill you right now"]={{path="chatsounds/autoadd/random_chatsounds/i kill you right now.ogg",length=1.950}}
