@@ -14,7 +14,9 @@ L["i kill you right now"]={{path="chatsounds/autoadd/random_chatsounds/i kill yo
 L["i rate the experience a six point five out of ten"]={{path="chatsounds/autoadd/random_chatsounds/i rate the experience a six point five out of ten.ogg",length=4.458}}
 L["im an artist"]={{path="chatsounds/autoadd/random_chatsounds/im an artist.ogg",length=1.207}}
 L["jesus christ god"]={{path="chatsounds/autoadd/random_chatsounds/jesus christ god.ogg",length=2.624}}
+L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatsounds/kill this arrogant moth er fu cker.ogg",length=1.858}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
+L["stupid bitch"]={{path="chatsounds/autoadd/random_chatsounds/stupid bitch.ogg",length=1.054}}
 L["uagh"]={{path="chatsounds/autoadd/random_chatsounds/uagh.ogg",length=0.723}}
 L["we do this you know one on one"]={{path="chatsounds/autoadd/random_chatsounds/we do this you know one on one.ogg",length=1.962}}
 L["what about the negro noodle"]={{path="chatsounds/autoadd/random_chatsounds/what about the negro noodle.ogg",length=1.718}}

@@ -88,6 +88,7 @@ L["pythong"]={{path="chatsounds/autoadd/misc/pythong.ogg",length=0.614}}
 L["qdance"]={{path="chatsounds/autoadd/misc/qdance.ogg",length=2.010}}
 L["question"]={{path="chatsounds/autoadd/misc/question.ogg",length=0.544}}
 L["red"]={{path="chatsounds/autoadd/misc/red.ogg",length=0.218}}
+L["reverb fart"]={{path="chatsounds/autoadd/misc/reverb fart.ogg",length=7.027}}
 L["rocketlawnchair"]={{path="chatsounds/autoadd/misc/rocketlawnchair.ogg",length=1.933}}
 L["rockthecasbah"]={{path="chatsounds/autoadd/misc/rockthecasbah.ogg",length=7.419}}
 L["roundabout intro"]={{path="chatsounds/autoadd/misc/roundabout intro.ogg",length=10.770}}
