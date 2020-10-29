@@ -43,6 +43,7 @@ L["cant seem"]={{path="chatsounds/autoadd/tf2_extra/cant seem.ogg",length=1.080}
 L["capdevelopatre"]={{path="chatsounds/autoadd/tf2_extra/capdevelopatre.ogg",length=0.744}}
 L["capsaicin"]={{path="chatsounds/autoadd/tf2_extra/capsaicin.ogg",length=0.969}}
 L["capuccino"]={{path="chatsounds/autoadd/tf2_extra/capuccino.ogg",length=1.209}}
+L["cause thats not enough"]={{path="chatsounds/autoadd/tf2_extra/cause thats not enough.ogg",length=2.041}}
 L["cider"]={{path="chatsounds/autoadd/tf2_extra/cider.ogg",length=0.602}}
 L["civilian gaming"]={{path="chatsounds/autoadd/tf2_extra/civilian gaming.ogg",length=10.762}}
 L["collecting bbone distorted"]={{path="chatsounds/autoadd/tf2_extra/collecting bbone distorted.ogg",length=1.059}}
@@ -59,7 +60,7 @@ L["do you wish for me to kick you in the nutsack"]={{path="chatsounds/autoadd/tf
 L["doctor"]={{path="chatsounds/autoadd/tf2_extra/doctor.ogg",length=0.920}}
 L["dont be such a baby"]={{path="chatsounds/autoadd/tf2_extra/dont be such a baby.ogg",length=1.328}}
 L["dreughhh"]={{path="chatsounds/autoadd/tf2_extra/dreughhh.ogg",length=1.647}}
-L["drinking intensifies"]={{path="chatsounds/autoadd/tf2_extra/drinking intensifies.ogg",length=2.233}}
+L["drinking intensifies"]={{path="chatsounds/autoadd/tf2_extra/drinking intensifies/1.ogg",length=2.233},{path="chatsounds/autoadd/tf2_extra/drinking intensifies/2.ogg",length=3.142}}
 L["drunk aye"]={{path="chatsounds/autoadd/tf2_extra/drunk aye.ogg",length=0.425}}
 L["earrape"]={{path="chatsounds/autoadd/tf2_extra/earrape/1.ogg",length=0.653},{path="chatsounds/autoadd/tf2_extra/earrape/2.ogg",length=0.979}}
 L["eheh well no"]={{path="chatsounds/autoadd/tf2_extra/eheh well no.ogg",length=1.472}}
@@ -119,6 +120,7 @@ L["i feel everything i fucked everything"]={{path="chatsounds/autoadd/tf2_extra/
 L["i feel like a man on cocaine"]={{path="chatsounds/autoadd/tf2_extra/i feel like a man on cocaine.ogg",length=3.994}}
 L["i got a manky eye im a black scottish cyclops"]={{path="chatsounds/autoadd/tf2_extra/i got a manky eye im a black scottish cyclops.ogg",length=4.606}}
 L["i have no idea"]={{path="chatsounds/autoadd/tf2_extra/i have no idea.ogg",length=2.032}}
+L["i just drank a thousand bottles of scrumpy"]={{path="chatsounds/autoadd/tf2_extra/i just drank a thousand bottles of scrumpy.ogg",length=3.725}}
 L["i love mcdonalds distorted"]={{path="chatsounds/autoadd/tf2_extra/i love mcdonalds distorted.ogg",length=2.571}}
 L["i think"]={{path="chatsounds/autoadd/tf2_extra/i think.ogg",length=0.746}}
 L["i think you think i think think i think"]={{path="chatsounds/autoadd/tf2_extra/i think you think i think think i think.ogg",length=1.998}}
@@ -257,6 +259,7 @@ L["spymadness"]={{path="chatsounds/autoadd/tf2_extra/spymadness.ogg",length=7.13
 L["spysnort"]={{path="chatsounds/autoadd/tf2_extra/spysnort.ogg",length=1.945}}
 L["spysnortextreme"]={{path="chatsounds/autoadd/tf2_extra/spysnortextreme.ogg",length=4.599}}
 L["ssnnoorrtt"]={{path="chatsounds/autoadd/tf2_extra/ssnnoorrtt.ogg",length=1.795}}
+L["still not enough"]={{path="chatsounds/autoadd/tf2_extra/still not enough.ogg",length=1.798}}
 L["stout shako for 2 refined"]={{path="chatsounds/autoadd/tf2_extra/stout shako for 2 refined.ogg",length=2.663}}
 L["stout shako for two refined"]={{path="chatsounds/autoadd/tf2_extra/stout shako for two refined.ogg",length=2.663}}
 L["strong shit"]={{path="chatsounds/autoadd/tf2_extra/strong shit.ogg",length=1.806}}
@@ -317,6 +320,7 @@ L["where was i"]={{path="chatsounds/autoadd/tf2_extra/where was i.ogg",length=0.
 L["which idiot made this"]={{path="chatsounds/autoadd/tf2_extra/which idiot made this.ogg",length=1.489}}
 L["whiskey"]={{path="chatsounds/autoadd/tf2_extra/whiskey.ogg",length=1.045}}
 L["who touched my gun"]={{path="chatsounds/autoadd/tf2_extra/who touched my gun.ogg",length=2.211}}
+L["why do you still look so sober"]={{path="chatsounds/autoadd/tf2_extra/why do you still look so sober.ogg",length=2.883}}
 L["windows xp funk"]={{path="chatsounds/autoadd/tf2_extra/windows xp funk.ogg",length=6.241}}
 L["with pleasure"]={{path="chatsounds/autoadd/tf2_extra/with pleasure.ogg",length=0.913}}
 L["won"]={{path="chatsounds/autoadd/tf2_extra/won.ogg",length=0.528}}
