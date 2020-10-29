@@ -17,6 +17,7 @@ L["but"]={{path="chatsounds/autoadd/misc/but.ogg",length=0.162}}
 L["by"]={{path="chatsounds/autoadd/misc/by.ogg",length=0.208}}
 L["carpet"]={{path="chatsounds/autoadd/misc/carpet.ogg",length=0.419}}
 L["cash"]={{path="chatsounds/autoadd/misc/cash.ogg",length=1.164}}
+L["chinesecooking"]={{path="chatsounds/autoadd/misc/chinesecooking.ogg",length=14.900}}
 L["coding"]={{path="chatsounds/autoadd/misc/coding.ogg",length=0.486}}
 L["come ooonnn"]={{path="chatsounds/autoadd/misc/come ooonnn.ogg",length=9.199}}
 L["cricket"]={{path="chatsounds/autoadd/misc/cricket.ogg",length=2.135}}
@@ -66,6 +67,7 @@ L["me a"]={{path="chatsounds/autoadd/misc/me a.ogg",length=0.257}}
 L["mean"]={{path="chatsounds/autoadd/misc/mean.ogg",length=0.331}}
 L["means"]={{path="chatsounds/autoadd/misc/means.ogg",length=0.345}}
 L["meatspin"]={{path="chatsounds/autoadd/misc/meatspin.ogg",length=7.552}}
+L["minions are a metaphor for communism"]={{path="chatsounds/autoadd/misc/minions are a metaphor for communism.ogg",length=3.448}}
 L["moment"]={{path="chatsounds/autoadd/misc/moment.ogg",length=0.257}}
 L["moments"]={{path="chatsounds/autoadd/misc/moments.ogg",length=0.335}}
 L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.624}}
