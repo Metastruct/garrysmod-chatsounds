@@ -4,6 +4,7 @@ L["a la menthe"]={{path="chatsounds/autoadd/music/a la menthe.ogg",length=9.699}
 L["ab in den sonnenschein"]={{path="chatsounds/autoadd/music/ab in den sonnenschein.ogg",length=2.183}}
 L["ab in den urlaub"]={{path="chatsounds/autoadd/music/ab in den urlaub.ogg",length=2.265}}
 L["ace of base"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
+L["alliwantforchristmas"]={{path="chatsounds/autoadd/music/alliwantforchristmas.ogg",length=26.496}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["barbra streisand loop"]={{path="chatsounds/autoadd/music/barbra streisand loop.ogg",length=15.238}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
