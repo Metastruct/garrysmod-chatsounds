@@ -14,6 +14,7 @@ L["but not for me"]={{path="chatsounds/autoadd/random_shit/but not for me.ogg",l
 L["buzz look an alien"]={{path="chatsounds/autoadd/random_shit/buzz look an alien.ogg",length=1.034}}
 L["call an ambulance call an ambulance"]={{path="chatsounds/autoadd/random_shit/call an ambulance call an ambulance.ogg",length=4.085}}
 L["can i get a kappa"]={{path="chatsounds/autoadd/random_shit/can i get a kappa.ogg",length=1.521}}
+L["can we spell it out youre a poopy head"]={{path="chatsounds/autoadd/random_shit/can we spell it out youre a poopy head.ogg",length=1.986}}
 L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg",length=2.140}}
 L["cloakerscream"]={{path="chatsounds/autoadd/random_shit/cloakerscream.ogg",length=5.065}}
 L["crunch"]={{path="chatsounds/autoadd/random_shit/crunch.ogg",length=0.593}}
@@ -156,4 +157,5 @@ L["you eat babies"]={{path="chatsounds/autoadd/random_shit/you eat babies/babies
 L["you get what you fuckin deserve"]={{path="chatsounds/autoadd/random_shit/you get what you fuckin deserve.ogg",length=2.358}}
 L["you missed that one"]={{path="chatsounds/autoadd/random_shit/you missed that one.ogg",length=1.325}}
 L["you underestimate my power"]={{path="chatsounds/autoadd/random_shit/you underestimate my power.ogg",length=2.548}}
+L["youre a poopy head"]={{path="chatsounds/autoadd/random_shit/youre a poopy head.ogg",length=1.053}}
 c.EndList()
