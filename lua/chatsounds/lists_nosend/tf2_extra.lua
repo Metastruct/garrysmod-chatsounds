@@ -72,7 +72,6 @@ L["espresso"]={{path="chatsounds/autoadd/tf2_extra/espresso.ogg",length=0.772}}
 L["everyone there is a mcdonalds ahead"]={{path="chatsounds/autoadd/tf2_extra/everyone there is a mcdonalds ahead.ogg",length=3.419}}
 L["faggots"]={{path="chatsounds/autoadd/tf2_extra/faggots.ogg",length=0.780}}
 L["fatcellent"]={{path="chatsounds/autoadd/tf2_extra/fatcellent.ogg",length=1.091}}
-L["femur breaker"]={{path="chatsounds/autoadd/tf2_extra/femur breaker/1.ogg",length=7.303},{path="chatsounds/autoadd/tf2_extra/femur breaker/2.ogg",length=4.630},{path="chatsounds/autoadd/tf2_extra/femur breaker/3.ogg",length=4.941},{path="chatsounds/autoadd/tf2_extra/femur breaker/4.ogg",length=7.303}}
 L["ffuck"]={{path="chatsounds/autoadd/tf2_extra/ffuck.ogg",length=0.621}}
 L["for twelve seconds"]={{path="chatsounds/autoadd/tf2_extra/for twelve seconds.ogg",length=2.101}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2_extra/fuck you.ogg",length=1.086}}
@@ -262,6 +261,7 @@ L["sos"]={{path="chatsounds/autoadd/tf2_extra/sos.ogg",length=0.338}}
 L["sounds of erectin"]={{path="chatsounds/autoadd/tf2_extra/sounds of erectin.ogg",length=3.101}}
 L["spank ahh"]={{path="chatsounds/autoadd/tf2_extra/spank ahh.ogg",length=0.557}}
 L["spirit"]={{path="chatsounds/autoadd/tf2_extra/spirit.ogg",length=1.204}}
+L["spy femur breaker"]={{path="chatsounds/autoadd/tf2_extra/spy femur breaker/1.ogg",length=7.303},{path="chatsounds/autoadd/tf2_extra/spy femur breaker/2.ogg",length=4.630},{path="chatsounds/autoadd/tf2_extra/spy femur breaker/3.ogg",length=4.941},{path="chatsounds/autoadd/tf2_extra/spy femur breaker/4.ogg",length=7.303}}
 L["spy says the n word"]={{path="chatsounds/autoadd/tf2_extra/spy says the n word.ogg",length=34.035}}
 L["spygibberish"]={{path="chatsounds/autoadd/tf2_extra/spygibberish.ogg",length=1.198}}
 L["spymadness"]={{path="chatsounds/autoadd/tf2_extra/spymadness.ogg",length=7.131}}

@@ -18,7 +18,6 @@ L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let
 L["ee ur"]={{path="chatsounds/autoadd/random_shit/ee ur.ogg",length=1.431}}
 L["eekum bokum"]={{path="chatsounds/autoadd/random_shit/eekum bokum/1.ogg",length=0.883},{path="chatsounds/autoadd/random_shit/eekum bokum/2.ogg",length=1.063}}
 L["eugh"]={{path="chatsounds/autoadd/random_shit/eugh.ogg",length=0.542}}
-L["femur breaker"]={{path="chatsounds/autoadd/random_shit/femur breaker.ogg",length=28.317}}
 L["fire deployment"]={{path="chatsounds/autoadd/random_shit/fire deployment.ogg",length=0.568}}
 L["fortnite"]={{path="chatsounds/autoadd/random_shit/fortnite.ogg",length=0.902}}
 L["from where youre kneeling must seem like an eighteen carat run of bad luck"]={{path="chatsounds/autoadd/random_shit/from where youre kneeling must seem like an eighteen carat run of bad luck.ogg",length=3.887}}
