@@ -1,5 +1,6 @@
 c.StartList("hitler_downfall")
 L["ah monke"]={{path="chatsounds/autoadd/hitler_downfall/ah monke.ogg",length=1.871}}
+L["bringen sie mir fegelein"]={{path="chatsounds/autoadd/hitler_downfall/bringen sie mir fegelein.ogg",length=1.591}}
 L["cola give me a cola"]={{path="chatsounds/autoadd/hitler_downfall/cola give me a cola.ogg",length=1.562}}
 L["corrupt imbecile"]={{path="chatsounds/autoadd/hitler_downfall/corrupt imbecile.ogg",length=1.456}}
 L["crappy"]={{path="chatsounds/autoadd/hitler_downfall/crappy.ogg",length=0.765}}
@@ -22,5 +23,6 @@ L["speer"]={{path="chatsounds/autoadd/hitler_downfall/speer.ogg",length=0.457}}
 L["unter allen ausgerechnet himmler"]={{path="chatsounds/autoadd/hitler_downfall/unter allen ausgerechnet himmler.ogg",length=3.303}}
 L["verrat"]={{path="chatsounds/autoadd/hitler_downfall/verrat/verraaat.ogg",length=0.793},{path="chatsounds/autoadd/hitler_downfall/verrat/verrat.ogg",length=0.854}}
 L["was soll das heissen sie koennen fegelein nicht finden"]={{path="chatsounds/autoadd/hitler_downfall/was soll das heissen sie koennen fegelein nicht finden.ogg",length=2.145}}
+L["wenck"]={{path="chatsounds/autoadd/hitler_downfall/wenck.ogg",length=0.523}}
 L["wenn er sich ohne befehl entfernt hat ist das fahnenflucht"]={{path="chatsounds/autoadd/hitler_downfall/wenn er sich ohne befehl entfernt hat ist das fahnenflucht.ogg",length=3.092}}
 c.EndList()

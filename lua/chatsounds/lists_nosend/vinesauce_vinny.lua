@@ -95,6 +95,7 @@ L["dude"]={{path="chatsounds/autoadd/vinesauce_vinny/dude.ogg",length=0.520}}
 L["dude dosvedanya dosvedanya"]={{path="chatsounds/autoadd/vinesauce_vinny/dude dosvedanya dosvedanya.ogg",length=2.679}}
 L["everyone come to me to the town square"]={{path="chatsounds/autoadd/vinesauce_vinny/everyone come to me to the town square.ogg",length=2.010}}
 L["everyone line up against the wall"]={{path="chatsounds/autoadd/vinesauce_vinny/everyone line up against the wall.ogg",length=1.655}}
+L["except black"]={{path="chatsounds/autoadd/vinesauce_vinny/except black.ogg",length=1.718}}
 L["f off loogi"]={{path="chatsounds/autoadd/vinesauce_vinny/f off loogi.ogg",length=1.521}}
 L["f you youre all guilty"]={{path="chatsounds/autoadd/vinesauce_vinny/f you youre all guilty.ogg",length=2.260}}
 L["frozen"]={{path="chatsounds/autoadd/vinesauce_vinny/frozen.ogg",length=0.885}}
@@ -217,6 +218,7 @@ L["it fufill you"]={{path="chatsounds/autoadd/vinesauce_vinny/it fufill you.ogg"
 L["it is covered with peperroni and sauce"]={{path="chatsounds/autoadd/vinesauce_vinny/it is covered with peperroni and sauce.ogg",length=2.707}}
 L["it looked absolutely disgusting and i was not at all looking forward to trying it"]={{path="chatsounds/autoadd/vinesauce_vinny/it looked absolutely disgusting and i was not at all looking forward to trying it.ogg",length=4.494}}
 L["it spit on your face do you wish to continue yes or no"]={{path="chatsounds/autoadd/vinesauce_vinny/it spit on your face do you wish to continue yes or no.ogg",length=3.025}}
+L["it takes all colors to make a rainbow"]={{path="chatsounds/autoadd/vinesauce_vinny/it takes all colors to make a rainbow.ogg",length=2.985}}
 L["its beautiful"]={{path="chatsounds/autoadd/vinesauce_vinny/its beautiful.ogg",length=2.680}}
 L["its fn joshi"]={{path="chatsounds/autoadd/vinesauce_vinny/its fn joshi.ogg",length=1.725}}
 L["its fun for everyone"]={{path="chatsounds/autoadd/vinesauce_vinny/its fun for everyone.ogg",length=2.129}}
@@ -344,6 +346,7 @@ L["the pizza goes down without much of a strugge but the lizard make you choke"]
 L["there he is"]={{path="chatsounds/autoadd/vinesauce_vinny/there he is.ogg",length=1.289}}
 L["there is no saving you now"]={{path="chatsounds/autoadd/vinesauce_vinny/there is no saving you now.ogg",length=1.359}}
 L["theres a tail theres a tail infront of me"]={{path="chatsounds/autoadd/vinesauce_vinny/theres a tail theres a tail infront of me.ogg",length=3.567}}
+L["theres no black in a rainbow"]={{path="chatsounds/autoadd/vinesauce_vinny/theres no black in a rainbow.ogg",length=2.111}}
 L["these people know internet memes guys"]={{path="chatsounds/autoadd/vinesauce_vinny/these people know internet memes guys.ogg",length=2.291}}
 L["they into the alley over here"]={{path="chatsounds/autoadd/vinesauce_vinny/they into the alley over here.ogg",length=1.655}}
 L["they know internet memes"]={{path="chatsounds/autoadd/vinesauce_vinny/they know internet memes.ogg",length=2.146}}

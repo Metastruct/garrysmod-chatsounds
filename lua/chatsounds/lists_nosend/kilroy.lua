@@ -51,7 +51,6 @@ L["ggaayy"]={{path="chatsounds/autoadd/kilroy/ggaayy.ogg",length=5.907}}
 L["go away"]={{path="chatsounds/autoadd/kilroy/go away.ogg",length=1.657}}
 L["godfather"]={{path="chatsounds/autoadd/kilroy/godfather.ogg",length=4.268}}
 L["goinin"]={{path="chatsounds/autoadd/kilroy/goinin.ogg",length=22.553}}
-L["happy"]={{path="chatsounds/autoadd/kilroy/happy.ogg",length=6.052}}
 L["hey"]={{path="chatsounds/autoadd/kilroy/hey.ogg",length=0.367}}
 L["homer"]={{path="chatsounds/autoadd/kilroy/homer.ogg",length=1.498}}
 L["homerlaugh"]={{path="chatsounds/autoadd/kilroy/homerlaugh.ogg",length=1.133}}

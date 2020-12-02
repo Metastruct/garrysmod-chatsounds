@@ -47,6 +47,7 @@ L["cause thats not enough"]={{path="chatsounds/autoadd/tf2_extra/cause thats not
 L["cider"]={{path="chatsounds/autoadd/tf2_extra/cider.ogg",length=0.602}}
 L["civilian gaming"]={{path="chatsounds/autoadd/tf2_extra/civilian gaming.ogg",length=10.762}}
 L["collecting bbone distorted"]={{path="chatsounds/autoadd/tf2_extra/collecting bbone distorted.ogg",length=1.059}}
+L["come on boys lets play"]={{path="chatsounds/autoadd/tf2_extra/come on boys lets play.ogg",length=1.603}}
 L["cream bacon"]={{path="chatsounds/autoadd/tf2_extra/cream bacon.ogg",length=0.942}}
 L["cupcake"]={{path="chatsounds/autoadd/tf2_extra/cupcake.ogg",length=0.538}}
 L["ded"]={{path="chatsounds/autoadd/tf2_extra/ded/1.ogg",length=0.439},{path="chatsounds/autoadd/tf2_extra/ded/2.ogg",length=0.223},{path="chatsounds/autoadd/tf2_extra/ded/3.ogg",length=0.239},{path="chatsounds/autoadd/tf2_extra/ded/4.ogg",length=0.366}}
@@ -66,6 +67,7 @@ L["earrape"]={{path="chatsounds/autoadd/tf2_extra/earrape/1.ogg",length=0.653},{
 L["eheh well no"]={{path="chatsounds/autoadd/tf2_extra/eheh well no.ogg",length=1.472}}
 L["enernes"]={{path="chatsounds/autoadd/tf2_extra/enernes.ogg",length=0.788}}
 L["engi"]={{path="chatsounds/autoadd/tf2_extra/engi.ogg",length=0.620}}
+L["engineer gamings garage"]={{path="chatsounds/autoadd/tf2_extra/engineer gamings garage.ogg",length=1.936}}
 L["espresso"]={{path="chatsounds/autoadd/tf2_extra/espresso.ogg",length=0.772}}
 L["everyone there is a mcdonalds ahead"]={{path="chatsounds/autoadd/tf2_extra/everyone there is a mcdonalds ahead.ogg",length=3.419}}
 L["faggots"]={{path="chatsounds/autoadd/tf2_extra/faggots.ogg",length=0.780}}
@@ -76,6 +78,7 @@ L["for twelve seconds"]={{path="chatsounds/autoadd/tf2_extra/for twelve seconds.
 L["fuck you"]={{path="chatsounds/autoadd/tf2_extra/fuck you.ogg",length=1.086}}
 L["fuck you you fuckin fatass"]={{path="chatsounds/autoadd/tf2_extra/fuck you you fuckin fatass.ogg",length=1.810}}
 L["gasp"]={{path="chatsounds/autoadd/tf2_extra/gasp.ogg",length=1.086}}
+L["gentlemen time to start playing"]={{path="chatsounds/autoadd/tf2_extra/gentlemen time to start playing.ogg",length=2.567}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2_extra/ggoottaamm.ogg",length=0.914}}
 L["go ahead and try"]={{path="chatsounds/autoadd/tf2_extra/go ahead and try.ogg",length=2.083}}
 L["go to 2fort and take your cheap penis with you"]={{path="chatsounds/autoadd/tf2_extra/go to 2fort and take your cheap penis with you.ogg",length=3.079}}
@@ -105,8 +108,10 @@ L["hheeee explosion distorted eeeehh"]={{path="chatsounds/autoadd/tf2_extra/hhee
 L["hhhheeeeeeee"]={{path="chatsounds/autoadd/tf2_extra/hhhheeeeeeee.ogg",length=5.436}}
 L["hhoooohh"]={{path="chatsounds/autoadd/tf2_extra/hhoooohh.ogg",length=1.969}}
 L["hhoooott"]={{path="chatsounds/autoadd/tf2_extra/hhoooott.ogg",length=1.717}}
+L["hiii hows it going"]={{path="chatsounds/autoadd/tf2_extra/hiii hows it going.ogg",length=2.576}}
 L["hooh"]={{path="chatsounds/autoadd/tf2_extra/hooh.ogg",length=0.679}}
 L["how embarassing"]={{path="chatsounds/autoadd/tf2_extra/how embarassing.ogg",length=1.032}}
+L["hows that going"]={{path="chatsounds/autoadd/tf2_extra/hows that going.ogg",length=1.005}}
 L["i am dead now hoh sexcelent"]={{path="chatsounds/autoadd/tf2_extra/i am dead now hoh sexcelent.ogg",length=2.424}}
 L["i am full of meem"]={{path="chatsounds/autoadd/tf2_extra/i am full of meem.ogg",length=1.829}}
 L["i am full of soda"]={{path="chatsounds/autoadd/tf2_extra/i am full of soda.ogg",length=1.584}}
@@ -125,6 +130,7 @@ L["i love mcdonalds distorted"]={{path="chatsounds/autoadd/tf2_extra/i love mcdo
 L["i think"]={{path="chatsounds/autoadd/tf2_extra/i think.ogg",length=0.746}}
 L["i think you think i think think i think"]={{path="chatsounds/autoadd/tf2_extra/i think you think i think think i think.ogg",length=1.998}}
 L["if i were a bad demoman i wouldnt be sittin here discussin it with you now would i"]={{path="chatsounds/autoadd/tf2_extra/if i were a bad demoman i wouldnt be sittin here discussin it with you now would i.ogg",length=5.242}}
+L["if theres one thing i love"]={{path="chatsounds/autoadd/tf2_extra/if theres one thing i love.ogg",length=1.580}}
 L["ii a griirg bloolb faaf wiiw anna unhaahnu bloolb enne"]={{path="chatsounds/autoadd/tf2_extra/ii a griirg bloolb faaf wiiw anna unhaahnu bloolb enne.ogg",length=5.890}}
 L["iinnddeedd distorted"]={{path="chatsounds/autoadd/tf2_extra/iinnddeedd distorted.ogg",length=0.909}}
 L["im"]={{path="chatsounds/autoadd/tf2_extra/im.ogg",length=0.319}}
@@ -140,6 +146,7 @@ L["it costs four hundred thousand dollars to fire this weapon for twelve seconds
 L["it is so tiny"]={{path="chatsounds/autoadd/tf2_extra/it is so tiny.ogg",length=1.451}}
 L["it scares me"]={{path="chatsounds/autoadd/tf2_extra/it scares me.ogg",length=1.312}}
 L["it seems i am not the only simpleton"]={{path="chatsounds/autoadd/tf2_extra/it seems i am not the only simpleton.ogg",length=2.348}}
+L["its minecraft"]={{path="chatsounds/autoadd/tf2_extra/its minecraft.ogg",length=1.233}}
 L["itty bitty teeny hey pootis"]={{path="chatsounds/autoadd/tf2_extra/itty bitty teeny hey pootis.ogg",length=3.222}}
 L["ive merely finished what your lliivveerr ssstarted"]={{path="chatsounds/autoadd/tf2_extra/ive merely finished what your lliivveerr ssstarted.ogg",length=4.211}}
 L["ive yet to meet one that can outsmart bullet"]={{path="chatsounds/autoadd/tf2_extra/ive yet to meet one that can outsmart bullet.ogg",length=3.274}}
@@ -151,6 +158,7 @@ L["left for dead"]={{path="chatsounds/autoadd/tf2_extra/left for dead.ogg",lengt
 L["lets go practice medicine"]={{path="chatsounds/autoadd/tf2_extra/lets go practice medicine.ogg",length=2.320}}
 L["lul"]={{path="chatsounds/autoadd/tf2_extra/lul.ogg",length=0.302}}
 L["lwoa"]={{path="chatsounds/autoadd/tf2_extra/lwoa/1.ogg",length=1.240},{path="chatsounds/autoadd/tf2_extra/lwoa/2.ogg",length=1.863},{path="chatsounds/autoadd/tf2_extra/lwoa/lwoa3.ogg",length=2.409}}
+L["may i borrow your cow"]={{path="chatsounds/autoadd/tf2_extra/may i borrow your cow.ogg",length=1.281}}
 L["maybe"]={{path="chatsounds/autoadd/tf2_extra/maybe/1.ogg",length=1.006},{path="chatsounds/autoadd/tf2_extra/maybe/2.ogg",length=0.624}}
 L["medicdeathloud"]={{path="chatsounds/autoadd/tf2_extra/medicdeathloud.ogg",length=3.881}}
 L["medicgibberish"]={{path="chatsounds/autoadd/tf2_extra/medicgibberish/1.ogg",length=1.718},{path="chatsounds/autoadd/tf2_extra/medicgibberish/2.ogg",length=8.739},{path="chatsounds/autoadd/tf2_extra/medicgibberish/3.ogg",length=1.402}}
@@ -168,6 +176,7 @@ L["mortis longdick"]={{path="chatsounds/autoadd/tf2_extra/mortis longdick.ogg",l
 L["mrprprpm"]={{path="chatsounds/autoadd/tf2_extra/mrprprpm.ogg",length=0.653}}
 L["mumnumnum"]={{path="chatsounds/autoadd/tf2_extra/mumnumnum.ogg",length=0.809}}
 L["needas"]={{path="chatsounds/autoadd/tf2_extra/needas.ogg",length=0.472}}
+L["nice"]={{path="chatsounds/autoadd/tf2_extra/nice.ogg",length=0.781}}
 L["nig"]={{path="chatsounds/autoadd/tf2_extra/nig.ogg",length=0.616}}
 L["nneeiinn"]={{path="chatsounds/autoadd/tf2_extra/nneeiinn.ogg",length=1.878}}
 L["nnoonn distorted"]={{path="chatsounds/autoadd/tf2_extra/nnoonn distorted.ogg",length=1.320}}
@@ -268,6 +277,7 @@ L["stupid face"]={{path="chatsounds/autoadd/tf2_extra/stupid face.ogg",length=1.
 L["suck my balls doc"]={{path="chatsounds/autoadd/tf2_extra/suck my balls doc.ogg",length=1.591}}
 L["surprise"]={{path="chatsounds/autoadd/tf2_extra/surprise.ogg",length=0.808}}
 L["surprise big not"]={{path="chatsounds/autoadd/tf2_extra/surprise big not.ogg",length=1.354}}
+L["sus among us"]={{path="chatsounds/autoadd/tf2_extra/sus among us.ogg",length=1.749}}
 L["suus distorted"]={{path="chatsounds/autoadd/tf2_extra/suus distorted.ogg",length=0.836}}
 L["taat yooy fiif dannad soos prouuorp"]={{path="chatsounds/autoadd/tf2_extra/taat yooy fiif dannad soos prouuorp.ogg",length=3.253}}
 L["tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs"]={{path="chatsounds/autoadd/tf2_extra/tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs.ogg",length=8.951}}
@@ -321,6 +331,7 @@ L["which idiot made this"]={{path="chatsounds/autoadd/tf2_extra/which idiot made
 L["whiskey"]={{path="chatsounds/autoadd/tf2_extra/whiskey.ogg",length=1.045}}
 L["who touched my gun"]={{path="chatsounds/autoadd/tf2_extra/who touched my gun.ogg",length=2.211}}
 L["why do you still look so sober"]={{path="chatsounds/autoadd/tf2_extra/why do you still look so sober.ogg",length=2.883}}
+L["why dont yall fuck off"]={{path="chatsounds/autoadd/tf2_extra/why dont yall fuck off.ogg",length=2.539}}
 L["windows xp funk"]={{path="chatsounds/autoadd/tf2_extra/windows xp funk.ogg",length=6.241}}
 L["with pleasure"]={{path="chatsounds/autoadd/tf2_extra/with pleasure.ogg",length=0.913}}
 L["won"]={{path="chatsounds/autoadd/tf2_extra/won.ogg",length=0.528}}
@@ -334,6 +345,7 @@ L["ye"]={{path="chatsounds/autoadd/tf2_extra/ye.ogg",length=0.199}}
 L["yeeee"]={{path="chatsounds/autoadd/tf2_extra/yeeee.ogg",length=0.901}}
 L["yeeeeeee"]={{path="chatsounds/autoadd/tf2_extra/yeeeeeee.ogg",length=1.549}}
 L["yeeeeeee distorted"]={{path="chatsounds/autoadd/tf2_extra/yeeeeeee distorted.ogg",length=4.403}}
+L["yeet"]={{path="chatsounds/autoadd/tf2_extra/yeet.ogg",length=0.466}}
 L["yeey"]={{path="chatsounds/autoadd/tf2_extra/yeey/1.ogg",length=0.331},{path="chatsounds/autoadd/tf2_extra/yeey/2.ogg",length=0.450},{path="chatsounds/autoadd/tf2_extra/yeey/3.ogg",length=0.442},{path="chatsounds/autoadd/tf2_extra/yeey/4.ogg",length=0.232},{path="chatsounds/autoadd/tf2_extra/yeey/5.ogg",length=0.481},{path="chatsounds/autoadd/tf2_extra/yeey/6.ogg",length=0.513},{path="chatsounds/autoadd/tf2_extra/yeey/7.ogg",length=0.427}}
 L["yip in hell"]={{path="chatsounds/autoadd/tf2_extra/yip in hell.ogg",length=1.031}}
 L["you are ded now"]={{path="chatsounds/autoadd/tf2_extra/you are ded now.ogg",length=1.343}}

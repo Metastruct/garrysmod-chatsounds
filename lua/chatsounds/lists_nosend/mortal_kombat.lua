@@ -6,6 +6,7 @@ L["fatality"]={{path="chatsounds/autoadd/mortal_kombat/fatality.ogg",length=0.90
 L["fight"]={{path="chatsounds/autoadd/mortal_kombat/fight.ogg",length=2.000}}
 L["finher"]={{path="chatsounds/autoadd/mortal_kombat/finher.ogg",length=2.000}}
 L["finhim"]={{path="chatsounds/autoadd/mortal_kombat/finhim.ogg",length=1.000}}
+L["finish him"]={{path="chatsounds/autoadd/mortal_kombat/finish him.ogg",length=1.621}}
 L["frenship"]={{path="chatsounds/autoadd/mortal_kombat/frenship.ogg",length=0.600}}
 L["frinship"]={{path="chatsounds/autoadd/mortal_kombat/frinship.ogg",length=0.600}}
 L["goble"]={{path="chatsounds/autoadd/mortal_kombat/goble.ogg",length=1.350}}

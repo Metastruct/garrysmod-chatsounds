@@ -44,6 +44,7 @@ L["memes"]={{path="chatsounds/autoadd/mgrr/memes.ogg",length=0.775}}
 L["more hurt me more"]={{path="chatsounds/autoadd/mgrr/more hurt me more.ogg",length=2.430}}
 L["nanomachines son"]={{path="chatsounds/autoadd/mgrr/nanomachines son.ogg",length=1.811}}
 L["nice knife"]={{path="chatsounds/autoadd/mgrr/nice knife.ogg",length=1.578}}
+L["no"]={{path="chatsounds/autoadd/mgrr/no.ogg",length=0.886}}
 L["not even close"]={{path="chatsounds/autoadd/mgrr/not even close.ogg",length=1.250}}
 L["not good enough"]={{path="chatsounds/autoadd/mgrr/not good enough.ogg",length=0.930}}
 L["not used for vengeance"]={{path="chatsounds/autoadd/mgrr/not used for vengeance.ogg",length=1.640}}
