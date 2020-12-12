@@ -16,10 +16,10 @@ L["it could be worse though at least were not detroit"]={{path="chatsounds/autoa
 L["its so polluted that all our fish have aids"]={{path="chatsounds/autoadd/cleveland_tourism/its so polluted that all our fish have aids.ogg",length=3.079}}
 L["its the perfect place if youre a douchebag"]={{path="chatsounds/autoadd/cleveland_tourism/its the perfect place if youre a douchebag.ogg",length=2.468}}
 L["our economy is based on lebron james"]={{path="chatsounds/autoadd/cleveland_tourism/our economy is based on lebron james.ogg",length=2.845}}
-L["our main export is cripling depression"]={{path="chatsounds/autoadd/cleveland_tourism/our main export is cripling depression.ogg",length=2.561}}
+L["our main export is crippling depression"]={{path="chatsounds/autoadd/cleveland_tourism/our main export is crippling depression.ogg",length=2.561}}
 L["see our river that catches on fire"]={{path="chatsounds/autoadd/cleveland_tourism/see our river that catches on fire.ogg",length=2.533}}
 L["this guy has atleast 2 duis"]={{path="chatsounds/autoadd/cleveland_tourism/this guy has atleast 2 duis.ogg",length=3.227}}
-L["this train is carrying jobs out of clevland"]={{path="chatsounds/autoadd/cleveland_tourism/this train is carrying jobs out of clevland.ogg",length=2.849}}
+L["this train is carrying jobs out of cleveland"]={{path="chatsounds/autoadd/cleveland_tourism/this train is carrying jobs out of cleveland.ogg",length=2.849}}
 L["under construction since 1868"]={{path="chatsounds/autoadd/cleveland_tourism/under construction since 1868.ogg",length=3.197}}
 L["we see the sun almost 3 times a year"]={{path="chatsounds/autoadd/cleveland_tourism/we see the sun almost 3 times a year.ogg",length=2.640}}
 L["were not detroit"]={{path="chatsounds/autoadd/cleveland_tourism/were not detroit.ogg",length=3.592}}
