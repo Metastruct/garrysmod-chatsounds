@@ -29,6 +29,7 @@ L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.1
 L["dontloseyourway"]={{path="chatsounds/autoadd/music/dontloseyourway.ogg",length=35.900}}
 L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.ogg",length=20.972}}
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
+L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
