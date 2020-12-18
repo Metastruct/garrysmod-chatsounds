@@ -6,12 +6,14 @@ L["bazinga"]={{path="chatsounds/autoadd/random_shit/bazinga/bazinga1.ogg",length
 L["begone satan"]={{path="chatsounds/autoadd/random_shit/begone satan.ogg",length=1.204}}
 L["big big chungus"]={{path="chatsounds/autoadd/random_shit/big big chungus.ogg",length=1.691}}
 L["big chungus"]={{path="chatsounds/autoadd/random_shit/big chungus.ogg",length=0.971}}
+L["blyat"]={{path="chatsounds/autoadd/random_shit/blyat.ogg",length=0.747}}
 L["boo you suck"]={{path="chatsounds/autoadd/random_shit/boo you suck.ogg",length=2.509}}
 L["but not for me"]={{path="chatsounds/autoadd/random_shit/but not for me.ogg",length=1.304}}
 L["buzz look an alien"]={{path="chatsounds/autoadd/random_shit/buzz look an alien.ogg",length=1.034}}
 L["call an ambulance call an ambulance"]={{path="chatsounds/autoadd/random_shit/call an ambulance call an ambulance.ogg",length=4.085}}
 L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg",length=2.140}}
 L["crunch"]={{path="chatsounds/autoadd/random_shit/crunch.ogg",length=0.593}}
+L["da blyat cyka"]={{path="chatsounds/autoadd/random_shit/da blyat cyka.ogg",length=1.662}}
 L["der he is"]={{path="chatsounds/autoadd/random_shit/der he is.ogg",length=1.374}}
 L["disgustang"]={{path="chatsounds/autoadd/random_shit/disgustang.ogg",length=1.434}}
 L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let your kids watch it.ogg",length=1.885}}
@@ -75,6 +77,7 @@ L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["perkele"]={{path="chatsounds/autoadd/random_shit/perkele.ogg",length=1.228}}
 L["quieres"]={{path="chatsounds/autoadd/random_shit/quieres.ogg",length=1.751}}
 L["rdmrdmrdm"]={{path="chatsounds/autoadd/random_shit/rdmrdmrdm.ogg",length=2.628}}
+L["russian scream"]={{path="chatsounds/autoadd/random_shit/russian scream.ogg",length=2.550}}
 L["scotland forever"]={{path="chatsounds/autoadd/random_shit/scotland forever.ogg",length=4.151}}
 L["she knows too much"]={{path="chatsounds/autoadd/random_shit/she knows too much.ogg",length=0.919}}
 L["shrimpscream"]={{path="chatsounds/autoadd/random_shit/shrimpscream.ogg",length=5.165}}
