@@ -89,6 +89,7 @@ L["so im cumming day and night"]={{path="chatsounds/autoadd/random_shit/so im cu
 L["soup"]={{path="chatsounds/autoadd/random_shit/soup.ogg",length=0.393}}
 L["spaghetti"]={{path="chatsounds/autoadd/random_shit/spaghetti.ogg",length=1.054}}
 L["spherical"]={{path="chatsounds/autoadd/random_shit/spherical.ogg",length=1.184}}
+L["stunt"]={{path="chatsounds/autoadd/random_shit/stunt.ogg",length=1.080}}
 L["super mario in real life"]={{path="chatsounds/autoadd/random_shit/super mario in real life.ogg",length=1.847}}
 L["tango down"]={{path="chatsounds/autoadd/random_shit/tango down.ogg",length=2.090}}
 L["thats what they want you to think"]={{path="chatsounds/autoadd/random_shit/thats what they want you to think.ogg",length=1.751}}
