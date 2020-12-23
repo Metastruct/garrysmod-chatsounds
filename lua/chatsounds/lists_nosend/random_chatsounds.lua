@@ -1,5 +1,7 @@
 c.StartList("random_chatsounds")
 L["are you stupid"]={{path="chatsounds/autoadd/random_chatsounds/are you stupid.ogg",length=1.033}}
+L["big cock"]={{path="chatsounds/autoadd/random_chatsounds/big cock.ogg",length=1.255}}
+L["but no cum"]={{path="chatsounds/autoadd/random_chatsounds/but no cum.ogg",length=1.197}}
 L["can not stop will not stop"]={{path="chatsounds/autoadd/random_chatsounds/can not stop will not stop.ogg",length=1.927}}
 L["deep dark fantasies"]={{path="chatsounds/autoadd/random_chatsounds/deep dark fantasies.ogg",length=2.438}}
 L["duck has stopped working"]={{path="chatsounds/autoadd/random_chatsounds/duck has stopped working.ogg",length=87.575}}
@@ -17,7 +19,9 @@ L["jesus christ god"]={{path="chatsounds/autoadd/random_chatsounds/jesus christ 
 L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatsounds/kill this arrogant moth er fu cker.ogg",length=1.858}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
 L["stupid bitch"]={{path="chatsounds/autoadd/random_chatsounds/stupid bitch.ogg",length=1.054}}
+L["typical politician"]={{path="chatsounds/autoadd/random_chatsounds/typical politician.ogg",length=1.460}}
 L["uagh"]={{path="chatsounds/autoadd/random_chatsounds/uagh.ogg",length=0.723}}
+L["wat"]={{path="chatsounds/autoadd/random_chatsounds/wat.ogg",length=0.147}}
 L["we do this you know one on one"]={{path="chatsounds/autoadd/random_chatsounds/we do this you know one on one.ogg",length=1.962}}
 L["what about the negro noodle"]={{path="chatsounds/autoadd/random_chatsounds/what about the negro noodle.ogg",length=1.718}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random_chatsounds/why the hell so expensive.ogg",length=1.591}}
