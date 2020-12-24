@@ -77,6 +77,7 @@ L["whatarethosejurassicpark"]={{path="chatsounds/autoadd/music/whatarethosejuras
 L["where dreams are made of"]={{path="chatsounds/autoadd/music/where dreams are made of.ogg",length=2.472}}
 L["why you always lying"]={{path="chatsounds/autoadd/music/why you always lying.ogg",length=2.057}}
 L["worldholdon"]={{path="chatsounds/autoadd/music/worldholdon.ogg",length=15.124}}
+L["yakety sax"]={{path="chatsounds/autoadd/music/yakety sax.ogg",length=147.529}}
 L["you can feel it everywhere"]={{path="chatsounds/autoadd/music/you can feel it everywhere.ogg",length=2.483}}
 L["you can hear it you can feel it"]={{path="chatsounds/autoadd/music/you can hear it you can feel it.ogg",length=1.966}}
 L["youre out of touch"]={{path="chatsounds/autoadd/music/youre out of touch.ogg",length=21.185}}
