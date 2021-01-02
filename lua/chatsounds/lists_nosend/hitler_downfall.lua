@@ -22,6 +22,7 @@ L["ja"]={{path="chatsounds/autoadd/hitler_downfall/ja.ogg",length=0.399}}
 L["ja ja ja ja ja"]={{path="chatsounds/autoadd/hitler_downfall/ja ja ja ja ja.ogg",length=1.397}}
 L["san francisco"]={{path="chatsounds/autoadd/hitler_downfall/san francisco.ogg",length=1.063}}
 L["sofort"]={{path="chatsounds/autoadd/hitler_downfall/sofort.ogg",length=0.819}}
+L["soviet fatbanger"]={{path="chatsounds/autoadd/hitler_downfall/soviet fatbanger.ogg",length=1.571}}
 L["speer"]={{path="chatsounds/autoadd/hitler_downfall/speer.ogg",length=0.457}}
 L["unter allen ausgerechnet himmler"]={{path="chatsounds/autoadd/hitler_downfall/unter allen ausgerechnet himmler.ogg",length=3.303}}
 L["verrat"]={{path="chatsounds/autoadd/hitler_downfall/verrat/verraaat.ogg",length=0.793},{path="chatsounds/autoadd/hitler_downfall/verrat/verrat.ogg",length=0.854}}
