@@ -11,6 +11,7 @@ L["ah jail a small slice of urine stained heaven"]={{path="chatsounds/autoadd/po
 L["ah jail a small slice of urine stained heaven with a little sodomy on the side"]={{path="chatsounds/autoadd/postal/ah jail a small slice of urine stained heaven with a little sodomy on the side.ogg",length=5.389}}
 L["ah thats the stuff"]={{path="chatsounds/autoadd/postal/ah thats the stuff/ah thats the stuff1.ogg",length=1.588},{path="chatsounds/autoadd/postal/ah thats the stuff/ah thats the stuff2.ogg",length=1.846}}
 L["ahhh"]={{path="chatsounds/autoadd/postal/ahhh.ogg",length=0.708}}
+L["alilililililililila"]={{path="chatsounds/autoadd/postal/alilililililililila.ogg",length=2.463}}
 L["all the cars in this town seem to be props anyway"]={{path="chatsounds/autoadd/postal/all the cars in this town seem to be props anyway.ogg",length=2.678}}
 L["and anotherone bites the dust"]={{path="chatsounds/autoadd/postal/and anotherone bites the dust.ogg",length=1.819}}
 L["and done"]={{path="chatsounds/autoadd/postal/and done.ogg",length=1.054}}
