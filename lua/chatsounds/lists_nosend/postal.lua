@@ -38,6 +38,7 @@ L["but i just started yesterday"]={{path="chatsounds/autoadd/postal/but i just s
 L["buttsauce"]={{path="chatsounds/autoadd/postal/buttsauce.ogg",length=1.072}}
 L["cant we all just get along"]={{path="chatsounds/autoadd/postal/cant we all just get along.ogg",length=1.662}}
 L["catch"]={{path="chatsounds/autoadd/postal/catch.ogg",length=0.565}}
+L["chuckle"]={{path="chatsounds/autoadd/postal/chuckle.ogg",length=1.291}}
 L["close enough"]={{path="chatsounds/autoadd/postal/close enough/1.ogg",length=0.871},{path="chatsounds/autoadd/postal/close enough/2.ogg",length=0.908}}
 L["come on hurry up"]={{path="chatsounds/autoadd/postal/come on hurry up.ogg",length=0.827}}
 L["come on hurry up i know you got minorities to opress"]={{path="chatsounds/autoadd/postal/come on hurry up i know you got minorities to opress.ogg",length=2.651}}
