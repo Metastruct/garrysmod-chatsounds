@@ -20,6 +20,7 @@ L["im an artist"]={{path="chatsounds/autoadd/random_chatsounds/im an artist.ogg"
 L["jesus christ god"]={{path="chatsounds/autoadd/random_chatsounds/jesus christ god.ogg",length=2.624}}
 L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatsounds/kill this arrogant moth er fu cker.ogg",length=1.858}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
+L["russian scream"]={{path="chatsounds/autoadd/random_chatsounds/russian scream.ogg",length=1.995}}
 L["stupid bitch"]={{path="chatsounds/autoadd/random_chatsounds/stupid bitch.ogg",length=1.054}}
 L["typical politician"]={{path="chatsounds/autoadd/random_chatsounds/typical politician.ogg",length=1.460}}
 L["uagh"]={{path="chatsounds/autoadd/random_chatsounds/uagh.ogg",length=0.723}}
