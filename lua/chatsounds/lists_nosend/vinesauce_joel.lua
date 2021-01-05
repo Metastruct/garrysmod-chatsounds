@@ -43,6 +43,7 @@ L["horny"]={{path="chatsounds/autoadd/vinesauce_joel/horny.ogg",length=3.276}}
 L["how about a hat"]={{path="chatsounds/autoadd/vinesauce_joel/how about a hat.ogg",length=1.162}}
 L["i am full of gravy"]={{path="chatsounds/autoadd/vinesauce_joel/i am full of gravy.ogg",length=1.231}}
 L["i discovered"]={{path="chatsounds/autoadd/vinesauce_joel/i discovered.ogg",length=0.850}}
+L["i dont do not wanna go into the twister zone"]={{path="chatsounds/autoadd/vinesauce_joel/i dont do not wanna go into the twister zone.ogg",length=1.950}}
 L["i finally realized what this is"]={{path="chatsounds/autoadd/vinesauce_joel/i finally realized what this is.ogg",length=2.078}}
 L["i gotta pee"]={{path="chatsounds/autoadd/vinesauce_joel/i gotta pee.ogg",length=0.699}}
 L["i have a little treat"]={{path="chatsounds/autoadd/vinesauce_joel/i have a little treat.ogg",length=0.818}}
@@ -157,6 +158,7 @@ L["this is no time for radical science"]={{path="chatsounds/autoadd/vinesauce_jo
 L["this is what the vinesauce streaming headquarters looks like"]={{path="chatsounds/autoadd/vinesauce_joel/this is what the vinesauce streaming headquarters looks like.ogg",length=3.016}}
 L["this video"]={{path="chatsounds/autoadd/vinesauce_joel/this video.ogg",length=0.989}}
 L["to slap the booty"]={{path="chatsounds/autoadd/vinesauce_joel/to slap the booty.ogg",length=1.222}}
+L["tornado"]={{path="chatsounds/autoadd/vinesauce_joel/tornado/tornado.ogg",length=0.736},{path="chatsounds/autoadd/vinesauce_joel/tornado/tornado1.ogg",length=0.716}}
 L["ugh"]={{path="chatsounds/autoadd/vinesauce_joel/ugh.ogg",length=0.480}}
 L["use gun"]={{path="chatsounds/autoadd/vinesauce_joel/use gun.ogg",length=0.841}}
 L["violence"]={{path="chatsounds/autoadd/vinesauce_joel/violence/1.ogg",length=0.796},{path="chatsounds/autoadd/vinesauce_joel/violence/2.ogg",length=0.736}}
