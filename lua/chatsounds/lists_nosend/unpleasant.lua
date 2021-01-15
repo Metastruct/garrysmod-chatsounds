@@ -5,6 +5,7 @@ L["aeeee"]={{path="chatsounds/autoadd/unpleasant/aeeee.ogg",length=0.932}}
 L["aero chord scream"]={{path="chatsounds/autoadd/unpleasant/aero chord scream.ogg",length=7.299}}
 L["aiiiiiiaeea"]={{path="chatsounds/autoadd/unpleasant/aiiiiiiaeea.ogg",length=1.555}}
 L["aiiiiiieaeih"]={{path="chatsounds/autoadd/unpleasant/aiiiiiieaeih.ogg",length=2.493}}
+L["aiiiiiieeeeeeeeaaaahhhh"]={{path="chatsounds/autoadd/unpleasant/aiiiiiieeeeeeeeaaaahhhh.ogg",length=5.151}}
 L["aiiiiiiiiiieah"]={{path="chatsounds/autoadd/unpleasant/aiiiiiiiiiieah.ogg",length=2.116}}
 L["baa"]={{path="chatsounds/autoadd/unpleasant/baa.ogg",length=0.914}}
 L["blyad"]={{path="chatsounds/autoadd/unpleasant/blyad.ogg",length=0.627}}
