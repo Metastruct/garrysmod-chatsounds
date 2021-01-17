@@ -26,6 +26,7 @@ L["from where youre kneeling must seem like an eighteen carat run of bad luck"]=
 L["future"]={{path="chatsounds/autoadd/random_shit/future/1.ogg",length=2.572},{path="chatsounds/autoadd/random_shit/future/2.ogg",length=2.642},{path="chatsounds/autoadd/random_shit/future/3.ogg",length=2.657}}
 L["gaming"]={{path="chatsounds/autoadd/random_shit/gaming.ogg",length=0.712}}
 L["get the fuck out of my room im playing minecraft"]={{path="chatsounds/autoadd/random_shit/get the fuck out of my room im playing minecraft.ogg",length=2.973}}
+L["go fuck"]={{path="chatsounds/autoadd/random_shit/go fuck.ogg",length=0.643}}
 L["goodbye"]={{path="chatsounds/autoadd/random_shit/goodbye.ogg",length=8.761}}
 L["hackerman"]={{path="chatsounds/autoadd/random_shit/hackerman.ogg",length=0.746}}
 L["hah gay"]={{path="chatsounds/autoadd/random_shit/hah gay.ogg",length=2.791}}
@@ -75,6 +76,7 @@ L["objection"]={{path="chatsounds/autoadd/random_shit/objection.ogg",length=1.32
 L["parola di baffo"]={{path="chatsounds/autoadd/random_shit/parola di baffo.ogg",length=1.353}}
 L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["perkele"]={{path="chatsounds/autoadd/random_shit/perkele.ogg",length=1.228}}
+L["pussy"]={{path="chatsounds/autoadd/random_shit/pussy.ogg",length=0.463}}
 L["quieres"]={{path="chatsounds/autoadd/random_shit/quieres.ogg",length=1.751}}
 L["rdmrdmrdm"]={{path="chatsounds/autoadd/random_shit/rdmrdmrdm.ogg",length=2.628}}
 L["russian scream"]={{path="chatsounds/autoadd/random_shit/russian scream.ogg",length=2.550}}
