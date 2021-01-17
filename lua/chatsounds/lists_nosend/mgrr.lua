@@ -1,5 +1,6 @@
 c.StartList("mgrr")
 L["ah this looks useful"]={{path="chatsounds/autoadd/mgrr/ah this looks useful.ogg",length=1.908}}
+L["all bark and no bite"]={{path="chatsounds/autoadd/mgrr/all bark and no bite.ogg",length=1.919}}
 L["all memes"]={{path="chatsounds/autoadd/mgrr/all memes.ogg",length=1.363}}
 L["all passed along"]={{path="chatsounds/autoadd/mgrr/all passed along.ogg",length=1.411}}
 L["alright the truth then"]={{path="chatsounds/autoadd/mgrr/alright the truth then.ogg",length=2.205}}
@@ -19,6 +20,7 @@ L["catch me if you can"]={{path="chatsounds/autoadd/mgrr/catch me if you can.ogg
 L["checked the internet lately"]={{path="chatsounds/autoadd/mgrr/checked the internet lately.ogg",length=1.297}}
 L["choose how you die"]={{path="chatsounds/autoadd/mgrr/choose how you die.ogg",length=1.704}}
 L["christ"]={{path="chatsounds/autoadd/mgrr/christ.ogg",length=0.784}}
+L["come now lets have a little fun eh"]={{path="chatsounds/autoadd/mgrr/come now lets have a little fun eh.ogg",length=2.979}}
 L["come on"]={{path="chatsounds/autoadd/mgrr/come on.ogg",length=1.085}}
 L["come on try and hit me"]={{path="chatsounds/autoadd/mgrr/come on try and hit me.ogg",length=2.249}}
 L["could have gone pro if i hadnt joined the navy"]={{path="chatsounds/autoadd/mgrr/could have gone pro if i hadnt joined the navy.ogg",length=2.043}}
@@ -49,16 +51,20 @@ L["fuck the media"]={{path="chatsounds/autoadd/mgrr/fuck the media.ogg",length=1
 L["fuck you"]={{path="chatsounds/autoadd/mgrr/fuck you.ogg",length=0.906}}
 L["gonna talk me to death"]={{path="chatsounds/autoadd/mgrr/gonna talk me to death.ogg",length=1.364}}
 L["hah typical politician not too bright"]={{path="chatsounds/autoadd/mgrr/hah typical politician not too bright.ogg",length=3.406}}
+L["hah wide open"]={{path="chatsounds/autoadd/mgrr/hah wide open.ogg",length=1.763}}
 L["hahahaha welcome to my utopia of death"]={{path="chatsounds/autoadd/mgrr/hahahaha welcome to my utopia of death.ogg",length=4.659}}
 L["have a smoke"]={{path="chatsounds/autoadd/mgrr/have a smoke.ogg",length=1.933}}
 L["heh even dead that guy is a pain in my ass"]={{path="chatsounds/autoadd/mgrr/heh even dead that guy is a pain in my ass.ogg",length=3.587}}
+L["here is how its done"]={{path="chatsounds/autoadd/mgrr/here is how its done.ogg",length=1.556}}
 L["hmhm your technique lacks something"]={{path="chatsounds/autoadd/mgrr/hmhm your technique lacks something.ogg",length=3.650}}
 L["how about full of shit"]={{path="chatsounds/autoadd/mgrr/how about full of shit.ogg",length=1.505}}
+L["how did you beat sundowner like this"]={{path="chatsounds/autoadd/mgrr/how did you beat sundowner like this.ogg",length=2.152}}
 L["how pleased you are to chop away jack the ripper"]={{path="chatsounds/autoadd/mgrr/how pleased you are to chop away jack the ripper.ogg",length=2.780}}
 L["howd ya like that"]={{path="chatsounds/autoadd/mgrr/howd ya like that.ogg",length=0.961}}
 L["i believe youre familiar with the lesson plan"]={{path="chatsounds/autoadd/mgrr/i believe youre familiar with the lesson plan.ogg",length=2.453}}
 L["i can take it"]={{path="chatsounds/autoadd/mgrr/i can take it.ogg",length=1.255}}
 L["i could break the president in two"]={{path="chatsounds/autoadd/mgrr/i could break the president in two.ogg",length=2.818}}
+L["i dont appreciate being ignored"]={{path="chatsounds/autoadd/mgrr/i dont appreciate being ignored.ogg",length=2.483}}
 L["i dont have time for this"]={{path="chatsounds/autoadd/mgrr/i dont have time for this.ogg",length=1.715}}
 L["i have a dream"]={{path="chatsounds/autoadd/mgrr/i have a dream.ogg",length=1.804}}
 L["i have won this"]={{path="chatsounds/autoadd/mgrr/i have won this.ogg",length=1.824}}
@@ -105,6 +111,7 @@ L["nanomachines son"]={{path="chatsounds/autoadd/mgrr/nanomachines son.ogg",leng
 L["neheheheheheh"]={{path="chatsounds/autoadd/mgrr/neheheheheheh.ogg",length=2.062}}
 L["nice knife"]={{path="chatsounds/autoadd/mgrr/nice knife.ogg",length=1.578}}
 L["no"]={{path="chatsounds/autoadd/mgrr/no.ogg",length=0.886}}
+L["not bad for an old man"]={{path="chatsounds/autoadd/mgrr/not bad for an old man.ogg",length=2.207}}
 L["not even close"]={{path="chatsounds/autoadd/mgrr/not even close.ogg",length=1.250}}
 L["not good enough"]={{path="chatsounds/autoadd/mgrr/not good enough.ogg",length=0.930}}
 L["not used for vengeance"]={{path="chatsounds/autoadd/mgrr/not used for vengeance.ogg",length=1.640}}
@@ -116,6 +123,7 @@ L["now now dont be shy"]={{path="chatsounds/autoadd/mgrr/now now dont be shy.ogg
 L["now now i am quite good you know"]={{path="chatsounds/autoadd/mgrr/now now i am quite good you know.ogg",length=4.043}}
 L["now theres a pretty meme"]={{path="chatsounds/autoadd/mgrr/now theres a pretty meme.ogg",length=1.668}}
 L["now this is a fight"]={{path="chatsounds/autoadd/mgrr/now this is a fight.ogg",length=1.602}}
+L["now were having fun"]={{path="chatsounds/autoadd/mgrr/now were having fun.ogg",length=2.338}}
 L["now what will you do jack the ripper"]={{path="chatsounds/autoadd/mgrr/now what will you do jack the ripper.ogg",length=3.499}}
 L["of course that would have to include you"]={{path="chatsounds/autoadd/mgrr/of course that would have to include you.ogg",length=3.072}}
 L["oh good"]={{path="chatsounds/autoadd/mgrr/oh good.ogg",length=0.910}}
@@ -125,8 +133,10 @@ L["ok"]={{path="chatsounds/autoadd/mgrr/ok.ogg",length=1.238}}
 L["okay i believe you"]={{path="chatsounds/autoadd/mgrr/okay i believe you.ogg",length=1.008}}
 L["okay now im mad"]={{path="chatsounds/autoadd/mgrr/okay now im mad.ogg",length=2.570}}
 L["ooh what happened to those fiery words of yours"]={{path="chatsounds/autoadd/mgrr/ooh what happened to those fiery words of yours.ogg",length=3.486}}
+L["pathetic"]={{path="chatsounds/autoadd/mgrr/pathetic.ogg",length=0.991}}
 L["played college ball ya know"]={{path="chatsounds/autoadd/mgrr/played college ball ya know.ogg",length=1.996}}
 L["playtimes over"]={{path="chatsounds/autoadd/mgrr/playtimes over.ogg",length=1.190}}
+L["pretty boy"]={{path="chatsounds/autoadd/mgrr/pretty boy.ogg",length=1.337}}
 L["ready or not jack here we go"]={{path="chatsounds/autoadd/mgrr/ready or not jack here we go.ogg",length=2.490}}
 L["ready to die"]={{path="chatsounds/autoadd/mgrr/ready to die.ogg",length=1.090}}
 L["red phosphorus jack infrared is useless"]={{path="chatsounds/autoadd/mgrr/red phosphorus jack infrared is useless.ogg",length=3.960}}
@@ -135,8 +145,11 @@ L["rest in pieces"]={{path="chatsounds/autoadd/mgrr/rest in pieces.ogg",length=1
 L["ridiculous"]={{path="chatsounds/autoadd/mgrr/ridiculous.ogg",length=1.723}}
 L["shit"]={{path="chatsounds/autoadd/mgrr/shit.ogg",length=0.798}}
 L["show me a good time jack"]={{path="chatsounds/autoadd/mgrr/show me a good time jack.ogg",length=1.434}}
+L["show me what you really believe in"]={{path="chatsounds/autoadd/mgrr/show me what you really believe in.ogg",length=1.975}}
+L["sit sit roll over"]={{path="chatsounds/autoadd/mgrr/sit sit roll over.ogg",length=3.037}}
 L["slippery little bastard"]={{path="chatsounds/autoadd/mgrr/slippery little bastard.ogg",length=1.540}}
 L["so much potential"]={{path="chatsounds/autoadd/mgrr/so much potential.ogg",length=1.638}}
+L["so this is how you do all your interviews"]={{path="chatsounds/autoadd/mgrr/so this is how you do all your interviews.ogg",length=2.604}}
 L["so you are strong"]={{path="chatsounds/autoadd/mgrr/so you are strong.ogg",length=2.401}}
 L["sooo what do you think"]={{path="chatsounds/autoadd/mgrr/sooo what do you think.ogg",length=3.228}}
 L["that one hurt"]={{path="chatsounds/autoadd/mgrr/that one hurt.ogg",length=2.530}}
@@ -194,9 +207,12 @@ L["you leave me no choice"]={{path="chatsounds/autoadd/mgrr/you leave me no choi
 L["you little fuck"]={{path="chatsounds/autoadd/mgrr/you little fuck.ogg",length=1.540}}
 L["you lost this one"]={{path="chatsounds/autoadd/mgrr/you lost this one.ogg",length=1.478}}
 L["you should enjoy this its what youre made for"]={{path="chatsounds/autoadd/mgrr/you should enjoy this its what youre made for.ogg",length=3.919}}
+L["you should have stuck with football"]={{path="chatsounds/autoadd/mgrr/you should have stuck with football.ogg",length=1.717}}
 L["you still dont get it"]={{path="chatsounds/autoadd/mgrr/you still dont get it.ogg",length=2.450}}
+L["you still dont get it im not for sale"]={{path="chatsounds/autoadd/mgrr/you still dont get it im not for sale.ogg",length=3.025}}
 L["your memes been cut off jack"]={{path="chatsounds/autoadd/mgrr/your memes been cut off jack.ogg",length=2.563}}
 L["your memes end here"]={{path="chatsounds/autoadd/mgrr/your memes end here.ogg",length=3.158}}
+L["your orders will get you killed pup"]={{path="chatsounds/autoadd/mgrr/your orders will get you killed pup.ogg",length=2.322}}
 L["youre a joke"]={{path="chatsounds/autoadd/mgrr/youre a joke.ogg",length=1.230}}
 L["youre batshit insaaane"]={{path="chatsounds/autoadd/mgrr/youre batshit insaaane.ogg",length=2.235}}
 L["youre dead"]={{path="chatsounds/autoadd/mgrr/youre dead.ogg",length=1.322}}
