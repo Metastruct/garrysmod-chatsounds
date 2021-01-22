@@ -72,6 +72,7 @@ L["i hope you choke"]={{path="chatsounds/autoadd/mgrr/i hope you choke.ogg",leng
 L["i like you jack so im giving you another shot"]={{path="chatsounds/autoadd/mgrr/i like you jack so im giving you another shot.ogg",length=4.411}}
 L["i love this shit"]={{path="chatsounds/autoadd/mgrr/i love this shit.ogg",length=1.874}}
 L["i said my sword was a tool of justice"]={{path="chatsounds/autoadd/mgrr/i said my sword was a tool of justice.ogg",length=2.712}}
+L["i was wrong"]={{path="chatsounds/autoadd/mgrr/i was wrong.ogg",length=1.297}}
 L["idiot"]={{path="chatsounds/autoadd/mgrr/idiot.ogg",length=0.700}}
 L["if americas gone to shit"]={{path="chatsounds/autoadd/mgrr/if americas gone to shit.ogg",length=1.925}}
 L["if you wanna win you gotta want it"]={{path="chatsounds/autoadd/mgrr/if you wanna win you gotta want it.ogg",length=2.556}}
@@ -189,6 +190,7 @@ L["were spreading them just fine ourselves"]={{path="chatsounds/autoadd/mgrr/wer
 L["what are you talking about"]={{path="chatsounds/autoadd/mgrr/what are you talking about.ogg",length=1.465}}
 L["what did i just say"]={{path="chatsounds/autoadd/mgrr/what did i just say.ogg",length=1.662}}
 L["what the hell are you"]={{path="chatsounds/autoadd/mgrr/what the hell are you.ogg",length=1.745}}
+L["when im finished with him"]={{path="chatsounds/autoadd/mgrr/when im finished with him.ogg",length=2.223}}
 L["who is this"]={{path="chatsounds/autoadd/mgrr/who is this.ogg",length=1.186}}
 L["who knows where ill come from"]={{path="chatsounds/autoadd/mgrr/who knows where ill come from.ogg",length=2.075}}
 L["why dont you stick around and find out"]={{path="chatsounds/autoadd/mgrr/why dont you stick around and find out.ogg",length=2.695}}
@@ -197,6 +199,7 @@ L["why wont you die"]={{path="chatsounds/autoadd/mgrr/why wont you die.ogg",leng
 L["with my bare hands"]={{path="chatsounds/autoadd/mgrr/with my bare hands.ogg",length=1.994}}
 L["yes i like that"]={{path="chatsounds/autoadd/mgrr/yes i like that.ogg",length=2.047}}
 L["you a rightie or a leftie"]={{path="chatsounds/autoadd/mgrr/you a rightie or a leftie.ogg",length=2.114}}
+L["you aint listenin"]={{path="chatsounds/autoadd/mgrr/you aint listenin.ogg",length=1.968}}
 L["you can be crueler than that jack"]={{path="chatsounds/autoadd/mgrr/you can be crueler than that jack.ogg",length=2.522}}
 L["you cant break this shield jack"]={{path="chatsounds/autoadd/mgrr/you cant break this shield jack.ogg",length=2.147}}
 L["you cant fight nature jack"]={{path="chatsounds/autoadd/mgrr/you cant fight nature jack.ogg",length=2.230}}
@@ -210,6 +213,7 @@ L["you should enjoy this its what youre made for"]={{path="chatsounds/autoadd/mg
 L["you should have stuck with football"]={{path="chatsounds/autoadd/mgrr/you should have stuck with football.ogg",length=1.717}}
 L["you still dont get it"]={{path="chatsounds/autoadd/mgrr/you still dont get it.ogg",length=2.450}}
 L["you still dont get it im not for sale"]={{path="chatsounds/autoadd/mgrr/you still dont get it im not for sale.ogg",length=3.025}}
+L["your dream dies with you"]={{path="chatsounds/autoadd/mgrr/your dream dies with you.ogg",length=2.256}}
 L["your memes been cut off jack"]={{path="chatsounds/autoadd/mgrr/your memes been cut off jack.ogg",length=2.563}}
 L["your memes end here"]={{path="chatsounds/autoadd/mgrr/your memes end here.ogg",length=3.158}}
 L["your orders will get you killed pup"]={{path="chatsounds/autoadd/mgrr/your orders will get you killed pup.ogg",length=2.322}}
@@ -218,6 +222,8 @@ L["youre batshit insaaane"]={{path="chatsounds/autoadd/mgrr/youre batshit insaaa
 L["youre dead"]={{path="chatsounds/autoadd/mgrr/youre dead.ogg",length=1.322}}
 L["youre going down"]={{path="chatsounds/autoadd/mgrr/youre going down.ogg",length=1.204}}
 L["youre just another maggot crawling in the pile"]={{path="chatsounds/autoadd/mgrr/youre just another maggot crawling in the pile.ogg",length=2.896}}
+L["youre next"]={{path="chatsounds/autoadd/mgrr/youre next.ogg",length=1.887}}
+L["youre not greedy"]={{path="chatsounds/autoadd/mgrr/youre not greedy.ogg",length=1.605}}
 L["youre nothing"]={{path="chatsounds/autoadd/mgrr/youre nothing.ogg",length=1.421}}
 L["youre right about one thing"]={{path="chatsounds/autoadd/mgrr/youre right about one thing.ogg",length=2.043}}
 L["youre the boss"]={{path="chatsounds/autoadd/mgrr/youre the boss.ogg",length=1.162}}
