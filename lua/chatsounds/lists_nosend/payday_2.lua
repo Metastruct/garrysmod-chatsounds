@@ -4,16 +4,19 @@ L["aaahhhh i need a medicbag"]={{path="chatsounds/autoadd/payday_2/aaahhhh i nee
 L["aaahhhh im dying"]={{path="chatsounds/autoadd/payday_2/aaahhhh im dying.ogg",length=1.765}}
 L["aaahhhh im dying somebody drop a medicbag"]={{path="chatsounds/autoadd/payday_2/aaahhhh im dying somebody drop a medicbag.ogg",length=3.776}}
 L["alright the captain is here"]={{path="chatsounds/autoadd/payday_2/alright the captain is here.ogg",length=2.821}}
+L["alright the safeword is police brutality"]={{path="chatsounds/autoadd/payday_2/alright the safeword is police brutality.ogg",length=2.969}}
 L["and now we have a captain"]={{path="chatsounds/autoadd/payday_2/and now we have a captain.ogg",length=2.282}}
 L["ao is hot as fuck"]={{path="chatsounds/autoadd/payday_2/ao is hot as fuck.ogg",length=1.648}}
 L["arms outstretched"]={{path="chatsounds/autoadd/payday_2/arms outstretched.ogg",length=1.583}}
+L["better late than never"]={{path="chatsounds/autoadd/payday_2/better late than never.ogg",length=1.502}}
 L["breach breeeach"]={{path="chatsounds/autoadd/payday_2/breach breeeach.ogg",length=1.988}}
 L["captain is on the ground"]={{path="chatsounds/autoadd/payday_2/captain is on the ground.ogg",length=1.981}}
-L["captains got here time to turn things around"]={{path="chatsounds/autoadd/payday_2/captains got here time to turn things around.ogg",length=3.261}}
 L["captains got here time to turn this around"]={{path="chatsounds/autoadd/payday_2/captains got here time to turn this around.ogg",length=3.261}}
 L["captains here"]={{path="chatsounds/autoadd/payday_2/captains here.ogg",length=1.581}}
 L["ceeease fiiire"]={{path="chatsounds/autoadd/payday_2/ceeease fiiire.ogg",length=1.938}}
 L["center mass center mass for fuck sake"]={{path="chatsounds/autoadd/payday_2/center mass center mass for fuck sake.ogg",length=3.300}}
+L["cloaker death"]={{path="chatsounds/autoadd/payday_2/cloaker death/1.ogg",length=0.302},{path="chatsounds/autoadd/payday_2/cloaker death/10.ogg",length=1.303},{path="chatsounds/autoadd/payday_2/cloaker death/11.ogg",length=0.768},{path="chatsounds/autoadd/payday_2/cloaker death/12.ogg",length=0.734},{path="chatsounds/autoadd/payday_2/cloaker death/13.ogg",length=0.514},{path="chatsounds/autoadd/payday_2/cloaker death/14.ogg",length=0.709},{path="chatsounds/autoadd/payday_2/cloaker death/2.ogg",length=0.855},{path="chatsounds/autoadd/payday_2/cloaker death/3.ogg",length=0.565},{path="chatsounds/autoadd/payday_2/cloaker death/4.ogg",length=0.802},{path="chatsounds/autoadd/payday_2/cloaker death/5.ogg",length=0.551},{path="chatsounds/autoadd/payday_2/cloaker death/6.ogg",length=0.551},{path="chatsounds/autoadd/payday_2/cloaker death/7.ogg",length=0.912},{path="chatsounds/autoadd/payday_2/cloaker death/8.ogg",length=0.779},{path="chatsounds/autoadd/payday_2/cloaker death/9.ogg",length=0.569}}
+L["cloaker spawn"]={{path="chatsounds/autoadd/payday_2/cloaker spawn.ogg",length=2.042}}
 L["cloakerscream"]={{path="chatsounds/autoadd/payday_2/cloakerscream.ogg",length=5.065}}
 L["donacdum"]={{path="chatsounds/autoadd/payday_2/donacdum/donacdum1.ogg",length=0.890},{path="chatsounds/autoadd/payday_2/donacdum/donacdum2.ogg",length=0.920}}
 L["exercise caution when aggravating my temper"]={{path="chatsounds/autoadd/payday_2/exercise caution when aggravating my temper.ogg",length=3.862}}
@@ -30,7 +33,8 @@ L["haaard contact"]={{path="chatsounds/autoadd/payday_2/haaard contact.ogg",leng
 L["heha boom"]={{path="chatsounds/autoadd/payday_2/heha boom.ogg",length=1.156}}
 L["holy shit"]={{path="chatsounds/autoadd/payday_2/holy shit.ogg",length=1.222}}
 L["hooold fiiire"]={{path="chatsounds/autoadd/payday_2/hooold fiiire.ogg",length=1.550}}
-L["i had a good burger before we got here"]={{path="chatsounds/autoadd/payday_2/i had a good burger before we got here.ogg",length=1.959}}
+L["i had a good burger before we got here"]={{path="chatsounds/autoadd/payday_2/i had a good burger before we got here.ogg",length=1.956}}
+L["i know i know im late"]={{path="chatsounds/autoadd/payday_2/i know i know im late.ogg",length=2.071}}
 L["i need a medicbag"]={{path="chatsounds/autoadd/payday_2/i need a medicbag.ogg",length=2.088}}
 L["ill stomp your face if you move got it"]={{path="chatsounds/autoadd/payday_2/ill stomp your face if you move got it.ogg",length=2.368}}
 L["imma drop bomb these shitheads like a fucking piano"]={{path="chatsounds/autoadd/payday_2/imma drop bomb these shitheads like a fucking piano.ogg",length=3.214}}
@@ -45,6 +49,10 @@ L["lightning bolt lightning bolt"]={{path="chatsounds/autoadd/payday_2/lightning
 L["lightning bolt lightning bolt lightning bolt"]={{path="chatsounds/autoadd/payday_2/lightning bolt lightning bolt lightning bolt/1.ogg",length=2.955},{path="chatsounds/autoadd/payday_2/lightning bolt lightning bolt lightning bolt/2.ogg",length=2.448}}
 L["man down he just killed a man with a saw"]={{path="chatsounds/autoadd/payday_2/man down he just killed a man with a saw.ogg",length=3.800}}
 L["move move mooove"]={{path="chatsounds/autoadd/payday_2/move move mooove.ogg",length=1.714}}
+L["next time check your corners"]={{path="chatsounds/autoadd/payday_2/next time check your corners.ogg",length=2.103}}
+L["now cry for mom to change your diapers"]={{path="chatsounds/autoadd/payday_2/now cry for mom to change your diapers.ogg",length=2.571}}
+L["now go to the forums and act like a little bitch you are"]={{path="chatsounds/autoadd/payday_2/now go to the forums and act like a little bitch you are.ogg",length=3.872}}
+L["ooh that ones gonna hurt"]={{path="chatsounds/autoadd/payday_2/ooh that ones gonna hurt.ogg",length=1.835}}
 L["open fiiire"]={{path="chatsounds/autoadd/payday_2/open fiiire.ogg",length=1.502}}
 L["positiooons"]={{path="chatsounds/autoadd/payday_2/positiooons.ogg",length=0.926}}
 L["puuush"]={{path="chatsounds/autoadd/payday_2/puuush/1.ogg",length=1.120},{path="chatsounds/autoadd/payday_2/puuush/2.ogg",length=0.840}}
@@ -55,12 +63,14 @@ L["shoot and scoot"]={{path="chatsounds/autoadd/payday_2/shoot and scoot.ogg",le
 L["sit on my dick cloaker"]={{path="chatsounds/autoadd/payday_2/sit on my dick cloaker.ogg",length=1.870}}
 L["smoke the place"]={{path="chatsounds/autoadd/payday_2/smoke the place.ogg",length=1.244}}
 L["somebody drop a medicbag"]={{path="chatsounds/autoadd/payday_2/somebody drop a medicbag.ogg",length=1.890}}
+L["sometimes wishes do come true"]={{path="chatsounds/autoadd/payday_2/sometimes wishes do come true.ogg",length=2.471}}
+L["stop hitting yourself stop hitting yourself"]={{path="chatsounds/autoadd/payday_2/stop hitting yourself stop hitting yourself.ogg",length=3.104}}
 L["take them dooown"]={{path="chatsounds/autoadd/payday_2/take them dooown.ogg",length=1.190}}
 L["tango tango"]={{path="chatsounds/autoadd/payday_2/tango tango.ogg",length=1.542}}
 L["tased"]={{path="chatsounds/autoadd/payday_2/tased.ogg",length=1.482}}
 L["taser charging"]={{path="chatsounds/autoadd/payday_2/taser charging.ogg",length=1.462}}
 L["that maniac has a fucking saw"]={{path="chatsounds/autoadd/payday_2/that maniac has a fucking saw.ogg",length=1.960}}
-L["that might honestly be the only reason why i havent killed ya yet"]={{path="chatsounds/autoadd/payday_2/that might honestly be the only reason why i havent killed ya yet.ogg",length=2.478}}
+L["that might honestly be the only reason why i havent killed ya yet"]={{path="chatsounds/autoadd/payday_2/that might honestly be the only reason why i havent killed ya yet.ogg",length=2.481}}
 L["that psycho just killed one of ours with a saw"]={{path="chatsounds/autoadd/payday_2/that psycho just killed one of ours with a saw.ogg",length=3.178}}
 L["the ao is a shit storm repeat the ao is a shit storm"]={{path="chatsounds/autoadd/payday_2/the ao is a shit storm repeat the ao is a shit storm.ogg",length=3.448}}
 L["the captain arrived"]={{path="chatsounds/autoadd/payday_2/the captain arrived.ogg",length=1.887}}
@@ -75,10 +85,12 @@ L["they got time to lick their wounds between our assault waves"]={{path="chatso
 L["this is a colosssal goat fuck"]={{path="chatsounds/autoadd/payday_2/this is a colosssal goat fuck.ogg",length=2.096}}
 L["this isnt normal they came like they were going to war"]={{path="chatsounds/autoadd/payday_2/this isnt normal they came like they were going to war.ogg",length=2.904}}
 L["watch out hes gonna slice and dice ya"]={{path="chatsounds/autoadd/payday_2/watch out hes gonna slice and dice ya.ogg",length=3.002}}
+L["we call this a difficulty tweak"]={{path="chatsounds/autoadd/payday_2/we call this a difficulty tweak.ogg",length=2.304}}
 L["weapons hooold"]={{path="chatsounds/autoadd/payday_2/weapons hooold.ogg",length=1.748}}
 L["who are these god damn people"]={{path="chatsounds/autoadd/payday_2/who are these god damn people.ogg",length=1.960}}
 L["who are these lunatics"]={{path="chatsounds/autoadd/payday_2/who are these lunatics.ogg",length=1.728}}
 L["who the fuck are these guys"]={{path="chatsounds/autoadd/payday_2/who the fuck are these guys.ogg",length=2.080}}
+L["whos the clown now"]={{path="chatsounds/autoadd/payday_2/whos the clown now.ogg",length=1.536}}
 L["you look like minced fucking meat"]={{path="chatsounds/autoadd/payday_2/you look like minced fucking meat.ogg",length=1.877}}
 L["you son of a bitch"]={{path="chatsounds/autoadd/payday_2/you son of a bitch.ogg",length=1.520}}
 L["you wish to see tomorrow ya bastard"]={{path="chatsounds/autoadd/payday_2/you wish to see tomorrow ya bastard.ogg",length=2.237}}
