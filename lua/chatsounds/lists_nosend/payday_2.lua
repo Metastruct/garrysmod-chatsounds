@@ -74,11 +74,11 @@ L["that might honestly be the only reason why i havent killed ya yet"]={{path="c
 L["that psycho just killed one of ours with a saw"]={{path="chatsounds/autoadd/payday_2/that psycho just killed one of ours with a saw.ogg",length=3.178}}
 L["the ao is a shit storm repeat the ao is a shit storm"]={{path="chatsounds/autoadd/payday_2/the ao is a shit storm repeat the ao is a shit storm.ogg",length=3.448}}
 L["the captain arrived"]={{path="chatsounds/autoadd/payday_2/the captain arrived.ogg",length=1.887}}
-L["the captain is arrived in the ao"]={{path="chatsounds/autoadd/payday_2/the captain is arrived in the ao.ogg",length=2.551}}
+L["the captain has arrived in the ao"]={{path="chatsounds/autoadd/payday_2/the captain has arrived in the ao.ogg",length=2.551}}
 L["the captain is here"]={{path="chatsounds/autoadd/payday_2/the captain is here.ogg",length=1.914}}
 L["the captain is here he has his operation"]={{path="chatsounds/autoadd/payday_2/the captain is here he has his operation.ogg",length=3.414}}
 L["the captain now has operational control"]={{path="chatsounds/autoadd/payday_2/the captain now has operational control.ogg",length=3.072}}
-L["the captain will pull this without"]={{path="chatsounds/autoadd/payday_2/the captain will pull this without.ogg",length=2.444}}
+L["the captain will pull this one out"]={{path="chatsounds/autoadd/payday_2/the captain will pull this one out.ogg",length=2.444}}
 L["the others say i should keep my distance from you but i think youre cute"]={{path="chatsounds/autoadd/payday_2/the others say i should keep my distance from you but i think youre cute.ogg",length=4.089}}
 L["these guys came well prepared"]={{path="chatsounds/autoadd/payday_2/these guys came well prepared.ogg",length=1.540}}
 L["they got time to lick their wounds between our assault waves"]={{path="chatsounds/autoadd/payday_2/they got time to lick their wounds between our assault waves.ogg",length=3.420}}
