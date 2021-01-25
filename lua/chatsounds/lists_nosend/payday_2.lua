@@ -10,6 +10,7 @@ L["ao is hot as fuck"]={{path="chatsounds/autoadd/payday_2/ao is hot as fuck.ogg
 L["arms outstretched"]={{path="chatsounds/autoadd/payday_2/arms outstretched.ogg",length=1.583}}
 L["better late than never"]={{path="chatsounds/autoadd/payday_2/better late than never.ogg",length=1.502}}
 L["breach breeeach"]={{path="chatsounds/autoadd/payday_2/breach breeeach.ogg",length=1.988}}
+L["captain has arrived in the ao"]={{path="chatsounds/autoadd/payday_2/captain has arrived in the ao.ogg",length=2.551}}
 L["captain is on the ground"]={{path="chatsounds/autoadd/payday_2/captain is on the ground.ogg",length=1.981}}
 L["captains got here time to turn this around"]={{path="chatsounds/autoadd/payday_2/captains got here time to turn this around.ogg",length=3.261}}
 L["captains here"]={{path="chatsounds/autoadd/payday_2/captains here.ogg",length=1.581}}
@@ -51,7 +52,7 @@ L["man down he just killed a man with a saw"]={{path="chatsounds/autoadd/payday_
 L["move move mooove"]={{path="chatsounds/autoadd/payday_2/move move mooove.ogg",length=1.714}}
 L["next time check your corners"]={{path="chatsounds/autoadd/payday_2/next time check your corners.ogg",length=2.103}}
 L["now cry for mom to change your diapers"]={{path="chatsounds/autoadd/payday_2/now cry for mom to change your diapers.ogg",length=2.571}}
-L["now go to the forums and act like a little bitch you are"]={{path="chatsounds/autoadd/payday_2/now go to the forums and act like a little bitch you are.ogg",length=3.872}}
+L["now go to the forums and cry like the little bitch you are"]={{path="chatsounds/autoadd/payday_2/now go to the forums and cry like the little bitch you are.ogg",length=3.872}}
 L["ooh that ones gonna hurt"]={{path="chatsounds/autoadd/payday_2/ooh that ones gonna hurt.ogg",length=1.835}}
 L["open fiiire"]={{path="chatsounds/autoadd/payday_2/open fiiire.ogg",length=1.502}}
 L["positiooons"]={{path="chatsounds/autoadd/payday_2/positiooons.ogg",length=0.926}}
@@ -74,9 +75,8 @@ L["that might honestly be the only reason why i havent killed ya yet"]={{path="c
 L["that psycho just killed one of ours with a saw"]={{path="chatsounds/autoadd/payday_2/that psycho just killed one of ours with a saw.ogg",length=3.178}}
 L["the ao is a shit storm repeat the ao is a shit storm"]={{path="chatsounds/autoadd/payday_2/the ao is a shit storm repeat the ao is a shit storm.ogg",length=3.448}}
 L["the captain arrived"]={{path="chatsounds/autoadd/payday_2/the captain arrived.ogg",length=1.887}}
-L["the captain has arrived in the ao"]={{path="chatsounds/autoadd/payday_2/the captain has arrived in the ao.ogg",length=2.551}}
 L["the captain is here"]={{path="chatsounds/autoadd/payday_2/the captain is here.ogg",length=1.914}}
-L["the captain is here he has his operation"]={{path="chatsounds/autoadd/payday_2/the captain is here he has his operation.ogg",length=3.414}}
+L["the captain is here he has this operation"]={{path="chatsounds/autoadd/payday_2/the captain is here he has this operation.ogg",length=3.414}}
 L["the captain now has operational control"]={{path="chatsounds/autoadd/payday_2/the captain now has operational control.ogg",length=3.072}}
 L["the captain will pull this one out"]={{path="chatsounds/autoadd/payday_2/the captain will pull this one out.ogg",length=2.444}}
 L["the others say i should keep my distance from you but i think youre cute"]={{path="chatsounds/autoadd/payday_2/the others say i should keep my distance from you but i think youre cute.ogg",length=4.089}}
