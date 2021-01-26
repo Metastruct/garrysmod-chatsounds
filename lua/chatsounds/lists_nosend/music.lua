@@ -26,6 +26,9 @@ L["decap attack theme"]={{path="chatsounds/autoadd/music/decap attack theme.ogg"
 L["default dance"]={{path="chatsounds/autoadd/music/default dance.ogg",length=6.872}}
 L["dejavu"]={{path="chatsounds/autoadd/music/dejavu.ogg",length=264.150}}
 L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.150}}
+L["doin doin your mom"]={{path="chatsounds/autoadd/music/doin doin your mom.ogg",length=1.506}}
+L["doin your mom"]={{path="chatsounds/autoadd/music/doin your mom.ogg",length=1.010}}
+L["doinyourmomloop"]={{path="chatsounds/autoadd/music/doinyourmomloop.ogg",length=10.918}}
 L["dontloseyourway"]={{path="chatsounds/autoadd/music/dontloseyourway.ogg",length=35.900}}
 L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.ogg",length=20.972}}
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
@@ -65,6 +68,7 @@ L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardba
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
 L["stranger things"]={{path="chatsounds/autoadd/music/stranger things.ogg",length=58.227}}
 L["tetrisloop"]={{path="chatsounds/autoadd/music/tetrisloop.ogg",length=25.592}}
+L["thenitgo"]={{path="chatsounds/autoadd/music/thenitgo.ogg",length=19.062}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
 L["thuglife"]={{path="chatsounds/autoadd/music/thuglife.ogg",length=9.540}}
 L["tief im westen"]={{path="chatsounds/autoadd/music/tief im westen/tief im westen 1.ogg",length=1.707},{path="chatsounds/autoadd/music/tief im westen/tief im westen 2.ogg",length=3.065},{path="chatsounds/autoadd/music/tief im westen/tief im westen 3.ogg",length=2.961},{path="chatsounds/autoadd/music/tief im westen/tief im westen 4.ogg",length=1.788},{path="chatsounds/autoadd/music/tief im westen/tief im westen 5.ogg",length=3.111}}
@@ -80,5 +84,7 @@ L["worldholdon"]={{path="chatsounds/autoadd/music/worldholdon.ogg",length=15.124
 L["yakety sax"]={{path="chatsounds/autoadd/music/yakety sax.ogg",length=147.529}}
 L["you can feel it everywhere"]={{path="chatsounds/autoadd/music/you can feel it everywhere.ogg",length=2.483}}
 L["you can hear it you can feel it"]={{path="chatsounds/autoadd/music/you can hear it you can feel it.ogg",length=1.966}}
+L["you know we straight with doin your mom"]={{path="chatsounds/autoadd/music/you know we straight with doin your mom.ogg",length=1.967}}
+L["your mom"]={{path="chatsounds/autoadd/music/your mom.ogg",length=0.747}}
 L["youre out of touch"]={{path="chatsounds/autoadd/music/youre out of touch.ogg",length=21.185}}
 c.EndList()
