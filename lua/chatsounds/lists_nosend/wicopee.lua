@@ -148,6 +148,8 @@ L["pto loud"]={{path="chatsounds/autoadd/wicopee/pto loud.ogg",length=0.315}}
 L["pushnoy go zatusim"]={{path="chatsounds/autoadd/wicopee/pushnoy go zatusim.ogg",length=1.308}}
 L["pushnoy hvatit pit"]={{path="chatsounds/autoadd/wicopee/pushnoy hvatit pit.ogg",length=1.184}}
 L["ragesounds"]={{path="chatsounds/autoadd/wicopee/ragesounds.ogg",length=0.859}}
+L["ragtime"]={{path="chatsounds/autoadd/wicopee/ragtime.ogg",length=62.198}}
+L["ragtimereverb"]={{path="chatsounds/autoadd/wicopee/ragtimereverb.ogg",length=62.196}}
 L["recordscratch"]={{path="chatsounds/autoadd/wicopee/recordscratch.ogg",length=0.489}}
 L["russian terrified scream"]={{path="chatsounds/autoadd/wicopee/russian terrified scream.ogg",length=2.414}}
 L["russianwomenrage"]={{path="chatsounds/autoadd/wicopee/russianwomenrage.ogg",length=2.353}}
