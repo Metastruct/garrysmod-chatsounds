@@ -4,8 +4,9 @@ L["aaaaa bodybreak"]={{path="chatsounds/autoadd/flyingkitty/aaaaa bodybreak.ogg"
 L["ah ah eh aaaaaaa"]={{path="chatsounds/autoadd/flyingkitty/ah ah eh aaaaaaa.ogg",length=2.414}}
 L["ai a aii"]={{path="chatsounds/autoadd/flyingkitty/ai a aii.ogg",length=2.889}}
 L["but im a silly man with a small dick"]={{path="chatsounds/autoadd/flyingkitty/but im a silly man with a small dick.ogg",length=2.682}}
+L["despashito outro"]={{path="chatsounds/autoadd/flyingkitty/despashito outro.ogg",length=22.049}}
 L["di di"]={{path="chatsounds/autoadd/flyingkitty/di di.ogg",length=1.651}}
-L["dont know what it means but imma say yame"]={{path="chatsounds/autoadd/flyingkitty/dont know what it means but imma say yame.wav",length=2.682}}
+L["dont know what it means but imma say yame"]={{path="chatsounds/autoadd/flyingkitty/dont know what it means but imma say yame.ogg",length=2.682}}
 L["e e e fuck it lets collab with migos"]={{path="chatsounds/autoadd/flyingkitty/e e e fuck it lets collab with migos.ogg",length=3.735}}
 L["e get the fuck away from my mango man"]={{path="chatsounds/autoadd/flyingkitty/e get the fuck away from my mango man.ogg",length=5.447}}
 L["gimme some more burritos"]={{path="chatsounds/autoadd/flyingkitty/gimme some more burritos.ogg",length=2.600}}
