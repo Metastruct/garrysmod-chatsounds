@@ -35,6 +35,7 @@ L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",len
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
+L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
 L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
 L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
