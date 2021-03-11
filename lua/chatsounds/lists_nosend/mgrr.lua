@@ -179,7 +179,6 @@ L["so this is how you do all your interviews"]={{path="chatsounds/autoadd/mgrr/s
 L["so you are strong"]={{path="chatsounds/autoadd/mgrr/so you are strong.ogg",length=2.401}}
 L["something special just for you"]={{path="chatsounds/autoadd/mgrr/something special just for you.ogg",length=2.276}}
 L["sooo what do you think"]={{path="chatsounds/autoadd/mgrr/sooo what do you think.ogg",length=3.228}}
-L["still"]={{path="chatsounds/autoadd/mgrr/still.ogg",length=0.003}}
 L["that one hurt"]={{path="chatsounds/autoadd/mgrr/that one hurt.ogg",length=2.530}}
 L["that tickles"]={{path="chatsounds/autoadd/mgrr/that tickles.ogg",length=1.704}}
 L["that your best"]={{path="chatsounds/autoadd/mgrr/that your best.ogg",length=1.065}}
