@@ -11,6 +11,8 @@ L["aknepasta"]={{path="chatsounds/autoadd/noiwex/aknepasta.ogg",length=1.054}}
 L["amazing graphic fidelity"]={{path="chatsounds/autoadd/noiwex/amazing graphic fidelity.ogg",length=1.511}}
 L["and you all need to learn how to handle real power"]={{path="chatsounds/autoadd/noiwex/and you all need to learn how to handle real power.ogg",length=3.346}}
 L["aui"]={{path="chatsounds/autoadd/noiwex/aui.ogg",length=0.575}}
+L["bandit pain"]={{path="chatsounds/autoadd/noiwex/bandit pain/1.ogg",length=2.130},{path="chatsounds/autoadd/noiwex/bandit pain/2.ogg",length=3.680}}
+L["bandit taunt"]={{path="chatsounds/autoadd/noiwex/bandit taunt/1.ogg",length=1.865},{path="chatsounds/autoadd/noiwex/bandit taunt/2.ogg",length=1.467},{path="chatsounds/autoadd/noiwex/bandit taunt/3.ogg",length=1.768}}
 L["battlefield"]={{path="chatsounds/autoadd/noiwex/battlefield.ogg",length=0.633}}
 L["bf3intro"]={{path="chatsounds/autoadd/noiwex/bf3intro.ogg",length=26.669}}
 L["bf3intro bash"]={{path="chatsounds/autoadd/noiwex/bf3intro bash.ogg",length=4.660}}
