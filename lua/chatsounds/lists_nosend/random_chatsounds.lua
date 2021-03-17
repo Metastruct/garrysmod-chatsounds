@@ -1,6 +1,7 @@
 c.StartList("random_chatsounds")
 L["and push to stop"]={{path="chatsounds/autoadd/random_chatsounds/and push to stop.ogg",length=0.847}}
 L["are you stupid"]={{path="chatsounds/autoadd/random_chatsounds/are you stupid.ogg",length=1.033}}
+L["battle of wits"]={{path="chatsounds/autoadd/random_chatsounds/battle of wits.ogg",length=5.968}}
 L["big cock"]={{path="chatsounds/autoadd/random_chatsounds/big cock.ogg",length=1.255}}
 L["boner"]={{path="chatsounds/autoadd/random_chatsounds/boner.ogg",length=0.438}}
 L["but no cum"]={{path="chatsounds/autoadd/random_chatsounds/but no cum.ogg",length=1.197}}
