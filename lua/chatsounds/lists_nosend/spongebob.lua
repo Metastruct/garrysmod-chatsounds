@@ -19,7 +19,7 @@ L["dont hold back"]={{path="chatsounds/autoadd/spongebob/dont hold back.ogg",len
 L["dont worry buddy youre doing fine"]={{path="chatsounds/autoadd/spongebob/dont worry buddy youre doing fine.ogg",length=3.121}}
 L["dont you backsass me"]={{path="chatsounds/autoadd/spongebob/dont you backsass me.ogg",length=1.461}}
 L["dont you have to be stupid somewhere else"]={{path="chatsounds/autoadd/spongebob/dont you have to be stupid somewhere else.ogg",length=1.915}}
-L["drown in it"]={{path="chatsounds/autoadd/spongebob/drown in it/1.ogg",length=1.367},{path="chatsounds/autoadd/spongebob/drown in it/2.ogg",length=5.162}}
+L["drown in it"]={{path="chatsounds/autoadd/spongebob/drown in it/one.ogg",length=1.119},{path="chatsounds/autoadd/spongebob/drown in it/two.ogg",length=1.347}}
 L["dude put that thing away there are like children here"]={{path="chatsounds/autoadd/spongebob/dude put that thing away there are like children here.ogg",length=3.617}}
 L["eavesdropping"]={{path="chatsounds/autoadd/spongebob/eavesdropping.ogg",length=1.122}}
 L["everyone died"]={{path="chatsounds/autoadd/spongebob/everyone died.ogg",length=1.518}}
