@@ -71,6 +71,7 @@ L["minions are a metaphor for communism"]={{path="chatsounds/autoadd/misc/minion
 L["moment"]={{path="chatsounds/autoadd/misc/moment.ogg",length=0.257}}
 L["moments"]={{path="chatsounds/autoadd/misc/moments.ogg",length=0.335}}
 L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.624}}
+L["my fellow americans i am pleased to bombing"]={{path="chatsounds/autoadd/misc/my fellow americans i am pleased to bombing.ogg",length=8.875}}
 L["namomed"]={{path="chatsounds/autoadd/misc/namomed.ogg",length=0.700}}
 L["nein nein nein"]={{path="chatsounds/autoadd/misc/nein nein nein.ogg",length=3.109}}
 L["nightmare"]={{path="chatsounds/autoadd/misc/nightmare.ogg",length=1.201}}
