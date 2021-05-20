@@ -8,8 +8,10 @@ L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaa
 L["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.ogg",length=6.428}}
 L["aaaaaaaeeaaaeeaaaaaaaaaaaaaa"]={{path="chatsounds/autoadd/wicopee/aaaaaaaeeaaaeeaaaaaaaaaaaaaa.ogg",length=3.880}}
 L["aininia"]={{path="chatsounds/autoadd/wicopee/aininia.ogg",length=0.639}}
+L["alalalabosu"]={{path="chatsounds/autoadd/wicopee/alalalabosu.ogg",length=1.068}}
 L["alia intro distorted"]={{path="chatsounds/autoadd/wicopee/alia intro distorted.ogg",length=6.792}}
 L["all of this behaviour is a symptom of the fact that youre not expressing your anger"]={{path="chatsounds/autoadd/wicopee/all of this behaviour is a symptom of the fact that youre not expressing your anger.ogg",length=5.806}}
+L["allaalala"]={{path="chatsounds/autoadd/wicopee/allaalala.ogg",length=1.812}}
 L["allo"]={{path="chatsounds/autoadd/wicopee/allo.ogg",length=0.679}}
 L["anananannonanaonoa"]={{path="chatsounds/autoadd/wicopee/anananannonanaonoa.ogg",length=1.452}}
 L["and whos that"]={{path="chatsounds/autoadd/wicopee/and whos that.ogg",length=1.129}}
@@ -46,6 +48,7 @@ L["da nikto loud"]={{path="chatsounds/autoadd/wicopee/da nikto loud.ogg",length=
 L["da vinky"]={{path="chatsounds/autoadd/wicopee/da vinky.ogg",length=0.924}}
 L["dadaladno"]={{path="chatsounds/autoadd/wicopee/dadaladno.ogg",length=0.979}}
 L["dal"]={{path="chatsounds/autoadd/wicopee/dal.ogg",length=0.191}}
+L["damn"]={{path="chatsounds/autoadd/wicopee/damn.ogg",length=0.856}}
 L["demonic screech"]={{path="chatsounds/autoadd/wicopee/demonic screech.ogg",length=5.400}}
 L["ding"]={{path="chatsounds/autoadd/wicopee/ding.ogg",length=0.698}}
 L["dingintense"]={{path="chatsounds/autoadd/wicopee/dingintense.ogg",length=1.172}}
@@ -85,6 +88,7 @@ L["i tuuutut ya"]={{path="chatsounds/autoadd/wicopee/i tuuutut ya.ogg",length=0.
 L["if its not fun why bother"]={{path="chatsounds/autoadd/wicopee/if its not fun why bother.ogg",length=2.009}}
 L["igor"]={{path="chatsounds/autoadd/wicopee/igor.ogg",length=0.637}}
 L["im a bird"]={{path="chatsounds/autoadd/wicopee/im a bird.ogg",length=0.989}}
+L["isaac shut the hell up"]={{path="chatsounds/autoadd/wicopee/isaac shut the hell up.ogg",length=2.250}}
 L["john cena"]={{path="chatsounds/autoadd/wicopee/john cena.ogg",length=2.595}}
 L["kakoi russki ne lubit saas"]={{path="chatsounds/autoadd/wicopee/kakoi russki ne lubit saas.ogg",length=2.140}}
 L["kakoi zhe"]={{path="chatsounds/autoadd/wicopee/kakoi zhe.ogg",length=0.601}}
@@ -148,6 +152,8 @@ L["pto loud"]={{path="chatsounds/autoadd/wicopee/pto loud.ogg",length=0.315}}
 L["pushnoy go zatusim"]={{path="chatsounds/autoadd/wicopee/pushnoy go zatusim.ogg",length=1.308}}
 L["pushnoy hvatit pit"]={{path="chatsounds/autoadd/wicopee/pushnoy hvatit pit.ogg",length=1.184}}
 L["ragesounds"]={{path="chatsounds/autoadd/wicopee/ragesounds.ogg",length=0.859}}
+L["ragtime"]={{path="chatsounds/autoadd/wicopee/ragtime.ogg",length=62.198}}
+L["ragtimereverb"]={{path="chatsounds/autoadd/wicopee/ragtimereverb.ogg",length=62.196}}
 L["recordscratch"]={{path="chatsounds/autoadd/wicopee/recordscratch.ogg",length=0.489}}
 L["russian terrified scream"]={{path="chatsounds/autoadd/wicopee/russian terrified scream.ogg",length=2.414}}
 L["russianwomenrage"]={{path="chatsounds/autoadd/wicopee/russianwomenrage.ogg",length=2.353}}

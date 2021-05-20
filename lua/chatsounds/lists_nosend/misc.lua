@@ -7,6 +7,7 @@ L["aol input"]={{path="chatsounds/autoadd/misc/aol input.ogg",length=0.825}}
 L["aol mail"]={{path="chatsounds/autoadd/misc/aol mail.ogg",length=0.877}}
 L["aol output"]={{path="chatsounds/autoadd/misc/aol output.ogg",length=0.912}}
 L["bbaann"]={{path="chatsounds/autoadd/misc/bbaann.ogg",length=5.186}}
+L["beer pour"]={{path="chatsounds/autoadd/misc/beer pour.ogg",length=4.957}}
 L["bill nye"]={{path="chatsounds/autoadd/misc/bill nye.ogg",length=5.590}}
 L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.593}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.245}}
@@ -71,6 +72,7 @@ L["minions are a metaphor for communism"]={{path="chatsounds/autoadd/misc/minion
 L["moment"]={{path="chatsounds/autoadd/misc/moment.ogg",length=0.257}}
 L["moments"]={{path="chatsounds/autoadd/misc/moments.ogg",length=0.335}}
 L["mrng"]={{path="chatsounds/autoadd/misc/mrng.ogg",length=1.624}}
+L["my fellow americans i am pleased to bombing"]={{path="chatsounds/autoadd/misc/my fellow americans i am pleased to bombing.ogg",length=8.875}}
 L["namomed"]={{path="chatsounds/autoadd/misc/namomed.ogg",length=0.700}}
 L["nein nein nein"]={{path="chatsounds/autoadd/misc/nein nein nein.ogg",length=3.109}}
 L["nightmare"]={{path="chatsounds/autoadd/misc/nightmare.ogg",length=1.201}}

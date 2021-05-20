@@ -3,6 +3,7 @@ L["as"]={{path="chatsounds/autoadd/morshu/as.ogg",length=0.217}}
 L["as you"]={{path="chatsounds/autoadd/morshu/as you.ogg",length=0.245}}
 L["back"]={{path="chatsounds/autoadd/morshu/back.ogg",length=0.393}}
 L["bombs"]={{path="chatsounds/autoadd/morshu/bombs.ogg",length=0.723}}
+L["boobies"]={{path="chatsounds/autoadd/morshu/boobies.ogg",length=0.659}}
 L["cant"]={{path="chatsounds/autoadd/morshu/cant.ogg",length=0.379}}
 L["come"]={{path="chatsounds/autoadd/morshu/come.ogg",length=0.320}}
 L["come back when youre a little"]={{path="chatsounds/autoadd/morshu/come back when youre a little.ogg",length=1.635}}

@@ -6,12 +6,14 @@ L["bazinga"]={{path="chatsounds/autoadd/random_shit/bazinga/bazinga1.ogg",length
 L["begone satan"]={{path="chatsounds/autoadd/random_shit/begone satan.ogg",length=1.204}}
 L["big big chungus"]={{path="chatsounds/autoadd/random_shit/big big chungus.ogg",length=1.691}}
 L["big chungus"]={{path="chatsounds/autoadd/random_shit/big chungus.ogg",length=0.971}}
+L["blyat"]={{path="chatsounds/autoadd/random_shit/blyat.ogg",length=0.747}}
 L["boo you suck"]={{path="chatsounds/autoadd/random_shit/boo you suck.ogg",length=2.509}}
 L["but not for me"]={{path="chatsounds/autoadd/random_shit/but not for me.ogg",length=1.304}}
 L["buzz look an alien"]={{path="chatsounds/autoadd/random_shit/buzz look an alien.ogg",length=1.034}}
 L["call an ambulance call an ambulance"]={{path="chatsounds/autoadd/random_shit/call an ambulance call an ambulance.ogg",length=4.085}}
 L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg",length=2.140}}
 L["crunch"]={{path="chatsounds/autoadd/random_shit/crunch.ogg",length=0.593}}
+L["da blyat cyka"]={{path="chatsounds/autoadd/random_shit/da blyat cyka.ogg",length=1.662}}
 L["der he is"]={{path="chatsounds/autoadd/random_shit/der he is.ogg",length=1.374}}
 L["disgustang"]={{path="chatsounds/autoadd/random_shit/disgustang.ogg",length=1.434}}
 L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let your kids watch it.ogg",length=1.885}}
@@ -24,6 +26,7 @@ L["from where youre kneeling must seem like an eighteen carat run of bad luck"]=
 L["future"]={{path="chatsounds/autoadd/random_shit/future/1.ogg",length=2.572},{path="chatsounds/autoadd/random_shit/future/2.ogg",length=2.642},{path="chatsounds/autoadd/random_shit/future/3.ogg",length=2.657}}
 L["gaming"]={{path="chatsounds/autoadd/random_shit/gaming.ogg",length=0.712}}
 L["get the fuck out of my room im playing minecraft"]={{path="chatsounds/autoadd/random_shit/get the fuck out of my room im playing minecraft.ogg",length=2.973}}
+L["go fuck"]={{path="chatsounds/autoadd/random_shit/go fuck.ogg",length=0.643}}
 L["goodbye"]={{path="chatsounds/autoadd/random_shit/goodbye.ogg",length=8.761}}
 L["hackerman"]={{path="chatsounds/autoadd/random_shit/hackerman.ogg",length=0.746}}
 L["hah gay"]={{path="chatsounds/autoadd/random_shit/hah gay.ogg",length=2.791}}
@@ -73,8 +76,10 @@ L["objection"]={{path="chatsounds/autoadd/random_shit/objection.ogg",length=1.32
 L["parola di baffo"]={{path="chatsounds/autoadd/random_shit/parola di baffo.ogg",length=1.353}}
 L["penis"]={{path="chatsounds/autoadd/random_shit/penis.ogg",length=0.498}}
 L["perkele"]={{path="chatsounds/autoadd/random_shit/perkele.ogg",length=1.228}}
+L["pussy"]={{path="chatsounds/autoadd/random_shit/pussy.ogg",length=0.463}}
 L["quieres"]={{path="chatsounds/autoadd/random_shit/quieres.ogg",length=1.751}}
 L["rdmrdmrdm"]={{path="chatsounds/autoadd/random_shit/rdmrdmrdm.ogg",length=2.628}}
+L["russian scream"]={{path="chatsounds/autoadd/random_shit/russian scream.ogg",length=2.550}}
 L["scotland forever"]={{path="chatsounds/autoadd/random_shit/scotland forever.ogg",length=4.151}}
 L["she knows too much"]={{path="chatsounds/autoadd/random_shit/she knows too much.ogg",length=0.919}}
 L["shrimpscream"]={{path="chatsounds/autoadd/random_shit/shrimpscream.ogg",length=5.165}}
@@ -86,6 +91,7 @@ L["so im cumming day and night"]={{path="chatsounds/autoadd/random_shit/so im cu
 L["soup"]={{path="chatsounds/autoadd/random_shit/soup.ogg",length=0.393}}
 L["spaghetti"]={{path="chatsounds/autoadd/random_shit/spaghetti.ogg",length=1.054}}
 L["spherical"]={{path="chatsounds/autoadd/random_shit/spherical.ogg",length=1.184}}
+L["stunt"]={{path="chatsounds/autoadd/random_shit/stunt.ogg",length=1.080}}
 L["super mario in real life"]={{path="chatsounds/autoadd/random_shit/super mario in real life.ogg",length=1.847}}
 L["tango down"]={{path="chatsounds/autoadd/random_shit/tango down.ogg",length=2.090}}
 L["thats what they want you to think"]={{path="chatsounds/autoadd/random_shit/thats what they want you to think.ogg",length=1.751}}

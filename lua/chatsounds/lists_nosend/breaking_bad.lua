@@ -54,6 +54,7 @@ L["grams"]={{path="chatsounds/autoadd/breaking_bad/grams.ogg",length=0.697}}
 L["half"]={{path="chatsounds/autoadd/breaking_bad/half.ogg",length=0.181}}
 L["hank"]={{path="chatsounds/autoadd/breaking_bad/hank.ogg",length=0.555}}
 L["hard to come by"]={{path="chatsounds/autoadd/breaking_bad/hard to come by.ogg",length=0.733}}
+L["he cant keep getting away with it"]={{path="chatsounds/autoadd/breaking_bad/he cant keep getting away with it.ogg",length=3.096}}
 L["hear me out"]={{path="chatsounds/autoadd/breaking_bad/hear me out.ogg",length=0.993}}
 L["heheheh"]={{path="chatsounds/autoadd/breaking_bad/heheheh.ogg",length=0.540}}
 L["heisenberg"]={{path="chatsounds/autoadd/breaking_bad/heisenberg.ogg",length=0.772}}
