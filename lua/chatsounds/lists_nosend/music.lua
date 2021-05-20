@@ -24,6 +24,7 @@ L["crawling in my crawl"]={{path="chatsounds/autoadd/music/crawling in my crawl.
 L["crazy"]={{path="chatsounds/autoadd/music/crazy.ogg",length=1.542}}
 L["decap attack theme"]={{path="chatsounds/autoadd/music/decap attack theme.ogg",length=3.210}}
 L["default dance"]={{path="chatsounds/autoadd/music/default dance.ogg",length=6.872}}
+L["defaultmusic"]={{path="chatsounds/autoadd/music/defaultmusic.ogg",length=118.897}}
 L["dejavu"]={{path="chatsounds/autoadd/music/dejavu.ogg",length=264.150}}
 L["disco groove"]={{path="chatsounds/autoadd/music/disco groove.ogg",length=31.150}}
 L["doin doin your mom"]={{path="chatsounds/autoadd/music/doin doin your mom.ogg",length=1.506}}
