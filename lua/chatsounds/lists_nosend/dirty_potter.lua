@@ -30,6 +30,7 @@ L["it was a smashing success"]={{path="chatsounds/autoadd/dirty_potter/it was a 
 L["jim dale rap"]={{path="chatsounds/autoadd/dirty_potter/jim dale rap/jim dale rap 1.ogg",length=26.289},{path="chatsounds/autoadd/dirty_potter/jim dale rap/jim dale rap 2.ogg",length=28.574}}
 L["listener perversion is advised"]={{path="chatsounds/autoadd/dirty_potter/listener perversion is advised.ogg",length=2.202}}
 L["mmm blood my favourite"]={{path="chatsounds/autoadd/dirty_potter/mmm blood my favourite.ogg",length=7.324}}
+L["nword should be put down said hagrid"]={{path="chatsounds/autoadd/dirty_potter/nword should be put down said hagrid.ogg",length=2.965}}
 L["oh god my hole is bleeding profusely"]={{path="chatsounds/autoadd/dirty_potter/oh god my hole is bleeding profusely.ogg",length=2.313}}
 L["oh yeah it was me i have put a little milk into your butt"]={{path="chatsounds/autoadd/dirty_potter/oh yeah it was me i have put a little milk into your butt.ogg",length=4.693}}
 L["presents"]={{path="chatsounds/autoadd/dirty_potter/presents.ogg",length=0.877}}

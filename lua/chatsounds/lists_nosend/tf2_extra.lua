@@ -73,18 +73,21 @@ L["everyone there is a mcdonalds ahead"]={{path="chatsounds/autoadd/tf2_extra/ev
 L["faggots"]={{path="chatsounds/autoadd/tf2_extra/faggots.ogg",length=0.780}}
 L["fatcellent"]={{path="chatsounds/autoadd/tf2_extra/fatcellent.ogg",length=1.091}}
 L["ffuck"]={{path="chatsounds/autoadd/tf2_extra/ffuck.ogg",length=0.621}}
+L["ffuckhead"]={{path="chatsounds/autoadd/tf2_extra/ffuckhead.ogg",length=1.053}}
 L["for twelve seconds"]={{path="chatsounds/autoadd/tf2_extra/for twelve seconds.ogg",length=2.101}}
 L["fuck you"]={{path="chatsounds/autoadd/tf2_extra/fuck you.ogg",length=1.086}}
 L["fuck you you fuckin fatass"]={{path="chatsounds/autoadd/tf2_extra/fuck you you fuckin fatass.ogg",length=1.810}}
 L["gasp"]={{path="chatsounds/autoadd/tf2_extra/gasp.ogg",length=1.086}}
 L["gentlemen time to start playing"]={{path="chatsounds/autoadd/tf2_extra/gentlemen time to start playing.ogg",length=2.567}}
 L["ggoottaamm"]={{path="chatsounds/autoadd/tf2_extra/ggoottaamm.ogg",length=0.914}}
+L["give me my cum back you fuckhead"]={{path="chatsounds/autoadd/tf2_extra/give me my cum back you fuckhead.ogg",length=3.001}}
 L["go ahead and try"]={{path="chatsounds/autoadd/tf2_extra/go ahead and try.ogg",length=2.083}}
 L["go to 2fort and take your cheap penis with you"]={{path="chatsounds/autoadd/tf2_extra/go to 2fort and take your cheap penis with you.ogg",length=3.079}}
 L["good distorted"]={{path="chatsounds/autoadd/tf2_extra/good distorted.ogg",length=0.483}}
 L["good lool you fack like a woman"]={{path="chatsounds/autoadd/tf2_extra/good lool you fack like a woman.ogg",length=2.563}}
 L["good shit"]={{path="chatsounds/autoadd/tf2_extra/good shit.ogg",length=0.791}}
 L["gottam"]={{path="chatsounds/autoadd/tf2_extra/gottam.ogg",length=0.227}}
+L["grow some hair on your dick"]={{path="chatsounds/autoadd/tf2_extra/grow some hair on your dick.ogg",length=1.516}}
 L["gunshots heavy screaming all in a days woow"]={{path="chatsounds/autoadd/tf2_extra/gunshots heavy screaming all in a days woow.ogg",length=2.212}}
 L["haaa ha ha ha haah"]={{path="chatsounds/autoadd/tf2_extra/haaa ha ha ha haah.ogg",length=2.601}}
 L["haaaa"]={{path="chatsounds/autoadd/tf2_extra/haaaa.ogg",length=1.869}}

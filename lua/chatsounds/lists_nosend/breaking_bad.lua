@@ -230,6 +230,7 @@ L["wonka"]={{path="chatsounds/autoadd/breaking_bad/wonka.ogg",length=0.487}}
 L["world"]={{path="chatsounds/autoadd/breaking_bad/world.ogg",length=0.389}}
 L["ww"]={{path="chatsounds/autoadd/breaking_bad/ww/ww-2.ogg",length=0.712},{path="chatsounds/autoadd/breaking_bad/ww/ww.ogg",length=0.938}}
 L["yeah"]={{path="chatsounds/autoadd/breaking_bad/yeah/yeah-2.ogg",length=0.217},{path="chatsounds/autoadd/breaking_bad/yeah/yeah-3.ogg",length=0.605},{path="chatsounds/autoadd/breaking_bad/yeah/yeah.ogg",length=0.253}}
+L["yeah bitch"]={{path="chatsounds/autoadd/breaking_bad/yeah bitch.ogg",length=1.371}}
 L["yeah mister white"]={{path="chatsounds/autoadd/breaking_bad/yeah mister white.ogg",length=1.231}}
 L["yeah science"]={{path="chatsounds/autoadd/breaking_bad/yeah science.ogg",length=1.077}}
 L["yo"]={{path="chatsounds/autoadd/breaking_bad/yo.ogg",length=0.647}}
