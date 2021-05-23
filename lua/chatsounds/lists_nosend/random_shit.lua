@@ -1,5 +1,6 @@
 c.StartList("random_shit")
 L["aid"]={{path="chatsounds/autoadd/random_shit/aid.ogg",length=0.352}}
+L["and i oop"]={{path="chatsounds/autoadd/random_shit/and i oop.ogg",length=0.472}}
 L["and its spherical"]={{path="chatsounds/autoadd/random_shit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/random_shit/are you kidding me.ogg",length=2.662}}
 L["bazinga"]={{path="chatsounds/autoadd/random_shit/bazinga/bazinga1.ogg",length=0.899},{path="chatsounds/autoadd/random_shit/bazinga/bazinga2.ogg",length=0.788},{path="chatsounds/autoadd/random_shit/bazinga/bazinga3.ogg",length=1.088},{path="chatsounds/autoadd/random_shit/bazinga/bazinga4.ogg",length=1.041},{path="chatsounds/autoadd/random_shit/bazinga/bazinga5.ogg",length=0.900},{path="chatsounds/autoadd/random_shit/bazinga/bazinga6.ogg",length=0.609},{path="chatsounds/autoadd/random_shit/bazinga/bazinga7.ogg",length=0.876},{path="chatsounds/autoadd/random_shit/bazinga/bazinga8.ogg",length=0.832},{path="chatsounds/autoadd/random_shit/bazinga/bazinga9.ogg",length=0.924}}
@@ -10,6 +11,7 @@ L["blyat"]={{path="chatsounds/autoadd/random_shit/blyat.ogg",length=0.747}}
 L["boo you suck"]={{path="chatsounds/autoadd/random_shit/boo you suck.ogg",length=2.509}}
 L["but not for me"]={{path="chatsounds/autoadd/random_shit/but not for me.ogg",length=1.304}}
 L["buzz look an alien"]={{path="chatsounds/autoadd/random_shit/buzz look an alien.ogg",length=1.034}}
+L["c2 timer"]={{path="chatsounds/autoadd/random_shit/c2 timer.ogg",length=4.055}}
 L["call an ambulance call an ambulance"]={{path="chatsounds/autoadd/random_shit/call an ambulance call an ambulance.ogg",length=4.085}}
 L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg",length=2.140}}
 L["crunch"]={{path="chatsounds/autoadd/random_shit/crunch.ogg",length=0.593}}
@@ -20,16 +22,20 @@ L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let
 L["ee ur"]={{path="chatsounds/autoadd/random_shit/ee ur.ogg",length=1.431}}
 L["eekum bokum"]={{path="chatsounds/autoadd/random_shit/eekum bokum/1.ogg",length=0.883},{path="chatsounds/autoadd/random_shit/eekum bokum/2.ogg",length=1.063}}
 L["eugh"]={{path="chatsounds/autoadd/random_shit/eugh.ogg",length=0.542}}
+L["figarofigarofigaro boom"]={{path="chatsounds/autoadd/random_shit/figarofigarofigaro boom.ogg",length=5.432}}
 L["fire deployment"]={{path="chatsounds/autoadd/random_shit/fire deployment.ogg",length=0.568}}
 L["fortnite"]={{path="chatsounds/autoadd/random_shit/fortnite.ogg",length=0.902}}
 L["from where youre kneeling must seem like an eighteen carat run of bad luck"]={{path="chatsounds/autoadd/random_shit/from where youre kneeling must seem like an eighteen carat run of bad luck.ogg",length=3.887}}
+L["fuq"]={{path="chatsounds/autoadd/random_shit/fuq.ogg",length=0.471}}
 L["future"]={{path="chatsounds/autoadd/random_shit/future/1.ogg",length=2.572},{path="chatsounds/autoadd/random_shit/future/2.ogg",length=2.642},{path="chatsounds/autoadd/random_shit/future/3.ogg",length=2.657}}
 L["gaming"]={{path="chatsounds/autoadd/random_shit/gaming.ogg",length=0.712}}
 L["get the fuck out of my room im playing minecraft"]={{path="chatsounds/autoadd/random_shit/get the fuck out of my room im playing minecraft.ogg",length=2.973}}
 L["go fuck"]={{path="chatsounds/autoadd/random_shit/go fuck.ogg",length=0.643}}
+L["gonna sweep sweep distorted"]={{path="chatsounds/autoadd/random_shit/gonna sweep sweep distorted.ogg",length=2.078}}
 L["goodbye"]={{path="chatsounds/autoadd/random_shit/goodbye.ogg",length=8.761}}
 L["hackerman"]={{path="chatsounds/autoadd/random_shit/hackerman.ogg",length=0.746}}
 L["hah gay"]={{path="chatsounds/autoadd/random_shit/hah gay.ogg",length=2.791}}
+L["heheuh"]={{path="chatsounds/autoadd/random_shit/heheuh.ogg",length=0.807}}
 L["hello internet welcome to gay"]={{path="chatsounds/autoadd/random_shit/hello internet welcome to gay.ogg",length=3.585}}
 L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/random_shit/hes the most powerful hacker of all time.ogg",length=2.367}}
 L["hey joe"]={{path="chatsounds/autoadd/random_shit/hey joe.ogg",length=0.465}}
@@ -56,11 +62,14 @@ L["its just the way it is"]={{path="chatsounds/autoadd/random_shit/its just the 
 L["its rewind time"]={{path="chatsounds/autoadd/random_shit/its rewind time.ogg",length=1.516}}
 L["its so sad that steve jobs died of ligma"]={{path="chatsounds/autoadd/random_shit/its so sad that steve jobs died of ligma.ogg",length=3.977}}
 L["ive got places to be"]={{path="chatsounds/autoadd/random_shit/ive got places to be.ogg",length=2.973}}
+L["juhuu"]={{path="chatsounds/autoadd/random_shit/juhuu.ogg",length=0.777}}
+L["keep working and youll get promotion maybe huhuhe"]={{path="chatsounds/autoadd/random_shit/keep working and youll get promotion maybe huhuhe.ogg",length=3.669}}
 L["kurwa"]={{path="chatsounds/autoadd/random_shit/kurwa.ogg",length=1.247}}
 L["lemme put it in a language you can understand"]={{path="chatsounds/autoadd/random_shit/lemme put it in a language you can understand.ogg",length=2.421}}
 L["lets fucking gooooooooo"]={{path="chatsounds/autoadd/random_shit/lets fucking gooooooooo.ogg",length=3.992}}
 L["ligma balls"]={{path="chatsounds/autoadd/random_shit/ligma balls.ogg",length=1.468}}
 L["like thats ever gonna happen"]={{path="chatsounds/autoadd/random_shit/like thats ever gonna happen.ogg",length=1.996}}
+L["mail motherfucker"]={{path="chatsounds/autoadd/random_shit/mail motherfucker.ogg",length=0.739}}
 L["mine"]={{path="chatsounds/autoadd/random_shit/mine/1.ogg",length=0.246},{path="chatsounds/autoadd/random_shit/mine/2.ogg",length=0.287}}
 L["mortis"]={{path="chatsounds/autoadd/random_shit/mortis.ogg",length=0.995}}
 L["my disappointment is immeasurable and my day is ruined"]={{path="chatsounds/autoadd/random_shit/my disappointment is immeasurable and my day is ruined.ogg",length=5.508}}
@@ -88,6 +97,8 @@ L["skibidi bop mmm bada"]={{path="chatsounds/autoadd/random_shit/skibidi bop mmm
 L["skibidi bop mmm bada loud"]={{path="chatsounds/autoadd/random_shit/skibidi bop mmm bada loud.ogg",length=4.103}}
 L["snooping as usual i see"]={{path="chatsounds/autoadd/random_shit/snooping as usual i see.ogg",length=3.067}}
 L["so im cumming day and night"]={{path="chatsounds/autoadd/random_shit/so im cumming day and night.ogg",length=1.678}}
+L["somebodyhelp"]={{path="chatsounds/autoadd/random_shit/somebodyhelp.ogg",length=0.918}}
+L["someone having a stroke"]={{path="chatsounds/autoadd/random_shit/someone having a stroke.ogg",length=2.702}}
 L["soup"]={{path="chatsounds/autoadd/random_shit/soup.ogg",length=0.393}}
 L["spaghetti"]={{path="chatsounds/autoadd/random_shit/spaghetti.ogg",length=1.054}}
 L["spherical"]={{path="chatsounds/autoadd/random_shit/spherical.ogg",length=1.184}}
@@ -97,6 +108,7 @@ L["tango down"]={{path="chatsounds/autoadd/random_shit/tango down.ogg",length=2.
 L["thats what they want you to think"]={{path="chatsounds/autoadd/random_shit/thats what they want you to think.ogg",length=1.751}}
 L["the future is now old man"]={{path="chatsounds/autoadd/random_shit/the future is now old man.ogg",length=3.166}}
 L["the game was rigged from the start"]={{path="chatsounds/autoadd/random_shit/the game was rigged from the start.ogg",length=1.867}}
+L["there is something wrong in the state of denmark"]={{path="chatsounds/autoadd/random_shit/there is something wrong in the state of denmark.ogg",length=2.334}}
 L["tiduslaugh"]={{path="chatsounds/autoadd/random_shit/tiduslaugh.ogg",length=7.923}}
 L["timey wimey"]={{path="chatsounds/autoadd/random_shit/timey wimey.ogg",length=1.147}}
 L["truth is the game was rigged from the start"]={{path="chatsounds/autoadd/random_shit/truth is the game was rigged from the start.ogg",length=3.963}}
@@ -114,5 +126,7 @@ L["wibbly wobbly"]={{path="chatsounds/autoadd/random_shit/wibbly wobbly.ogg",len
 L["wibbly wobbly timey wimey stuff"]={{path="chatsounds/autoadd/random_shit/wibbly wobbly timey wimey stuff.ogg",length=3.936}}
 L["yahh"]={{path="chatsounds/autoadd/random_shit/yahh.ogg",length=1.173}}
 L["you get what you fuckin deserve"]={{path="chatsounds/autoadd/random_shit/you get what you fuckin deserve.ogg",length=2.358}}
+L["you knew that"]={{path="chatsounds/autoadd/random_shit/you knew that.ogg",length=0.778}}
+L["you mingebag"]={{path="chatsounds/autoadd/random_shit/you mingebag.ogg",length=1.184}}
 L["you missed that one"]={{path="chatsounds/autoadd/random_shit/you missed that one.ogg",length=1.325}}
 c.EndList()
