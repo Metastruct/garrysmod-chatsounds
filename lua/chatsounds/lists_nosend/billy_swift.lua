@@ -16,6 +16,7 @@ L["i killed this chicken"]={{path="chatsounds/autoadd/billy_swift/i killed this 
 L["if you do it properly youre gonna die"]={{path="chatsounds/autoadd/billy_swift/if you do it properly youre gonna die.ogg",length=2.693}}
 L["if you test it and theres still a little dick you may need to let it dry"]={{path="chatsounds/autoadd/billy_swift/if you test it and theres still a little dick you may need to let it dry.ogg",length=4.183}}
 L["if you test it and theres still a little water you can suck on my nuts"]={{path="chatsounds/autoadd/billy_swift/if you test it and theres still a little water you can suck on my nuts.ogg",length=3.800}}
+L["imagine everything you can do with a penis"]={{path="chatsounds/autoadd/billy_swift/imagine everything you can do with a penis.ogg",length=3.052}}
 L["in the chicken hole"]={{path="chatsounds/autoadd/billy_swift/in the chicken hole.ogg",length=1.109}}
 L["it cums to the surface"]={{path="chatsounds/autoadd/billy_swift/it cums to the surface.ogg",length=1.621}}
 L["its still not working"]={{path="chatsounds/autoadd/billy_swift/its still not working.ogg",length=1.381}}
