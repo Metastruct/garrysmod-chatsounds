@@ -16,7 +16,6 @@ L["except me"]={{path="chatsounds/autoadd/cracklife/except me.ogg",length=0.987}
 L["fock"]={{path="chatsounds/autoadd/cracklife/fock/geiger1.ogg",length=0.290},{path="chatsounds/autoadd/cracklife/fock/geiger2.ogg",length=0.284},{path="chatsounds/autoadd/cracklife/fock/geiger3.ogg",length=0.290},{path="chatsounds/autoadd/cracklife/fock/geiger4.ogg",length=0.180},{path="chatsounds/autoadd/cracklife/fock/geiger5.ogg",length=0.197},{path="chatsounds/autoadd/cracklife/fock/geiger6.ogg",length=0.342}}
 L["fuck you"]={{path="chatsounds/autoadd/cracklife/fuck you.ogg",length=0.521}}
 L["fucking grenadespam motherfuckers"]={{path="chatsounds/autoadd/cracklife/fucking grenadespam motherfuckers.ogg",length=2.545}}
-L["godfuckingdamnitnwordshitassfuck"]={{path="chatsounds/autoadd/cracklife/godfuckingdamnitnwordshitassfuck.ogg",length=2.720}}
 L["good morning faggot"]={{path="chatsounds/autoadd/cracklife/good morning faggot.ogg",length=1.187}}
 L["here at the black mesa we make sure all employees get the same treatment as others"]={{path="chatsounds/autoadd/cracklife/here at the black mesa we make sure all employees get the same treatment as others.ogg",length=4.848}}
 L["i appear to have lost any possible life signals carry on"]={{path="chatsounds/autoadd/cracklife/i appear to have lost any possible life signals carry on.ogg",length=4.719}}
