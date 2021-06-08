@@ -17,6 +17,7 @@ L["caramelldanseninstloop"]={{path="chatsounds/autoadd/beauty_bomber/caramelldan
 L["carlmoan"]={{path="chatsounds/autoadd/beauty_bomber/carlmoan.ogg",length=1.545}}
 L["circuitwandererhook"]={{path="chatsounds/autoadd/beauty_bomber/circuitwandererhook.ogg",length=17.280}}
 L["circusmusic"]={{path="chatsounds/autoadd/beauty_bomber/circusmusic.ogg",length=153.809}}
+L["cmusic professional library"]={{path="chatsounds/autoadd/beauty_bomber/cmusic professional library.ogg",length=4.022}}
 L["cockatooscream"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscream.ogg",length=0.760}}
 L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscreambabble.ogg",length=3.345}}
 L["curbyourenthusiasm"]={{path="chatsounds/autoadd/beauty_bomber/curbyourenthusiasm.ogg",length=67.477}}
