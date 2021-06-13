@@ -8,6 +8,7 @@ L["boner"]={{path="chatsounds/autoadd/random_chatsounds/boner.ogg",length=0.438}
 L["but no cum"]={{path="chatsounds/autoadd/random_chatsounds/but no cum.ogg",length=1.197}}
 L["but thats not how it works"]={{path="chatsounds/autoadd/random_chatsounds/but thats not how it works.ogg",length=1.099}}
 L["can not stop will not stop"]={{path="chatsounds/autoadd/random_chatsounds/can not stop will not stop.ogg",length=1.927}}
+L["clang"]={{path="chatsounds/autoadd/random_chatsounds/clang.ogg",length=2.001}}
 L["deep dark fantasies"]={{path="chatsounds/autoadd/random_chatsounds/deep dark fantasies.ogg",length=2.438}}
 L["duck has stopped working"]={{path="chatsounds/autoadd/random_chatsounds/duck has stopped working.ogg",length=87.575}}
 L["flbfllflfllahflbflblfflflfl"]={{path="chatsounds/autoadd/random_chatsounds/flbfllflfllahflbflblfflflfl.ogg",length=1.936}}
@@ -31,8 +32,8 @@ L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatso
 L["mark 1"]={{path="chatsounds/autoadd/random_chatsounds/mark 1.ogg",length=0.977}}
 L["mark 2"]={{path="chatsounds/autoadd/random_chatsounds/mark 2.ogg",length=0.904}}
 L["mark 3"]={{path="chatsounds/autoadd/random_chatsounds/mark 3.ogg",length=1.075}}
+L["moyai"]={{path="chatsounds/autoadd/random_chatsounds/moyai.ogg",length=4.974}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
-L["overused thud2"]={{path="chatsounds/autoadd/random_chatsounds/overused thud2.ogg",length=2.834}}
 L["russian scream"]={{path="chatsounds/autoadd/random_chatsounds/russian scream.ogg",length=1.995}}
 L["shit"]={{path="chatsounds/autoadd/random_chatsounds/shit.ogg",length=0.549}}
 L["stop"]={{path="chatsounds/autoadd/random_chatsounds/stop.ogg",length=1.005}}

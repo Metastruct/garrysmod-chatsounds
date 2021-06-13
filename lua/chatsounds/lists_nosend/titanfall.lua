@@ -14,6 +14,7 @@ L["autotitan engaging hostile pilot"]={{path="chatsounds/autoadd/titanfall/autot
 L["autotitan engaging hostile titan"]={{path="chatsounds/autoadd/titanfall/autotitan engaging hostile titan.ogg",length=2.296}}
 L["avenge me"]={{path="chatsounds/autoadd/titanfall/avenge me.ogg",length=0.720}}
 L["avenge me avenge me avenge me"]={{path="chatsounds/autoadd/titanfall/avenge me avenge me avenge me.ogg",length=2.225}}
+L["battery recieved"]={{path="chatsounds/autoadd/titanfall/battery recieved.ogg",length=2.962}}
 L["be advised friendly pilot is clear of your titan"]={{path="chatsounds/autoadd/titanfall/be advised friendly pilot is clear of your titan.ogg",length=3.212}}
 L["be advised friendly pilot onboard"]={{path="chatsounds/autoadd/titanfall/be advised friendly pilot onboard.ogg",length=2.664}}
 L["be advised replacement titan ready in 30 seconds"]={{path="chatsounds/autoadd/titanfall/be advised replacement titan ready in 30 seconds.ogg",length=2.659}}
@@ -61,6 +62,7 @@ L["enemy titan has ejected"]={{path="chatsounds/autoadd/titanfall/enemy titan ha
 L["engaging ai mode"]={{path="chatsounds/autoadd/titanfall/engaging ai mode.ogg",length=1.680}}
 L["engaging follow mode"]={{path="chatsounds/autoadd/titanfall/engaging follow mode.ogg",length=1.623}}
 L["engaging guard mode"]={{path="chatsounds/autoadd/titanfall/engaging guard mode.ogg",length=1.552}}
+L["focus plan attack"]={{path="chatsounds/autoadd/titanfall/focus plan attack.ogg",length=2.395}}
 L["forcing pilot eject"]={{path="chatsounds/autoadd/titanfall/forcing pilot eject.ogg",length=1.473}}
 L["friendly pilot has detached from you titan"]={{path="chatsounds/autoadd/titanfall/friendly pilot has detached from you titan.ogg",length=2.565}}
 L["friendly pilot has left your titan"]={{path="chatsounds/autoadd/titanfall/friendly pilot has left your titan.ogg",length=2.260}}
@@ -84,6 +86,7 @@ L["hostile threat removed from hull"]={{path="chatsounds/autoadd/titanfall/hosti
 L["hull threat eliminated"]={{path="chatsounds/autoadd/titanfall/hull threat eliminated.ogg",length=1.505}}
 L["i am commencing production of your replacement titan but it will take some time"]={{path="chatsounds/autoadd/titanfall/i am commencing production of your replacement titan but it will take some time.ogg",length=4.361}}
 L["i am commencing production of your titan but it will take some time"]={{path="chatsounds/autoadd/titanfall/i am commencing production of your titan but it will take some time.ogg",length=3.534}}
+L["impressive target eliminated"]={{path="chatsounds/autoadd/titanfall/impressive target eliminated.ogg",length=2.265}}
 L["its on route standby for titanfall"]={{path="chatsounds/autoadd/titanfall/its on route standby for titanfall.ogg",length=2.151}}
 L["its on the way standby for titanfall"]={{path="chatsounds/autoadd/titanfall/its on the way standby for titanfall.ogg",length=2.288}}
 L["launching another titan for you now"]={{path="chatsounds/autoadd/titanfall/launching another titan for you now.ogg",length=1.972}}
@@ -113,6 +116,7 @@ L["shield core expiring"]={{path="chatsounds/autoadd/titanfall/shield core expir
 L["shield core is offline and recharging"]={{path="chatsounds/autoadd/titanfall/shield core is offline and recharging.ogg",length=2.406}}
 L["shield core offline"]={{path="chatsounds/autoadd/titanfall/shield core offline.ogg",length=1.679}}
 L["shield core online"]={{path="chatsounds/autoadd/titanfall/shield core online.ogg",length=1.668}}
+L["target destroyed"]={{path="chatsounds/autoadd/titanfall/target destroyed.ogg",length=2.352}}
 L["titan alarm"]={{path="chatsounds/autoadd/titanfall/titan alarm.ogg",length=0.542}}
 L["titan burncard enabled"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled.ogg",length=1.792}}
 L["titan burncard enabled cluster missile flight stabilizers improved"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled cluster missile flight stabilizers improved.ogg",length=4.501}}
