@@ -29,6 +29,7 @@ L["shit"]={{path="chatsounds/autoadd/vine/shit.ogg",length=0.391}}
 L["smartest programmer ever lived"]={{path="chatsounds/autoadd/vine/smartest programmer ever lived.ogg",length=1.541}}
 L["suck my wiggly dick"]={{path="chatsounds/autoadd/vine/suck my wiggly dick.ogg",length=1.630}}
 L["what are thooooooose"]={{path="chatsounds/autoadd/vine/what are thooooooose.ogg",length=2.557}}
+L["what the dog doin"]={{path="chatsounds/autoadd/vine/what the dog doin.ogg",length=1.058}}
 L["white people be like"]={{path="chatsounds/autoadd/vine/white people be like.ogg",length=0.836}}
 L["with no"]={{path="chatsounds/autoadd/vine/with no.ogg",length=0.697}}
 L["woah"]={{path="chatsounds/autoadd/vine/woah.ogg",length=1.388}}
