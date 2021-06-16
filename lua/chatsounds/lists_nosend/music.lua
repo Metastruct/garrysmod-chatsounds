@@ -54,6 +54,7 @@ L["mr skeltal anthem"]={{path="chatsounds/autoadd/music/mr skeltal anthem.ogg",l
 L["musicbox"]={{path="chatsounds/autoadd/music/musicbox.ogg",length=23.800}}
 L["nbgskrill"]={{path="chatsounds/autoadd/music/nbgskrill.ogg",length=56.294}}
 L["nightoffire"]={{path="chatsounds/autoadd/music/nightoffire.ogg",length=300.199}}
+L["o p p a i"]={{path="chatsounds/autoadd/music/o p p a i.ogg",length=94.739}}
 L["offlimits"]={{path="chatsounds/autoadd/music/offlimits.ogg",length=113.175}}
 L["penis music"]={{path="chatsounds/autoadd/music/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/music/penis music loop.ogg",length=10.975}}

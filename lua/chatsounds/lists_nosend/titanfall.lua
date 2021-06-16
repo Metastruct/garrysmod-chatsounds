@@ -82,6 +82,7 @@ L["hey your titan will be ready in 60 seconds"]={{path="chatsounds/autoadd/titan
 L["hey your titans been destroyed ill get you another as soon as i can"]={{path="chatsounds/autoadd/titanfall/hey your titans been destroyed ill get you another as soon as i can.ogg",length=3.386}}
 L["hey your titans good to go call it when ready"]={{path="chatsounds/autoadd/titanfall/hey your titans good to go call it when ready.ogg",length=2.223}}
 L["hey youre on deck for a new titan call it in when youre ready"]={{path="chatsounds/autoadd/titanfall/hey youre on deck for a new titan call it in when youre ready.ogg",length=2.992}}
+L["hostile pilot kia"]={{path="chatsounds/autoadd/titanfall/hostile pilot kia.ogg",length=1.881}}
 L["hostile threat removed from hull"]={{path="chatsounds/autoadd/titanfall/hostile threat removed from hull.ogg",length=1.848}}
 L["hull threat eliminated"]={{path="chatsounds/autoadd/titanfall/hull threat eliminated.ogg",length=1.505}}
 L["i am commencing production of your replacement titan but it will take some time"]={{path="chatsounds/autoadd/titanfall/i am commencing production of your replacement titan but it will take some time.ogg",length=4.361}}
@@ -117,6 +118,8 @@ L["shield core is offline and recharging"]={{path="chatsounds/autoadd/titanfall/
 L["shield core offline"]={{path="chatsounds/autoadd/titanfall/shield core offline.ogg",length=1.679}}
 L["shield core online"]={{path="chatsounds/autoadd/titanfall/shield core online.ogg",length=1.668}}
 L["target destroyed"]={{path="chatsounds/autoadd/titanfall/target destroyed.ogg",length=2.352}}
+L["target neutralized"]={{path="chatsounds/autoadd/titanfall/target neutralized.ogg",length=1.361}}
+L["targetting light infantry"]={{path="chatsounds/autoadd/titanfall/targetting light infantry.ogg",length=1.561}}
 L["titan alarm"]={{path="chatsounds/autoadd/titanfall/titan alarm.ogg",length=0.542}}
 L["titan burncard enabled"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled.ogg",length=1.792}}
 L["titan burncard enabled cluster missile flight stabilizers improved"]={{path="chatsounds/autoadd/titanfall/titan burncard enabled cluster missile flight stabilizers improved.ogg",length=4.501}}
