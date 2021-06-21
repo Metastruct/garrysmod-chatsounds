@@ -5,6 +5,7 @@ services:
         - docker
 
 before_install:
+        - echo "$DOCKER_PASS" | docker login -u "$DOCKER_USER" --password-stdin
         - docker pull potcfdk/chatsounds-preprocessor:latest
         # remove the invalid soundfile list (if any) and fail if the cache file exists (which it shouldn't)
         - rm -f invalid-soundfiles.txt

@@ -16,6 +16,8 @@ L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
 L["dobby pussy indulgence"]={{path="chatsounds/autoadd/memes/dobby pussy indulgence.ogg",length=19.696}}
+L["eating sounds"]={{path="chatsounds/autoadd/memes/eating sounds.ogg",length=0.667}}
+L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
@@ -24,6 +26,7 @@ L["im going to punch your face in the face"]={{path="chatsounds/autoadd/memes/im
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["le monke"]={{path="chatsounds/autoadd/memes/le monke.ogg",length=59.507}}
+L["lemon"]={{path="chatsounds/autoadd/memes/lemon.ogg",length=0.766}}
 L["like scoob what is your favorite thing to do on the weekends"]={{path="chatsounds/autoadd/memes/like scoob what is your favorite thing to do on the weekends.ogg",length=5.181}}
 L["mixed race couple"]={{path="chatsounds/autoadd/memes/mixed race couple.ogg",length=1.710}}
 L["mlg xfiles"]={{path="chatsounds/autoadd/memes/mlg xfiles.ogg",length=38.582}}
@@ -31,6 +34,7 @@ L["music make you lose control music make you lose control"]={{path="chatsounds/
 L["now this is epic"]={{path="chatsounds/autoadd/memes/now this is epic.ogg",length=2.900}}
 L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}
+L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.834}}
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["scooby noises"]={{path="chatsounds/autoadd/memes/scooby noises.ogg",length=13.485}}

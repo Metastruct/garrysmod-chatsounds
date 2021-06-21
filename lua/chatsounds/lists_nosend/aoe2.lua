@@ -1,4 +1,5 @@
 c.StartList("aoe2")
+L["4 til cock"]={{path="chatsounds/autoadd/aoe2/4 til cock.ogg",length=1.707}}
 L["aaahhhhhh"]={{path="chatsounds/autoadd/aoe2/aaahhhhhh.ogg",length=1.855}}
 L["all hail king of the losers"]={{path="chatsounds/autoadd/aoe2/all hail king of the losers.ogg",length=3.579}}
 L["attack an enemy now"]={{path="chatsounds/autoadd/aoe2/attack an enemy now.ogg",length=1.698}}
@@ -23,4 +24,5 @@ L["stone please"]={{path="chatsounds/autoadd/aoe2/stone please.ogg",length=1.437
 L["wololooo"]={{path="chatsounds/autoadd/aoe2/wololooo.ogg",length=1.515}}
 L["wood please"]={{path="chatsounds/autoadd/aoe2/wood please.ogg",length=1.280}}
 L["yes"]={{path="chatsounds/autoadd/aoe2/yes.ogg",length=0.705}}
+L["you are grounded 4 til cock"]={{path="chatsounds/autoadd/aoe2/you are grounded 4 til cock.ogg",length=2.845}}
 c.EndList()

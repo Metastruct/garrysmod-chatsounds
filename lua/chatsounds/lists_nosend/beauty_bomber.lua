@@ -4,6 +4,7 @@ L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh someb
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
+L["audiojungle"]={{path="chatsounds/autoadd/beauty_bomber/audiojungle.ogg",length=1.869}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
 L["bayonettacontinueno"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinueno.ogg",length=5.240}}
 L["bayonettacontinuenodeath"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinuenodeath.ogg",length=4.585}}
@@ -17,6 +18,7 @@ L["caramelldanseninstloop"]={{path="chatsounds/autoadd/beauty_bomber/caramelldan
 L["carlmoan"]={{path="chatsounds/autoadd/beauty_bomber/carlmoan.ogg",length=1.545}}
 L["circuitwandererhook"]={{path="chatsounds/autoadd/beauty_bomber/circuitwandererhook.ogg",length=17.280}}
 L["circusmusic"]={{path="chatsounds/autoadd/beauty_bomber/circusmusic.ogg",length=153.809}}
+L["cmusic professional library"]={{path="chatsounds/autoadd/beauty_bomber/cmusic professional library.ogg",length=4.022}}
 L["cockatooscream"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscream.ogg",length=0.760}}
 L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscreambabble.ogg",length=3.345}}
 L["curbyourenthusiasm"]={{path="chatsounds/autoadd/beauty_bomber/curbyourenthusiasm.ogg",length=67.477}}
@@ -50,6 +52,7 @@ L["negro"]={{path="chatsounds/autoadd/beauty_bomber/negro.ogg",length=0.730}}
 L["nightistandsad"]={{path="chatsounds/autoadd/beauty_bomber/nightistandsad.ogg",length=97.200}}
 L["ooh noooo"]={{path="chatsounds/autoadd/beauty_bomber/ooh noooo.ogg",length=2.067}}
 L["oohh yyeess"]={{path="chatsounds/autoadd/beauty_bomber/oohh yyeess.ogg",length=4.274}}
+L["parrotgiggle"]={{path="chatsounds/autoadd/beauty_bomber/parrotgiggle.ogg",length=1.409}}
 L["please pass the egg salad"]={{path="chatsounds/autoadd/beauty_bomber/please pass the egg salad.ogg",length=1.600}}
 L["put a cork in it you greedy money grubber"]={{path="chatsounds/autoadd/beauty_bomber/put a cork in it you greedy money grubber.ogg",length=2.324}}
 L["raggle fraggle"]={{path="chatsounds/autoadd/beauty_bomber/raggle fraggle.ogg",length=0.997}}
