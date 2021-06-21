@@ -1,7 +1,10 @@
 c.StartList("ss13")
 L["adminbus"]={{path="chatsounds/autoadd/ss13/adminbus.ogg",length=5.289}}
 L["airlock"]={{path="chatsounds/autoadd/ss13/airlock.ogg",length=1.283}}
+L["ambiatmos"]={{path="chatsounds/autoadd/ss13/ambiatmos.ogg",length=12.045}}
+L["ambigen1"]={{path="chatsounds/autoadd/ss13/ambigen1.ogg",length=14.877}}
 L["ambigen11"]={{path="chatsounds/autoadd/ss13/ambigen11.ogg",length=42.179}}
+L["ambinice"]={{path="chatsounds/autoadd/ss13/ambinice.ogg",length=56.407}}
 L["attention enemy communications intercepted"]={{path="chatsounds/autoadd/ss13/attention enemy communications intercepted.ogg",length=6.413}}
 L["attention new command report create"]={{path="chatsounds/autoadd/ss13/attention new command report create.ogg",length=3.060}}
 L["aw shucks partner were all outta time but yall come back now ya hear"]={{path="chatsounds/autoadd/ss13/aw shucks partner were all outta time but yall come back now ya hear.ogg",length=6.634}}
