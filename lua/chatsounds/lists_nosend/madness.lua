@@ -14,5 +14,6 @@ L["stab1"]={{path="chatsounds/autoadd/madness/stab1.ogg",length=3.767}}
 L["stab2"]={{path="chatsounds/autoadd/madness/stab2.ogg",length=7.027}}
 L["stabend"]={{path="chatsounds/autoadd/madness/stabend.ogg",length=3.715}}
 L["string"]={{path="chatsounds/autoadd/madness/string.ogg",length=7.210}}
+L["tiky"]={{path="chatsounds/autoadd/madness/tiky/1.ogg",length=1.166},{path="chatsounds/autoadd/madness/tiky/2.ogg",length=0.928}}
 L["who you callin turky"]={{path="chatsounds/autoadd/madness/who you callin turky.ogg",length=1.669}}
 c.EndList()
