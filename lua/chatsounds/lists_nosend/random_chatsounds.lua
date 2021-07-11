@@ -16,6 +16,7 @@ L["i rate the experience a six point five out of ten"]={{path="chatsounds/autoad
 L["im an artist"]={{path="chatsounds/autoadd/random_chatsounds/im an artist.ogg",length=1.207}}
 L["jesus christ god"]={{path="chatsounds/autoadd/random_chatsounds/jesus christ god.ogg",length=2.624}}
 L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatsounds/kill this arrogant moth er fu cker.ogg",length=1.858}}
+L["my mo my mo my mo my mo my mo my mo"]={{path="chatsounds/autoadd/random_chatsounds/my mo my mo my mo my mo my mo my mo.ogg",length=3.529}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
 L["overused thud2"]={{path="chatsounds/autoadd/random_chatsounds/overused thud2.ogg",length=2.834}}
 L["russian scream"]={{path="chatsounds/autoadd/random_chatsounds/russian scream.ogg",length=1.995}}
@@ -24,4 +25,5 @@ L["uagh"]={{path="chatsounds/autoadd/random_chatsounds/uagh.ogg",length=0.723}}
 L["we do this you know one on one"]={{path="chatsounds/autoadd/random_chatsounds/we do this you know one on one.ogg",length=1.962}}
 L["what about the negro noodle"]={{path="chatsounds/autoadd/random_chatsounds/what about the negro noodle.ogg",length=1.718}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random_chatsounds/why the hell so expensive.ogg",length=1.591}}
+L["you know who else alt tabbed during a source game"]={{path="chatsounds/autoadd/random_chatsounds/you know who else alt tabbed during a source game.ogg",length=3.263}}
 c.EndList()
