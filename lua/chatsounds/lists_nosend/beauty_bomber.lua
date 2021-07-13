@@ -3,6 +3,7 @@ L["aaaaaaaaeeeeeeiiiiiaaaa"]={{path="chatsounds/autoadd/beauty_bomber/aaaaaaaaee
 L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh somebody help me.ogg",length=2.849}}
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
+L["am i the only one around here"]={{path="chatsounds/autoadd/beauty_bomber/am i the only one around here.ogg",length=1.550}}
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
 L["audiojungle"]={{path="chatsounds/autoadd/beauty_bomber/audiojungle.ogg",length=1.869}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
@@ -72,6 +73,7 @@ L["torchwood stinger"]={{path="chatsounds/autoadd/beauty_bomber/torchwood stinge
 L["two million year old"]={{path="chatsounds/autoadd/beauty_bomber/two million year old.ogg",length=1.037}}
 L["watch this"]={{path="chatsounds/autoadd/beauty_bomber/watch this.ogg",length=1.114}}
 L["we are off"]={{path="chatsounds/autoadd/beauty_bomber/we are off.ogg",length=0.837}}
+L["wh"]={{path="chatsounds/autoadd/beauty_bomber/wh.ogg",length=2.627}}
 L["what i wanna know is wheres the caveman"]={{path="chatsounds/autoadd/beauty_bomber/what i wanna know is wheres the caveman.ogg",length=3.000}}
 L["wilsooooon"]={{path="chatsounds/autoadd/beauty_bomber/wilsooooon/1.ogg",length=4.200},{path="chatsounds/autoadd/beauty_bomber/wilsooooon/2.ogg",length=1.525}}
 L["woodyscream"]={{path="chatsounds/autoadd/beauty_bomber/woodyscream.ogg",length=0.479}}
