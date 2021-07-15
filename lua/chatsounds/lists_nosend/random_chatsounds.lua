@@ -29,6 +29,7 @@ L["i will stone cold stunner your vagina ass right here in the pastry aisle"]={{
 L["im an artist"]={{path="chatsounds/autoadd/random_chatsounds/im an artist.ogg",length=1.207}}
 L["jesus christ god"]={{path="chatsounds/autoadd/random_chatsounds/jesus christ god.ogg",length=2.624}}
 L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatsounds/kill this arrogant moth er fu cker.ogg",length=1.858}}
+L["my mo my mo my mo my mo my mo my mo"]={{path="chatsounds/autoadd/random_chatsounds/my mo my mo my mo my mo my mo my mo.ogg",length=3.529}}
 L["mark 1"]={{path="chatsounds/autoadd/random_chatsounds/mark 1.ogg",length=0.977}}
 L["mark 2"]={{path="chatsounds/autoadd/random_chatsounds/mark 2.ogg",length=0.904}}
 L["mark 3"]={{path="chatsounds/autoadd/random_chatsounds/mark 3.ogg",length=1.075}}
@@ -47,5 +48,6 @@ L["we do this you know one on one"]={{path="chatsounds/autoadd/random_chatsounds
 L["what about the negro noodle"]={{path="chatsounds/autoadd/random_chatsounds/what about the negro noodle.ogg",length=1.718}}
 L["what the fuck did you just say you goddamn slut"]={{path="chatsounds/autoadd/random_chatsounds/what the fuck did you just say you goddamn slut.ogg",length=2.749}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random_chatsounds/why the hell so expensive.ogg",length=1.591}}
+L["you know who else alt tabbed during a source game"]={{path="chatsounds/autoadd/random_chatsounds/you know who else alt tabbed during a source game.ogg",length=3.263}}
 L["you prefer the powdered donuts to the holy chocolate donuts"]={{path="chatsounds/autoadd/random_chatsounds/you prefer the powdered donuts to the holy chocolate donuts.ogg",length=3.331}}
 c.EndList()
