@@ -94,7 +94,6 @@ L["bekloppt"]={{path="chatsounds/autoadd/instagib/bekloppt.ogg",length=2.689}}
 L["bend2"]={{path="chatsounds/autoadd/instagib/bend2.ogg",length=14.284}}
 L["bendsong"]={{path="chatsounds/autoadd/instagib/bendsong.ogg",length=10.097}}
 L["benehmen"]={{path="chatsounds/autoadd/instagib/benehmen.ogg",length=4.281}}
-L["benny"]={{path="chatsounds/autoadd/instagib/benny.ogg",length=9.683}}
 L["bereit"]={{path="chatsounds/autoadd/instagib/bereit.ogg",length=6.592}}
 L["berg"]={{path="chatsounds/autoadd/instagib/berg.ogg",length=3.938}}
 L["bescheuert"]={{path="chatsounds/autoadd/instagib/bescheuert.ogg",length=1.332}}

@@ -1,4 +1,5 @@
 c.StartList("pokemon_sounds")
+L["dittocry"]={{path="chatsounds/autoadd/pokemon_sounds/dittocry.ogg",length=0.532}}
 L["snivyangry"]={{path="chatsounds/autoadd/pokemon_sounds/snivyangry/1.ogg",length=1.028},{path="chatsounds/autoadd/pokemon_sounds/snivyangry/2.ogg",length=1.074},{path="chatsounds/autoadd/pokemon_sounds/snivyangry/3.ogg",length=0.850},{path="chatsounds/autoadd/pokemon_sounds/snivyangry/4.ogg",length=0.331}}
 L["snivyhappy"]={{path="chatsounds/autoadd/pokemon_sounds/snivyhappy.ogg",length=0.773}}
 L["snivypain"]={{path="chatsounds/autoadd/pokemon_sounds/snivypain/1.ogg",length=0.526},{path="chatsounds/autoadd/pokemon_sounds/snivypain/2.ogg",length=0.277},{path="chatsounds/autoadd/pokemon_sounds/snivypain/3.ogg",length=0.294},{path="chatsounds/autoadd/pokemon_sounds/snivypain/4.ogg",length=0.278},{path="chatsounds/autoadd/pokemon_sounds/snivypain/5.ogg",length=0.254}}

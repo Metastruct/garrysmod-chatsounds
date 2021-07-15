@@ -3,6 +3,7 @@ L["and his name was inescapable death"]={{path="chatsounds/autoadd/vin/and his n
 L["bup"]={{path="chatsounds/autoadd/vin/bup.ogg",length=0.123}}
 L["fleelf"]={{path="chatsounds/autoadd/vin/fleelf.ogg",length=0.358}}
 L["flextapeglitch"]={{path="chatsounds/autoadd/vin/flextapeglitch.ogg",length=1.606}}
+L["gutsscream"]={{path="chatsounds/autoadd/vin/gutsscream.ogg",length=13.693}}
 L["hiss"]={{path="chatsounds/autoadd/vin/hiss.ogg",length=0.899}}
 L["i soos"]={{path="chatsounds/autoadd/vin/i soos.ogg",length=0.857}}
 L["left channel"]={{path="chatsounds/autoadd/vin/left channel.ogg",length=0.832}}
