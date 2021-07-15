@@ -29,11 +29,11 @@ L["i will stone cold stunner your vagina ass right here in the pastry aisle"]={{
 L["im an artist"]={{path="chatsounds/autoadd/random_chatsounds/im an artist.ogg",length=1.207}}
 L["jesus christ god"]={{path="chatsounds/autoadd/random_chatsounds/jesus christ god.ogg",length=2.624}}
 L["kill this arrogant moth er fu cker"]={{path="chatsounds/autoadd/random_chatsounds/kill this arrogant moth er fu cker.ogg",length=1.858}}
-L["my mo my mo my mo my mo my mo my mo"]={{path="chatsounds/autoadd/random_chatsounds/my mo my mo my mo my mo my mo my mo.ogg",length=3.529}}
 L["mark 1"]={{path="chatsounds/autoadd/random_chatsounds/mark 1.ogg",length=0.977}}
 L["mark 2"]={{path="chatsounds/autoadd/random_chatsounds/mark 2.ogg",length=0.904}}
 L["mark 3"]={{path="chatsounds/autoadd/random_chatsounds/mark 3.ogg",length=1.075}}
 L["moyai"]={{path="chatsounds/autoadd/random_chatsounds/moyai.ogg",length=4.974}}
+L["my mo my mo my mo my mo my mo my mo"]={{path="chatsounds/autoadd/random_chatsounds/my mo my mo my mo my mo my mo my mo.ogg",length=3.529}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
 L["russian scream"]={{path="chatsounds/autoadd/random_chatsounds/russian scream.ogg",length=1.995}}
 L["shit"]={{path="chatsounds/autoadd/random_chatsounds/shit.ogg",length=0.549}}
