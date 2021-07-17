@@ -16,6 +16,7 @@ L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
 L["dobby pussy indulgence"]={{path="chatsounds/autoadd/memes/dobby pussy indulgence.ogg",length=19.696}}
+L["dont you lecture me with your thirty dollar haircut"]={{path="chatsounds/autoadd/memes/dont you lecture me with your thirty dollar haircut.ogg",length=3.082}}
 L["eating sounds"]={{path="chatsounds/autoadd/memes/eating sounds.ogg",length=0.667}}
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
