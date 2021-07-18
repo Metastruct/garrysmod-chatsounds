@@ -4,6 +4,8 @@ L["aahhh somebody help me"]={{path="chatsounds/autoadd/beauty_bomber/aahhh someb
 L["ack ook ich ach bluah"]={{path="chatsounds/autoadd/beauty_bomber/ack ook ich ach bluah.ogg",length=2.000}}
 L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/1.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/2.ogg",length=3.000},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/3.ogg",length=2.620},{path="chatsounds/autoadd/beauty_bomber/aha wingardium leviosaaa/4.ogg",length=1.913}}
 L["am i the only one around here"]={{path="chatsounds/autoadd/beauty_bomber/am i the only one around here.ogg",length=1.550}}
+L["aneurysm"]={{path="chatsounds/autoadd/beauty_bomber/aneurysm.ogg",length=1.596}}
+L["aneurysm distorted"]={{path="chatsounds/autoadd/beauty_bomber/aneurysm distorted.ogg",length=12.066}}
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
 L["audiojungle"]={{path="chatsounds/autoadd/beauty_bomber/audiojungle.ogg",length=1.869}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
@@ -24,6 +26,7 @@ L["cockatooscream"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscream.ogg"
 L["cockatooscreambabble"]={{path="chatsounds/autoadd/beauty_bomber/cockatooscreambabble.ogg",length=3.345}}
 L["curbyourenthusiasm"]={{path="chatsounds/autoadd/beauty_bomber/curbyourenthusiasm.ogg",length=67.477}}
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26.000}}
+L["did you know ca caw unintelligible"]={{path="chatsounds/autoadd/beauty_bomber/did you know ca caw unintelligible.ogg",length=1.737}}
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
 L["gone forever"]={{path="chatsounds/autoadd/beauty_bomber/gone forever.ogg",length=2.582}}
 L["graciefilms distorted"]={{path="chatsounds/autoadd/beauty_bomber/graciefilms distorted.ogg",length=3.242}}
@@ -41,6 +44,7 @@ L["letsboomboom"]={{path="chatsounds/autoadd/beauty_bomber/letsboomboom.ogg",len
 L["like maybe five or six right now my dude"]={{path="chatsounds/autoadd/beauty_bomber/like maybe five or six right now my dude.ogg",length=2.499}}
 L["lmtai loop"]={{path="chatsounds/autoadd/beauty_bomber/lmtai loop/1.ogg",length=14.900},{path="chatsounds/autoadd/beauty_bomber/lmtai loop/2.ogg",length=7.464}}
 L["loud succ"]={{path="chatsounds/autoadd/beauty_bomber/loud succ.ogg",length=2.475}}
+L["marks pizzeria"]={{path="chatsounds/autoadd/beauty_bomber/marks pizzeria.ogg",length=2.045}}
 L["meeee"]={{path="chatsounds/autoadd/beauty_bomber/meeee.ogg",length=1.502}}
 L["meeee meeeeee meeeeeeeee hahahahahahaaaaaa"]={{path="chatsounds/autoadd/beauty_bomber/meeee meeeeee meeeeeeeee hahahahahahaaaaaa.ogg",length=8.425}}
 L["meeeeee"]={{path="chatsounds/autoadd/beauty_bomber/meeeeee.ogg",length=1.347}}
