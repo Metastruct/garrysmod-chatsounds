@@ -1,6 +1,10 @@
 c.StartList("michael_rosen")
 L["and then we start the moaning"]={{path="chatsounds/autoadd/michael_rosen/and then we start the moaning.ogg",length=2.738}}
 L["bag of plums"]={{path="chatsounds/autoadd/michael_rosen/bag of plums.ogg",length=0.950}}
+L["bendy"]={{path="chatsounds/autoadd/michael_rosen/bendy/1.ogg",length=1.123},{path="chatsounds/autoadd/michael_rosen/bendy/2.ogg",length=0.766},{path="chatsounds/autoadd/michael_rosen/bendy/3.ogg",length=0.885},{path="chatsounds/autoadd/michael_rosen/bendy/4.ogg",length=0.985},{path="chatsounds/autoadd/michael_rosen/bendy/5.ogg",length=0.777}}
+L["bendy bendy bendy"]={{path="chatsounds/autoadd/michael_rosen/bendy bendy bendy.ogg",length=1.983}}
+L["bendy bendy bendy bendy bendy pow"]={{path="chatsounds/autoadd/michael_rosen/bendy bendy bendy bendy bendy pow.ogg",length=3.257}}
+L["bendy bendy bendy yeah"]={{path="chatsounds/autoadd/michael_rosen/bendy bendy bendy yeah.ogg",length=1.996}}
 L["booiiiiiinnnnggg"]={{path="chatsounds/autoadd/michael_rosen/booiiiiiinnnnggg.ogg",length=1.000}}
 L["breathing in pizza"]={{path="chatsounds/autoadd/michael_rosen/breathing in pizza.ogg",length=1.639}}
 L["can i have a driiiiiiink"]={{path="chatsounds/autoadd/michael_rosen/can i have a driiiiiiink.ogg",length=1.960}}
@@ -26,7 +30,9 @@ L["i wonder who put that there"]={{path="chatsounds/autoadd/michael_rosen/i wond
 L["im talking im talking i want complete quiet"]={{path="chatsounds/autoadd/michael_rosen/im talking im talking i want complete quiet.ogg",length=5.520}}
 L["it was then i noticed the woman opposite"]={{path="chatsounds/autoadd/michael_rosen/it was then i noticed the woman opposite.ogg",length=3.438}}
 L["ive been to china"]={{path="chatsounds/autoadd/michael_rosen/ive been to china.ogg",length=2.300}}
+L["ive broken it"]={{path="chatsounds/autoadd/michael_rosen/ive broken it.ogg",length=0.515}}
 L["keel over and die"]={{path="chatsounds/autoadd/michael_rosen/keel over and die.ogg",length=1.716}}
+L["michael rosen noises"]={{path="chatsounds/autoadd/michael_rosen/michael rosen noises.ogg",length=2.329}}
 L["michaelno"]={{path="chatsounds/autoadd/michael_rosen/michaelno.ogg",length=1.000}}
 L["michaelnothing"]={{path="chatsounds/autoadd/michael_rosen/michaelnothing.ogg",length=0.900}}
 L["michaelow"]={{path="chatsounds/autoadd/michael_rosen/michaelow.ogg",length=1.184}}
@@ -35,6 +41,7 @@ L["mum hes spitting"]={{path="chatsounds/autoadd/michael_rosen/mum hes spitting.
 L["my hands are sticky"]={{path="chatsounds/autoadd/michael_rosen/my hands are sticky.ogg",length=1.275}}
 L["my life is on toast i think"]={{path="chatsounds/autoadd/michael_rosen/my life is on toast i think.ogg",length=3.000}}
 L["oh get out get out look what youve done"]={{path="chatsounds/autoadd/michael_rosen/oh get out get out look what youve done.ogg",length=3.043}}
+L["oh no"]={{path="chatsounds/autoadd/michael_rosen/oh no.ogg",length=0.508}}
 L["ok mum ok dont worry about it"]={{path="chatsounds/autoadd/michael_rosen/ok mum ok dont worry about it.ogg",length=3.089}}
 L["plums"]={{path="chatsounds/autoadd/michael_rosen/plums.ogg",length=0.500}}
 L["really good"]={{path="chatsounds/autoadd/michael_rosen/really good.ogg",length=1.000}}

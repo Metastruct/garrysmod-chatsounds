@@ -37,9 +37,11 @@ L["meoww"]={{path="chatsounds/autoadd/camobunny/meoww.ogg",length=0.692}}
 L["mingebag in the bin"]={{path="chatsounds/autoadd/camobunny/mingebag in the bin.ogg",length=1.396}}
 L["mmmmm funny joke"]={{path="chatsounds/autoadd/camobunny/mmmmm funny joke.ogg",length=3.025}}
 L["mmmmmmohmygod"]={{path="chatsounds/autoadd/camobunny/mmmmmmohmygod.ogg",length=1.686}}
+L["mom dad"]={{path="chatsounds/autoadd/camobunny/mom dad.ogg",length=1.115}}
 L["monkey on the car"]={{path="chatsounds/autoadd/camobunny/monkey on the car/1.ogg",length=1.305},{path="chatsounds/autoadd/camobunny/monkey on the car/2.ogg",length=1.498}}
 L["no no no no no noooo"]={{path="chatsounds/autoadd/camobunny/no no no no no noooo.ogg",length=2.950}}
 L["noooo me toastaaa"]={{path="chatsounds/autoadd/camobunny/noooo me toastaaa.ogg",length=3.631}}
+L["obama fucked my ass"]={{path="chatsounds/autoadd/camobunny/obama fucked my ass.ogg",length=1.621}}
 L["okay"]={{path="chatsounds/autoadd/camobunny/okay.ogg",length=0.682}}
 L["peanutbutterbabyah"]={{path="chatsounds/autoadd/camobunny/peanutbutterbabyah.ogg",length=0.420}}
 L["pewdsgoatrap"]={{path="chatsounds/autoadd/camobunny/pewdsgoatrap.ogg",length=37.375}}

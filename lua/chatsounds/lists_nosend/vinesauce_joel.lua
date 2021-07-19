@@ -1,4 +1,5 @@
 c.StartList("vinesauce_joel")
+L["5000 fucking nukes"]={{path="chatsounds/autoadd/vinesauce_joel/5000 fucking nukes.ogg",length=2.310}}
 L["aaaaaaaaaaaaaaaay"]={{path="chatsounds/autoadd/vinesauce_joel/aaaaaaaaaaaaaaaay.ogg",length=4.895}}
 L["albert einstein"]={{path="chatsounds/autoadd/vinesauce_joel/albert einstein.ogg",length=1.239}}
 L["alright im done im done"]={{path="chatsounds/autoadd/vinesauce_joel/alright im done im done.ogg",length=1.848}}
@@ -29,6 +30,7 @@ L["fleentstones"]={{path="chatsounds/autoadd/vinesauce_joel/fleentstones.ogg",le
 L["get the modding community"]={{path="chatsounds/autoadd/vinesauce_joel/get the modding community.ogg",length=1.362}}
 L["gotta feed gabe"]={{path="chatsounds/autoadd/vinesauce_joel/gotta feed gabe.ogg",length=1.166}}
 L["grand dad"]={{path="chatsounds/autoadd/vinesauce_joel/grand dad/1.ogg",length=1.336},{path="chatsounds/autoadd/vinesauce_joel/grand dad/2.ogg",length=1.305},{path="chatsounds/autoadd/vinesauce_joel/grand dad/3.ogg",length=0.824},{path="chatsounds/autoadd/vinesauce_joel/grand dad/4.ogg",length=0.901},{path="chatsounds/autoadd/vinesauce_joel/grand dad/5.ogg",length=1.026},{path="chatsounds/autoadd/vinesauce_joel/grand dad/6.ogg",length=1.212}}
+L["grandma has died"]={{path="chatsounds/autoadd/vinesauce_joel/grandma has died.ogg",length=1.564}}
 L["gubel gabel gubel gabel"]={{path="chatsounds/autoadd/vinesauce_joel/gubel gabel gubel gabel.ogg",length=2.092}}
 L["gushing grannies"]={{path="chatsounds/autoadd/vinesauce_joel/gushing grannies.ogg",length=2.468}}
 L["guys this is sex"]={{path="chatsounds/autoadd/vinesauce_joel/guys this is sex.ogg",length=1.457}}
@@ -36,17 +38,21 @@ L["guys what the suck"]={{path="chatsounds/autoadd/vinesauce_joel/guys what the 
 L["half life wizard"]={{path="chatsounds/autoadd/vinesauce_joel/half life wizard.ogg",length=1.176}}
 L["hello wife"]={{path="chatsounds/autoadd/vinesauce_joel/hello wife.ogg",length=2.818}}
 L["hello zombie"]={{path="chatsounds/autoadd/vinesauce_joel/hello zombie.ogg",length=0.748}}
+L["hey ghost come back thats my money"]={{path="chatsounds/autoadd/vinesauce_joel/hey ghost come back thats my money.ogg",length=3.767}}
 L["hey wait for me"]={{path="chatsounds/autoadd/vinesauce_joel/hey wait for me.ogg",length=0.748}}
 L["horny"]={{path="chatsounds/autoadd/vinesauce_joel/horny.ogg",length=3.276}}
 L["how about a hat"]={{path="chatsounds/autoadd/vinesauce_joel/how about a hat.ogg",length=1.162}}
 L["i am full of gravy"]={{path="chatsounds/autoadd/vinesauce_joel/i am full of gravy.ogg",length=1.231}}
 L["i discovered"]={{path="chatsounds/autoadd/vinesauce_joel/i discovered.ogg",length=0.850}}
+L["i dont do not wanna go into the twister zone"]={{path="chatsounds/autoadd/vinesauce_joel/i dont do not wanna go into the twister zone.ogg",length=1.950}}
 L["i finally realized what this is"]={{path="chatsounds/autoadd/vinesauce_joel/i finally realized what this is.ogg",length=2.078}}
 L["i gotta pee"]={{path="chatsounds/autoadd/vinesauce_joel/i gotta pee.ogg",length=0.699}}
 L["i have a little treat"]={{path="chatsounds/autoadd/vinesauce_joel/i have a little treat.ogg",length=0.818}}
 L["i havent heard about japanese busses what are you talking about"]={{path="chatsounds/autoadd/vinesauce_joel/i havent heard about japanese busses what are you talking about.ogg",length=2.799}}
 L["i helped"]={{path="chatsounds/autoadd/vinesauce_joel/i helped.ogg",length=0.805}}
 L["i i i have had enough"]={{path="chatsounds/autoadd/vinesauce_joel/i i i have had enough.ogg",length=1.307}}
+L["i need to go now bye"]={{path="chatsounds/autoadd/vinesauce_joel/i need to go now bye.ogg",length=2.809}}
+L["i poisoned the water supply"]={{path="chatsounds/autoadd/vinesauce_joel/i poisoned the water supply.ogg",length=4.014}}
 L["i see you in the distance"]={{path="chatsounds/autoadd/vinesauce_joel/i see you in the distance.ogg",length=1.463}}
 L["i sexually identify as an attack helicopter"]={{path="chatsounds/autoadd/vinesauce_joel/i sexually identify as an attack helicopter.ogg",length=2.778}}
 L["i wanna say expert with"]={{path="chatsounds/autoadd/vinesauce_joel/i wanna say expert with.ogg",length=1.588}}
@@ -96,6 +102,7 @@ L["nonononono"]={{path="chatsounds/autoadd/vinesauce_joel/nonononono.ogg",length
 L["nononononono"]={{path="chatsounds/autoadd/vinesauce_joel/nononononono.ogg",length=0.689}}
 L["noo no no no no no no"]={{path="chatsounds/autoadd/vinesauce_joel/noo no no no no no no.ogg",length=8.585}}
 L["nothing is substantial of value or anything"]={{path="chatsounds/autoadd/vinesauce_joel/nothing is substantial of value or anything.ogg",length=4.557}}
+L["now everyone dead"]={{path="chatsounds/autoadd/vinesauce_joel/now everyone dead.ogg",length=2.265}}
 L["now how the hell do we do this"]={{path="chatsounds/autoadd/vinesauce_joel/now how the hell do we do this.ogg",length=1.461}}
 L["nut"]={{path="chatsounds/autoadd/vinesauce_joel/nut.ogg",length=0.507}}
 L["of all time"]={{path="chatsounds/autoadd/vinesauce_joel/of all time.ogg",length=2.017}}
@@ -104,6 +111,7 @@ L["oh"]={{path="chatsounds/autoadd/vinesauce_joel/oh.ogg",length=2.051}}
 L["oh making history huh"]={{path="chatsounds/autoadd/vinesauce_joel/oh making history huh.ogg",length=1.535}}
 L["oh my god thats thats horrendous"]={{path="chatsounds/autoadd/vinesauce_joel/oh my god thats thats horrendous.ogg",length=1.875}}
 L["oh no"]={{path="chatsounds/autoadd/vinesauce_joel/oh no/1.ogg",length=0.785},{path="chatsounds/autoadd/vinesauce_joel/oh no/2.ogg",length=1.337}}
+L["oh no its murder"]={{path="chatsounds/autoadd/vinesauce_joel/oh no its murder.ogg",length=2.301}}
 L["oh yeah i gotta have a cigar"]={{path="chatsounds/autoadd/vinesauce_joel/oh yeah i gotta have a cigar.ogg",length=1.386}}
 L["ohey ohey"]={{path="chatsounds/autoadd/vinesauce_joel/ohey ohey.ogg",length=2.172}}
 L["ok thats it thats it"]={{path="chatsounds/autoadd/vinesauce_joel/ok thats it thats it.ogg",length=0.970}}
@@ -151,6 +159,7 @@ L["this is no time for radical science"]={{path="chatsounds/autoadd/vinesauce_jo
 L["this is what the vinesauce streaming headquarters looks like"]={{path="chatsounds/autoadd/vinesauce_joel/this is what the vinesauce streaming headquarters looks like.ogg",length=3.016}}
 L["this video"]={{path="chatsounds/autoadd/vinesauce_joel/this video.ogg",length=0.989}}
 L["to slap the booty"]={{path="chatsounds/autoadd/vinesauce_joel/to slap the booty.ogg",length=1.222}}
+L["tornado"]={{path="chatsounds/autoadd/vinesauce_joel/tornado/tornado.ogg",length=0.736},{path="chatsounds/autoadd/vinesauce_joel/tornado/tornado1.ogg",length=0.716}}
 L["ugh"]={{path="chatsounds/autoadd/vinesauce_joel/ugh.ogg",length=0.480}}
 L["use gun"]={{path="chatsounds/autoadd/vinesauce_joel/use gun.ogg",length=0.841}}
 L["violence"]={{path="chatsounds/autoadd/vinesauce_joel/violence/1.ogg",length=0.796},{path="chatsounds/autoadd/vinesauce_joel/violence/2.ogg",length=0.736}}
