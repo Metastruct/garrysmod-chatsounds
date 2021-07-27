@@ -152,7 +152,7 @@ L["noo o o o o o"]={{path="chatsounds/autoadd/fesh_pince/noo o o o o o.ogg",leng
 L["nope nope nope nononope"]={{path="chatsounds/autoadd/fesh_pince/nope nope nope nononope.ogg",length=1.773}}
 L["not available"]={{path="chatsounds/autoadd/fesh_pince/not available.ogg",length=1.226}}
 L["nouh"]={{path="chatsounds/autoadd/fesh_pince/nouh.ogg",length=1.120}}
-L["now if youll exuuuuse me"]={{path="chatsounds/autoadd/fesh_pince/now if youll exuuuuse me.ogg",length=1.802}}
+L["now if youll excuuuuse me"]={{path="chatsounds/autoadd/fesh_pince/now if youll excuuuuse me.ogg",length=1.802}}
 L["now this is a black thing isnt it"]={{path="chatsounds/autoadd/fesh_pince/now this is a black thing isnt it.ogg",length=2.898}}
 L["now this is a story all about how"]={{path="chatsounds/autoadd/fesh_pince/now this is a story all about how.ogg",length=2.394}}
 L["numbers numbers numbers"]={{path="chatsounds/autoadd/fesh_pince/numbers numbers numbers.ogg",length=1.424}}

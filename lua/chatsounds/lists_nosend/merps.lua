@@ -1,0 +1,5 @@
+c.StartList("merps")
+L["merp"]={{path="chatsounds/autoadd/merps/merp/merp1.ogg",length=0.196},{path="chatsounds/autoadd/merps/merp/merp10.ogg",length=0.207},{path="chatsounds/autoadd/merps/merp/merp11.ogg",length=0.182},{path="chatsounds/autoadd/merps/merp/merp12.ogg",length=0.210},{path="chatsounds/autoadd/merps/merp/merp13.ogg",length=0.175},{path="chatsounds/autoadd/merps/merp/merp2.ogg",length=0.203},{path="chatsounds/autoadd/merps/merp/merp3.ogg",length=0.182},{path="chatsounds/autoadd/merps/merp/merp4.ogg",length=0.205},{path="chatsounds/autoadd/merps/merp/merp5.ogg",length=0.191},{path="chatsounds/autoadd/merps/merp/merp6.ogg",length=0.180},{path="chatsounds/autoadd/merps/merp/merp7.ogg",length=0.188},{path="chatsounds/autoadd/merps/merp/merp8.ogg",length=0.201},{path="chatsounds/autoadd/merps/merp/merp9.ogg",length=0.187}}
+L["merps"]={{path="chatsounds/autoadd/merps/merps.ogg",length=2.702}}
+L["merpsfull"]={{path="chatsounds/autoadd/merps/merpsfull.ogg",length=37.172}}
+c.EndList()

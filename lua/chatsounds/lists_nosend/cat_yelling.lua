@@ -19,6 +19,7 @@ L["juump"]={{path="chatsounds/autoadd/cat_yelling/juump/1.ogg",length=1.192},{pa
 L["look at me"]={{path="chatsounds/autoadd/cat_yelling/look at me.ogg",length=0.677}}
 L["run fn run"]={{path="chatsounds/autoadd/cat_yelling/run fn run.ogg",length=2.510}}
 L["whered you fn go"]={{path="chatsounds/autoadd/cat_yelling/whered you fn go.ogg",length=2.016}}
+L["wtf"]={{path="chatsounds/autoadd/cat_yelling/wtf.ogg",length=0.752}}
 L["wtf are you looking at"]={{path="chatsounds/autoadd/cat_yelling/wtf are you looking at.ogg",length=2.195}}
 L["you are a fucking piece of shit"]={{path="chatsounds/autoadd/cat_yelling/you are a fucking piece of shit.ogg",length=2.625}}
 L["you fucking bitch"]={{path="chatsounds/autoadd/cat_yelling/you fucking bitch.ogg",length=2.468}}
