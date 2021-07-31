@@ -11,7 +11,7 @@ L["blink1"]={{path="chatsounds/autoadd/cartoon_sfx/blink1.ogg",length=0.294}}
 L["blink2"]={{path="chatsounds/autoadd/cartoon_sfx/blink2.ogg",length=0.301}}
 L["blinking"]={{path="chatsounds/autoadd/cartoon_sfx/blinking.ogg",length=5.773}}
 L["boing"]={{path="chatsounds/autoadd/cartoon_sfx/boing.ogg",length=0.952}}
-L["boowomp"]={{path="chatsounds/autoadd/cartoon_sfx/boowomp.ogg",length=1.231}}
+L["boowomp"]={{path="chatsounds/autoadd/cartoon_sfx/boowomp.ogg",length=0.416}}
 L["bowlingpins"]={{path="chatsounds/autoadd/cartoon_sfx/bowlingpins.ogg",length=1.107}}
 L["carbreak"]={{path="chatsounds/autoadd/cartoon_sfx/carbreak.ogg",length=3.676}}
 L["carrpass"]={{path="chatsounds/autoadd/cartoon_sfx/carrpass.ogg",length=1.963}}
