@@ -90,6 +90,7 @@ L["masterpiece"]={{path="chatsounds/autoadd/vinesauce_joel/masterpiece.ogg",leng
 L["monki"]={{path="chatsounds/autoadd/vinesauce_joel/monki/1.ogg",length=1.142},{path="chatsounds/autoadd/vinesauce_joel/monki/2.ogg",length=0.490}}
 L["more like this guys off the hook in terms of drugs"]={{path="chatsounds/autoadd/vinesauce_joel/more like this guys off the hook in terms of drugs.ogg",length=2.506}}
 L["moskau moskau"]={{path="chatsounds/autoadd/vinesauce_joel/moskau moskau.ogg",length=1.951}}
+L["murder"]={{path="chatsounds/autoadd/vinesauce_joel/murder.ogg",length=1.383}}
 L["my dick looks like a french fry"]={{path="chatsounds/autoadd/vinesauce_joel/my dick looks like a french fry.ogg",length=2.219}}
 L["no"]={{path="chatsounds/autoadd/vinesauce_joel/no/no1.ogg",length=0.582},{path="chatsounds/autoadd/vinesauce_joel/no/no2.ogg",length=0.462},{path="chatsounds/autoadd/vinesauce_joel/no/no3.ogg",length=0.500},{path="chatsounds/autoadd/vinesauce_joel/no/no4.ogg",length=0.494},{path="chatsounds/autoadd/vinesauce_joel/no/no5.ogg",length=0.548},{path="chatsounds/autoadd/vinesauce_joel/no/no6.ogg",length=0.570},{path="chatsounds/autoadd/vinesauce_joel/no/no7.ogg",length=0.593}}
 L["no come on dont be lame"]={{path="chatsounds/autoadd/vinesauce_joel/no come on dont be lame.ogg",length=1.636}}
