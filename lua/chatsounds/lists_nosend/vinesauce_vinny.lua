@@ -47,6 +47,7 @@ L["can we talk dirty now"]={{path="chatsounds/autoadd/vinesauce_vinny/can we tal
 L["can you guys can you pry her off me please"]={{path="chatsounds/autoadd/vinesauce_vinny/can you guys can you pry her off me please.ogg",length=2.837}}
 L["can you guys let me in"]={{path="chatsounds/autoadd/vinesauce_vinny/can you guys let me in.ogg",length=1.827}}
 L["can you show me to them please thank you"]={{path="chatsounds/autoadd/vinesauce_vinny/can you show me to them please thank you.ogg",length=2.014}}
+L["citizens arent supposed to have guns"]={{path="chatsounds/autoadd/vinesauce_vinny/citizens arent supposed to have guns.ogg",length=2.423}}
 L["close the door behind you"]={{path="chatsounds/autoadd/vinesauce_vinny/close the door behind you.ogg",length=1.619}}
 L["come follow me if you want the rp"]={{path="chatsounds/autoadd/vinesauce_vinny/come follow me if you want the rp.ogg",length=1.965}}
 L["come to me if you want to rp"]={{path="chatsounds/autoadd/vinesauce_vinny/come to me if you want to rp.ogg",length=1.975}}
@@ -374,6 +375,7 @@ L["turns out you are wearing a womans brazier"]={{path="chatsounds/autoadd/vines
 L["tyvm"]={{path="chatsounds/autoadd/vinesauce_vinny/tyvm.ogg",length=0.943}}
 L["uh do you have the lizard gun"]={{path="chatsounds/autoadd/vinesauce_vinny/uh do you have the lizard gun.ogg",length=1.743}}
 L["uh incoming transmission from black hole"]={{path="chatsounds/autoadd/vinesauce_vinny/uh incoming transmission from black hole.ogg",length=2.725}}
+L["uhh admins arent supposed to suck dicks"]={{path="chatsounds/autoadd/vinesauce_vinny/uhh admins arent supposed to suck dicks.ogg",length=2.409}}
 L["vinesauce gibberish"]={{path="chatsounds/autoadd/vinesauce_vinny/vinesauce gibberish.ogg",length=2.663}}
 L["vinesauce rap"]={{path="chatsounds/autoadd/vinesauce_vinny/vinesauce rap/vincesauce rap.ogg",length=10.521},{path="chatsounds/autoadd/vinesauce_vinny/vinesauce rap/vinesauce rap 2.ogg",length=21.678}}
 L["vinesauce speech"]={{path="chatsounds/autoadd/vinesauce_vinny/vinesauce speech.ogg",length=26.081}}
