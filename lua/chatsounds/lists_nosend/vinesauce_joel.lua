@@ -15,6 +15,7 @@ L["but"]={{path="chatsounds/autoadd/vinesauce_joel/but/1.ogg",length=0.473},{pat
 L["check your privilege"]={{path="chatsounds/autoadd/vinesauce_joel/check your privilege.ogg",length=1.157}}
 L["chinese bonzi buddy"]={{path="chatsounds/autoadd/vinesauce_joel/chinese bonzi buddy.ogg",length=1.528}}
 L["cis"]={{path="chatsounds/autoadd/vinesauce_joel/cis.ogg",length=0.503}}
+L["citizens arent supposed to have guns"]={{path="chatsounds/autoadd/vinesauce_joel/citizens arent supposed to have guns.ogg",length=2.423}}
 L["close it down close it down"]={{path="chatsounds/autoadd/vinesauce_joel/close it down close it down.ogg",length=2.387}}
 L["cold turkey with drawl"]={{path="chatsounds/autoadd/vinesauce_joel/cold turkey with drawl.ogg",length=1.461}}
 L["damn cyka blyad"]={{path="chatsounds/autoadd/vinesauce_joel/damn cyka blyad.ogg",length=2.171}}
@@ -162,6 +163,7 @@ L["this video"]={{path="chatsounds/autoadd/vinesauce_joel/this video.ogg",length
 L["to slap the booty"]={{path="chatsounds/autoadd/vinesauce_joel/to slap the booty.ogg",length=1.222}}
 L["tornado"]={{path="chatsounds/autoadd/vinesauce_joel/tornado/tornado.ogg",length=0.736},{path="chatsounds/autoadd/vinesauce_joel/tornado/tornado1.ogg",length=0.716}}
 L["ugh"]={{path="chatsounds/autoadd/vinesauce_joel/ugh.ogg",length=0.480}}
+L["uhh admins arent supposed to suck dicks"]={{path="chatsounds/autoadd/vinesauce_joel/uhh admins arent supposed to suck dicks.ogg",length=2.409}}
 L["use gun"]={{path="chatsounds/autoadd/vinesauce_joel/use gun.ogg",length=0.841}}
 L["violence"]={{path="chatsounds/autoadd/vinesauce_joel/violence/1.ogg",length=0.796},{path="chatsounds/autoadd/vinesauce_joel/violence/2.ogg",length=0.736}}
 L["wat"]={{path="chatsounds/autoadd/vinesauce_joel/wat.ogg",length=0.637}}
