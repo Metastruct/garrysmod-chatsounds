@@ -1,3 +1,0 @@
-c.StartList("syrsa")
-L["rmx"]={{path="chatsounds/autoadd/syrsa/rmx/guroazrmx.ogg",length=173.885},{path="chatsounds/autoadd/syrsa/rmx/heavybeatsguyrmx.ogg",length=250.685},{path="chatsounds/autoadd/syrsa/rmx/newweaponrmx.ogg",length=141.546},{path="chatsounds/autoadd/syrsa/rmx/snipersgodlyknifermx.ogg",length=215.132},{path="chatsounds/autoadd/syrsa/rmx/surprisebuttsecksrmx.ogg",length=171.717},{path="chatsounds/autoadd/syrsa/rmx/wavegoodbyetoyourheadrmx.ogg",length=140.997}}
-c.EndList()
