@@ -1,6 +1,5 @@
 c.StartList("flstudio")
 L["a picture is worth a thousand words"]={{path="chatsounds/autoadd/flstudio/a picture is worth a thousand words.ogg",length=2.594}}
-L["aah yeah"]={{path="chatsounds/autoadd/flstudio/aah yeah.ogg",length=1.500}}
 L["activate"]={{path="chatsounds/autoadd/flstudio/activate.ogg",length=0.589}}
 L["ahh yeah"]={{path="chatsounds/autoadd/flstudio/ahh yeah.ogg",length=1.500}}
 L["alright"]={{path="chatsounds/autoadd/flstudio/alright.ogg",length=1.500}}
