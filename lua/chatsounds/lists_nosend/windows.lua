@@ -16,10 +16,10 @@ L["tada"]={{path="chatsounds/autoadd/windows/tada/tada1.ogg",length=2.064},{path
 L["usb"]={{path="chatsounds/autoadd/windows/usb/1.ogg",length=0.571},{path="chatsounds/autoadd/windows/usb/2.ogg",length=0.534},{path="chatsounds/autoadd/windows/usb/windows 11 hardware fail.ogg",length=0.670},{path="chatsounds/autoadd/windows/usb/windows 11 hardware insert.ogg",length=0.652},{path="chatsounds/autoadd/windows/usb/windows 11 hardware remove.ogg",length=0.841},{path="chatsounds/autoadd/windows/usb/windows 8 hardware fail.ogg",length=1.512},{path="chatsounds/autoadd/windows/usb/windows 8 hardware insert.ogg",length=1.678},{path="chatsounds/autoadd/windows/usb/windows 8 hardware remove.ogg",length=1.196},{path="chatsounds/autoadd/windows/usb/windows vista beta hardware insert.ogg",length=1.858},{path="chatsounds/autoadd/windows/usb/windows vista beta hardware remove.ogg",length=1.800},{path="chatsounds/autoadd/windows/usb/windows xp hardware insert.ogg",length=0.830},{path="chatsounds/autoadd/windows/usb/windows xp hardware remove.ogg",length=0.828}}
 L["warning"]={{path="chatsounds/autoadd/windows/warning/warning.ogg",length=1.362},{path="chatsounds/autoadd/windows/warning/windows vista beta exclamation.ogg",length=2.799}}
 L["welcom98"]={{path="chatsounds/autoadd/windows/welcom98.ogg",length=30.798}}
+L["win11 startup"]={{path="chatsounds/autoadd/windows/win11 startup.ogg",length=3.007}}
 L["win2000 startup"]={{path="chatsounds/autoadd/windows/win2000 startup.ogg",length=6.123}}
 L["win95 startup"]={{path="chatsounds/autoadd/windows/win95 startup.ogg",length=6.728}}
 L["win98 startup"]={{path="chatsounds/autoadd/windows/win98 startup.ogg",length=7.859}}
-L["windows 11 startup sound"]={{path="chatsounds/autoadd/windows/windows 11 startup sound.ogg",length=3.007}}
 L["windows 8 balloon"]={{path="chatsounds/autoadd/windows/windows 8 balloon.ogg",length=1.010}}
 L["windows 8 message nudge"]={{path="chatsounds/autoadd/windows/windows 8 message nudge.ogg",length=1.469}}
 L["windows 8 notify calendar"]={{path="chatsounds/autoadd/windows/windows 8 notify calendar.ogg",length=2.463}}
