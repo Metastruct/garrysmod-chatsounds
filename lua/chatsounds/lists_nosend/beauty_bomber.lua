@@ -6,6 +6,7 @@ L["aha wingardium leviosaaa"]={{path="chatsounds/autoadd/beauty_bomber/aha winga
 L["am i the only one around here"]={{path="chatsounds/autoadd/beauty_bomber/am i the only one around here.ogg",length=1.550}}
 L["aneurysm"]={{path="chatsounds/autoadd/beauty_bomber/aneurysm.ogg",length=1.596}}
 L["aneurysm distorted"]={{path="chatsounds/autoadd/beauty_bomber/aneurysm distorted.ogg",length=12.066}}
+L["aneurysm edging"]={{path="chatsounds/autoadd/beauty_bomber/aneurysm edging.ogg",length=15.139}}
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
 L["audiojungle"]={{path="chatsounds/autoadd/beauty_bomber/audiojungle.ogg",length=1.869}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
