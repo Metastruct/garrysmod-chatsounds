@@ -1,4 +1,5 @@
 c.StartList("random_shit")
+L["4 in the morning"]={{path="chatsounds/autoadd/random_shit/4 in the morning.ogg",length=0.961}}
 L["aid"]={{path="chatsounds/autoadd/random_shit/aid.ogg",length=0.352}}
 L["and its spherical"]={{path="chatsounds/autoadd/random_shit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/random_shit/are you kidding me.ogg",length=2.662}}
