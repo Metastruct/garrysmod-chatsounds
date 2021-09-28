@@ -18,7 +18,7 @@ jobs:
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
   deploy:
-    if: github.event == 'push'
+    if: github.event_name == 'push'
     needs: preprocess
     runs-on: ubuntu-latest
     steps:
