@@ -1,13 +1,13 @@
 name: check sounds and update lists
-on: 
+on:
   push:
     paths:
-      - '**.ogg'
-      - '**.lua'
+      - 'sound/**'
+      - 'lua/chatsounds/lists_nosend/**'
   pull_request:
     paths:
-      - '**.ogg'
-      - '**.lua'
+      - 'sound/**'
+      - 'lua/chatsounds/lists_nosend/**'
 jobs:
   preprocess:
     runs-on: ubuntu-latest
