@@ -18,14 +18,11 @@ jobs:
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
   deploy:
-    if: github.event_name == 'push'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     needs: preprocess
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v2
       - name: Deploy 🚀
-        if: github.ref == 'refs/heads/master'
         uses: EndBug/add-and-commit@v7
         with:
           add: 'lua/chatsounds/lists_nosend'
