@@ -29,4 +29,4 @@ jobs:
           author_name: Meta Automator
           author_email: MetaAutomator@users.noreply.github.com
           default_author: user_info
-          pull_strategy: 'NO-PULL'
+          pull: 'NO-PULL'

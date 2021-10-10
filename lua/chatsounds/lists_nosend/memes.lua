@@ -39,9 +39,11 @@ L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["scooby noises"]={{path="chatsounds/autoadd/memes/scooby noises.ogg",length=13.485}}
+L["subaru subaru"]={{path="chatsounds/autoadd/memes/subaru subaru.ogg",length=1.578}}
 L["tacobell bell"]={{path="chatsounds/autoadd/memes/tacobell bell.ogg",length=1.722}}
 L["this is epic"]={{path="chatsounds/autoadd/memes/this is epic.ogg",length=1.200}}
 L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.394}}
+L["toyota"]={{path="chatsounds/autoadd/memes/toyota/1.ogg",length=0.620},{path="chatsounds/autoadd/memes/toyota/2.ogg",length=0.662},{path="chatsounds/autoadd/memes/toyota/3.ogg",length=0.658},{path="chatsounds/autoadd/memes/toyota/4.ogg",length=0.625}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/memes/vaporwave loop.ogg",length=21.902}}
 L["voiceoverpete laugh"]={{path="chatsounds/autoadd/memes/voiceoverpete laugh.ogg",length=2.007}}
 L["well to help ben reach me all he needs your credit card three digits on the back and the expiration date"]={{path="chatsounds/autoadd/memes/well to help ben reach me all he needs your credit card three digits on the back and the expiration date.ogg",length=6.992}}

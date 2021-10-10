@@ -96,7 +96,6 @@ L["reverb fart"]={{path="chatsounds/autoadd/misc/reverb fart.ogg",length=7.027}}
 L["rocketlawnchair"]={{path="chatsounds/autoadd/misc/rocketlawnchair.ogg",length=1.933}}
 L["rockthecasbah"]={{path="chatsounds/autoadd/misc/rockthecasbah.ogg",length=7.419}}
 L["roundabout intro"]={{path="chatsounds/autoadd/misc/roundabout intro.ogg",length=10.770}}
-L["san andreas"]={{path="chatsounds/autoadd/misc/san andreas.ogg",length=77.184}}
 L["see i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/see i pulled a sneaky on ya.ogg",length=1.176}}
 L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.772}}
 L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.520}}

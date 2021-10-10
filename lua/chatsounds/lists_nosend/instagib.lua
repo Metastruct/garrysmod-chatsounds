@@ -797,7 +797,6 @@ L["multikill"]={{path="chatsounds/autoadd/instagib/multikill.ogg",length=1.924}}
 L["mund"]={{path="chatsounds/autoadd/instagib/mund.ogg",length=5.355}}
 L["muppets"]={{path="chatsounds/autoadd/instagib/muppets.ogg",length=12.499}}
 L["murder1"]={{path="chatsounds/autoadd/instagib/murder1.ogg",length=5.324}}
-L["mushroom"]={{path="chatsounds/autoadd/instagib/mushroom.ogg",length=5.847}}
 L["mussgewinnen"]={{path="chatsounds/autoadd/instagib/mussgewinnen.ogg",length=3.344}}
 L["mussgewinnen2"]={{path="chatsounds/autoadd/instagib/mussgewinnen2.ogg",length=10.211}}
 L["mutti"]={{path="chatsounds/autoadd/instagib/mutti.ogg",length=2.500}}

@@ -1,4 +1,5 @@
 c.StartList("random_shit")
+L["4 in the morning"]={{path="chatsounds/autoadd/random_shit/4 in the morning.ogg",length=0.961}}
 L["aid"]={{path="chatsounds/autoadd/random_shit/aid.ogg",length=0.352}}
 L["and its spherical"]={{path="chatsounds/autoadd/random_shit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/random_shit/are you kidding me.ogg",length=2.662}}
@@ -15,6 +16,7 @@ L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg"
 L["crunch"]={{path="chatsounds/autoadd/random_shit/crunch.ogg",length=0.593}}
 L["da blyat cyka"]={{path="chatsounds/autoadd/random_shit/da blyat cyka.ogg",length=1.662}}
 L["der he is"]={{path="chatsounds/autoadd/random_shit/der he is.ogg",length=1.374}}
+L["did you get a whoppa"]={{path="chatsounds/autoadd/random_shit/did you get a whoppa.ogg",length=1.059}}
 L["disgustang"]={{path="chatsounds/autoadd/random_shit/disgustang.ogg",length=1.434}}
 L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let your kids watch it.ogg",length=1.885}}
 L["ee ur"]={{path="chatsounds/autoadd/random_shit/ee ur.ogg",length=1.431}}
