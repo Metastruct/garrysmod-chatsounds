@@ -10,6 +10,7 @@ on:
       - 'lua/chatsounds/lists_nosend/**'
 jobs:
   preprocess:
+    if: !(github.event_name == 'push' && github.ref == 'refs/heads/master')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -19,9 +20,14 @@ jobs:
         uses: Metastruct/chatsounds-preprocessor-action@v1
   deploy:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
-    needs: preprocess
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Preprocessor 🔧
+        uses: Metastruct/chatsounds-preprocessor-action@v1
+
       - name: Deploy 🚀
         uses: EndBug/add-and-commit@v7
         with:
