@@ -8,6 +8,7 @@ on:
     paths:
       - 'sound/**'
       - 'lua/chatsounds/lists_nosend/**'
+  workflow_dispatch:
 jobs:
   preprocess:
     if: ! (github.event_name == 'push' && github.ref == 'refs/heads/master')
