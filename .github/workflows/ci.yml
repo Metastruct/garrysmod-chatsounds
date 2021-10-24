@@ -10,7 +10,7 @@ on:
       - 'lua/chatsounds/lists_nosend/**'
 jobs:
   preprocess:
-    if: github.event_name != 'push' && github.ref != 'refs/heads/master'
+    if: github.event_name != 'push' || github.ref != 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
