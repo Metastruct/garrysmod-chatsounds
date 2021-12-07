@@ -2,7 +2,7 @@ Chatsounds
 ==========
 
 Chat sounds system for Garry's Mod (with extra sounds)
-<a href="https://github.com/Metastruct/garrysmod-chatsounds/actions/workflows/ci.yml"><img align="right" alt="check sounds and update lists" src="https://github.com/Metastruct/garrysmod-chatsounds/actions/workflows/push.yml/badge.svg?branch=master" /></a>
+<a href="https://github.com/Metastruct/garrysmod-chatsounds/actions/workflows/push.yml"><img align="right" alt="check sounds and update lists" src="https://github.com/Metastruct/garrysmod-chatsounds/actions/workflows/push.yml/badge.svg?branch=master" /></a>
 
 ## NOTICE 2020-01-13
  - Repository was rewritten and forced pushed on 2020-01-13. Commit messages, commits and files were altered or removed to attempt removing sounds violating [GitHub AUP](https://help.github.com/en/github/site-policy/github-acceptable-use-policies#2-content-restrictions). You will have to force pull the repository to get all changes. You can use `repo-reset.cmd` to do that. [better_profanity](https://pypi.org/project/better-profanity/) python module was used for the removal. 
