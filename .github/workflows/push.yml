@@ -1,4 +1,4 @@
-name: check sounds and update lists
+name: Push Action
 on:
   push:
     paths:
