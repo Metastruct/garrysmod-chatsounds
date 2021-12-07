@@ -4,13 +4,9 @@ on:
     paths:
       - 'sound/**'
       - 'lua/chatsounds/lists_nosend/**'
-  pull_request:
-    paths:
-      - 'sound/**'
-      - 'lua/chatsounds/lists_nosend/**'
 jobs:
-  preprocess:
-    if: github.event_name != 'push' || github.ref != 'refs/heads/master'
+  check:
+    if: github.ref != 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -19,7 +15,7 @@ jobs:
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
   deploy:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
