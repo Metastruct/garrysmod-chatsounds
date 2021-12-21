@@ -65,6 +65,7 @@ L["ive been trying to catch you boys all day"]={{path="chatsounds/autoadd/sponge
 L["jeffery epstein did not kill himself"]={{path="chatsounds/autoadd/spongebob/jeffery epstein did not kill himself.ogg",length=2.543}}
 L["leedle leedle leedle lee"]={{path="chatsounds/autoadd/spongebob/leedle leedle leedle lee.ogg",length=1.750}}
 L["life is but a walking shadow"]={{path="chatsounds/autoadd/spongebob/life is but a walking shadow.ogg",length=3.516}}
+L["look gary there i am again look"]={{path="chatsounds/autoadd/spongebob/look gary there i am again look.ogg",length=2.372}}
 L["milk spill"]={{path="chatsounds/autoadd/spongebob/milk spill.ogg",length=3.234}}
 L["mmm try again"]={{path="chatsounds/autoadd/spongebob/mmm try again.ogg",length=1.500}}
 L["moar"]={{path="chatsounds/autoadd/spongebob/moar.ogg",length=0.364}}
