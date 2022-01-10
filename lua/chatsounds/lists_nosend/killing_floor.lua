@@ -6,6 +6,8 @@ L["bloody guy fawkes"]={{path="chatsounds/autoadd/killing_floor/bloody guy fawke
 L["bloody hell whered he go"]={{path="chatsounds/autoadd/killing_floor/bloody hell whered he go.ogg",length=1.524}}
 L["bloody hell you stink"]={{path="chatsounds/autoadd/killing_floor/bloody hell you stink.ogg",length=1.847}}
 L["burn rubber you pillocks"]={{path="chatsounds/autoadd/killing_floor/burn rubber you pillocks.ogg",length=1.648}}
+L["cheers big ears"]={{path="chatsounds/autoadd/killing_floor/cheers big ears.ogg",length=1.133}}
+L["cheers govna"]={{path="chatsounds/autoadd/killing_floor/cheers govna.ogg",length=0.760}}
 L["christ shes ugly"]={{path="chatsounds/autoadd/killing_floor/christ shes ugly.ogg",length=1.676}}
 L["come and get some of this you ugly bastards"]={{path="chatsounds/autoadd/killing_floor/come and get some of this you ugly bastards.ogg",length=2.599}}
 L["come on if you think youre hard enough"]={{path="chatsounds/autoadd/killing_floor/come on if you think youre hard enough.ogg",length=1.681}}
@@ -50,7 +52,10 @@ L["man on"]={{path="chatsounds/autoadd/killing_floor/man on.ogg",length=0.917}}
 L["merging process complete"]={{path="chatsounds/autoadd/killing_floor/merging process complete.ogg",length=2.865}}
 L["mind where youre waving that pal"]={{path="chatsounds/autoadd/killing_floor/mind where youre waving that pal.ogg",length=1.945}}
 L["my granny shoots better than you"]={{path="chatsounds/autoadd/killing_floor/my granny shoots better than you.ogg",length=2.003}}
+L["nice one cyril"]={{path="chatsounds/autoadd/killing_floor/nice one cyril.ogg",length=0.991}}
+L["nice one geezer"]={{path="chatsounds/autoadd/killing_floor/nice one geezer.ogg",length=0.966}}
 L["no more mister bloody nice guy"]={{path="chatsounds/autoadd/killing_floor/no more mister bloody nice guy.ogg",length=2.038}}
+L["no problem"]={{path="chatsounds/autoadd/killing_floor/no problem.ogg",length=0.760}}
 L["now hes really taking the piss"]={{path="chatsounds/autoadd/killing_floor/now hes really taking the piss.ogg",length=1.808}}
 L["now i am going to get serious"]={{path="chatsounds/autoadd/killing_floor/now i am going to get serious.ogg",length=2.287}}
 L["oh great"]={{path="chatsounds/autoadd/killing_floor/oh great.ogg",length=1.256}}
@@ -65,7 +70,12 @@ L["stand still do i look like im nickin stuff"]={{path="chatsounds/autoadd/killi
 L["stand still or ill stick it where the sun dont bloody shine"]={{path="chatsounds/autoadd/killing_floor/stand still or ill stick it where the sun dont bloody shine.ogg",length=2.958}}
 L["stay put you div im trying to heal you not bloody tickle you"]={{path="chatsounds/autoadd/killing_floor/stay put you div im trying to heal you not bloody tickle you.ogg",length=3.713}}
 L["stitch that you asshole"]={{path="chatsounds/autoadd/killing_floor/stitch that you asshole.ogg",length=1.524}}
+L["sure mate"]={{path="chatsounds/autoadd/killing_floor/sure mate.ogg",length=0.598}}
+L["ta mate"]={{path="chatsounds/autoadd/killing_floor/ta mate.ogg",length=0.652}}
+L["ta very much"]={{path="chatsounds/autoadd/killing_floor/ta very much.ogg",length=0.971}}
 L["tenderize"]={{path="chatsounds/autoadd/killing_floor/tenderize.ogg",length=1.636}}
+L["thanks"]={{path="chatsounds/autoadd/killing_floor/thanks.ogg",length=0.726}}
+L["thanks pal"]={{path="chatsounds/autoadd/killing_floor/thanks pal.ogg",length=0.726}}
 L["that hardly hurts"]={{path="chatsounds/autoadd/killing_floor/that hardly hurts.ogg",length=1.529}}
 L["thats just nasty"]={{path="chatsounds/autoadd/killing_floor/thats just nasty.ogg",length=2.019}}
 L["wake up you pillock"]={{path="chatsounds/autoadd/killing_floor/wake up you pillock.ogg",length=1.775}}
@@ -80,5 +90,6 @@ L["youre all going to die"]={{path="chatsounds/autoadd/killing_floor/youre all g
 L["youre pathetic like a bunch of bloody millwall fans"]={{path="chatsounds/autoadd/killing_floor/youre pathetic like a bunch of bloody millwall fans.ogg",length=3.489}}
 L["youre really starting to piss me off"]={{path="chatsounds/autoadd/killing_floor/youre really starting to piss me off.ogg",length=1.921}}
 L["youre ruining everything"]={{path="chatsounds/autoadd/killing_floor/youre ruining everything.ogg",length=1.973}}
+L["youre too kind"]={{path="chatsounds/autoadd/killing_floor/youre too kind.ogg",length=1.275}}
 L["youve got to be kidding me pal"]={{path="chatsounds/autoadd/killing_floor/youve got to be kidding me pal.ogg",length=1.945}}
 c.EndList()
