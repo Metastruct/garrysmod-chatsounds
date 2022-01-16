@@ -9,7 +9,8 @@ L["aol output"]={{path="chatsounds/autoadd/misc/aol output.ogg",length=0.912}}
 L["bbaann"]={{path="chatsounds/autoadd/misc/bbaann.ogg",length=5.186}}
 L["beer pour"]={{path="chatsounds/autoadd/misc/beer pour.ogg",length=4.957}}
 L["bill nye"]={{path="chatsounds/autoadd/misc/bill nye.ogg",length=5.590}}
-L["bing shilling"]={{path="chatsounds/autoadd/misc/bing shilling.ogg",length=49.607}}
+L["bing shilling"]={{path="chatsounds/autoadd/misc/bing shilling.ogg",length=1.014}}
+L["bing shilling full"]={{path="chatsounds/autoadd/misc/bing shilling full.ogg",length=49.607}}
 L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.593}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.245}}
 L["brodyquest"]={{path="chatsounds/autoadd/misc/brodyquest.ogg",length=21.342}}
