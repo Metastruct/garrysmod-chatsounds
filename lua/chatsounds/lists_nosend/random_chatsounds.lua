@@ -17,6 +17,7 @@ L["fucking stop"]={{path="chatsounds/autoadd/random_chatsounds/fucking stop.ogg"
 L["get over it"]={{path="chatsounds/autoadd/random_chatsounds/get over it.ogg",length=1.260}}
 L["ggiimmpp"]={{path="chatsounds/autoadd/random_chatsounds/ggiimmpp.ogg",length=3.077}}
 L["gimp"]={{path="chatsounds/autoadd/random_chatsounds/gimp.ogg",length=0.923}}
+L["gorp"]={{path="chatsounds/autoadd/random_chatsounds/gorp.ogg",length=0.254}}
 L["has too many sides"]={{path="chatsounds/autoadd/random_chatsounds/has too many sides.ogg",length=1.742}}
 L["hey shitass wanna see me speedbridge"]={{path="chatsounds/autoadd/random_chatsounds/hey shitass wanna see me speedbridge.ogg",length=2.870}}
 L["i am alan the annihilator bitch"]={{path="chatsounds/autoadd/random_chatsounds/i am alan the annihilator bitch.ogg",length=2.047}}
