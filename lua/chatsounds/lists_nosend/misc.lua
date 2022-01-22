@@ -9,6 +9,8 @@ L["aol output"]={{path="chatsounds/autoadd/misc/aol output.ogg",length=0.912}}
 L["bbaann"]={{path="chatsounds/autoadd/misc/bbaann.ogg",length=5.186}}
 L["beer pour"]={{path="chatsounds/autoadd/misc/beer pour.ogg",length=4.957}}
 L["bill nye"]={{path="chatsounds/autoadd/misc/bill nye.ogg",length=5.590}}
+L["bing shilling"]={{path="chatsounds/autoadd/misc/bing shilling.ogg",length=1.014}}
+L["bing shilling full"]={{path="chatsounds/autoadd/misc/bing shilling full.ogg",length=49.607}}
 L["blend"]={{path="chatsounds/autoadd/misc/blend.ogg",length=0.593}}
 L["boom"]={{path="chatsounds/autoadd/misc/boom.ogg",length=7.245}}
 L["brodyquest"]={{path="chatsounds/autoadd/misc/brodyquest.ogg",length=21.342}}
@@ -103,6 +105,7 @@ L["she succ me"]={{path="chatsounds/autoadd/misc/she succ me.ogg",length=12.260}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.143}}
 L["sometimes i cover myself in butter and pretend im a corn dog"]={{path="chatsounds/autoadd/misc/sometimes i cover myself in butter and pretend im a corn dog.ogg",length=3.396}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.436}}
+L["super idol"]={{path="chatsounds/autoadd/misc/super idol.ogg",length=14.856}}
 L["that"]={{path="chatsounds/autoadd/misc/that.ogg",length=0.157}}
 L["that is the question"]={{path="chatsounds/autoadd/misc/that is the question.ogg",length=1.064}}
 L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091},{path="chatsounds/autoadd/misc/the/1.ogg",length=0.091},{path="chatsounds/autoadd/misc/the/2.ogg",length=0.141}}
