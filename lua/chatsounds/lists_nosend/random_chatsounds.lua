@@ -1,5 +1,6 @@
 c.StartList("random_chatsounds")
 L["and push to stop"]={{path="chatsounds/autoadd/random_chatsounds/and push to stop.ogg",length=0.847}}
+L["aou"]={{path="chatsounds/autoadd/random_chatsounds/aou.ogg",length=0.454}}
 L["are you stupid"]={{path="chatsounds/autoadd/random_chatsounds/are you stupid.ogg",length=1.033}}
 L["battle of wits"]={{path="chatsounds/autoadd/random_chatsounds/battle of wits.ogg",length=5.968}}
 L["big cock"]={{path="chatsounds/autoadd/random_chatsounds/big cock.ogg",length=1.255}}
@@ -8,6 +9,7 @@ L["boner"]={{path="chatsounds/autoadd/random_chatsounds/boner.ogg",length=0.438}
 L["but no cum"]={{path="chatsounds/autoadd/random_chatsounds/but no cum.ogg",length=1.197}}
 L["but thats not how it works"]={{path="chatsounds/autoadd/random_chatsounds/but thats not how it works.ogg",length=1.099}}
 L["can not stop will not stop"]={{path="chatsounds/autoadd/random_chatsounds/can not stop will not stop.ogg",length=1.927}}
+L["cat"]={{path="chatsounds/autoadd/random_chatsounds/cat/1.ogg",length=0.577},{path="chatsounds/autoadd/random_chatsounds/cat/2.ogg",length=0.923}}
 L["clang"]={{path="chatsounds/autoadd/random_chatsounds/clang.ogg",length=2.001}}
 L["deep dark fantasies"]={{path="chatsounds/autoadd/random_chatsounds/deep dark fantasies.ogg",length=2.438}}
 L["duck has stopped working"]={{path="chatsounds/autoadd/random_chatsounds/duck has stopped working.ogg",length=87.575}}
@@ -37,7 +39,9 @@ L["moyai"]={{path="chatsounds/autoadd/random_chatsounds/moyai.ogg",length=4.974}
 L["my mo my mo my mo my mo my mo my mo"]={{path="chatsounds/autoadd/random_chatsounds/my mo my mo my mo my mo my mo my mo.ogg",length=3.529}}
 L["no i want to pick up the food i put in my butt"]={{path="chatsounds/autoadd/random_chatsounds/no i want to pick up the food i put in my butt.ogg",length=2.949}}
 L["russian scream"]={{path="chatsounds/autoadd/random_chatsounds/russian scream.ogg",length=1.995}}
+L["saxophone"]={{path="chatsounds/autoadd/random_chatsounds/saxophone.ogg",length=3.083}}
 L["shit"]={{path="chatsounds/autoadd/random_chatsounds/shit.ogg",length=0.549}}
+L["smack scream"]={{path="chatsounds/autoadd/random_chatsounds/smack scream.ogg",length=1.646}}
 L["stop"]={{path="chatsounds/autoadd/random_chatsounds/stop.ogg",length=1.005}}
 L["stop fucking stop"]={{path="chatsounds/autoadd/random_chatsounds/stop fucking stop.ogg",length=1.802}}
 L["stupid bitch"]={{path="chatsounds/autoadd/random_chatsounds/stupid bitch.ogg",length=1.054}}
