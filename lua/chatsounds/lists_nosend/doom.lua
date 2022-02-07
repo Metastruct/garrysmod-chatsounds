@@ -19,6 +19,7 @@ L["discharging your firearms in this facility is a serious offence"]={{path="cha
 L["do not be alarmed by the system update"]={{path="chatsounds/autoadd/doom/do not be alarmed by the system update.ogg",length=17.941}}
 L["do not be alarmed by the system update it is a prototype of our interdimensional tether a means to pull you back from hell im sorry for the jolt but i didnt think youd allow its installation voluntarily"]={{path="chatsounds/autoadd/doom/do not be alarmed by the system update.ogg",length=17.941}}
 L["doom slayer intro"]={{path="chatsounds/autoadd/doom/doom slayer intro.ogg",length=43.843}}
+L["doom slayer report"]={{path="chatsounds/autoadd/doom/doom slayer report.ogg",length=120.203}}
 L["entry denied"]={{path="chatsounds/autoadd/doom/entry denied.ogg",length=6.933}}
 L["hey this is for your benefit"]={{path="chatsounds/autoadd/doom/hey this is for your benefit.ogg",length=3.179}}
 L["i am not the villain in this story i do what i do because there is no choice"]={{path="chatsounds/autoadd/doom/i am not the villain in this story i do what i do because there is no choice.ogg",length=9.813}}

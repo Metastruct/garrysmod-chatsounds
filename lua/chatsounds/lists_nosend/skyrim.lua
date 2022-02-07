@@ -59,6 +59,7 @@ L["guard might get nervous a man approaches with his weapon drawn"]={{path="chat
 L["guard might get nervous a woman approaches with her weapon drawn"]={{path="chatsounds/autoadd/skyrim/guard might get nervous a woman approaches with her weapon drawn.ogg",length=3.994}}
 L["ha i think youre bleeding"]={{path="chatsounds/autoadd/skyrim/ha i think youre bleeding.ogg",length=1.811}}
 L["hah found you"]={{path="chatsounds/autoadd/skyrim/hah found you.ogg",length=1.579}}
+L["hail sithis"]={{path="chatsounds/autoadd/skyrim/hail sithis.ogg",length=0.869}}
 L["hands off"]={{path="chatsounds/autoadd/skyrim/hands off.ogg",length=0.789}}
 L["have i made myself clear"]={{path="chatsounds/autoadd/skyrim/have i made myself clear.ogg",length=1.440}}
 L["hear that"]={{path="chatsounds/autoadd/skyrim/hear that.ogg",length=0.836}}
