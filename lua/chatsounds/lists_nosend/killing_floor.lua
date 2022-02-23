@@ -1,6 +1,5 @@
 c.StartList("killing_floor")
 L["a chainsaw"]={{path="chatsounds/autoadd/killing_floor/a chainsaw.ogg",length=1.134}}
-L["and she never listened"]={{path="chatsounds/autoadd/killing_floor/and she never listened.ogg",length=1.660}}
 L["behind you idiot"]={{path="chatsounds/autoadd/killing_floor/behind you idiot.ogg",length=1.138}}
 L["bloody guy fawkes"]={{path="chatsounds/autoadd/killing_floor/bloody guy fawkes.ogg",length=1.309}}
 L["bloody hell whered he go"]={{path="chatsounds/autoadd/killing_floor/bloody hell whered he go.ogg",length=1.524}}
@@ -17,24 +16,24 @@ L["dammit balls up boys"]={{path="chatsounds/autoadd/killing_floor/dammit balls 
 L["damn its that invisible bitch again"]={{path="chatsounds/autoadd/killing_floor/damn its that invisible bitch again.ogg",length=2.360}}
 L["dosh"]={{path="chatsounds/autoadd/killing_floor/dosh/1.ogg",length=1.932},{path="chatsounds/autoadd/killing_floor/dosh/10.ogg",length=1.036},{path="chatsounds/autoadd/killing_floor/dosh/11.ogg",length=1.889},{path="chatsounds/autoadd/killing_floor/dosh/12.ogg",length=2.264},{path="chatsounds/autoadd/killing_floor/dosh/13.ogg",length=2.037},{path="chatsounds/autoadd/killing_floor/dosh/2.ogg",length=1.648},{path="chatsounds/autoadd/killing_floor/dosh/3.ogg",length=1.036},{path="chatsounds/autoadd/killing_floor/dosh/4.ogg",length=1.889},{path="chatsounds/autoadd/killing_floor/dosh/5.ogg",length=2.264},{path="chatsounds/autoadd/killing_floor/dosh/6.ogg",length=2.037},{path="chatsounds/autoadd/killing_floor/dosh/7.ogg",length=1.979},{path="chatsounds/autoadd/killing_floor/dosh/8.ogg",length=1.932},{path="chatsounds/autoadd/killing_floor/dosh/9.ogg",length=1.648}}
 L["eventually ill catch you"]={{path="chatsounds/autoadd/killing_floor/eventually ill catch you.ogg",length=1.843}}
+L["everything is so simple when you have a rocket launcher for an arm"]={{path="chatsounds/autoadd/killing_floor/everything is so simple when you have a rocket launcher for an arm.ogg",length=5.086}}
+L["excellent another batch of subjects"]={{path="chatsounds/autoadd/killing_floor/excellent another batch of subjects.ogg",length=3.391}}
 L["fifty cal fun time"]={{path="chatsounds/autoadd/killing_floor/fifty cal fun time.ogg",length=1.847}}
 L["flesh pound"]={{path="chatsounds/autoadd/killing_floor/flesh pound.ogg",length=3.265}}
 L["fleshpound death"]={{path="chatsounds/autoadd/killing_floor/fleshpound death/1.ogg",length=2.142},{path="chatsounds/autoadd/killing_floor/fleshpound death/2.ogg",length=2.104},{path="chatsounds/autoadd/killing_floor/fleshpound death/3.ogg",length=2.224},{path="chatsounds/autoadd/killing_floor/fleshpound death/4.ogg",length=3.397},{path="chatsounds/autoadd/killing_floor/fleshpound death/5.ogg",length=1.644}}
 L["fleshpound rage"]={{path="chatsounds/autoadd/killing_floor/fleshpound rage/1.ogg",length=1.087},{path="chatsounds/autoadd/killing_floor/fleshpound rage/2.ogg",length=1.314},{path="chatsounds/autoadd/killing_floor/fleshpound rage/3.ogg",length=2.070},{path="chatsounds/autoadd/killing_floor/fleshpound rage/4.ogg",length=3.848}}
 L["get the hell outta here"]={{path="chatsounds/autoadd/killing_floor/get the hell outta here.ogg",length=1.339}}
 L["god its chainsaw massacre time"]={{path="chatsounds/autoadd/killing_floor/god its chainsaw massacre time.ogg",length=2.282}}
-L["ha ha ha haaa"]={{path="chatsounds/autoadd/killing_floor/ha ha ha haaa.ogg",length=1.764}}
 L["hahahahahaha fear me"]={{path="chatsounds/autoadd/killing_floor/hahahahahaha fear me.ogg",length=3.516}}
-L["heheheheheheh"]={{path="chatsounds/autoadd/killing_floor/heheheheheheh.ogg",length=2.052}}
-L["i always told her"]={{path="chatsounds/autoadd/killing_floor/i always told her.ogg",length=1.298}}
 L["i cannot be stopped"]={{path="chatsounds/autoadd/killing_floor/i cannot be stopped.ogg",length=1.895}}
 L["i dont kiss dead tarts"]={{path="chatsounds/autoadd/killing_floor/i dont kiss dead tarts.ogg",length=1.964}}
 L["i dont think you fully understand this situation"]={{path="chatsounds/autoadd/killing_floor/i dont think you fully understand this situation.ogg",length=3.619}}
 L["i hear her but where the hell is she"]={{path="chatsounds/autoadd/killing_floor/i hear her but where the hell is she.ogg",length=1.896}}
 L["i want drugs now"]={{path="chatsounds/autoadd/killing_floor/i want drugs now.ogg",length=1.797}}
-L["id make something of myself"]={{path="chatsounds/autoadd/killing_floor/id make something of myself.ogg",length=2.385}}
 L["ill crush you like the pest you are"]={{path="chatsounds/autoadd/killing_floor/ill crush you like the pest you are.ogg",length=2.652}}
+L["ill show you ill show you all"]={{path="chatsounds/autoadd/killing_floor/ill show you ill show you all.ogg",length=3.390}}
 L["ill show you no mercy"]={{path="chatsounds/autoadd/killing_floor/ill show you no mercy.ogg",length=2.705}}
+L["im back and ive got some new tricks"]={{path="chatsounds/autoadd/killing_floor/im back and ive got some new tricks.ogg",length=3.293}}
 L["im going to fix you"]={{path="chatsounds/autoadd/killing_floor/im going to fix you.ogg",length=2.158}}
 L["im hit bloody well do something"]={{path="chatsounds/autoadd/killing_floor/im hit bloody well do something.ogg",length=2.122}}
 L["in your face pal"]={{path="chatsounds/autoadd/killing_floor/in your face pal.ogg",length=1.554}}
@@ -58,9 +57,18 @@ L["no more mister bloody nice guy"]={{path="chatsounds/autoadd/killing_floor/no 
 L["no problem"]={{path="chatsounds/autoadd/killing_floor/no problem.ogg",length=0.760}}
 L["now hes really taking the piss"]={{path="chatsounds/autoadd/killing_floor/now hes really taking the piss.ogg",length=1.808}}
 L["now i am going to get serious"]={{path="chatsounds/autoadd/killing_floor/now i am going to get serious.ogg",length=2.287}}
+L["now this is the fight"]={{path="chatsounds/autoadd/killing_floor/now this is the fight.ogg",length=1.765}}
+L["now were having fun"]={{path="chatsounds/autoadd/killing_floor/now were having fun.ogg",length=1.780}}
 L["oh great"]={{path="chatsounds/autoadd/killing_floor/oh great.ogg",length=1.256}}
+L["oh yeah like a new man"]={{path="chatsounds/autoadd/killing_floor/oh yeah like a new man.ogg",length=3.206}}
+L["oh yeah thats more i like it"]={{path="chatsounds/autoadd/killing_floor/oh yeah thats more i like it.ogg",length=3.305}}
 L["okay"]={{path="chatsounds/autoadd/killing_floor/okay.ogg",length=1.138}}
+L["one in a pipe"]={{path="chatsounds/autoadd/killing_floor/one in a pipe/1.ogg",length=1.263},{path="chatsounds/autoadd/killing_floor/one in a pipe/2.ogg",length=1.249}}
+L["ough as i was saying"]={{path="chatsounds/autoadd/killing_floor/ough as i was saying.ogg",length=3.233}}
+L["ough thats much better"]={{path="chatsounds/autoadd/killing_floor/ough thats much better.ogg",length=3.340}}
 L["patch me up for gods sake"]={{path="chatsounds/autoadd/killing_floor/patch me up for gods sake.ogg",length=1.673}}
+L["patriarch laugh"]={{path="chatsounds/autoadd/killing_floor/patriarch laugh/1.ogg",length=1.886},{path="chatsounds/autoadd/killing_floor/patriarch laugh/2.ogg",length=1.669},{path="chatsounds/autoadd/killing_floor/patriarch laugh/3.ogg",length=1.764},{path="chatsounds/autoadd/killing_floor/patriarch laugh/4.ogg",length=2.052}}
+L["patriarch scream"]={{path="chatsounds/autoadd/killing_floor/patriarch scream/1.ogg",length=1.907},{path="chatsounds/autoadd/killing_floor/patriarch scream/2.ogg",length=2.281},{path="chatsounds/autoadd/killing_floor/patriarch scream/3.ogg",length=2.033},{path="chatsounds/autoadd/killing_floor/patriarch scream/4.ogg",length=2.132},{path="chatsounds/autoadd/killing_floor/patriarch scream/5.ogg",length=2.069},{path="chatsounds/autoadd/killing_floor/patriarch scream/6.ogg",length=1.945}}
 L["reminds me of a bunch of pikeys"]={{path="chatsounds/autoadd/killing_floor/reminds me of a bunch of pikeys.ogg",length=2.433}}
 L["rockets too"]={{path="chatsounds/autoadd/killing_floor/rockets too.ogg",length=1.251}}
 L["run for it"]={{path="chatsounds/autoadd/killing_floor/run for it.ogg",length=0.977}}
@@ -69,22 +77,33 @@ L["smeg head"]={{path="chatsounds/autoadd/killing_floor/smeg head.ogg",length=0.
 L["stand still do i look like im nickin stuff"]={{path="chatsounds/autoadd/killing_floor/stand still do i look like im nickin stuff.ogg",length=2.438}}
 L["stand still or ill stick it where the sun dont bloody shine"]={{path="chatsounds/autoadd/killing_floor/stand still or ill stick it where the sun dont bloody shine.ogg",length=2.958}}
 L["stay put you div im trying to heal you not bloody tickle you"]={{path="chatsounds/autoadd/killing_floor/stay put you div im trying to heal you not bloody tickle you.ogg",length=3.713}}
+L["stay there ill make this quick"]={{path="chatsounds/autoadd/killing_floor/stay there ill make this quick.ogg",length=2.477}}
 L["stitch that you asshole"]={{path="chatsounds/autoadd/killing_floor/stitch that you asshole.ogg",length=1.524}}
+L["superior genetics"]={{path="chatsounds/autoadd/killing_floor/superior genetics.ogg",length=1.831}}
 L["sure mate"]={{path="chatsounds/autoadd/killing_floor/sure mate.ogg",length=0.598}}
 L["ta mate"]={{path="chatsounds/autoadd/killing_floor/ta mate.ogg",length=0.652}}
 L["ta very much"]={{path="chatsounds/autoadd/killing_floor/ta very much.ogg",length=0.971}}
 L["tenderize"]={{path="chatsounds/autoadd/killing_floor/tenderize.ogg",length=1.636}}
 L["thanks"]={{path="chatsounds/autoadd/killing_floor/thanks.ogg",length=0.726}}
+L["thanks for getting so close to me everyone"]={{path="chatsounds/autoadd/killing_floor/thanks for getting so close to me everyone.ogg",length=2.538}}
 L["thanks pal"]={{path="chatsounds/autoadd/killing_floor/thanks pal.ogg",length=0.726}}
 L["that hardly hurts"]={{path="chatsounds/autoadd/killing_floor/that hardly hurts.ogg",length=1.529}}
 L["thats just nasty"]={{path="chatsounds/autoadd/killing_floor/thats just nasty.ogg",length=2.019}}
+L["this is the end of you"]={{path="chatsounds/autoadd/killing_floor/this is the end of you.ogg",length=1.594}}
+L["time for a more direct approach"]={{path="chatsounds/autoadd/killing_floor/time for a more direct approach.ogg",length=2.446}}
+L["wait right there hahaha"]={{path="chatsounds/autoadd/killing_floor/wait right there hahaha.ogg",length=3.323}}
 L["wake up you pillock"]={{path="chatsounds/autoadd/killing_floor/wake up you pillock.ogg",length=1.775}}
 L["wankers"]={{path="chatsounds/autoadd/killing_floor/wankers.ogg",length=1.393}}
 L["were screwed"]={{path="chatsounds/autoadd/killing_floor/were screwed.ogg",length=0.873}}
 L["what a waste of time"]={{path="chatsounds/autoadd/killing_floor/what a waste of time.ogg",length=1.869}}
+L["what are you a bunch of lumberjacks"]={{path="chatsounds/autoadd/killing_floor/what are you a bunch of lumberjacks.ogg",length=2.875}}
+L["what do you think youre doing"]={{path="chatsounds/autoadd/killing_floor/what do you think youre doing.ogg",length=1.803}}
 L["what is this"]={{path="chatsounds/autoadd/killing_floor/what is this.ogg",length=1.309}}
 L["what was it that you had hoped to accomplish"]={{path="chatsounds/autoadd/killing_floor/what was it that you had hoped to accomplish.ogg",length=2.757}}
+L["who do you think you are a bunch of ninjas"]={{path="chatsounds/autoadd/killing_floor/who do you think you are a bunch of ninjas.ogg",length=2.916}}
 L["you cant run forever"]={{path="chatsounds/autoadd/killing_floor/you cant run forever.ogg",length=1.634}}
+L["you fucking assholes"]={{path="chatsounds/autoadd/killing_floor/you fucking assholes.ogg",length=1.756}}
+L["youll pay for what youve done"]={{path="chatsounds/autoadd/killing_floor/youll pay for what youve done.ogg",length=2.216}}
 L["youre all fur coat no knickers bitches"]={{path="chatsounds/autoadd/killing_floor/youre all fur coat no knickers bitches.ogg",length=3.020}}
 L["youre all going to die"]={{path="chatsounds/autoadd/killing_floor/youre all going to die.ogg",length=2.235}}
 L["youre pathetic like a bunch of bloody millwall fans"]={{path="chatsounds/autoadd/killing_floor/youre pathetic like a bunch of bloody millwall fans.ogg",length=3.489}}
