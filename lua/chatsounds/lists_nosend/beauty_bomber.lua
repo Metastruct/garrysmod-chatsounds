@@ -29,6 +29,7 @@ L["curbyourenthusiasm"]={{path="chatsounds/autoadd/beauty_bomber/curbyourenthusi
 L["dbgsax"]={{path="chatsounds/autoadd/beauty_bomber/dbgsax.ogg",length=26.000}}
 L["did you know ca caw unintelligible"]={{path="chatsounds/autoadd/beauty_bomber/did you know ca caw unintelligible.ogg",length=1.737}}
 L["fr e sh a voca do"]={{path="chatsounds/autoadd/beauty_bomber/fr e sh a voca do.ogg",length=1.295}}
+L["gah dayum"]={{path="chatsounds/autoadd/beauty_bomber/gah dayum.ogg",length=1.126}}
 L["gone forever"]={{path="chatsounds/autoadd/beauty_bomber/gone forever.ogg",length=2.582}}
 L["graciefilms distorted"]={{path="chatsounds/autoadd/beauty_bomber/graciefilms distorted.ogg",length=3.242}}
 L["gunter quack"]={{path="chatsounds/autoadd/beauty_bomber/gunter quack.ogg",length=0.307}}

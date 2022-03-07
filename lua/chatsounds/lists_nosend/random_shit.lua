@@ -13,6 +13,9 @@ L["but not for me"]={{path="chatsounds/autoadd/random_shit/but not for me.ogg",l
 L["buzz look an alien"]={{path="chatsounds/autoadd/random_shit/buzz look an alien.ogg",length=1.034}}
 L["call an ambulance call an ambulance"]={{path="chatsounds/autoadd/random_shit/call an ambulance call an ambulance.ogg",length=4.085}}
 L["change da world"]={{path="chatsounds/autoadd/random_shit/change da world.ogg",length=2.140}}
+L["coca"]={{path="chatsounds/autoadd/random_shit/coca.ogg",length=0.440}}
+L["cola"]={{path="chatsounds/autoadd/random_shit/cola.ogg",length=0.517}}
+L["cola explosion"]={{path="chatsounds/autoadd/random_shit/cola explosion.ogg",length=0.501}}
 L["crunch"]={{path="chatsounds/autoadd/random_shit/crunch.ogg",length=0.593}}
 L["da blyat cyka"]={{path="chatsounds/autoadd/random_shit/da blyat cyka.ogg",length=1.662}}
 L["der he is"]={{path="chatsounds/autoadd/random_shit/der he is.ogg",length=1.374}}
@@ -21,6 +24,7 @@ L["disgustang"]={{path="chatsounds/autoadd/random_shit/disgustang.ogg",length=1.
 L["dont let your kids watch it"]={{path="chatsounds/autoadd/random_shit/dont let your kids watch it.ogg",length=1.885}}
 L["ee ur"]={{path="chatsounds/autoadd/random_shit/ee ur.ogg",length=1.431}}
 L["eekum bokum"]={{path="chatsounds/autoadd/random_shit/eekum bokum/1.ogg",length=0.883},{path="chatsounds/autoadd/random_shit/eekum bokum/2.ogg",length=1.063}}
+L["espuma"]={{path="chatsounds/autoadd/random_shit/espuma.ogg",length=0.865}}
 L["eugh"]={{path="chatsounds/autoadd/random_shit/eugh.ogg",length=0.542}}
 L["fire deployment"]={{path="chatsounds/autoadd/random_shit/fire deployment.ogg",length=0.568}}
 L["fortnite"]={{path="chatsounds/autoadd/random_shit/fortnite.ogg",length=0.902}}
