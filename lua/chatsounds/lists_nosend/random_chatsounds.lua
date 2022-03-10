@@ -53,6 +53,7 @@ L["we do this you know one on one"]={{path="chatsounds/autoadd/random_chatsounds
 L["what about the negro noodle"]={{path="chatsounds/autoadd/random_chatsounds/what about the negro noodle.ogg",length=1.718}}
 L["what the fuck did you just say you goddamn slut"]={{path="chatsounds/autoadd/random_chatsounds/what the fuck did you just say you goddamn slut.ogg",length=2.749}}
 L["why the hell so expensive"]={{path="chatsounds/autoadd/random_chatsounds/why the hell so expensive.ogg",length=1.591}}
+L["wuewuewuewuewuewue"]={{path="chatsounds/autoadd/random_chatsounds/wuewuewuewuewuewue/1.ogg",length=1.413},{path="chatsounds/autoadd/random_chatsounds/wuewuewuewuewuewue/2.ogg",length=1.631}}
 L["you know who else alt tabbed during a source game"]={{path="chatsounds/autoadd/random_chatsounds/you know who else alt tabbed during a source game.ogg",length=3.263}}
 L["you prefer the powdered donuts to the holy chocolate donuts"]={{path="chatsounds/autoadd/random_chatsounds/you prefer the powdered donuts to the holy chocolate donuts.ogg",length=3.331}}
 c.EndList()
