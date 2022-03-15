@@ -39,6 +39,7 @@ L["but of soos"]={{path="chatsounds/autoadd/tf2_extra/but of soos.ogg",length=1.
 L["but that thing"]={{path="chatsounds/autoadd/tf2_extra/but that thing.ogg",length=2.682}}
 L["buttsex time"]={{path="chatsounds/autoadd/tf2_extra/buttsex time.ogg",length=0.801}}
 L["buurp"]={{path="chatsounds/autoadd/tf2_extra/buurp.ogg",length=1.224}}
+L["can you even read"]={{path="chatsounds/autoadd/tf2_extra/can you even read.ogg",length=2.154}}
 L["cant seem"]={{path="chatsounds/autoadd/tf2_extra/cant seem.ogg",length=1.080}}
 L["capdevelopatre"]={{path="chatsounds/autoadd/tf2_extra/capdevelopatre.ogg",length=0.744}}
 L["capsaicin"]={{path="chatsounds/autoadd/tf2_extra/capsaicin.ogg",length=0.969}}
@@ -126,7 +127,7 @@ L["i dare you"]={{path="chatsounds/autoadd/tf2_extra/i dare you.ogg",length=0.99
 L["i feel everything i fucked everything"]={{path="chatsounds/autoadd/tf2_extra/i feel everything i fucked everything.ogg",length=5.486}}
 L["i feel like a man on cocaine"]={{path="chatsounds/autoadd/tf2_extra/i feel like a man on cocaine.ogg",length=3.994}}
 L["i got a manky eye im a black scottish cyclops"]={{path="chatsounds/autoadd/tf2_extra/i got a manky eye im a black scottish cyclops.ogg",length=4.606}}
-L["i have no idea"]={{path="chatsounds/autoadd/tf2_extra/i have no idea.ogg",length=2.032}}
+L["i have no idea"]={{path="chatsounds/autoadd/tf2_extra/i have no idea/1.ogg",length=2.032},{path="chatsounds/autoadd/tf2_extra/i have no idea/2.ogg",length=1.977}}
 L["i just drank a thousand bottles of scrumpy"]={{path="chatsounds/autoadd/tf2_extra/i just drank a thousand bottles of scrumpy.ogg",length=3.725}}
 L["i love mcdonalds distorted"]={{path="chatsounds/autoadd/tf2_extra/i love mcdonalds distorted.ogg",length=2.571}}
 L["i think"]={{path="chatsounds/autoadd/tf2_extra/i think.ogg",length=0.746}}
@@ -190,6 +191,7 @@ L["nom"]={{path="chatsounds/autoadd/tf2_extra/nom.ogg",length=0.419}}
 L["noon"]={{path="chatsounds/autoadd/tf2_extra/noon.ogg",length=0.544}}
 L["nooon"]={{path="chatsounds/autoadd/tf2_extra/nooon.ogg",length=0.730}}
 L["noooon"]={{path="chatsounds/autoadd/tf2_extra/noooon.ogg",length=1.653}}
+L["not sure"]={{path="chatsounds/autoadd/tf2_extra/not sure.ogg",length=1.003}}
 L["notbigsusgibton"]={{path="chatsounds/autoadd/tf2_extra/notbigsusgibton.ogg",length=1.414}}
 L["now"]={{path="chatsounds/autoadd/tf2_extra/now.ogg",length=0.528}}
 L["numnumnumnumnum"]={{path="chatsounds/autoadd/tf2_extra/numnumnumnumnum.ogg",length=1.642}}
@@ -234,6 +236,8 @@ L["seduceme has stopped working"]={{path="chatsounds/autoadd/tf2_extra/seduceme 
 L["see red"]={{path="chatsounds/autoadd/tf2_extra/see red.ogg",length=1.543}}
 L["sees"]={{path="chatsounds/autoadd/tf2_extra/sees/1.ogg",length=0.844},{path="chatsounds/autoadd/tf2_extra/sees/2.ogg",length=0.712},{path="chatsounds/autoadd/tf2_extra/sees/3.ogg",length=1.247}}
 L["sentrysexdistorted"]={{path="chatsounds/autoadd/tf2_extra/sentrysexdistorted.ogg",length=1.820}}
+L["sex"]={{path="chatsounds/autoadd/tf2_extra/sex.ogg",length=1.140}}
+L["sex now"]={{path="chatsounds/autoadd/tf2_extra/sex now.ogg",length=3.157}}
 L["sexellent"]={{path="chatsounds/autoadd/tf2_extra/sexellent.ogg",length=0.993}}
 L["sey"]={{path="chatsounds/autoadd/tf2_extra/sey/1.ogg",length=0.717},{path="chatsounds/autoadd/tf2_extra/sey/2.ogg",length=0.731}}
 L["she weighs one hundred fifty kilograms"]={{path="chatsounds/autoadd/tf2_extra/she weighs one hundred fifty kilograms.ogg",length=2.430}}
@@ -285,6 +289,8 @@ L["suus distorted"]={{path="chatsounds/autoadd/tf2_extra/suus distorted.ogg",len
 L["taat yooy fiif dannad soos prouuorp"]={{path="chatsounds/autoadd/tf2_extra/taat yooy fiif dannad soos prouuorp.ogg",length=3.253}}
 L["tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs"]={{path="chatsounds/autoadd/tf2_extra/tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs.ogg",length=8.951}}
 L["tequila"]={{path="chatsounds/autoadd/tf2_extra/tequila.ogg",length=0.885}}
+L["tf2 heavy weapons guy"]={{path="chatsounds/autoadd/tf2_extra/tf2 heavy weapons guy.ogg",length=4.234}}
+L["thanks king"]={{path="chatsounds/autoadd/tf2_extra/thanks king.ogg",length=1.475}}
 L["that is a diet i call sex"]={{path="chatsounds/autoadd/tf2_extra/that is a diet i call sex.ogg",length=2.373}}
 L["that is a little trick i call"]={{path="chatsounds/autoadd/tf2_extra/that is a little trick i call.ogg",length=2.196}}
 L["that looks good"]={{path="chatsounds/autoadd/tf2_extra/that looks good.ogg",length=0.808}}
@@ -320,6 +326,7 @@ L["we are going to need that stupid cartoon horse"]={{path="chatsounds/autoadd/t
 L["we can get drunk"]={{path="chatsounds/autoadd/tf2_extra/we can get drunk.ogg",length=1.593}}
 L["we cannot see"]={{path="chatsounds/autoadd/tf2_extra/we cannot see.ogg",length=1.061}}
 L["we fuck like men"]={{path="chatsounds/autoadd/tf2_extra/we fuck like men.ogg",length=1.389}}
+L["we go"]={{path="chatsounds/autoadd/tf2_extra/we go.ogg",length=1.048}}
 L["well too bad"]={{path="chatsounds/autoadd/tf2_extra/well too bad.ogg",length=1.845}}
 L["what can we do today"]={{path="chatsounds/autoadd/tf2_extra/what can we do today.ogg",length=1.930}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2_extra/what happens now.ogg",length=1.136}}
@@ -350,9 +357,11 @@ L["yeeeeeee"]={{path="chatsounds/autoadd/tf2_extra/yeeeeeee.ogg",length=1.549}}
 L["yeeeeeee distorted"]={{path="chatsounds/autoadd/tf2_extra/yeeeeeee distorted.ogg",length=4.403}}
 L["yeet"]={{path="chatsounds/autoadd/tf2_extra/yeet.ogg",length=0.466}}
 L["yeey"]={{path="chatsounds/autoadd/tf2_extra/yeey/1.ogg",length=0.331},{path="chatsounds/autoadd/tf2_extra/yeey/2.ogg",length=0.450},{path="chatsounds/autoadd/tf2_extra/yeey/3.ogg",length=0.442},{path="chatsounds/autoadd/tf2_extra/yeey/4.ogg",length=0.232},{path="chatsounds/autoadd/tf2_extra/yeey/5.ogg",length=0.481},{path="chatsounds/autoadd/tf2_extra/yeey/6.ogg",length=0.513},{path="chatsounds/autoadd/tf2_extra/yeey/7.ogg",length=0.427}}
+L["yes i can"]={{path="chatsounds/autoadd/tf2_extra/yes i can.ogg",length=1.328}}
 L["yip in hell"]={{path="chatsounds/autoadd/tf2_extra/yip in hell.ogg",length=1.031}}
 L["you are ded now"]={{path="chatsounds/autoadd/tf2_extra/you are ded now.ogg",length=1.343}}
 L["you are gonna lose subscriber"]={{path="chatsounds/autoadd/tf2_extra/you are gonna lose subscriber.ogg",length=2.432}}
+L["you are not helping"]={{path="chatsounds/autoadd/tf2_extra/you are not helping.ogg",length=1.763}}
 L["you are so so giant"]={{path="chatsounds/autoadd/tf2_extra/you are so so giant.ogg",length=3.633}}
 L["you feel"]={{path="chatsounds/autoadd/tf2_extra/you feel.ogg",length=0.744}}
 L["you mumbling illiterate drunken sluggish morbidly obese fatous fathead amateur"]={{path="chatsounds/autoadd/tf2_extra/you mumbling illiterate drunken sluggish morbidly obese fatous fathead amateur.ogg",length=4.507}}
