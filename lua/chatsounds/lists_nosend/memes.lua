@@ -24,6 +24,7 @@ L["eating sounds"]={{path="chatsounds/autoadd/memes/eating sounds.ogg",length=0.
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
+L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
 L["frijoles de la olla"]={{path="chatsounds/autoadd/memes/frijoles de la olla.ogg",length=2.252}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
 L["i am here today doing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today doing the worlds loudest scream.ogg",length=2.774}}
@@ -41,6 +42,7 @@ L["music make you lose control music make you lose control"]={{path="chatsounds/
 L["now this is epic"]={{path="chatsounds/autoadd/memes/now this is epic.ogg",length=2.900}}
 L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}
+L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",length=5.052}}
 L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.834}}
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
@@ -50,6 +52,9 @@ L["scooby noises"]={{path="chatsounds/autoadd/memes/scooby noises.ogg",length=13
 L["she made fucking beans wtf"]={{path="chatsounds/autoadd/memes/she made fucking beans wtf.ogg",length=3.693}}
 L["shet"]={{path="chatsounds/autoadd/memes/shet.ogg",length=0.888}}
 L["subaru subaru"]={{path="chatsounds/autoadd/memes/subaru subaru.ogg",length=1.578}}
+L["subscribe"]={{path="chatsounds/autoadd/memes/subscribe.ogg",length=20.320}}
+L["sweaty speedrun"]={{path="chatsounds/autoadd/memes/sweaty speedrun.ogg",length=30.200}}
+L["sweaty speedrunmusic"]={{path="chatsounds/autoadd/memes/sweaty speedrunmusic.ogg",length=32.117}}
 L["tacobell bell"]={{path="chatsounds/autoadd/memes/tacobell bell.ogg",length=1.722}}
 L["this is epic"]={{path="chatsounds/autoadd/memes/this is epic.ogg",length=1.200}}
 L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.394}}
