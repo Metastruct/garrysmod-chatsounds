@@ -10,6 +10,9 @@ L["are you crazy"]={{path="chatsounds/autoadd/deus_ex/are you crazy.ogg",length=
 L["are you sure you pressed the right button"]={{path="chatsounds/autoadd/deus_ex/are you sure you pressed the right button.ogg",length=1.985}}
 L["as long as i dont turn green and grow antennaes"]={{path="chatsounds/autoadd/deus_ex/as long as i dont turn green and grow antennaes.ogg",length=3.123}}
 L["bravery is not a function of firepower"]={{path="chatsounds/autoadd/deus_ex/bravery is not a function of firepower.ogg",length=2.090}}
+L["cat death"]={{path="chatsounds/autoadd/deus_ex/cat death.ogg",length=1.486}}
+L["cat hiss"]={{path="chatsounds/autoadd/deus_ex/cat hiss.ogg",length=0.649}}
+L["cat purr"]={{path="chatsounds/autoadd/deus_ex/cat purr.ogg",length=1.031}}
 L["come on we drink the same"]={{path="chatsounds/autoadd/deus_ex/come on we drink the same.ogg",length=2.691}}
 L["desperate"]={{path="chatsounds/autoadd/deus_ex/desperate/1.ogg",length=0.541},{path="chatsounds/autoadd/deus_ex/desperate/2.ogg",length=0.564}}
 L["deus ex theme"]={{path="chatsounds/autoadd/deus_ex/deus ex theme.ogg",length=16.610}}
@@ -30,6 +33,10 @@ L["get out of there"]={{path="chatsounds/autoadd/deus_ex/get out of there.ogg",l
 L["get the hell out of here denton"]={{path="chatsounds/autoadd/deus_ex/get the hell out of here denton.ogg",length=1.620}}
 L["gimme the gep gun"]={{path="chatsounds/autoadd/deus_ex/gimme the gep gun.ogg",length=0.879}}
 L["go away you are ruining everything"]={{path="chatsounds/autoadd/deus_ex/go away you are ruining everything.ogg",length=2.952}}
+L["greasel alert"]={{path="chatsounds/autoadd/deus_ex/greasel alert.ogg",length=0.470}}
+L["greasel idle"]={{path="chatsounds/autoadd/deus_ex/greasel idle.ogg",length=0.696}}
+L["greasel pain large"]={{path="chatsounds/autoadd/deus_ex/greasel pain large.ogg",length=0.785}}
+L["greasel pain small"]={{path="chatsounds/autoadd/deus_ex/greasel pain small.ogg",length=0.279}}
 L["great place here"]={{path="chatsounds/autoadd/deus_ex/great place here.ogg",length=0.836}}
 L["grnnn"]={{path="chatsounds/autoadd/deus_ex/grnnn.ogg",length=1.985}}
 L["guess it will have to be a retirement gift"]={{path="chatsounds/autoadd/deus_ex/guess it will have to be a retirement gift.ogg",length=2.247}}
@@ -42,12 +49,14 @@ L["hmm"]={{path="chatsounds/autoadd/deus_ex/hmm.ogg",length=0.618}}
 L["hohoho a big time gangster"]={{path="chatsounds/autoadd/deus_ex/hohoho a big time gangster.ogg",length=2.873}}
 L["hold on"]={{path="chatsounds/autoadd/deus_ex/hold on.ogg",length=0.454}}
 L["hold on ive gotta fuck something"]={{path="chatsounds/autoadd/deus_ex/hold on ive gotta fuck something.ogg",length=1.810}}
+L["how did you know"]={{path="chatsounds/autoadd/deus_ex/how did you know.ogg",length=1.384}}
 L["how unprofessional"]={{path="chatsounds/autoadd/deus_ex/how unprofessional.ogg",length=2.168}}
 L["hueh"]={{path="chatsounds/autoadd/deus_ex/hueh.ogg",length=0.496}}
 L["huh"]={{path="chatsounds/autoadd/deus_ex/huh.ogg",length=0.549}}
 L["humming"]={{path="chatsounds/autoadd/deus_ex/humming.ogg",length=3.030}}
 L["i am not a machi"]={{path="chatsounds/autoadd/deus_ex/i am not a machi.ogg",length=0.993}}
 L["i believe i will enjoy this"]={{path="chatsounds/autoadd/deus_ex/i believe i will enjoy this.ogg",length=2.717}}
+L["i came to watch you die"]={{path="chatsounds/autoadd/deus_ex/i came to watch you die.ogg",length=1.881}}
 L["i do not make mistakes of that kind"]={{path="chatsounds/autoadd/deus_ex/i do not make mistakes of that kind.ogg",length=1.724}}
 L["i dont understand"]={{path="chatsounds/autoadd/deus_ex/i dont understand.ogg",length=0.836}}
 L["i have some bad news"]={{path="chatsounds/autoadd/deus_ex/i have some bad news.ogg",length=1.090}}
@@ -62,6 +71,7 @@ L["i take it he was agreeable"]={{path="chatsounds/autoadd/deus_ex/i take it he 
 L["i trust you have been able to find a place within the organization"]={{path="chatsounds/autoadd/deus_ex/i trust you have been able to find a place within the organization.ogg",length=3.279}}
 L["i was never properly trained in its operation"]={{path="chatsounds/autoadd/deus_ex/i was never properly trained in its operation.ogg",length=2.168}}
 L["i will burn like the brightest star"]={{path="chatsounds/autoadd/deus_ex/i will burn like the brightest star.ogg",length=3.493}}
+L["i will have to kill you myself"]={{path="chatsounds/autoadd/deus_ex/i will have to kill you myself/1.ogg",length=2.247},{path="chatsounds/autoadd/deus_ex/i will have to kill you myself/2.ogg",length=2.403}}
 L["i wish there was something more i could say"]={{path="chatsounds/autoadd/deus_ex/i wish there was something more i could say.ogg",length=1.724}}
 L["if you recall our chat in the break room at unatco you know i have the same augmentation technology as you"]={{path="chatsounds/autoadd/deus_ex/if you recall our chat in the break room at unatco you know i have the same augmentation technology as you.ogg",length=6.713}}
 L["ignorant gwailo"]={{path="chatsounds/autoadd/deus_ex/ignorant gwailo.ogg",length=1.228}}
@@ -110,6 +120,8 @@ L["someone clear this mess away"]={{path="chatsounds/autoadd/deus_ex/someone cle
 L["son of a bitch"]={{path="chatsounds/autoadd/deus_ex/son of a bitch.ogg",length=1.228}}
 L["sticks and stones"]={{path="chatsounds/autoadd/deus_ex/sticks and stones.ogg",length=1.881}}
 L["suure"]={{path="chatsounds/autoadd/deus_ex/suure.ogg",length=0.746}}
+L["take your best shot"]={{path="chatsounds/autoadd/deus_ex/take your best shot.ogg",length=1.646}}
+L["take your best shot flatlander woman"]={{path="chatsounds/autoadd/deus_ex/take your best shot flatlander woman.ogg",length=2.064}}
 L["that hurt"]={{path="chatsounds/autoadd/deus_ex/that hurt.ogg",length=1.280}}
 L["that makes me one ugly son of a bitch"]={{path="chatsounds/autoadd/deus_ex/that makes me one ugly son of a bitch.ogg",length=1.995}}
 L["that mechanic was an imposter"]={{path="chatsounds/autoadd/deus_ex/that mechanic was an imposter.ogg",length=1.305}}
