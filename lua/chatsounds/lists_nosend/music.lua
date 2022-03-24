@@ -6,7 +6,7 @@ L["ab in den urlaub"]={{path="chatsounds/autoadd/music/ab in den urlaub.ogg",len
 L["ace of base"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["alliwantforchristmas"]={{path="chatsounds/autoadd/music/alliwantforchristmas.ogg",length=26.496}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
-L["barbra streisand loop"]={{path="chatsounds/autoadd/music/barbra streisand loop.ogg",length=15.238}}
+L["barbra streisand loop"]={{path="chatsounds/autoadd/music/barbra streisand loop.ogg",length=15.026}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
 L["bass"]={{path="chatsounds/autoadd/music/bass.ogg",length=0.408}}
 L["battle against a weird opponent"]={{path="chatsounds/autoadd/music/battle against a weird opponent.ogg",length=83.034}}
