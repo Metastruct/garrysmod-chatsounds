@@ -64,7 +64,7 @@ L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.
 L["toyota"]={{path="chatsounds/autoadd/memes/toyota/1.ogg",length=0.620},{path="chatsounds/autoadd/memes/toyota/2.ogg",length=0.662},{path="chatsounds/autoadd/memes/toyota/3.ogg",length=0.658},{path="chatsounds/autoadd/memes/toyota/4.ogg",length=0.625}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/memes/vaporwave loop.ogg",length=21.902}}
 L["voiceoverpete laugh"]={{path="chatsounds/autoadd/memes/voiceoverpete laugh.ogg",length=2.007}}
-L["want a break from the haaugh"]={{path="chatsounds/autoadd/memes/want a break from the haaugh.ogg",length=7.004}}
+L["want a break from the haaugh"]={{path="chatsounds/autoadd/memes/want a break from the haaugh.ogg",length=2.926}}
 L["well it was fucken one of yas"]={{path="chatsounds/autoadd/memes/well it was fucken one of yas.ogg",length=1.938}}
 L["well to help ben reach me all he needs your credit card three digits on the back and the expiration date"]={{path="chatsounds/autoadd/memes/well to help ben reach me all he needs your credit card three digits on the back and the expiration date.ogg",length=6.992}}
 L["why does somebody not know how u flush a toilet after theyve had a shet"]={{path="chatsounds/autoadd/memes/why does somebody not know how u flush a toilet after theyve had a shet.ogg",length=3.877}}
