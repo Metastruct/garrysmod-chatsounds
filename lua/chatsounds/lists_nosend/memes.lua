@@ -8,6 +8,7 @@ L["are ya winning son"]={{path="chatsounds/autoadd/memes/are ya winning son.ogg"
 L["are you guys going trick or treating"]={{path="chatsounds/autoadd/memes/are you guys going trick or treating.ogg",length=1.919}}
 L["arrgh eww duude wtf"]={{path="chatsounds/autoadd/memes/arrgh eww duude wtf.ogg",length=6.332}}
 L["attention all libtards"]={{path="chatsounds/autoadd/memes/attention all libtards.ogg",length=2.199}}
+L["autotune puke"]={{path="chatsounds/autoadd/memes/autotune puke.ogg",length=3.462}}
 L["aww dude youre drinking cum powder"]={{path="chatsounds/autoadd/memes/aww dude youre drinking cum powder.ogg",length=2.329}}
 L["banana screech"]={{path="chatsounds/autoadd/memes/banana screech.ogg",length=1.695}}
 L["beans"]={{path="chatsounds/autoadd/memes/beans.ogg",length=1.383}}
