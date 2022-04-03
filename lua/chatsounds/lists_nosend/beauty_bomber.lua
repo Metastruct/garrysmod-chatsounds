@@ -10,6 +10,7 @@ L["aneurysm edging"]={{path="chatsounds/autoadd/beauty_bomber/aneurysm edging.og
 L["are you gonna hand it over or not"]={{path="chatsounds/autoadd/beauty_bomber/are you gonna hand it over or not.ogg",length=2.686}}
 L["audiojungle"]={{path="chatsounds/autoadd/beauty_bomber/audiojungle.ogg",length=1.869}}
 L["awesome mmm bye"]={{path="chatsounds/autoadd/beauty_bomber/awesome mmm bye.ogg",length=6.501}}
+L["badtothebone"]={{path="chatsounds/autoadd/beauty_bomber/badtothebone.ogg",length=2.531}}
 L["bayonettacontinueno"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinueno.ogg",length=5.240}}
 L["bayonettacontinuenodeath"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinuenodeath.ogg",length=4.585}}
 L["bayonettacontinueyes"]={{path="chatsounds/autoadd/beauty_bomber/bayonettacontinueyes.ogg",length=4.984}}
