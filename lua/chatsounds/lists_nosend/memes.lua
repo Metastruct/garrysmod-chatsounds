@@ -3,6 +3,7 @@ L["216 loop"]={{path="chatsounds/autoadd/memes/216 loop.ogg",length=6.234}}
 L["360 ooga booga booga"]={{path="chatsounds/autoadd/memes/360 ooga booga booga.ogg",length=3.350}}
 L["ah fuck fuck"]={{path="chatsounds/autoadd/memes/ah fuck fuck.ogg",length=2.722}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
+L["angryhaaugh"]={{path="chatsounds/autoadd/memes/angryhaaugh.ogg",length=1.886}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/memes/arabic nokia ringtone.ogg",length=23.719}}
 L["are ya winning son"]={{path="chatsounds/autoadd/memes/are ya winning son.ogg",length=1.549}}
 L["are you guys going trick or treating"]={{path="chatsounds/autoadd/memes/are you guys going trick or treating.ogg",length=1.919}}
