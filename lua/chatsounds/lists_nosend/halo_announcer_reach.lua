@@ -2,6 +2,7 @@ c.StartList("halo_announcer_reach")
 L["double kill"]={{path="chatsounds/autoadd/halo_announcer_reach/double kill.ogg",length=1.399}}
 L["extermination"]={{path="chatsounds/autoadd/halo_announcer_reach/extermination.ogg",length=2.391}}
 L["first strike"]={{path="chatsounds/autoadd/halo_announcer_reach/first strike.ogg",length=1.660}}
+L["infected"]={{path="chatsounds/autoadd/halo_announcer_reach/infected.ogg",length=1.451}}
 L["killamanjaro"]={{path="chatsounds/autoadd/halo_announcer_reach/killamanjaro.ogg",length=1.843}}
 L["killing frenzy"]={{path="chatsounds/autoadd/halo_announcer_reach/killing frenzy.ogg",length=1.399}}
 L["killing spree"]={{path="chatsounds/autoadd/halo_announcer_reach/killing spree.ogg",length=1.399}}
