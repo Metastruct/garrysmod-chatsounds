@@ -45,9 +45,11 @@ L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.662}}
 L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.486}}
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.366}}
 L["hi im paul"]={{path="chatsounds/autoadd/misc/hi im paul.ogg",length=3.065}}
+L["holy god what are you showing me"]={{path="chatsounds/autoadd/misc/holy god what are you showing me.ogg",length=3.262}}
 L["hooolyyy jeeesuuus"]={{path="chatsounds/autoadd/misc/hooolyyy jeeesuuus.ogg",length=6.873}}
 L["how are you gentlemen all your base are belong to us"]={{path="chatsounds/autoadd/misc/how are you gentlemen all your base are belong to us.ogg",length=4.316}}
 L["hyperspace bruh"]={{path="chatsounds/autoadd/misc/hyperspace bruh.ogg",length=2.150}}
+L["i am under the water please help me"]={{path="chatsounds/autoadd/misc/i am under the water please help me.ogg",length=2.725}}
 L["i pulled a sneaky on ya"]={{path="chatsounds/autoadd/misc/i pulled a sneaky on ya.ogg",length=0.994}}
 L["is"]={{path="chatsounds/autoadd/misc/is.ogg",length=0.194}}
 L["isnt"]={{path="chatsounds/autoadd/misc/isnt.ogg",length=0.286}}
@@ -82,6 +84,7 @@ L["no one"]={{path="chatsounds/autoadd/misc/no one.ogg",length=0.366}}
 L["not in to the"]={{path="chatsounds/autoadd/misc/not in to the.ogg",length=0.615}}
 L["not in to the pit"]={{path="chatsounds/autoadd/misc/not in to the pit.ogg",length=1.137}}
 L["o kaaay"]={{path="chatsounds/autoadd/misc/o kaaay.ogg",length=1.529}}
+L["obamna"]={{path="chatsounds/autoadd/misc/obamna.ogg",length=1.927}}
 L["oh"]={{path="chatsounds/autoadd/misc/oh.ogg",length=0.176}}
 L["oh fine"]={{path="chatsounds/autoadd/misc/oh fine.ogg",length=0.789}}
 L["peace"]={{path="chatsounds/autoadd/misc/peace.ogg",length=0.222}}
@@ -103,6 +106,7 @@ L["sega"]={{path="chatsounds/autoadd/misc/sega.ogg",length=1.772}}
 L["sexrobot"]={{path="chatsounds/autoadd/misc/sexrobot.ogg",length=8.520}}
 L["she succ me"]={{path="chatsounds/autoadd/misc/she succ me.ogg",length=12.260}}
 L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.143}}
+L["soda"]={{path="chatsounds/autoadd/misc/soda.ogg",length=3.245}}
 L["sometimes i cover myself in butter and pretend im a corn dog"]={{path="chatsounds/autoadd/misc/sometimes i cover myself in butter and pretend im a corn dog.ogg",length=3.396}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.436}}
 L["super idol"]={{path="chatsounds/autoadd/misc/super idol.ogg",length=14.856}}
