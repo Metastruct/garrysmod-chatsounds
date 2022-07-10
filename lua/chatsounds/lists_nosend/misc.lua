@@ -43,6 +43,8 @@ L["elmos world"]={{path="chatsounds/autoadd/misc/elmos world.ogg",length=30.865}
 L["facebook"]={{path="chatsounds/autoadd/misc/facebook.ogg",length=0.952}}
 L["fine"]={{path="chatsounds/autoadd/misc/fine.ogg",length=0.662}}
 L["finished"]={{path="chatsounds/autoadd/misc/finished.ogg",length=0.486}}
+L["go crazy"]={{path="chatsounds/autoadd/misc/go crazy.ogg",length=0.606}}
+L["go stupid"]={{path="chatsounds/autoadd/misc/go stupid.ogg",length=0.692}}
 L["grants"]={{path="chatsounds/autoadd/misc/grants.ogg",length=0.366}}
 L["hi im paul"]={{path="chatsounds/autoadd/misc/hi im paul.ogg",length=3.065}}
 L["holy god what are you showing me"]={{path="chatsounds/autoadd/misc/holy god what are you showing me.ogg",length=3.262}}
