@@ -111,7 +111,7 @@ L["shut sound"]={{path="chatsounds/autoadd/misc/shut sound.ogg",length=3.143}}
 L["soda"]={{path="chatsounds/autoadd/misc/soda.ogg",length=3.245}}
 L["sometimes i cover myself in butter and pretend im a corn dog"]={{path="chatsounds/autoadd/misc/sometimes i cover myself in butter and pretend im a corn dog.ogg",length=3.396}}
 L["ssoouunndd"]={{path="chatsounds/autoadd/misc/ssoouunndd.ogg",length=31.436}}
-L["super idol"]={{path="chatsounds/autoadd/misc/super idol.ogg",length=14.856}}
+L["super idol"]={{path="chatsounds/autoadd/misc/super idol/1.ogg",length=14.856},{path="chatsounds/autoadd/misc/super idol/2.ogg",length=17.603}}
 L["that"]={{path="chatsounds/autoadd/misc/that.ogg",length=0.157}}
 L["that is the question"]={{path="chatsounds/autoadd/misc/that is the question.ogg",length=1.064}}
 L["the"]={{path="chatsounds/autoadd/misc/the.ogg",length=0.091},{path="chatsounds/autoadd/misc/the/1.ogg",length=0.091},{path="chatsounds/autoadd/misc/the/2.ogg",length=0.141}}
