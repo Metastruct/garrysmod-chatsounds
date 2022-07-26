@@ -20,7 +20,7 @@ L["it now subtracts where it should be from where it wasnt"]={{path="chatsounds/
 L["it obtains a difference or deviation"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/it obtains a difference or deviation.ogg",length=2.456}}
 L["it too may be corrected by the gea"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/it too may be corrected by the gea.ogg",length=2.738}}
 L["or vice versa"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/or vice versa.ogg",length=1.003}}
-L["or where it isn't from where it is"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/or where it isn't from where it is.ogg",length=2.052}}
+L["or where it isnt from where it is"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/or where it isnt from where it is.ogg",length=2.052}}
 L["the guidance subsystem uses deviations"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/the guidance subsystem uses deviations.ogg",length=2.745}}
 L["the missile guidance computer scenario works as follows"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/the missile guidance computer scenario works as follows.ogg",length=3.263}}
 L["the missile knows where it is at all times"]={{path="chatsounds/autoadd/the_missile_knows_where_it_is/the missile knows where it is at all times.ogg",length=2.799}}
