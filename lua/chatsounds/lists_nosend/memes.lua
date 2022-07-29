@@ -40,6 +40,7 @@ L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",lengt
 L["gibby fall"]={{path="chatsounds/autoadd/memes/gibby fall.ogg",length=0.917}}
 L["haaugh"]={{path="chatsounds/autoadd/memes/haaugh/1.ogg",length=2.390},{path="chatsounds/autoadd/memes/haaugh/2.ogg",length=2.182},{path="chatsounds/autoadd/memes/haaugh/3.ogg",length=1.564}}
 L["hands"]={{path="chatsounds/autoadd/memes/hands.ogg",length=0.828}}
+L["huh"]={{path="chatsounds/autoadd/memes/huh.ogg",length=0.383}}
 L["i am here today doing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today doing the worlds loudest scream.ogg",length=2.774}}
 L["i got a new roach"]={{path="chatsounds/autoadd/memes/i got a new roach.ogg",length=1.023}}
 L["i like"]={{path="chatsounds/autoadd/memes/i like.ogg",length=0.688}}
