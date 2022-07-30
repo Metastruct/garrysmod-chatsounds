@@ -3,6 +3,7 @@ L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["eurobeat yuri"]={{path="chatsounds/autoadd/anime/eurobeat yuri.ogg",length=26.348}}
+L["fuck you"]={{path="chatsounds/autoadd/anime/fuck you.ogg",length=1.796}}
 L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
