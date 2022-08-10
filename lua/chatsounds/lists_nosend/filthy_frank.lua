@@ -38,6 +38,7 @@ L["filthy frank"]={{path="chatsounds/autoadd/filthy_frank/filthy frank/1.ogg",le
 L["filthy prank"]={{path="chatsounds/autoadd/filthy_frank/filthy prank.ogg",length=1.315}}
 L["first ill have to get a job"]={{path="chatsounds/autoadd/filthy_frank/first ill have to get a job.ogg",length=1.797}}
 L["first you grab an orange"]={{path="chatsounds/autoadd/filthy_frank/first you grab an orange.ogg",length=2.171}}
+L["follow your dreams son"]={{path="chatsounds/autoadd/filthy_frank/follow your dreams son.ogg",length=2.017}}
 L["frank throw me in the river so that i can be at peace"]={{path="chatsounds/autoadd/filthy_frank/frank throw me in the river so that i can be at peace.ogg",length=3.858}}
 L["franksegue"]={{path="chatsounds/autoadd/filthy_frank/franksegue/franksegue1.ogg",length=14.341},{path="chatsounds/autoadd/filthy_frank/franksegue/franksegue2.ogg",length=9.634}}
 L["get laid"]={{path="chatsounds/autoadd/filthy_frank/get laid.ogg",length=0.795}}
