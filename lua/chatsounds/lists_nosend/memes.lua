@@ -86,6 +86,7 @@ L["sweaty speedrun"]={{path="chatsounds/autoadd/memes/sweaty speedrun.ogg",lengt
 L["sweaty speedrunmusic"]={{path="chatsounds/autoadd/memes/sweaty speedrunmusic.ogg",length=32.117}}
 L["table break"]={{path="chatsounds/autoadd/memes/table break/tablebreak1.ogg",length=0.876},{path="chatsounds/autoadd/memes/table break/tablebreak2.ogg",length=3.448}}
 L["tacobell bell"]={{path="chatsounds/autoadd/memes/tacobell bell.ogg",length=1.722}}
+L["the balls harden"]={{path="chatsounds/autoadd/memes/the balls harden.ogg",length=0.982}}
 L["the co monkeys at our headquarters are working"]={{path="chatsounds/autoadd/memes/the co monkeys at our headquarters are working.ogg",length=2.029}}
 L["this is epic"]={{path="chatsounds/autoadd/memes/this is epic.ogg",length=1.200}}
 L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.394}}
