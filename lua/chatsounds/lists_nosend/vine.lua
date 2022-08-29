@@ -24,6 +24,7 @@ L["now watch this this will blow your freaking mind"]={{path="chatsounds/autoadd
 L["nownownownownow nownownownownow yes"]={{path="chatsounds/autoadd/vine/nownownownownow nownownownownow yes.ogg",length=3.174}}
 L["officer i got one question for you"]={{path="chatsounds/autoadd/vine/officer i got one question for you.ogg",length=1.702}}
 L["ooooooo"]={{path="chatsounds/autoadd/vine/ooooooo.ogg",length=0.698}}
+L["prank em john"]={{path="chatsounds/autoadd/vine/prank em john.ogg",length=0.900}}
 L["pussy"]={{path="chatsounds/autoadd/vine/pussy.ogg",length=0.701}}
 L["shawtys like a melody in my head that i cant keep out got me singin like"]={{path="chatsounds/autoadd/vine/shawtys like a melody in my head that i cant keep out got me singin like.ogg",length=9.749}}
 L["shit"]={{path="chatsounds/autoadd/vine/shit.ogg",length=0.391}}
