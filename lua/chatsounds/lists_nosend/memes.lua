@@ -61,6 +61,7 @@ L["like scoob what is your favorite thing to do on the weekends"]={{path="chatso
 L["mixed race couple"]={{path="chatsounds/autoadd/memes/mixed race couple.ogg",length=1.710}}
 L["mlg xfiles"]={{path="chatsounds/autoadd/memes/mlg xfiles.ogg",length=38.582}}
 L["music make you lose control music make you lose control"]={{path="chatsounds/autoadd/memes/music make you lose control music make you lose control.ogg",length=6.920}}
+L["my moustache has deemed that you get my wario steam"]={{path="chatsounds/autoadd/memes/my moustache has deemed that you get my wario steam.ogg",length=5.127}}
 L["now this is epic"]={{path="chatsounds/autoadd/memes/now this is epic.ogg",length=2.900}}
 L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
 L["oh no"]={{path="chatsounds/autoadd/memes/oh no.ogg",length=1.027}}
