@@ -162,6 +162,7 @@ L["wh"]={{path="chatsounds/autoadd/spongebob/wh.ogg",length=0.618}}
 L["what did you say punk"]={{path="chatsounds/autoadd/spongebob/what did you say punk.ogg",length=2.201}}
 L["what does claustrophobic mean"]={{path="chatsounds/autoadd/spongebob/what does claustrophobic mean.ogg",length=1.570}}
 L["what kind of place is this"]={{path="chatsounds/autoadd/spongebob/what kind of place is this.ogg",length=3.629}}
+L["what the flim flam"]={{path="chatsounds/autoadd/spongebob/what the flim flam.ogg",length=1.232}}
 L["whatll it be fellas"]={{path="chatsounds/autoadd/spongebob/whatll it be fellas.ogg",length=1.108}}
 L["whatll ya have"]={{path="chatsounds/autoadd/spongebob/whatll ya have.ogg",length=0.945}}
 L["whats the matter"]={{path="chatsounds/autoadd/spongebob/whats the matter.ogg",length=1.093}}
