@@ -50,6 +50,7 @@ L["jungle where dreams are made of"]={{path="chatsounds/autoadd/music/jungle whe
 L["let the bodies hit the floor"]={{path="chatsounds/autoadd/music/let the bodies hit the floor.ogg",length=1.837}}
 L["lone digger loop"]={{path="chatsounds/autoadd/music/lone digger loop.ogg",length=46.452}}
 L["lord macintosh plus"]={{path="chatsounds/autoadd/music/lord macintosh plus/1.ogg",length=64.838},{path="chatsounds/autoadd/music/lord macintosh plus/2.ogg",length=60.148},{path="chatsounds/autoadd/music/lord macintosh plus/3.ogg",length=60.604},{path="chatsounds/autoadd/music/lord macintosh plus/4.ogg",length=60.669},{path="chatsounds/autoadd/music/lord macintosh plus/5.ogg",length=77.832}}
+L["mf doom"]={{path="chatsounds/autoadd/music/mf doom.ogg",length=1.021}}
 L["moonthemefull"]={{path="chatsounds/autoadd/music/moonthemefull.ogg",length=92.500}}
 L["mr skeltal anthem"]={{path="chatsounds/autoadd/music/mr skeltal anthem.ogg",length=21.162}}
 L["musicbox"]={{path="chatsounds/autoadd/music/musicbox.ogg",length=23.800}}
