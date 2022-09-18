@@ -31,6 +31,7 @@ L["dobby pussy indulgence"]={{path="chatsounds/autoadd/memes/dobby pussy indulge
 L["dont you lecture me with your thirty dollar haircut"]={{path="chatsounds/autoadd/memes/dont you lecture me with your thirty dollar haircut.ogg",length=3.082}}
 L["easy"]={{path="chatsounds/autoadd/memes/easy.ogg",length=0.562}}
 L["eating sounds"]={{path="chatsounds/autoadd/memes/eating sounds.ogg",length=0.667}}
+L["emotional damage"]={{path="chatsounds/autoadd/memes/emotional damage.ogg",length=2.227}}
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
@@ -38,12 +39,14 @@ L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
 L["french"]={{path="chatsounds/autoadd/memes/french.ogg",length=5.494}}
 L["frijoles de la olla"]={{path="chatsounds/autoadd/memes/frijoles de la olla.ogg",length=2.252}}
+L["fuck off"]={{path="chatsounds/autoadd/memes/fuck off.ogg",length=1.401}}
 L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.697}}
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
 L["gibby fall"]={{path="chatsounds/autoadd/memes/gibby fall.ogg",length=0.917}}
 L["go"]={{path="chatsounds/autoadd/memes/go.ogg",length=0.341}}
+L["ha gay"]={{path="chatsounds/autoadd/memes/ha gay.ogg",length=2.842}}
 L["haaugh"]={{path="chatsounds/autoadd/memes/haaugh/1.ogg",length=2.390},{path="chatsounds/autoadd/memes/haaugh/2.ogg",length=2.182},{path="chatsounds/autoadd/memes/haaugh/3.ogg",length=1.564}}
 L["hands"]={{path="chatsounds/autoadd/memes/hands.ogg",length=0.828}}
 L["hanji"]={{path="chatsounds/autoadd/memes/hanji.ogg",length=4.640}}
@@ -58,11 +61,16 @@ L["i said whoever threw that paper your moms a hoe"]={{path="chatsounds/autoadd/
 L["i want you to relax"]={{path="chatsounds/autoadd/memes/i want you to relax.ogg",length=1.467}}
 L["if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh"]={{path="chatsounds/autoadd/memes/if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh.ogg",length=7.004}}
 L["if you tap now to watch a haaugh"]={{path="chatsounds/autoadd/memes/if you tap now to watch a haaugh.ogg",length=2.462}}
+L["if youre homeless"]={{path="chatsounds/autoadd/memes/if youre homeless.ogg",length=1.838}}
+L["if youre homeless just buy a house"]={{path="chatsounds/autoadd/memes/if youre homeless just buy a house.ogg",length=4.918}}
 L["im going to punch your face in the face"]={{path="chatsounds/autoadd/memes/im going to punch your face in the face.ogg",length=7.728}}
 L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
+L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
+L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
+L["kurz kacken"]={{path="chatsounds/autoadd/memes/kurz kacken.ogg",length=3.227}}
 L["le monke"]={{path="chatsounds/autoadd/memes/le monke.ogg",length=59.507}}
 L["lemon"]={{path="chatsounds/autoadd/memes/lemon.ogg",length=0.766}}
 L["like scoob what is your favorite thing to do on the weekends"]={{path="chatsounds/autoadd/memes/like scoob what is your favorite thing to do on the weekends.ogg",length=5.181}}
@@ -88,6 +96,7 @@ L["our table"]={{path="chatsounds/autoadd/memes/our table.ogg",length=0.995}}
 L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.834}}
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["please"]={{path="chatsounds/autoadd/memes/please.ogg",length=0.571}}
+L["power armor is for pussies"]={{path="chatsounds/autoadd/memes/power armor is for pussies.ogg",length=2.285}}
 L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["roses"]={{path="chatsounds/autoadd/memes/roses.ogg",length=0.735}}
@@ -116,6 +125,7 @@ L["three two one"]={{path="chatsounds/autoadd/memes/three two one.ogg",length=2.
 L["to fix this"]={{path="chatsounds/autoadd/memes/to fix this.ogg",length=1.201}}
 L["toyota"]={{path="chatsounds/autoadd/memes/toyota/1.ogg",length=0.620},{path="chatsounds/autoadd/memes/toyota/2.ogg",length=0.662},{path="chatsounds/autoadd/memes/toyota/3.ogg",length=0.658},{path="chatsounds/autoadd/memes/toyota/4.ogg",length=0.625}}
 L["two minds equaling one fiery mind"]={{path="chatsounds/autoadd/memes/two minds equaling one fiery mind.ogg",length=4.905}}
+L["uhm if youre homeless just buy a house duh"]={{path="chatsounds/autoadd/memes/uhm if youre homeless just buy a house duh.ogg",length=9.000}}
 L["uwah"]={{path="chatsounds/autoadd/memes/uwah.ogg",length=0.674}}
 L["uwuh"]={{path="chatsounds/autoadd/memes/uwuh.ogg",length=0.422}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/memes/vaporwave loop.ogg",length=21.902}}
@@ -135,6 +145,7 @@ L["why does somebody not know how u flush a toilet after theyve had a shet"]={{p
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
 L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
 L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
+L["you cant park that there mate"]={{path="chatsounds/autoadd/memes/you cant park that there mate.ogg",length=1.784}}
 L["you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out"]={{path="chatsounds/autoadd/memes/you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out.ogg",length=6.492}}
 L["youll recieve 30 minutes of haaugh yes really"]={{path="chatsounds/autoadd/memes/youll recieve 30 minutes of haaugh yes really.ogg",length=3.908}}
 L["your mother hung herself graah"]={{path="chatsounds/autoadd/memes/your mother hung herself graah.ogg",length=2.610}}
