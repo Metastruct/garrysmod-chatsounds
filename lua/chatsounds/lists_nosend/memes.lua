@@ -19,6 +19,7 @@ L["banana screech"]={{path="chatsounds/autoadd/memes/banana screech.ogg",length=
 L["beans"]={{path="chatsounds/autoadd/memes/beans.ogg",length=1.383}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
+L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
 L["chuckling stop"]={{path="chatsounds/autoadd/memes/chuckling stop.ogg",length=1.759}}
 L["crazybus remix"]={{path="chatsounds/autoadd/memes/crazybus remix.ogg",length=24.018}}
 L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
