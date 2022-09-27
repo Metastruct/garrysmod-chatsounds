@@ -38,8 +38,6 @@ L["hackerman"]={{path="chatsounds/autoadd/random_shit/hackerman.ogg",length=0.74
 L["hah gay"]={{path="chatsounds/autoadd/random_shit/hah gay.ogg",length=2.791}}
 L["hello internet welcome to gay"]={{path="chatsounds/autoadd/random_shit/hello internet welcome to gay.ogg",length=3.585}}
 L["hes the most powerful hacker of all time"]={{path="chatsounds/autoadd/random_shit/hes the most powerful hacker of all time.ogg",length=2.367}}
-L["hey joe"]={{path="chatsounds/autoadd/random_shit/hey joe.ogg",length=0.465}}
-L["hey peter"]={{path="chatsounds/autoadd/random_shit/hey peter.ogg",length=0.739}}
 L["holy shietuh"]={{path="chatsounds/autoadd/random_shit/holy shietuh.ogg",length=2.020}}
 L["how"]={{path="chatsounds/autoadd/random_shit/how.ogg",length=4.466}}
 L["how do i get speed"]={{path="chatsounds/autoadd/random_shit/how do i get speed.ogg",length=1.561}}
