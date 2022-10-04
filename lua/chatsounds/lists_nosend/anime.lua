@@ -1,5 +1,6 @@
 c.StartList("anime")
 L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
+L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["eurobeat yuri"]={{path="chatsounds/autoadd/anime/eurobeat yuri.ogg",length=26.348}}
