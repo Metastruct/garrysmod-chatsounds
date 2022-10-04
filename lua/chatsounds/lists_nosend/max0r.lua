@@ -1,6 +1,6 @@
 c.StartList("max0r")
 L["ahoy me maties it be me captain torres"]={{path="chatsounds/autoadd/max0r/ahoy me maties it be me captain torres.ogg",length=2.412}}
-L["and im here to tell you that you can prevent like 99 point 9 percent of wars by nuking the capital of osea"]={{path="chatsounds/autoadd/max0r/and im here to tell you that you can prevent like 99 point 9 percent of wars by nuking the capital of osea.ogg",length=4.513}}
+L["and im here to tell you that you can prevent like 99 percent of all wars by nuking the capital of osea"]={{path="chatsounds/autoadd/max0r/and im here to tell you that you can prevent like 99 percent of all wars by nuking the capital of osea.ogg",length=4.513}}
 L["for salvation we fight and the truth we know"]={{path="chatsounds/autoadd/max0r/for salvation we fight and the truth we know.ogg",length=2.562}}
 L["fuck i missed"]={{path="chatsounds/autoadd/max0r/fuck i missed.ogg",length=0.887}}
 L["i learned about ye knowledge while stuck under the sea for 698 days"]={{path="chatsounds/autoadd/max0r/i learned about ye knowledge while stuck under the sea for 698 days.ogg",length=3.803}}
