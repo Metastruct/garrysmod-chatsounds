@@ -10,6 +10,7 @@ Chat sounds system for Garry's Mod (with extra sounds)
  - **Please report any remaining offensive or otherwise GitHub AUP violating sounds you might find by creating a new issue!**
 
 ## How to install
+### Installing is not necessary to hear the sounds if the server has [neo-chatsounds](https://github.com/Earu/neo-chatsounds) installed
  - Install a git client ([GitKraken](https://www.gitkraken.com) or [GitHub Dekstop](https://desktop.github.com)) or use the [command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
  - Git clone https://github.com/Metastruct/garrysmod-chatsounds.git into your addons folder
  - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder
@@ -24,7 +25,7 @@ Chat sounds system for Garry's Mod (with extra sounds)
 </details>
 
 ## How to install on server
-Git clone or download zip of https://github.com/metastruct/notagain. This allows players not to have to download the entire repo to use chatsounds.
+Git clone or download zip of https://github.com/Earu/neo-chatsounds. This allows players not to have to download the entire repo to use chatsounds.
 
 <details>
  <summary>Old method</summary>
@@ -42,5 +43,5 @@ Git clone or download zip of https://github.com/metastruct/notagain. This allows
  
 If you do not understand, you can ask people who have already added sounds to add them for you.
 
-## Want to preview or link sounds over the Web?
- - Check out the Web version [here](http://cs.3kv.in/). (updates every 30 mins.)
+## Want to preview or share sounds over the Web?
+ - Check out the Web version [here](https://cs.spiralp.xyz/).
