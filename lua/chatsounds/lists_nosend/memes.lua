@@ -4,6 +4,7 @@ L["360 ooga booga booga"]={{path="chatsounds/autoadd/memes/360 ooga booga booga.
 L["aa"]={{path="chatsounds/autoadd/memes/aa.ogg",length=0.653}}
 L["ah fuck fuck"]={{path="chatsounds/autoadd/memes/ah fuck fuck.ogg",length=2.722}}
 L["alright guys guys check it out what im about to do is apply mind manipulation"]={{path="chatsounds/autoadd/memes/alright guys guys check it out what im about to do is apply mind manipulation.ogg",length=4.220}}
+L["and getting many victory royales"]={{path="chatsounds/autoadd/memes/and getting many victory royales.ogg",length=2.194}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
 L["angryhaaugh"]={{path="chatsounds/autoadd/memes/angryhaaugh.ogg",length=1.886}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/memes/arabic nokia ringtone.ogg",length=23.719}}
@@ -18,10 +19,15 @@ L["back at it again with the white vans"]={{path="chatsounds/autoadd/memes/back 
 L["banana screech"]={{path="chatsounds/autoadd/memes/banana screech.ogg",length=1.695}}
 L["beans"]={{path="chatsounds/autoadd/memes/beans.ogg",length=1.383}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
+L["bought some croissants"]={{path="chatsounds/autoadd/memes/bought some croissants.ogg",length=2.260}}
+L["bro she might have made beans but you forgot about the macaroni and cheese what the fuck"]={{path="chatsounds/autoadd/memes/bro she might have made beans but you forgot about the macaroni and cheese what the fuck.ogg",length=5.832}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
 L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
+L["cause jordan never did that move"]={{path="chatsounds/autoadd/memes/cause jordan never did that move.ogg",length=2.113}}
+L["cheddar cheese brbrbrbrbr"]={{path="chatsounds/autoadd/memes/cheddar cheese brbrbrbrbr.ogg",length=3.133}}
 L["chuckling stop"]={{path="chatsounds/autoadd/memes/chuckling stop.ogg",length=1.759}}
 L["crazybus remix"]={{path="chatsounds/autoadd/memes/crazybus remix.ogg",length=24.018}}
+L["cream of mushrooms"]={{path="chatsounds/autoadd/memes/cream of mushrooms.ogg",length=1.997}}
 L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["cumrage"]={{path="chatsounds/autoadd/memes/cumrage.ogg",length=5.717}}
@@ -38,6 +44,7 @@ L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
 L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
+L["for ukraine"]={{path="chatsounds/autoadd/memes/for ukraine.ogg",length=0.810}}
 L["french"]={{path="chatsounds/autoadd/memes/french.ogg",length=5.494}}
 L["frijoles de la olla"]={{path="chatsounds/autoadd/memes/frijoles de la olla.ogg",length=2.252}}
 L["fuck off"]={{path="chatsounds/autoadd/memes/fuck off.ogg",length=1.401}}
@@ -52,9 +59,15 @@ L["haaugh"]={{path="chatsounds/autoadd/memes/haaugh/1.ogg",length=2.390},{path="
 L["hands"]={{path="chatsounds/autoadd/memes/hands.ogg",length=0.828}}
 L["hanji"]={{path="chatsounds/autoadd/memes/hanji.ogg",length=4.640}}
 L["helikopter helikopter"]={{path="chatsounds/autoadd/memes/helikopter helikopter.ogg",length=3.462}}
+L["hitting the griddy"]={{path="chatsounds/autoadd/memes/hitting the griddy.ogg",length=1.062}}
+L["hmm creamy italian"]={{path="chatsounds/autoadd/memes/hmm creamy italian.ogg",length=2.798}}
 L["huh"]={{path="chatsounds/autoadd/memes/huh.ogg",length=0.383}}
+L["i am currently"]={{path="chatsounds/autoadd/memes/i am currently.ogg",length=1.091}}
 L["i am here today doing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today doing the worlds loudest scream.ogg",length=2.774}}
+L["i could probably beat you in a 1v1"]={{path="chatsounds/autoadd/memes/i could probably beat you in a 1v1.ogg",length=2.308}}
 L["i got a new roach"]={{path="chatsounds/autoadd/memes/i got a new roach.ogg",length=1.023}}
+L["i got the honey"]={{path="chatsounds/autoadd/memes/i got the honey.ogg",length=1.483}}
+L["i hope you are scared"]={{path="chatsounds/autoadd/memes/i hope you are scared.ogg",length=1.265}}
 L["i like"]={{path="chatsounds/autoadd/memes/i like.ogg",length=0.688}}
 L["i like it embodied in my ass while i play overwatch"]={{path="chatsounds/autoadd/memes/i like it embodied in my ass while i play overwatch.ogg",length=2.644}}
 L["i said no"]={{path="chatsounds/autoadd/memes/i said no.ogg",length=1.741}}
@@ -74,10 +87,12 @@ L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
 L["kurz kacken"]={{path="chatsounds/autoadd/memes/kurz kacken.ogg",length=3.227}}
 L["le monke"]={{path="chatsounds/autoadd/memes/le monke.ogg",length=59.507}}
 L["lemon"]={{path="chatsounds/autoadd/memes/lemon.ogg",length=0.766}}
+L["let me pluck pluck pluck"]={{path="chatsounds/autoadd/memes/let me pluck pluck pluck.ogg",length=1.965}}
 L["like scoob what is your favorite thing to do on the weekends"]={{path="chatsounds/autoadd/memes/like scoob what is your favorite thing to do on the weekends.ogg",length=5.181}}
 L["look again"]={{path="chatsounds/autoadd/memes/look again.ogg",length=0.873}}
 L["look down"]={{path="chatsounds/autoadd/memes/look down.ogg",length=0.685}}
 L["look down nathan"]={{path="chatsounds/autoadd/memes/look down nathan.ogg",length=1.055}}
+L["mitsubishi materials"]={{path="chatsounds/autoadd/memes/mitsubishi materials.ogg",length=2.678}}
 L["mixed race couple"]={{path="chatsounds/autoadd/memes/mixed race couple.ogg",length=1.710}}
 L["mlg xfiles"]={{path="chatsounds/autoadd/memes/mlg xfiles.ogg",length=38.582}}
 L["music make you lose control music make you lose control"]={{path="chatsounds/autoadd/memes/music make you lose control music make you lose control.ogg",length=6.920}}
@@ -87,8 +102,13 @@ L["nathan"]={{path="chatsounds/autoadd/memes/nathan.ogg",length=0.524}}
 L["nathansganglaughing"]={{path="chatsounds/autoadd/memes/nathansganglaughing.ogg",length=7.183}}
 L["nathansganglaughingatnathancuznathancuznathangotcuminhismouth"]={{path="chatsounds/autoadd/memes/nathansganglaughingatnathancuznathancuznathangotcuminhismouth.ogg",length=26.851}}
 L["now this is epic"]={{path="chatsounds/autoadd/memes/now this is epic.ogg",length=2.900}}
+L["nutellaaaaaaa"]={{path="chatsounds/autoadd/memes/nutellaaaaaaa.ogg",length=2.391}}
+L["oh brother whos that on the logo"]={{path="chatsounds/autoadd/memes/oh brother whos that on the logo.ogg",length=1.777}}
 L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
+L["oh mah gawd noo wayayeei"]={{path="chatsounds/autoadd/memes/oh mah gawd noo wayayeei.ogg",length=3.854}}
+L["oh my gawd noo waayeeayeeayeeyaaay"]={{path="chatsounds/autoadd/memes/oh my gawd noo waayeeayeeayeeyaaay.ogg",length=4.989}}
 L["oh no"]={{path="chatsounds/autoadd/memes/oh no.ogg",length=1.027}}
+L["oh oh oooh gah dayum ha ha"]={{path="chatsounds/autoadd/memes/oh oh oooh gah dayum ha ha.ogg",length=4.350}}
 L["oh shit he just busted a nut"]={{path="chatsounds/autoadd/memes/oh shit he just busted a nut.ogg",length=2.390}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}
 L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",length=5.052}}
@@ -132,8 +152,10 @@ L["uwah"]={{path="chatsounds/autoadd/memes/uwah.ogg",length=0.674}}
 L["uwuh"]={{path="chatsounds/autoadd/memes/uwuh.ogg",length=0.422}}
 L["vaporwave loop"]={{path="chatsounds/autoadd/memes/vaporwave loop.ogg",length=21.902}}
 L["vewy hard"]={{path="chatsounds/autoadd/memes/vewy hard.ogg",length=0.852}}
+L["vladimir putin"]={{path="chatsounds/autoadd/memes/vladimir putin.ogg",length=1.158}}
 L["voiceoverpete laugh"]={{path="chatsounds/autoadd/memes/voiceoverpete laugh.ogg",length=2.007}}
 L["want a break from the haaugh"]={{path="chatsounds/autoadd/memes/want a break from the haaugh.ogg",length=2.926}}
+L["we are getting wins for ukraine in fortnite"]={{path="chatsounds/autoadd/memes/we are getting wins for ukraine in fortnite.ogg",length=3.226}}
 L["we are over"]={{path="chatsounds/autoadd/memes/we are over.ogg",length=0.691}}
 L["we made a"]={{path="chatsounds/autoadd/memes/we made a.ogg",length=0.491}}
 L["well it was fucken one of yas"]={{path="chatsounds/autoadd/memes/well it was fucken one of yas.ogg",length=1.938}}
@@ -143,14 +165,21 @@ L["were done"]={{path="chatsounds/autoadd/memes/were done.ogg",length=0.476}}
 L["whats gibby thinking about"]={{path="chatsounds/autoadd/memes/whats gibby thinking about.ogg",length=4.696}}
 L["whats your name"]={{path="chatsounds/autoadd/memes/whats your name.ogg",length=0.517}}
 L["whered it go"]={{path="chatsounds/autoadd/memes/whered it go.ogg",length=0.692}}
+L["who is that coming off the goddamn pick and roll there boy"]={{path="chatsounds/autoadd/memes/who is that coming off the goddamn pick and roll there boy.ogg",length=4.079}}
 L["why does somebody not know how u flush a toilet after theyve had a shet"]={{path="chatsounds/autoadd/memes/why does somebody not know how u flush a toilet after theyve had a shet.ogg",length=3.877}}
+L["wooh what the heeeeeeeeeeeeeeeeeeeell"]={{path="chatsounds/autoadd/memes/wooh what the heeeeeeeeeeeeeeeeeeeell.ogg",length=7.133}}
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
 L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
 L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
+L["yo pierre you wanna come out here"]={{path="chatsounds/autoadd/memes/yo pierre you wanna come out here.ogg",length=4.011}}
+L["you better be scared"]={{path="chatsounds/autoadd/memes/you better be scared.ogg",length=1.787}}
 L["you cant park that there mate"]={{path="chatsounds/autoadd/memes/you cant park that there mate.ogg",length=1.784}}
+L["you may got the honey but i got the sugar"]={{path="chatsounds/autoadd/memes/you may got the honey but i got the sugar.ogg",length=2.852}}
+L["you may got those but i got the creamy peanut butter"]={{path="chatsounds/autoadd/memes/you may got those but i got the creamy peanut butter.ogg",length=2.655}}
 L["you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out"]={{path="chatsounds/autoadd/memes/you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out.ogg",length=6.492}}
 L["youll recieve 30 minutes of haaugh yes really"]={{path="chatsounds/autoadd/memes/youll recieve 30 minutes of haaugh yes really.ogg",length=3.908}}
 L["your mother hung herself graah"]={{path="chatsounds/autoadd/memes/your mother hung herself graah.ogg",length=2.610}}
 L["your procelane"]={{path="chatsounds/autoadd/memes/your procelane.ogg",length=1.055}}
 L["youre scaring me"]={{path="chatsounds/autoadd/memes/youre scaring me.ogg",length=1.229}}
+L["yung money clan and i"]={{path="chatsounds/autoadd/memes/yung money clan and i.ogg",length=1.842}}
 c.EndList()
