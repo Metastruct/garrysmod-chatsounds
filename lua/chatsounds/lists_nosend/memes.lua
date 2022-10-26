@@ -188,4 +188,5 @@ L["your mother hung herself graah"]={{path="chatsounds/autoadd/memes/your mother
 L["your procelane"]={{path="chatsounds/autoadd/memes/your procelane.ogg",length=1.055}}
 L["youre scaring me"]={{path="chatsounds/autoadd/memes/youre scaring me.ogg",length=1.229}}
 L["yung money clan and i"]={{path="chatsounds/autoadd/memes/yung money clan and i.ogg",length=1.842}}
+L["zerro"]={{path="chatsounds/autoadd/memes/zerro.ogg",length=0.945}}
 c.EndList()
