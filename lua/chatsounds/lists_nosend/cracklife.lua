@@ -5,11 +5,14 @@ L["and nobody in here is a normal person"]={{path="chatsounds/autoadd/cracklife/
 L["and welcome to black mesa"]={{path="chatsounds/autoadd/cracklife/and welcome to black mesa.ogg",length=1.767}}
 L["autismtown"]={{path="chatsounds/autoadd/cracklife/autismtown.ogg",length=35.886}}
 L["banditradio"]={{path="chatsounds/autoadd/cracklife/banditradio.ogg",length=113.476}}
+L["bodydrop"]={{path="chatsounds/autoadd/cracklife/bodydrop.ogg",length=0.930}}
+L["bodysplat"]={{path="chatsounds/autoadd/cracklife/bodysplat.ogg",length=1.278}}
 L["crack need human body parts"]={{path="chatsounds/autoadd/cracklife/crack need human body parts.ogg",length=3.965}}
 L["cracklife developer comment"]={{path="chatsounds/autoadd/cracklife/cracklife developer comment.ogg",length=24.364}}
 L["cracklife door"]={{path="chatsounds/autoadd/cracklife/cracklife door.ogg",length=2.949}}
 L["cracklife door close"]={{path="chatsounds/autoadd/cracklife/cracklife door close.ogg",length=1.477}}
 L["cracklife huge door"]={{path="chatsounds/autoadd/cracklife/cracklife huge door.ogg",length=14.680}}
+L["cracklifescideath"]={{path="chatsounds/autoadd/cracklife/cracklifescideath.ogg",length=1.986}}
 L["cracksong"]={{path="chatsounds/autoadd/cracklife/cracksong.ogg",length=28.096}}
 L["dance of the manwhore"]={{path="chatsounds/autoadd/cracklife/dance of the manwhore.ogg",length=28.096}}
 L["except me"]={{path="chatsounds/autoadd/cracklife/except me.ogg",length=0.987}}

@@ -23,6 +23,7 @@ L["bought some croissants"]={{path="chatsounds/autoadd/memes/bought some croissa
 L["bro she might have made beans but you forgot about the macaroni and cheese what the fuck"]={{path="chatsounds/autoadd/memes/bro she might have made beans but you forgot about the macaroni and cheese what the fuck.ogg",length=5.832}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
 L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
+L["calm1"]={{path="chatsounds/autoadd/memes/calm1.ogg",length=14.785}}
 L["cause jordan never did that move"]={{path="chatsounds/autoadd/memes/cause jordan never did that move.ogg",length=2.113}}
 L["cheddar cheese brbrbrbrbr"]={{path="chatsounds/autoadd/memes/cheddar cheese brbrbrbrbr.ogg",length=3.133}}
 L["chuckling stop"]={{path="chatsounds/autoadd/memes/chuckling stop.ogg",length=1.759}}
@@ -43,6 +44,7 @@ L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
 L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
+L["flip"]={{path="chatsounds/autoadd/memes/flip.ogg",length=7.471}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
 L["for ukraine"]={{path="chatsounds/autoadd/memes/for ukraine.ogg",length=0.810}}
 L["french"]={{path="chatsounds/autoadd/memes/french.ogg",length=5.494}}
@@ -111,6 +113,7 @@ L["oh no"]={{path="chatsounds/autoadd/memes/oh no.ogg",length=1.027}}
 L["oh oh oooh gah dayum ha ha"]={{path="chatsounds/autoadd/memes/oh oh oooh gah dayum ha ha.ogg",length=4.350}}
 L["oh shit he just busted a nut"]={{path="chatsounds/autoadd/memes/oh shit he just busted a nut.ogg",length=2.390}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}
+L["omg oooh"]={{path="chatsounds/autoadd/memes/omg oooh.ogg",length=3.318}}
 L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",length=5.052}}
 L["oopsie"]={{path="chatsounds/autoadd/memes/oopsie.ogg",length=0.570}}
 L["oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this"]={{path="chatsounds/autoadd/memes/oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this.ogg",length=10.261}}
@@ -123,6 +126,7 @@ L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["roses"]={{path="chatsounds/autoadd/memes/roses.ogg",length=0.735}}
 L["russian sneeze"]={{path="chatsounds/autoadd/memes/russian sneeze.ogg",length=4.575}}
+L["sadd"]={{path="chatsounds/autoadd/memes/sadd.ogg",length=6.870}}
 L["scooby noises"]={{path="chatsounds/autoadd/memes/scooby noises.ogg",length=13.485}}
 L["sdusty man"]={{path="chatsounds/autoadd/memes/sdusty man.ogg",length=1.359}}
 L["share my thoughts"]={{path="chatsounds/autoadd/memes/share my thoughts.ogg",length=1.921}}
@@ -172,6 +176,7 @@ L["wooh what the heeeeeeeeeeeeeeeeeeeell"]={{path="chatsounds/autoadd/memes/wooh
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
 L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
 L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
+L["yesss"]={{path="chatsounds/autoadd/memes/yesss.ogg",length=6.038}}
 L["yo pierre you wanna come out here"]={{path="chatsounds/autoadd/memes/yo pierre you wanna come out here.ogg",length=4.011}}
 L["you better be scared"]={{path="chatsounds/autoadd/memes/you better be scared.ogg",length=1.787}}
 L["you cant park that there mate"]={{path="chatsounds/autoadd/memes/you cant park that there mate.ogg",length=1.784}}
