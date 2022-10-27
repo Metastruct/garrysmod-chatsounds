@@ -73,6 +73,8 @@ L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardba
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
 L["stranger things"]={{path="chatsounds/autoadd/music/stranger things.ogg",length=58.227}}
 L["tetrisloop"]={{path="chatsounds/autoadd/music/tetrisloop.ogg",length=25.592}}
+L["the brain indicatif loop"]={{path="chatsounds/autoadd/music/the brain indicatif loop.ogg",length=8.902}}
+L["the brain indicatif loop distorted"]={{path="chatsounds/autoadd/music/the brain indicatif loop distorted.ogg",length=8.778}}
 L["thenitgo"]={{path="chatsounds/autoadd/music/thenitgo.ogg",length=19.062}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
 L["thuglife"]={{path="chatsounds/autoadd/music/thuglife.ogg",length=9.540}}
