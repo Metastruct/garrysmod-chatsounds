@@ -111,7 +111,7 @@ L["blubber"]={{path="chatsounds/autoadd/instagib/blubber.ogg",length=2.608}}
 L["blubel"]={{path="chatsounds/autoadd/instagib/blubel.ogg",length=0.500}}
 L["blut"]={{path="chatsounds/autoadd/instagib/blut.ogg",length=3.188}}
 L["blute"]={{path="chatsounds/autoadd/instagib/blute.ogg",length=1.500}}
-L["boah ey ich loose so ab"]={{path="chatsounds/autoadd/instagib/boah ey ich loose so ab.ogg",length=1.819}}
+L["boah ey ich lose so ab"]={{path="chatsounds/autoadd/instagib/boah ey ich lose so ab.ogg",length=1.819}}
 L["bock"]={{path="chatsounds/autoadd/instagib/bock.ogg",length=4.290}}
 L["bockmist"]={{path="chatsounds/autoadd/instagib/bockmist.ogg",length=2.675}}
 L["boese"]={{path="chatsounds/autoadd/instagib/boese.ogg",length=1.767}}
@@ -259,7 +259,7 @@ L["eich"]={{path="chatsounds/autoadd/instagib/eich.ogg",length=2.348}}
 L["eier"]={{path="chatsounds/autoadd/instagib/eier.ogg",length=1.302}}
 L["eier1"]={{path="chatsounds/autoadd/instagib/eier1.ogg",length=16.901}}
 L["ein ablenkungsmaneover"]={{path="chatsounds/autoadd/instagib/ein ablenkungsmaneover.ogg",length=5.760}}
-L["einer is immer der looser"]={{path="chatsounds/autoadd/instagib/einer is immer der looser.ogg",length=12.826}}
+L["einer is immer der loser"]={{path="chatsounds/autoadd/instagib/einer is immer der loser.ogg",length=12.826}}
 L["einfach mal die fresse halten"]={{path="chatsounds/autoadd/instagib/einfach mal die fresse halten.ogg",length=3.199}}
 L["einwandfrei"]={{path="chatsounds/autoadd/instagib/einwandfrei.ogg",length=1.300}}
 L["eiskalt"]={{path="chatsounds/autoadd/instagib/eiskalt.ogg",length=6.001}}
@@ -507,6 +507,7 @@ L["hirn"]={{path="chatsounds/autoadd/instagib/hirn.ogg",length=4.392}}
 L["hirn2"]={{path="chatsounds/autoadd/instagib/hirn2.ogg",length=2.772}}
 L["hitby"]={{path="chatsounds/autoadd/instagib/hitby.ogg",length=4.211}}
 L["hochgebumst"]={{path="chatsounds/autoadd/instagib/hochgebumst.ogg",length=3.518}}
+L["hoechste zeit dass du ins bett kommst du schlingel"]={{path="chatsounds/autoadd/instagib/hoechste zeit dass du ins bett kommst du schlingel.ogg",length=3.455}}
 L["hoelle"]={{path="chatsounds/autoadd/instagib/hoelle.ogg",length=2.250}}
 L["hoer auf mit dem blocken"]={{path="chatsounds/autoadd/instagib/hoer auf mit dem blocken.ogg",length=4.676}}
 L["hoerauf"]={{path="chatsounds/autoadd/instagib/hoerauf.ogg",length=2.581}}
@@ -1080,7 +1081,7 @@ L["spenden"]={{path="chatsounds/autoadd/instagib/spenden.ogg",length=2.795}}
 L["spiel"]={{path="chatsounds/autoadd/instagib/spiel.ogg",length=1.968}}
 L["spiri"]={{path="chatsounds/autoadd/instagib/spiri.ogg",length=3.722}}
 L["sprache"]={{path="chatsounds/autoadd/instagib/sprache.ogg",length=4.500}}
-L["spreitz deine beine"]={{path="chatsounds/autoadd/instagib/spreitz deine beine.ogg",length=11.354}}
+L["spreiz deine beine"]={{path="chatsounds/autoadd/instagib/spreiz deine beine.ogg",length=11.354}}
 L["sry3"]={{path="chatsounds/autoadd/instagib/sry3.ogg",length=2.375}}
 L["sssong"]={{path="chatsounds/autoadd/instagib/sssong.ogg",length=13.144}}
 L["start1"]={{path="chatsounds/autoadd/instagib/start1.ogg",length=1.000}}
