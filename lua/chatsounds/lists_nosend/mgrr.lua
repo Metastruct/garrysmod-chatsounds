@@ -10,16 +10,22 @@ L["amateur"]={{path="chatsounds/autoadd/mgrr/amateur.ogg",length=0.698}}
 L["america is diseased rotten to the core"]={{path="chatsounds/autoadd/mgrr/america is diseased rotten to the core.ogg",length=3.394}}
 L["and besides"]={{path="chatsounds/autoadd/mgrr/and besides.ogg",length=1.461}}
 L["and heres the punchline"]={{path="chatsounds/autoadd/mgrr/and heres the punchline.ogg",length=1.802}}
+L["and so many have burned"]={{path="chatsounds/autoadd/mgrr/and so many have burned.ogg",length=2.256}}
 L["are we both here only to fight then"]={{path="chatsounds/autoadd/mgrr/are we both here only to fight then.ogg",length=2.840}}
 L["are you that stupid"]={{path="chatsounds/autoadd/mgrr/are you that stupid.ogg",length=1.526}}
 L["armstrooong"]={{path="chatsounds/autoadd/mgrr/armstrooong.ogg",length=3.132}}
 L["awoop"]={{path="chatsounds/autoadd/mgrr/awoop.ogg",length=0.582}}
 L["back to the earth with you"]={{path="chatsounds/autoadd/mgrr/back to the earth with you.ogg",length=2.326}}
 L["beg for your life"]={{path="chatsounds/autoadd/mgrr/beg for your life.ogg",length=1.295}}
+L["beneath the blood stained sand"]={{path="chatsounds/autoadd/mgrr/beneath the blood stained sand.ogg",length=46.789}}
 L["big promises"]={{path="chatsounds/autoadd/mgrr/big promises.ogg",length=1.484}}
 L["bullshit"]={{path="chatsounds/autoadd/mgrr/bullshit.ogg",length=0.752}}
 L["but all talk"]={{path="chatsounds/autoadd/mgrr/but all talk.ogg",length=1.492}}
+L["but in the end it has to be this way"]={{path="chatsounds/autoadd/mgrr/but in the end it has to be this way.ogg",length=5.575}}
+L["but maybe were both the same"]={{path="chatsounds/autoadd/mgrr/but maybe were both the same.ogg",length=4.683}}
+L["but nobody is to blame"]={{path="chatsounds/autoadd/mgrr/but nobody is to blame.ogg",length=4.634}}
 L["but now now im not so sure"]={{path="chatsounds/autoadd/mgrr/but now now im not so sure.ogg",length=3.911}}
+L["but whos to judge"]={{path="chatsounds/autoadd/mgrr/but whos to judge.ogg",length=2.462}}
 L["cannot continue"]={{path="chatsounds/autoadd/mgrr/cannot continue.ogg",length=2.586}}
 L["cant lay a finger on me"]={{path="chatsounds/autoadd/mgrr/cant lay a finger on me.ogg",length=1.942}}
 L["catch me if you can"]={{path="chatsounds/autoadd/mgrr/catch me if you can.ogg",length=1.600}}
@@ -89,13 +95,16 @@ L["i can take it"]={{path="chatsounds/autoadd/mgrr/i can take it.ogg",length=1.2
 L["i could break the president in two"]={{path="chatsounds/autoadd/mgrr/i could break the president in two.ogg",length=2.818}}
 L["i dont appreciate being ignored"]={{path="chatsounds/autoadd/mgrr/i dont appreciate being ignored.ogg",length=2.483}}
 L["i dont have time for this"]={{path="chatsounds/autoadd/mgrr/i dont have time for this.ogg",length=1.715}}
+L["i feel new life could be born"]={{path="chatsounds/autoadd/mgrr/i feel new life could be born.ogg",length=2.159}}
 L["i feel no pain"]={{path="chatsounds/autoadd/mgrr/i feel no pain.ogg",length=1.486}}
 L["i have a dream"]={{path="chatsounds/autoadd/mgrr/i have a dream.ogg",length=1.804}}
 L["i have won this"]={{path="chatsounds/autoadd/mgrr/i have won this.ogg",length=1.824}}
 L["i hope you choke"]={{path="chatsounds/autoadd/mgrr/i hope you choke.ogg",length=1.980}}
 L["i like you jack so im giving you another shot"]={{path="chatsounds/autoadd/mgrr/i like you jack so im giving you another shot.ogg",length=4.411}}
 L["i love this shit"]={{path="chatsounds/autoadd/mgrr/i love this shit.ogg",length=1.874}}
+L["i realize"]={{path="chatsounds/autoadd/mgrr/i realize.ogg",length=2.427}}
 L["i said my sword was a tool of justice"]={{path="chatsounds/autoadd/mgrr/i said my sword was a tool of justice.ogg",length=2.712}}
+L["i think well both agree"]={{path="chatsounds/autoadd/mgrr/i think well both agree.ogg",length=2.902}}
 L["i was wrong"]={{path="chatsounds/autoadd/mgrr/i was wrong.ogg",length=1.297}}
 L["i will exterminate your consciousness"]={{path="chatsounds/autoadd/mgrr/i will exterminate your consciousness.ogg",length=3.238}}
 L["i will obliterate your consciousness"]={{path="chatsounds/autoadd/mgrr/i will obliterate your consciousness.ogg",length=2.702}}
@@ -121,6 +130,8 @@ L["is this all"]={{path="chatsounds/autoadd/mgrr/is this all.ogg",length=1.230}}
 L["is this all the human mind is capable of"]={{path="chatsounds/autoadd/mgrr/is this all the human mind is capable of.ogg",length=2.794}}
 L["it is time to end this"]={{path="chatsounds/autoadd/mgrr/it is time to end this.ogg",length=2.058}}
 L["its over"]={{path="chatsounds/autoadd/mgrr/its over/1.ogg",length=0.886},{path="chatsounds/autoadd/mgrr/its over/2.ogg",length=1.668}}
+L["its tearing across this barren wasted land"]={{path="chatsounds/autoadd/mgrr/its tearing across this barren wasted land.ogg",length=4.472}}
+L["ive carved my own path"]={{path="chatsounds/autoadd/mgrr/ive carved my own path.ogg",length=2.405}}
 L["just a little too late as usual"]={{path="chatsounds/autoadd/mgrr/just a little too late as usual.ogg",length=3.709}}
 L["justice in the hands of the people jack"]={{path="chatsounds/autoadd/mgrr/justice in the hands of the people jack.ogg",length=2.658}}
 L["kill or be killed"]={{path="chatsounds/autoadd/mgrr/kill or be killed.ogg",length=2.272}}
@@ -195,14 +206,18 @@ L["so you are strong"]={{path="chatsounds/autoadd/mgrr/so you are strong.ogg",le
 L["something special just for you"]={{path="chatsounds/autoadd/mgrr/something special just for you.ogg",length=2.276}}
 L["sooo what do you think"]={{path="chatsounds/autoadd/mgrr/sooo what do you think.ogg",length=3.228}}
 L["ss stop"]={{path="chatsounds/autoadd/mgrr/ss stop.ogg",length=3.430}}
+L["standing here"]={{path="chatsounds/autoadd/mgrr/standing here.ogg",length=1.970}}
 L["that one hurt"]={{path="chatsounds/autoadd/mgrr/that one hurt.ogg",length=2.530}}
 L["that tickles"]={{path="chatsounds/autoadd/mgrr/that tickles.ogg",length=1.704}}
+L["that violence breeds violence"]={{path="chatsounds/autoadd/mgrr/that violence breeds violence.ogg",length=4.503}}
 L["that your best"]={{path="chatsounds/autoadd/mgrr/that your best.ogg",length=1.065}}
 L["thats a good boy"]={{path="chatsounds/autoadd/mgrr/thats a good boy.ogg",length=1.391}}
 L["thats the best you got"]={{path="chatsounds/autoadd/mgrr/thats the best you got.ogg",length=1.461}}
 L["the dna of the soul"]={{path="chatsounds/autoadd/mgrr/the dna of the soul.ogg",length=1.591}}
 L["the fuck"]={{path="chatsounds/autoadd/mgrr/the fuck.ogg",length=0.954}}
 L["the memes"]={{path="chatsounds/autoadd/mgrr/the memes.ogg",length=1.006}}
+L["the right from wrong"]={{path="chatsounds/autoadd/mgrr/the right from wrong.ogg",length=2.234}}
+L["the world has turned"]={{path="chatsounds/autoadd/mgrr/the world has turned.ogg",length=2.555}}
 L["theres no saving it"]={{path="chatsounds/autoadd/mgrr/theres no saving it.ogg",length=1.575}}
 L["they are everything we pass on"]={{path="chatsounds/autoadd/mgrr/they are everything we pass on.ogg",length=2.116}}
 L["they harden in response to physical trauma"]={{path="chatsounds/autoadd/mgrr/they harden in response to physical trauma.ogg",length=2.485}}
@@ -224,6 +239,7 @@ L["try again"]={{path="chatsounds/autoadd/mgrr/try again.ogg",length=0.758}}
 L["try and shut me up youll fail like the others"]={{path="chatsounds/autoadd/mgrr/try and shut me up youll fail like the others.ogg",length=3.046}}
 L["try harder"]={{path="chatsounds/autoadd/mgrr/try harder.ogg",length=0.746}}
 L["try university of texas"]={{path="chatsounds/autoadd/mgrr/try university of texas.ogg",length=1.610}}
+L["trying to make history"]={{path="chatsounds/autoadd/mgrr/trying to make history.ogg",length=2.832}}
 L["typical politician"]={{path="chatsounds/autoadd/mgrr/typical politician.ogg",length=1.548}}
 L["we dont need them around to filter and foster their memes any longer"]={{path="chatsounds/autoadd/mgrr/we dont need them around to filter and foster their memes any longer.ogg",length=4.138}}
 L["weak"]={{path="chatsounds/autoadd/mgrr/weak.ogg",length=0.988}}
@@ -240,6 +256,7 @@ L["what did i just say"]={{path="chatsounds/autoadd/mgrr/what did i just say.ogg
 L["what do you fight for"]={{path="chatsounds/autoadd/mgrr/what do you fight for.ogg",length=1.758}}
 L["what the hell are you"]={{path="chatsounds/autoadd/mgrr/what the hell are you.ogg",length=1.745}}
 L["when im finished with him"]={{path="chatsounds/autoadd/mgrr/when im finished with him.ogg",length=2.223}}
+L["when our guard is down"]={{path="chatsounds/autoadd/mgrr/when our guard is down.ogg",length=2.093}}
 L["who is this"]={{path="chatsounds/autoadd/mgrr/who is this.ogg",length=1.186}}
 L["who knows where ill come from"]={{path="chatsounds/autoadd/mgrr/who knows where ill come from.ogg",length=2.075}}
 L["why dont you stick around and find out"]={{path="chatsounds/autoadd/mgrr/why dont you stick around and find out.ogg",length=2.695}}
@@ -265,6 +282,7 @@ L["you should enjoy this its what youre made for"]={{path="chatsounds/autoadd/mg
 L["you should have stuck with football"]={{path="chatsounds/autoadd/mgrr/you should have stuck with football.ogg",length=1.717}}
 L["you still dont get it"]={{path="chatsounds/autoadd/mgrr/you still dont get it.ogg",length=2.450}}
 L["you still dont get it im not for sale"]={{path="chatsounds/autoadd/mgrr/you still dont get it im not for sale.ogg",length=3.025}}
+L["you were just like me"]={{path="chatsounds/autoadd/mgrr/you were just like me.ogg",length=1.812}}
 L["you wont like this"]={{path="chatsounds/autoadd/mgrr/you wont like this.ogg",length=1.165}}
 L["your dream dies with you"]={{path="chatsounds/autoadd/mgrr/your dream dies with you.ogg",length=2.256}}
 L["your intellect is far below human standard"]={{path="chatsounds/autoadd/mgrr/your intellect is far below human standard.ogg",length=3.532}}
@@ -282,4 +300,5 @@ L["youre not greedy"]={{path="chatsounds/autoadd/mgrr/youre not greedy.ogg",leng
 L["youre nothing"]={{path="chatsounds/autoadd/mgrr/youre nothing.ogg",length=1.421}}
 L["youre right about one thing"]={{path="chatsounds/autoadd/mgrr/youre right about one thing.ogg",length=2.043}}
 L["youre the boss"]={{path="chatsounds/autoadd/mgrr/youre the boss.ogg",length=1.162}}
+L["youve followed your wrath"]={{path="chatsounds/autoadd/mgrr/youve followed your wrath.ogg",length=2.370}}
 c.EndList()

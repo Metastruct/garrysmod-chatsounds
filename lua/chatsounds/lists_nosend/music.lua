@@ -6,7 +6,7 @@ L["ab in den urlaub"]={{path="chatsounds/autoadd/music/ab in den urlaub.ogg",len
 L["ace of base"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
 L["alliwantforchristmas"]={{path="chatsounds/autoadd/music/alliwantforchristmas.ogg",length=26.496}}
 L["ayy lmao"]={{path="chatsounds/autoadd/music/ayy lmao.ogg",length=21.838}}
-L["barbra streisand loop"]={{path="chatsounds/autoadd/music/barbra streisand loop.ogg",length=15.238}}
+L["barbra streisand loop"]={{path="chatsounds/autoadd/music/barbra streisand loop.ogg",length=15.026}}
 L["barrelroll"]={{path="chatsounds/autoadd/music/barrelroll.ogg",length=13.717}}
 L["bass"]={{path="chatsounds/autoadd/music/bass.ogg",length=0.408}}
 L["battle against a weird opponent"]={{path="chatsounds/autoadd/music/battle against a weird opponent.ogg",length=83.034}}
@@ -35,6 +35,7 @@ L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
+L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
 L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
@@ -49,6 +50,7 @@ L["jungle where dreams are made of"]={{path="chatsounds/autoadd/music/jungle whe
 L["let the bodies hit the floor"]={{path="chatsounds/autoadd/music/let the bodies hit the floor.ogg",length=1.837}}
 L["lone digger loop"]={{path="chatsounds/autoadd/music/lone digger loop.ogg",length=46.452}}
 L["lord macintosh plus"]={{path="chatsounds/autoadd/music/lord macintosh plus/1.ogg",length=64.838},{path="chatsounds/autoadd/music/lord macintosh plus/2.ogg",length=60.148},{path="chatsounds/autoadd/music/lord macintosh plus/3.ogg",length=60.604},{path="chatsounds/autoadd/music/lord macintosh plus/4.ogg",length=60.669},{path="chatsounds/autoadd/music/lord macintosh plus/5.ogg",length=77.832}}
+L["mf doom"]={{path="chatsounds/autoadd/music/mf doom.ogg",length=1.021}}
 L["moonthemefull"]={{path="chatsounds/autoadd/music/moonthemefull.ogg",length=92.500}}
 L["mr skeltal anthem"]={{path="chatsounds/autoadd/music/mr skeltal anthem.ogg",length=21.162}}
 L["musicbox"]={{path="chatsounds/autoadd/music/musicbox.ogg",length=23.800}}
@@ -71,6 +73,8 @@ L["slushayut khardbass basy"]={{path="chatsounds/autoadd/music/slushayut khardba
 L["smoke weed everyday"]={{path="chatsounds/autoadd/music/smoke weed everyday.ogg",length=1.702}}
 L["stranger things"]={{path="chatsounds/autoadd/music/stranger things.ogg",length=58.227}}
 L["tetrisloop"]={{path="chatsounds/autoadd/music/tetrisloop.ogg",length=25.592}}
+L["the brain indicatif loop"]={{path="chatsounds/autoadd/music/the brain indicatif loop.ogg",length=8.902}}
+L["the brain indicatif loop distorted"]={{path="chatsounds/autoadd/music/the brain indicatif loop distorted.ogg",length=8.778}}
 L["thenitgo"]={{path="chatsounds/autoadd/music/thenitgo.ogg",length=19.062}}
 L["thomasthetankengine"]={{path="chatsounds/autoadd/music/thomasthetankengine.ogg",length=29.104}}
 L["thuglife"]={{path="chatsounds/autoadd/music/thuglife.ogg",length=9.540}}
