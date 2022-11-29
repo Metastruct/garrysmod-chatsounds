@@ -4,6 +4,7 @@ L["aagh agh its getting into all me nooks and crannies"]={{path="chatsounds/auto
 L["about time fat boy"]={{path="chatsounds/autoadd/deep_rock_galactic/about time fat boy.ogg",length=1.699}}
 L["agh i hate this sticky crap"]={{path="chatsounds/autoadd/deep_rock_galactic/agh i hate this sticky crap.ogg",length=2.916}}
 L["ah"]={{path="chatsounds/autoadd/deep_rock_galactic/ah/1.ogg",length=0.749},{path="chatsounds/autoadd/deep_rock_galactic/ah/2.ogg",length=0.649},{path="chatsounds/autoadd/deep_rock_galactic/ah/3.ogg",length=0.949},{path="chatsounds/autoadd/deep_rock_galactic/ah/4.ogg",length=0.699},{path="chatsounds/autoadd/deep_rock_galactic/ah/5.ogg",length=0.649},{path="chatsounds/autoadd/deep_rock_galactic/ah/6.ogg",length=0.899},{path="chatsounds/autoadd/deep_rock_galactic/ah/8.ogg",length=1.348},{path="chatsounds/autoadd/deep_rock_galactic/ah/9.ogg",length=0.998}}
+L["ahem"]={{path="chatsounds/autoadd/deep_rock_galactic/ahem/1.ogg",length=1.116},{path="chatsounds/autoadd/deep_rock_galactic/ahem/2.ogg",length=0.540},{path="chatsounds/autoadd/deep_rock_galactic/ahem/3.ogg",length=0.887}}
 L["and there it goes back to orbit with ya"]={{path="chatsounds/autoadd/deep_rock_galactic/and there it goes back to orbit with ya.ogg",length=2.306}}
 L["are we rocks stones or both"]={{path="chatsounds/autoadd/deep_rock_galactic/are we rocks stones or both.ogg",length=2.909}}
 L["as good as it gets"]={{path="chatsounds/autoadd/deep_rock_galactic/as good as it gets.ogg",length=1.796}}
@@ -15,6 +16,7 @@ L["bloody hell youre hard to kill"]={{path="chatsounds/autoadd/deep_rock_galacti
 L["boom"]={{path="chatsounds/autoadd/deep_rock_galactic/boom/1.ogg",length=0.922},{path="chatsounds/autoadd/deep_rock_galactic/boom/2.ogg",length=0.693}}
 L["bring it fackers"]={{path="chatsounds/autoadd/deep_rock_galactic/bring it fackers.ogg",length=1.940}}
 L["bring the pain"]={{path="chatsounds/autoadd/deep_rock_galactic/bring the pain.ogg",length=1.345}}
+L["brr"]={{path="chatsounds/autoadd/deep_rock_galactic/brr.ogg",length=0.332}}
 L["bug alert"]={{path="chatsounds/autoadd/deep_rock_galactic/bug alert.ogg",length=0.956}}
 L["bugs"]={{path="chatsounds/autoadd/deep_rock_galactic/bugs.ogg",length=1.094}}
 L["by the beard"]={{path="chatsounds/autoadd/deep_rock_galactic/by the beard.ogg",length=1.600}}
@@ -23,6 +25,7 @@ L["caretakerhurtscream"]={{path="chatsounds/autoadd/deep_rock_galactic/caretaker
 L["come here"]={{path="chatsounds/autoadd/deep_rock_galactic/come here.ogg",length=1.015}}
 L["come on guys rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/come on guys rock and stone.ogg",length=2.595}}
 L["consider this legally speaking rocking is more legal than stoning eh"]={{path="chatsounds/autoadd/deep_rock_galactic/consider this legally speaking rocking is more legal than stoning eh.ogg",length=6.373}}
+L["cough"]={{path="chatsounds/autoadd/deep_rock_galactic/cough/1.ogg",length=0.759},{path="chatsounds/autoadd/deep_rock_galactic/cough/2.ogg",length=1.016},{path="chatsounds/autoadd/deep_rock_galactic/cough/3.ogg",length=0.635},{path="chatsounds/autoadd/deep_rock_galactic/cough/4.ogg",length=1.276}}
 L["crawl back to hell"]={{path="chatsounds/autoadd/deep_rock_galactic/crawl back to hell.ogg",length=1.622}}
 L["damn kitchen appliance"]={{path="chatsounds/autoadd/deep_rock_galactic/damn kitchen appliance.ogg",length=1.976}}
 L["damn thats unfortunate"]={{path="chatsounds/autoadd/deep_rock_galactic/damn thats unfortunate.ogg",length=2.170}}
@@ -55,6 +58,7 @@ L["get out of here"]={{path="chatsounds/autoadd/deep_rock_galactic/get out of he
 L["gimme a rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/gimme a rock and stone.ogg",length=2.361}}
 L["give me an r give me an s give me a rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/give me an r give me an s give me a rock and stone.ogg",length=4.164}}
 L["go lie down forever"]={{path="chatsounds/autoadd/deep_rock_galactic/go lie down forever.ogg",length=2.954}}
+L["go little man go"]={{path="chatsounds/autoadd/deep_rock_galactic/go little man go.ogg",length=2.206}}
 L["gold"]={{path="chatsounds/autoadd/deep_rock_galactic/gold/1.ogg",length=1.704},{path="chatsounds/autoadd/deep_rock_galactic/gold/2.ogg",length=0.859},{path="chatsounds/autoadd/deep_rock_galactic/gold/3.ogg",length=1.074}}
 L["goo sack"]={{path="chatsounds/autoadd/deep_rock_galactic/goo sack.ogg",length=0.873}}
 L["good enough"]={{path="chatsounds/autoadd/deep_rock_galactic/good enough.ogg",length=1.113}}
@@ -73,6 +77,8 @@ L["here we go"]={{path="chatsounds/autoadd/deep_rock_galactic/here we go.ogg",le
 L["hey"]={{path="chatsounds/autoadd/deep_rock_galactic/hey/1.ogg",length=1.015},{path="chatsounds/autoadd/deep_rock_galactic/hey/2.ogg",length=0.776}}
 L["hey can i get your attention"]={{path="chatsounds/autoadd/deep_rock_galactic/hey can i get your attention.ogg",length=1.860}}
 L["hey yeah you im talking to you"]={{path="chatsounds/autoadd/deep_rock_galactic/hey yeah you im talking to you.ogg",length=2.991}}
+L["hmm"]={{path="chatsounds/autoadd/deep_rock_galactic/hmm/1.ogg",length=0.306},{path="chatsounds/autoadd/deep_rock_galactic/hmm/2.ogg",length=0.344},{path="chatsounds/autoadd/deep_rock_galactic/hmm/3.ogg",length=1.684},{path="chatsounds/autoadd/deep_rock_galactic/hmm/4.ogg",length=0.357}}
+L["hmm brr"]={{path="chatsounds/autoadd/deep_rock_galactic/hmm brr.ogg",length=1.633}}
 L["i can almost taste it eugh"]={{path="chatsounds/autoadd/deep_rock_galactic/i can almost taste it eugh.ogg",length=2.222}}
 L["i dont get paid enough for this"]={{path="chatsounds/autoadd/deep_rock_galactic/i dont get paid enough for this.ogg",length=2.063}}
 L["i got it"]={{path="chatsounds/autoadd/deep_rock_galactic/i got it.ogg",length=1.111}}
@@ -109,6 +115,7 @@ L["lift off"]={{path="chatsounds/autoadd/deep_rock_galactic/lift off.ogg",length
 L["like that"]={{path="chatsounds/autoadd/deep_rock_galactic/like that.ogg",length=0.889}}
 L["like that rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/like that rock and stone.ogg",length=2.348}}
 L["look"]={{path="chatsounds/autoadd/deep_rock_galactic/look.ogg",length=0.619}}
+L["look at em go"]={{path="chatsounds/autoadd/deep_rock_galactic/look at em go.ogg",length=1.510}}
 L["look over here"]={{path="chatsounds/autoadd/deep_rock_galactic/look over here.ogg",length=1.275}}
 L["look there"]={{path="chatsounds/autoadd/deep_rock_galactic/look there.ogg",length=0.870}}
 L["look what i found"]={{path="chatsounds/autoadd/deep_rock_galactic/look what i found.ogg",length=1.713}}
@@ -163,6 +170,8 @@ L["see here"]={{path="chatsounds/autoadd/deep_rock_galactic/see here.ogg",length
 L["shoot it"]={{path="chatsounds/autoadd/deep_rock_galactic/shoot it.ogg",length=0.880}}
 L["shoot it in the ass"]={{path="chatsounds/autoadd/deep_rock_galactic/shoot it in the ass.ogg",length=2.040}}
 L["smartstout ramble"]={{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/1.ogg",length=8.444},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/10.ogg",length=7.792},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/11.ogg",length=6.924},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/12.ogg",length=13.941},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/13.ogg",length=11.141},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/14.ogg",length=9.705},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/15.ogg",length=6.757},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/16.ogg",length=7.307},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/17.ogg",length=9.635},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/18.ogg",length=8.612},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/19.ogg",length=10.696},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/2.ogg",length=8.424},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/3.ogg",length=5.583},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/4.ogg",length=14.181},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/5.ogg",length=21.472},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/6.ogg",length=3.610},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/7.ogg",length=8.172},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/8.ogg",length=10.641},{path="chatsounds/autoadd/deep_rock_galactic/smartstout ramble/9.ogg",length=5.272}}
+L["snort hmm"]={{path="chatsounds/autoadd/deep_rock_galactic/snort hmm.ogg",length=1.263}}
+L["spit"]={{path="chatsounds/autoadd/deep_rock_galactic/spit/1.ogg",length=0.839},{path="chatsounds/autoadd/deep_rock_galactic/spit/2.ogg",length=0.682}}
 L["stay out of the goo"]={{path="chatsounds/autoadd/deep_rock_galactic/stay out of the goo.ogg",length=1.645}}
 L["stone"]={{path="chatsounds/autoadd/deep_rock_galactic/stone.ogg",length=0.671}}
 L["stone and rock"]={{path="chatsounds/autoadd/deep_rock_galactic/stone and rock.ogg",length=1.762}}
@@ -215,6 +224,7 @@ L["we fight for rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/w
 L["we finally got it"]={{path="chatsounds/autoadd/deep_rock_galactic/we finally got it.ogg",length=1.457}}
 L["we got it"]={{path="chatsounds/autoadd/deep_rock_galactic/we got it.ogg",length=1.122}}
 L["we rock"]={{path="chatsounds/autoadd/deep_rock_galactic/we rock.ogg",length=1.264}}
+L["wee"]={{path="chatsounds/autoadd/deep_rock_galactic/wee.ogg",length=1.616}}
 L["were rich"]={{path="chatsounds/autoadd/deep_rock_galactic/were rich.ogg",length=0.970}}
 L["were the best"]={{path="chatsounds/autoadd/deep_rock_galactic/were the best.ogg",length=1.550}}
 L["weve got to stop this self destruct sequence"]={{path="chatsounds/autoadd/deep_rock_galactic/weve got to stop this self destruct sequence.ogg",length=2.832}}
@@ -224,16 +234,22 @@ L["what a chonker"]={{path="chatsounds/autoadd/deep_rock_galactic/what a chonker
 L["what is this"]={{path="chatsounds/autoadd/deep_rock_galactic/what is this.ogg",length=1.374}}
 L["what the heck is this"]={{path="chatsounds/autoadd/deep_rock_galactic/what the heck is this.ogg",length=1.412}}
 L["with me"]={{path="chatsounds/autoadd/deep_rock_galactic/with me.ogg",length=1.617}}
+L["woo"]={{path="chatsounds/autoadd/deep_rock_galactic/woo.ogg",length=1.275}}
 L["woops"]={{path="chatsounds/autoadd/deep_rock_galactic/woops.ogg",length=0.808}}
+L["woosh"]={{path="chatsounds/autoadd/deep_rock_galactic/woosh.ogg",length=0.974}}
 L["work you piece of shit"]={{path="chatsounds/autoadd/deep_rock_galactic/work you piece of shit.ogg",length=2.178}}
+L["yawn"]={{path="chatsounds/autoadd/deep_rock_galactic/yawn/1.ogg",length=2.560},{path="chatsounds/autoadd/deep_rock_galactic/yawn/2.ogg",length=3.560},{path="chatsounds/autoadd/deep_rock_galactic/yawn/3.ogg",length=3.400},{path="chatsounds/autoadd/deep_rock_galactic/yawn/4.ogg",length=2.080}}
 L["yeah rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/yeah rock and stone.ogg",length=3.056}}
 L["yeah thats gonna cause trauma"]={{path="chatsounds/autoadd/deep_rock_galactic/yeah thats gonna cause trauma.ogg",length=2.418}}
 L["yeah yeah rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/yeah yeah rock and stone.ogg",length=2.103}}
+L["yeehaw"]={{path="chatsounds/autoadd/deep_rock_galactic/yeehaw.ogg",length=1.722}}
 L["yoink"]={{path="chatsounds/autoadd/deep_rock_galactic/yoink.ogg",length=0.651}}
 L["you"]={{path="chatsounds/autoadd/deep_rock_galactic/you.ogg",length=0.360}}
 L["you lose big boy"]={{path="chatsounds/autoadd/deep_rock_galactic/you lose big boy.ogg",length=2.526}}
 L["you ugly son of a bitch"]={{path="chatsounds/autoadd/deep_rock_galactic/you ugly son of a bitch.ogg",length=2.587}}
 L["you want some more"]={{path="chatsounds/autoadd/deep_rock_galactic/you want some more.ogg",length=1.271}}
 L["youre cute"]={{path="chatsounds/autoadd/deep_rock_galactic/youre cute.ogg",length=1.410}}
+L["youre my new best friend"]={{path="chatsounds/autoadd/deep_rock_galactic/youre my new best friend.ogg",length=2.284}}
 L["yow"]={{path="chatsounds/autoadd/deep_rock_galactic/yow.ogg",length=1.190}}
+L["zip zoom"]={{path="chatsounds/autoadd/deep_rock_galactic/zip zoom.ogg",length=1.406}}
 c.EndList()
