@@ -53,7 +53,7 @@ L["found an egg here"]={{path="chatsounds/autoadd/deep_rock_galactic/found an eg
 L["found something"]={{path="chatsounds/autoadd/deep_rock_galactic/found something/1.ogg",length=1.586},{path="chatsounds/autoadd/deep_rock_galactic/found something/2.ogg",length=1.284}}
 L["fuck"]={{path="chatsounds/autoadd/deep_rock_galactic/fuck.ogg",length=0.997}}
 L["fucking piece of sh"]={{path="chatsounds/autoadd/deep_rock_galactic/fucking piece of sh/1.ogg",length=2.400},{path="chatsounds/autoadd/deep_rock_galactic/fucking piece of sh/2.ogg",length=2.353}}
-L["gaxalys finest"]={{path="chatsounds/autoadd/deep_rock_galactic/gaxalys finest.ogg",length=1.752}}
+L["galaxys finest"]={{path="chatsounds/autoadd/deep_rock_galactic/galaxys finest.ogg",length=1.752}}
 L["get out of here"]={{path="chatsounds/autoadd/deep_rock_galactic/get out of here.ogg",length=1.354}}
 L["gimme a rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/gimme a rock and stone.ogg",length=2.361}}
 L["give me an r give me an s give me a rock and stone"]={{path="chatsounds/autoadd/deep_rock_galactic/give me an r give me an s give me a rock and stone.ogg",length=4.164}}
