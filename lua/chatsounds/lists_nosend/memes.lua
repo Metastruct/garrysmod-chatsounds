@@ -163,6 +163,7 @@ L["vewy hard"]={{path="chatsounds/autoadd/memes/vewy hard.ogg",length=0.852}}
 L["vladimir putin"]={{path="chatsounds/autoadd/memes/vladimir putin.ogg",length=1.158}}
 L["voiceoverpete laugh"]={{path="chatsounds/autoadd/memes/voiceoverpete laugh.ogg",length=2.007}}
 L["want a break from the haaugh"]={{path="chatsounds/autoadd/memes/want a break from the haaugh.ogg",length=2.926}}
+L["waterphone"]={{path="chatsounds/autoadd/memes/waterphone.ogg",length=3.334}}
 L["we are getting wins for ukraine in fortnite"]={{path="chatsounds/autoadd/memes/we are getting wins for ukraine in fortnite.ogg",length=3.226}}
 L["we are over"]={{path="chatsounds/autoadd/memes/we are over.ogg",length=0.691}}
 L["we made a"]={{path="chatsounds/autoadd/memes/we made a.ogg",length=0.491}}
