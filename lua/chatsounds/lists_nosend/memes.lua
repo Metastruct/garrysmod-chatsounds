@@ -40,6 +40,8 @@ L["dobby pussy indulgence"]={{path="chatsounds/autoadd/memes/dobby pussy indulge
 L["dont you lecture me with your thirty dollar haircut"]={{path="chatsounds/autoadd/memes/dont you lecture me with your thirty dollar haircut.ogg",length=3.082}}
 L["easy"]={{path="chatsounds/autoadd/memes/easy.ogg",length=0.562}}
 L["eating sounds"]={{path="chatsounds/autoadd/memes/eating sounds.ogg",length=0.667}}
+L["el femboy"]={{path="chatsounds/autoadd/memes/el femboy.ogg",length=1.163}}
+L["el racista"]={{path="chatsounds/autoadd/memes/el racista.ogg",length=2.311}}
 L["emotional damage"]={{path="chatsounds/autoadd/memes/emotional damage.ogg",length=2.227}}
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
@@ -182,6 +184,7 @@ L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
 L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
 L["yesss"]={{path="chatsounds/autoadd/memes/yesss.ogg",length=6.038}}
 L["yo pierre you wanna come out here"]={{path="chatsounds/autoadd/memes/yo pierre you wanna come out here.ogg",length=4.011}}
+L["yo tengo dos lados"]={{path="chatsounds/autoadd/memes/yo tengo dos lados.ogg",length=2.086}}
 L["you better be scared"]={{path="chatsounds/autoadd/memes/you better be scared.ogg",length=1.787}}
 L["you cant park that there mate"]={{path="chatsounds/autoadd/memes/you cant park that there mate.ogg",length=1.784}}
 L["you may got the honey but i got the sugar"]={{path="chatsounds/autoadd/memes/you may got the honey but i got the sugar.ogg",length=2.852}}
