@@ -126,6 +126,7 @@ L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",len
 L["oopsie"]={{path="chatsounds/autoadd/memes/oopsie.ogg",length=0.570}}
 L["oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this"]={{path="chatsounds/autoadd/memes/oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this.ogg",length=10.261}}
 L["our table"]={{path="chatsounds/autoadd/memes/our table.ogg",length=0.995}}
+L["over the horizon"]={{path="chatsounds/autoadd/memes/over the horizon.ogg",length=60.912}}
 L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.834}}
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["please"]={{path="chatsounds/autoadd/memes/please.ogg",length=0.571}}
