@@ -49,8 +49,11 @@ L["can you guys let me in"]={{path="chatsounds/autoadd/vinesauce_vinny/can you g
 L["can you show me to them please thank you"]={{path="chatsounds/autoadd/vinesauce_vinny/can you show me to them please thank you.ogg",length=2.014}}
 L["close the door behind you"]={{path="chatsounds/autoadd/vinesauce_vinny/close the door behind you.ogg",length=1.619}}
 L["come follow me if you want the rp"]={{path="chatsounds/autoadd/vinesauce_vinny/come follow me if you want the rp.ogg",length=1.965}}
+L["come inside to mehrio park"]={{path="chatsounds/autoadd/vinesauce_vinny/come inside to mehrio park.ogg",length=3.551}}
+L["come on down to mehrio go on inside weve got the death star"]={{path="chatsounds/autoadd/vinesauce_vinny/come on down to mehrio go on inside weve got the death star.ogg",length=5.285}}
 L["come to me if you want to rp"]={{path="chatsounds/autoadd/vinesauce_vinny/come to me if you want to rp.ogg",length=1.975}}
 L["come to my house pls"]={{path="chatsounds/autoadd/vinesauce_vinny/come to my house pls.ogg",length=1.388}}
+L["come to see the toad"]={{path="chatsounds/autoadd/vinesauce_vinny/come to see the toad.ogg",length=3.446}}
 L["come to the town square"]={{path="chatsounds/autoadd/vinesauce_vinny/come to the town square.ogg",length=1.944}}
 L["concrete"]={{path="chatsounds/autoadd/vinesauce_vinny/concrete.ogg",length=1.150}}
 L["crusty"]={{path="chatsounds/autoadd/vinesauce_vinny/crusty.ogg",length=0.865}}
@@ -62,6 +65,7 @@ L["do do you want a stove"]={{path="chatsounds/autoadd/vinesauce_vinny/do do you
 L["do not do this"]={{path="chatsounds/autoadd/vinesauce_vinny/do not do this.ogg",length=1.432}}
 L["do not make me fly"]={{path="chatsounds/autoadd/vinesauce_vinny/do not make me fly.ogg",length=1.352}}
 L["do the mario"]={{path="chatsounds/autoadd/vinesauce_vinny/do the mario.ogg",length=6.359}}
+L["do the mario time"]={{path="chatsounds/autoadd/vinesauce_vinny/do the mario time.ogg",length=2.304}}
 L["do you guys any of you guys want to go and get pizza"]={{path="chatsounds/autoadd/vinesauce_vinny/do you guys any of you guys want to go and get pizza.ogg",length=2.936}}
 L["do you guys know where the buvvins is"]={{path="chatsounds/autoadd/vinesauce_vinny/do you guys know where the buvvins is.ogg",length=2.011}}
 L["do you have a white book instead"]={{path="chatsounds/autoadd/vinesauce_vinny/do you have a white book instead.ogg",length=1.487}}
@@ -91,8 +95,11 @@ L["does that mean we can yiff now"]={{path="chatsounds/autoadd/vinesauce_vinny/d
 L["doesanyonewantto rp"]={{path="chatsounds/autoadd/vinesauce_vinny/doesanyonewantto rp.ogg",length=4.330}}
 L["dont forget to buy your ralph stuff at the vine shop"]={{path="chatsounds/autoadd/vinesauce_vinny/dont forget to buy your ralph stuff at the vine shop.ogg",length=3.427}}
 L["dont smoke it give you it give you bad breath"]={{path="chatsounds/autoadd/vinesauce_vinny/dont smoke it give you it give you bad breath.ogg",length=3.612}}
+L["doot"]={{path="chatsounds/autoadd/vinesauce_vinny/doot.ogg",length=0.211}}
+L["dootmariobreak"]={{path="chatsounds/autoadd/vinesauce_vinny/dootmariobreak.ogg",length=5.306}}
 L["dude"]={{path="chatsounds/autoadd/vinesauce_vinny/dude.ogg",length=0.520}}
 L["dude dosvedanya dosvedanya"]={{path="chatsounds/autoadd/vinesauce_vinny/dude dosvedanya dosvedanya.ogg",length=2.679}}
+L["eh step right up come on you know kime to do mehrio time"]={{path="chatsounds/autoadd/vinesauce_vinny/eh step right up come on you know kime to do mehrio time.ogg",length=5.665}}
 L["everyone come to me to the town square"]={{path="chatsounds/autoadd/vinesauce_vinny/everyone come to me to the town square.ogg",length=2.010}}
 L["everyone line up against the wall"]={{path="chatsounds/autoadd/vinesauce_vinny/everyone line up against the wall.ogg",length=1.655}}
 L["except black"]={{path="chatsounds/autoadd/vinesauce_vinny/except black.ogg",length=1.718}}
