@@ -18,8 +18,11 @@ L["autotune puke"]={{path="chatsounds/autoadd/memes/autotune puke.ogg",length=3.
 L["aww dude youre drinking cum powder"]={{path="chatsounds/autoadd/memes/aww dude youre drinking cum powder.ogg",length=2.329}}
 L["back at it again with the white vans"]={{path="chatsounds/autoadd/memes/back at it again with the white vans.ogg",length=1.910}}
 L["banana screech"]={{path="chatsounds/autoadd/memes/banana screech.ogg",length=1.695}}
+L["barbecue bacon burger"]={{path="chatsounds/autoadd/memes/barbecue bacon burger.ogg",length=11.968}}
+L["bbq bacon burger"]={{path="chatsounds/autoadd/memes/bbq bacon burger.ogg",length=1.686}}
 L["beans"]={{path="chatsounds/autoadd/memes/beans.ogg",length=1.383}}
 L["bees make honey"]={{path="chatsounds/autoadd/memes/bees make honey.ogg",length=2.057}}
+L["billy earl"]={{path="chatsounds/autoadd/memes/billy earl.ogg",length=0.556}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
 L["bought some croissants"]={{path="chatsounds/autoadd/memes/bought some croissants.ogg",length=2.260}}
 L["bro she might have made beans but you forgot about the macaroni and cheese what the fuck"]={{path="chatsounds/autoadd/memes/bro she might have made beans but you forgot about the macaroni and cheese what the fuck.ogg",length=5.832}}
@@ -27,6 +30,7 @@ L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear c
 L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
 L["call the fire department"]={{path="chatsounds/autoadd/memes/call the fire department.ogg",length=1.246}}
 L["calm1"]={{path="chatsounds/autoadd/memes/calm1.ogg",length=14.785}}
+L["cause clearly the last ass whopping you got wasnt good enough bitch"]={{path="chatsounds/autoadd/memes/cause clearly the last ass whopping you got wasnt good enough bitch.ogg",length=4.304}}
 L["cause jordan never did that move"]={{path="chatsounds/autoadd/memes/cause jordan never did that move.ogg",length=2.113}}
 L["cheddar cheese brbrbrbrbr"]={{path="chatsounds/autoadd/memes/cheddar cheese brbrbrbrbr.ogg",length=3.133}}
 L["chuckling stop"]={{path="chatsounds/autoadd/memes/chuckling stop.ogg",length=1.759}}
@@ -60,6 +64,7 @@ L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.69
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
+L["get the fuck off my shit you stankin bitch"]={{path="chatsounds/autoadd/memes/get the fuck off my shit you stankin bitch.ogg",length=2.742}}
 L["gibby fall"]={{path="chatsounds/autoadd/memes/gibby fall.ogg",length=0.917}}
 L["go"]={{path="chatsounds/autoadd/memes/go.ogg",length=0.341}}
 L["ha gay"]={{path="chatsounds/autoadd/memes/ha gay.ogg",length=2.842}}
@@ -81,11 +86,15 @@ L["i like it embodied in my ass while i play overwatch"]={{path="chatsounds/auto
 L["i said no"]={{path="chatsounds/autoadd/memes/i said no.ogg",length=1.741}}
 L["i said whoever threw that paper your moms a hoe"]={{path="chatsounds/autoadd/memes/i said whoever threw that paper your moms a hoe.ogg",length=3.128}}
 L["i want you to relax"]={{path="chatsounds/autoadd/memes/i want you to relax.ogg",length=1.467}}
+L["if you dont stop fucking with me"]={{path="chatsounds/autoadd/memes/if you dont stop fucking with me.ogg",length=1.737}}
 L["if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh"]={{path="chatsounds/autoadd/memes/if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh.ogg",length=7.004}}
 L["if you tap now to watch a haaugh"]={{path="chatsounds/autoadd/memes/if you tap now to watch a haaugh.ogg",length=2.462}}
 L["if youre homeless"]={{path="chatsounds/autoadd/memes/if youre homeless.ogg",length=1.838}}
 L["if youre homeless just buy a house"]={{path="chatsounds/autoadd/memes/if youre homeless just buy a house.ogg",length=4.918}}
 L["im going to punch your face in the face"]={{path="chatsounds/autoadd/memes/im going to punch your face in the face.ogg",length=7.728}}
+L["im gonna beat the shit out of you"]={{path="chatsounds/autoadd/memes/im gonna beat the shit out of you.ogg",length=1.730}}
+L["im gonna beat the shit out of you if you dont stop fucking with me"]={{path="chatsounds/autoadd/memes/im gonna beat the shit out of you if you dont stop fucking with me.ogg",length=3.612}}
+L["im gonna beat your ass"]={{path="chatsounds/autoadd/memes/im gonna beat your ass.ogg",length=1.402}}
 L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
