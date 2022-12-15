@@ -56,7 +56,6 @@ L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
 L["flip"]={{path="chatsounds/autoadd/memes/flip.ogg",length=7.471}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
 L["for ukraine"]={{path="chatsounds/autoadd/memes/for ukraine.ogg",length=0.810}}
-L["french"]={{path="chatsounds/autoadd/memes/french.ogg",length=5.494}}
 L["frijoles de la olla"]={{path="chatsounds/autoadd/memes/frijoles de la olla.ogg",length=2.252}}
 L["fuck"]={{path="chatsounds/autoadd/memes/fuck.ogg",length=0.729}}
 L["fuck off"]={{path="chatsounds/autoadd/memes/fuck off.ogg",length=1.401}}
@@ -135,7 +134,6 @@ L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",len
 L["oopsie"]={{path="chatsounds/autoadd/memes/oopsie.ogg",length=0.570}}
 L["oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this"]={{path="chatsounds/autoadd/memes/oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this.ogg",length=10.261}}
 L["our table"]={{path="chatsounds/autoadd/memes/our table.ogg",length=0.995}}
-L["over the horizon"]={{path="chatsounds/autoadd/memes/over the horizon.ogg",length=60.912}}
 L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.834}}
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
 L["please"]={{path="chatsounds/autoadd/memes/please.ogg",length=0.571}}

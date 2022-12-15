@@ -35,6 +35,7 @@ L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
+L["french"]={{path="chatsounds/autoadd/music/french.ogg",length=28.286}}
 L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
@@ -58,6 +59,7 @@ L["nbgskrill"]={{path="chatsounds/autoadd/music/nbgskrill.ogg",length=56.294}}
 L["nightoffire"]={{path="chatsounds/autoadd/music/nightoffire.ogg",length=300.199}}
 L["o p p a i"]={{path="chatsounds/autoadd/music/o p p a i.ogg",length=94.739}}
 L["offlimits"]={{path="chatsounds/autoadd/music/offlimits.ogg",length=113.175}}
+L["over the horizon"]={{path="chatsounds/autoadd/music/over the horizon.ogg",length=60.912}}
 L["penis music"]={{path="chatsounds/autoadd/music/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/music/penis music loop.ogg",length=10.975}}
 L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmortalyes.ogg",length=125.982}}
