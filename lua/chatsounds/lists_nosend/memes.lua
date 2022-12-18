@@ -131,6 +131,7 @@ L["oh shit he just busted a nut"]={{path="chatsounds/autoadd/memes/oh shit he ju
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}
 L["omg oooh"]={{path="chatsounds/autoadd/memes/omg oooh.ogg",length=3.318}}
 L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",length=5.052}}
+L["ookaaaaay lets gooo"]={{path="chatsounds/autoadd/memes/ookaaaaay lets gooo.ogg",length=7.451}}
 L["oopsie"]={{path="chatsounds/autoadd/memes/oopsie.ogg",length=0.570}}
 L["oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this"]={{path="chatsounds/autoadd/memes/oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this.ogg",length=10.261}}
 L["our table"]={{path="chatsounds/autoadd/memes/our table.ogg",length=0.995}}
