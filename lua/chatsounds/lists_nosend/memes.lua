@@ -100,6 +100,7 @@ L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
+L["kratos messi"]={{path="chatsounds/autoadd/memes/kratos messi.ogg",length=0.882}}
 L["kurz kacken"]={{path="chatsounds/autoadd/memes/kurz kacken.ogg",length=3.227}}
 L["le monke"]={{path="chatsounds/autoadd/memes/le monke.ogg",length=59.507}}
 L["lead pipe"]={{path="chatsounds/autoadd/memes/lead pipe.ogg",length=2.602}}
