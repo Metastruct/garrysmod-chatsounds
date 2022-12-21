@@ -41,6 +41,7 @@ L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["cumrage"]={{path="chatsounds/autoadd/memes/cumrage.ogg",length=5.717}}
 L["damn daniel"]={{path="chatsounds/autoadd/memes/damn daniel/1.ogg",length=1.050},{path="chatsounds/autoadd/memes/damn daniel/10.ogg",length=1.617},{path="chatsounds/autoadd/memes/damn daniel/2.ogg",length=1.721},{path="chatsounds/autoadd/memes/damn daniel/3.ogg",length=1.222},{path="chatsounds/autoadd/memes/damn daniel/4.ogg",length=1.755},{path="chatsounds/autoadd/memes/damn daniel/5.ogg",length=1.548},{path="chatsounds/autoadd/memes/damn daniel/6.ogg",length=1.841},{path="chatsounds/autoadd/memes/damn daniel/7.ogg",length=1.136},{path="chatsounds/autoadd/memes/damn daniel/8.ogg",length=2.013},{path="chatsounds/autoadd/memes/damn daniel/9.ogg",length=1.513}}
 L["disgustang"]={{path="chatsounds/autoadd/memes/disgustang.ogg",length=1.521}}
+L["do not deny me my doobie"]={{path="chatsounds/autoadd/memes/do not deny me my doobie.ogg",length=1.984}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
 L["dobby pussy indulgence"]={{path="chatsounds/autoadd/memes/dobby pussy indulgence.ogg",length=19.696}}
 L["dont you lecture me with your thirty dollar haircut"]={{path="chatsounds/autoadd/memes/dont you lecture me with your thirty dollar haircut.ogg",length=3.082}}
@@ -73,9 +74,13 @@ L["hanji"]={{path="chatsounds/autoadd/memes/hanji.ogg",length=4.640}}
 L["helikopter helikopter"]={{path="chatsounds/autoadd/memes/helikopter helikopter.ogg",length=3.462}}
 L["hitting the griddy"]={{path="chatsounds/autoadd/memes/hitting the griddy.ogg",length=1.062}}
 L["hmm creamy italian"]={{path="chatsounds/autoadd/memes/hmm creamy italian.ogg",length=2.798}}
+L["honey you mean hunkules"]={{path="chatsounds/autoadd/memes/honey you mean hunkules.ogg",length=2.145}}
+L["honey you mean hunkules distorted"]={{path="chatsounds/autoadd/memes/honey you mean hunkules distorted.ogg",length=3.121}}
+L["hrrngh"]={{path="chatsounds/autoadd/memes/hrrngh.ogg",length=0.891}}
 L["huh"]={{path="chatsounds/autoadd/memes/huh.ogg",length=0.383}}
 L["i am currently"]={{path="chatsounds/autoadd/memes/i am currently.ogg",length=1.091}}
 L["i am here today doing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today doing the worlds loudest scream.ogg",length=2.774}}
+L["i come seeking the weed of olympus"]={{path="chatsounds/autoadd/memes/i come seeking the weed of olympus.ogg",length=3.800}}
 L["i could probably beat you in a 1v1"]={{path="chatsounds/autoadd/memes/i could probably beat you in a 1v1.ogg",length=2.308}}
 L["i got a new roach"]={{path="chatsounds/autoadd/memes/i got a new roach.ogg",length=1.023}}
 L["i got the honey"]={{path="chatsounds/autoadd/memes/i got the honey.ogg",length=1.483}}
@@ -94,13 +99,17 @@ L["im going to punch your face in the face"]={{path="chatsounds/autoadd/memes/im
 L["im gonna beat the shit out of you"]={{path="chatsounds/autoadd/memes/im gonna beat the shit out of you.ogg",length=1.730}}
 L["im gonna beat the shit out of you if you dont stop fucking with me"]={{path="chatsounds/autoadd/memes/im gonna beat the shit out of you if you dont stop fucking with me.ogg",length=3.612}}
 L["im gonna beat your ass"]={{path="chatsounds/autoadd/memes/im gonna beat your ass.ogg",length=1.402}}
+L["im greek"]={{path="chatsounds/autoadd/memes/im greek.ogg",length=1.679}}
 L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
+L["kratos"]={{path="chatsounds/autoadd/memes/kratos.ogg",length=1.418}}
 L["kratos messi"]={{path="chatsounds/autoadd/memes/kratos messi.ogg",length=0.882}}
+L["kratosbeatdown"]={{path="chatsounds/autoadd/memes/kratosbeatdown.ogg",length=5.100}}
+L["kratossex"]={{path="chatsounds/autoadd/memes/kratossex.ogg",length=4.886}}
 L["kurz kacken"]={{path="chatsounds/autoadd/memes/kurz kacken.ogg",length=3.227}}
 L["le monke"]={{path="chatsounds/autoadd/memes/le monke.ogg",length=59.507}}
 L["lead pipe"]={{path="chatsounds/autoadd/memes/lead pipe.ogg",length=2.602}}
@@ -151,6 +160,7 @@ L["sdusty man"]={{path="chatsounds/autoadd/memes/sdusty man.ogg",length=1.359}}
 L["share my thoughts"]={{path="chatsounds/autoadd/memes/share my thoughts.ogg",length=1.921}}
 L["she made fucking beans wtf"]={{path="chatsounds/autoadd/memes/she made fucking beans wtf.ogg",length=3.693}}
 L["shet"]={{path="chatsounds/autoadd/memes/shet.ogg",length=0.888}}
+L["show me your butthole"]={{path="chatsounds/autoadd/memes/show me your butthole.ogg",length=1.897}}
 L["stare into my eyes"]={{path="chatsounds/autoadd/memes/stare into my eyes.ogg",length=1.502}}
 L["stop"]={{path="chatsounds/autoadd/memes/stop.ogg",length=0.803}}
 L["stop being ratchet"]={{path="chatsounds/autoadd/memes/stop being ratchet.ogg",length=1.364}}
@@ -208,10 +218,13 @@ L["you cant park that there mate"]={{path="chatsounds/autoadd/memes/you cant par
 L["you may got the honey but i got the sugar"]={{path="chatsounds/autoadd/memes/you may got the honey but i got the sugar.ogg",length=2.852}}
 L["you may got those but i got the creamy peanut butter"]={{path="chatsounds/autoadd/memes/you may got those but i got the creamy peanut butter.ogg",length=2.655}}
 L["you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out"]={{path="chatsounds/autoadd/memes/you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out.ogg",length=6.492}}
+L["you will not get a hit from the cabbage of the gods"]={{path="chatsounds/autoadd/memes/you will not get a hit from the cabbage of the gods.ogg",length=3.987}}
 L["youll recieve 30 minutes of haaugh yes really"]={{path="chatsounds/autoadd/memes/youll recieve 30 minutes of haaugh yes really.ogg",length=3.908}}
 L["your mother hung herself graah"]={{path="chatsounds/autoadd/memes/your mother hung herself graah.ogg",length=2.610}}
 L["your procelane"]={{path="chatsounds/autoadd/memes/your procelane.ogg",length=1.055}}
+L["your son has returned"]={{path="chatsounds/autoadd/memes/your son has returned.ogg",length=1.927}}
 L["youre scaring me"]={{path="chatsounds/autoadd/memes/youre scaring me.ogg",length=1.229}}
 L["yung money clan and i"]={{path="chatsounds/autoadd/memes/yung money clan and i.ogg",length=1.842}}
 L["zerro"]={{path="chatsounds/autoadd/memes/zerro.ogg",length=0.945}}
+L["zeus"]={{path="chatsounds/autoadd/memes/zeus.ogg",length=1.070}}
 c.EndList()
