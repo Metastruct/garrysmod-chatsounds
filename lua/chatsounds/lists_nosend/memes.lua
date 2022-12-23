@@ -76,6 +76,7 @@ L["hitting the griddy"]={{path="chatsounds/autoadd/memes/hitting the griddy.ogg"
 L["hmm creamy italian"]={{path="chatsounds/autoadd/memes/hmm creamy italian.ogg",length=2.798}}
 L["honey you mean hunkules"]={{path="chatsounds/autoadd/memes/honey you mean hunkules.ogg",length=2.145}}
 L["honey you mean hunkules distorted"]={{path="chatsounds/autoadd/memes/honey you mean hunkules distorted.ogg",length=3.121}}
+L["how does anyone find that funny"]={{path="chatsounds/autoadd/memes/how does anyone find that funny.ogg",length=1.687}}
 L["hrrngh"]={{path="chatsounds/autoadd/memes/hrrngh.ogg",length=0.891}}
 L["huh"]={{path="chatsounds/autoadd/memes/huh.ogg",length=0.383}}
 L["i am currently"]={{path="chatsounds/autoadd/memes/i am currently.ogg",length=1.091}}
@@ -87,11 +88,13 @@ L["i got the honey"]={{path="chatsounds/autoadd/memes/i got the honey.ogg",lengt
 L["i hope you are scared"]={{path="chatsounds/autoadd/memes/i hope you are scared.ogg",length=1.265}}
 L["i like"]={{path="chatsounds/autoadd/memes/i like.ogg",length=0.688}}
 L["i like it embodied in my ass while i play overwatch"]={{path="chatsounds/autoadd/memes/i like it embodied in my ass while i play overwatch.ogg",length=2.644}}
+L["i mean seriously how does anyone find that funny"]={{path="chatsounds/autoadd/memes/i mean seriously how does anyone find that funny.ogg",length=3.287}}
 L["i said no"]={{path="chatsounds/autoadd/memes/i said no.ogg",length=1.741}}
 L["i said whoever threw that paper your moms a hoe"]={{path="chatsounds/autoadd/memes/i said whoever threw that paper your moms a hoe.ogg",length=3.128}}
 L["i want you to relax"]={{path="chatsounds/autoadd/memes/i want you to relax.ogg",length=1.467}}
 L["if you dont stop fucking with me"]={{path="chatsounds/autoadd/memes/if you dont stop fucking with me.ogg",length=1.737}}
 L["if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh"]={{path="chatsounds/autoadd/memes/if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh.ogg",length=7.004}}
+L["if you laughed at it there is something seriously wrong with you"]={{path="chatsounds/autoadd/memes/if you laughed at it there is something seriously wrong with you.ogg",length=4.305}}
 L["if you tap now to watch a haaugh"]={{path="chatsounds/autoadd/memes/if you tap now to watch a haaugh.ogg",length=2.462}}
 L["if youre homeless"]={{path="chatsounds/autoadd/memes/if youre homeless.ogg",length=1.838}}
 L["if youre homeless just buy a house"]={{path="chatsounds/autoadd/memes/if youre homeless just buy a house.ogg",length=4.918}}
