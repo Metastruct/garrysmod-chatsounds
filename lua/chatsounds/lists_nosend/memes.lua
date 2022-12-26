@@ -170,7 +170,6 @@ L["stop being ratchet"]={{path="chatsounds/autoadd/memes/stop being ratchet.ogg"
 L["stop it"]={{path="chatsounds/autoadd/memes/stop it.ogg",length=1.054}}
 L["stop youre scaring me"]={{path="chatsounds/autoadd/memes/stop youre scaring me.ogg",length=2.189}}
 L["subaru subaru"]={{path="chatsounds/autoadd/memes/subaru subaru.ogg",length=1.578}}
-L["subscribe"]={{path="chatsounds/autoadd/memes/subscribe.ogg",length=20.320}}
 L["sweaty speedrun"]={{path="chatsounds/autoadd/memes/sweaty speedrun.ogg",length=30.200}}
 L["sweaty speedrunmusic"]={{path="chatsounds/autoadd/memes/sweaty speedrunmusic.ogg",length=32.117}}
 L["table break"]={{path="chatsounds/autoadd/memes/table break/tablebreak1.ogg",length=0.876},{path="chatsounds/autoadd/memes/table break/tablebreak2.ogg",length=3.448}}
