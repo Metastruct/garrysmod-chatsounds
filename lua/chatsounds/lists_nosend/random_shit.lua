@@ -3,6 +3,7 @@ L["4 in the morning"]={{path="chatsounds/autoadd/random_shit/4 in the morning.og
 L["aid"]={{path="chatsounds/autoadd/random_shit/aid.ogg",length=0.352}}
 L["and its spherical"]={{path="chatsounds/autoadd/random_shit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/random_shit/are you kidding me.ogg",length=2.662}}
+L["avast alert"]={{path="chatsounds/autoadd/random_shit/avast alert.ogg",length=1.091}}
 L["bazinga"]={{path="chatsounds/autoadd/random_shit/bazinga/bazinga1.ogg",length=0.899},{path="chatsounds/autoadd/random_shit/bazinga/bazinga2.ogg",length=0.788},{path="chatsounds/autoadd/random_shit/bazinga/bazinga3.ogg",length=1.088},{path="chatsounds/autoadd/random_shit/bazinga/bazinga4.ogg",length=1.041},{path="chatsounds/autoadd/random_shit/bazinga/bazinga5.ogg",length=0.900},{path="chatsounds/autoadd/random_shit/bazinga/bazinga6.ogg",length=0.609},{path="chatsounds/autoadd/random_shit/bazinga/bazinga7.ogg",length=0.876},{path="chatsounds/autoadd/random_shit/bazinga/bazinga8.ogg",length=0.832},{path="chatsounds/autoadd/random_shit/bazinga/bazinga9.ogg",length=0.924}}
 L["begone satan"]={{path="chatsounds/autoadd/random_shit/begone satan.ogg",length=1.204}}
 L["big big chungus"]={{path="chatsounds/autoadd/random_shit/big big chungus.ogg",length=1.691}}
@@ -98,11 +99,14 @@ L["super mario in real life"]={{path="chatsounds/autoadd/random_shit/super mario
 L["tango down"]={{path="chatsounds/autoadd/random_shit/tango down.ogg",length=2.090}}
 L["thats what they want you to think"]={{path="chatsounds/autoadd/random_shit/thats what they want you to think.ogg",length=1.751}}
 L["the future is now old man"]={{path="chatsounds/autoadd/random_shit/the future is now old man.ogg",length=3.166}}
+L["threat has been detected"]={{path="chatsounds/autoadd/random_shit/threat has been detected.ogg",length=1.551}}
 L["tiduslaugh"]={{path="chatsounds/autoadd/random_shit/tiduslaugh.ogg",length=7.923}}
 L["timey wimey"]={{path="chatsounds/autoadd/random_shit/timey wimey.ogg",length=1.147}}
 L["try another"]={{path="chatsounds/autoadd/random_shit/try another.ogg",length=0.803}}
 L["unga bunga"]={{path="chatsounds/autoadd/random_shit/unga bunga.ogg",length=0.812}}
+L["vegas pro 13"]={{path="chatsounds/autoadd/random_shit/vegas pro 13.ogg",length=1.099}}
 L["we all are"]={{path="chatsounds/autoadd/random_shit/we all are.ogg",length=1.227}}
+L["welcome to our world"]={{path="chatsounds/autoadd/random_shit/welcome to our world.ogg",length=5.537}}
 L["well it was fuckin one of yas"]={{path="chatsounds/autoadd/random_shit/well it was fuckin one of yas.ogg",length=1.976}}
 L["what are frogs"]={{path="chatsounds/autoadd/random_shit/what are frogs.ogg",length=0.752}}
 L["what the hell is this"]={{path="chatsounds/autoadd/random_shit/what the hell is this.ogg",length=1.446}}
