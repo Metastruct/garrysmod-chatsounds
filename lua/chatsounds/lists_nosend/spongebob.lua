@@ -41,6 +41,7 @@ L["hahahahahahahahohohohohohohohihihihihihihihahaha"]={{path="chatsounds/autoadd
 L["har har i mean the person in the boots"]={{path="chatsounds/autoadd/spongebob/har har i mean the person in the boots.ogg",length=3.199}}
 L["he said he wants squeaking sounds"]={{path="chatsounds/autoadd/spongebob/he said he wants squeaking sounds.ogg",length=2.508}}
 L["here please hit me as hard as you can"]={{path="chatsounds/autoadd/spongebob/here please hit me as hard as you can.ogg",length=2.679}}
+L["hes just standing there menacingly"]={{path="chatsounds/autoadd/spongebob/hes just standing there menacingly.ogg",length=3.811}}
 L["hes tenderizing the ground"]={{path="chatsounds/autoadd/spongebob/hes tenderizing the ground.ogg",length=1.910}}
 L["hey patrick are you angry too"]={{path="chatsounds/autoadd/spongebob/hey patrick are you angry too.ogg",length=1.974}}
 L["hi how are ya"]={{path="chatsounds/autoadd/spongebob/hi how are ya.ogg",length=1.020}}
@@ -157,6 +158,7 @@ L["wait spongebob were not cavemen"]={{path="chatsounds/autoadd/spongebob/wait s
 L["we have technology"]={{path="chatsounds/autoadd/spongebob/we have technology.ogg",length=2.126}}
 L["we serve food here sir"]={{path="chatsounds/autoadd/spongebob/we serve food here sir.ogg",length=1.869}}
 L["we shall never deny a guest even the most ridiculous request"]={{path="chatsounds/autoadd/spongebob/we shall never deny a guest even the most ridiculous request.ogg",length=4.200}}
+L["weewooweewooweewoo"]={{path="chatsounds/autoadd/spongebob/weewooweewooweewoo.ogg",length=2.197}}
 L["welcome to the krusty towers"]={{path="chatsounds/autoadd/spongebob/welcome to the krusty towers.ogg",length=1.933}}
 L["wh"]={{path="chatsounds/autoadd/spongebob/wh.ogg",length=0.618}}
 L["what did you say punk"]={{path="chatsounds/autoadd/spongebob/what did you say punk.ogg",length=2.201}}

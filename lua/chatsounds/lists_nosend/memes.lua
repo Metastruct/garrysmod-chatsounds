@@ -26,6 +26,7 @@ L["billy earl"]={{path="chatsounds/autoadd/memes/billy earl.ogg",length=0.556}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
 L["bought some croissants"]={{path="chatsounds/autoadd/memes/bought some croissants.ogg",length=2.260}}
 L["bro she might have made beans but you forgot about the macaroni and cheese what the fuck"]={{path="chatsounds/autoadd/memes/bro she might have made beans but you forgot about the macaroni and cheese what the fuck.ogg",length=5.832}}
+L["bucket of salmon"]={{path="chatsounds/autoadd/memes/bucket of salmon.ogg",length=1.791}}
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
 L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
 L["call the fire department"]={{path="chatsounds/autoadd/memes/call the fire department.ogg",length=1.246}}
@@ -40,6 +41,7 @@ L["cringe"]={{path="chatsounds/autoadd/memes/cringe.ogg",length=0.986}}
 L["cringeriff"]={{path="chatsounds/autoadd/memes/cringeriff.ogg",length=5.548}}
 L["cumrage"]={{path="chatsounds/autoadd/memes/cumrage.ogg",length=5.717}}
 L["damn daniel"]={{path="chatsounds/autoadd/memes/damn daniel/1.ogg",length=1.050},{path="chatsounds/autoadd/memes/damn daniel/10.ogg",length=1.617},{path="chatsounds/autoadd/memes/damn daniel/2.ogg",length=1.721},{path="chatsounds/autoadd/memes/damn daniel/3.ogg",length=1.222},{path="chatsounds/autoadd/memes/damn daniel/4.ogg",length=1.755},{path="chatsounds/autoadd/memes/damn daniel/5.ogg",length=1.548},{path="chatsounds/autoadd/memes/damn daniel/6.ogg",length=1.841},{path="chatsounds/autoadd/memes/damn daniel/7.ogg",length=1.136},{path="chatsounds/autoadd/memes/damn daniel/8.ogg",length=2.013},{path="chatsounds/autoadd/memes/damn daniel/9.ogg",length=1.513}}
+L["danger alarm"]={{path="chatsounds/autoadd/memes/danger alarm.ogg",length=5.855}}
 L["disgustang"]={{path="chatsounds/autoadd/memes/disgustang.ogg",length=1.521}}
 L["do not deny me my doobie"]={{path="chatsounds/autoadd/memes/do not deny me my doobie.ogg",length=1.984}}
 L["do you think god stays in heaven because he too lives in fear of what hes created"]={{path="chatsounds/autoadd/memes/do you think god stays in heaven because he too lives in fear of what hes created.ogg",length=6.430}}
@@ -53,6 +55,7 @@ L["emotional damage"]={{path="chatsounds/autoadd/memes/emotional damage.ogg",len
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
+L["feesh"]={{path="chatsounds/autoadd/memes/feesh.ogg",length=0.620}}
 L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
 L["flip"]={{path="chatsounds/autoadd/memes/flip.ogg",length=7.471}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
@@ -60,6 +63,8 @@ L["for ukraine"]={{path="chatsounds/autoadd/memes/for ukraine.ogg",length=0.810}
 L["frijoles de la olla"]={{path="chatsounds/autoadd/memes/frijoles de la olla.ogg",length=2.252}}
 L["fuck"]={{path="chatsounds/autoadd/memes/fuck.ogg",length=0.729}}
 L["fuck off"]={{path="chatsounds/autoadd/memes/fuck off.ogg",length=1.401}}
+L["fuck outta here"]={{path="chatsounds/autoadd/memes/fuck outta here.ogg",length=1.373}}
+L["fuck outta here and go to the mega gay zone"]={{path="chatsounds/autoadd/memes/fuck outta here and go to the mega gay zone.ogg",length=3.867}}
 L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.697}}
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
@@ -123,8 +128,10 @@ L["like scoob what is your favorite thing to do on the weekends"]={{path="chatso
 L["look again"]={{path="chatsounds/autoadd/memes/look again.ogg",length=0.873}}
 L["look down"]={{path="chatsounds/autoadd/memes/look down.ogg",length=0.685}}
 L["look down nathan"]={{path="chatsounds/autoadd/memes/look down nathan.ogg",length=1.055}}
+L["mega gay zone"]={{path="chatsounds/autoadd/memes/mega gay zone.ogg",length=1.608}}
 L["mitsubishi materials"]={{path="chatsounds/autoadd/memes/mitsubishi materials.ogg",length=2.678}}
 L["mixed race couple"]={{path="chatsounds/autoadd/memes/mixed race couple.ogg",length=1.710}}
+L["mleb"]={{path="chatsounds/autoadd/memes/mleb.ogg",length=0.760}}
 L["mlg xfiles"]={{path="chatsounds/autoadd/memes/mlg xfiles.ogg",length=38.582}}
 L["mr beaast"]={{path="chatsounds/autoadd/memes/mr beaast.ogg",length=2.299}}
 L["music make you lose control music make you lose control"]={{path="chatsounds/autoadd/memes/music make you lose control music make you lose control.ogg",length=6.920}}
@@ -140,6 +147,7 @@ L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
 L["oh mah gawd noo wayayeei"]={{path="chatsounds/autoadd/memes/oh mah gawd noo wayayeei.ogg",length=3.854}}
 L["oh my gawd noo waayeeayeeayeeyaaay"]={{path="chatsounds/autoadd/memes/oh my gawd noo waayeeayeeayeeyaaay.ogg",length=4.989}}
 L["oh no"]={{path="chatsounds/autoadd/memes/oh no.ogg",length=1.027}}
+L["oh no the poor feesh"]={{path="chatsounds/autoadd/memes/oh no the poor feesh.ogg",length=1.583}}
 L["oh oh oooh gah dayum ha ha"]={{path="chatsounds/autoadd/memes/oh oh oooh gah dayum ha ha.ogg",length=4.350}}
 L["oh shit he just busted a nut"]={{path="chatsounds/autoadd/memes/oh shit he just busted a nut.ogg",length=2.390}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}

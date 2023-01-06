@@ -28,8 +28,6 @@ L["espuma"]={{path="chatsounds/autoadd/random_shit/espuma.ogg",length=0.865}}
 L["eugh"]={{path="chatsounds/autoadd/random_shit/eugh.ogg",length=0.542}}
 L["fire deployment"]={{path="chatsounds/autoadd/random_shit/fire deployment.ogg",length=0.568}}
 L["fortnite"]={{path="chatsounds/autoadd/random_shit/fortnite.ogg",length=0.902}}
-L["from where youre kneeling must seem like an eighteen carat run of bad luck"]={{path="chatsounds/autoadd/random_shit/from where youre kneeling must seem like an eighteen carat run of bad luck.ogg",length=3.887}}
-L["future"]={{path="chatsounds/autoadd/random_shit/future/1.ogg",length=2.572},{path="chatsounds/autoadd/random_shit/future/2.ogg",length=2.642},{path="chatsounds/autoadd/random_shit/future/3.ogg",length=2.657}}
 L["gaming"]={{path="chatsounds/autoadd/random_shit/gaming.ogg",length=0.712}}
 L["get the fuck out of my room im playing minecraft"]={{path="chatsounds/autoadd/random_shit/get the fuck out of my room im playing minecraft.ogg",length=2.973}}
 L["go fuck"]={{path="chatsounds/autoadd/random_shit/go fuck.ogg",length=0.643}}
@@ -100,10 +98,8 @@ L["super mario in real life"]={{path="chatsounds/autoadd/random_shit/super mario
 L["tango down"]={{path="chatsounds/autoadd/random_shit/tango down.ogg",length=2.090}}
 L["thats what they want you to think"]={{path="chatsounds/autoadd/random_shit/thats what they want you to think.ogg",length=1.751}}
 L["the future is now old man"]={{path="chatsounds/autoadd/random_shit/the future is now old man.ogg",length=3.166}}
-L["the game was rigged from the start"]={{path="chatsounds/autoadd/random_shit/the game was rigged from the start.ogg",length=1.867}}
 L["tiduslaugh"]={{path="chatsounds/autoadd/random_shit/tiduslaugh.ogg",length=7.923}}
 L["timey wimey"]={{path="chatsounds/autoadd/random_shit/timey wimey.ogg",length=1.147}}
-L["truth is the game was rigged from the start"]={{path="chatsounds/autoadd/random_shit/truth is the game was rigged from the start.ogg",length=3.963}}
 L["try another"]={{path="chatsounds/autoadd/random_shit/try another.ogg",length=0.803}}
 L["unga bunga"]={{path="chatsounds/autoadd/random_shit/unga bunga.ogg",length=0.812}}
 L["we all are"]={{path="chatsounds/autoadd/random_shit/we all are.ogg",length=1.227}}
