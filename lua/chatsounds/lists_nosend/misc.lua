@@ -35,7 +35,6 @@ L["doom1"]={{path="chatsounds/autoadd/misc/doom1.ogg",length=16.378}}
 L["doom2"]={{path="chatsounds/autoadd/misc/doom2.ogg",length=18.695}}
 L["e"]={{path="chatsounds/autoadd/misc/e.ogg",length=1.302}}
 L["ea sucks big cock"]={{path="chatsounds/autoadd/misc/die waffen legt an.ogg",length=3.370}}
-L["earuuuuuuuuuuuu"]={{path="chatsounds/autoadd/misc/earuuuuuuuuuuuu.ogg",length=17.763}}
 L["ebola"]={{path="chatsounds/autoadd/misc/ebola/ebola 1.ogg",length=0.409},{path="chatsounds/autoadd/misc/ebola/ebola 2.ogg",length=0.708},{path="chatsounds/autoadd/misc/ebola/ebola 3.ogg",length=0.618},{path="chatsounds/autoadd/misc/ebola/ebola 4.ogg",length=1.036}}
 L["ebooooola"]={{path="chatsounds/autoadd/misc/ebooooola.ogg",length=1.569}}
 L["eeeyyy ebola"]={{path="chatsounds/autoadd/misc/eeeyyy ebola.ogg",length=1.397}}
