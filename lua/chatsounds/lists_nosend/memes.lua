@@ -129,6 +129,7 @@ L["look again"]={{path="chatsounds/autoadd/memes/look again.ogg",length=0.873}}
 L["look down"]={{path="chatsounds/autoadd/memes/look down.ogg",length=0.685}}
 L["look down nathan"]={{path="chatsounds/autoadd/memes/look down nathan.ogg",length=1.055}}
 L["mega gay zone"]={{path="chatsounds/autoadd/memes/mega gay zone.ogg",length=1.608}}
+L["mggaow"]={{path="chatsounds/autoadd/memes/mggaow.ogg",length=0.903}}
 L["mitsubishi materials"]={{path="chatsounds/autoadd/memes/mitsubishi materials.ogg",length=2.678}}
 L["mixed race couple"]={{path="chatsounds/autoadd/memes/mixed race couple.ogg",length=1.710}}
 L["mleb"]={{path="chatsounds/autoadd/memes/mleb.ogg",length=0.760}}
