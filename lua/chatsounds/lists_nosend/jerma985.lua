@@ -2,7 +2,7 @@ c.StartList("jerma985")
 L["fucking"]={{path="chatsounds/autoadd/jerma985/fucking.ogg",length=0.337}}
 L["get"]={{path="chatsounds/autoadd/jerma985/get.ogg",length=0.254}}
 L["get that fucking guy right now"]={{path="chatsounds/autoadd/jerma985/get that fucking guy right now.ogg",length=1.936}}
-L["guy"]={{path="chatsounds/autoadd/jerma985/guy.ogg",length=0.314}}
+L["guy"]={{path="chatsounds/autoadd/jerma985/guy.ogg",length=0.337}}
 L["i dont care about anything else i dont give a shit about anything else"]={{path="chatsounds/autoadd/jerma985/i dont care about anything else i dont give a shit about anything else.ogg",length=2.771}}
 L["im"]={{path="chatsounds/autoadd/jerma985/im.ogg",length=0.408}}
 L["im killing you"]={{path="chatsounds/autoadd/jerma985/im killing you.ogg",length=1.386}}
