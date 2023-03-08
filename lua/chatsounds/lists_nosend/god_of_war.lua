@@ -14,7 +14,7 @@ L["destroy my enemies"]={{path="chatsounds/autoadd/god_of_war/destroy my enemies
 L["fair enough"]={{path="chatsounds/autoadd/god_of_war/fair enough.ogg",length=0.861}}
 L["first you need to cut off my head"]={{path="chatsounds/autoadd/god_of_war/first you need to cut off my head.ogg",length=1.626}}
 L["freya"]={{path="chatsounds/autoadd/god_of_war/freya.ogg",length=0.845}}
-L["goofy ahh scream"]={{path="chatsounds/autoadd/god_of_war/goofy ahh scream.ogg",length=2.448}}
+L["goofy ahh scream"]={{path="chatsounds/autoadd/god_of_war/goofy ahh scream.ogg",length=2.588}}
 L["has aphrodite conquered another god of war"]={{path="chatsounds/autoadd/god_of_war/has aphrodite conquered another god of war.ogg",length=3.124}}
 L["how do you know"]={{path="chatsounds/autoadd/god_of_war/how do you know/1.ogg",length=1.148},{path="chatsounds/autoadd/god_of_war/how do you know/2.ogg",length=1.317}}
 L["i am through doing the bidding of the gods"]={{path="chatsounds/autoadd/god_of_war/i am through doing the bidding of the gods.ogg",length=3.033}}
@@ -43,13 +43,13 @@ L["tone"]={{path="chatsounds/autoadd/god_of_war/tone.ogg",length=1.275}}
 L["wait what"]={{path="chatsounds/autoadd/god_of_war/wait what.ogg",length=0.622}}
 L["watch"]={{path="chatsounds/autoadd/god_of_war/watch.ogg",length=1.064}}
 L["we need your help"]={{path="chatsounds/autoadd/god_of_war/we need your help.ogg",length=1.081}}
-L["what was it all for"]={{path="chatsounds/autoadd/god_of_war/what was it all for.ogg",length=1.245}}
+L["what was it all for"]={{path="chatsounds/autoadd/god_of_war/what was it all for.ogg",length=2.069}}
 L["why"]={{path="chatsounds/autoadd/god_of_war/why.ogg",length=0.695}}
-L["why did you do that"]={{path="chatsounds/autoadd/god_of_war/why did you do that.ogg",length=1.335}}
+L["why did you do that"]={{path="chatsounds/autoadd/god_of_war/why did you do that.ogg",length=2.145}}
 L["why does the son of odin hunt us"]={{path="chatsounds/autoadd/god_of_war/why does the son of odin hunt us.ogg",length=2.295}}
 L["woman do you hear me"]={{path="chatsounds/autoadd/god_of_war/woman do you hear me.ogg",length=1.164}}
 L["you challenge me mortal"]={{path="chatsounds/autoadd/god_of_war/you challenge me mortal.ogg",length=2.771}}
-L["you choose to be nothing"]={{path="chatsounds/autoadd/god_of_war/you choose to be nothing.ogg",length=1.667}}
+L["you choose to be nothing"]={{path="chatsounds/autoadd/god_of_war/you choose to be nothing.ogg",length=2.601}}
 L["you have disrespected the gods for the last time kratos"]={{path="chatsounds/autoadd/god_of_war/you have disrespected the gods for the last time kratos.ogg",length=5.495}}
 L["your"]={{path="chatsounds/autoadd/god_of_war/your.ogg",length=1.096}}
 L["your son has returned"]={{path="chatsounds/autoadd/god_of_war/your son has returned.ogg",length=2.304}}
