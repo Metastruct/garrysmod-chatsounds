@@ -3,11 +3,13 @@ L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
+L["comment"]={{path="chatsounds/autoadd/anime/comment.ogg",length=0.604}}
 L["eurobeat yuri"]={{path="chatsounds/autoadd/anime/eurobeat yuri.ogg",length=26.348}}
 L["fuck you"]={{path="chatsounds/autoadd/anime/fuck you.ogg",length=1.796}}
 L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
+L["ieehey"]={{path="chatsounds/autoadd/anime/ieehey.ogg",length=0.998}}
 L["kero"]={{path="chatsounds/autoadd/anime/kero.ogg",length=0.561}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
@@ -21,6 +23,10 @@ L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="ch
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
+L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chatsounds/autoadd/anime/true/2.ogg",length=0.395},{path="chatsounds/autoadd/anime/true/3.ogg",length=0.427}}
+L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
+L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
+L["vtuberlaugh"]={{path="chatsounds/autoadd/anime/vtuberlaugh.ogg",length=0.679}}
 L["whyyy"]={{path="chatsounds/autoadd/anime/whyyy.ogg",length=0.930}}
 L["yeah yeah take it out take it out take it out"]={{path="chatsounds/autoadd/anime/yeah yeah take it out take it out take it out.ogg",length=2.027}}
 L["yeah yeah take it out take it out yeah show it to me show it to me papa aaaaahhh"]={{path="chatsounds/autoadd/anime/yeah yeah take it out take it out yeah show it to me show it to me papa aaaaahhh.ogg",length=5.734}}
