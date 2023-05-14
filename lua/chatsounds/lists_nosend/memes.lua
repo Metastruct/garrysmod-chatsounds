@@ -3,6 +3,7 @@ L["216 loop"]={{path="chatsounds/autoadd/memes/216 loop.ogg",length=6.234}}
 L["360 ooga booga booga"]={{path="chatsounds/autoadd/memes/360 ooga booga booga.ogg",length=3.350}}
 L["aa"]={{path="chatsounds/autoadd/memes/aa.ogg",length=0.653}}
 L["ah fuck fuck"]={{path="chatsounds/autoadd/memes/ah fuck fuck.ogg",length=2.722}}
+L["ahoy"]={{path="chatsounds/autoadd/memes/ahoy.ogg",length=2.058}}
 L["alright guys guys check it out what im about to do is apply mind manipulation"]={{path="chatsounds/autoadd/memes/alright guys guys check it out what im about to do is apply mind manipulation.ogg",length=4.220}}
 L["and getting many victory royales"]={{path="chatsounds/autoadd/memes/and getting many victory royales.ogg",length=2.194}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
