@@ -1,12 +1,14 @@
 c.StartList("memes")
 L["216 loop"]={{path="chatsounds/autoadd/memes/216 loop.ogg",length=6.234}}
 L["360 ooga booga booga"]={{path="chatsounds/autoadd/memes/360 ooga booga booga.ogg",length=3.350}}
+L["a single lap should be completed each time you hear this sound"]={{path="chatsounds/autoadd/memes/a single lap should be completed each time you hear this sound.ogg",length=3.402}}
 L["aa"]={{path="chatsounds/autoadd/memes/aa.ogg",length=0.653}}
 L["ah fuck fuck"]={{path="chatsounds/autoadd/memes/ah fuck fuck.ogg",length=2.722}}
 L["ahoy"]={{path="chatsounds/autoadd/memes/ahoy.ogg",length=2.058}}
 L["alright guys guys check it out what im about to do is apply mind manipulation"]={{path="chatsounds/autoadd/memes/alright guys guys check it out what im about to do is apply mind manipulation.ogg",length=4.220}}
 L["and getting many victory royales"]={{path="chatsounds/autoadd/memes/and getting many victory royales.ogg",length=2.194}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
+L["and run as long as possible"]={{path="chatsounds/autoadd/memes/and run as long as possible.ogg",length=1.846}}
 L["angryhaaugh"]={{path="chatsounds/autoadd/memes/angryhaaugh.ogg",length=1.886}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/memes/arabic nokia ringtone.ogg",length=23.719}}
 L["are red"]={{path="chatsounds/autoadd/memes/are red.ogg",length=0.880}}
@@ -59,6 +61,8 @@ L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
 L["feesh"]={{path="chatsounds/autoadd/memes/feesh.ogg",length=0.620}}
 L["fendt"]={{path="chatsounds/autoadd/memes/fendt.ogg",length=22.538}}
+L["fgptbeep"]={{path="chatsounds/autoadd/memes/fgptbeep.ogg",length=0.848}}
+L["fgptding"]={{path="chatsounds/autoadd/memes/fgptding.ogg",length=0.882}}
 L["flip"]={{path="chatsounds/autoadd/memes/flip.ogg",length=7.471}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
 L["for ukraine"]={{path="chatsounds/autoadd/memes/for ukraine.ogg",length=0.810}}
@@ -112,6 +116,7 @@ L["im gonna beat your ass"]={{path="chatsounds/autoadd/memes/im gonna beat your 
 L["im greek"]={{path="chatsounds/autoadd/memes/im greek.ogg",length=1.679}}
 L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
+L["is a multistage aerobic capacity test"]={{path="chatsounds/autoadd/memes/is a multistage aerobic capacity test.ogg",length=2.821}}
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
@@ -127,6 +132,7 @@ L["legalize nuclear bombs"]={{path="chatsounds/autoadd/memes/legalize nuclear bo
 L["lemon"]={{path="chatsounds/autoadd/memes/lemon.ogg",length=0.766}}
 L["let me pluck pluck pluck"]={{path="chatsounds/autoadd/memes/let me pluck pluck pluck.ogg",length=1.965}}
 L["like scoob what is your favorite thing to do on the weekends"]={{path="chatsounds/autoadd/memes/like scoob what is your favorite thing to do on the weekends.ogg",length=5.181}}
+L["line up at the start"]={{path="chatsounds/autoadd/memes/line up at the start.ogg",length=1.405}}
 L["look again"]={{path="chatsounds/autoadd/memes/look again.ogg",length=0.873}}
 L["look down"]={{path="chatsounds/autoadd/memes/look down.ogg",length=0.685}}
 L["look down nathan"]={{path="chatsounds/autoadd/memes/look down nathan.ogg",length=1.055}}
@@ -157,6 +163,7 @@ L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these 
 L["omg oooh"]={{path="chatsounds/autoadd/memes/omg oooh.ogg",length=3.318}}
 L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",length=5.052}}
 L["omo"]={{path="chatsounds/autoadd/memes/omo.ogg",length=0.653}}
+L["on your mark get ready start"]={{path="chatsounds/autoadd/memes/on your mark get ready start.ogg",length=3.240}}
 L["ookaaaaay lets gooo"]={{path="chatsounds/autoadd/memes/ookaaaaay lets gooo.ogg",length=7.451}}
 L["oopsie"]={{path="chatsounds/autoadd/memes/oopsie.ogg",length=0.570}}
 L["oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this"]={{path="chatsounds/autoadd/memes/oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this.ogg",length=10.261}}
@@ -167,6 +174,7 @@ L["please"]={{path="chatsounds/autoadd/memes/please.ogg",length=0.571}}
 L["please give me"]={{path="chatsounds/autoadd/memes/please give me.ogg",length=1.280}}
 L["power armor is for pussies"]={{path="chatsounds/autoadd/memes/power armor is for pussies.ogg",length=2.285}}
 L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
+L["remember to run in a straight line"]={{path="chatsounds/autoadd/memes/remember to run in a straight line.ogg",length=2.171}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["roses"]={{path="chatsounds/autoadd/memes/roses.ogg",length=0.735}}
 L["russian sneeze"]={{path="chatsounds/autoadd/memes/russian sneeze.ogg",length=4.575}}
@@ -188,8 +196,14 @@ L["sweaty speedrun"]={{path="chatsounds/autoadd/memes/sweaty speedrun.ogg",lengt
 L["sweaty speedrunmusic"]={{path="chatsounds/autoadd/memes/sweaty speedrunmusic.ogg",length=32.117}}
 L["table break"]={{path="chatsounds/autoadd/memes/table break/tablebreak1.ogg",length=0.876},{path="chatsounds/autoadd/memes/table break/tablebreak2.ogg",length=3.448}}
 L["tacobell bell"]={{path="chatsounds/autoadd/memes/tacobell bell.ogg",length=1.722}}
+L["that progressively gets more difficult as it continues"]={{path="chatsounds/autoadd/memes/that progressively gets more difficult as it continues.ogg",length=3.402}}
+L["the 20 meter pacer test will begin in 30 seconds"]={{path="chatsounds/autoadd/memes/the 20 meter pacer test will begin in 30 seconds.ogg",length=3.262}}
 L["the balls harden"]={{path="chatsounds/autoadd/memes/the balls harden.ogg",length=0.982}}
 L["the co monkeys at our headquarters are working"]={{path="chatsounds/autoadd/memes/the co monkeys at our headquarters are working.ogg",length=2.029}}
+L["the fitnessgram pacer test"]={{path="chatsounds/autoadd/memes/the fitnessgram pacer test.ogg",length=1.672}}
+L["the running speed starts slowly but gets faster each minute after you hear this signal"]={{path="chatsounds/autoadd/memes/the running speed starts slowly but gets faster each minute after you hear this signal.ogg",length=4.853}}
+L["the second time you fail to complete a lap before the sound your test is over"]={{path="chatsounds/autoadd/memes/the second time you fail to complete a lap before the sound your test is over.ogg",length=4.505}}
+L["the test will begin on the word start"]={{path="chatsounds/autoadd/memes/the test will begin on the word start.ogg",length=2.322}}
 L["the ufos are back"]={{path="chatsounds/autoadd/memes/the ufos are back.ogg",length=1.786}}
 L["these things are dogwater as shit"]={{path="chatsounds/autoadd/memes/these things are dogwater as shit.ogg",length=2.086}}
 L["think about what im thinking about"]={{path="chatsounds/autoadd/memes/think about what im thinking about.ogg",length=2.431}}
