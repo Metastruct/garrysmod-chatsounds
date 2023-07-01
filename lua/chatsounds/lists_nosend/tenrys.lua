@@ -154,7 +154,6 @@ L["what"]={{path="chatsounds/autoadd/tenrys/what/1.ogg",length=0.665},{path="cha
 L["what youre seeing now is my normal state"]={{path="chatsounds/autoadd/tenrys/what youre seeing now is my normal state.ogg",length=2.671}}
 L["whipcrack"]={{path="chatsounds/autoadd/tenrys/whipcrack.ogg",length=0.454}}
 L["why do i feel so disappointed"]={{path="chatsounds/autoadd/tenrys/why do i feel so disappointed.ogg",length=1.977}}
-L["wilhelmscream"]={{path="chatsounds/autoadd/tenrys/wilhelmscream.ogg",length=1.064}}
 L["windows xp critical stop"]={{path="chatsounds/autoadd/tenrys/windows xp critical stop.ogg",length=0.892}}
 L["woah"]={{path="chatsounds/autoadd/tenrys/woah.ogg",length=0.489}}
 L["woah woah woah woah woahwoahwoahwoahwoahwoah"]={{path="chatsounds/autoadd/tenrys/woah woah woah woah woahwoahwoahwoahwoahwoah.ogg",length=7.523}}
