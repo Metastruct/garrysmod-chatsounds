@@ -134,6 +134,7 @@ L["squidward distorted"]={{path="chatsounds/autoadd/spongebob/squidward distorte
 L["squidward struggle"]={{path="chatsounds/autoadd/spongebob/squidward struggle.ogg",length=3.200}}
 L["squidwardgasp"]={{path="chatsounds/autoadd/spongebob/squidwardgasp.ogg",length=0.825}}
 L["squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward"]={{path="chatsounds/autoadd/spongebob/squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward.ogg",length=5.100}}
+L["steel string"]={{path="chatsounds/autoadd/spongebob/steel string.ogg",length=3.889}}
 L["stop iitt ssttoopp iiittt"]={{path="chatsounds/autoadd/spongebob/stop iitt ssttoopp iiittt.ogg",length=4.180}}
 L["stop it"]={{path="chatsounds/autoadd/spongebob/stop it.ogg",length=2.273}}
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.862}}
