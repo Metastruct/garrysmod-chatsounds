@@ -215,6 +215,7 @@ L["toyota"]={{path="chatsounds/autoadd/memes/toyota/1.ogg",length=0.620},{path="
 L["two minds equaling one fiery mind"]={{path="chatsounds/autoadd/memes/two minds equaling one fiery mind.ogg",length=4.905}}
 L["uhm if youre homeless just buy a house duh"]={{path="chatsounds/autoadd/memes/uhm if youre homeless just buy a house duh.ogg",length=9.000}}
 L["uncle ben what happened"]={{path="chatsounds/autoadd/memes/uncle ben what happened.ogg",length=1.614}}
+L["uuoooooooooooooooo"]={{path="chatsounds/autoadd/memes/uuoooooooooooooooo.ogg",length=8.034}}
 L["uwah"]={{path="chatsounds/autoadd/memes/uwah.ogg",length=0.674}}
 L["uwu"]={{path="chatsounds/autoadd/memes/uwu.ogg",length=0.956}}
 L["uwuh"]={{path="chatsounds/autoadd/memes/uwuh.ogg",length=0.422}}
