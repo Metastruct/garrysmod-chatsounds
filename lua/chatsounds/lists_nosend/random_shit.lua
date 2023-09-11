@@ -85,6 +85,7 @@ L["rdmrdmrdm"]={{path="chatsounds/autoadd/random_shit/rdmrdmrdm.ogg",length=2.62
 L["russian scream"]={{path="chatsounds/autoadd/random_shit/russian scream.ogg",length=2.550}}
 L["scotland forever"]={{path="chatsounds/autoadd/random_shit/scotland forever.ogg",length=4.151}}
 L["she knows too much"]={{path="chatsounds/autoadd/random_shit/she knows too much.ogg",length=0.919}}
+L["shittin poopin"]={{path="chatsounds/autoadd/random_shit/shittin poopin/shittin poopin.ogg",length=1.325},{path="chatsounds/autoadd/random_shit/shittin poopin/shittin poopin2.ogg",length=1.369}}
 L["shrimpscream"]={{path="chatsounds/autoadd/random_shit/shrimpscream.ogg",length=5.165}}
 L["sir we are they"]={{path="chatsounds/autoadd/random_shit/sir we are they.ogg",length=1.614}}
 L["skibidi bop mmm bada"]={{path="chatsounds/autoadd/random_shit/skibidi bop mmm bada.ogg",length=1.851}}
