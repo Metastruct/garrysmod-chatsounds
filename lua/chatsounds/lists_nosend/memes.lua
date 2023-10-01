@@ -205,6 +205,7 @@ L["the running speed starts slowly but gets faster each minute after you hear th
 L["the second time you fail to complete a lap before the sound your test is over"]={{path="chatsounds/autoadd/memes/the second time you fail to complete a lap before the sound your test is over.ogg",length=4.505}}
 L["the test will begin on the word start"]={{path="chatsounds/autoadd/memes/the test will begin on the word start.ogg",length=2.322}}
 L["the ufos are back"]={{path="chatsounds/autoadd/memes/the ufos are back.ogg",length=1.786}}
+L["there be treasure"]={{path="chatsounds/autoadd/memes/there be treasure.ogg",length=1.786}}
 L["these things are dogwater as shit"]={{path="chatsounds/autoadd/memes/these things are dogwater as shit.ogg",length=2.086}}
 L["think about what im thinking about"]={{path="chatsounds/autoadd/memes/think about what im thinking about.ogg",length=2.431}}
 L["this is epic"]={{path="chatsounds/autoadd/memes/this is epic.ogg",length=1.200}}
