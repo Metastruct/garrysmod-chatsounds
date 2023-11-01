@@ -6,6 +6,8 @@ L["aa"]={{path="chatsounds/autoadd/memes/aa.ogg",length=0.653}}
 L["ah fuck fuck"]={{path="chatsounds/autoadd/memes/ah fuck fuck.ogg",length=2.722}}
 L["ahoy"]={{path="chatsounds/autoadd/memes/ahoy.ogg",length=2.058}}
 L["alright guys guys check it out what im about to do is apply mind manipulation"]={{path="chatsounds/autoadd/memes/alright guys guys check it out what im about to do is apply mind manipulation.ogg",length=4.220}}
+L["ambatukam"]={{path="chatsounds/autoadd/memes/ambatukam.ogg",length=9.734}}
+L["ambatukam harmony"]={{path="chatsounds/autoadd/memes/ambatukam harmony.ogg",length=9.254}}
 L["and getting many victory royales"]={{path="chatsounds/autoadd/memes/and getting many victory royales.ogg",length=2.194}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
 L["and run as long as possible"]={{path="chatsounds/autoadd/memes/and run as long as possible.ogg",length=1.846}}
@@ -161,6 +163,7 @@ L["oh no the poor feesh"]={{path="chatsounds/autoadd/memes/oh no the poor feesh.
 L["oh oh oooh gah dayum ha ha"]={{path="chatsounds/autoadd/memes/oh oh oooh gah dayum ha ha.ogg",length=4.350}}
 L["oh shit he just busted a nut"]={{path="chatsounds/autoadd/memes/oh shit he just busted a nut.ogg",length=2.390}}
 L["oh these are pretty cool bananas"]={{path="chatsounds/autoadd/memes/oh these are pretty cool bananas.ogg",length=1.820}}
+L["omaygot"]={{path="chatsounds/autoadd/memes/omaygot.ogg",length=1.097}}
 L["omg oooh"]={{path="chatsounds/autoadd/memes/omg oooh.ogg",length=3.318}}
 L["omg what do i do"]={{path="chatsounds/autoadd/memes/omg what do i do.ogg",length=5.052}}
 L["omo"]={{path="chatsounds/autoadd/memes/omo.ogg",length=0.653}}

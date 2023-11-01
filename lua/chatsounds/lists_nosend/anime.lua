@@ -14,13 +14,12 @@ L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
 L["ieehey"]={{path="chatsounds/autoadd/anime/ieehey.ogg",length=0.998}}
+L["kani"]={{path="chatsounds/autoadd/anime/kani.ogg",length=2.153}}
 L["kero"]={{path="chatsounds/autoadd/anime/kero.ogg",length=0.561}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma_balls"]={{path="chatsounds/autoadd/anime/ligma_balls.ogg",length=1.647}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
-L["ni hao nyan"]={{path="chatsounds/autoadd/anime/ni hao nyan.ogg",length=28.397}}
-L["ni hao nyan loop"]={{path="chatsounds/autoadd/anime/ni hao nyan loop.ogg",length=11.054}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
