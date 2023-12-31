@@ -58,6 +58,7 @@ L["eating sounds"]={{path="chatsounds/autoadd/memes/eating sounds.ogg",length=0.
 L["el femboy"]={{path="chatsounds/autoadd/memes/el femboy.ogg",length=1.163}}
 L["el racista"]={{path="chatsounds/autoadd/memes/el racista.ogg",length=2.311}}
 L["emotional damage"]={{path="chatsounds/autoadd/memes/emotional damage.ogg",length=2.227}}
+L["et wird suppe jegessen"]={{path="chatsounds/autoadd/memes/et wird suppe jegessen.ogg",length=1.578}}
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
@@ -105,6 +106,7 @@ L["i mean seriously how does anyone find that funny"]={{path="chatsounds/autoadd
 L["i said no"]={{path="chatsounds/autoadd/memes/i said no.ogg",length=1.741}}
 L["i said whoever threw that paper your moms a hoe"]={{path="chatsounds/autoadd/memes/i said whoever threw that paper your moms a hoe.ogg",length=3.128}}
 L["i want you to relax"]={{path="chatsounds/autoadd/memes/i want you to relax.ogg",length=1.467}}
+L["ich muss raus"]={{path="chatsounds/autoadd/memes/ich muss raus.ogg",length=1.648}}
 L["if you dont stop fucking with me"]={{path="chatsounds/autoadd/memes/if you dont stop fucking with me.ogg",length=1.737}}
 L["if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh"]={{path="chatsounds/autoadd/memes/if you haaugh now to watch a short haaugh youll recieve 30 minutes of haaugh.ogg",length=7.004}}
 L["if you laughed at it there is something seriously wrong with you"]={{path="chatsounds/autoadd/memes/if you laughed at it there is something seriously wrong with you.ogg",length=4.305}}
@@ -179,6 +181,7 @@ L["please"]={{path="chatsounds/autoadd/memes/please.ogg",length=0.571}}
 L["please give me"]={{path="chatsounds/autoadd/memes/please give me.ogg",length=1.280}}
 L["power armor is for pussies"]={{path="chatsounds/autoadd/memes/power armor is for pussies.ogg",length=2.285}}
 L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
+L["reis"]={{path="chatsounds/autoadd/memes/reis.ogg",length=4.104}}
 L["remember to run in a straight line"]={{path="chatsounds/autoadd/memes/remember to run in a straight line.ogg",length=2.171}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["roses"]={{path="chatsounds/autoadd/memes/roses.ogg",length=0.735}}
