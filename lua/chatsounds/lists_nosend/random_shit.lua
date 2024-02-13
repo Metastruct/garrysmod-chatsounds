@@ -27,6 +27,7 @@ L["ee ur"]={{path="chatsounds/autoadd/random_shit/ee ur.ogg",length=1.431}}
 L["eekum bokum"]={{path="chatsounds/autoadd/random_shit/eekum bokum/1.ogg",length=0.883},{path="chatsounds/autoadd/random_shit/eekum bokum/2.ogg",length=1.063}}
 L["espuma"]={{path="chatsounds/autoadd/random_shit/espuma.ogg",length=0.865}}
 L["eugh"]={{path="chatsounds/autoadd/random_shit/eugh.ogg",length=0.542}}
+L["evalar jingle"]={{path="chatsounds/autoadd/random_shit/evalar jingle.ogg",length=10.013}}
 L["fire deployment"]={{path="chatsounds/autoadd/random_shit/fire deployment.ogg",length=0.568}}
 L["fortnite"]={{path="chatsounds/autoadd/random_shit/fortnite.ogg",length=0.902}}
 L["gaming"]={{path="chatsounds/autoadd/random_shit/gaming.ogg",length=0.712}}
