@@ -18,7 +18,7 @@ L["kani"]={{path="chatsounds/autoadd/anime/kani.ogg",length=2.153}}
 L["kero"]={{path="chatsounds/autoadd/anime/kero.ogg",length=0.561}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
-L["ligma_balls"]={{path="chatsounds/autoadd/anime/ligma_balls.ogg",length=1.647}}
+L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
