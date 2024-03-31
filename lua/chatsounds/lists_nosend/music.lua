@@ -40,6 +40,7 @@ L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
 L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
+L["hongkong97 full"]={{path="chatsounds/autoadd/music/hongkong97 full.ogg",length=163.255}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
 L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
 L["ilovehorses"]={{path="chatsounds/autoadd/music/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/music/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/music/ilovehorses/3.ogg",length=7.386}}

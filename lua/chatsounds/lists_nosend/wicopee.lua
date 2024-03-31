@@ -77,7 +77,7 @@ L["hihihihihi"]={{path="chatsounds/autoadd/wicopee/hihihihihi.ogg",length=0.963}
 L["hit"]={{path="chatsounds/autoadd/wicopee/hit/1.ogg",length=1.320},{path="chatsounds/autoadd/wicopee/hit/2.ogg",length=2.772}}
 L["hleb v kota ne prevratilsya"]={{path="chatsounds/autoadd/wicopee/hleb v kota ne prevratilsya.ogg",length=1.922}}
 L["hochesh est"]={{path="chatsounds/autoadd/wicopee/hochesh est.ogg",length=0.914}}
-L["hongkong97"]={{path="chatsounds/autoadd/wicopee/hongkong97.ogg",length=5.612}}
+L["hongkong97"]={{path="chatsounds/autoadd/wicopee/hongkong97.ogg",length=5.512}}
 L["how to tie a noose and watch the lion king"]={{path="chatsounds/autoadd/wicopee/how to tie a noose and watch the lion king.ogg",length=2.574}}
 L["huhuhuhu"]={{path="chatsounds/autoadd/wicopee/huhuhuhu.ogg",length=0.756}}
 L["i am going to die"]={{path="chatsounds/autoadd/wicopee/i am going to die.ogg",length=1.470}}
