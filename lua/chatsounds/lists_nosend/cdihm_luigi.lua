@@ -1,5 +1,6 @@
 c.StartList("cdihm_luigi")
 L["a"]={{path="chatsounds/autoadd/cdihm_luigi/a/a.ogg",length=0.143},{path="chatsounds/autoadd/cdihm_luigi/a/a2.ogg",length=0.137}}
+L["a light"]={{path="chatsounds/autoadd/cdihm_luigi/a light.ogg",length=1.226}}
 L["and"]={{path="chatsounds/autoadd/cdihm_luigi/and/and.ogg",length=0.340},{path="chatsounds/autoadd/cdihm_luigi/and/and2.ogg",length=0.224}}
 L["and you"]={{path="chatsounds/autoadd/cdihm_luigi/and you.ogg",length=0.869}}
 L["are"]={{path="chatsounds/autoadd/cdihm_luigi/are.ogg",length=0.166}}
@@ -61,7 +62,6 @@ L["that"]={{path="chatsounds/autoadd/cdihm_luigi/that/that-2-2.ogg",length=0.244
 L["thats"]={{path="chatsounds/autoadd/cdihm_luigi/thats/thats.ogg",length=0.344},{path="chatsounds/autoadd/cdihm_luigi/thats/thats2.ogg",length=0.341}}
 L["thats that creepy bowsers laugh"]={{path="chatsounds/autoadd/cdihm_luigi/thats that creepy bowsers laugh.ogg",length=2.369}}
 L["the"]={{path="chatsounds/autoadd/cdihm_luigi/the/2.ogg",length=0.224},{path="chatsounds/autoadd/cdihm_luigi/the/3.ogg",length=0.159},{path="chatsounds/autoadd/cdihm_luigi/the/the-2-2.ogg",length=0.096},{path="chatsounds/autoadd/cdihm_luigi/the/the-2.ogg",length=0.205},{path="chatsounds/autoadd/cdihm_luigi/the/the-3-2.ogg",length=0.112},{path="chatsounds/autoadd/cdihm_luigi/the/the.ogg",length=0.103}}
-L["the light"]={{path="chatsounds/autoadd/cdihm_luigi/the light.ogg",length=1.226}}
 L["there"]={{path="chatsounds/autoadd/cdihm_luigi/there/there-2.ogg",length=0.537},{path="chatsounds/autoadd/cdihm_luigi/there/there.ogg",length=0.800}}
 L["theres"]={{path="chatsounds/autoadd/cdihm_luigi/theres/theres.ogg",length=0.448},{path="chatsounds/autoadd/cdihm_luigi/theres/theres2.ogg",length=0.415}}
 L["theres fire"]={{path="chatsounds/autoadd/cdihm_luigi/theres fire.ogg",length=1.235}}
