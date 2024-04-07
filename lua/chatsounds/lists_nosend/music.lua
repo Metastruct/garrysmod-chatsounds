@@ -63,6 +63,7 @@ L["offlimits"]={{path="chatsounds/autoadd/music/offlimits.ogg",length=113.175}}
 L["over the horizon"]={{path="chatsounds/autoadd/music/over the horizon.ogg",length=60.912}}
 L["penis music"]={{path="chatsounds/autoadd/music/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/music/penis music loop.ogg",length=10.975}}
+L["piano a3"]={{path="chatsounds/autoadd/music/piano a3.ogg",length=0.887}}
 L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmortalyes.ogg",length=125.982}}
 L["pornhub"]={{path="chatsounds/autoadd/music/pornhub.ogg",length=3.056}}
 L["prism"]={{path="chatsounds/autoadd/music/prism.ogg",length=0.750}}
