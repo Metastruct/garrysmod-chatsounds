@@ -35,7 +35,7 @@ L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
-L["french"]={{path="chatsounds/autoadd/music/french.ogg",length=28.286}}
+L["french accordion music"]={{path="chatsounds/autoadd/music/french accordion music.ogg",length=28.286}}
 L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
