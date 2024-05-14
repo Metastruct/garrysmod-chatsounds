@@ -32,6 +32,7 @@ L["it is interesting reading your reactions"]={{path="chatsounds/autoadd/matrix/
 L["its doom is apparent to me now as a consequence of the imperfection inherent in every human being"]={{path="chatsounds/autoadd/matrix/its doom is apparent to me now as a consequence of the imperfection inherent in every human being.ogg",length=5.919}}
 L["its every living inhabitant terminated its entire existence eradicated"]={{path="chatsounds/autoadd/matrix/its every living inhabitant terminated its entire existence eradicated.ogg",length=4.489}}
 L["ive been waiting for you"]={{path="chatsounds/autoadd/matrix/ive been waiting for you.ogg",length=1.633}}
+L["keanu reeves screaming"]={{path="chatsounds/autoadd/matrix/keanu reeves screaming.ogg",length=11.537}}
 L["or perhaps a mind less bound by the parameters of perfection"]={{path="chatsounds/autoadd/matrix/or perhaps a mind less bound by the parameters of perfection.ogg",length=4.140}}
 L["precisely"]={{path="chatsounds/autoadd/matrix/precisely.ogg",length=0.756}}
 L["quite right interesting"]={{path="chatsounds/autoadd/matrix/quite right interesting.ogg",length=3.234}}
