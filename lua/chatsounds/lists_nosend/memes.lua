@@ -36,10 +36,13 @@ L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear c
 L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
 L["call the fire department"]={{path="chatsounds/autoadd/memes/call the fire department.ogg",length=1.246}}
 L["calm1"]={{path="chatsounds/autoadd/memes/calm1.ogg",length=14.785}}
+L["can somebody give me a hiyah"]={{path="chatsounds/autoadd/memes/can somebody give me a hiyah.ogg",length=3.226}}
 L["cause clearly the last ass whopping you got wasnt good enough bitch"]={{path="chatsounds/autoadd/memes/cause clearly the last ass whopping you got wasnt good enough bitch.ogg",length=4.304}}
 L["cause jordan never did that move"]={{path="chatsounds/autoadd/memes/cause jordan never did that move.ogg",length=2.113}}
 L["cheddar cheese brbrbrbrbr"]={{path="chatsounds/autoadd/memes/cheddar cheese brbrbrbrbr.ogg",length=3.133}}
 L["chuckling stop"]={{path="chatsounds/autoadd/memes/chuckling stop.ogg",length=1.759}}
+L["cmeere"]={{path="chatsounds/autoadd/memes/cmeere.ogg",length=1.354}}
+L["cmere boy"]={{path="chatsounds/autoadd/memes/cmere boy.ogg",length=0.906}}
 L["coc thud"]={{path="chatsounds/autoadd/memes/coc thud.ogg",length=3.162}}
 L["crazybus remix"]={{path="chatsounds/autoadd/memes/crazybus remix.ogg",length=24.018}}
 L["cream of mushrooms"]={{path="chatsounds/autoadd/memes/cream of mushrooms.ogg",length=1.997}}
