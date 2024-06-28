@@ -20,6 +20,7 @@ L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
+L["nice cock"]={{path="chatsounds/autoadd/anime/nice cock.ogg",length=1.315}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
