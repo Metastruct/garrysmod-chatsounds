@@ -20,6 +20,7 @@ L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
+L["nice cock"]={{path="chatsounds/autoadd/anime/nice cock.ogg",length=1.315}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
@@ -30,6 +31,7 @@ L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}
 L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chatsounds/autoadd/anime/true/2.ogg",length=0.395},{path="chatsounds/autoadd/anime/true/3.ogg",length=0.427}}
 L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
 L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
+L["tuturu"]={{path="chatsounds/autoadd/anime/tuturu.ogg",length=1.248}}
 L["vtuberlaugh"]={{path="chatsounds/autoadd/anime/vtuberlaugh.ogg",length=0.679}}
 L["wake up"]={{path="chatsounds/autoadd/anime/wake up.ogg",length=0.956}}
 L["water in the fire why"]={{path="chatsounds/autoadd/anime/water in the fire why.ogg",length=3.441}}
