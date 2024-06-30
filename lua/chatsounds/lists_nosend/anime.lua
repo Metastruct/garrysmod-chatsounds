@@ -3,6 +3,7 @@ L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
+L["cawfee"]={{path="chatsounds/autoadd/anime/cawfee/1.ogg",length=0.650},{path="chatsounds/autoadd/anime/cawfee/2.ogg",length=0.869}}
 L["comment"]={{path="chatsounds/autoadd/anime/comment.ogg",length=0.604}}
 L["dont sleep"]={{path="chatsounds/autoadd/anime/dont sleep.ogg",length=0.926}}
 L["dori dori dori dori"]={{path="chatsounds/autoadd/anime/dori dori dori dori.ogg",length=1.128}}
@@ -11,16 +12,20 @@ L["fuck you"]={{path="chatsounds/autoadd/anime/fuck you.ogg",length=1.796}}
 L["good morning"]={{path="chatsounds/autoadd/anime/good morning.ogg",length=0.964}}
 L["good night"]={{path="chatsounds/autoadd/anime/good night.ogg",length=0.740}}
 L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
+L["gween tea"]={{path="chatsounds/autoadd/anime/gween tea/1.ogg",length=0.762},{path="chatsounds/autoadd/anime/gween tea/2.ogg",length=0.846}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
 L["ieehey"]={{path="chatsounds/autoadd/anime/ieehey.ogg",length=0.998}}
 L["kani"]={{path="chatsounds/autoadd/anime/kani.ogg",length=2.153}}
 L["kero"]={{path="chatsounds/autoadd/anime/kero.ogg",length=0.561}}
+L["kuru kuru"]={{path="chatsounds/autoadd/anime/kuru kuru.ogg",length=0.879}}
+L["kururin"]={{path="chatsounds/autoadd/anime/kururin.ogg",length=0.784}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
 L["nice cock"]={{path="chatsounds/autoadd/anime/nice cock.ogg",length=1.315}}
+L["not tomorrow"]={{path="chatsounds/autoadd/anime/not tomorrow.ogg",length=1.230}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
@@ -28,6 +33,9 @@ L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="ch
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
+L["todaaay"]={{path="chatsounds/autoadd/anime/todaaay/1.ogg",length=1.208},{path="chatsounds/autoadd/anime/todaaay/2.ogg",length=1.239}}
+L["today"]={{path="chatsounds/autoadd/anime/today.ogg",length=0.690}}
+L["tomorrow"]={{path="chatsounds/autoadd/anime/tomorrow/1.ogg",length=0.796},{path="chatsounds/autoadd/anime/tomorrow/2.ogg",length=0.809},{path="chatsounds/autoadd/anime/tomorrow/3.ogg",length=1.256}}
 L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chatsounds/autoadd/anime/true/2.ogg",length=0.395},{path="chatsounds/autoadd/anime/true/3.ogg",length=0.427}}
 L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
 L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
