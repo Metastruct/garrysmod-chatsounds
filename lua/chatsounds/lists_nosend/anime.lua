@@ -1,6 +1,7 @@
 c.StartList("anime")
 L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
+L["america ya"]={{path="chatsounds/autoadd/anime/america ya.ogg",length=1.387}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["cawfee"]={{path="chatsounds/autoadd/anime/cawfee/1.ogg",length=0.650},{path="chatsounds/autoadd/anime/cawfee/2.ogg",length=0.869}}
@@ -13,6 +14,7 @@ L["good morning"]={{path="chatsounds/autoadd/anime/good morning.ogg",length=0.96
 L["good night"]={{path="chatsounds/autoadd/anime/good night.ogg",length=0.740}}
 L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
 L["gween tea"]={{path="chatsounds/autoadd/anime/gween tea/1.ogg",length=0.762},{path="chatsounds/autoadd/anime/gween tea/2.ogg",length=0.846}}
+L["hallo"]={{path="chatsounds/autoadd/anime/hallo/1.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/2.ogg",length=0.918},{path="chatsounds/autoadd/anime/hallo/3.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/4.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/5.ogg",length=0.768}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
 L["ieehey"]={{path="chatsounds/autoadd/anime/ieehey.ogg",length=0.998}}
@@ -33,6 +35,7 @@ L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="ch
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
+L["the glue"]={{path="chatsounds/autoadd/anime/the glue.ogg",length=1.275}}
 L["todaaay"]={{path="chatsounds/autoadd/anime/todaaay/1.ogg",length=1.208},{path="chatsounds/autoadd/anime/todaaay/2.ogg",length=1.239}}
 L["today"]={{path="chatsounds/autoadd/anime/today.ogg",length=0.690}}
 L["tomorrow"]={{path="chatsounds/autoadd/anime/tomorrow/1.ogg",length=0.796},{path="chatsounds/autoadd/anime/tomorrow/2.ogg",length=0.809},{path="chatsounds/autoadd/anime/tomorrow/3.ogg",length=1.256}}

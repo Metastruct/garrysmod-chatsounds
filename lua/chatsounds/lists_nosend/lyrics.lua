@@ -15,5 +15,6 @@ L["tell you youre the greatest"]={{path="chatsounds/autoadd/lyrics/tell you your
 L["the stories that are told"]={{path="chatsounds/autoadd/lyrics/the stories that are told.ogg",length=1.401}}
 L["to the silence that allows"]={{path="chatsounds/autoadd/lyrics/to the silence that allows.ogg",length=1.561}}
 L["was smiling when i turned"]={{path="chatsounds/autoadd/lyrics/was smiling when i turned.ogg",length=1.690}}
+L["wasnt me"]={{path="chatsounds/autoadd/lyrics/wasnt me/1.ogg",length=0.649},{path="chatsounds/autoadd/lyrics/wasnt me/2.ogg",length=0.632},{path="chatsounds/autoadd/lyrics/wasnt me/3.ogg",length=0.551},{path="chatsounds/autoadd/lyrics/wasnt me/4.ogg",length=0.632},{path="chatsounds/autoadd/lyrics/wasnt me/5.ogg",length=0.649},{path="chatsounds/autoadd/lyrics/wasnt me/6.ogg",length=0.973},{path="chatsounds/autoadd/lyrics/wasnt me/7.ogg",length=0.616}}
 L["when my back is to the world"]={{path="chatsounds/autoadd/lyrics/when my back is to the world.ogg",length=1.738}}
 c.EndList()
