@@ -164,6 +164,7 @@ L["oh brother whos that on the logo"]={{path="chatsounds/autoadd/memes/oh brothe
 L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
 L["oh mah gawd noo wayayeei"]={{path="chatsounds/autoadd/memes/oh mah gawd noo wayayeei.ogg",length=3.854}}
 L["oh my gawd noo waayeeayeeayeeyaaay"]={{path="chatsounds/autoadd/memes/oh my gawd noo waayeeayeeayeeyaaay.ogg",length=4.989}}
+L["oh my god bruh oh hell naw man wtf who invited this guy"]={{path="chatsounds/autoadd/memes/oh my god bruh oh hell naw man wtf who invited this guy.ogg",length=9.749}}
 L["oh no"]={{path="chatsounds/autoadd/memes/oh no.ogg",length=1.027}}
 L["oh no the poor feesh"]={{path="chatsounds/autoadd/memes/oh no the poor feesh.ogg",length=1.583}}
 L["oh oh oooh gah dayum ha ha"]={{path="chatsounds/autoadd/memes/oh oh oooh gah dayum ha ha.ogg",length=4.350}}
@@ -186,6 +187,7 @@ L["power armor is for pussies"]={{path="chatsounds/autoadd/memes/power armor is 
 L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
 L["reis"]={{path="chatsounds/autoadd/memes/reis.ogg",length=4.104}}
 L["remember to run in a straight line"]={{path="chatsounds/autoadd/memes/remember to run in a straight line.ogg",length=2.171}}
+L["rizz"]={{path="chatsounds/autoadd/memes/rizz.ogg",length=2.231}}
 L["ronaldinho soccer"]={{path="chatsounds/autoadd/memes/ronaldinho soccer.ogg",length=12.440}}
 L["roses"]={{path="chatsounds/autoadd/memes/roses.ogg",length=0.735}}
 L["russian sneeze"]={{path="chatsounds/autoadd/memes/russian sneeze.ogg",length=4.575}}
