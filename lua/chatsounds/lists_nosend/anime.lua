@@ -3,6 +3,7 @@ L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
 L["america ya"]={{path="chatsounds/autoadd/anime/america ya.ogg",length=1.387}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
+L["azumanga daioh"]={{path="chatsounds/autoadd/anime/azumanga daioh/ah i wish i were a birdu.ogg",length=3.620},{path="chatsounds/autoadd/anime/azumanga daioh/hello everynyan.ogg",length=2.328},{path="chatsounds/autoadd/anime/azumanga daioh/how are you why thank you.ogg",length=2.579},{path="chatsounds/autoadd/anime/azumanga daioh/oh my gah.ogg",length=1.361}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["cawfee"]={{path="chatsounds/autoadd/anime/cawfee/1.ogg",length=0.650},{path="chatsounds/autoadd/anime/cawfee/2.ogg",length=0.869}}
 L["comment"]={{path="chatsounds/autoadd/anime/comment.ogg",length=0.604}}

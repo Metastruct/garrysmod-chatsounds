@@ -178,6 +178,7 @@ L["on your mark get ready start"]={{path="chatsounds/autoadd/memes/on your mark 
 L["ookaaaaay lets gooo"]={{path="chatsounds/autoadd/memes/ookaaaaay lets gooo.ogg",length=7.451}}
 L["oopsie"]={{path="chatsounds/autoadd/memes/oopsie.ogg",length=0.570}}
 L["oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this"]={{path="chatsounds/autoadd/memes/oopsie woopsie uwu we made a fucky wucky a little fuco boingo the code monkeys at our headquarters are working vewy hawd to fix this.ogg",length=10.261}}
+L["oriental riff"]={{path="chatsounds/autoadd/memes/oriental riff.ogg",length=5.081}}
 L["our table"]={{path="chatsounds/autoadd/memes/our table.ogg",length=0.995}}
 L["overused thud"]={{path="chatsounds/autoadd/memes/overused thud.ogg",length=2.834}}
 L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.781}}
