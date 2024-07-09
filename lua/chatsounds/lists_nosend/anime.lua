@@ -19,7 +19,7 @@ L["hallo"]={{path="chatsounds/autoadd/anime/hallo/1.ogg",length=0.956},{path="ch
 L["hello everynyan"]={{path="chatsounds/autoadd/anime/hello everynyan.ogg",length=2.328}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
-L["how are you why thank you"]={{path="chatsounds/autoadd/anime/how are you why thank you.ogg",length=2.579}}
+L["how are you fine thank you"]={{path="chatsounds/autoadd/anime/how are you fine thank you.ogg",length=2.579}}
 L["ieehey"]={{path="chatsounds/autoadd/anime/ieehey.ogg",length=0.998}}
 L["kani"]={{path="chatsounds/autoadd/anime/kani.ogg",length=2.153}}
 L["kero"]={{path="chatsounds/autoadd/anime/kero.ogg",length=0.561}}
