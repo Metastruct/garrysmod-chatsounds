@@ -44,7 +44,6 @@ L["they may say its extra cool but trust me on this it isnt"]={{path="chatsounds
 L["this is pathetic"]={{path="chatsounds/autoadd/top_gear/this is pathetic.ogg",length=1.088}}
 L["why its osama bin laden"]={{path="chatsounds/autoadd/top_gear/why its osama bin laden.ogg",length=4.412}}
 L["yeahh"]={{path="chatsounds/autoadd/top_gear/yeahh.ogg",length=1.208}}
-L["yeet 1"]={{path="chatsounds/autoadd/top_gear/yeet 1.ogg",length=1.022}}
-L["yeet 2"]={{path="chatsounds/autoadd/top_gear/yeet 2.ogg",length=0.929}}
+L["yeet"]={{path="chatsounds/autoadd/top_gear/yeet/1.ogg",length=1.022},{path="chatsounds/autoadd/top_gear/yeet/2.ogg",length=0.929}}
 L["your job is to shut up"]={{path="chatsounds/autoadd/top_gear/your job is to shut up.ogg",length=1.570}}
 c.EndList()
