@@ -3,6 +3,7 @@ L["ah"]={{path="chatsounds/autoadd/top_gear/ah.ogg",length=0.392}}
 L["ahh"]={{path="chatsounds/autoadd/top_gear/ahh.ogg",length=0.681}}
 L["and ill tell you something else"]={{path="chatsounds/autoadd/top_gear/and ill tell you something else.ogg",length=1.140}}
 L["because its stylish and contemporary"]={{path="chatsounds/autoadd/top_gear/because its stylish and contemporary.ogg",length=2.253}}
+L["christ on a bike"]={{path="chatsounds/autoadd/top_gear/christ on a bike.ogg",length=2.252}}
 L["clarkson lmao"]={{path="chatsounds/autoadd/top_gear/clarkson lmao/1.ogg",length=2.073},{path="chatsounds/autoadd/top_gear/clarkson lmao/2.ogg",length=4.068},{path="chatsounds/autoadd/top_gear/clarkson lmao/3.ogg",length=1.360},{path="chatsounds/autoadd/top_gear/clarkson lmao/4.ogg",length=2.191},{path="chatsounds/autoadd/top_gear/clarkson lmao/5.ogg",length=2.387}}
 L["cock"]={{path="chatsounds/autoadd/top_gear/cock/1.ogg",length=0.544},{path="chatsounds/autoadd/top_gear/cock/2.ogg",length=0.590},{path="chatsounds/autoadd/top_gear/cock/3.ogg",length=0.844},{path="chatsounds/autoadd/top_gear/cock/4.ogg",length=0.706},{path="chatsounds/autoadd/top_gear/cock/5.ogg",length=0.595},{path="chatsounds/autoadd/top_gear/cock/6.ogg",length=0.823},{path="chatsounds/autoadd/top_gear/cock/7.ogg",length=0.797}}
 L["did you notice i was first"]={{path="chatsounds/autoadd/top_gear/did you notice i was first.ogg",length=1.215}}
@@ -41,6 +42,9 @@ L["thats just childish and doesnt solve the argument"]={{path="chatsounds/autoad
 L["thats not gone well"]={{path="chatsounds/autoadd/top_gear/thats not gone well.ogg",length=1.431}}
 L["they may say its extra cool but trust me on this it isnt"]={{path="chatsounds/autoadd/top_gear/they may say its extra cool but trust me on this it isnt.ogg",length=4.588}}
 L["this is pathetic"]={{path="chatsounds/autoadd/top_gear/this is pathetic.ogg",length=1.088}}
+L["why its osama bin laden"]={{path="chatsounds/autoadd/top_gear/why its osama bin laden.ogg",length=4.412}}
 L["yeahh"]={{path="chatsounds/autoadd/top_gear/yeahh.ogg",length=1.208}}
+L["yeet 1"]={{path="chatsounds/autoadd/top_gear/yeet 1.ogg",length=1.022}}
+L["yeet 2"]={{path="chatsounds/autoadd/top_gear/yeet 2.ogg",length=0.929}}
 L["your job is to shut up"]={{path="chatsounds/autoadd/top_gear/your job is to shut up.ogg",length=1.570}}
 c.EndList()
