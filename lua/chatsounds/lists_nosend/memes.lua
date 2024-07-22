@@ -253,6 +253,7 @@ L["whats gibby thinking about"]={{path="chatsounds/autoadd/memes/whats gibby thi
 L["whats your name"]={{path="chatsounds/autoadd/memes/whats your name.ogg",length=0.517}}
 L["whered it go"]={{path="chatsounds/autoadd/memes/whered it go.ogg",length=0.692}}
 L["who is that coming off the goddamn pick and roll there boy"]={{path="chatsounds/autoadd/memes/who is that coming off the goddamn pick and roll there boy.ogg",length=4.079}}
+L["why are you running"]={{path="chatsounds/autoadd/memes/why are you running/1.ogg",length=0.974},{path="chatsounds/autoadd/memes/why are you running/2.ogg",length=0.993}}
 L["why does somebody not know how u flush a toilet after theyve had a shet"]={{path="chatsounds/autoadd/memes/why does somebody not know how u flush a toilet after theyve had a shet.ogg",length=3.877}}
 L["wooh what the heeeeeeeeeeeeeeeeeeeell"]={{path="chatsounds/autoadd/memes/wooh what the heeeeeeeeeeeeeeeeeeeell.ogg",length=7.133}}
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
