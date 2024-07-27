@@ -20,7 +20,11 @@ L["hello everynyan"]={{path="chatsounds/autoadd/anime/hello everynyan.ogg",lengt
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
 L["how are you fine thank you"]={{path="chatsounds/autoadd/anime/how are you fine thank you.ogg",length=2.579}}
+L["i am catto"]={{path="chatsounds/autoadd/anime/i am catto.ogg",length=1.371}}
+L["i love you"]={{path="chatsounds/autoadd/anime/i love you.ogg",length=0.876}}
+L["i not speak english"]={{path="chatsounds/autoadd/anime/i not speak english.ogg",length=2.826}}
 L["ieehey"]={{path="chatsounds/autoadd/anime/ieehey.ogg",length=0.998}}
+L["ikuyo"]={{path="chatsounds/autoadd/anime/ikuyo.ogg",length=2.326}}
 L["kani"]={{path="chatsounds/autoadd/anime/kani.ogg",length=2.153}}
 L["kero"]={{path="chatsounds/autoadd/anime/kero.ogg",length=0.561}}
 L["kuru kuru"]={{path="chatsounds/autoadd/anime/kuru kuru.ogg",length=0.879}}
@@ -28,15 +32,18 @@ L["kururin"]={{path="chatsounds/autoadd/anime/kururin.ogg",length=0.784}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
+L["mogu mogu okayu"]={{path="chatsounds/autoadd/anime/mogu mogu okayu/1.ogg",length=5.762},{path="chatsounds/autoadd/anime/mogu mogu okayu/2.ogg",length=4.953},{path="chatsounds/autoadd/anime/mogu mogu okayu/3.ogg",length=4.953}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
 L["nice cock"]={{path="chatsounds/autoadd/anime/nice cock.ogg",length=1.315}}
 L["not tomorrow"]={{path="chatsounds/autoadd/anime/not tomorrow.ogg",length=1.230}}
+L["nya"]={{path="chatsounds/autoadd/anime/nya.ogg",length=1.076}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
 L["oh my gah"]={{path="chatsounds/autoadd/anime/oh my gah.ogg",length=1.361}}
 L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="chatsounds/autoadd/anime/oui/oui 2.ogg",length=0.250}}
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
+L["shikanokonokonoko koshitantan"]={{path="chatsounds/autoadd/anime/shikanokonokonoko koshitantan.ogg",length=2.721}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
 L["the glue"]={{path="chatsounds/autoadd/anime/the glue.ogg",length=1.275}}
