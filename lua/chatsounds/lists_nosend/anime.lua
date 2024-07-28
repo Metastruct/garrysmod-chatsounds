@@ -32,6 +32,7 @@ L["kururin"]={{path="chatsounds/autoadd/anime/kururin.ogg",length=0.784}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
+L["mogu"]={{path="chatsounds/autoadd/anime/mogu/1.ogg",length=0.388},{path="chatsounds/autoadd/anime/mogu/10.ogg",length=0.653},{path="chatsounds/autoadd/anime/mogu/2.ogg",length=0.498},{path="chatsounds/autoadd/anime/mogu/3.ogg",length=0.492},{path="chatsounds/autoadd/anime/mogu/4.ogg",length=0.767},{path="chatsounds/autoadd/anime/mogu/5.ogg",length=0.631},{path="chatsounds/autoadd/anime/mogu/6.ogg",length=0.384},{path="chatsounds/autoadd/anime/mogu/7.ogg",length=0.472},{path="chatsounds/autoadd/anime/mogu/8.ogg",length=0.519},{path="chatsounds/autoadd/anime/mogu/9.ogg",length=0.473}}
 L["mogu mogu okayu"]={{path="chatsounds/autoadd/anime/mogu mogu okayu/1.ogg",length=5.762},{path="chatsounds/autoadd/anime/mogu mogu okayu/2.ogg",length=4.953},{path="chatsounds/autoadd/anime/mogu mogu okayu/3.ogg",length=4.953}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
 L["nice cock"]={{path="chatsounds/autoadd/anime/nice cock.ogg",length=1.315}}
