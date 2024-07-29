@@ -15,7 +15,7 @@ L["beat it guitar"]={{path="chatsounds/autoadd/music/beat it guitar.ogg",length=
 L["bochum ich haeng an dir"]={{path="chatsounds/autoadd/music/bochum ich haeng an dir.ogg",length=3.082}}
 L["bochum ich komm aus dir"]={{path="chatsounds/autoadd/music/bochum ich komm aus dir.ogg",length=3.495}}
 L["but my hope will never die"]={{path="chatsounds/autoadd/music/but my hope will never die.ogg",length=1.558}}
-L["cats"]={{path="chatsounds/autoadd/music/cats.ogg",length=71.186}}
+L["catsmusic"]={{path="chatsounds/autoadd/music/catsmusic.ogg",length=71.186}}
 L["celebrate"]={{path="chatsounds/autoadd/music/celebrate/celebrate1.ogg",length=4.238},{path="chatsounds/autoadd/music/celebrate/celebrate2.ogg",length=4.001}}
 L["cheekibreekiradio"]={{path="chatsounds/autoadd/music/cheekibreekiradio.ogg",length=65.176}}
 L["coffindance"]={{path="chatsounds/autoadd/music/coffindance.ogg",length=22.166}}
