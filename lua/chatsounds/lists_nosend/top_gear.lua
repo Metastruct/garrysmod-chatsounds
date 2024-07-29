@@ -5,7 +5,7 @@ L["and ill tell you something else"]={{path="chatsounds/autoadd/top_gear/and ill
 L["because its stylish and contemporary"]={{path="chatsounds/autoadd/top_gear/because its stylish and contemporary.ogg",length=2.253}}
 L["christ on a bike"]={{path="chatsounds/autoadd/top_gear/christ on a bike.ogg",length=2.252}}
 L["clarkson lmao"]={{path="chatsounds/autoadd/top_gear/clarkson lmao/1.ogg",length=2.073},{path="chatsounds/autoadd/top_gear/clarkson lmao/2.ogg",length=4.068},{path="chatsounds/autoadd/top_gear/clarkson lmao/3.ogg",length=1.360},{path="chatsounds/autoadd/top_gear/clarkson lmao/4.ogg",length=2.191},{path="chatsounds/autoadd/top_gear/clarkson lmao/5.ogg",length=2.387}}
-L["cock"]={{path="chatsounds/autoadd/top_gear/cock/1.ogg",length=0.544},{path="chatsounds/autoadd/top_gear/cock/2.ogg",length=0.590},{path="chatsounds/autoadd/top_gear/cock/3.ogg",length=0.844},{path="chatsounds/autoadd/top_gear/cock/4.ogg",length=0.706},{path="chatsounds/autoadd/top_gear/cock/5.ogg",length=0.595},{path="chatsounds/autoadd/top_gear/cock/6.ogg",length=0.823},{path="chatsounds/autoadd/top_gear/cock/7.ogg",length=0.797}}
+L["cock"]={{path="chatsounds/autoadd/top_gear/cock/5.ogg",length=0.595},{path="chatsounds/autoadd/top_gear/cock/6.ogg",length=0.823},{path="chatsounds/autoadd/top_gear/cock/7.ogg",length=0.797}}
 L["did you notice i was first"]={{path="chatsounds/autoadd/top_gear/did you notice i was first.ogg",length=1.215}}
 L["dont touch it"]={{path="chatsounds/autoadd/top_gear/dont touch it/1.ogg",length=1.092},{path="chatsounds/autoadd/top_gear/dont touch it/2.ogg",length=0.764}}
 L["egg"]={{path="chatsounds/autoadd/top_gear/egg.ogg",length=0.673}}
@@ -27,7 +27,7 @@ L["manual semi automatic oh these are the weapons"]={{path="chatsounds/autoadd/t
 L["now hang on soap is soap"]={{path="chatsounds/autoadd/top_gear/now hang on soap is soap.ogg",length=1.380}}
 L["now rich would you like some pussy"]={{path="chatsounds/autoadd/top_gear/now rich would you like some pussy.ogg",length=2.573}}
 L["oh bloody hell"]={{path="chatsounds/autoadd/top_gear/oh bloody hell.ogg",length=1.568}}
-L["oh cock"]={{path="chatsounds/autoadd/top_gear/oh cock/1.ogg",length=1.016},{path="chatsounds/autoadd/top_gear/oh cock/2.ogg",length=1.184},{path="chatsounds/autoadd/top_gear/oh cock/3.ogg",length=1.331}}
+L["oh cock"]={{path="chatsounds/autoadd/top_gear/oh cock/3.ogg",length=1.331}}
 L["oh my god"]={{path="chatsounds/autoadd/top_gear/oh my god.ogg",length=1.590}}
 L["oh no anyway"]={{path="chatsounds/autoadd/top_gear/oh no anyway.ogg",length=1.640}}
 L["ornament shatter"]={{path="chatsounds/autoadd/top_gear/ornament shatter.ogg",length=0.487}}
