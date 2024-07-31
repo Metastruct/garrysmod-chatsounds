@@ -44,6 +44,7 @@ L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
 L["oh my gah"]={{path="chatsounds/autoadd/anime/oh my gah.ogg",length=1.361}}
 L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="chatsounds/autoadd/anime/oui/oui 2.ogg",length=0.250}}
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
+L["sata andagi"]={{path="chatsounds/autoadd/anime/sata andagi.ogg",length=2.508}}
 L["shikanokonokonoko koshitantan"]={{path="chatsounds/autoadd/anime/shikanokonokonoko koshitantan.ogg",length=2.721}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
