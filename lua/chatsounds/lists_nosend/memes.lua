@@ -166,6 +166,7 @@ L["oh hell no"]={{path="chatsounds/autoadd/memes/oh hell no.ogg",length=2.188}}
 L["oh mah gawd noo wayayeei"]={{path="chatsounds/autoadd/memes/oh mah gawd noo wayayeei.ogg",length=3.854}}
 L["oh my gawd noo waayeeayeeayeeyaaay"]={{path="chatsounds/autoadd/memes/oh my gawd noo waayeeayeeayeeyaaay.ogg",length=4.989}}
 L["oh my god bruh oh hell naw man wtf who invited this guy"]={{path="chatsounds/autoadd/memes/oh my god bruh oh hell naw man wtf who invited this guy.ogg",length=9.749}}
+L["oh my pc"]={{path="chatsounds/autoadd/memes/oh my pc.ogg",length=2.396}}
 L["oh no"]={{path="chatsounds/autoadd/memes/oh no.ogg",length=1.027}}
 L["oh no the poor feesh"]={{path="chatsounds/autoadd/memes/oh no the poor feesh.ogg",length=1.583}}
 L["oh oh oooh gah dayum ha ha"]={{path="chatsounds/autoadd/memes/oh oh oooh gah dayum ha ha.ogg",length=4.350}}
