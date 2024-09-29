@@ -1,0 +1,42 @@
+## CULTROM
+cultspt1; cultrom
+cultspt2; cultrom
+cultrom3; cultrom
+cultspt4; cultrom
+
+## CULTSPT
+cultspt1; cultspt
+cultspt2; cultspt
+cultspt3; cultspt
+cultspt4; cultspt
+vorox esco marana; cultspt
+
+## CULTGLO
+cruo stragarana malachtose; cultglo
+in marana domusbhaava crunatus; cultglo
+peroshay bibox malax; cultglo
+cruo crunatus durbe; cultglo
+
+# CULTFIR
+aahdaayaah aaah aaaaah; cultfir
+it burns it burns; cultfir
+aah aah aah oaah oaaahhhhh; cultfir
+
+## CULTDIE - not sure if 4th sound is an actual deathsound
+aaaaaaaaaah; cultdie
+aaaaaaaah; cultdie
+aaaaaah; cultdie
+aaaaaaaaaaaah; cultdie
+
+# single sound names
+
+cultpan1; dargh; replace
+cultpan2; ooaargh; replace
+cultpan3; huargh; replace
+
+cultspt1; marana pallex; replace
+cultspt2; manamax and spear books; replace
+cultspt3; geroshay cruo; replace
+cultspt4; crudux cruo; replace
+
+cultrom3; geroshay cruo; replace

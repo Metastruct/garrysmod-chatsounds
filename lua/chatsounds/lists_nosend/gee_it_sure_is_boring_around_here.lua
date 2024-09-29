@@ -1,0 +1,9 @@
+c.StartList("gee_it_sure_is_boring_around_here")
+L["around"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/around.ogg",length=0.557}}
+L["boring"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/boring.ogg",length=0.557}}
+L["gee"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/gee.ogg",length=0.929}}
+L["here"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/here.ogg",length=0.557}}
+L["is"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/is.ogg",length=0.446}}
+L["it"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/it.ogg",length=0.095}}
+L["sure"]={{path="chatsounds/autoadd/gee_it_sure_is_boring_around_here/sure.ogg",length=0.438}}
+c.EndList()

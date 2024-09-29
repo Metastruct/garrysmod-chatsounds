@@ -1,0 +1,17 @@
+name: Pull Request Action
+on:
+  pull_request:
+    paths:
+      - 'sound/**'
+      - 'lua/chatsounds/lists_nosend/**'
+    branches:
+      - 'master'
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Preprocessor 🔧
+        uses: Metastruct/chatsounds-preprocessor-action@v1
