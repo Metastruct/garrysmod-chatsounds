@@ -1,8 +1,0 @@
-c.StartList("lightsabers")
-L["saberhit"]={{path="chatsounds/autoadd/lightsabers/saberhit/saberhit.ogg",length=1.149},{path="chatsounds/autoadd/lightsabers/saberhit/saberhit1.ogg",length=1.437},{path="chatsounds/autoadd/lightsabers/saberhit/saberhit2.ogg",length=1.646},{path="chatsounds/autoadd/lightsabers/saberhit/saberhit3.ogg",length=1.306}}
-L["saberhitwall"]={{path="chatsounds/autoadd/lightsabers/saberhitwall/saberhitwall1.ogg",length=0.993},{path="chatsounds/autoadd/lightsabers/saberhitwall/saberhitwall2.ogg",length=0.888},{path="chatsounds/autoadd/lightsabers/saberhitwall/saberhitwall3.ogg",length=0.993}}
-L["saberhup"]={{path="chatsounds/autoadd/lightsabers/saberhup/saberhup1.ogg",length=0.758},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup2.ogg",length=0.862},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup3.ogg",length=0.758},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup4.ogg",length=0.993},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup5.ogg",length=0.940},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup6.ogg",length=0.940},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup7.ogg",length=0.993},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup8.ogg",length=0.993},{path="chatsounds/autoadd/lightsabers/saberhup/saberhup9.ogg",length=1.123}}
-L["saberoff"]={{path="chatsounds/autoadd/lightsabers/saberoff.ogg",length=1.202}}
-L["saberoffquick"]={{path="chatsounds/autoadd/lightsabers/saberoffquick.ogg",length=0.627}}
-L["saberon"]={{path="chatsounds/autoadd/lightsabers/saberon.ogg",length=1.646}}
-c.EndList()

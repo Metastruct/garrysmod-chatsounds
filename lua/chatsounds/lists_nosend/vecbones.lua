@@ -1,5 +1,0 @@
-c.StartList("vecbones")
-L["vecbones kick"]={{path="chatsounds/autoadd/vecbones/vecbones kick.ogg",length=0.313}}
-L["vecbones kit"]={{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 1.ogg",length=7.499},{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 2.ogg",length=7.500},{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 3.ogg",length=7.500},{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 4.ogg",length=7.504},{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 5.ogg",length=7.500},{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 6.ogg",length=7.500},{path="chatsounds/autoadd/vecbones/vecbones kit/vfh1 128bpm bones kit 7.ogg",length=7.500}}
-L["vecbones melody"]={{path="chatsounds/autoadd/vecbones/vecbones melody/vfh1 128bpm bones melody 1.ogg",length=7.500},{path="chatsounds/autoadd/vecbones/vecbones melody/vfh1 128bpm bones melody 2.ogg",length=7.500}}
-c.EndList()

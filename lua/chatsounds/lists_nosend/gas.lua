@@ -1,3 +1,0 @@
-c.StartList("gas")
-L["gas"]={{path="chatsounds/autoadd/gas/gas/gas1.ogg",length=0.838},{path="chatsounds/autoadd/gas/gas/gas10.ogg",length=0.929},{path="chatsounds/autoadd/gas/gas/gas11.ogg",length=0.812},{path="chatsounds/autoadd/gas/gas/gas12.ogg",length=0.760},{path="chatsounds/autoadd/gas/gas/gas2.ogg",length=0.838},{path="chatsounds/autoadd/gas/gas/gas3.ogg",length=0.929},{path="chatsounds/autoadd/gas/gas/gas4.ogg",length=0.890},{path="chatsounds/autoadd/gas/gas/gas5.ogg",length=0.557},{path="chatsounds/autoadd/gas/gas/gas6.ogg",length=0.557},{path="chatsounds/autoadd/gas/gas/gas7.ogg",length=0.760},{path="chatsounds/autoadd/gas/gas/gas8.ogg",length=1.178},{path="chatsounds/autoadd/gas/gas/gas9.ogg",length=0.929}}
-c.EndList()

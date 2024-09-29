@@ -1,4 +1,0 @@
-#saveme1
-medic; saveme
-#saveme2
-excuse me im in need of medical attention; saveme

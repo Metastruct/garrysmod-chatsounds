@@ -1,4 +1,0 @@
-c.StartList("halo_elite")
-L["elite noise"]={{path="chatsounds/autoadd/halo_elite/elite noise/enemysightedtaunt2.ogg",length=1.843},{path="chatsounds/autoadd/halo_elite/elite noise/oldenemysighted.1.ogg",length=0.782},{path="chatsounds/autoadd/halo_elite/elite noise/oldenemysighted.2.ogg",length=1.258},{path="chatsounds/autoadd/halo_elite/elite noise/oldenemysighted.3.ogg",length=0.431},{path="chatsounds/autoadd/halo_elite/elite noise/sightednewenemy.1.ogg",length=0.753},{path="chatsounds/autoadd/halo_elite/elite noise/sightednewenemy.2.ogg",length=0.849},{path="chatsounds/autoadd/halo_elite/elite noise/sightednewenemy.3.ogg",length=1.154}}
-L["wort wort wort"]={{path="chatsounds/autoadd/halo_elite/wort wort wort.ogg",length=0.654}}
-c.EndList()

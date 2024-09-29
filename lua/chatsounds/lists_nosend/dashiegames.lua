@@ -1,4 +1,0 @@
-c.StartList("dashiegames")
-L["that fucking bird that i hate"]={{path="chatsounds/autoadd/dashiegames/that fucking bird that i hate/tfbtih1.ogg",length=1.632},{path="chatsounds/autoadd/dashiegames/that fucking bird that i hate/tfbtih2.ogg",length=0.984},{path="chatsounds/autoadd/dashiegames/that fucking bird that i hate/tfbtih3.ogg",length=0.941},{path="chatsounds/autoadd/dashiegames/that fucking bird that i hate/tfbtih4.ogg",length=2.527}}
-L["whaat"]={{path="chatsounds/autoadd/dashiegames/whaat/whaat1.ogg",length=1.048},{path="chatsounds/autoadd/dashiegames/whaat/whaat2.ogg",length=0.970}}
-c.EndList()

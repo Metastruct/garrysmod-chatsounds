@@ -1,3 +1,0 @@
-c.StartList("wilhelmscream")
-L["wilhelmscream"]={{path="chatsounds/autoadd/wilhelmscream/wilhelmscream/wilhelm1.ogg",length=1.276},{path="chatsounds/autoadd/wilhelmscream/wilhelmscream/wilhelm2.ogg",length=1.088},{path="chatsounds/autoadd/wilhelmscream/wilhelmscream/wilhelm4.ogg",length=1.296},{path="chatsounds/autoadd/wilhelmscream/wilhelmscream/wilhelm5.ogg",length=1.211},{path="chatsounds/autoadd/wilhelmscream/wilhelmscream/wilhelm6.ogg",length=1.279},{path="chatsounds/autoadd/wilhelmscream/wilhelmscream/wilhem3.ogg",length=0.914}}
-c.EndList()
