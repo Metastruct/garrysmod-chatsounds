@@ -16,7 +16,7 @@ L["arabic nokia ringtone"]={{path="chatsounds/autoadd/memes/arabic nokia rington
 L["are red"]={{path="chatsounds/autoadd/memes/are red.ogg",length=0.880}}
 L["are ya winning son"]={{path="chatsounds/autoadd/memes/are ya winning son.ogg",length=1.549}}
 L["are you fucking kidding me"]={{path="chatsounds/autoadd/memes/are you fucking kidding me.ogg",length=1.406}}
-L["are you guys going trick or treating"]={{path="chatsounds/autoadd/memes/are you guys going trick or treating.ogg",length=1.919}}
+L["are you guys going trick or treating"]={{path="chatsounds/autoadd/memes/are you guys going trick or treating.ogg",length=1.796}}
 L["arrgh eww duude wtf"]={{path="chatsounds/autoadd/memes/arrgh eww duude wtf.ogg",length=6.332}}
 L["attention all libtards"]={{path="chatsounds/autoadd/memes/attention all libtards.ogg",length=2.199}}
 L["autotune puke"]={{path="chatsounds/autoadd/memes/autotune puke.ogg",length=3.462}}
