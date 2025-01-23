@@ -155,6 +155,7 @@ L["this town is grrreat"]={{path="chatsounds/autoadd/spongebob/this town is grrr
 L["too bad that didnt kill me"]={{path="chatsounds/autoadd/spongebob/too bad that didnt kill me.ogg",length=1.475}}
 L["um why did you eat my boots mr krabs"]={{path="chatsounds/autoadd/spongebob/um why did you eat my boots mr krabs.ogg",length=3.090}}
 L["under the floorboard"]={{path="chatsounds/autoadd/spongebob/under the floorboard.ogg",length=1.854}}
+L["wah wah waaaahhhh"]={{path="chatsounds/autoadd/spongebob/wah wah waaaahhhh.ogg",length=2.308}}
 L["wait spongebob were not cavemen"]={{path="chatsounds/autoadd/spongebob/wait spongebob were not cavemen.ogg",length=3.058}}
 L["we have technology"]={{path="chatsounds/autoadd/spongebob/we have technology.ogg",length=2.126}}
 L["we serve food here sir"]={{path="chatsounds/autoadd/spongebob/we serve food here sir.ogg",length=1.869}}
@@ -174,6 +175,7 @@ L["who are you people"]={{path="chatsounds/autoadd/spongebob/who are you people.
 L["who put you on the planet"]={{path="chatsounds/autoadd/spongebob/who put you on the planet/1.ogg",length=2.472},{path="chatsounds/autoadd/spongebob/who put you on the planet/2.ogg",length=2.809}}
 L["who you calling pinhead"]={{path="chatsounds/autoadd/spongebob/who you calling pinhead.ogg",length=1.623}}
 L["why dont ya try it out"]={{path="chatsounds/autoadd/spongebob/why dont ya try it out.ogg",length=2.037}}
+L["will you cut that out"]={{path="chatsounds/autoadd/spongebob/will you cut that out.ogg",length=0.932}}
 L["wow they have it"]={{path="chatsounds/autoadd/spongebob/wow they have it.ogg",length=1.397}}
 L["write that down write that down"]={{path="chatsounds/autoadd/spongebob/write that down write that down.ogg",length=1.116}}
 L["yeah"]={{path="chatsounds/autoadd/spongebob/yeah.ogg",length=0.796}}

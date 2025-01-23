@@ -63,6 +63,7 @@ L["el racista"]={{path="chatsounds/autoadd/memes/el racista.ogg",length=2.311}}
 L["emotional damage"]={{path="chatsounds/autoadd/memes/emotional damage.ogg",length=2.227}}
 L["et wird suppe jegessen"]={{path="chatsounds/autoadd/memes/et wird suppe jegessen.ogg",length=1.578}}
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
+L["everyone has uno dipshit it came free with your fckin xbox"]={{path="chatsounds/autoadd/memes/everyone has uno dipshit it came free with your fckin xbox.ogg",length=4.718}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
 L["feesh"]={{path="chatsounds/autoadd/memes/feesh.ogg",length=0.620}}
@@ -80,6 +81,7 @@ L["fuck outta here and go to the mega gay zone"]={{path="chatsounds/autoadd/meme
 L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.697}}
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
+L["get out"]={{path="chatsounds/autoadd/memes/get out.ogg",length=0.919}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
 L["get the fuck off my shit you stankin bitch"]={{path="chatsounds/autoadd/memes/get the fuck off my shit you stankin bitch.ogg",length=2.742}}
 L["gibby fall"]={{path="chatsounds/autoadd/memes/gibby fall.ogg",length=0.917}}
@@ -101,6 +103,7 @@ L["i am currently"]={{path="chatsounds/autoadd/memes/i am currently.ogg",length=
 L["i am here today doing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today doing the worlds loudest scream.ogg",length=2.774}}
 L["i come seeking the weed of olympus"]={{path="chatsounds/autoadd/memes/i come seeking the weed of olympus.ogg",length=3.800}}
 L["i could probably beat you in a 1v1"]={{path="chatsounds/autoadd/memes/i could probably beat you in a 1v1.ogg",length=2.308}}
+L["i dont fckn have uno mf"]={{path="chatsounds/autoadd/memes/i dont fckn have uno mf.ogg",length=3.139}}
 L["i got a new roach"]={{path="chatsounds/autoadd/memes/i got a new roach.ogg",length=1.023}}
 L["i got the honey"]={{path="chatsounds/autoadd/memes/i got the honey.ogg",length=1.483}}
 L["i hope you are scared"]={{path="chatsounds/autoadd/memes/i hope you are scared.ogg",length=1.265}}
@@ -267,6 +270,9 @@ L["yo pierre you wanna come out here"]={{path="chatsounds/autoadd/memes/yo pierr
 L["yo tengo dos lados"]={{path="chatsounds/autoadd/memes/yo tengo dos lados.ogg",length=2.086}}
 L["you better be scared"]={{path="chatsounds/autoadd/memes/you better be scared.ogg",length=1.787}}
 L["you cant park that there mate"]={{path="chatsounds/autoadd/memes/you cant park that there mate.ogg",length=1.784}}
+L["you guys wanna play uno real quick and i can record it and make it my upload tonight"]={{path="chatsounds/autoadd/memes/you guys wanna play uno real quick and i can record it and make it my upload tonight.ogg",length=3.008}}
+L["you have uno"]={{path="chatsounds/autoadd/memes/you have uno.ogg",length=1.873}}
+L["you have uno you fckin dick"]={{path="chatsounds/autoadd/memes/you have uno you fckin dick.ogg",length=3.661}}
 L["you may got the honey but i got the sugar"]={{path="chatsounds/autoadd/memes/you may got the honey but i got the sugar.ogg",length=2.852}}
 L["you may got those but i got the creamy peanut butter"]={{path="chatsounds/autoadd/memes/you may got those but i got the creamy peanut butter.ogg",length=2.655}}
 L["you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out"]={{path="chatsounds/autoadd/memes/you take some chocolate and some lobster and some eggs and some pie and then you mix it in your body and shit it all out.ogg",length=6.492}}
