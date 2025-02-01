@@ -1,6 +1,7 @@
 c.StartList("mgsv")
 L["a weapon to surpass metal gear"]={{path="chatsounds/autoadd/mgsv/a weapon to surpass metal gear.ogg",length=3.080}}
 L["idroid function unavailable"]={{path="chatsounds/autoadd/mgsv/idroid function unavailable.ogg",length=1.540}}
+L["invisible"]={{path="chatsounds/autoadd/mgsv/invisible/1.ogg",length=32.131},{path="chatsounds/autoadd/mgsv/invisible/2.ogg",length=41.190}}
 L["just to suffer"]={{path="chatsounds/autoadd/mgsv/just to suffer.ogg",length=1.804}}
 L["mgs5 invasion"]={{path="chatsounds/autoadd/mgsv/mgs5 invasion.ogg",length=3.577}}
 L["phantomcigar"]={{path="chatsounds/autoadd/mgsv/phantomcigar.ogg",length=9.641}}
