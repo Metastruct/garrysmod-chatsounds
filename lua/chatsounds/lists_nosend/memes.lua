@@ -101,6 +101,7 @@ L["hrrngh"]={{path="chatsounds/autoadd/memes/hrrngh.ogg",length=0.891}}
 L["huh"]={{path="chatsounds/autoadd/memes/huh.ogg",length=0.383}}
 L["i am currently"]={{path="chatsounds/autoadd/memes/i am currently.ogg",length=1.091}}
 L["i am here today doing the worlds loudest scream"]={{path="chatsounds/autoadd/memes/i am here today doing the worlds loudest scream.ogg",length=2.774}}
+L["i am placing blocks and shit cause im in fucking minecraft"]={{path="chatsounds/autoadd/memes/i am placing blocks and shit cause im in fucking minecraft.ogg",length=82.013}}
 L["i come seeking the weed of olympus"]={{path="chatsounds/autoadd/memes/i come seeking the weed of olympus.ogg",length=3.800}}
 L["i could probably beat you in a 1v1"]={{path="chatsounds/autoadd/memes/i could probably beat you in a 1v1.ogg",length=2.308}}
 L["i dont fckn have uno mf"]={{path="chatsounds/autoadd/memes/i dont fckn have uno mf.ogg",length=3.139}}
