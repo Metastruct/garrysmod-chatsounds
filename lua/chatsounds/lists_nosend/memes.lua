@@ -29,6 +29,7 @@ L["beans"]={{path="chatsounds/autoadd/memes/beans.ogg",length=1.383}}
 L["bees make honey"]={{path="chatsounds/autoadd/memes/bees make honey.ogg",length=2.057}}
 L["billy earl"]={{path="chatsounds/autoadd/memes/billy earl.ogg",length=0.556}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
+L["blows up pancakes with mind"]={{path="chatsounds/autoadd/memes/blows up pancakes with mind.ogg",length=2.235}}
 L["bought some croissants"]={{path="chatsounds/autoadd/memes/bought some croissants.ogg",length=2.260}}
 L["bro she might have made beans but you forgot about the macaroni and cheese what the fuck"]={{path="chatsounds/autoadd/memes/bro she might have made beans but you forgot about the macaroni and cheese what the fuck.ogg",length=5.832}}
 L["bucket of salmon"]={{path="chatsounds/autoadd/memes/bucket of salmon.ogg",length=1.791}}
@@ -158,6 +159,7 @@ L["mlg xfiles"]={{path="chatsounds/autoadd/memes/mlg xfiles.ogg",length=38.582}}
 L["mr beaast"]={{path="chatsounds/autoadd/memes/mr beaast.ogg",length=2.299}}
 L["music make you lose control music make you lose control"]={{path="chatsounds/autoadd/memes/music make you lose control music make you lose control.ogg",length=6.920}}
 L["mutaharlaugh"]={{path="chatsounds/autoadd/memes/mutaharlaugh.ogg",length=2.592}}
+L["my fckin panca"]={{path="chatsounds/autoadd/memes/my fckin panca.ogg",length=1.616}}
 L["my moustache has deemed that you get my wario steam"]={{path="chatsounds/autoadd/memes/my moustache has deemed that you get my wario steam.ogg",length=5.127}}
 L["nathan"]={{path="chatsounds/autoadd/memes/nathan.ogg",length=0.524}}
 L["nathansganglaughing"]={{path="chatsounds/autoadd/memes/nathansganglaughing.ogg",length=7.183}}
