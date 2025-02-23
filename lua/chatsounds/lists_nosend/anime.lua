@@ -10,6 +10,7 @@ L["comment"]={{path="chatsounds/autoadd/anime/comment.ogg",length=0.604}}
 L["dont sleep"]={{path="chatsounds/autoadd/anime/dont sleep.ogg",length=0.926}}
 L["dori dori dori dori"]={{path="chatsounds/autoadd/anime/dori dori dori dori.ogg",length=1.128}}
 L["eurobeat yuri"]={{path="chatsounds/autoadd/anime/eurobeat yuri.ogg",length=26.348}}
+L["evilkek"]={{path="chatsounds/autoadd/anime/evilkek.ogg",length=0.500}}
 L["fuck you"]={{path="chatsounds/autoadd/anime/fuck you.ogg",length=1.796}}
 L["good morning"]={{path="chatsounds/autoadd/anime/good morning.ogg",length=0.964}}
 L["good night"]={{path="chatsounds/autoadd/anime/good night.ogg",length=0.740}}
@@ -44,8 +45,8 @@ L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
 L["oh my gah"]={{path="chatsounds/autoadd/anime/oh my gah.ogg",length=1.361}}
 L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="chatsounds/autoadd/anime/oui/oui 2.ogg",length=0.250}}
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
-L["pippaseeeexu"]={{path="chatsounds/autoadd/anime/pippaseeeexu.ogg",length=3.029}}
 L["sata andagi"]={{path="chatsounds/autoadd/anime/sata andagi.ogg",length=2.508}}
+L["seeeexu"]={{path="chatsounds/autoadd/anime/seeeexu.ogg",length=3.029}}
 L["shikanokonokonoko koshitantan"]={{path="chatsounds/autoadd/anime/shikanokonokonoko koshitantan.ogg",length=2.721}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
 L["take it out"]={{path="chatsounds/autoadd/anime/take it out.ogg",length=0.512}}
