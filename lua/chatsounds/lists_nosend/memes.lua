@@ -40,6 +40,7 @@ L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",len
 L["call the fire department"]={{path="chatsounds/autoadd/memes/call the fire department.ogg",length=1.246}}
 L["calm1"]={{path="chatsounds/autoadd/memes/calm1.ogg",length=14.785}}
 L["can somebody give me a hiyah"]={{path="chatsounds/autoadd/memes/can somebody give me a hiyah.ogg",length=3.226}}
+L["cat laughing"]={{path="chatsounds/autoadd/memes/cat laughing.ogg",length=3.209}}
 L["cause clearly the last ass whopping you got wasnt good enough bitch"]={{path="chatsounds/autoadd/memes/cause clearly the last ass whopping you got wasnt good enough bitch.ogg",length=4.304}}
 L["cause jordan never did that move"]={{path="chatsounds/autoadd/memes/cause jordan never did that move.ogg",length=2.113}}
 L["cheddar cheese brbrbrbrbr"]={{path="chatsounds/autoadd/memes/cheddar cheese brbrbrbrbr.ogg",length=3.133}}
@@ -78,6 +79,7 @@ L["fgptbeep"]={{path="chatsounds/autoadd/memes/fgptbeep.ogg",length=0.848}}
 L["fgptding"]={{path="chatsounds/autoadd/memes/fgptding.ogg",length=0.882}}
 L["flip"]={{path="chatsounds/autoadd/memes/flip.ogg",length=7.471}}
 L["focus nathan"]={{path="chatsounds/autoadd/memes/focus nathan.ogg",length=0.908}}
+L["foghorn"]={{path="chatsounds/autoadd/memes/foghorn.ogg",length=2.300}}
 L["for ukraine"]={{path="chatsounds/autoadd/memes/for ukraine.ogg",length=0.810}}
 L["frijoles de la olla"]={{path="chatsounds/autoadd/memes/frijoles de la olla.ogg",length=2.252}}
 L["fuck"]={{path="chatsounds/autoadd/memes/fuck.ogg",length=0.729}}
@@ -281,6 +283,7 @@ L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
 L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
 L["yesss"]={{path="chatsounds/autoadd/memes/yesss.ogg",length=6.038}}
 L["yippie"]={{path="chatsounds/autoadd/memes/yippie.ogg",length=1.214}}
+L["yippie death"]={{path="chatsounds/autoadd/memes/yippie death.ogg",length=0.830}}
 L["yo pierre you wanna come out here"]={{path="chatsounds/autoadd/memes/yo pierre you wanna come out here.ogg",length=4.011}}
 L["yo tengo dos lados"]={{path="chatsounds/autoadd/memes/yo tengo dos lados.ogg",length=2.086}}
 L["you better be scared"]={{path="chatsounds/autoadd/memes/you better be scared.ogg",length=1.787}}
