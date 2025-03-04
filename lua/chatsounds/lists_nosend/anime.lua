@@ -15,6 +15,7 @@ L["fuck you"]={{path="chatsounds/autoadd/anime/fuck you.ogg",length=1.796}}
 L["good morning"]={{path="chatsounds/autoadd/anime/good morning.ogg",length=0.964}}
 L["good night"]={{path="chatsounds/autoadd/anime/good night.ogg",length=0.740}}
 L["gwah"]={{path="chatsounds/autoadd/anime/gwah.ogg",length=0.294}}
+L["gweah shindago"]={{path="chatsounds/autoadd/anime/gweah shindago.ogg",length=1.504}}
 L["gween tea"]={{path="chatsounds/autoadd/anime/gween tea/1.ogg",length=0.762},{path="chatsounds/autoadd/anime/gween tea/2.ogg",length=0.846}}
 L["hallo"]={{path="chatsounds/autoadd/anime/hallo/1.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/2.ogg",length=0.918},{path="chatsounds/autoadd/anime/hallo/3.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/4.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/5.ogg",length=0.768}}
 L["hello everynyan"]={{path="chatsounds/autoadd/anime/hello everynyan.ogg",length=2.328}}
