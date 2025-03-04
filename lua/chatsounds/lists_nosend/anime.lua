@@ -58,6 +58,7 @@ L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chat
 L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
 L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
 L["tuturu"]={{path="chatsounds/autoadd/anime/tuturu.ogg",length=1.248}}
+L["unyu"]={{path="chatsounds/autoadd/anime/unyu.ogg",length=2.376}}
 L["vtuberlaugh"]={{path="chatsounds/autoadd/anime/vtuberlaugh.ogg",length=0.679}}
 L["wake up"]={{path="chatsounds/autoadd/anime/wake up.ogg",length=0.956}}
 L["water in the fire why"]={{path="chatsounds/autoadd/anime/water in the fire why.ogg",length=3.441}}
