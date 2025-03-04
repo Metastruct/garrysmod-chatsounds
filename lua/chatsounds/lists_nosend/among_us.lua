@@ -1,5 +1,4 @@
 c.StartList("among_us")
-L["amogus"]={{path="chatsounds/autoadd/among_us/amogus.ogg",length=1.099}}
 L["among us body found"]={{path="chatsounds/autoadd/among_us/among us body found.ogg",length=3.813}}
 L["among us connect"]={{path="chatsounds/autoadd/among_us/among us connect.ogg",length=1.568}}
 L["among us crewmate victory"]={{path="chatsounds/autoadd/among_us/among us crewmate victory.ogg",length=9.491}}

@@ -41,6 +41,7 @@ L["hahahahahahahahohohohohohohohihihihihihihihahaha"]={{path="chatsounds/autoadd
 L["har har i mean the person in the boots"]={{path="chatsounds/autoadd/spongebob/har har i mean the person in the boots.ogg",length=3.199}}
 L["he said he wants squeaking sounds"]={{path="chatsounds/autoadd/spongebob/he said he wants squeaking sounds.ogg",length=2.508}}
 L["here please hit me as hard as you can"]={{path="chatsounds/autoadd/spongebob/here please hit me as hard as you can.ogg",length=2.679}}
+L["hes just standing there menacingly"]={{path="chatsounds/autoadd/spongebob/hes just standing there menacingly.ogg",length=3.811}}
 L["hes tenderizing the ground"]={{path="chatsounds/autoadd/spongebob/hes tenderizing the ground.ogg",length=1.910}}
 L["hey patrick are you angry too"]={{path="chatsounds/autoadd/spongebob/hey patrick are you angry too.ogg",length=1.974}}
 L["hi how are ya"]={{path="chatsounds/autoadd/spongebob/hi how are ya.ogg",length=1.020}}
@@ -133,6 +134,7 @@ L["squidward distorted"]={{path="chatsounds/autoadd/spongebob/squidward distorte
 L["squidward struggle"]={{path="chatsounds/autoadd/spongebob/squidward struggle.ogg",length=3.200}}
 L["squidwardgasp"]={{path="chatsounds/autoadd/spongebob/squidwardgasp.ogg",length=0.825}}
 L["squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward"]={{path="chatsounds/autoadd/spongebob/squiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiidward.ogg",length=5.100}}
+L["steel sting"]={{path="chatsounds/autoadd/spongebob/steel sting.ogg",length=3.889}}
 L["stop iitt ssttoopp iiittt"]={{path="chatsounds/autoadd/spongebob/stop iitt ssttoopp iiittt.ogg",length=4.180}}
 L["stop it"]={{path="chatsounds/autoadd/spongebob/stop it.ogg",length=2.273}}
 L["thank you for your patronage"]={{path="chatsounds/autoadd/spongebob/thank you for your patronage.ogg",length=1.862}}
@@ -153,10 +155,12 @@ L["this town is grrreat"]={{path="chatsounds/autoadd/spongebob/this town is grrr
 L["too bad that didnt kill me"]={{path="chatsounds/autoadd/spongebob/too bad that didnt kill me.ogg",length=1.475}}
 L["um why did you eat my boots mr krabs"]={{path="chatsounds/autoadd/spongebob/um why did you eat my boots mr krabs.ogg",length=3.090}}
 L["under the floorboard"]={{path="chatsounds/autoadd/spongebob/under the floorboard.ogg",length=1.854}}
+L["wah wah waaaahhhh"]={{path="chatsounds/autoadd/spongebob/wah wah waaaahhhh.ogg",length=2.308}}
 L["wait spongebob were not cavemen"]={{path="chatsounds/autoadd/spongebob/wait spongebob were not cavemen.ogg",length=3.058}}
 L["we have technology"]={{path="chatsounds/autoadd/spongebob/we have technology.ogg",length=2.126}}
 L["we serve food here sir"]={{path="chatsounds/autoadd/spongebob/we serve food here sir.ogg",length=1.869}}
 L["we shall never deny a guest even the most ridiculous request"]={{path="chatsounds/autoadd/spongebob/we shall never deny a guest even the most ridiculous request.ogg",length=4.200}}
+L["weewooweewooweewoo"]={{path="chatsounds/autoadd/spongebob/weewooweewooweewoo.ogg",length=2.197}}
 L["welcome to the krusty towers"]={{path="chatsounds/autoadd/spongebob/welcome to the krusty towers.ogg",length=1.933}}
 L["wh"]={{path="chatsounds/autoadd/spongebob/wh.ogg",length=0.618}}
 L["what did you say punk"]={{path="chatsounds/autoadd/spongebob/what did you say punk.ogg",length=2.201}}
@@ -171,6 +175,7 @@ L["who are you people"]={{path="chatsounds/autoadd/spongebob/who are you people.
 L["who put you on the planet"]={{path="chatsounds/autoadd/spongebob/who put you on the planet/1.ogg",length=2.472},{path="chatsounds/autoadd/spongebob/who put you on the planet/2.ogg",length=2.809}}
 L["who you calling pinhead"]={{path="chatsounds/autoadd/spongebob/who you calling pinhead.ogg",length=1.623}}
 L["why dont ya try it out"]={{path="chatsounds/autoadd/spongebob/why dont ya try it out.ogg",length=2.037}}
+L["will you cut that out"]={{path="chatsounds/autoadd/spongebob/will you cut that out.ogg",length=0.932}}
 L["wow they have it"]={{path="chatsounds/autoadd/spongebob/wow they have it.ogg",length=1.397}}
 L["write that down write that down"]={{path="chatsounds/autoadd/spongebob/write that down write that down.ogg",length=1.116}}
 L["yeah"]={{path="chatsounds/autoadd/spongebob/yeah.ogg",length=0.796}}

@@ -1,6 +1,8 @@
 c.StartList("among_us_memes")
 L["aaaaaaa"]={{path="chatsounds/autoadd/among_us_memes/aaaaaaa.ogg",length=0.760}}
+L["amogus"]={{path="chatsounds/autoadd/among_us_memes/amogus.ogg",length=1.099}}
 L["among us trap remix bass boosted"]={{path="chatsounds/autoadd/among_us_memes/among us trap remix bass boosted.ogg",length=75.037}}
+L["amongus"]={{path="chatsounds/autoadd/among_us_memes/amongus.ogg",length=0.902}}
 L["and all of the channels are just among us stuff"]={{path="chatsounds/autoadd/among_us_memes/and all of the channels are just among us stuff.ogg",length=3.340}}
 L["and i go penis more like pensus aaaaaaa"]={{path="chatsounds/autoadd/among_us_memes/and i go penis more like pensus aaaaaaa.ogg",length=4.427}}
 L["hey babe when the underwear is sus haha ding ding ding ding ding ding ding ding ding ding"]={{path="chatsounds/autoadd/among_us_memes/hey babe when the underwear is sus haha ding ding ding ding ding ding ding ding ding ding.ogg",length=6.869}}

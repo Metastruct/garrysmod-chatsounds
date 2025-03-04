@@ -15,6 +15,7 @@ L["beat it guitar"]={{path="chatsounds/autoadd/music/beat it guitar.ogg",length=
 L["bochum ich haeng an dir"]={{path="chatsounds/autoadd/music/bochum ich haeng an dir.ogg",length=3.082}}
 L["bochum ich komm aus dir"]={{path="chatsounds/autoadd/music/bochum ich komm aus dir.ogg",length=3.495}}
 L["but my hope will never die"]={{path="chatsounds/autoadd/music/but my hope will never die.ogg",length=1.558}}
+L["catsmusic"]={{path="chatsounds/autoadd/music/catsmusic.ogg",length=71.186}}
 L["celebrate"]={{path="chatsounds/autoadd/music/celebrate/celebrate1.ogg",length=4.238},{path="chatsounds/autoadd/music/celebrate/celebrate2.ogg",length=4.001}}
 L["cheekibreekiradio"]={{path="chatsounds/autoadd/music/cheekibreekiradio.ogg",length=65.176}}
 L["coffindance"]={{path="chatsounds/autoadd/music/coffindance.ogg",length=22.166}}
@@ -35,10 +36,13 @@ L["drop it like its hot"]={{path="chatsounds/autoadd/music/drop it like its hot.
 L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",length=19.172}}
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
+L["french accordion music"]={{path="chatsounds/autoadd/music/french accordion music.ogg",length=28.286}}
+L["fucking bullshit song"]={{path="chatsounds/autoadd/music/fucking bullshit song.ogg",length=41.936}}
 L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
 L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
+L["hongkong97 full"]={{path="chatsounds/autoadd/music/hongkong97 full.ogg",length=163.255}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
 L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
 L["ilovehorses"]={{path="chatsounds/autoadd/music/ilovehorses/1.ogg",length=7.389},{path="chatsounds/autoadd/music/ilovehorses/2.ogg",length=7.385},{path="chatsounds/autoadd/music/ilovehorses/3.ogg",length=7.386}}
@@ -58,8 +62,10 @@ L["nbgskrill"]={{path="chatsounds/autoadd/music/nbgskrill.ogg",length=56.294}}
 L["nightoffire"]={{path="chatsounds/autoadd/music/nightoffire.ogg",length=300.199}}
 L["o p p a i"]={{path="chatsounds/autoadd/music/o p p a i.ogg",length=94.739}}
 L["offlimits"]={{path="chatsounds/autoadd/music/offlimits.ogg",length=113.175}}
+L["over the horizon"]={{path="chatsounds/autoadd/music/over the horizon.ogg",length=60.912}}
 L["penis music"]={{path="chatsounds/autoadd/music/penis music.ogg",length=22.176}}
 L["penis music loop"]={{path="chatsounds/autoadd/music/penis music loop.ogg",length=10.975}}
+L["piano a3"]={{path="chatsounds/autoadd/music/piano a3.ogg",length=0.887}}
 L["playtimewithimmortalyes"]={{path="chatsounds/autoadd/music/playtimewithimmortalyes.ogg",length=125.982}}
 L["pornhub"]={{path="chatsounds/autoadd/music/pornhub.ogg",length=3.056}}
 L["prism"]={{path="chatsounds/autoadd/music/prism.ogg",length=0.750}}

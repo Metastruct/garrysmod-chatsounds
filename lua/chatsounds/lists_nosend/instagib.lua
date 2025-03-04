@@ -192,6 +192,7 @@ L["daneben"]={{path="chatsounds/autoadd/instagib/daneben.ogg",length=2.686}}
 L["danke"]={{path="chatsounds/autoadd/instagib/danke.ogg",length=2.100}}
 L["danke2"]={{path="chatsounds/autoadd/instagib/danke2.ogg",length=0.377}}
 L["darth1"]={{path="chatsounds/autoadd/instagib/darth1.ogg",length=2.183}}
+L["das hat bestimmt wehgetan"]={{path="chatsounds/autoadd/instagib/das hat bestimmt wehgetan.ogg",length=4.598}}
 L["dasdauert"]={{path="chatsounds/autoadd/instagib/dasdauert.ogg",length=1.881}}
 L["dasong"]={{path="chatsounds/autoadd/instagib/dasong/da1.ogg",length=7.315},{path="chatsounds/autoadd/instagib/dasong/da2.ogg",length=7.279},{path="chatsounds/autoadd/instagib/dasong/da3.ogg",length=8.673},{path="chatsounds/autoadd/instagib/dasong/da4.ogg",length=18.385}}
 L["dastutweh"]={{path="chatsounds/autoadd/instagib/dastutweh.ogg",length=2.500}}
@@ -1221,7 +1222,6 @@ L["waslos1"]={{path="chatsounds/autoadd/instagib/waslos1.ogg",length=9.633}}
 L["waslos2"]={{path="chatsounds/autoadd/instagib/waslos2.ogg",length=6.988}}
 L["wazu"]={{path="chatsounds/autoadd/instagib/wazu.ogg",length=1.917}}
 L["weekend"]={{path="chatsounds/autoadd/instagib/weekend.ogg",length=7.611}}
-L["weh"]={{path="chatsounds/autoadd/instagib/weh.ogg",length=4.598}}
 L["weiber"]={{path="chatsounds/autoadd/instagib/weiber.ogg",length=0.987}}
 L["weiber1"]={{path="chatsounds/autoadd/instagib/weiber1.ogg",length=2.769}}
 L["weiber2"]={{path="chatsounds/autoadd/instagib/weiber2.ogg",length=4.068}}
