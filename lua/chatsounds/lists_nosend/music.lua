@@ -37,6 +37,7 @@ L["du bist ein noob"]={{path="chatsounds/autoadd/music/du bist ein noob.ogg",len
 L["falling music"]={{path="chatsounds/autoadd/music/falling music.ogg",length=9.598}}
 L["flutesounds"]={{path="chatsounds/autoadd/music/flutesounds.ogg",length=23.041}}
 L["french accordion music"]={{path="chatsounds/autoadd/music/french accordion music.ogg",length=28.286}}
+L["fucking bullshit song"]={{path="chatsounds/autoadd/music/fucking bullshit song.ogg",length=41.936}}
 L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
