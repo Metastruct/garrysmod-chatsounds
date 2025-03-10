@@ -39,6 +39,7 @@ Chat sounds system for Garry's Mod (with extra sounds)
 ## How to contribute more sounds to this repository
  - **SOUNDS MUST OBEY [GITHUB AUP](https://help.github.com/en/github/site-policy/github-acceptable-use-policies#2-content-restrictions).**
    - This includes any attempt at hiding violating sounds via it's name or other means.
+ - Long or annoying sounds should not have short/easily triggered names.
  - [Read this](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt).
  - We accept pull requests.
  - Running the preprocessor is not mandatory anymore - if you don't run it, lists will be auto-generated about 3 minutes after you commit/push the changes.
