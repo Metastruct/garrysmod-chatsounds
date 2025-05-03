@@ -109,6 +109,7 @@ L["ididit"]={{path="chatsounds/autoadd/fesh_pince/ididit.ogg",length=0.491}}
 L["if you were me what would you do"]={{path="chatsounds/autoadd/fesh_pince/if you were me what would you do.ogg",length=2.260}}
 L["if youre so confident in my lack of ability"]={{path="chatsounds/autoadd/fesh_pince/if youre so confident in my lack of ability.ogg",length=2.914}}
 L["im a black man with a short black man"]={{path="chatsounds/autoadd/fesh_pince/im a black man with a short black man.ogg",length=5.378}}
+L["im going to spend a quiet evening with my"]={{path="chatsounds/autoadd/fesh_pince/im going to spend a quiet evening with my.ogg",length=2.021}}
 L["im gonna zip my pants up"]={{path="chatsounds/autoadd/fesh_pince/im gonna zip my pants up.ogg",length=1.162}}
 L["im not gonna fight back"]={{path="chatsounds/autoadd/fesh_pince/im not gonna fight back.ogg",length=1.051}}
 L["im retarded"]={{path="chatsounds/autoadd/fesh_pince/im retarded.ogg",length=0.717}}
@@ -142,8 +143,10 @@ L["my father just got an erection"]={{path="chatsounds/autoadd/fesh_pince/my fat
 L["my mum my mum"]={{path="chatsounds/autoadd/fesh_pince/my mum my mum.ogg",length=2.257}}
 L["nahnonononon"]={{path="chatsounds/autoadd/fesh_pince/nahnonononon.ogg",length=0.969}}
 L["nehefefefnehefef"]={{path="chatsounds/autoadd/fesh_pince/nehefefefnehefef.ogg",length=3.104}}
+L["nintendo gamecube"]={{path="chatsounds/autoadd/fesh_pince/nintendo gamecube.ogg",length=1.756}}
 L["nnnnooooooo"]={{path="chatsounds/autoadd/fesh_pince/nnnnooooooo.ogg",length=2.770}}
 L["no"]={{path="chatsounds/autoadd/fesh_pince/no.ogg",length=0.480}}
+L["no babies"]={{path="chatsounds/autoadd/fesh_pince/no babies.ogg",length=0.676}}
 L["no e"]={{path="chatsounds/autoadd/fesh_pince/no e.ogg",length=0.880}}
 L["no more hugs will"]={{path="chatsounds/autoadd/fesh_pince/no more hugs will.ogg",length=1.371}}
 L["no oh oh"]={{path="chatsounds/autoadd/fesh_pince/no oh oh.ogg",length=1.376}}
@@ -167,6 +170,7 @@ L["ohh no"]={{path="chatsounds/autoadd/fesh_pince/ohh no.ogg",length=0.825}}
 L["on a brighter note i see youve brought your lovely family with you"]={{path="chatsounds/autoadd/fesh_pince/on a brighter note i see youve brought your lovely family with you.ogg",length=3.622}}
 L["oymuns"]={{path="chatsounds/autoadd/fesh_pince/oymuns.ogg",length=0.714}}
 L["paaain"]={{path="chatsounds/autoadd/fesh_pince/paaain.ogg",length=0.660}}
+L["pardon me while i go die"]={{path="chatsounds/autoadd/fesh_pince/pardon me while i go die.ogg",length=1.777}}
 L["pft done"]={{path="chatsounds/autoadd/fesh_pince/pft done.ogg",length=1.022}}
 L["philip i wanna kill myself"]={{path="chatsounds/autoadd/fesh_pince/philip i wanna kill myself.ogg",length=1.405}}
 L["phone"]={{path="chatsounds/autoadd/fesh_pince/phone.ogg",length=0.528}}

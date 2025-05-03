@@ -107,6 +107,7 @@ L["timey wimey"]={{path="chatsounds/autoadd/random_shit/timey wimey.ogg",length=
 L["try another"]={{path="chatsounds/autoadd/random_shit/try another.ogg",length=0.803}}
 L["unga bunga"]={{path="chatsounds/autoadd/random_shit/unga bunga.ogg",length=0.812}}
 L["vegas pro 13"]={{path="chatsounds/autoadd/random_shit/vegas pro 13.ogg",length=1.099}}
+L["water espuma"]={{path="chatsounds/autoadd/random_shit/water espuma.ogg",length=2.631}}
 L["we all are"]={{path="chatsounds/autoadd/random_shit/we all are.ogg",length=1.227}}
 L["welcome to our world"]={{path="chatsounds/autoadd/random_shit/welcome to our world.ogg",length=5.537}}
 L["well it was fuckin one of yas"]={{path="chatsounds/autoadd/random_shit/well it was fuckin one of yas.ogg",length=1.976}}
