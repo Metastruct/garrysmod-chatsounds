@@ -4,6 +4,8 @@ L["aid"]={{path="chatsounds/autoadd/random_shit/aid.ogg",length=0.352}}
 L["and its spherical"]={{path="chatsounds/autoadd/random_shit/and its spherical.ogg",length=1.950}}
 L["are you kidding me"]={{path="chatsounds/autoadd/random_shit/are you kidding me.ogg",length=2.662}}
 L["avast alert"]={{path="chatsounds/autoadd/random_shit/avast alert.ogg",length=1.091}}
+L["awawa"]={{path="chatsounds/autoadd/random_shit/awawa/1.ogg",length=0.877},{path="chatsounds/autoadd/random_shit/awawa/2.ogg",length=0.757},{path="chatsounds/autoadd/random_shit/awawa/3.ogg",length=0.733},{path="chatsounds/autoadd/random_shit/awawa/4.ogg",length=0.685}}
+L["awawascream"]={{path="chatsounds/autoadd/random_shit/awawascream.ogg",length=0.703}}
 L["bazinga"]={{path="chatsounds/autoadd/random_shit/bazinga/bazinga1.ogg",length=0.899},{path="chatsounds/autoadd/random_shit/bazinga/bazinga2.ogg",length=0.788},{path="chatsounds/autoadd/random_shit/bazinga/bazinga3.ogg",length=1.088},{path="chatsounds/autoadd/random_shit/bazinga/bazinga4.ogg",length=1.041},{path="chatsounds/autoadd/random_shit/bazinga/bazinga5.ogg",length=0.900},{path="chatsounds/autoadd/random_shit/bazinga/bazinga6.ogg",length=0.609},{path="chatsounds/autoadd/random_shit/bazinga/bazinga7.ogg",length=0.876},{path="chatsounds/autoadd/random_shit/bazinga/bazinga8.ogg",length=0.832},{path="chatsounds/autoadd/random_shit/bazinga/bazinga9.ogg",length=0.924}}
 L["begone satan"]={{path="chatsounds/autoadd/random_shit/begone satan.ogg",length=1.204}}
 L["big big chungus"]={{path="chatsounds/autoadd/random_shit/big big chungus.ogg",length=1.691}}
