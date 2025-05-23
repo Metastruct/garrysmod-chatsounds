@@ -74,7 +74,6 @@ L["hey dog can i get some ice cream"]={{path="chatsounds/autoadd/wicopee/hey dog
 L["hey stfu what are you listening to"]={{path="chatsounds/autoadd/wicopee/hey stfu what are you listening to.ogg",length=5.614}}
 L["hh birdsounds"]={{path="chatsounds/autoadd/wicopee/hh birdsounds.ogg",length=1.188}}
 L["hihihihihi"]={{path="chatsounds/autoadd/wicopee/hihihihihi.ogg",length=0.963}}
-L["hit"]={{path="chatsounds/autoadd/wicopee/hit/1.ogg",length=1.320},{path="chatsounds/autoadd/wicopee/hit/2.ogg",length=2.772}}
 L["hleb v kota ne prevratilsya"]={{path="chatsounds/autoadd/wicopee/hleb v kota ne prevratilsya.ogg",length=1.922}}
 L["hochesh est"]={{path="chatsounds/autoadd/wicopee/hochesh est.ogg",length=0.914}}
 L["hongkong97"]={{path="chatsounds/autoadd/wicopee/hongkong97.ogg",length=5.512}}
@@ -195,6 +194,7 @@ L["whoop di scoop di poop"]={{path="chatsounds/autoadd/wicopee/whoop di scoop di
 L["whoop diddy scoop"]={{path="chatsounds/autoadd/wicopee/whoop diddy scoop.ogg",length=1.289}}
 L["whoop diddy scoop poop"]={{path="chatsounds/autoadd/wicopee/whoop diddy scoop poop.ogg",length=1.195}}
 L["whoopity scoop whoop poop"]={{path="chatsounds/autoadd/wicopee/whoopity scoop whoop poop.ogg",length=1.767}}
+L["wicopee hit"]={{path="chatsounds/autoadd/wicopee/wicopee hit/1.ogg",length=1.320},{path="chatsounds/autoadd/wicopee/wicopee hit/2.ogg",length=2.772}}
 L["ya hochu noticesound"]={{path="chatsounds/autoadd/wicopee/ya hochu noticesound.ogg",length=0.797}}
 L["ya hochu picachu"]={{path="chatsounds/autoadd/wicopee/ya hochu picachu.ogg",length=0.976}}
 L["ya ne stuchu"]={{path="chatsounds/autoadd/wicopee/ya ne stuchu.ogg",length=1.190}}

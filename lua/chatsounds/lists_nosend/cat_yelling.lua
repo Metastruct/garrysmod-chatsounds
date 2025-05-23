@@ -15,6 +15,7 @@ L["gtf down from there"]={{path="chatsounds/autoadd/cat_yelling/gtf down from th
 L["gtf outside"]={{path="chatsounds/autoadd/cat_yelling/gtf outside.ogg",length=1.701}}
 L["hh run"]={{path="chatsounds/autoadd/cat_yelling/hh run.ogg",length=1.124}}
 L["ill end you"]={{path="chatsounds/autoadd/cat_yelling/ill end you.ogg",length=1.586}}
+L["im going to r you"]={{path="chatsounds/autoadd/cat_yelling/im going to r you.ogg",length=2.182}}
 L["juump"]={{path="chatsounds/autoadd/cat_yelling/juump/1.ogg",length=1.192},{path="chatsounds/autoadd/cat_yelling/juump/2.ogg",length=1.134},{path="chatsounds/autoadd/cat_yelling/juump/3.ogg",length=1.092},{path="chatsounds/autoadd/cat_yelling/juump/4.ogg",length=0.903}}
 L["look at me"]={{path="chatsounds/autoadd/cat_yelling/look at me.ogg",length=0.677}}
 L["run fn run"]={{path="chatsounds/autoadd/cat_yelling/run fn run.ogg",length=2.510}}

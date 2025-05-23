@@ -34,6 +34,8 @@ L["silens"]={{path="chatsounds/autoadd/tense/silens.ogg",length=0.887}}
 L["sorry"]={{path="chatsounds/autoadd/tense/sorry.ogg",length=0.617}}
 L["thank you for speak thank you"]={{path="chatsounds/autoadd/tense/thank you for speak thank you.ogg",length=1.474}}
 L["what is your problem"]={{path="chatsounds/autoadd/tense/what is your problem.ogg",length=1.296}}
+L["what you said"]={{path="chatsounds/autoadd/tense/what you said.ogg",length=1.184}}
+L["whatyousaidwhatyousaid"]={{path="chatsounds/autoadd/tense/whatyousaidwhatyousaid.ogg",length=22.117}}
 L["you are fucking baiting losers"]={{path="chatsounds/autoadd/tense/you are fucking baiting losers.ogg",length=1.896}}
 L["you decide silens or me afk"]={{path="chatsounds/autoadd/tense/you decide silens or me afk.ogg",length=2.646}}
 L["you have a problem in yuum brain"]={{path="chatsounds/autoadd/tense/you have a problem in yuum brain.ogg",length=2.461}}

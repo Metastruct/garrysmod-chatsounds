@@ -26,7 +26,7 @@ L["pc ding"]={{path="chatsounds/autoadd/oneshot/pc ding.ogg",length=1.802}}
 L["pc granted"]={{path="chatsounds/autoadd/oneshot/pc granted.ogg",length=2.191}}
 L["robot gurgle"]={{path="chatsounds/autoadd/oneshot/robot gurgle.ogg",length=0.630}}
 L["step boat"]={{path="chatsounds/autoadd/oneshot/step boat.ogg",length=0.914}}
-L["step metal"]={{path="chatsounds/autoadd/oneshot/step metal/1.wav",length=0.000},{path="chatsounds/autoadd/oneshot/step metal/2.wav",length=0.000},{path="chatsounds/autoadd/oneshot/step metal/3.wav",length=0.000},{path="chatsounds/autoadd/oneshot/step metal/4.ogg",length=0.573}}
+L["step metal"]={{path="chatsounds/autoadd/oneshot/step metal/1.ogg",length=0.719},{path="chatsounds/autoadd/oneshot/step metal/2.ogg",length=0.833},{path="chatsounds/autoadd/oneshot/step metal/3.ogg",length=0.655},{path="chatsounds/autoadd/oneshot/step metal/4.ogg",length=0.573}}
 L["step splash"]={{path="chatsounds/autoadd/oneshot/step splash.ogg",length=0.372}}
 L["step tile"]={{path="chatsounds/autoadd/oneshot/step tile/1.ogg",length=0.235},{path="chatsounds/autoadd/oneshot/step tile/2.ogg",length=0.354},{path="chatsounds/autoadd/oneshot/step tile/3.ogg",length=0.328},{path="chatsounds/autoadd/oneshot/step tile/4.ogg",length=0.470}}
 L["step tile soft"]={{path="chatsounds/autoadd/oneshot/step tile soft/1.ogg",length=0.326},{path="chatsounds/autoadd/oneshot/step tile soft/2.ogg",length=0.354},{path="chatsounds/autoadd/oneshot/step tile soft/3.ogg",length=0.328},{path="chatsounds/autoadd/oneshot/step tile soft/4.ogg",length=0.470}}

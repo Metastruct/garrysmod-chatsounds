@@ -22,6 +22,7 @@ https://github.com/Metastruct/garrysmod-chatsounds
 	
 	- Must follow Github's AUP
 	- Name your folders properly, this involves naming the folder after a category that fits all of its contained sounds
+	- Long or annoying sounds should not have short/easily triggered names.
 	- "Personalized folders" are to be avoided, do not just shove whatever inside a folder with your name
 	- Ensure that you can spell
 
