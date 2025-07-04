@@ -7,6 +7,7 @@ L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["cawfee"]={{path="chatsounds/autoadd/anime/cawfee/1.ogg",length=0.650},{path="chatsounds/autoadd/anime/cawfee/2.ogg",length=0.869}}
 L["comment"]={{path="chatsounds/autoadd/anime/comment.ogg",length=0.604}}
+L["dabu dabu"]={{path="chatsounds/autoadd/anime/dabu dabu.ogg",length=1.003}}
 L["dont sleep"]={{path="chatsounds/autoadd/anime/dont sleep.ogg",length=0.926}}
 L["dori dori dori dori"]={{path="chatsounds/autoadd/anime/dori dori dori dori.ogg",length=1.128}}
 L["eurobeat yuri"]={{path="chatsounds/autoadd/anime/eurobeat yuri.ogg",length=26.348}}
@@ -35,6 +36,7 @@ L["kururin"]={{path="chatsounds/autoadd/anime/kururin.ogg",length=0.784}}
 L["let me in"]={{path="chatsounds/autoadd/anime/let me in.ogg",length=0.627}}
 L["let me in i live here now"]={{path="chatsounds/autoadd/anime/let me in i live here now.ogg",length=1.718}}
 L["ligma balls"]={{path="chatsounds/autoadd/anime/ligma balls.ogg",length=1.647}}
+L["mambo"]={{path="chatsounds/autoadd/anime/mambo/1.ogg",length=0.662},{path="chatsounds/autoadd/anime/mambo/2.ogg",length=0.821},{path="chatsounds/autoadd/anime/mambo/3.ogg",length=0.701},{path="chatsounds/autoadd/anime/mambo/4.ogg",length=0.692}}
 L["mogu"]={{path="chatsounds/autoadd/anime/mogu/1.ogg",length=0.388},{path="chatsounds/autoadd/anime/mogu/10.ogg",length=0.653},{path="chatsounds/autoadd/anime/mogu/2.ogg",length=0.498},{path="chatsounds/autoadd/anime/mogu/3.ogg",length=0.492},{path="chatsounds/autoadd/anime/mogu/4.ogg",length=0.767},{path="chatsounds/autoadd/anime/mogu/5.ogg",length=0.631},{path="chatsounds/autoadd/anime/mogu/6.ogg",length=0.384},{path="chatsounds/autoadd/anime/mogu/7.ogg",length=0.472},{path="chatsounds/autoadd/anime/mogu/8.ogg",length=0.519},{path="chatsounds/autoadd/anime/mogu/9.ogg",length=0.473}}
 L["mogu mogu okayu"]={{path="chatsounds/autoadd/anime/mogu mogu okayu/1.ogg",length=5.762},{path="chatsounds/autoadd/anime/mogu mogu okayu/2.ogg",length=4.953},{path="chatsounds/autoadd/anime/mogu mogu okayu/3.ogg",length=4.953}}
 L["mota"]={{path="chatsounds/autoadd/anime/mota.ogg",length=0.570}}
@@ -45,6 +47,7 @@ L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
 L["oh my gah"]={{path="chatsounds/autoadd/anime/oh my gah.ogg",length=1.361}}
+L["omatsuri"]={{path="chatsounds/autoadd/anime/omatsuri/1.ogg",length=0.778},{path="chatsounds/autoadd/anime/omatsuri/2.ogg",length=0.764}}
 L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="chatsounds/autoadd/anime/oui/oui 2.ogg",length=0.250}}
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
 L["sata andagi"]={{path="chatsounds/autoadd/anime/sata andagi.ogg",length=2.508}}
@@ -67,4 +70,5 @@ L["water in the fire whyy"]={{path="chatsounds/autoadd/anime/water in the fire w
 L["whyyy"]={{path="chatsounds/autoadd/anime/whyyy.ogg",length=0.930}}
 L["yeah yeah take it out take it out take it out"]={{path="chatsounds/autoadd/anime/yeah yeah take it out take it out take it out.ogg",length=2.027}}
 L["yeah yeah take it out take it out yeah show it to me show it to me papa aaaaahhh"]={{path="chatsounds/autoadd/anime/yeah yeah take it out take it out yeah show it to me show it to me papa aaaaahhh.ogg",length=5.734}}
+L["yuda yuda"]={{path="chatsounds/autoadd/anime/yuda yuda.ogg",length=1.112}}
 c.EndList()
