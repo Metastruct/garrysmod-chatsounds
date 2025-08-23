@@ -91,6 +91,7 @@ L["fuck outta here"]={{path="chatsounds/autoadd/memes/fuck outta here.ogg",lengt
 L["fuck outta here and go to the mega gay zone"]={{path="chatsounds/autoadd/memes/fuck outta here and go to the mega gay zone.ogg",length=3.867}}
 L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.697}}
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
+L["gay"]={{path="chatsounds/autoadd/memes/gay.ogg",length=5.473}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
 L["get out"]={{path="chatsounds/autoadd/memes/get out.ogg",length=0.919}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
