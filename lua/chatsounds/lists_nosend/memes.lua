@@ -228,6 +228,7 @@ L["show me your butthole"]={{path="chatsounds/autoadd/memes/show me your butthol
 L["spirte"]={{path="chatsounds/autoadd/memes/spirte.ogg",length=2.584}}
 L["squid ga"]={{path="chatsounds/autoadd/memes/squid ga.ogg",length=0.691}}
 L["stare into my eyes"]={{path="chatsounds/autoadd/memes/stare into my eyes.ogg",length=1.502}}
+L["stinky"]={{path="chatsounds/autoadd/memes/stinky/1.ogg",length=0.654},{path="chatsounds/autoadd/memes/stinky/2.ogg",length=1.891}}
 L["stop"]={{path="chatsounds/autoadd/memes/stop.ogg",length=0.803}}
 L["stop being ratchet"]={{path="chatsounds/autoadd/memes/stop being ratchet.ogg",length=1.364}}
 L["stop it"]={{path="chatsounds/autoadd/memes/stop it.ogg",length=1.054}}
