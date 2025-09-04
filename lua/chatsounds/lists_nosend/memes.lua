@@ -91,6 +91,7 @@ L["fuck outta here"]={{path="chatsounds/autoadd/memes/fuck outta here.ogg",lengt
 L["fuck outta here and go to the mega gay zone"]={{path="chatsounds/autoadd/memes/fuck outta here and go to the mega gay zone.ogg",length=3.867}}
 L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.697}}
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
+L["gay"]={{path="chatsounds/autoadd/memes/gay.ogg",length=5.473}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
 L["get out"]={{path="chatsounds/autoadd/memes/get out.ogg",length=0.919}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
@@ -227,6 +228,7 @@ L["show me your butthole"]={{path="chatsounds/autoadd/memes/show me your butthol
 L["spirte"]={{path="chatsounds/autoadd/memes/spirte.ogg",length=2.584}}
 L["squid ga"]={{path="chatsounds/autoadd/memes/squid ga.ogg",length=0.691}}
 L["stare into my eyes"]={{path="chatsounds/autoadd/memes/stare into my eyes.ogg",length=1.502}}
+L["stinky"]={{path="chatsounds/autoadd/memes/stinky/1.ogg",length=0.654},{path="chatsounds/autoadd/memes/stinky/2.ogg",length=1.891}}
 L["stop"]={{path="chatsounds/autoadd/memes/stop.ogg",length=0.803}}
 L["stop being ratchet"]={{path="chatsounds/autoadd/memes/stop being ratchet.ogg",length=1.364}}
 L["stop it"]={{path="chatsounds/autoadd/memes/stop it.ogg",length=1.054}}
