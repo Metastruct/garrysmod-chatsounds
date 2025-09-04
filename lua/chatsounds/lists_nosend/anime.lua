@@ -20,6 +20,7 @@ L["gweah shindago"]={{path="chatsounds/autoadd/anime/gweah shindago.ogg",length=
 L["gween tea"]={{path="chatsounds/autoadd/anime/gween tea/1.ogg",length=0.762},{path="chatsounds/autoadd/anime/gween tea/2.ogg",length=0.846}}
 L["gyupin"]={{path="chatsounds/autoadd/anime/gyupin.ogg",length=2.052}}
 L["hallo"]={{path="chatsounds/autoadd/anime/hallo/1.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/2.ogg",length=0.918},{path="chatsounds/autoadd/anime/hallo/3.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/4.ogg",length=0.956},{path="chatsounds/autoadd/anime/hallo/5.ogg",length=0.768}}
+L["harikitte ikou"]={{path="chatsounds/autoadd/anime/harikitte ikou.ogg",length=1.644}}
 L["hello everynyan"]={{path="chatsounds/autoadd/anime/hello everynyan.ogg",length=2.328}}
 L["hello mister"]={{path="chatsounds/autoadd/anime/hello mister.ogg",length=1.092}}
 L["hm"]={{path="chatsounds/autoadd/anime/hm.ogg",length=0.351}}
@@ -46,10 +47,14 @@ L["nya"]={{path="chatsounds/autoadd/anime/nya.ogg",length=1.076}}
 L["nya song"]={{path="chatsounds/autoadd/anime/nya song.ogg",length=7.411}}
 L["nyan ja jaaaan"]={{path="chatsounds/autoadd/anime/nyan ja jaaaan.ogg",length=1.717}}
 L["nyanya"]={{path="chatsounds/autoadd/anime/nyanya.ogg",length=0.967}}
+L["ogey"]={{path="chatsounds/autoadd/anime/ogey.ogg",length=1.154}}
 L["oh my gah"]={{path="chatsounds/autoadd/anime/oh my gah.ogg",length=1.361}}
 L["omatsuri"]={{path="chatsounds/autoadd/anime/omatsuri/1.ogg",length=0.778},{path="chatsounds/autoadd/anime/omatsuri/2.ogg",length=0.764}}
 L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="chatsounds/autoadd/anime/oui/oui 2.ogg",length=0.250}}
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
+L["poi"]={{path="chatsounds/autoadd/anime/poi/1.ogg",length=0.651},{path="chatsounds/autoadd/anime/poi/10.ogg",length=0.577},{path="chatsounds/autoadd/anime/poi/11.ogg",length=0.546},{path="chatsounds/autoadd/anime/poi/12.ogg",length=0.515},{path="chatsounds/autoadd/anime/poi/13.ogg",length=0.602},{path="chatsounds/autoadd/anime/poi/14.ogg",length=0.484},{path="chatsounds/autoadd/anime/poi/15.ogg",length=0.546},{path="chatsounds/autoadd/anime/poi/16.ogg",length=0.372},{path="chatsounds/autoadd/anime/poi/17.ogg",length=0.503},{path="chatsounds/autoadd/anime/poi/18.ogg",length=0.478},{path="chatsounds/autoadd/anime/poi/19.ogg",length=0.416},{path="chatsounds/autoadd/anime/poi/2.ogg",length=0.273},{path="chatsounds/autoadd/anime/poi/20.ogg",length=0.410},{path="chatsounds/autoadd/anime/poi/3.ogg",length=0.515},{path="chatsounds/autoadd/anime/poi/4.ogg",length=0.515},{path="chatsounds/autoadd/anime/poi/5.ogg",length=0.552},{path="chatsounds/autoadd/anime/poi/6.ogg",length=0.447},{path="chatsounds/autoadd/anime/poi/7.ogg",length=0.546},{path="chatsounds/autoadd/anime/poi/8.ogg",length=0.509}}
+L["poiii"]={{path="chatsounds/autoadd/anime/poiii.ogg",length=3.940}}
+L["rrat"]={{path="chatsounds/autoadd/anime/rrat.ogg",length=0.717}}
 L["sata andagi"]={{path="chatsounds/autoadd/anime/sata andagi.ogg",length=2.508}}
 L["shikanokonokonoko koshitantan"]={{path="chatsounds/autoadd/anime/shikanokonokonoko koshitantan.ogg",length=2.721}}
 L["show it to me"]={{path="chatsounds/autoadd/anime/show it to me.ogg",length=0.756}}
