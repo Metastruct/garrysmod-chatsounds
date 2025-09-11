@@ -12,6 +12,7 @@ L["ambatublow"]={{path="chatsounds/autoadd/memes/ambatublow.ogg",length=1.781}}
 L["ambatukam"]={{path="chatsounds/autoadd/memes/ambatukam.ogg",length=9.734}}
 L["ambatukam harmony"]={{path="chatsounds/autoadd/memes/ambatukam harmony.ogg",length=9.254}}
 L["and getting many victory royales"]={{path="chatsounds/autoadd/memes/and getting many victory royales.ogg",length=2.194}}
+L["and no one bats an eye"]={{path="chatsounds/autoadd/memes/and no one bats an eye.ogg",length=1.808}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
 L["and run as long as possible"]={{path="chatsounds/autoadd/memes/and run as long as possible.ogg",length=1.846}}
 L["angryhaaugh"]={{path="chatsounds/autoadd/memes/angryhaaugh.ogg",length=1.886}}
@@ -40,6 +41,7 @@ L["bucket of salmon"]={{path="chatsounds/autoadd/memes/bucket of salmon.ogg",len
 L["buzz lightyear commercial"]={{path="chatsounds/autoadd/memes/buzz lightyear commercial.ogg",length=51.769}}
 L["california girls"]={{path="chatsounds/autoadd/memes/california girls.ogg",length=30.697}}
 L["call the fire department"]={{path="chatsounds/autoadd/memes/call the fire department.ogg",length=1.246}}
+L["calls me gay"]={{path="chatsounds/autoadd/memes/calls me gay.ogg",length=0.789}}
 L["calm1"]={{path="chatsounds/autoadd/memes/calm1.ogg",length=14.785}}
 L["can somebody give me a hiyah"]={{path="chatsounds/autoadd/memes/can somebody give me a hiyah.ogg",length=3.226}}
 L["cat laughing"]={{path="chatsounds/autoadd/memes/cat laughing.ogg",length=3.209}}
@@ -98,6 +100,7 @@ L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",lengt
 L["get the fuck off my shit you stankin bitch"]={{path="chatsounds/autoadd/memes/get the fuck off my shit you stankin bitch.ogg",length=2.742}}
 L["gibby fall"]={{path="chatsounds/autoadd/memes/gibby fall.ogg",length=0.917}}
 L["gimme your money scream"]={{path="chatsounds/autoadd/memes/gimme your money scream.ogg",length=4.734}}
+L["girls kiss other girls"]={{path="chatsounds/autoadd/memes/girls kiss other girls.ogg",length=1.731}}
 L["give me a drink bartender"]={{path="chatsounds/autoadd/memes/give me a drink bartender.ogg",length=2.467}}
 L["go"]={{path="chatsounds/autoadd/memes/go.ogg",length=0.341}}
 L["ha gay"]={{path="chatsounds/autoadd/memes/ha gay.ogg",length=2.842}}
@@ -226,6 +229,7 @@ L["share my thoughts"]={{path="chatsounds/autoadd/memes/share my thoughts.ogg",l
 L["she made fucking beans wtf"]={{path="chatsounds/autoadd/memes/she made fucking beans wtf.ogg",length=3.693}}
 L["shet"]={{path="chatsounds/autoadd/memes/shet.ogg",length=0.888}}
 L["show me your butthole"]={{path="chatsounds/autoadd/memes/show me your butthole.ogg",length=1.897}}
+L["society"]={{path="chatsounds/autoadd/memes/society/1.ogg",length=1.054},{path="chatsounds/autoadd/memes/society/2.ogg",length=0.635}}
 L["spirte"]={{path="chatsounds/autoadd/memes/spirte.ogg",length=2.584}}
 L["squid ga"]={{path="chatsounds/autoadd/memes/squid ga.ogg",length=0.691}}
 L["stare into my eyes"]={{path="chatsounds/autoadd/memes/stare into my eyes.ogg",length=1.502}}
@@ -281,6 +285,7 @@ L["were done"]={{path="chatsounds/autoadd/memes/were done.ogg",length=0.476}}
 L["what are you looking at get back to work"]={{path="chatsounds/autoadd/memes/what are you looking at get back to work.ogg",length=4.029}}
 L["whats gibby thinking about"]={{path="chatsounds/autoadd/memes/whats gibby thinking about.ogg",length=4.696}}
 L["whats your name"]={{path="chatsounds/autoadd/memes/whats your name.ogg",length=0.517}}
+L["when i kiss my homies goodnight"]={{path="chatsounds/autoadd/memes/when i kiss my homies goodnight.ogg",length=1.536}}
 L["whered it go"]={{path="chatsounds/autoadd/memes/whered it go.ogg",length=0.692}}
 L["who is that coming off the goddamn pick and roll there boy"]={{path="chatsounds/autoadd/memes/who is that coming off the goddamn pick and roll there boy.ogg",length=4.079}}
 L["why are you running"]={{path="chatsounds/autoadd/memes/why are you running/1.ogg",length=0.974},{path="chatsounds/autoadd/memes/why are you running/2.ogg",length=0.993}}
