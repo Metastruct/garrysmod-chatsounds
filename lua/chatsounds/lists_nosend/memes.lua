@@ -14,6 +14,7 @@ L["ambatukam harmony"]={{path="chatsounds/autoadd/memes/ambatukam harmony.ogg",l
 L["and getting many victory royales"]={{path="chatsounds/autoadd/memes/and getting many victory royales.ogg",length=2.194}}
 L["and no one bats an eye"]={{path="chatsounds/autoadd/memes/and no one bats an eye.ogg",length=1.808}}
 L["and now ben shapiro wants to know my location"]={{path="chatsounds/autoadd/memes/and now ben shapiro wants to know my location.ogg",length=3.140}}
+L["and right now you can save 50 pounds per person"]={{path="chatsounds/autoadd/memes/and right now you can save 50 pounds per person.ogg",length=3.658}}
 L["and run as long as possible"]={{path="chatsounds/autoadd/memes/and run as long as possible.ogg",length=1.846}}
 L["angryhaaugh"]={{path="chatsounds/autoadd/memes/angryhaaugh.ogg",length=1.886}}
 L["arabic nokia ringtone"]={{path="chatsounds/autoadd/memes/arabic nokia ringtone.ogg",length=23.719}}
@@ -149,6 +150,7 @@ L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["is a multistage aerobic capacity test"]={{path="chatsounds/autoadd/memes/is a multistage aerobic capacity test.ogg",length=2.821}}
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
+L["jet2 holiday song"]={{path="chatsounds/autoadd/memes/jet2 holiday song.ogg",length=32.533}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
@@ -185,6 +187,7 @@ L["my moustache has deemed that you get my wario steam"]={{path="chatsounds/auto
 L["nathan"]={{path="chatsounds/autoadd/memes/nathan.ogg",length=0.524}}
 L["nathansganglaughing"]={{path="chatsounds/autoadd/memes/nathansganglaughing.ogg",length=7.183}}
 L["nathansganglaughingatnathancuznathancuznathangotcuminhismouth"]={{path="chatsounds/autoadd/memes/nathansganglaughingatnathancuznathancuznathangotcuminhismouth.ogg",length=26.851}}
+L["nothing beats a jet2 holiday"]={{path="chatsounds/autoadd/memes/nothing beats a jet2 holiday.ogg",length=2.489}}
 L["now this is epic"]={{path="chatsounds/autoadd/memes/now this is epic.ogg",length=2.900}}
 L["nuh uh"]={{path="chatsounds/autoadd/memes/nuh uh.ogg",length=0.841}}
 L["nutellaaaaaaa"]={{path="chatsounds/autoadd/memes/nutellaaaaaaa.ogg",length=2.391}}
@@ -245,6 +248,7 @@ L["sweaty speedrunmusic"]={{path="chatsounds/autoadd/memes/sweaty speedrunmusic.
 L["table break"]={{path="chatsounds/autoadd/memes/table break/tablebreak1.ogg",length=0.876},{path="chatsounds/autoadd/memes/table break/tablebreak2.ogg",length=3.448}}
 L["tacobell bell"]={{path="chatsounds/autoadd/memes/tacobell bell.ogg",length=1.722}}
 L["that progressively gets more difficult as it continues"]={{path="chatsounds/autoadd/memes/that progressively gets more difficult as it continues.ogg",length=3.402}}
+L["thats 200 pounds off for a family of four"]={{path="chatsounds/autoadd/memes/thats 200 pounds off for a family of four.ogg",length=2.537}}
 L["thats a huge bitch"]={{path="chatsounds/autoadd/memes/thats a huge bitch.ogg",length=1.314}}
 L["the 20 meter pacer test will begin in 30 seconds"]={{path="chatsounds/autoadd/memes/the 20 meter pacer test will begin in 30 seconds.ogg",length=3.262}}
 L["the balls harden"]={{path="chatsounds/autoadd/memes/the balls harden.ogg",length=0.982}}
@@ -283,6 +287,7 @@ L["well it was fucken one of yas"]={{path="chatsounds/autoadd/memes/well it was 
 L["well the table broke"]={{path="chatsounds/autoadd/memes/well the table broke.ogg",length=1.384}}
 L["well to help ben reach me all he needs your credit card three digits on the back and the expiration date"]={{path="chatsounds/autoadd/memes/well to help ben reach me all he needs your credit card three digits on the back and the expiration date.ogg",length=6.992}}
 L["were done"]={{path="chatsounds/autoadd/memes/were done.ogg",length=0.476}}
+L["weve got millions of free child place holidays available"]={{path="chatsounds/autoadd/memes/weve got millions of free child place holidays available.ogg",length=3.411}}
 L["what are you looking at get back to work"]={{path="chatsounds/autoadd/memes/what are you looking at get back to work.ogg",length=4.029}}
 L["whats gibby thinking about"]={{path="chatsounds/autoadd/memes/whats gibby thinking about.ogg",length=4.696}}
 L["whats your name"]={{path="chatsounds/autoadd/memes/whats your name.ogg",length=0.517}}
@@ -291,6 +296,7 @@ L["whered it go"]={{path="chatsounds/autoadd/memes/whered it go.ogg",length=0.69
 L["who is that coming off the goddamn pick and roll there boy"]={{path="chatsounds/autoadd/memes/who is that coming off the goddamn pick and roll there boy.ogg",length=4.079}}
 L["why are you running"]={{path="chatsounds/autoadd/memes/why are you running/1.ogg",length=0.974},{path="chatsounds/autoadd/memes/why are you running/2.ogg",length=0.993}}
 L["why does somebody not know how u flush a toilet after theyve had a shet"]={{path="chatsounds/autoadd/memes/why does somebody not know how u flush a toilet after theyve had a shet.ogg",length=3.877}}
+L["with 22 kilograms of baggage included"]={{path="chatsounds/autoadd/memes/with 22 kilograms of baggage included.ogg",length=2.949}}
 L["wooh what the heeeeeeeeeeeeeeeeeeeell"]={{path="chatsounds/autoadd/memes/wooh what the heeeeeeeeeeeeeeeeeeeell.ogg",length=7.133}}
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
 L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
