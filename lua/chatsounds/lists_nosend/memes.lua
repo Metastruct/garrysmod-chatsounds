@@ -170,6 +170,7 @@ L["line up at the start"]={{path="chatsounds/autoadd/memes/line up at the start.
 L["look again"]={{path="chatsounds/autoadd/memes/look again.ogg",length=0.873}}
 L["look down"]={{path="chatsounds/autoadd/memes/look down.ogg",length=0.685}}
 L["look down nathan"]={{path="chatsounds/autoadd/memes/look down nathan.ogg",length=1.055}}
+L["lumiscream"]={{path="chatsounds/autoadd/memes/lumiscream.ogg",length=0.824}}
 L["man i could use a monster right now i could go for a monster need a monster right now"]={{path="chatsounds/autoadd/memes/man i could use a monster right now i could go for a monster need a monster right now.ogg",length=7.245}}
 L["mega gay zone"]={{path="chatsounds/autoadd/memes/mega gay zone.ogg",length=1.608}}
 L["metal bonk"]={{path="chatsounds/autoadd/memes/metal bonk.ogg",length=0.907}}
