@@ -78,7 +78,6 @@ L["qoh"]={{path="chatsounds/autoadd/klingon/qoh.ogg",length=4.866}}
 L["qoy qeylis puqlod"]={{path="chatsounds/autoadd/klingon/qoy qeylis puqlod.ogg",length=35.248}}
 L["qul tuq"]={{path="chatsounds/autoadd/klingon/qul tuq.ogg",length=2.666}}
 L["qurgh"]={{path="chatsounds/autoadd/klingon/qurgh.ogg",length=2.933}}
-L["quv bey "]={{path="chatsounds/autoadd/klingon/quv bey /1.ogg",length=3.333},{path="chatsounds/autoadd/klingon/quv bey /2.ogg",length=4.400}}
 L["rahta"]={{path="chatsounds/autoadd/klingon/rahta.ogg",length=3.000}}
 L["reh nuhmey tu lu"]={{path="chatsounds/autoadd/klingon/reh nuhmey tu lu.ogg",length=4.400}}
 L["rep"]={{path="chatsounds/autoadd/klingon/rep.ogg",length=1.000}}
