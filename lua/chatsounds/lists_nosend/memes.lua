@@ -95,6 +95,8 @@ L["fuck outta here and go to the mega gay zone"]={{path="chatsounds/autoadd/meme
 L["fucko boingo"]={{path="chatsounds/autoadd/memes/fucko boingo.ogg",length=1.697}}
 L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}}
 L["gay"]={{path="chatsounds/autoadd/memes/gay.ogg",length=5.473}}
+L["gay gay gay homosexual"]={{path="chatsounds/autoadd/memes/gay gay gay homosexual.ogg",length=2.266}}
+L["gay gay gay homosexual gay kisses boys likes boys kisses boys gay gay homosexual"]={{path="chatsounds/autoadd/memes/gay gay gay homosexual gay kisses boys likes boys kisses boys gay gay homosexual.ogg",length=8.099}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
 L["get out"]={{path="chatsounds/autoadd/memes/get out.ogg",length=0.919}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
@@ -153,6 +155,7 @@ L["is a multistage aerobic capacity test"]={{path="chatsounds/autoadd/memes/is a
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
 L["jet2 holiday song"]={{path="chatsounds/autoadd/memes/jet2 holiday song.ogg",length=32.533}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
+L["kisses boys likes boys"]={{path="chatsounds/autoadd/memes/kisses boys likes boys.ogg",length=2.014}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
 L["kratos"]={{path="chatsounds/autoadd/memes/kratos.ogg",length=1.418}}
