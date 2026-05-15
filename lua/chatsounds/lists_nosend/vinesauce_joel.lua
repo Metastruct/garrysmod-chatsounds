@@ -4,6 +4,7 @@ L["aaaaaaaaaaaaaaaay"]={{path="chatsounds/autoadd/vinesauce_joel/aaaaaaaaaaaaaaa
 L["albert einstein"]={{path="chatsounds/autoadd/vinesauce_joel/albert einstein.ogg",length=1.239}}
 L["alright im done im done"]={{path="chatsounds/autoadd/vinesauce_joel/alright im done im done.ogg",length=1.848}}
 L["alright were soon into xen"]={{path="chatsounds/autoadd/vinesauce_joel/alright were soon into xen.ogg",length=1.382}}
+L["anti marcianito alarm"]={{path="chatsounds/autoadd/vinesauce_joel/anti marcianito alarm.ogg",length=49.714}}
 L["at least hell be gone with his virginity this time"]={{path="chatsounds/autoadd/vinesauce_joel/at least hell be gone with his virginity this time.ogg",length=2.692}}
 L["barb"]={{path="chatsounds/autoadd/vinesauce_joel/barb.ogg",length=0.341}}
 L["bargh"]={{path="chatsounds/autoadd/vinesauce_joel/bargh.ogg",length=0.340}}
@@ -118,6 +119,7 @@ L["oh yeah i gotta have a cigar"]={{path="chatsounds/autoadd/vinesauce_joel/oh y
 L["ohey ohey"]={{path="chatsounds/autoadd/vinesauce_joel/ohey ohey.ogg",length=2.172}}
 L["ok thats it thats it"]={{path="chatsounds/autoadd/vinesauce_joel/ok thats it thats it.ogg",length=0.970}}
 L["okey"]={{path="chatsounds/autoadd/vinesauce_joel/okey.ogg",length=0.700}}
+L["one dollar"]={{path="chatsounds/autoadd/vinesauce_joel/one dollar.ogg",length=0.582}}
 L["one file looping"]={{path="chatsounds/autoadd/vinesauce_joel/one file looping.ogg",length=1.114}}
 L["one file looping this"]={{path="chatsounds/autoadd/vinesauce_joel/one file looping this.ogg",length=1.645}}
 L["one million"]={{path="chatsounds/autoadd/vinesauce_joel/one million.ogg",length=1.411}}
