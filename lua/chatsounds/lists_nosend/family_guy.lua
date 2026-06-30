@@ -14,11 +14,13 @@ L["holy fuck"]={{path="chatsounds/autoadd/family_guy/holy fuck.ogg",length=1.538
 L["im cumming"]={{path="chatsounds/autoadd/family_guy/im cumming.ogg",length=1.766}}
 L["it seems today that all you see is violence in movies and sex on tv"]={{path="chatsounds/autoadd/family_guy/it seems today that all you see is violence in movies and sex on tv/1.ogg",length=6.755},{path="chatsounds/autoadd/family_guy/it seems today that all you see is violence in movies and sex on tv/2.ogg",length=6.593}}
 L["lois"]={{path="chatsounds/autoadd/family_guy/lois.ogg",length=1.112}}
+L["loisscreamstretch"]={{path="chatsounds/autoadd/family_guy/loisscreamstretch.ogg",length=2.211}}
 L["oh yeah"]={{path="chatsounds/autoadd/family_guy/oh yeah.ogg",length=0.617}}
 L["peter"]={{path="chatsounds/autoadd/family_guy/peter.ogg",length=0.412}}
 L["peter what are you doing"]={{path="chatsounds/autoadd/family_guy/peter what are you doing.ogg",length=1.264}}
 L["petermoans"]={{path="chatsounds/autoadd/family_guy/petermoans/1.ogg",length=0.840},{path="chatsounds/autoadd/family_guy/petermoans/2.ogg",length=2.044}}
 L["peterrage"]={{path="chatsounds/autoadd/family_guy/peterrage.ogg",length=3.634}}
+L["thats true"]={{path="chatsounds/autoadd/family_guy/thats true.ogg",length=0.829}}
 L["the horse is here"]={{path="chatsounds/autoadd/family_guy/the horse is here.ogg",length=0.908}}
 L["welp i see yall tomorrow"]={{path="chatsounds/autoadd/family_guy/welp i see yall tomorrow.ogg",length=1.751}}
 L["what the fu"]={{path="chatsounds/autoadd/family_guy/what the fu.ogg",length=1.069}}
