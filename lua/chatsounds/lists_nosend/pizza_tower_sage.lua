@@ -10,5 +10,6 @@ L["pizza tower rank b"]={{path="chatsounds/autoadd/pizza_tower_sage/pizza tower 
 L["pizza tower rank c"]={{path="chatsounds/autoadd/pizza_tower_sage/pizza tower rank b.ogg",length=15.637}}
 L["pizza tower rank d"]={{path="chatsounds/autoadd/pizza_tower_sage/pizza tower rank d.ogg",length=14.837}}
 L["pizza tower rank s"]={{path="chatsounds/autoadd/pizza_tower_sage/pizza tower rank s.ogg",length=14.652}}
+L["taunt"]={{path="chatsounds/autoadd/pizza_tower_sage/taunt.ogg",length=0.701}}
 L["woah"]={{path="chatsounds/autoadd/pizza_tower_sage/woah.ogg",length=0.607}}
 c.EndList()
