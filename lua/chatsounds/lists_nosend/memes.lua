@@ -139,6 +139,7 @@ L["i got the honey"]={{path="chatsounds/autoadd/memes/i got the honey.ogg",lengt
 L["i hope you are scared"]={{path="chatsounds/autoadd/memes/i hope you are scared.ogg",length=1.265}}
 L["i like"]={{path="chatsounds/autoadd/memes/i like.ogg",length=0.688}}
 L["i like it embodied in my ass while i play overwatch"]={{path="chatsounds/autoadd/memes/i like it embodied in my ass while i play overwatch.ogg",length=2.644}}
+L["i live in a low income housing environment"]={{path="chatsounds/autoadd/memes/i live in a low income housing environment.ogg",length=32.253}}
 L["i mean seriously how does anyone find that funny"]={{path="chatsounds/autoadd/memes/i mean seriously how does anyone find that funny.ogg",length=3.287}}
 L["i said no"]={{path="chatsounds/autoadd/memes/i said no.ogg",length=1.741}}
 L["i said whoever threw that paper your moms a hoe"]={{path="chatsounds/autoadd/memes/i said whoever threw that paper your moms a hoe.ogg",length=3.128}}
