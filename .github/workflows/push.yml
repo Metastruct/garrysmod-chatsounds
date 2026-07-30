@@ -19,7 +19,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
+        with:
+          token: '${{secrets.CR_PAT}}'
 
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
@@ -29,6 +31,6 @@ jobs:
         with:
           add: 'lua/chatsounds/lists_nosend'
           author_name: Meta Automator
-          author_email: MetaAutomator@users.noreply.github.com
+          author_email: 30638685+MetaAutomator@users.noreply.github.com
           default_author: user_info
           pull: 'NO-PULL'
