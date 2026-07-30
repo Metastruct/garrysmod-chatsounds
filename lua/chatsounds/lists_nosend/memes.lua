@@ -103,6 +103,7 @@ L["fucky wacky"]={{path="chatsounds/autoadd/memes/fucky wacky.ogg",length=1.072}
 L["gay"]={{path="chatsounds/autoadd/memes/gay.ogg",length=5.473}}
 L["gay gay gay homosexual"]={{path="chatsounds/autoadd/memes/gay gay gay homosexual.ogg",length=2.266}}
 L["gay gay gay homosexual gay kisses boys likes boys kisses boys gay gay homosexual"]={{path="chatsounds/autoadd/memes/gay gay gay homosexual gay kisses boys likes boys kisses boys gay gay homosexual.ogg",length=8.099}}
+L["gays tend to love each others semen and it flavors up the coffee they like the taste of it theres"]={{path="chatsounds/autoadd/memes/gays tend to love each others semen and it flavors up the coffee they like the taste of it theres.ogg",length=8.468}}
 L["get off me"]={{path="chatsounds/autoadd/memes/get off me.ogg",length=0.552}}
 L["get out"]={{path="chatsounds/autoadd/memes/get out.ogg",length=0.919}}
 L["get stickbugged"]={{path="chatsounds/autoadd/memes/get stickbugged.ogg",length=7.412}}
@@ -339,7 +340,6 @@ L["wooh what the heeeeeeeeeeeeeeeeeeeell"]={{path="chatsounds/autoadd/memes/wooh
 L["wooow loud clapping"]={{path="chatsounds/autoadd/memes/wooow loud clapping.ogg",length=8.165}}
 L["woopsie"]={{path="chatsounds/autoadd/memes/woopsie.ogg",length=0.932}}
 L["worlds loudest scream"]={{path="chatsounds/autoadd/memes/worlds loudest scream.ogg",length=3.372}}
-L["yees tend to love each others semen and it flavors up the coffee they like the taste of it theres"]={{path="chatsounds/autoadd/memes/yees tend to love each others semen and it flavors up the coffee they like the taste of it theres.ogg",length=8.468}}
 L["yesss"]={{path="chatsounds/autoadd/memes/yesss.ogg",length=6.038}}
 L["yippie"]={{path="chatsounds/autoadd/memes/yippie.ogg",length=1.214}}
 L["yippie death"]={{path="chatsounds/autoadd/memes/yippie death.ogg",length=0.830}}
