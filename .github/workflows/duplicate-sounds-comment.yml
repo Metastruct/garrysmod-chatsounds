@@ -78,18 +78,24 @@ jobs:
           PR: ${{ steps.pr.outputs.number }}
         run: |
           set -euo pipefail
-          : > flagged.tsv
+          : > found.tsv      # everything the scan flagged, any category
+          : > flagged.tsv    # the subset that blocks the PR
           if [ -s payload/flagged.tsv ]; then
             gh api "repos/$REPO/pulls/$PR/files" --paginate --jq '.[].filename' > pr-files.txt
+            awk -F'\t' '
+              NR == FNR { inpr[$0] = 1; next }
+              ($1 in inpr)
+            ' pr-files.txt payload/flagged.tsv | head -30 > found.tsv
             awk -F'\t' -v cats="$BLOCKING" '
               BEGIN { n = split(cats, a, ","); for (i = 1; i <= n; i++) blocking[a[i]] = 1 }
-              NR == FNR { inpr[$0] = 1; next }
-              ($1 in inpr) && ($2 in blocking)
-            ' pr-files.txt payload/flagged.tsv | head -30 > flagged.tsv
+              ($2 in blocking)
+            ' found.tsv > flagged.tsv
           fi
           COUNT=$(wc -l < flagged.tsv)
+          FOUND=$(wc -l < found.tsv)
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
-          echo "$COUNT blocking file(s)"
+          echo "found=$FOUND" >> "$GITHUB_OUTPUT"
+          echo "$FOUND flagged file(s), $COUNT of them blocking"
 
       # Blocking case: the report IS the review body, so the PR gets one comment
       # instead of a standalone report plus a near-identical review note.
@@ -149,27 +155,40 @@ jobs:
             echo "removed superseded comment $CID"
           done < stale.txt
 
-      # Nothing blocking: report in a plain sticky comment, and clear any review
-      # left over from an earlier push, since changes-requested blocks the merge.
-      - name: Report without blocking
+      # Nothing blocking. Non-blocking matches (numbered alternates) still get a
+      # sticky comment; a clean PR gets silence, not a "no duplicates" notice.
+      # Either way, clear a review left over from an earlier push, since
+      # changes-requested blocks the merge.
+      - name: Report or clean up
         if: steps.pr.outputs.state == 'open' && steps.flagged.outputs.count == '0'
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           PR: ${{ steps.pr.outputs.number }}
+          FOUND: ${{ steps.flagged.outputs.found }}
         run: |
           set -euo pipefail
-          { echo "$MARKER"; cat payload/report.md; } > comment.md
-
           gh api "repos/$REPO/issues/$PR/comments" --paginate \
             --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" > mine.txt
           ID=$(head -1 mine.txt)
-          if [ -n "$ID" ]; then
-            gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
-            echo "updated comment $ID on #$PR"
+
+          if [ "$FOUND" != "0" ]; then
+            { echo "$MARKER"; cat payload/report.md; } > comment.md
+            if [ -n "$ID" ]; then
+              gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
+              echo "updated comment $ID on #$PR"
+            else
+              gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
+              echo "posted comment on #$PR"
+            fi
           else
-            gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
-            echo "posted comment on #$PR"
+            # Clean PR: say nothing, and retract anything an earlier run said.
+            while read -r CID; do
+              [ -n "$CID" ] || continue
+              gh api -X DELETE "repos/$REPO/issues/comments/$CID" >/dev/null
+              echo "removed obsolete comment $CID"
+            done < mine.txt
+            echo "nothing flagged on #$PR, staying quiet"
           fi
 
           gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
@@ -178,9 +197,9 @@ jobs:
             [ -n "$RID" ] || continue
             # Blank the stale report out of the dismissed review so the timeline
             # doesn't keep showing duplicates that are no longer there.
-            printf '%s\nResolved: no duplicates remain in this PR.\n' "$MARKER" > resolved.md
+            printf '%s\nResolved: nothing blocking remains in this PR.\n' "$MARKER" > resolved.md
             gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$RID" -F body=@resolved.md >/dev/null
             gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$RID/dismissals" \
-              -f message='No duplicates remain in this PR.' -f event=DISMISS >/dev/null
+              -f message='Nothing blocking remains in this PR.' -f event=DISMISS >/dev/null
             echo "dismissed review $RID"
           done < open.txt
