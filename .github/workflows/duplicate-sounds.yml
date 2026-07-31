@@ -91,6 +91,28 @@ jobs:
           cp report.md comment-payload/report.md
           echo "${{ github.event.pull_request.number }}" > comment-payload/pr-number.txt
 
+          # flagged.tsv: one line per file *this PR adds* that landed in a
+          # duplicate cluster -> path, category, tier, what it collides with.
+          # duplicates.tsv paths are relative to sound/; added.txt is repo-relative.
+          [ -f duplicates.tsv ] || exit 0
+          python3 - <<'PY'
+          import csv, os
+          added = {os.path.normpath(l.strip()) for l in open('added.txt') if l.strip()}
+          seen, out = set(), []
+          with open('duplicates.tsv') as f:
+              for row in csv.DictReader(f, delimiter='\t'):   # already severity-sorted
+                  keep = os.path.normpath(os.path.join('sound', row['keep']))
+                  dup = os.path.normpath(os.path.join('sound', row['duplicate']))
+                  for mine, other in ((keep, dup), (dup, keep)):
+                      if mine in added and mine not in seen:
+                          seen.add(mine)
+                          out.append((mine, row['category'], row['tier'], other))
+          with open('comment-payload/flagged.tsv', 'w') as f:
+              for r in out:
+                  f.write('\t'.join(r) + '\n')
+          print(f'{len(out)} file(s) in this PR flagged as duplicates')
+          PY
+
       - uses: actions/upload-artifact@v4
         if: always() && hashFiles('comment-payload/pr-number.txt') != ''
         with:

@@ -4,12 +4,13 @@ name: Duplicate Sounds Comment
 # for PRs opened from a fork it gets a read-only GITHUB_TOKEN and cannot post a
 # comment (HTTP 403). This one is triggered by `workflow_run`, which always runs
 # in the context of the base repo's default branch and therefore holds a write
-# token -- even when the PR that produced the report came from a fork.
+# token, even when the PR that produced the report came from a fork.
 #
-# Nothing from the PR is checked out or executed here. The only untrusted input
-# is the artifact's contents, which is treated as data: the PR number is
-# validated as an integer, and the report body is passed to the API as a file so
-# it never reaches the shell.
+# Nothing from the PR is checked out or executed here. The artifact is treated
+# as untrusted data: the PR number is scrubbed to digits, every flagged path is
+# intersected with the PR's real file list from the API before it reaches a
+# review, and report bodies are passed to the API as files so they never hit
+# the shell.
 
 on:
   workflow_run:
@@ -18,19 +19,27 @@ on:
 
 permissions:
   actions: read          # download the artifact from the triggering run
-  pull-requests: write   # post/update the comment
+  pull-requests: write   # post the comment, request changes, dismiss
 
 concurrency:
   group: dupes-comment-${{ github.event.workflow_run.head_repository.full_name }}-${{ github.event.workflow_run.head_branch }}
   cancel-in-progress: true
+
+env:
+  MARKER: '<!-- chatsounds-dupe-check -->'
+  # Categories that block the PR. CAREFUL-numbered-alternates is deliberately
+  # absent: numbered variants ("laugh1.ogg", "laugh2.ogg") are usually
+  # intentional variety, so they get reported in the comment but don't hold up
+  # a merge.
+  BLOCKING: 'SAFE-identical-audio,REVIEW-cross-folder,REVIEW-same-folder'
 
 jobs:
   comment:
     if: github.event.workflow_run.event == 'pull_request'
     runs-on: ubuntu-latest
     steps:
-      # The artifact only exists when the scan actually produced a report, so a
-      # miss is the normal "no duplicates found" path, not a failure.
+      # The artifact only exists when the scan produced a report, so a miss is
+      # the normal "nothing to say" path, not a failure.
       - name: Download report
         id: dl
         continue-on-error: true
@@ -41,26 +50,34 @@ jobs:
           github-token: ${{ github.token }}
           path: payload
 
-      - name: Post or update comment
+      - name: Resolve PR
+        id: pr
         if: steps.dl.outcome == 'success'
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
-
           PR=$(tr -cd '0-9' < payload/pr-number.txt)
           if [ -z "$PR" ]; then
-            echo "::error::no PR number in artifact"
-            exit 1
+            echo "::error::no PR number in artifact"; exit 1
           fi
+          STATE=$(gh api "repos/$REPO/pulls/$PR" --jq .state)
+          echo "number=$PR"  >> "$GITHUB_OUTPUT"
+          echo "state=$STATE" >> "$GITHUB_OUTPUT"
+          echo "PR #$PR is $STATE"
 
-          MARKER='<!-- chatsounds-dupe-check -->'
+      - name: Post or update comment
+        if: steps.pr.outputs.state == 'open'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+        run: |
+          set -euo pipefail
           { echo "$MARKER"; cat payload/report.md; } > comment.md
-
           ID=$(gh api "repos/$REPO/issues/$PR/comments" \
                  --paginate --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" | head -1)
-
           if [ -n "$ID" ]; then
             gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
             echo "updated comment $ID on #$PR"
@@ -68,3 +85,88 @@ jobs:
             gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
             echo "posted comment on #$PR"
           fi
+
+      # Paths come from the untrusted artifact, so keep only the ones that are
+      # genuinely part of this PR according to the API.
+      - name: Validate flagged files
+        id: flagged
+        if: steps.pr.outputs.state == 'open'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+        run: |
+          set -euo pipefail
+          : > flagged.tsv
+          if [ -s payload/flagged.tsv ]; then
+            gh api "repos/$REPO/pulls/$PR/files" --paginate --jq '.[].filename' > pr-files.txt
+            awk -F'\t' -v cats="$BLOCKING" '
+              BEGIN { n = split(cats, a, ","); for (i = 1; i <= n; i++) blocking[a[i]] = 1 }
+              NR == FNR { inpr[$0] = 1; next }
+              ($1 in inpr) && ($2 in blocking)
+            ' pr-files.txt payload/flagged.tsv | head -30 > flagged.tsv
+          fi
+          COUNT=$(wc -l < flagged.tsv)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "$COUNT blocking file(s)"
+
+      - name: Request changes
+        if: steps.flagged.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+          COUNT: ${{ steps.flagged.outputs.count }}
+        run: |
+          set -euo pipefail
+
+          # Don't stack reviews: one open changes-requested review is enough,
+          # the sticky comment above carries the current details.
+          OPEN=$(gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
+                   --jq "[.[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\")))] | length")
+          if [ "$OPEN" != "0" ]; then
+            echo "a changes-requested review is already open; leaving it"; exit 0
+          fi
+
+          BODY="$MARKER
+          ### ⚠️ $COUNT file(s) look like duplicates of sounds already in the library
+
+          Each flagged file is commented below with what it matches. Either remove the
+          duplicate, or reply explaining why the near-identical copy is wanted, and a
+          maintainer can dismiss this review."
+
+          jq -Rn --arg body "$BODY" '
+            { event: "REQUEST_CHANGES", body: $body,
+              comments: [ inputs | split("\t") |
+                { path: .[0], subject_type: "file",
+                  body: ("⚠️ **Possible duplicate** (`" + .[1] + "`, match: `" + .[2] + "`)\n\nSame audio as `" + .[3] + "`.") } ] }
+          ' flagged.tsv > review.json
+
+          # File-level review comments (subject_type: file) are the only kind
+          # that work on binary blobs, since there are no diff line positions
+          # to anchor to. If the API won't take them, still block the PR.
+          if ! gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review.json >/dev/null 2>err.txt; then
+            echo "::warning::inline review comments rejected, falling back to a plain review"
+            cat err.txt
+            jq 'del(.comments)' review.json > review-plain.json
+            gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review-plain.json >/dev/null
+          fi
+          echo "requested changes on #$PR"
+
+      # Duplicates were resolved (or the flagged files were dropped), so get the
+      # PR unstuck, since a changes-requested review blocks merge until dismissed.
+      - name: Dismiss stale review
+        if: steps.pr.outputs.state == 'open' && steps.flagged.outputs.count == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+        run: |
+          set -euo pipefail
+          gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
+            --jq ".[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\"))) | .id" \
+          | while read -r ID; do
+              gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$ID/dismissals" \
+                -f message='No duplicates remain in this PR.' -f event=DISMISS >/dev/null
+              echo "dismissed review $ID"
+            done
