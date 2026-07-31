@@ -67,25 +67,6 @@ jobs:
           echo "state=$STATE" >> "$GITHUB_OUTPUT"
           echo "PR #$PR is $STATE"
 
-      - name: Post or update comment
-        if: steps.pr.outputs.state == 'open'
-        env:
-          GH_TOKEN: ${{ github.token }}
-          REPO: ${{ github.repository }}
-          PR: ${{ steps.pr.outputs.number }}
-        run: |
-          set -euo pipefail
-          { echo "$MARKER"; cat payload/report.md; } > comment.md
-          ID=$(gh api "repos/$REPO/issues/$PR/comments" \
-                 --paginate --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" | head -1)
-          if [ -n "$ID" ]; then
-            gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
-            echo "updated comment $ID on #$PR"
-          else
-            gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
-            echo "posted comment on #$PR"
-          fi
-
       # Paths come from the untrusted artifact, so keep only the ones that are
       # genuinely part of this PR according to the API.
       - name: Validate flagged files
@@ -110,6 +91,8 @@ jobs:
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "$COUNT blocking file(s)"
 
+      # Blocking case: the report IS the review body, so the PR gets one comment
+      # instead of a standalone report plus a near-identical review note.
       - name: Request changes
         if: steps.flagged.outputs.count != '0'
         env:
@@ -119,43 +102,56 @@ jobs:
           COUNT: ${{ steps.flagged.outputs.count }}
         run: |
           set -euo pipefail
+          {
+            echo "$MARKER"
+            cat payload/report.md
+            echo
+            echo "**$COUNT file(s) blocked.** Remove the duplicate(s), or reply"
+            echo "explaining why the near-identical copy is wanted so a maintainer"
+            echo "can dismiss this review."
+          } > body.md
 
-          # Don't stack reviews: one open changes-requested review is enough,
-          # the sticky comment above carries the current details.
-          OPEN=$(gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
-                   --jq "[.[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\")))] | length")
-          if [ "$OPEN" != "0" ]; then
-            echo "a changes-requested review is already open; leaving it"; exit 0
+          # Reuse the open review if there is one: editing its body keeps the
+          # thread single instead of stacking a new review on every push.
+          gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
+            --jq ".[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\"))) | .id" > open.txt
+          ID=$(head -1 open.txt)
+
+          if [ -n "$ID" ]; then
+            gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$ID" -F body=@body.md >/dev/null
+            echo "refreshed review $ID on #$PR"
+          else
+            jq -Rn --rawfile body body.md '
+              { event: "REQUEST_CHANGES", body: $body,
+                comments: [ inputs | split("\t") |
+                  { path: .[0], subject_type: "file",
+                    body: ("⚠️ **Possible duplicate** (`" + .[1] + "`, match: `" + .[2] + "`)\n\nSame audio as `" + .[3] + "`.") } ] }
+            ' flagged.tsv > review.json
+
+            # File-level review comments (subject_type: file) are the only kind
+            # that work on binary blobs, since there are no diff line positions
+            # to anchor to. If the API won't take them, still block the PR.
+            if ! gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review.json >/dev/null 2>err.txt; then
+              echo "::warning::inline review comments rejected, falling back to a plain review"
+              cat err.txt
+              jq 'del(.comments)' review.json > review-plain.json
+              gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review-plain.json >/dev/null
+            fi
+            echo "requested changes on #$PR"
           fi
 
-          BODY="$MARKER
-          ### ⚠️ $COUNT file(s) look like duplicates of sounds already in the library
+          # A previous clean run may have left a standalone report behind.
+          gh api "repos/$REPO/issues/$PR/comments" --paginate \
+            --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" > stale.txt
+          while read -r CID; do
+            [ -n "$CID" ] || continue
+            gh api -X DELETE "repos/$REPO/issues/comments/$CID" >/dev/null
+            echo "removed superseded comment $CID"
+          done < stale.txt
 
-          Each flagged file is commented below with what it matches. Either remove the
-          duplicate, or reply explaining why the near-identical copy is wanted, and a
-          maintainer can dismiss this review."
-
-          jq -Rn --arg body "$BODY" '
-            { event: "REQUEST_CHANGES", body: $body,
-              comments: [ inputs | split("\t") |
-                { path: .[0], subject_type: "file",
-                  body: ("⚠️ **Possible duplicate** (`" + .[1] + "`, match: `" + .[2] + "`)\n\nSame audio as `" + .[3] + "`.") } ] }
-          ' flagged.tsv > review.json
-
-          # File-level review comments (subject_type: file) are the only kind
-          # that work on binary blobs, since there are no diff line positions
-          # to anchor to. If the API won't take them, still block the PR.
-          if ! gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review.json >/dev/null 2>err.txt; then
-            echo "::warning::inline review comments rejected, falling back to a plain review"
-            cat err.txt
-            jq 'del(.comments)' review.json > review-plain.json
-            gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review-plain.json >/dev/null
-          fi
-          echo "requested changes on #$PR"
-
-      # Duplicates were resolved (or the flagged files were dropped), so get the
-      # PR unstuck, since a changes-requested review blocks merge until dismissed.
-      - name: Dismiss stale review
+      # Nothing blocking: report in a plain sticky comment, and clear any review
+      # left over from an earlier push, since changes-requested blocks the merge.
+      - name: Report without blocking
         if: steps.pr.outputs.state == 'open' && steps.flagged.outputs.count == '0'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -163,10 +159,28 @@ jobs:
           PR: ${{ steps.pr.outputs.number }}
         run: |
           set -euo pipefail
+          { echo "$MARKER"; cat payload/report.md; } > comment.md
+
+          gh api "repos/$REPO/issues/$PR/comments" --paginate \
+            --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" > mine.txt
+          ID=$(head -1 mine.txt)
+          if [ -n "$ID" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
+            echo "updated comment $ID on #$PR"
+          else
+            gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
+            echo "posted comment on #$PR"
+          fi
+
           gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
-            --jq ".[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\"))) | .id" \
-          | while read -r ID; do
-              gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$ID/dismissals" \
-                -f message='No duplicates remain in this PR.' -f event=DISMISS >/dev/null
-              echo "dismissed review $ID"
-            done
+            --jq ".[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\"))) | .id" > open.txt
+          while read -r RID; do
+            [ -n "$RID" ] || continue
+            # Blank the stale report out of the dismissed review so the timeline
+            # doesn't keep showing duplicates that are no longer there.
+            printf '%s\nResolved: no duplicates remain in this PR.\n' "$MARKER" > resolved.md
+            gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$RID" -F body=@resolved.md >/dev/null
+            gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$RID/dismissals" \
+              -f message='No duplicates remain in this PR.' -f event=DISMISS >/dev/null
+            echo "dismissed review $RID"
+          done < open.txt
