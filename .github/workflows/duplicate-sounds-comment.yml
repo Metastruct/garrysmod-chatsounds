@@ -1,0 +1,70 @@
+name: Duplicate Sounds Comment
+
+# Companion to duplicate-sounds.yml. That workflow runs on `pull_request`, so
+# for PRs opened from a fork it gets a read-only GITHUB_TOKEN and cannot post a
+# comment (HTTP 403). This one is triggered by `workflow_run`, which always runs
+# in the context of the base repo's default branch and therefore holds a write
+# token -- even when the PR that produced the report came from a fork.
+#
+# Nothing from the PR is checked out or executed here. The only untrusted input
+# is the artifact's contents, which is treated as data: the PR number is
+# validated as an integer, and the report body is passed to the API as a file so
+# it never reaches the shell.
+
+on:
+  workflow_run:
+    workflows: ['Duplicate Sounds']
+    types: [completed]
+
+permissions:
+  actions: read          # download the artifact from the triggering run
+  pull-requests: write   # post/update the comment
+
+concurrency:
+  group: dupes-comment-${{ github.event.workflow_run.head_repository.full_name }}-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: true
+
+jobs:
+  comment:
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      # The artifact only exists when the scan actually produced a report, so a
+      # miss is the normal "no duplicates found" path, not a failure.
+      - name: Download report
+        id: dl
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: dupe-comment
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+          path: payload
+
+      - name: Post or update comment
+        if: steps.dl.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          PR=$(tr -cd '0-9' < payload/pr-number.txt)
+          if [ -z "$PR" ]; then
+            echo "::error::no PR number in artifact"
+            exit 1
+          fi
+
+          MARKER='<!-- chatsounds-dupe-check -->'
+          { echo "$MARKER"; cat payload/report.md; } > comment.md
+
+          ID=$(gh api "repos/$REPO/issues/$PR/comments" \
+                 --paginate --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" | head -1)
+
+          if [ -n "$ID" ]; then
+            gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
+            echo "updated comment $ID on #$PR"
+          else
+            gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
+            echo "posted comment on #$PR"
+          fi

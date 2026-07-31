@@ -15,10 +15,10 @@ on:
         description: 'Max duration ratio between duplicates'
         default: '1.03'
 
+# Fork PRs get a read-only token no matter what is requested here, so the PR
+# comment is posted by duplicate-sounds-comment.yml (workflow_run) instead.
 permissions:
   contents: read
-  pull-requests: write
-  issues: write
 
 concurrency:
   group: dupes-${{ github.ref }}
@@ -80,22 +80,23 @@ jobs:
         if: always() && hashFiles('report.md') != ''
         run: cat report.md >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Comment on PR
+      # This job can't comment (read-only token on fork PRs). Hand the report
+      # off to duplicate-sounds-comment.yml, which runs with a write token.
+      # The PR number has to travel in the artifact: workflow_run's
+      # `pull_requests` payload field is empty for cross-repository PRs.
+      - name: Stage comment payload
         if: always() && hashFiles('report.md') != ''
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
-          MARKER='<!-- chatsounds-dupe-check -->'
-          { echo "$MARKER"; cat report.md; } > comment.md
-          ID=$(gh api "repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
-                 --paginate --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" | head -1)
-          if [ -n "$ID" ]; then
-            gh api -X PATCH "repos/${{ github.repository }}/issues/comments/$ID" \
-              -F body=@comment.md >/dev/null
-          else
-            gh api -X POST "repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
-              -F body=@comment.md >/dev/null
-          fi
+          mkdir -p comment-payload
+          cp report.md comment-payload/report.md
+          echo "${{ github.event.pull_request.number }}" > comment-payload/pr-number.txt
+
+      - uses: actions/upload-artifact@v4
+        if: always() && hashFiles('comment-payload/pr-number.txt') != ''
+        with:
+          name: dupe-comment
+          path: comment-payload/
+          retention-days: 1
 
       - uses: actions/upload-artifact@v4
         if: always() && hashFiles('duplicates.tsv') != ''
@@ -107,6 +108,9 @@ jobs:
   full-audit:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write        # tracking issue, below
     steps:
       - uses: actions/checkout@v4
 
