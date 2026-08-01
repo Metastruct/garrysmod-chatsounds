@@ -5,6 +5,7 @@ L["at work"]={{path="chatsounds/autoadd/invincible/at work.ogg",length=0.717}}
 L["bright and early tomorrow mark"]={{path="chatsounds/autoadd/invincible/bright and early tomorrow mark.ogg",length=1.176}}
 L["cecil i need you cecil"]={{path="chatsounds/autoadd/invincible/cecil i need you cecil.ogg",length=4.299}}
 L["for sure"]={{path="chatsounds/autoadd/invincible/for sure.ogg",length=0.849}}
+L["good news we can finally be bees"]={{path="chatsounds/autoadd/invincible/good news we can finally be bees.ogg",length=2.813}}
 L["guess whos finally getting his powers"]={{path="chatsounds/autoadd/invincible/guess whos finally getting his powers.ogg",length=2.287}}
 L["honest to god a dragon was attacking hong kong"]={{path="chatsounds/autoadd/invincible/honest to god a dragon was attacking hong kong.ogg",length=2.548}}
 L["i had a pretty interesting day"]={{path="chatsounds/autoadd/invincible/i had a pretty interesting day.ogg",length=3.646}}
