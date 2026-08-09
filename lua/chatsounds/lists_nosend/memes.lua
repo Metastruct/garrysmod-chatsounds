@@ -35,7 +35,6 @@ L["barbecue bacon burger"]={{path="chatsounds/autoadd/memes/barbecue bacon burge
 L["bbq bacon burger"]={{path="chatsounds/autoadd/memes/bbq bacon burger.ogg",length=1.686}}
 L["beans"]={{path="chatsounds/autoadd/memes/beans.ogg",length=1.383}}
 L["bees make honey"]={{path="chatsounds/autoadd/memes/bees make honey.ogg",length=2.057}}
-L["best brisket in texas"]={{path="chatsounds/autoadd/memes/best brisket in texas.ogg",length=1.904}}
 L["billy earl"]={{path="chatsounds/autoadd/memes/billy earl.ogg",length=0.556}}
 L["bitch"]={{path="chatsounds/autoadd/memes/bitch.ogg",length=0.460}}
 L["blows up pancakes with mind"]={{path="chatsounds/autoadd/memes/blows up pancakes with mind.ogg",length=2.235}}
@@ -130,7 +129,6 @@ L["hmm creamy italian"]={{path="chatsounds/autoadd/memes/hmm creamy italian.ogg"
 L["honey you mean hunkules"]={{path="chatsounds/autoadd/memes/honey you mean hunkules.ogg",length=2.145}}
 L["honey you mean hunkules distorted"]={{path="chatsounds/autoadd/memes/honey you mean hunkules distorted.ogg",length=3.121}}
 L["hood cricket"]={{path="chatsounds/autoadd/memes/hood cricket.ogg",length=1.100}}
-L["hot damn"]={{path="chatsounds/autoadd/memes/hot damn.ogg",length=1.575}}
 L["how do you know that it flavors the coffee"]={{path="chatsounds/autoadd/memes/how do you know that it flavors the coffee.ogg",length=2.485}}
 L["how does anyone find that funny"]={{path="chatsounds/autoadd/memes/how does anyone find that funny.ogg",length=1.687}}
 L["hrrngh"]={{path="chatsounds/autoadd/memes/hrrngh.ogg",length=0.891}}
