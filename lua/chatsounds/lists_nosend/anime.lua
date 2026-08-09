@@ -3,6 +3,7 @@ L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
 L["ah i wish i were a birdu"]={{path="chatsounds/autoadd/anime/ah i wish i were a birdu.ogg",length=3.620}}
 L["america ya"]={{path="chatsounds/autoadd/anime/america ya.ogg",length=1.387}}
+L["aston machan"]={{path="chatsounds/autoadd/anime/aston machan.ogg",length=1.790}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["cawfee"]={{path="chatsounds/autoadd/anime/cawfee/1.ogg",length=0.650},{path="chatsounds/autoadd/anime/cawfee/2.ogg",length=0.869}}
@@ -64,6 +65,7 @@ L["the glue"]={{path="chatsounds/autoadd/anime/the glue.ogg",length=1.275}}
 L["todaaay"]={{path="chatsounds/autoadd/anime/todaaay/1.ogg",length=1.208},{path="chatsounds/autoadd/anime/todaaay/2.ogg",length=1.239}}
 L["today"]={{path="chatsounds/autoadd/anime/today.ogg",length=0.690}}
 L["tomorrow"]={{path="chatsounds/autoadd/anime/tomorrow/1.ogg",length=0.796},{path="chatsounds/autoadd/anime/tomorrow/2.ogg",length=0.809},{path="chatsounds/autoadd/anime/tomorrow/3.ogg",length=1.256}}
+L["tore chan"]={{path="chatsounds/autoadd/anime/tore chan.ogg",length=1.825}}
 L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chatsounds/autoadd/anime/true/2.ogg",length=0.395},{path="chatsounds/autoadd/anime/true/3.ogg",length=0.427}}
 L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
 L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
