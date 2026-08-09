@@ -3,7 +3,6 @@ on:
   push:
     paths:
       - 'sound/**'
-      - 'lua/chatsounds/lists_nosend/**'
 jobs:
   check:
     if: github.ref != 'refs/heads/master'
