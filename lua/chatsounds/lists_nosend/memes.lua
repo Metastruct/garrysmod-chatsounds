@@ -185,6 +185,7 @@ L["lead pipe"]={{path="chatsounds/autoadd/memes/lead pipe.ogg",length=2.602}}
 L["legalize nuclear bombs"]={{path="chatsounds/autoadd/memes/legalize nuclear bombs.ogg",length=1.631}}
 L["lego breaking"]={{path="chatsounds/autoadd/memes/lego breaking.ogg",length=1.649}}
 L["lemon"]={{path="chatsounds/autoadd/memes/lemon.ogg",length=0.766}}
+L["let it ride"]={{path="chatsounds/autoadd/memes/let it ride/1.ogg",length=0.645},{path="chatsounds/autoadd/memes/let it ride/2.ogg",length=0.629},{path="chatsounds/autoadd/memes/let it ride/3.ogg",length=0.834},{path="chatsounds/autoadd/memes/let it ride/4.ogg",length=0.501}}
 L["let me pluck pluck pluck"]={{path="chatsounds/autoadd/memes/let me pluck pluck pluck.ogg",length=1.965}}
 L["life isnt just about passing your genes. its about how many messages you send in whatsapp and how much fun you will have while using it."]={{path="chatsounds/autoadd/memes/life isnt just about passing your genes. its about how many messages you send in whatsapp and how much fun you will have while using it..ogg",length=7.328}}
 L["life on the open seas"]={{path="chatsounds/autoadd/memes/life on the open seas.ogg",length=2.261}}
