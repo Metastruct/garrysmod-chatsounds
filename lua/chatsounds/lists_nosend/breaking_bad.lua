@@ -1,4 +1,5 @@
 c.StartList("breaking_bad")
+L["a cripple little rata"]={{path="chatsounds/autoadd/breaking_bad/a cripple little rata.ogg",length=2.210}}
 L["a guy"]={{path="chatsounds/autoadd/breaking_bad/a guy.ogg",length=0.374}}
 L["a guy opens his door and get shot"]={{path="chatsounds/autoadd/breaking_bad/a guy opens his door and get shot.ogg",length=1.792}}
 L["a much"]={{path="chatsounds/autoadd/breaking_bad/a much.ogg",length=0.362}}
@@ -51,11 +52,13 @@ L["getting some of those items may be challenging"]={{path="chatsounds/autoadd/b
 L["god"]={{path="chatsounds/autoadd/breaking_bad/god.ogg",length=0.356}}
 L["gram"]={{path="chatsounds/autoadd/breaking_bad/gram.ogg",length=0.480}}
 L["grams"]={{path="chatsounds/autoadd/breaking_bad/grams.ogg",length=0.697}}
+L["gus scream"]={{path="chatsounds/autoadd/breaking_bad/gus scream.ogg",length=0.547}}
 L["half"]={{path="chatsounds/autoadd/breaking_bad/half.ogg",length=0.181}}
 L["hank"]={{path="chatsounds/autoadd/breaking_bad/hank.ogg",length=0.555}}
 L["hard to come by"]={{path="chatsounds/autoadd/breaking_bad/hard to come by.ogg",length=0.733}}
 L["he cant keep getting away with it"]={{path="chatsounds/autoadd/breaking_bad/he cant keep getting away with it.ogg",length=3.096}}
 L["hear me out"]={{path="chatsounds/autoadd/breaking_bad/hear me out.ogg",length=0.993}}
+L["hector bell"]={{path="chatsounds/autoadd/breaking_bad/hector bell.ogg",length=8.250}}
 L["heheheh"]={{path="chatsounds/autoadd/breaking_bad/heheheh.ogg",length=0.540}}
 L["heisenberg"]={{path="chatsounds/autoadd/breaking_bad/heisenberg.ogg",length=0.772}}
 L["hm"]={{path="chatsounds/autoadd/breaking_bad/hm/hm-2.ogg",length=0.202},{path="chatsounds/autoadd/breaking_bad/hm/hm.ogg",length=0.235}}
@@ -91,6 +94,7 @@ L["in"]={{path="chatsounds/autoadd/breaking_bad/in.ogg",length=0.279}}
 L["in danger"]={{path="chatsounds/autoadd/breaking_bad/in danger.ogg",length=0.724}}
 L["in the world"]={{path="chatsounds/autoadd/breaking_bad/in the world.ogg",length=0.543}}
 L["interfere"]={{path="chatsounds/autoadd/breaking_bad/interfere.ogg",length=0.813}}
+L["is that how you want to be remembered"]={{path="chatsounds/autoadd/breaking_bad/is that how you want to be remembered.ogg",length=1.985}}
 L["is the first"]={{path="chatsounds/autoadd/breaking_bad/is the first.ogg",length=0.833}}
 L["is the first day"]={{path="chatsounds/autoadd/breaking_bad/is the first day.ogg",length=1.249}}
 L["it doesnt"]={{path="chatsounds/autoadd/breaking_bad/it doesnt.ogg",length=0.439}}
@@ -105,6 +109,7 @@ L["just hear me out"]={{path="chatsounds/autoadd/breaking_bad/just hear me out.o
 L["kill"]={{path="chatsounds/autoadd/breaking_bad/kill/kill-2.ogg",length=0.315},{path="chatsounds/autoadd/breaking_bad/kill/kill.ogg",length=0.231}}
 L["knocks"]={{path="chatsounds/autoadd/breaking_bad/knocks.ogg",length=0.558}}
 L["lasers"]={{path="chatsounds/autoadd/breaking_bad/lasers.ogg",length=0.594}}
+L["last chance to look at me hector"]={{path="chatsounds/autoadd/breaking_bad/last chance to look at me hector.ogg",length=2.050}}
 L["listen"]={{path="chatsounds/autoadd/breaking_bad/listen.ogg",length=0.489}}
 L["liters"]={{path="chatsounds/autoadd/breaking_bad/liters.ogg",length=0.461}}
 L["love"]={{path="chatsounds/autoadd/breaking_bad/love.ogg",length=0.160}}
@@ -125,6 +130,8 @@ L["my name"]={{path="chatsounds/autoadd/breaking_bad/my name.ogg",length=0.754}}
 L["name"]={{path="chatsounds/autoadd/breaking_bad/name.ogg",length=0.445}}
 L["neither"]={{path="chatsounds/autoadd/breaking_bad/neither.ogg",length=0.481}}
 L["no"]={{path="chatsounds/autoadd/breaking_bad/no.ogg",length=0.356}}
+L["no man"]={{path="chatsounds/autoadd/breaking_bad/no man.ogg",length=1.125}}
+L["no man at all"]={{path="chatsounds/autoadd/breaking_bad/no man at all.ogg",length=1.665}}
 L["no you know what"]={{path="chatsounds/autoadd/breaking_bad/no you know what.ogg",length=0.670}}
 L["no you know what count me out"]={{path="chatsounds/autoadd/breaking_bad/no you know what count me out.ogg",length=1.321}}
 L["not"]={{path="chatsounds/autoadd/breaking_bad/not.ogg",length=0.457}}
@@ -212,9 +219,11 @@ L["were not going to need"]={{path="chatsounds/autoadd/breaking_bad/were not goi
 L["were talking"]={{path="chatsounds/autoadd/breaking_bad/were talking.ogg",length=0.661}}
 L["were talking two blah boxes of sinus pills"]={{path="chatsounds/autoadd/breaking_bad/were talking two blah boxes of sinus pills.ogg",length=3.176}}
 L["what"]={{path="chatsounds/autoadd/breaking_bad/what/what-2.ogg",length=0.760},{path="chatsounds/autoadd/breaking_bad/what/what.ogg",length=0.445}}
+L["what a reputation to leave behind"]={{path="chatsounds/autoadd/breaking_bad/what a reputation to leave behind.ogg",length=2.510}}
 L["what are you doing"]={{path="chatsounds/autoadd/breaking_bad/what are you doing.ogg",length=0.742}}
 L["what did that"]={{path="chatsounds/autoadd/breaking_bad/what did that.ogg",length=0.424}}
 L["what did that phone call mean"]={{path="chatsounds/autoadd/breaking_bad/what did that phone call mean.ogg",length=1.782}}
+L["what kind of man talks to the dea"]={{path="chatsounds/autoadd/breaking_bad/what kind of man talks to the dea.ogg",length=2.670}}
 L["whats this"]={{path="chatsounds/autoadd/breaking_bad/whats this.ogg",length=0.462}}
 L["where is it"]={{path="chatsounds/autoadd/breaking_bad/where is it.ogg",length=0.584}}
 L["where is the"]={{path="chatsounds/autoadd/breaking_bad/where is the.ogg",length=0.468}}
