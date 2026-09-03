@@ -57,6 +57,8 @@ L["cmeere"]={{path="chatsounds/autoadd/memes/cmeere.ogg",length=1.354}}
 L["cmere boy"]={{path="chatsounds/autoadd/memes/cmere boy.ogg",length=0.906}}
 L["coc thud"]={{path="chatsounds/autoadd/memes/coc thud.ogg",length=3.162}}
 L["cokey cola"]={{path="chatsounds/autoadd/memes/cokey cola.ogg",length=2.270}}
+L["conductor we have a problem"]={{path="chatsounds/autoadd/memes/conductor we have a problem.ogg",length=2.225}}
+L["conductor we have a problem conductor we have a problem conductor we have a problem"]={{path="chatsounds/autoadd/memes/conductor we have a problem conductor we have a problem conductor we have a problem.ogg",length=7.159}}
 L["cracker death"]={{path="chatsounds/autoadd/memes/cracker death.ogg",length=1.620}}
 L["crazybus remix"]={{path="chatsounds/autoadd/memes/crazybus remix.ogg",length=24.018}}
 L["cream of mushrooms"]={{path="chatsounds/autoadd/memes/cream of mushrooms.ogg",length=1.997}}
@@ -114,6 +116,7 @@ L["gimme your money scream"]={{path="chatsounds/autoadd/memes/gimme your money s
 L["girls kiss other girls"]={{path="chatsounds/autoadd/memes/girls kiss other girls.ogg",length=1.731}}
 L["give me a drink bartender"]={{path="chatsounds/autoadd/memes/give me a drink bartender.ogg",length=2.467}}
 L["go"]={{path="chatsounds/autoadd/memes/go.ogg",length=0.341}}
+L["goy"]={{path="chatsounds/autoadd/memes/goy/01.ogg",length=1.070},{path="chatsounds/autoadd/memes/goy/02.ogg",length=0.685}}
 L["ha gay"]={{path="chatsounds/autoadd/memes/ha gay.ogg",length=2.842}}
 L["haaugh"]={{path="chatsounds/autoadd/memes/haaugh/1.ogg",length=2.390},{path="chatsounds/autoadd/memes/haaugh/2.ogg",length=2.182},{path="chatsounds/autoadd/memes/haaugh/3.ogg",length=1.564}}
 L["hands"]={{path="chatsounds/autoadd/memes/hands.ogg",length=0.828}}
@@ -164,14 +167,17 @@ L["im gonna beat the shit out of you if you dont stop fucking with me"]={{path="
 L["im gonna beat your ass"]={{path="chatsounds/autoadd/memes/im gonna beat your ass.ogg",length=1.402}}
 L["im greek"]={{path="chatsounds/autoadd/memes/im greek.ogg",length=1.679}}
 L["im nathan"]={{path="chatsounds/autoadd/memes/im nathan.ogg",length=1.020}}
+L["independence day laugh"]={{path="chatsounds/autoadd/memes/independence day laugh.ogg",length=13.666}}
 L["intense laughter"]={{path="chatsounds/autoadd/memes/intense laughter.ogg",length=17.865}}
 L["is a multistage aerobic capacity test"]={{path="chatsounds/autoadd/memes/is a multistage aerobic capacity test.ogg",length=2.821}}
+L["is it a goy or a jew"]={{path="chatsounds/autoadd/memes/is it a goy or a jew.ogg",length=1.829}}
 L["it is eerily it is if theyre almost mocking me like theyre saying la ha ha ha ha well show you that"]={{path="chatsounds/autoadd/memes/it is eerily it is if theyre almost mocking me like theyre saying la ha ha ha ha well show you that.ogg",length=13.640}}
 L["its broken"]={{path="chatsounds/autoadd/memes/its broken.ogg",length=1.113}}
 L["ive got a twelve pack of that gorilla"]={{path="chatsounds/autoadd/memes/ive got a twelve pack of that gorilla.ogg",length=14.710}}
 L["jet2 holiday song"]={{path="chatsounds/autoadd/memes/jet2 holiday song.ogg",length=32.533}}
 L["jolly roger"]={{path="chatsounds/autoadd/memes/jolly roger.ogg",length=1.594}}
 L["just buy a house"]={{path="chatsounds/autoadd/memes/just buy a house.ogg",length=2.435}}
+L["kefka laugh"]={{path="chatsounds/autoadd/memes/kefka laugh.ogg",length=2.041}}
 L["kisses boys likes boys"]={{path="chatsounds/autoadd/memes/kisses boys likes boys.ogg",length=2.014}}
 L["kobe"]={{path="chatsounds/autoadd/memes/kobe.ogg",length=0.454}}
 L["kranplatze"]={{path="chatsounds/autoadd/memes/kranplatze.ogg",length=3.070}}
@@ -371,6 +377,7 @@ L["youll recieve 30 minutes of haaugh yes really"]={{path="chatsounds/autoadd/me
 L["your mother hung herself graah"]={{path="chatsounds/autoadd/memes/your mother hung herself graah.ogg",length=2.610}}
 L["your procelane"]={{path="chatsounds/autoadd/memes/your procelane.ogg",length=1.055}}
 L["your son has returned"]={{path="chatsounds/autoadd/memes/your son has returned.ogg",length=1.927}}
+L["youre a thief"]={{path="chatsounds/autoadd/memes/youre a thief/01.ogg",length=2.475},{path="chatsounds/autoadd/memes/youre a thief/02.ogg",length=2.300}}
 L["youre fucking gay as in homosexual"]={{path="chatsounds/autoadd/memes/youre fucking gay as in homosexual.ogg",length=5.012}}
 L["youre getting called a slur i dont know which one whichever one i feel like"]={{path="chatsounds/autoadd/memes/youre getting called a slur i dont know which one whichever one i feel like.ogg",length=8.815}}
 L["youre scaring me"]={{path="chatsounds/autoadd/memes/youre scaring me.ogg",length=1.229}}
