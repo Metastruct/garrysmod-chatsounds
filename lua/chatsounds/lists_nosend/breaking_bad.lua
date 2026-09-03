@@ -58,6 +58,7 @@ L["hank"]={{path="chatsounds/autoadd/breaking_bad/hank.ogg",length=0.555}}
 L["hard to come by"]={{path="chatsounds/autoadd/breaking_bad/hard to come by.ogg",length=0.733}}
 L["he cant keep getting away with it"]={{path="chatsounds/autoadd/breaking_bad/he cant keep getting away with it.ogg",length=3.096}}
 L["hear me out"]={{path="chatsounds/autoadd/breaking_bad/hear me out.ogg",length=0.993}}
+L["hector bell"]={{path="chatsounds/autoadd/breaking_bad/hector bell.ogg",length=8.250}}
 L["heheheh"]={{path="chatsounds/autoadd/breaking_bad/heheheh.ogg",length=0.540}}
 L["heisenberg"]={{path="chatsounds/autoadd/breaking_bad/heisenberg.ogg",length=0.772}}
 L["hm"]={{path="chatsounds/autoadd/breaking_bad/hm/hm-2.ogg",length=0.202},{path="chatsounds/autoadd/breaking_bad/hm/hm.ogg",length=0.235}}
