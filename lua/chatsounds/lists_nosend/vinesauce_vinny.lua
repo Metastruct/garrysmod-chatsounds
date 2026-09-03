@@ -47,6 +47,7 @@ L["can we talk dirty now"]={{path="chatsounds/autoadd/vinesauce_vinny/can we tal
 L["can you guys can you pry her off me please"]={{path="chatsounds/autoadd/vinesauce_vinny/can you guys can you pry her off me please.ogg",length=2.837}}
 L["can you guys let me in"]={{path="chatsounds/autoadd/vinesauce_vinny/can you guys let me in.ogg",length=1.827}}
 L["can you show me to them please thank you"]={{path="chatsounds/autoadd/vinesauce_vinny/can you show me to them please thank you.ogg",length=2.014}}
+L["capussi ple"]={{path="chatsounds/autoadd/vinesauce_vinny/capussi ple.ogg",length=4.466}}
 L["close the door behind you"]={{path="chatsounds/autoadd/vinesauce_vinny/close the door behind you.ogg",length=1.619}}
 L["come follow me if you want the rp"]={{path="chatsounds/autoadd/vinesauce_vinny/come follow me if you want the rp.ogg",length=1.965}}
 L["come inside to mehrio park"]={{path="chatsounds/autoadd/vinesauce_vinny/come inside to mehrio park.ogg",length=3.551}}

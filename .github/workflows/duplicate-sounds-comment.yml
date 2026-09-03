@@ -1,0 +1,205 @@
+name: Duplicate Sounds Comment
+
+# Companion to duplicate-sounds.yml. That workflow runs on `pull_request`, so
+# for PRs opened from a fork it gets a read-only GITHUB_TOKEN and cannot post a
+# comment (HTTP 403). This one is triggered by `workflow_run`, which always runs
+# in the context of the base repo's default branch and therefore holds a write
+# token, even when the PR that produced the report came from a fork.
+#
+# Nothing from the PR is checked out or executed here. The artifact is treated
+# as untrusted data: the PR number is scrubbed to digits, every flagged path is
+# intersected with the PR's real file list from the API before it reaches a
+# review, and report bodies are passed to the API as files so they never hit
+# the shell.
+
+on:
+  workflow_run:
+    workflows: ['Duplicate Sounds']
+    types: [completed]
+
+permissions:
+  actions: read          # download the artifact from the triggering run
+  pull-requests: write   # post the comment, request changes, dismiss
+
+concurrency:
+  group: dupes-comment-${{ github.event.workflow_run.head_repository.full_name }}-${{ github.event.workflow_run.head_branch }}
+  cancel-in-progress: true
+
+env:
+  MARKER: '<!-- chatsounds-dupe-check -->'
+  # Categories that block the PR. CAREFUL-numbered-alternates is deliberately
+  # absent: numbered variants ("laugh1.ogg", "laugh2.ogg") are usually
+  # intentional variety, so they get reported in the comment but don't hold up
+  # a merge.
+  BLOCKING: 'SAFE-identical-audio,REVIEW-cross-folder,REVIEW-same-folder'
+
+jobs:
+  comment:
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      # The artifact only exists when the scan produced a report, so a miss is
+      # the normal "nothing to say" path, not a failure.
+      - name: Download report
+        id: dl
+        continue-on-error: true
+        uses: actions/download-artifact@v8
+        with:
+          name: dupe-comment
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+          path: payload
+
+      - name: Resolve PR
+        id: pr
+        if: steps.dl.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          PR=$(tr -cd '0-9' < payload/pr-number.txt)
+          if [ -z "$PR" ]; then
+            echo "::error::no PR number in artifact"; exit 1
+          fi
+          STATE=$(gh api "repos/$REPO/pulls/$PR" --jq .state)
+          echo "number=$PR"  >> "$GITHUB_OUTPUT"
+          echo "state=$STATE" >> "$GITHUB_OUTPUT"
+          echo "PR #$PR is $STATE"
+
+      # Paths come from the untrusted artifact, so keep only the ones that are
+      # genuinely part of this PR according to the API.
+      - name: Validate flagged files
+        id: flagged
+        if: steps.pr.outputs.state == 'open'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+        run: |
+          set -euo pipefail
+          : > found.tsv      # everything the scan flagged, any category
+          : > flagged.tsv    # the subset that blocks the PR
+          if [ -s payload/flagged.tsv ]; then
+            gh api "repos/$REPO/pulls/$PR/files" --paginate --jq '.[].filename' > pr-files.txt
+            awk -F'\t' '
+              NR == FNR { inpr[$0] = 1; next }
+              ($1 in inpr)
+            ' pr-files.txt payload/flagged.tsv | head -30 > found.tsv
+            awk -F'\t' -v cats="$BLOCKING" '
+              BEGIN { n = split(cats, a, ","); for (i = 1; i <= n; i++) blocking[a[i]] = 1 }
+              ($2 in blocking)
+            ' found.tsv > flagged.tsv
+          fi
+          COUNT=$(wc -l < flagged.tsv)
+          FOUND=$(wc -l < found.tsv)
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "found=$FOUND" >> "$GITHUB_OUTPUT"
+          echo "$FOUND flagged file(s), $COUNT of them blocking"
+
+      # Blocking case: the report IS the review body, so the PR gets one comment
+      # instead of a standalone report plus a near-identical review note.
+      - name: Request changes
+        if: steps.flagged.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+          COUNT: ${{ steps.flagged.outputs.count }}
+        run: |
+          set -euo pipefail
+          {
+            echo "$MARKER"
+            cat payload/report.md
+            echo
+            echo "**$COUNT file(s) blocked.** Remove the duplicate(s), or reply"
+            echo "explaining why the near-identical copy is wanted so a maintainer"
+            echo "can dismiss this review."
+          } > body.md
+
+          # Reuse the open review if there is one: editing its body keeps the
+          # thread single instead of stacking a new review on every push.
+          gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
+            --jq ".[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\"))) | .id" > open.txt
+          ID=$(head -1 open.txt)
+
+          if [ -n "$ID" ]; then
+            gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$ID" -F body=@body.md >/dev/null
+            echo "refreshed review $ID on #$PR"
+          else
+            jq -Rn --rawfile body body.md '
+              { event: "REQUEST_CHANGES", body: $body,
+                comments: [ inputs | split("\t") |
+                  { path: .[0], subject_type: "file",
+                    body: ("⚠️ **Possible duplicate** (`" + .[1] + "`, match: `" + .[2] + "`)\n\nSame audio as `" + .[3] + "`.") } ] }
+            ' flagged.tsv > review.json
+
+            # File-level review comments (subject_type: file) are the only kind
+            # that work on binary blobs, since there are no diff line positions
+            # to anchor to. If the API won't take them, still block the PR.
+            if ! gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review.json >/dev/null 2>err.txt; then
+              echo "::warning::inline review comments rejected, falling back to a plain review"
+              cat err.txt
+              jq 'del(.comments)' review.json > review-plain.json
+              gh api -X POST "repos/$REPO/pulls/$PR/reviews" --input review-plain.json >/dev/null
+            fi
+            echo "requested changes on #$PR"
+          fi
+
+          # A previous clean run may have left a standalone report behind.
+          gh api "repos/$REPO/issues/$PR/comments" --paginate \
+            --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" > stale.txt
+          while read -r CID; do
+            [ -n "$CID" ] || continue
+            gh api -X DELETE "repos/$REPO/issues/comments/$CID" >/dev/null
+            echo "removed superseded comment $CID"
+          done < stale.txt
+
+      # Nothing blocking. Non-blocking matches (numbered alternates) still get a
+      # sticky comment; a clean PR gets silence, not a "no duplicates" notice.
+      # Either way, clear a review left over from an earlier push, since
+      # changes-requested blocks the merge.
+      - name: Report or clean up
+        if: steps.pr.outputs.state == 'open' && steps.flagged.outputs.count == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ steps.pr.outputs.number }}
+          FOUND: ${{ steps.flagged.outputs.found }}
+        run: |
+          set -euo pipefail
+          gh api "repos/$REPO/issues/$PR/comments" --paginate \
+            --jq ".[] | select(.body | startswith(\"$MARKER\")) | .id" > mine.txt
+          ID=$(head -1 mine.txt)
+
+          if [ "$FOUND" != "0" ]; then
+            { echo "$MARKER"; cat payload/report.md; } > comment.md
+            if [ -n "$ID" ]; then
+              gh api -X PATCH "repos/$REPO/issues/comments/$ID" -F body=@comment.md >/dev/null
+              echo "updated comment $ID on #$PR"
+            else
+              gh api -X POST "repos/$REPO/issues/$PR/comments" -F body=@comment.md >/dev/null
+              echo "posted comment on #$PR"
+            fi
+          else
+            # Clean PR: say nothing, and retract anything an earlier run said.
+            while read -r CID; do
+              [ -n "$CID" ] || continue
+              gh api -X DELETE "repos/$REPO/issues/comments/$CID" >/dev/null
+              echo "removed obsolete comment $CID"
+            done < mine.txt
+            echo "nothing flagged on #$PR, staying quiet"
+          fi
+
+          gh api "repos/$REPO/pulls/$PR/reviews" --paginate \
+            --jq ".[] | select(.state == \"CHANGES_REQUESTED\" and (.body | startswith(\"$MARKER\"))) | .id" > open.txt
+          while read -r RID; do
+            [ -n "$RID" ] || continue
+            # Blank the stale report out of the dismissed review so the timeline
+            # doesn't keep showing duplicates that are no longer there.
+            printf '%s\nResolved: nothing blocking remains in this PR.\n' "$MARKER" > resolved.md
+            gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$RID" -F body=@resolved.md >/dev/null
+            gh api -X PUT "repos/$REPO/pulls/$PR/reviews/$RID/dismissals" \
+              -f message='Nothing blocking remains in this PR.' -f event=DISMISS >/dev/null
+            echo "dismissed review $RID"
+          done < open.txt
