@@ -85,6 +85,7 @@ L["et wird suppe jegessen"]={{path="chatsounds/autoadd/memes/et wird suppe jeges
 L["eugh distorted"]={{path="chatsounds/autoadd/memes/eugh distorted.ogg",length=1.051}}
 L["everyone has uno dipshit it came free with your fckin xbox"]={{path="chatsounds/autoadd/memes/everyone has uno dipshit it came free with your fckin xbox.ogg",length=4.718}}
 L["face off"]={{path="chatsounds/autoadd/memes/face off.ogg",length=5.276}}
+L["fah"]={{path="chatsounds/autoadd/memes/fah.ogg",length=1.559}}
 L["fanter"]={{path="chatsounds/autoadd/memes/fanter.ogg",length=1.238}}
 L["farded and had an accident in my pants"]={{path="chatsounds/autoadd/memes/farded and had an accident in my pants.ogg",length=2.977}}
 L["feesh"]={{path="chatsounds/autoadd/memes/feesh.ogg",length=0.620}}

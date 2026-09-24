@@ -96,6 +96,9 @@ L["oh no forgot"]={{path="chatsounds/autoadd/dr_phil/oh no forgot.ogg",length=1.
 L["okay"]={{path="chatsounds/autoadd/dr_phil/okay.ogg",length=0.498}}
 L["okay here we go again"]={{path="chatsounds/autoadd/dr_phil/okay here we go again.ogg",length=1.603}}
 L["one bald guy to another"]={{path="chatsounds/autoadd/dr_phil/one bald guy to another.ogg",length=1.548}}
+L["open the door"]={{path="chatsounds/autoadd/dr_phil/open the door.ogg",length=1.300}}
+L["open the door or i am gonna throw rocks"]={{path="chatsounds/autoadd/dr_phil/open the door or i am gonna throw rocks.ogg",length=6.898}}
+L["or i am gonna throw rocks"]={{path="chatsounds/autoadd/dr_phil/or i am gonna throw rocks.ogg",length=5.098}}
 L["please"]={{path="chatsounds/autoadd/dr_phil/please.ogg",length=0.666}}
 L["right"]={{path="chatsounds/autoadd/dr_phil/right.ogg",length=0.385}}
 L["s i m p"]={{path="chatsounds/autoadd/dr_phil/s i m p.ogg",length=1.062}}
