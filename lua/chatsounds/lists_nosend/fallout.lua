@@ -13,6 +13,7 @@ L["and ill tell you something else"]={{path="chatsounds/autoadd/fallout/and ill 
 L["and im sure you have a lot to tell"]={{path="chatsounds/autoadd/fallout/and im sure you have a lot to tell.ogg",length=2.311}}
 L["and protection"]={{path="chatsounds/autoadd/fallout/and protection.ogg",length=1.665}}
 L["and what is that"]={{path="chatsounds/autoadd/fallout/and what is that.ogg",length=1.255}}
+L["and you will remain in this mans army until you are five hundred and ten years old"]={{path="chatsounds/autoadd/fallout/and you will remain in this mans army until you are five hundred and ten years old.ogg",length=5.248}}
 L["are you sure"]={{path="chatsounds/autoadd/fallout/are you sure.ogg",length=0.974}}
 L["as long as there are differences"]={{path="chatsounds/autoadd/fallout/as long as there are differences.ogg",length=1.884}}
 L["at least from what i hear"]={{path="chatsounds/autoadd/fallout/at least from what i hear.ogg",length=1.421}}
@@ -37,16 +38,20 @@ L["destiny"]={{path="chatsounds/autoadd/fallout/destiny.ogg",length=0.858}}
 L["destroy me"]={{path="chatsounds/autoadd/fallout/destroy me.ogg",length=1.921}}
 L["dickhead"]={{path="chatsounds/autoadd/fallout/dickhead.ogg",length=0.990}}
 L["die"]={{path="chatsounds/autoadd/fallout/die.ogg",length=0.829}}
+L["dismissed"]={{path="chatsounds/autoadd/fallout/dismissed.ogg",length=1.245}}
 L["do you accept my offer or not"]={{path="chatsounds/autoadd/fallout/do you accept my offer or not.ogg",length=2.029}}
 L["do you have"]={{path="chatsounds/autoadd/fallout/do you have.ogg",length=1.069}}
 L["do you join the unity"]={{path="chatsounds/autoadd/fallout/do you join the unity.ogg",length=1.810}}
+L["dont have any"]={{path="chatsounds/autoadd/fallout/dont have any.ogg",length=1.895}}
 L["dont move"]={{path="chatsounds/autoadd/fallout/dont move.ogg",length=1.304}}
 L["dont you"]={{path="chatsounds/autoadd/fallout/dont you.ogg",length=0.562}}
+L["double time it over to the armory and get your issue then report back to me dismissed"]={{path="chatsounds/autoadd/fallout/double time it over to the armory and get your issue then report back to me dismissed.ogg",length=5.164}}
 L["dumping the fev toxin into our air doesnt make you a hero"]={{path="chatsounds/autoadd/fallout/dumping the fev toxin into our air doesnt make you a hero.ogg",length=3.713}}
 L["duty"]={{path="chatsounds/autoadd/fallout/duty.ogg",length=2.289}}
 L["enclave here"]={{path="chatsounds/autoadd/fallout/enclave here.ogg",length=1.228}}
 L["everything that ive tried to"]={{path="chatsounds/autoadd/fallout/everything that ive tried to.ogg",length=1.651}}
 L["excellent"]={{path="chatsounds/autoadd/fallout/excellent.ogg",length=0.906}}
+L["excellent youre in uniform now so im going to give you a rare opportunity we are going to start over as if i never met your sorry ass would you like that soldier"]={{path="chatsounds/autoadd/fallout/excellent youre in uniform now so im going to give you a rare opportunity we are going to start over as if i never met your sorry ass would you like that soldier.ogg",length=11.966}}
 L["executed"]={{path="chatsounds/autoadd/fallout/executed.ogg",length=1.378}}
 L["females"]={{path="chatsounds/autoadd/fallout/females.ogg",length=1.102}}
 L["fighting each other"]={{path="chatsounds/autoadd/fallout/fighting each other.ogg",length=1.430}}
@@ -68,6 +73,7 @@ L["how would you like to play dodge the plasma with the assault squad"]={{path="
 L["huh"]={{path="chatsounds/autoadd/fallout/huh.ogg",length=0.449}}
 L["huh aint it the truth"]={{path="chatsounds/autoadd/fallout/huh aint it the truth.ogg",length=1.673}}
 L["i am no villain"]={{path="chatsounds/autoadd/fallout/i am no villain.ogg",length=1.451}}
+L["i am not a sir i work for a living you moron you will call me sergeant or sergeant dornan do you understand me"]={{path="chatsounds/autoadd/fallout/i am not a sir i work for a living you moron you will call me sergeant or sergeant dornan do you understand me.ogg",length=7.940}}
 L["i am not a villain"]={{path="chatsounds/autoadd/fallout/i am not a villain.ogg",length=1.201}}
 L["i am the master"]={{path="chatsounds/autoadd/fallout/i am the master.ogg",length=1.594}}
 L["i believe i shall"]={{path="chatsounds/autoadd/fallout/i believe i shall.ogg",length=2.101}}
@@ -85,6 +91,7 @@ L["i think i know who the liar is"]={{path="chatsounds/autoadd/fallout/i think i
 L["i thought you were still at navarro base"]={{path="chatsounds/autoadd/fallout/i thought you were still at navarro base.ogg",length=1.981}}
 L["i understand now"]={{path="chatsounds/autoadd/fallout/i understand now.ogg",length=1.558}}
 L["i want"]={{path="chatsounds/autoadd/fallout/i want.ogg",length=0.933}}
+L["if i like you you can call me sarge but guess what i dont like you do you understand"]={{path="chatsounds/autoadd/fallout/if i like you you can call me sarge but guess what i dont like you do you understand.ogg",length=5.890}}
 L["im not here to answer your questions"]={{path="chatsounds/autoadd/fallout/im not here to answer your questions.ogg",length=3.549}}
 L["in the name of progress and healing"]={{path="chatsounds/autoadd/fallout/in the name of progress and healing.ogg",length=5.303}}
 L["in the wasteland"]={{path="chatsounds/autoadd/fallout/in the wasteland.ogg",length=1.291}}
@@ -114,6 +121,7 @@ L["making our reactor melt down means that things are going to be pretty hot in 
 L["master"]={{path="chatsounds/autoadd/fallout/master/1.ogg",length=0.802},{path="chatsounds/autoadd/fallout/master/2.ogg",length=0.711}}
 L["maybe that just goes with being the president of the united states"]={{path="chatsounds/autoadd/fallout/maybe that just goes with being the president of the united states.ogg",length=3.496}}
 L["me"]={{path="chatsounds/autoadd/fallout/me/1.ogg",length=0.750},{path="chatsounds/autoadd/fallout/me/2.ogg",length=0.820}}
+L["moron if i see you away from your post again it will be the sorriest day of your short life"]={{path="chatsounds/autoadd/fallout/moron if i see you away from your post again it will be the sorriest day of your short life.ogg",length=5.657}}
 L["most will be offered a chance to become a mutant"]={{path="chatsounds/autoadd/fallout/most will be offered a chance to become a mutant.ogg",length=2.612}}
 L["mutants"]={{path="chatsounds/autoadd/fallout/mutants.ogg",length=0.983}}
 L["mutants are best equipped to deal with the world today"]={{path="chatsounds/autoadd/fallout/mutants are best equipped to deal with the world today.ogg",length=3.275}}
@@ -133,6 +141,7 @@ L["now will you work for the"]={{path="chatsounds/autoadd/fallout/now will you w
 L["of course"]={{path="chatsounds/autoadd/fallout/of course/1.ogg",length=1.070},{path="chatsounds/autoadd/fallout/of course/2.ogg",length=0.943}}
 L["of course not"]={{path="chatsounds/autoadd/fallout/of course not.ogg",length=1.551}}
 L["oh"]={{path="chatsounds/autoadd/fallout/oh.ogg",length=0.754}}
+L["oh lovely theyve sent me a moron listen closely you will stand guard at the hangar this is your duty post you will go there now and stay on guard until told otherwise now move it soldier"]={{path="chatsounds/autoadd/fallout/oh lovely theyve sent me a moron listen closely you will stand guard at the hangar this is your duty post you will go there now and stay on guard until told otherwise now move it soldier.ogg",length=13.885}}
 L["oh thats great"]={{path="chatsounds/autoadd/fallout/oh thats great.ogg",length=1.136}}
 L["oh very funny"]={{path="chatsounds/autoadd/fallout/oh very funny.ogg",length=1.582}}
 L["oh yes you did good"]={{path="chatsounds/autoadd/fallout/oh yes you did good.ogg",length=2.260}}
@@ -146,6 +155,7 @@ L["or do you die here"]={{path="chatsounds/autoadd/fallout/or do you die here.og
 L["or even thrive"]={{path="chatsounds/autoadd/fallout/or even thrive.ogg",length=1.465}}
 L["or not"]={{path="chatsounds/autoadd/fallout/or not.ogg",length=0.986}}
 L["or whats left of em"]={{path="chatsounds/autoadd/fallout/or whats left of em.ogg",length=1.052}}
+L["outstanding proceed on the double to the hangar where you will stand guard duty you will do a fine job do you understand"]={{path="chatsounds/autoadd/fallout/outstanding proceed on the double to the hangar where you will stand guard duty you will do a fine job do you understand.ogg",length=7.892}}
 L["pay"]={{path="chatsounds/autoadd/fallout/pay.ogg",length=0.806}}
 L["pity you wont live long enough to see it"]={{path="chatsounds/autoadd/fallout/pity you wont live long enough to see it.ogg",length=3.159}}
 L["please"]={{path="chatsounds/autoadd/fallout/please/1.ogg",length=0.872},{path="chatsounds/autoadd/fallout/please/2.ogg",length=0.980}}
@@ -155,11 +165,13 @@ L["prove"]={{path="chatsounds/autoadd/fallout/prove.ogg",length=1.066}}
 L["pu"]={{path="chatsounds/autoadd/fallout/pu.ogg",length=0.484}}
 L["race race"]={{path="chatsounds/autoadd/fallout/race race.ogg",length=1.097}}
 L["reasonable"]={{path="chatsounds/autoadd/fallout/reasonable.ogg",length=0.894}}
+L["report to the armory and have a new suit issued to you then report back to me private"]={{path="chatsounds/autoadd/fallout/report to the armory and have a new suit issued to you then report back to me private.ogg",length=4.253}}
 L["secret service"]={{path="chatsounds/autoadd/fallout/secret service.ogg",length=1.393}}
 L["semper fii"]={{path="chatsounds/autoadd/fallout/semper fii.ogg",length=2.827}}
 L["since my videos working you can see im rolling on the floor here"]={{path="chatsounds/autoadd/fallout/since my videos working you can see im rolling on the floor here.ogg",length=3.868}}
 L["so be it"]={{path="chatsounds/autoadd/fallout/so be it.ogg",length=0.982}}
 L["so what shall it be"]={{path="chatsounds/autoadd/fallout/so what shall it be.ogg",length=1.874}}
+L["soldier you are still out of uniform i gave you a direct order to report to supplies and get your issue now get out of my face and dont come back until you look like a soldier"]={{path="chatsounds/autoadd/fallout/soldier you are still out of uniform i gave you a direct order to report to supplies and get your issue now get out of my face and dont come back until you look like a soldier.ogg",length=9.983}}
 L["tear ourselves apart"]={{path="chatsounds/autoadd/fallout/tear ourselves apart.ogg",length=1.022}}
 L["ter"]={{path="chatsounds/autoadd/fallout/ter.ogg",length=0.399}}
 L["thank you"]={{path="chatsounds/autoadd/fallout/thank you.ogg",length=1.527}}
@@ -173,6 +185,7 @@ L["the ghouls"]={{path="chatsounds/autoadd/fallout/the ghouls.ogg",length=1.266}
 L["the president"]={{path="chatsounds/autoadd/fallout/the president.ogg",length=1.124}}
 L["the president of the united fucking states of america"]={{path="chatsounds/autoadd/fallout/the president of the united fucking states of america.ogg",length=2.866}}
 L["the remainder will be allowed to live out their days"]={{path="chatsounds/autoadd/fallout/the remainder will be allowed to live out their days.ogg",length=3.100}}
+L["the truth is you lost an expensive piece of army issue equipment that suit is going to come out of your pay"]={{path="chatsounds/autoadd/fallout/the truth is you lost an expensive piece of army issue equipment that suit is going to come out of your pay.ogg",length=7.985}}
 L["the unity will allow us to move beyond these petty concerns"]={{path="chatsounds/autoadd/fallout/the unity will allow us to move beyond these petty concerns.ogg",length=4.214}}
 L["the unity will bring about the master race"]={{path="chatsounds/autoadd/fallout/the unity will bring about the master race.ogg",length=3.394}}
 L["the work will go on"]={{path="chatsounds/autoadd/fallout/the work will go on.ogg",length=1.554}}
@@ -180,10 +193,13 @@ L["there is no hope"]={{path="chatsounds/autoadd/fallout/there is no hope.ogg",l
 L["they brought nuclear death to us all"]={{path="chatsounds/autoadd/fallout/they brought nuclear death to us all.ogg",length=2.755}}
 L["they let someone else sift through the ashes to figure out what was going on"]={{path="chatsounds/autoadd/fallout/they let someone else sift through the ashes to figure out what was going on.ogg",length=3.392}}
 L["they will be punished for their insolence"]={{path="chatsounds/autoadd/fallout/they will be punished for their insolence.ogg",length=2.957}}
+L["this base is on alert and i dont recognize you show me your papers soldier"]={{path="chatsounds/autoadd/fallout/this base is on alert and i dont recognize you show me your papers soldier.ogg",length=3.710}}
 L["this is enclave main comm"]={{path="chatsounds/autoadd/fallout/this is enclave main comm.ogg",length=2.042}}
+L["this is the second time you have come to me out of uniform soldier there will not be a third"]={{path="chatsounds/autoadd/fallout/this is the second time you have come to me out of uniform soldier there will not be a third.ogg",length=4.407}}
 L["this proves nothing"]={{path="chatsounds/autoadd/fallout/this proves nothing.ogg",length=1.996}}
 L["this will be the age of mutants"]={{path="chatsounds/autoadd/fallout/this will be the age of mutants.ogg",length=2.934}}
 L["this would mean that all my work has been for nothing"]={{path="chatsounds/autoadd/fallout/this would mean that all my work has been for nothing.ogg",length=5.336}}
+L["those paper shuffling jackasses how the hell do they expect me to run this unit if they keep shortchanging me on supplies"]={{path="chatsounds/autoadd/fallout/those paper shuffling jackasses how the hell do they expect me to run this unit if they keep shortchanging me on supplies.ogg",length=7.521}}
 L["those that resist will be executed"]={{path="chatsounds/autoadd/fallout/those that resist will be executed.ogg",length=3.297}}
 L["those who deny this opportunity will be sterilized and let go"]={{path="chatsounds/autoadd/fallout/those who deny this opportunity will be sterilized and let go.ogg",length=6.157}}
 L["time for talkings over"]={{path="chatsounds/autoadd/fallout/time for talkings over.ogg",length=2.009}}
@@ -192,6 +208,7 @@ L["to explain it to you"]={{path="chatsounds/autoadd/fallout/to explain it to yo
 L["to have done the things i have done"]={{path="chatsounds/autoadd/fallout/to have done the things i have done.ogg",length=2.875}}
 L["to move forward"]={{path="chatsounds/autoadd/fallout/to move forward.ogg",length=1.345}}
 L["to our destiny"]={{path="chatsounds/autoadd/fallout/to our destiny.ogg",length=1.383}}
+L["trooper what are you doing here get back to your guard post"]={{path="chatsounds/autoadd/fallout/trooper what are you doing here get back to your guard post.ogg",length=3.902}}
 L["try the gain"]={{path="chatsounds/autoadd/fallout/try the gain.ogg",length=1.370}}
 L["unit three"]={{path="chatsounds/autoadd/fallout/unit three.ogg",length=1.225}}
 L["united states"]={{path="chatsounds/autoadd/fallout/united states.ogg",length=1.072}}
@@ -205,6 +222,10 @@ L["we just did"]={{path="chatsounds/autoadd/fallout/we just did.ogg",length=1.20
 L["we need one race"]={{path="chatsounds/autoadd/fallout/we need one race.ogg",length=1.447}}
 L["we will"]={{path="chatsounds/autoadd/fallout/we will.ogg",length=0.910}}
 L["we wont change"]={{path="chatsounds/autoadd/fallout/we wont change.ogg",length=1.397}}
+L["welcome to camp navarro civilians how the hell did civilians get on this base ill have someones ass for dinner get these civilians off government property"]={{path="chatsounds/autoadd/fallout/welcome to camp navarro civilians how the hell did civilians get on this base ill have someones ass for dinner get these civilians off government property.ogg",length=9.410}}
+L["welcome to camp navarro so youre the new replacement you are out of uniform soldier where is your power armor"]={{path="chatsounds/autoadd/fallout/welcome to camp navarro so youre the new replacement you are out of uniform soldier where is your power armor.ogg",length=7.332}}
+L["welcome to camp navarro so youre the replacement whats your name private"]={{path="chatsounds/autoadd/fallout/welcome to camp navarro so youre the replacement whats your name private.ogg",length=5.150}}
+L["well ill be damned i had you escorted off this base and here you are again i dont think youre a civilian after all more than likely youre a spy sound the alarm and execute this maggot"]={{path="chatsounds/autoadd/fallout/well ill be damned i had you escorted off this base and here you are again i dont think youre a civilian after all more than likely youre a spy sound the alarm and execute this maggot.ogg",length=10.840}}
 L["well see how smart you feel with internal security all over your fricking ass"]={{path="chatsounds/autoadd/fallout/well see how smart you feel with internal security all over your fricking ass.ogg",length=4.130}}
 L["well uh pardon me for not blowing sunshine up your ass"]={{path="chatsounds/autoadd/fallout/well uh pardon me for not blowing sunshine up your ass.ogg",length=3.301}}
 L["well your unit still doesnt appear to be operational pal"]={{path="chatsounds/autoadd/fallout/well your unit still doesnt appear to be operational pal.ogg",length=3.303}}
@@ -212,6 +233,8 @@ L["wha"]={{path="chatsounds/autoadd/fallout/wha.ogg",length=0.368}}
 L["what about the other"]={{path="chatsounds/autoadd/fallout/what about the other.ogg",length=0.999}}
 L["what are you talking abo"]={{path="chatsounds/autoadd/fallout/what are you talking abo.ogg",length=1.727}}
 L["what do you say to that"]={{path="chatsounds/autoadd/fallout/what do you say to that.ogg",length=1.345}}
+L["what was that did you forget something maggot"]={{path="chatsounds/autoadd/fallout/what was that did you forget something maggot.ogg",length=2.932}}
+L["which is the number of years it will take for you to pay for a mark 2 powered combat armor you have lost"]={{path="chatsounds/autoadd/fallout/which is the number of years it will take for you to pay for a mark 2 powered combat armor you have lost.ogg",length=8.153}}
 L["while you still have hope"]={{path="chatsounds/autoadd/fallout/while you still have hope.ogg",length=2.939}}
 L["who are you"]={{path="chatsounds/autoadd/fallout/who are you/1.ogg",length=1.151},{path="chatsounds/autoadd/fallout/who are you/2.ogg",length=0.904}}
 L["who do you think i was talking about"]={{path="chatsounds/autoadd/fallout/who do you think i was talking about.ogg",length=1.549}}
@@ -223,6 +246,7 @@ L["who the hell is this"]={{path="chatsounds/autoadd/fallout/who the hell is thi
 L["who who is this"]={{path="chatsounds/autoadd/fallout/who who is this.ogg",length=1.566}}
 L["why"]={{path="chatsounds/autoadd/fallout/why.ogg",length=0.514}}
 L["why isnt your video feed working"]={{path="chatsounds/autoadd/fallout/why isnt your video feed working.ogg",length=1.827}}
+L["wrong answer maggot you are to carry your papers with you at all times and you should know that"]={{path="chatsounds/autoadd/fallout/wrong answer maggot you are to carry your papers with you at all times and you should know that.ogg",length=5.900}}
 L["yeah"]={{path="chatsounds/autoadd/fallout/yeah.ogg",length=0.607}}
 L["yeah thats a new one"]={{path="chatsounds/autoadd/fallout/yeah thats a new one.ogg",length=2.033}}
 L["yeah well whoever you are i just dispatched a verti assault team to your location"]={{path="chatsounds/autoadd/fallout/yeah well whoever you are i just dispatched a verti assault team to your location.ogg",length=4.284}}
@@ -230,6 +254,7 @@ L["yeah you can say that again"]={{path="chatsounds/autoadd/fallout/yeah you can
 L["yeah you know how unhappy he gets when people complain"]={{path="chatsounds/autoadd/fallout/yeah you know how unhappy he gets when people complain.ogg",length=2.923}}
 L["yes"]={{path="chatsounds/autoadd/fallout/yes.ogg",length=0.801}}
 L["you and your mutie bastard friends are gonna join me in a big ol mushroom cloud send off"]={{path="chatsounds/autoadd/fallout/you and your mutie bastard friends are gonna join me in a big ol mushroom cloud send off.ogg",length=6.264}}
+L["you are a danger to us all that will end now"]={{path="chatsounds/autoadd/fallout/you are a danger to us all that will end now.ogg",length=3.524}}
 L["you are here to answer mine"]={{path="chatsounds/autoadd/fallout/you are here to answer mine.ogg",length=3.367}}
 L["you are lying"]={{path="chatsounds/autoadd/fallout/you are lying.ogg",length=1.704}}
 L["you arent going anywhere from here"]={{path="chatsounds/autoadd/fallout/you arent going anywhere from here.ogg",length=2.491}}
@@ -237,11 +262,13 @@ L["you can destroy"]={{path="chatsounds/autoadd/fallout/you can destroy.ogg",len
 L["you cough you havent won here"]={{path="chatsounds/autoadd/fallout/you cough you havent won here.ogg",length=3.980}}
 L["you didnt do nothing here cept seal your own death warrants"]={{path="chatsounds/autoadd/fallout/you didnt do nothing here cept seal your own death warrants.ogg",length=4.672}}
 L["you do want to be a part of that"]={{path="chatsounds/autoadd/fallout/you do want to be a part of that.ogg",length=2.163}}
+L["you expect me to believe that maggot"]={{path="chatsounds/autoadd/fallout/you expect me to believe that maggot.ogg",length=1.662}}
 L["you got great defenses"]={{path="chatsounds/autoadd/fallout/you got great defenses.ogg",length=1.244}}
 L["you had to get out"]={{path="chatsounds/autoadd/fallout/you had to get out.ogg",length=0.779}}
 L["you made a clever forgery"]={{path="chatsounds/autoadd/fallout/you made a clever forgery.ogg",length=3.080}}
 L["you made this up to fool me"]={{path="chatsounds/autoadd/fallout/you made this up to fool me.ogg",length=2.328}}
 L["you might be telling the truth"]={{path="chatsounds/autoadd/fallout/you might be telling the truth.ogg",length=2.434}}
+L["you moron you are not to question my orders when i say jump you jump when i say fight you fight when i tell you to die for your country then you will certainly die have i made myself clear"]={{path="chatsounds/autoadd/fallout/you moron you are not to question my orders when i say jump you jump when i say fight you fight when i tell you to die for your country then you will certainly die have i made myself clear.ogg",length=11.675}}
 L["you must be joking"]={{path="chatsounds/autoadd/fallout/you must be joking.ogg",length=1.268}}
 L["you mutant scum"]={{path="chatsounds/autoadd/fallout/you mutant scum.ogg",length=1.900}}
 L["you think"]={{path="chatsounds/autoadd/fallout/you think.ogg",length=1.217}}
