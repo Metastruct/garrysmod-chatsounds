@@ -32,7 +32,7 @@ L["the part where he kills you"]={{path="chatsounds/autoadd/kaosheaven/the part 
 L["this calls for more wolfjob"]={{path="chatsounds/autoadd/kaosheaven/this calls for more wolfjob.ogg",length=4.700}}
 L["tom delaways used to be a chef on tv"]={{path="chatsounds/autoadd/kaosheaven/tom delaways used to be a chef on tv.ogg",length=8.401}}
 L["totally dude"]={{path="chatsounds/autoadd/kaosheaven/totally dude.ogg",length=1.400}}
-L["trials"]={{path="chatsounds/autoadd/kaosheaven/trials.ogg",length=79.226}}
+L["trials theme"]={{path="chatsounds/autoadd/kaosheaven/trials theme.ogg",length=79.226}}
 L["you must wear condom when browsing internet"]={{path="chatsounds/autoadd/kaosheaven/you must wear condom when browsing internet.ogg",length=4.760}}
 L["your insane im an insane genius"]={{path="chatsounds/autoadd/kaosheaven/your insane im an insane genius.ogg",length=2.600}}
 c.EndList()
