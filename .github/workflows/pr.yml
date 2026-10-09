@@ -15,3 +15,35 @@ jobs:
 
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
+
+  # Overlong names pass CI but break `git checkout` on the deploy target with
+  # "Filename too long". Only files this PR adds or renames are checked, so
+  # long names already on master don't block unrelated PRs.
+  filename-length:
+    runs-on: ubuntu-latest
+    env:
+      MAX_NAME: 143   # bytes, not characters
+    steps:
+      - name: Check filename length 📏
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          set -euo pipefail
+          gh api "repos/$REPO/pulls/$PR/files" --paginate \
+            --jq '.[] | select(.status == "added" or .status == "renamed" or .status == "copied") | .filename' \
+            > files.txt
+          LC_ALL=C awk -v max="$MAX_NAME" '
+            {
+              name = $0; sub(/.*\//, "", name)
+              if (length(name) > max) {
+                printf "::error file=%s::File name is %d bytes (max %d). Shorten it and put the full phrase in the folder'"'"'s map.txt.\n", $0, length(name), max
+                bad++
+              }
+            }
+            END {
+              if (bad) { printf "%d file(s) with names that are too long\n", bad; exit 1 }
+              printf "checked %d file(s), all names fit\n", NR
+            }
+          ' files.txt
