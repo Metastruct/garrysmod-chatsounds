@@ -53,6 +53,7 @@ L["invisible song"]={{path="chatsounds/autoadd/music/invisible song/1.ogg",lengt
 L["its a celebration"]={{path="chatsounds/autoadd/music/its a celebration.ogg",length=2.175}}
 L["jungle wet dreams tomato"]={{path="chatsounds/autoadd/music/jungle where dreams are made of.ogg",length=3.104}}
 L["jungle where dreams are made of"]={{path="chatsounds/autoadd/music/jungle where dreams are made of.ogg",length=3.104}}
+L["lesbiens and gay song"]={{path="chatsounds/autoadd/music/lesbiens and gay song.ogg",length=25.980}}
 L["let the bodies hit the floor"]={{path="chatsounds/autoadd/music/let the bodies hit the floor.ogg",length=1.837}}
 L["lone digger loop"]={{path="chatsounds/autoadd/music/lone digger loop.ogg",length=46.452}}
 L["lord macintosh plus"]={{path="chatsounds/autoadd/music/lord macintosh plus/1.ogg",length=64.838},{path="chatsounds/autoadd/music/lord macintosh plus/2.ogg",length=60.148},{path="chatsounds/autoadd/music/lord macintosh plus/3.ogg",length=60.604},{path="chatsounds/autoadd/music/lord macintosh plus/4.ogg",length=60.669},{path="chatsounds/autoadd/music/lord macintosh plus/5.ogg",length=77.832}}

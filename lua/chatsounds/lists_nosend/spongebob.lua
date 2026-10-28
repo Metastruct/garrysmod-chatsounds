@@ -148,6 +148,7 @@ L["the hooks"]={{path="chatsounds/autoadd/spongebob/the hooks.ogg",length=0.911}
 L["the hooks the hooks"]={{path="chatsounds/autoadd/spongebob/the hooks the hooks.ogg",length=1.832}}
 L["the inner machinations of my mind are an enigma"]={{path="chatsounds/autoadd/spongebob/the inner machinations of my mind are an enigma.ogg",length=4.288}}
 L["there i am gary there i am"]={{path="chatsounds/autoadd/spongebob/there i am gary there i am.ogg",length=1.512}}
+L["theres a bomb strapped to my chest"]={{path="chatsounds/autoadd/spongebob/theres a bomb strapped to my chest.ogg",length=2.075}}
 L["theres two of them"]={{path="chatsounds/autoadd/spongebob/theres two of them.ogg",length=1.896}}
 L["theyre back theyre back i tell ya i saw it with me own eyes"]={{path="chatsounds/autoadd/spongebob/theyre back theyre back i tell ya i saw it with me own eyes.ogg",length=5.086}}
 L["theyre here"]={{path="chatsounds/autoadd/spongebob/theyre here.ogg",length=1.365}}

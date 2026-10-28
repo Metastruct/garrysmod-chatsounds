@@ -7,13 +7,16 @@ L["but its just the way youre wired isnt it"]={{path="chatsounds/autoadd/backroo
 L["capn clarks ottoman empire"]={{path="chatsounds/autoadd/backrooms/capn clarks ottoman empire.ogg",length=2.665}}
 L["cuz someone wont get of her ass and help me"]={{path="chatsounds/autoadd/backrooms/cuz someone wont get of her ass and help me.ogg",length=3.212}}
 L["f you"]={{path="chatsounds/autoadd/backrooms/f you.ogg",length=2.178}}
+L["for the first time in a long time i feel like im"]={{path="chatsounds/autoadd/backrooms/for the first time in a long time i feel like im.ogg",length=2.805}}
 L["how do i stop doing that"]={{path="chatsounds/autoadd/backrooms/how do i stop doing that.ogg",length=1.355}}
 L["i am a fucking architect"]={{path="chatsounds/autoadd/backrooms/i am a fucking architect/1.ogg",length=1.429},{path="chatsounds/autoadd/backrooms/i am a fucking architect/2.ogg",length=1.972}}
+L["i like it in here"]={{path="chatsounds/autoadd/backrooms/i like it in here.ogg",length=1.505}}
 L["i never even meet her"]={{path="chatsounds/autoadd/backrooms/i never even meet her.ogg",length=1.040}}
 L["im not your wife"]={{path="chatsounds/autoadd/backrooms/im not your wife.ogg",length=1.114}}
 L["isnt it"]={{path="chatsounds/autoadd/backrooms/isnt it.ogg",length=0.744}}
 L["it was the whining"]={{path="chatsounds/autoadd/backrooms/it was the whining.ogg",length=1.459}}
 L["it wasnt the drinking"]={{path="chatsounds/autoadd/backrooms/it wasnt the drinking.ogg",length=1.252}}
+L["like im right where im supposed to be"]={{path="chatsounds/autoadd/backrooms/like im right where im supposed to be.ogg",length=1.610}}
 L["nothing ever your fault is it"]={{path="chatsounds/autoadd/backrooms/nothing ever your fault is it.ogg",length=1.942}}
 L["or"]={{path="chatsounds/autoadd/backrooms/or.ogg",length=0.330}}
 L["or the stumbling at home all hours"]={{path="chatsounds/autoadd/backrooms/or the stumbling at home all hours.ogg",length=1.929}}

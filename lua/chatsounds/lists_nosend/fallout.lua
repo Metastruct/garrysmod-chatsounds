@@ -268,7 +268,7 @@ L["you had to get out"]={{path="chatsounds/autoadd/fallout/you had to get out.og
 L["you made a clever forgery"]={{path="chatsounds/autoadd/fallout/you made a clever forgery.ogg",length=3.080}}
 L["you made this up to fool me"]={{path="chatsounds/autoadd/fallout/you made this up to fool me.ogg",length=2.328}}
 L["you might be telling the truth"]={{path="chatsounds/autoadd/fallout/you might be telling the truth.ogg",length=2.434}}
-L["you moron you are not to question my orders when i say jump you jump when i say fight you fight when i tell you to die for your country then you will certainly die have i made myself clear"]={{path="chatsounds/autoadd/fallout/you moron you are not to question my orders when i say jump you jump when i say fight you fight when i tell you to die for your country then you will certainly die have i made myself clear.ogg",length=11.675}}
+L["you moron you are not to question my orders when i say jump you jump when i say fight you fight when i tell you to die for your country then you will certainly die have i made myself clear"]={{path="chatsounds/autoadd/fallout/you moron you are not to question my orders.ogg",length=11.675}}
 L["you must be joking"]={{path="chatsounds/autoadd/fallout/you must be joking.ogg",length=1.268}}
 L["you mutant scum"]={{path="chatsounds/autoadd/fallout/you mutant scum.ogg",length=1.900}}
 L["you think"]={{path="chatsounds/autoadd/fallout/you think.ogg",length=1.217}}
