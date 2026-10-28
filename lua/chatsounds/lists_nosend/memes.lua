@@ -264,6 +264,7 @@ L["paddle scream"]={{path="chatsounds/autoadd/memes/paddle scream.ogg",length=3.
 L["pepsie"]={{path="chatsounds/autoadd/memes/pepsie.ogg",length=0.943}}
 L["please"]={{path="chatsounds/autoadd/memes/please.ogg",length=0.571}}
 L["please give me"]={{path="chatsounds/autoadd/memes/please give me.ogg",length=1.280}}
+L["plus 1 byczq"]={{path="chatsounds/autoadd/memes/plus 1 byczq.ogg",length=0.875}}
 L["power armor is for pussies"]={{path="chatsounds/autoadd/memes/power armor is for pussies.ogg",length=2.285}}
 L["raaahhh"]={{path="chatsounds/autoadd/memes/raaahhh.ogg",length=1.323}}
 L["red sun"]={{path="chatsounds/autoadd/memes/red sun.ogg",length=13.827}}
