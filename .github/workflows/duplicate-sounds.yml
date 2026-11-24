@@ -1,0 +1,198 @@
+name: Duplicate Sounds
+
+on:
+  pull_request:
+    paths:
+      - 'sound/**'
+  schedule:
+    - cron: '0 4 1 * *'      # full audit, 1st of each month
+  workflow_dispatch:
+    inputs:
+      threshold:
+        description: 'Cosine threshold (0.97 default; lower = more matches, more noise)'
+        default: '0.97'
+      dur_tol:
+        description: 'Max duration ratio between duplicates'
+        default: '1.03'
+
+# Fork PRs get a read-only token no matter what is requested here, so the PR
+# comment is posted by duplicate-sounds-comment.yml (workflow_run) instead.
+permissions:
+  contents: read
+
+concurrency:
+  group: dupes-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # ---------------------------------------------------------------- PR check
+  # Only reports clusters that involve a file this PR adds, so contributors get
+  # "this sound already exists" rather than a dump of the whole library.
+  pr-check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install --quiet numpy
+
+      # Restores the newest index built by the audit job on master. PR-scoped
+      # caches can't write back to master's scope, which is fine -- the script
+      # re-fingerprints anything the cache is missing.
+      - name: Restore fingerprint index
+        uses: actions/cache/restore@v6
+        with:
+          path: fingerprints.npz
+          key: chatsounds-fp-v1-${{ github.sha }}
+          restore-keys: chatsounds-fp-v1-
+
+      - name: List sounds added by this PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" \
+            --paginate --jq '.[] | select(.status == "added" or .status == "modified") | .filename' \
+            > changed.txt || true
+          grep -iE '^sound/.*\.(ogg|wav|mp3|flac|m4a|aac|opus|wma)$' changed.txt > added.txt || true
+          echo "added $(wc -l < added.txt) sound file(s)"
+
+      - name: Scan for duplicates
+        if: hashFiles('added.txt') != ''
+        run: |
+          [ -s added.txt ] || { echo "no sound files added"; exit 0; }
+          python3 .github/scripts/chatsounds_dedupe.py sound \
+            --only added.txt \
+            --cache fingerprints.npz \
+            -o duplicates.tsv \
+            --markdown report.md
+          # To block merges on exact duplicates, add:
+          #   --fail-on SAFE-identical-audio
+
+      - name: Job summary
+        if: always() && hashFiles('report.md') != ''
+        run: cat report.md >> "$GITHUB_STEP_SUMMARY"
+
+      # This job can't comment (read-only token on fork PRs). Hand the report
+      # off to duplicate-sounds-comment.yml, which runs with a write token.
+      # The PR number has to travel in the artifact: workflow_run's
+      # `pull_requests` payload field is empty for cross-repository PRs.
+      - name: Stage comment payload
+        if: always() && hashFiles('report.md') != ''
+        run: |
+          mkdir -p comment-payload
+          cp report.md comment-payload/report.md
+          echo "${{ github.event.pull_request.number }}" > comment-payload/pr-number.txt
+
+          # flagged.tsv: one line per file *this PR adds* that landed in a
+          # duplicate cluster -> path, category, tier, what it collides with.
+          # duplicates.tsv paths are relative to sound/; added.txt is repo-relative.
+          [ -f duplicates.tsv ] || exit 0
+          python3 - <<'PY'
+          import csv, os
+          added = {os.path.normpath(l.strip()) for l in open('added.txt') if l.strip()}
+          seen, out = set(), []
+          with open('duplicates.tsv') as f:
+              for row in csv.DictReader(f, delimiter='\t'):   # already severity-sorted
+                  keep = os.path.normpath(os.path.join('sound', row['keep']))
+                  dup = os.path.normpath(os.path.join('sound', row['duplicate']))
+                  for mine, other in ((keep, dup), (dup, keep)):
+                      if mine in added and mine not in seen:
+                          seen.add(mine)
+                          out.append((mine, row['category'], row['tier'], other))
+          with open('comment-payload/flagged.tsv', 'w') as f:
+              for r in out:
+                  f.write('\t'.join(r) + '\n')
+          print(f'{len(out)} file(s) in this PR flagged as duplicates')
+          PY
+
+      - uses: actions/upload-artifact@v7
+        if: always() && hashFiles('comment-payload/pr-number.txt') != ''
+        with:
+          name: dupe-comment
+          path: comment-payload/
+          retention-days: 1
+
+      - uses: actions/upload-artifact@v7
+        if: always() && hashFiles('duplicates.tsv') != ''
+        with:
+          name: duplicate-report
+          path: duplicates.tsv
+
+  # -------------------------------------------------------------- full audit
+  full-audit:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write        # tracking issue, below
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install --quiet numpy
+
+      - name: Restore fingerprint index
+        uses: actions/cache/restore@v6
+        with:
+          path: fingerprints.npz
+          key: chatsounds-fp-v1-${{ github.sha }}
+          restore-keys: chatsounds-fp-v1-
+
+      - name: Scan whole library
+        run: |
+          python3 .github/scripts/chatsounds_dedupe.py sound \
+            --cache fingerprints.npz \
+            --thr "${{ github.event.inputs.threshold || '0.97' }}" \
+            --dur-tol "${{ github.event.inputs.dur_tol || '1.03' }}" \
+            -o duplicates.tsv \
+            --json duplicates.json \
+            --markdown report.md
+
+      # Saved under the run's own SHA so the next run's restore-keys finds it.
+      - name: Save fingerprint index
+        uses: actions/cache/save@v6
+        if: always()
+        with:
+          path: fingerprints.npz
+          key: chatsounds-fp-v1-${{ github.sha }}
+
+      - name: Job summary
+        run: cat report.md >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v7
+        with:
+          name: duplicate-report
+          path: |
+            duplicates.tsv
+            duplicates.json
+
+      # Persistent surface: one tracking issue, updated in place each audit.
+      - name: Update tracking issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE='Duplicate sound report'
+          RUN="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          { cat report.md; echo; echo "_Updated by [this run]($RUN) · $(date -u +%Y-%m-%d)_"; } > issue.md
+          NUM=$(gh issue list --state open --search "$TITLE in:title" \
+                  --json number,title --jq ".[] | select(.title == \"$TITLE\") | .number" | head -1)
+          if [ -n "$NUM" ]; then
+            gh issue edit "$NUM" --body-file issue.md
+          else
+            gh issue create --title "$TITLE" --body-file issue.md
+          fi

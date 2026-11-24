@@ -3,6 +3,7 @@ L["aaaaahhh"]={{path="chatsounds/autoadd/anime/aaaaahhh.ogg",length=2.123}}
 L["ah eto bleh"]={{path="chatsounds/autoadd/anime/ah eto bleh.ogg",length=2.749}}
 L["ah i wish i were a birdu"]={{path="chatsounds/autoadd/anime/ah i wish i were a birdu.ogg",length=3.620}}
 L["america ya"]={{path="chatsounds/autoadd/anime/america ya.ogg",length=1.387}}
+L["aston machan"]={{path="chatsounds/autoadd/anime/aston machan.ogg",length=1.790}}
 L["awebo"]={{path="chatsounds/autoadd/anime/awebo.ogg",length=0.576}}
 L["burunyaa"]={{path="chatsounds/autoadd/anime/burunyaa.ogg",length=1.190}}
 L["cawfee"]={{path="chatsounds/autoadd/anime/cawfee/1.ogg",length=0.650},{path="chatsounds/autoadd/anime/cawfee/2.ogg",length=0.869}}
@@ -54,6 +55,7 @@ L["oui"]={{path="chatsounds/autoadd/anime/oui/oui 1.ogg",length=0.202},{path="ch
 L["papa"]={{path="chatsounds/autoadd/anime/papa.ogg",length=0.496}}
 L["poi"]={{path="chatsounds/autoadd/anime/poi/1.ogg",length=0.651},{path="chatsounds/autoadd/anime/poi/10.ogg",length=0.577},{path="chatsounds/autoadd/anime/poi/11.ogg",length=0.546},{path="chatsounds/autoadd/anime/poi/12.ogg",length=0.515},{path="chatsounds/autoadd/anime/poi/13.ogg",length=0.602},{path="chatsounds/autoadd/anime/poi/14.ogg",length=0.484},{path="chatsounds/autoadd/anime/poi/15.ogg",length=0.546},{path="chatsounds/autoadd/anime/poi/16.ogg",length=0.372},{path="chatsounds/autoadd/anime/poi/17.ogg",length=0.503},{path="chatsounds/autoadd/anime/poi/18.ogg",length=0.478},{path="chatsounds/autoadd/anime/poi/19.ogg",length=0.416},{path="chatsounds/autoadd/anime/poi/2.ogg",length=0.273},{path="chatsounds/autoadd/anime/poi/20.ogg",length=0.410},{path="chatsounds/autoadd/anime/poi/3.ogg",length=0.515},{path="chatsounds/autoadd/anime/poi/4.ogg",length=0.515},{path="chatsounds/autoadd/anime/poi/5.ogg",length=0.552},{path="chatsounds/autoadd/anime/poi/6.ogg",length=0.447},{path="chatsounds/autoadd/anime/poi/7.ogg",length=0.546},{path="chatsounds/autoadd/anime/poi/8.ogg",length=0.509}}
 L["poiii"]={{path="chatsounds/autoadd/anime/poiii.ogg",length=3.940}}
+L["repeat after me"]={{path="chatsounds/autoadd/anime/repeat after me.ogg",length=1.278}}
 L["rrat"]={{path="chatsounds/autoadd/anime/rrat.ogg",length=0.717}}
 L["sata andagi"]={{path="chatsounds/autoadd/anime/sata andagi.ogg",length=2.508}}
 L["shikanokonokonoko koshitantan"]={{path="chatsounds/autoadd/anime/shikanokonokonoko koshitantan.ogg",length=2.721}}
@@ -63,6 +65,7 @@ L["the glue"]={{path="chatsounds/autoadd/anime/the glue.ogg",length=1.275}}
 L["todaaay"]={{path="chatsounds/autoadd/anime/todaaay/1.ogg",length=1.208},{path="chatsounds/autoadd/anime/todaaay/2.ogg",length=1.239}}
 L["today"]={{path="chatsounds/autoadd/anime/today.ogg",length=0.690}}
 L["tomorrow"]={{path="chatsounds/autoadd/anime/tomorrow/1.ogg",length=0.796},{path="chatsounds/autoadd/anime/tomorrow/2.ogg",length=0.809},{path="chatsounds/autoadd/anime/tomorrow/3.ogg",length=1.256}}
+L["tore chan"]={{path="chatsounds/autoadd/anime/tore chan.ogg",length=1.825}}
 L["true"]={{path="chatsounds/autoadd/anime/true/1.ogg",length=0.411},{path="chatsounds/autoadd/anime/true/2.ogg",length=0.395},{path="chatsounds/autoadd/anime/true/3.ogg",length=0.427}}
 L["true comment"]={{path="chatsounds/autoadd/anime/true comment.ogg",length=1.132}}
 L["true true"]={{path="chatsounds/autoadd/anime/true true.ogg",length=0.906}}
@@ -70,6 +73,7 @@ L["tuturu"]={{path="chatsounds/autoadd/anime/tuturu.ogg",length=1.248}}
 L["unyu"]={{path="chatsounds/autoadd/anime/unyu.ogg",length=2.376}}
 L["vtuberlaugh"]={{path="chatsounds/autoadd/anime/vtuberlaugh.ogg",length=0.679}}
 L["wake up"]={{path="chatsounds/autoadd/anime/wake up.ogg",length=0.956}}
+L["warer"]={{path="chatsounds/autoadd/anime/warer.ogg",length=0.510}}
 L["water in the fire why"]={{path="chatsounds/autoadd/anime/water in the fire why.ogg",length=3.441}}
 L["water in the fire whyy"]={{path="chatsounds/autoadd/anime/water in the fire whyy.ogg",length=3.245}}
 L["whyyy"]={{path="chatsounds/autoadd/anime/whyyy.ogg",length=0.930}}

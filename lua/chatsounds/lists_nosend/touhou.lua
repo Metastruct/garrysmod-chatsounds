@@ -1,4 +1,5 @@
 c.StartList("touhou")
+L["fumo"]={{path="chatsounds/autoadd/touhou/fumo.ogg",length=0.430}}
 L["nuclearfusion"]={{path="chatsounds/autoadd/touhou/nuclearfusion.ogg",length=40.046}}
 L["th11 klaxon"]={{path="chatsounds/autoadd/touhou/th11 klaxon.ogg",length=3.000}}
 L["touhou death"]={{path="chatsounds/autoadd/touhou/touhou death.ogg",length=1.985}}

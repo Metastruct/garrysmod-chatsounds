@@ -23,6 +23,7 @@ L["people cheering"]={{path="chatsounds/autoadd/sfx_voice/people cheering.ogg",l
 L["people laughing"]={{path="chatsounds/autoadd/sfx_voice/people laughing/people laughing 1.ogg",length=2.496},{path="chatsounds/autoadd/sfx_voice/people laughing/people laughing 2.ogg",length=2.522},{path="chatsounds/autoadd/sfx_voice/people laughing/people laughing 3.ogg",length=4.481},{path="chatsounds/autoadd/sfx_voice/people laughing/people laughing 4.ogg",length=3.097}}
 L["people talking"]={{path="chatsounds/autoadd/sfx_voice/people talking.ogg",length=31.988}}
 L["snoring"]={{path="chatsounds/autoadd/sfx_voice/snoring/snoring 2.ogg",length=2.002},{path="chatsounds/autoadd/sfx_voice/snoring/snoring 3.ogg",length=0.367},{path="chatsounds/autoadd/sfx_voice/snoring/snoring 4.ogg",length=0.701},{path="chatsounds/autoadd/sfx_voice/snoring/snoring 5.ogg",length=3.096}}
+L["tickezo cry"]={{path="chatsounds/autoadd/sfx_voice/tickezo cry.ogg",length=16.270}}
 L["whistling"]={{path="chatsounds/autoadd/sfx_voice/whistling.ogg",length=1.335}}
 L["y1"]={{path="chatsounds/autoadd/sfx_voice/y1.ogg",length=1.399}}
 L["yes"]={{path="chatsounds/autoadd/sfx_voice/yes/yes 1.ogg",length=0.767},{path="chatsounds/autoadd/sfx_voice/yes/yes 2.ogg",length=0.701}}

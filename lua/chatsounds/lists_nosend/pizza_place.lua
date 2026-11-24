@@ -1,0 +1,17 @@
+c.StartList("pizza_place")
+L["ahh"]={{path="chatsounds/autoadd/pizza_place/ahh.ogg",length=0.925}}
+L["angry"]={{path="chatsounds/autoadd/pizza_place/angry.ogg",length=2.038}}
+L["bleh"]={{path="chatsounds/autoadd/pizza_place/bleh.ogg",length=0.589}}
+L["byee"]={{path="chatsounds/autoadd/pizza_place/byee.ogg",length=1.254}}
+L["faint"]={{path="chatsounds/autoadd/pizza_place/faint.ogg",length=1.669}}
+L["gaspp"]={{path="chatsounds/autoadd/pizza_place/gaspp.ogg",length=1.069}}
+L["hahaha"]={{path="chatsounds/autoadd/pizza_place/hahaha.ogg",length=0.997}}
+L["hi"]={{path="chatsounds/autoadd/pizza_place/hi.ogg",length=0.469}}
+L["hmm"]={{path="chatsounds/autoadd/pizza_place/hmm.ogg",length=0.877}}
+L["huh"]={{path="chatsounds/autoadd/pizza_place/huh.ogg",length=0.373}}
+L["mwahahaha"]={{path="chatsounds/autoadd/pizza_place/mwahahaha.ogg",length=2.677}}
+L["sadd"]={{path="chatsounds/autoadd/pizza_place/sadd.ogg",length=1.261}}
+L["snore"]={{path="chatsounds/autoadd/pizza_place/snore.ogg",length=2.413}}
+L["woahh"]={{path="chatsounds/autoadd/pizza_place/woahh.ogg",length=1.261}}
+L["yeaa"]={{path="chatsounds/autoadd/pizza_place/yeaa.ogg",length=1.165}}
+c.EndList()

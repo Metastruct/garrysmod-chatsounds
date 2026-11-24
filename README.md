@@ -11,17 +11,18 @@ Chat sounds system for Garry's Mod (with extra sounds)
 
 ## How to install
 ### Installing is not necessary to hear the sounds if the server has [neo-chatsounds](https://github.com/Earu/neo-chatsounds) installed.
- - Install a git client ([GitKraken](https://www.gitkraken.com) or [GitHub Dekstop](https://desktop.github.com)) or use the [command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
+ - Click on the green Code button, then download the zip file.
+ - Alternatively install a git client ([GitKraken](https://www.gitkraken.com) or [GitHub Desktop](https://desktop.github.com)) or use the [command line](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html).
  - Git clone https://github.com/Metastruct/garrysmod-chatsounds.git into your addons folder.
- - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder.
+ - To see if you installed it correctly, you should now have `garrysmod/addons/garrysmod-chatsounds/lua` folder.
 
 <details>
  <summary>Old alternative install method (not recommended to use)</summary>
 
  - Install subversion client: http://tortoisesvn.net/downloads.html
  - Checkout: https://github.com/Metastruct/garrysmod-chatsounds/trunk
- - Save to ```garrysmod/addons/garrysmod-chatsounds```
- - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua``` folder
+ - Save to `garrysmod/addons/garrysmod-chatsounds`
+ - To see if you installed it correctly, you should now have `garrysmod/addons/garrysmod-chatsounds/lua` folder
 </details>
 
 ## How to install on server
@@ -31,18 +32,18 @@ Chat sounds system for Garry's Mod (with extra sounds)
 <details>
  <summary>Old method</summary>
  
- - Create directory ```garrysmod/addons/garrysmod-chatsounds```
- - Checkout: ```https://github.com/Metastruct/garrysmod-chatsounds/trunk/lua``` to ```garrysmod/addons/garrysmod-chatsounds/lua```
- - To see if you installed it correctly, you should now have ```garrysmod/addons/garrysmod-chatsounds/lua/autorun/chatsounds.lua``` file.
+ - Create directory `garrysmod/addons/garrysmod-chatsounds`
+ - Checkout: `https://github.com/Metastruct/garrysmod-chatsounds/trunk/lua` to `garrysmod/addons/garrysmod-chatsounds/lua`
+ - To see if you installed it correctly, you should now have `garrysmod/addons/garrysmod-chatsounds/lua/autorun/chatsounds.lua` file.
 </details>
 
 ## How to contribute more sounds to this repository
  - **SOUNDS MUST OBEY [GITHUB AUP](https://help.github.com/en/github/site-policy/github-acceptable-use-policies#2-content-restrictions).**
    - This includes any attempt at hiding violating sounds via it's name or other means.
- - [Read this](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt).
- - We accept pull requests.
- - Running the preprocessor is not mandatory anymore - if you don't run it, lists will be auto-generated about 3 minutes after you commit/push the changes.
+ - use https://chatsounds.metastruct.net to make cutting, labeling, uploading and reviewing your sounds easier than ever.
+ - if you feel nostalgic you can also add them manually, but [Read this](https://github.com/Metastruct/garrysmod-chatsounds/blob/master/HOW%20TO%20ADD%20SOUNDS.txt).
  
+
 If you do not understand, you can ask people who have already added sounds to add them for you.
 
 ## Want to preview or share sounds over the Web?

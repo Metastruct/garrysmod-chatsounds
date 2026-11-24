@@ -8,11 +8,14 @@ L["do you know"]={{path="chatsounds/autoadd/cave_johnson/do you know.ogg",length
 L["do you know who i am"]={{path="chatsounds/autoadd/cave_johnson/do you know who i am.ogg",length=1.716}}
 L["dont make lemonade"]={{path="chatsounds/autoadd/cave_johnson/dont make lemonade.ogg",length=1.216}}
 L["get mad"]={{path="chatsounds/autoadd/cave_johnson/get mad.ogg",length=0.856}}
+L["ill be honest were throwing science at the wall here to see what stick no idea what itll do"]={{path="chatsounds/autoadd/cave_johnson/ill be honest were throwing science at the wall here to see what stick no idea what itll do.ogg",length=4.256}}
 L["im gonna get my engineers"]={{path="chatsounds/autoadd/cave_johnson/im gonna get my engineers.ogg",length=1.442}}
 L["im the man whos gonna"]={{path="chatsounds/autoadd/cave_johnson/im the man whos gonna.ogg",length=1.169}}
 L["im the man whos gonna burn your house down"]={{path="chatsounds/autoadd/cave_johnson/im the man whos gonna burn your house down.ogg",length=2.482}}
 L["lemons"]={{path="chatsounds/autoadd/cave_johnson/lemons.ogg",length=0.533}}
 L["make life"]={{path="chatsounds/autoadd/cave_johnson/make life.ogg",length=0.619}}
+L["science is not about why its about why not"]={{path="chatsounds/autoadd/cave_johnson/science is not about why its about why not.ogg",length=3.093}}
+L["science is not about why its about why not full"]={{path="chatsounds/autoadd/cave_johnson/science is not about why its about why not full.ogg",length=18.710}}
 L["take the lemons back"]={{path="chatsounds/autoadd/cave_johnson/take the lemons back.ogg",length=1.454}}
 L["what am i supposed to do with these"]={{path="chatsounds/autoadd/cave_johnson/what am i supposed to do with these.ogg",length=1.893}}
 L["when life gives you lemons"]={{path="chatsounds/autoadd/cave_johnson/when life gives you lemons.ogg",length=1.514}}

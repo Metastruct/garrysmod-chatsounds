@@ -368,7 +368,11 @@ L["we can get drunk"]={{path="chatsounds/autoadd/tf2_extra/we can get drunk.ogg"
 L["we cannot see"]={{path="chatsounds/autoadd/tf2_extra/we cannot see.ogg",length=1.061}}
 L["we fuck like men"]={{path="chatsounds/autoadd/tf2_extra/we fuck like men.ogg",length=1.389}}
 L["we go"]={{path="chatsounds/autoadd/tf2_extra/we go.ogg",length=1.048}}
+L["well dont that beat all distorted"]={{path="chatsounds/autoadd/tf2_extra/well dont that beat all distorted/1.ogg",length=2.207},{path="chatsounds/autoadd/tf2_extra/well dont that beat all distorted/2.ogg",length=3.235},{path="chatsounds/autoadd/tf2_extra/well dont that beat all distorted/3.ogg",length=2.143},{path="chatsounds/autoadd/tf2_extra/well dont that beat all distorted/4.ogg",length=3.656},{path="chatsounds/autoadd/tf2_extra/well dont that beat all distorted/5.ogg",length=2.158}}
 L["well too bad"]={{path="chatsounds/autoadd/tf2_extra/well too bad.ogg",length=1.845}}
+L["welldontthatbeatall scare"]={{path="chatsounds/autoadd/tf2_extra/welldontthatbeatall scare.ogg",length=4.506}}
+L["welldontthatbeatall scream"]={{path="chatsounds/autoadd/tf2_extra/welldontthatbeatall scream.ogg",length=7.504}}
+L["welldontthatbeatall ugh"]={{path="chatsounds/autoadd/tf2_extra/welldontthatbeatall ugh/1.ogg",length=1.684},{path="chatsounds/autoadd/tf2_extra/welldontthatbeatall ugh/2.ogg",length=1.616},{path="chatsounds/autoadd/tf2_extra/welldontthatbeatall ugh/3.ogg",length=1.657}}
 L["what can we do today"]={{path="chatsounds/autoadd/tf2_extra/what can we do today.ogg",length=1.930}}
 L["what happens now"]={{path="chatsounds/autoadd/tf2_extra/what happens now.ogg",length=1.136}}
 L["what heavy and spy screaming clunk"]={{path="chatsounds/autoadd/tf2_extra/what heavy and spy screaming clunk.ogg",length=3.410}}

@@ -1,3 +1,6 @@
 /chatsounds-preprocessor-cache
 /invalid-soundfiles.txt
 /chatsounds-preprocessor
+/fingerprints.npz
+/duplicates.tsv
+/duplicates.json

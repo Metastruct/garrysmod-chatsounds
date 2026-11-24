@@ -3,14 +3,13 @@ on:
   push:
     paths:
       - 'sound/**'
-      - 'lua/chatsounds/lists_nosend/**'
 jobs:
   check:
     if: github.ref != 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
 
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
@@ -18,17 +17,25 @@ jobs:
     if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
+      - name: Generate app token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
+        with:
+          token: ${{ steps.app-token.outputs.token }}
 
       - name: Preprocessor 🔧
         uses: Metastruct/chatsounds-preprocessor-action@v1
 
       - name: Deploy 🚀
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v10
         with:
           add: 'lua/chatsounds/lists_nosend'
           author_name: Meta Automator
-          author_email: MetaAutomator@users.noreply.github.com
+          author_email: 30638685+MetaAutomator@users.noreply.github.com
           default_author: user_info
-          pull: 'NO-PULL'

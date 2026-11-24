@@ -42,6 +42,7 @@ L["funstep"]={{path="chatsounds/autoadd/music/funstep.ogg",length=28.762}}
 L["gasgasgas"]={{path="chatsounds/autoadd/music/gasgasgas.ogg",length=271.804}}
 L["gorillaz loop"]={{path="chatsounds/autoadd/music/gorillaz loop.ogg",length=8.190}}
 L["hardbass"]={{path="chatsounds/autoadd/music/hardbass/hardbass.ogg",length=0.668},{path="chatsounds/autoadd/music/hardbass/hardbass2.ogg",length=0.949},{path="chatsounds/autoadd/music/hardbass/hardbass3.ogg",length=36.700}}
+L["hello world"]={{path="chatsounds/autoadd/music/hello world.ogg",length=2.209}}
 L["hongkong97 full"]={{path="chatsounds/autoadd/music/hongkong97 full.ogg",length=163.255}}
 L["how to pronounce lenny"]={{path="chatsounds/autoadd/music/how to pronounce lenny.ogg",length=40.333}}
 L["i na nayke patsany"]={{path="chatsounds/autoadd/music/i na nayke patsany.ogg",length=1.533}}
@@ -52,6 +53,7 @@ L["invisible song"]={{path="chatsounds/autoadd/music/invisible song/1.ogg",lengt
 L["its a celebration"]={{path="chatsounds/autoadd/music/its a celebration.ogg",length=2.175}}
 L["jungle wet dreams tomato"]={{path="chatsounds/autoadd/music/jungle where dreams are made of.ogg",length=3.104}}
 L["jungle where dreams are made of"]={{path="chatsounds/autoadd/music/jungle where dreams are made of.ogg",length=3.104}}
+L["lesbiens and gay song"]={{path="chatsounds/autoadd/music/lesbiens and gay song.ogg",length=25.980}}
 L["let the bodies hit the floor"]={{path="chatsounds/autoadd/music/let the bodies hit the floor.ogg",length=1.837}}
 L["lone digger loop"]={{path="chatsounds/autoadd/music/lone digger loop.ogg",length=46.452}}
 L["lord macintosh plus"]={{path="chatsounds/autoadd/music/lord macintosh plus/1.ogg",length=64.838},{path="chatsounds/autoadd/music/lord macintosh plus/2.ogg",length=60.148},{path="chatsounds/autoadd/music/lord macintosh plus/3.ogg",length=60.604},{path="chatsounds/autoadd/music/lord macintosh plus/4.ogg",length=60.669},{path="chatsounds/autoadd/music/lord macintosh plus/5.ogg",length=77.832}}
