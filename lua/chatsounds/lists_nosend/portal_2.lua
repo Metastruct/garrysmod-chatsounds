@@ -2,6 +2,7 @@ c.StartList("portal_2")
 L["99999 9"]={{path="chatsounds/autoadd/portal_2/99999 9.ogg",length=3.589}}
 L["agh bird bird kill it its evil"]={{path="chatsounds/autoadd/portal_2/agh bird bird kill it its evil.ogg",length=2.429}}
 L["ah dont tell anyone about this"]={{path="chatsounds/autoadd/portal_2/ah dont tell anyone about this.ogg",length=2.011}}
+L["and then you showed up"]={{path="chatsounds/autoadd/portal_2/and then you showed up.ogg",length=1.735}}
 L["and you are not coming back"]={{path="chatsounds/autoadd/portal_2/and you are not coming back.ogg",length=2.325}}
 L["aperture laboratories intro"]={{path="chatsounds/autoadd/portal_2/aperture laboratories intro.ogg",length=4.249}}
 L["because im a potato"]={{path="chatsounds/autoadd/portal_2/because im a potato.ogg",length=1.781}}
@@ -18,6 +19,7 @@ L["explosion imminant evacuate the facility immediately"]={{path="chatsounds/aut
 L["for science"]={{path="chatsounds/autoadd/portal_2/for science.ogg",length=1.009}}
 L["get mad"]={{path="chatsounds/autoadd/portal_2/get mad.ogg",length=1.202}}
 L["good"]={{path="chatsounds/autoadd/portal_2/good/good01.ogg",length=0.496},{path="chatsounds/autoadd/portal_2/good/good02.ogg",length=0.418}}
+L["goodbye caroline"]={{path="chatsounds/autoadd/portal_2/goodbye caroline.ogg",length=1.802}}
 L["hello there"]={{path="chatsounds/autoadd/portal_2/hello there.ogg",length=0.679}}
 L["hi again"]={{path="chatsounds/autoadd/portal_2/hi again.ogg",length=0.496}}
 L["hi there"]={{path="chatsounds/autoadd/portal_2/hi there/1.ogg",length=0.575},{path="chatsounds/autoadd/portal_2/hi there/2.ogg",length=0.601}}
@@ -28,8 +30,11 @@ L["i think we can put our differences behind us"]={{path="chatsounds/autoadd/por
 L["im different"]={{path="chatsounds/autoadd/portal_2/im different.ogg",length=1.097}}
 L["interpreting vague answer as yes"]={{path="chatsounds/autoadd/portal_2/interpreting vague answer as yes.ogg",length=2.090}}
 L["its been a long time"]={{path="chatsounds/autoadd/portal_2/its been a long time.ogg",length=2.318}}
+L["its been fun dont come back"]={{path="chatsounds/autoadd/portal_2/its been fun dont come back.ogg",length=4.362}}
 L["its evil"]={{path="chatsounds/autoadd/portal_2/its evil.ogg",length=0.580}}
+L["just go"]={{path="chatsounds/autoadd/portal_2/just go.ogg",length=1.620}}
 L["kill it"]={{path="chatsounds/autoadd/portal_2/kill it.ogg",length=0.494}}
+L["killing you is hard"]={{path="chatsounds/autoadd/portal_2/killing you is hard.ogg",length=1.881}}
 L["looking pretty good"]={{path="chatsounds/autoadd/portal_2/looking pretty good.ogg",length=2.596}}
 L["nonononononono"]={{path="chatsounds/autoadd/portal_2/nonononononono.ogg",length=2.534}}
 L["now its time for your real purpose"]={{path="chatsounds/autoadd/portal_2/now its time for your real purpose.ogg",length=2.575}}
@@ -42,6 +47,7 @@ L["prehub08"]={{path="chatsounds/autoadd/portal_2/prehub08.ogg",length=7.053}}
 L["reflect briefly on this classical music"]={{path="chatsounds/autoadd/portal_2/reflect briefly on this classical music.ogg",length=6.975}}
 L["sarcasm self test complete"]={{path="chatsounds/autoadd/portal_2/sarcasm self test complete.ogg",length=1.802}}
 L["smooth jazz"]={{path="chatsounds/autoadd/portal_2/smooth jazz.ogg",length=24.816}}
+L["so you know what"]={{path="chatsounds/autoadd/portal_2/so you know what.ogg",length=1.013}}
 L["stop it"]={{path="chatsounds/autoadd/portal_2/stop it.ogg",length=0.888}}
 L["take me with you please"]={{path="chatsounds/autoadd/portal_2/take me with you please.ogg",length=1.123}}
 L["test camber completed"]={{path="chatsounds/autoadd/portal_2/test camber completed.ogg",length=1.265}}
@@ -59,11 +65,13 @@ L["wooooh"]={{path="chatsounds/autoadd/portal_2/wooooh.ogg",length=1.807}}
 L["yeah lets do this"]={{path="chatsounds/autoadd/portal_2/yeah lets do this/sp_sabotage_factory_defect_chat03.ogg",length=1.202},{path="chatsounds/autoadd/portal_2/yeah lets do this/sp_sabotage_factory_defect_chat04.ogg",length=1.646}}
 L["yes"]={{path="chatsounds/autoadd/portal_2/yes.ogg",length=0.836}}
 L["yes indeed yes indeed"]={{path="chatsounds/autoadd/portal_2/yes indeed yes indeed.ogg",length=2.064}}
+L["you dangerous mute lunatic"]={{path="chatsounds/autoadd/portal_2/you dangerous mute lunatic.ogg",length=2.816}}
 L["you dont know anything"]={{path="chatsounds/autoadd/portal_2/you dont know anything.ogg",length=1.404}}
 L["you dont know fear"]={{path="chatsounds/autoadd/portal_2/you dont know fear.ogg",length=1.068}}
 L["you dont know pride"]={{path="chatsounds/autoadd/portal_2/you dont know pride.ogg",length=1.404}}
 L["you monster"]={{path="chatsounds/autoadd/portal_2/you monster.ogg",length=0.928}}
 L["you should now feel mentally reinvigorated"]={{path="chatsounds/autoadd/portal_2/you should now feel mentally reinvigorated.ogg",length=2.393}}
 L["you should see yourselves right now"]={{path="chatsounds/autoadd/portal_2/you should see yourselves right now.ogg",length=1.959}}
+L["you win"]={{path="chatsounds/autoadd/portal_2/you win.ogg",length=0.888}}
 L["youll be perfect"]={{path="chatsounds/autoadd/portal_2/youll be perfect.ogg",length=1.110}}
 c.EndList()

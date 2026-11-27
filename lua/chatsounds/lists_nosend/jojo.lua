@@ -28,5 +28,6 @@ L["yare yare daze"]={{path="chatsounds/autoadd/jojo/yare yare daze/1.ogg",length
 L["yare yare daze kusogaki"]={{path="chatsounds/autoadd/jojo/yare yare daze kusogaki.ogg",length=2.635}}
 L["yes i am"]={{path="chatsounds/autoadd/jojo/yes i am.ogg",length=2.416}}
 L["yes yes yes yes yes"]={{path="chatsounds/autoadd/jojo/yes yes yes yes yes.ogg",length=3.923}}
+L["za hando za warudo"]={{path="chatsounds/autoadd/jojo/za hando za warudo.ogg",length=2.420}}
 L["za warudo"]={{path="chatsounds/autoadd/jojo/za warudo.ogg",length=4.038}}
 c.EndList()
