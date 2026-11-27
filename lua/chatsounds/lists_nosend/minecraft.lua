@@ -6,6 +6,7 @@ L["chickenhurt"]={{path="chatsounds/autoadd/minecraft/chickenhurt/1.ogg",length=
 L["cow"]={{path="chatsounds/autoadd/minecraft/cow/1.ogg",length=1.370},{path="chatsounds/autoadd/minecraft/cow/2.ogg",length=1.370},{path="chatsounds/autoadd/minecraft/cow/3.ogg",length=2.000},{path="chatsounds/autoadd/minecraft/cow/4.ogg",length=1.699}}
 L["cowhurt"]={{path="chatsounds/autoadd/minecraft/cowhurt/1.ogg",length=0.452},{path="chatsounds/autoadd/minecraft/cowhurt/2.ogg",length=0.452},{path="chatsounds/autoadd/minecraft/cowhurt/3.ogg",length=0.507}}
 L["creeper"]={{path="chatsounds/autoadd/minecraft/creeper/1.ogg",length=0.461},{path="chatsounds/autoadd/minecraft/creeper/2.ogg",length=0.485},{path="chatsounds/autoadd/minecraft/creeper/3.ogg",length=0.461},{path="chatsounds/autoadd/minecraft/creeper/4.ogg",length=0.516}}
+L["creeperdeath"]={{path="chatsounds/autoadd/minecraft/creeperdeath.ogg",length=1.219}}
 L["donkey"]={{path="chatsounds/autoadd/minecraft/donkey/idle1.ogg",length=0.397},{path="chatsounds/autoadd/minecraft/donkey/idle2.ogg",length=0.376},{path="chatsounds/autoadd/minecraft/donkey/idle3.ogg",length=0.972}}
 L["donkey angry"]={{path="chatsounds/autoadd/minecraft/donkey angry/angry1.ogg",length=1.156},{path="chatsounds/autoadd/minecraft/donkey angry/angry2.ogg",length=0.972}}
 L["donkey death"]={{path="chatsounds/autoadd/minecraft/donkey death.ogg",length=1.378}}

@@ -325,7 +325,7 @@ L["frage"]={{path="chatsounds/autoadd/instagib/frage.ogg",length=5.215}}
 L["fragen"]={{path="chatsounds/autoadd/instagib/fragen.ogg",length=2.941}}
 L["fragen2"]={{path="chatsounds/autoadd/instagib/fragen2.ogg",length=1.750}}
 L["frau"]={{path="chatsounds/autoadd/instagib/frau.ogg",length=2.446}}
-L["freak"]={{path="chatsounds/autoadd/instagib/freak.ogg",length=15.086}}
+L["freaksong"]={{path="chatsounds/autoadd/instagib/freaksong.ogg",length=15.086}}
 L["freaky"]={{path="chatsounds/autoadd/instagib/freaky.ogg",length=3.935}}
 L["frech"]={{path="chatsounds/autoadd/instagib/frech.ogg",length=6.208}}
 L["freedom"]={{path="chatsounds/autoadd/instagib/freedom.ogg",length=3.300}}
