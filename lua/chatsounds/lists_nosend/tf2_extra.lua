@@ -65,6 +65,7 @@ L["did you think i would think"]={{path="chatsounds/autoadd/tf2_extra/did you th
 L["discucsid"]={{path="chatsounds/autoadd/tf2_extra/discucsid.ogg",length=0.774}}
 L["do you wish for me to kick you in the nutsack"]={{path="chatsounds/autoadd/tf2_extra/do you wish for me to kick you in the nutsack.ogg",length=3.980}}
 L["doctor"]={{path="chatsounds/autoadd/tf2_extra/doctor.ogg",length=0.920}}
+L["does she know how to make a grilled cheese"]={{path="chatsounds/autoadd/tf2_extra/does she know how to make a grilled cheese.ogg",length=3.593}}
 L["dont be such a baby"]={{path="chatsounds/autoadd/tf2_extra/dont be such a baby.ogg",length=1.328}}
 L["dreughhh"]={{path="chatsounds/autoadd/tf2_extra/dreughhh.ogg",length=1.647}}
 L["drinking intensifies"]={{path="chatsounds/autoadd/tf2_extra/drinking intensifies/1.ogg",length=2.233},{path="chatsounds/autoadd/tf2_extra/drinking intensifies/2.ogg",length=3.142}}
@@ -322,6 +323,7 @@ L["surprise big not"]={{path="chatsounds/autoadd/tf2_extra/surprise big not.ogg"
 L["sus among us"]={{path="chatsounds/autoadd/tf2_extra/sus among us.ogg",length=1.749}}
 L["suus distorted"]={{path="chatsounds/autoadd/tf2_extra/suus distorted.ogg",length=0.836}}
 L["taat yooy fiif dannad soos prouuorp"]={{path="chatsounds/autoadd/tf2_extra/taat yooy fiif dannad soos prouuorp.ogg",length=3.253}}
+L["take a look at this sheila"]={{path="chatsounds/autoadd/tf2_extra/take a look at this sheila.ogg",length=4.110}}
 L["tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs"]={{path="chatsounds/autoadd/tf2_extra/tall you fine dandies so proud so cocksure prancin aboot with your heads full of eyeballs.ogg",length=8.951}}
 L["tequila"]={{path="chatsounds/autoadd/tf2_extra/tequila.ogg",length=0.885}}
 L["tf2 heavy weapons guy"]={{path="chatsounds/autoadd/tf2_extra/tf2 heavy weapons guy.ogg",length=4.234}}
